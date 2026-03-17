@@ -55,9 +55,10 @@ async def fetch_tier_data(page, mode, rq_val, tier_name, tier_val=None):
         })
     return data
 
-async def main():
+async def scrape_blizzard():
     # Make sure output directory exists
-    os.makedirs('dataset', exist_ok=True)
+    out_dir = os.path.join(os.path.dirname(__file__), "..", "data", "raw")
+    os.makedirs(out_dir, exist_ok=True)
     
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -92,12 +93,13 @@ async def main():
         if all_data:
             # 3. Save to CSV
             df = pd.DataFrame(all_data)
-            out_file = "dataset/blizzard_stats.csv"
+            out_file = os.path.join(os.path.dirname(__file__), "..", "data", "raw", "blizzard_stats.csv")
             df.to_csv(out_file, index=False)
             print(f"Data saved to {out_file}")
-            print(df.head())
+            return all_data
         else:
             print("No data was collected.")
+            return None
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    asyncio.run(scrape_blizzard())

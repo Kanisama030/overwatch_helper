@@ -1,54 +1,54 @@
 Mode,Tier,Hero,Role,Win Rate (%),Pick Rate (%)
-Quick Play,All,Ana,SUPPORT,46.7,36.9
-Quick Play,All,Anran,DAMAGE,52.0,13.1
-Quick Play,All,Ashe,DAMAGE,50.3,11.9
-Quick Play,All,Baptiste,SUPPORT,46.2,5.9
-Quick Play,All,Bastion,DAMAGE,48.7,9.6
-Quick Play,All,Brigitte,SUPPORT,49.5,3.5
-Quick Play,All,Cassidy,DAMAGE,46.9,19.4
-Quick Play,All,D.Va,TANK,46.7,8.5
-Quick Play,All,Domina,TANK,52.7,13.1
-Quick Play,All,Doomfist,TANK,49.6,9.2
-Quick Play,All,Echo,DAMAGE,51.0,5.3
-Quick Play,All,Emre,DAMAGE,50.0,19.1
-Quick Play,All,Freja,DAMAGE,45.8,5.2
-Quick Play,All,Genji,DAMAGE,49.7,10.8
-Quick Play,All,Hanzo,DAMAGE,49.2,6.8
-Quick Play,All,Hazard,TANK,52.6,3.4
-Quick Play,All,Illari,SUPPORT,54.1,8.5
-Quick Play,All,Jetpack Cat,SUPPORT,49.6,13.0
-Quick Play,All,Junker Queen,TANK,52.5,3.1
-Quick Play,All,Junkrat,DAMAGE,51.5,7.4
-Quick Play,All,Juno,SUPPORT,50.5,13.0
-Quick Play,All,Kiriko,SUPPORT,47.9,36.3
-Quick Play,All,Lifeweaver,SUPPORT,47.6,6.7
-Quick Play,All,Lúcio,SUPPORT,51.4,5.8
-Quick Play,All,Mauga,TANK,50.1,4.6
-Quick Play,All,Mei,DAMAGE,56.7,9.3
-Quick Play,All,Mercy,SUPPORT,47.2,9.4
-Quick Play,All,Mizuki,SUPPORT,54.1,21.7
-Quick Play,All,Moira,SUPPORT,50.5,14.6
-Quick Play,All,Orisa,TANK,46.5,9.9
-Quick Play,All,Pharah,DAMAGE,51.7,5.3
-Quick Play,All,Ramattra,TANK,48.8,6.5
-Quick Play,All,Reaper,DAMAGE,52.6,9.5
-Quick Play,All,Reinhardt,TANK,51.7,7.7
-Quick Play,All,Roadhog,TANK,48.8,8.3
+Quick Play,All,Ana,SUPPORT,46.9,38.1
+Quick Play,All,Anran,DAMAGE,52.1,12.9
+Quick Play,All,Ashe,DAMAGE,50.4,11.8
+Quick Play,All,Baptiste,SUPPORT,46.1,6.0
+Quick Play,All,Bastion,DAMAGE,48.8,9.8
+Quick Play,All,Brigitte,SUPPORT,49.8,3.6
+Quick Play,All,Cassidy,DAMAGE,46.9,19.5
+Quick Play,All,D.Va,TANK,46.6,8.5
+Quick Play,All,Domina,TANK,52.6,12.7
+Quick Play,All,Doomfist,TANK,49.6,9.4
+Quick Play,All,Echo,DAMAGE,51.0,5.4
+Quick Play,All,Emre,DAMAGE,49.9,18.6
+Quick Play,All,Freja,DAMAGE,46.0,5.2
+Quick Play,All,Genji,DAMAGE,49.9,11.2
+Quick Play,All,Hanzo,DAMAGE,49.4,7.0
+Quick Play,All,Hazard,TANK,52.0,3.1
+Quick Play,All,Illari,SUPPORT,54.2,8.7
+Quick Play,All,Jetpack Cat,SUPPORT,49.5,13.0
+Quick Play,All,Junker Queen,TANK,53.1,3.1
+Quick Play,All,Junkrat,DAMAGE,51.4,7.7
+Quick Play,All,Juno,SUPPORT,50.6,13.3
+Quick Play,All,Kiriko,SUPPORT,47.7,34.2
+Quick Play,All,Lifeweaver,SUPPORT,47.5,6.3
+Quick Play,All,Lúcio,SUPPORT,51.4,6.3
+Quick Play,All,Mauga,TANK,50.0,4.6
+Quick Play,All,Mei,DAMAGE,56.0,8.2
+Quick Play,All,Mercy,SUPPORT,47.4,9.5
+Quick Play,All,Mizuki,SUPPORT,54.1,21.4
+Quick Play,All,Moira,SUPPORT,50.4,15.1
+Quick Play,All,Orisa,TANK,46.7,10.1
+Quick Play,All,Pharah,DAMAGE,52.0,5.4
+Quick Play,All,Ramattra,TANK,48.8,6.1
+Quick Play,All,Reaper,DAMAGE,53.0,10.0
+Quick Play,All,Reinhardt,TANK,51.8,7.9
+Quick Play,All,Roadhog,TANK,48.7,8.8
 Quick Play,All,Sigma,TANK,52.6,9.3
-Quick Play,All,Sojourn,DAMAGE,44.1,12.5
-Quick Play,All,Soldier: 76,DAMAGE,48.7,14.4
-Quick Play,All,Sombra,DAMAGE,47.3,6.1
-Quick Play,All,Symmetra,DAMAGE,56.4,3.4
-Quick Play,All,Torbjörn,DAMAGE,56.6,3.8
-Quick Play,All,Tracer,DAMAGE,49.1,7.9
-Quick Play,All,Vendetta,DAMAGE,51.9,12.2
-Quick Play,All,Venture,DAMAGE,52.2,2.7
-Quick Play,All,Widowmaker,DAMAGE,46.6,4.3
-Quick Play,All,Winston,TANK,51.4,6.7
-Quick Play,All,Wrecking Ball,TANK,49.4,3.3
-Quick Play,All,Wuyang,SUPPORT,52.2,14.9
-Quick Play,All,Zarya,TANK,48.2,6.3
-Quick Play,All,Zenyatta,SUPPORT,54.1,9.8
+Quick Play,All,Sojourn,DAMAGE,44.5,12.4
+Quick Play,All,Soldier: 76,DAMAGE,48.7,14.9
+Quick Play,All,Sombra,DAMAGE,47.5,6.3
+Quick Play,All,Symmetra,DAMAGE,56.7,3.4
+Quick Play,All,Torbjörn,DAMAGE,56.6,4.0
+Quick Play,All,Tracer,DAMAGE,49.2,8.0
+Quick Play,All,Vendetta,DAMAGE,51.8,10.9
+Quick Play,All,Venture,DAMAGE,52.3,2.8
+Quick Play,All,Widowmaker,DAMAGE,46.3,4.4
+Quick Play,All,Winston,TANK,51.4,6.6
+Quick Play,All,Wrecking Ball,TANK,49.8,3.4
+Quick Play,All,Wuyang,SUPPORT,52.1,14.1
+Quick Play,All,Zarya,TANK,48.4,6.4
+Quick Play,All,Zenyatta,SUPPORT,54.1,10.4
 Competitive,Bronze,Ana,SUPPORT,48.2,24.7
 Competitive,Bronze,Anran,DAMAGE,52.0,11.1
 Competitive,Bronze,Ashe,DAMAGE,51.9,12.6
@@ -199,106 +199,106 @@ Competitive,Gold,Wrecking Ball,TANK,50.5,3.2
 Competitive,Gold,Wuyang,SUPPORT,52.0,12.7
 Competitive,Gold,Zarya,TANK,48.3,8.7
 Competitive,Gold,Zenyatta,SUPPORT,51.9,11.0
-Competitive,Platinum,Ana,SUPPORT,49.1,52.8
-Competitive,Platinum,Anran,DAMAGE,51.5,9.5
-Competitive,Platinum,Ashe,DAMAGE,50.7,12.6
-Competitive,Platinum,Baptiste,SUPPORT,45.3,7.5
-Competitive,Platinum,Bastion,DAMAGE,45.8,5.6
-Competitive,Platinum,Brigitte,SUPPORT,45.1,3.7
-Competitive,Platinum,Cassidy,DAMAGE,46.6,26.0
-Competitive,Platinum,D.Va,TANK,49.3,8.4
-Competitive,Platinum,Domina,TANK,53.5,7.6
-Competitive,Platinum,Doomfist,TANK,50.0,7.2
-Competitive,Platinum,Echo,DAMAGE,52.5,6.2
-Competitive,Platinum,Emre,DAMAGE,51.5,21.3
-Competitive,Platinum,Freja,DAMAGE,48.1,4.5
-Competitive,Platinum,Genji,DAMAGE,52.0,15.7
-Competitive,Platinum,Hanzo,DAMAGE,49.6,7.3
-Competitive,Platinum,Hazard,TANK,51.6,2.8
-Competitive,Platinum,Illari,SUPPORT,53.6,11.8
-Competitive,Platinum,Jetpack Cat,SUPPORT,50.3,4.1
-Competitive,Platinum,Junker Queen,TANK,50.2,2.8
-Competitive,Platinum,Junkrat,DAMAGE,47.9,4.2
-Competitive,Platinum,Juno,SUPPORT,50.3,6.9
-Competitive,Platinum,Kiriko,SUPPORT,48.2,41.1
-Competitive,Platinum,Lifeweaver,SUPPORT,42.9,3.8
-Competitive,Platinum,Lúcio,SUPPORT,48.0,4.2
-Competitive,Platinum,Mauga,TANK,45.9,3.3
-Competitive,Platinum,Mei,DAMAGE,51.0,7.6
-Competitive,Platinum,Mercy,SUPPORT,50.3,6.8
-Competitive,Platinum,Mizuki,SUPPORT,51.9,16.0
-Competitive,Platinum,Moira,SUPPORT,47.7,14.2
-Competitive,Platinum,Orisa,TANK,46.4,9.7
-Competitive,Platinum,Pharah,DAMAGE,51.8,5.2
-Competitive,Platinum,Ramattra,TANK,46.4,5.0
-Competitive,Platinum,Reaper,DAMAGE,50.4,11.1
-Competitive,Platinum,Reinhardt,TANK,48.1,7.2
-Competitive,Platinum,Roadhog,TANK,48.5,7.6
-Competitive,Platinum,Sigma,TANK,53.2,13.0
-Competitive,Platinum,Sojourn,DAMAGE,45.4,14.4
-Competitive,Platinum,Soldier: 76,DAMAGE,47.8,13.9
-Competitive,Platinum,Sombra,DAMAGE,48.6,4.0
+Competitive,Platinum,Ana,SUPPORT,49.4,53.9
+Competitive,Platinum,Anran,DAMAGE,51.4,9.2
+Competitive,Platinum,Ashe,DAMAGE,51.0,12.6
+Competitive,Platinum,Baptiste,SUPPORT,44.7,7.5
+Competitive,Platinum,Bastion,DAMAGE,46.3,5.9
+Competitive,Platinum,Brigitte,SUPPORT,46.0,3.7
+Competitive,Platinum,Cassidy,DAMAGE,46.2,25.9
+Competitive,Platinum,D.Va,TANK,48.6,8.3
+Competitive,Platinum,Domina,TANK,53.3,7.5
+Competitive,Platinum,Doomfist,TANK,50.6,7.3
+Competitive,Platinum,Echo,DAMAGE,52.2,6.1
+Competitive,Platinum,Emre,DAMAGE,51.4,20.8
+Competitive,Platinum,Freja,DAMAGE,47.3,4.6
+Competitive,Platinum,Genji,DAMAGE,51.5,16.0
+Competitive,Platinum,Hanzo,DAMAGE,49.5,7.3
+Competitive,Platinum,Hazard,TANK,52.6,2.9
+Competitive,Platinum,Illari,SUPPORT,53.8,11.7
+Competitive,Platinum,Jetpack Cat,SUPPORT,49.7,4.2
+Competitive,Platinum,Junker Queen,TANK,50.3,2.7
+Competitive,Platinum,Junkrat,DAMAGE,48.5,4.4
+Competitive,Platinum,Juno,SUPPORT,50.0,7.0
+Competitive,Platinum,Kiriko,SUPPORT,47.8,39.8
+Competitive,Platinum,Lifeweaver,SUPPORT,43.1,3.8
+Competitive,Platinum,Lúcio,SUPPORT,48.1,4.3
+Competitive,Platinum,Mauga,TANK,46.6,3.3
+Competitive,Platinum,Mei,DAMAGE,50.4,7.3
+Competitive,Platinum,Mercy,SUPPORT,49.6,7.0
+Competitive,Platinum,Mizuki,SUPPORT,52.0,15.9
+Competitive,Platinum,Moira,SUPPORT,47.8,14.3
+Competitive,Platinum,Orisa,TANK,46.0,9.7
+Competitive,Platinum,Pharah,DAMAGE,52.6,5.4
+Competitive,Platinum,Ramattra,TANK,45.8,4.7
+Competitive,Platinum,Reaper,DAMAGE,50.5,11.3
+Competitive,Platinum,Reinhardt,TANK,48.4,7.4
+Competitive,Platinum,Roadhog,TANK,47.2,7.8
+Competitive,Platinum,Sigma,TANK,53.1,13.2
+Competitive,Platinum,Sojourn,DAMAGE,45.5,14.1
+Competitive,Platinum,Soldier: 76,DAMAGE,48.1,14.4
+Competitive,Platinum,Sombra,DAMAGE,48.7,3.9
 Competitive,Platinum,Symmetra,DAMAGE,53.5,4.2
-Competitive,Platinum,Torbjörn,DAMAGE,48.2,3.5
-Competitive,Platinum,Tracer,DAMAGE,49.7,11.5
-Competitive,Platinum,Vendetta,DAMAGE,51.7,3.5
-Competitive,Platinum,Venture,DAMAGE,50.6,3.7
-Competitive,Platinum,Widowmaker,DAMAGE,51.0,4.6
-Competitive,Platinum,Winston,TANK,51.3,12.8
-Competitive,Platinum,Wrecking Ball,TANK,49.2,3.9
-Competitive,Platinum,Wuyang,SUPPORT,53.0,15.2
-Competitive,Platinum,Zarya,TANK,47.6,8.6
-Competitive,Platinum,Zenyatta,SUPPORT,51.3,12.1
-Competitive,Diamond,Ana,SUPPORT,49.7,54.4
-Competitive,Diamond,Anran,DAMAGE,50.4,7.0
-Competitive,Diamond,Ashe,DAMAGE,50.5,11.0
-Competitive,Diamond,Baptiste,SUPPORT,46.1,8.3
-Competitive,Diamond,Bastion,DAMAGE,45.5,3.8
-Competitive,Diamond,Brigitte,SUPPORT,46.3,5.0
-Competitive,Diamond,Cassidy,DAMAGE,45.7,28.5
-Competitive,Diamond,D.Va,TANK,48.7,8.5
-Competitive,Diamond,Domina,TANK,55.0,7.2
-Competitive,Diamond,Doomfist,TANK,48.6,9.1
-Competitive,Diamond,Echo,DAMAGE,53.4,7.6
-Competitive,Diamond,Emre,DAMAGE,53.1,22.7
-Competitive,Diamond,Freja,DAMAGE,47.0,5.0
-Competitive,Diamond,Genji,DAMAGE,51.4,16.7
-Competitive,Diamond,Hanzo,DAMAGE,48.0,7.6
-Competitive,Diamond,Hazard,TANK,52.9,3.2
-Competitive,Diamond,Illari,SUPPORT,55.4,14.0
-Competitive,Diamond,Jetpack Cat,SUPPORT,47.8,4.4
-Competitive,Diamond,Junker Queen,TANK,49.5,2.7
-Competitive,Diamond,Junkrat,DAMAGE,47.2,3.0
-Competitive,Diamond,Juno,SUPPORT,48.1,4.0
-Competitive,Diamond,Kiriko,SUPPORT,48.2,40.4
-Competitive,Diamond,Lifeweaver,SUPPORT,38.1,3.2
-Competitive,Diamond,Lúcio,SUPPORT,49.3,4.6
-Competitive,Diamond,Mauga,TANK,44.6,2.7
-Competitive,Diamond,Mei,DAMAGE,51.2,6.6
-Competitive,Diamond,Mercy,SUPPORT,48.7,5.7
-Competitive,Diamond,Mizuki,SUPPORT,50.5,15.3
-Competitive,Diamond,Moira,SUPPORT,47.5,10.1
-Competitive,Diamond,Orisa,TANK,48.2,7.3
-Competitive,Diamond,Pharah,DAMAGE,53.7,4.9
-Competitive,Diamond,Ramattra,TANK,45.6,3.6
-Competitive,Diamond,Reaper,DAMAGE,50.1,8.9
-Competitive,Diamond,Reinhardt,TANK,44.8,5.9
-Competitive,Diamond,Roadhog,TANK,46.6,7.7
-Competitive,Diamond,Sigma,TANK,53.8,12.9
-Competitive,Diamond,Sojourn,DAMAGE,45.9,15.4
-Competitive,Diamond,Soldier: 76,DAMAGE,49.2,10.5
-Competitive,Diamond,Sombra,DAMAGE,48.6,4.5
-Competitive,Diamond,Symmetra,DAMAGE,52.2,3.6
-Competitive,Diamond,Torbjörn,DAMAGE,48.4,3.4
-Competitive,Diamond,Tracer,DAMAGE,50.5,16.9
-Competitive,Diamond,Vendetta,DAMAGE,51.2,3.4
-Competitive,Diamond,Venture,DAMAGE,52.0,4.2
-Competitive,Diamond,Widowmaker,DAMAGE,48.9,4.8
-Competitive,Diamond,Winston,TANK,51.6,16.9
-Competitive,Diamond,Wrecking Ball,TANK,47.5,4.7
-Competitive,Diamond,Wuyang,SUPPORT,53.4,18.2
-Competitive,Diamond,Zarya,TANK,49.4,7.7
-Competitive,Diamond,Zenyatta,SUPPORT,51.2,12.4
+Competitive,Platinum,Torbjörn,DAMAGE,48.9,3.5
+Competitive,Platinum,Tracer,DAMAGE,50.1,11.2
+Competitive,Platinum,Vendetta,DAMAGE,51.7,3.4
+Competitive,Platinum,Venture,DAMAGE,51.2,4.0
+Competitive,Platinum,Widowmaker,DAMAGE,50.8,4.4
+Competitive,Platinum,Winston,TANK,51.8,12.9
+Competitive,Platinum,Wrecking Ball,TANK,49.3,3.7
+Competitive,Platinum,Wuyang,SUPPORT,53.0,14.7
+Competitive,Platinum,Zarya,TANK,48.0,8.6
+Competitive,Platinum,Zenyatta,SUPPORT,51.7,12.3
+Competitive,Diamond,Ana,SUPPORT,50.1,56.0
+Competitive,Diamond,Anran,DAMAGE,50.6,6.8
+Competitive,Diamond,Ashe,DAMAGE,50.4,11.2
+Competitive,Diamond,Baptiste,SUPPORT,45.1,8.0
+Competitive,Diamond,Bastion,DAMAGE,45.8,3.7
+Competitive,Diamond,Brigitte,SUPPORT,46.9,5.2
+Competitive,Diamond,Cassidy,DAMAGE,45.9,28.6
+Competitive,Diamond,D.Va,TANK,48.8,8.1
+Competitive,Diamond,Domina,TANK,54.3,6.9
+Competitive,Diamond,Doomfist,TANK,49.2,9.3
+Competitive,Diamond,Echo,DAMAGE,54.0,7.9
+Competitive,Diamond,Emre,DAMAGE,52.1,22.0
+Competitive,Diamond,Freja,DAMAGE,47.4,4.9
+Competitive,Diamond,Genji,DAMAGE,51.4,16.9
+Competitive,Diamond,Hanzo,DAMAGE,48.7,7.6
+Competitive,Diamond,Hazard,TANK,52.5,3.3
+Competitive,Diamond,Illari,SUPPORT,54.4,13.7
+Competitive,Diamond,Jetpack Cat,SUPPORT,48.9,4.5
+Competitive,Diamond,Junker Queen,TANK,48.5,2.5
+Competitive,Diamond,Junkrat,DAMAGE,48.2,3.0
+Competitive,Diamond,Juno,SUPPORT,49.1,4.1
+Competitive,Diamond,Kiriko,SUPPORT,47.6,39.8
+Competitive,Diamond,Lifeweaver,SUPPORT,40.1,3.1
+Competitive,Diamond,Lúcio,SUPPORT,49.5,4.4
+Competitive,Diamond,Mauga,TANK,46.1,3.0
+Competitive,Diamond,Mei,DAMAGE,50.0,6.1
+Competitive,Diamond,Mercy,SUPPORT,48.9,6.0
+Competitive,Diamond,Mizuki,SUPPORT,51.1,14.7
+Competitive,Diamond,Moira,SUPPORT,47.4,9.6
+Competitive,Diamond,Orisa,TANK,46.4,7.5
+Competitive,Diamond,Pharah,DAMAGE,53.7,5.1
+Competitive,Diamond,Ramattra,TANK,45.4,3.5
+Competitive,Diamond,Reaper,DAMAGE,50.2,9.3
+Competitive,Diamond,Reinhardt,TANK,45.6,5.9
+Competitive,Diamond,Roadhog,TANK,46.2,7.7
+Competitive,Diamond,Sigma,TANK,53.8,12.7
+Competitive,Diamond,Sojourn,DAMAGE,46.1,15.4
+Competitive,Diamond,Soldier: 76,DAMAGE,49.5,10.6
+Competitive,Diamond,Sombra,DAMAGE,48.2,4.6
+Competitive,Diamond,Symmetra,DAMAGE,51.9,3.6
+Competitive,Diamond,Torbjörn,DAMAGE,48.2,3.3
+Competitive,Diamond,Tracer,DAMAGE,50.4,16.9
+Competitive,Diamond,Vendetta,DAMAGE,50.4,3.4
+Competitive,Diamond,Venture,DAMAGE,51.8,4.3
+Competitive,Diamond,Widowmaker,DAMAGE,49.2,4.7
+Competitive,Diamond,Winston,TANK,52.3,17.1
+Competitive,Diamond,Wrecking Ball,TANK,47.6,4.6
+Competitive,Diamond,Wuyang,SUPPORT,53.0,18.1
+Competitive,Diamond,Zarya,TANK,49.4,7.8
+Competitive,Diamond,Zenyatta,SUPPORT,51.5,12.8
 Competitive,Master,Ana,SUPPORT,50.5,50.3
 Competitive,Master,Anran,DAMAGE,46.1,3.7
 Competitive,Master,Ashe,DAMAGE,50.6,10.2

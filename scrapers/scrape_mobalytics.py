@@ -209,12 +209,15 @@ async def scrape_mobalytics():
         all_data["heroes"] = list(hero_map.values())
         
         if all_data["heroes"]:
-            out_file = "dataset/mobalytics_heroes.json"
+            out_file = os.path.join(os.path.dirname(__file__), "..", "data", "raw", "mobalytics_heroes.json")
+            os.makedirs(os.path.dirname(out_file), exist_ok=True)
             with open(out_file, 'w', encoding='utf-8') as f:
                 json.dump(all_data, f, ensure_ascii=False, indent=2)
             print(f"\n✅ Successfully saved cleaned, deduplicated, and substring-filtered guide to {out_file}")
+            return all_data
         else:
             print("No data collected!")
+            return None
 
 if __name__ == "__main__":
     asyncio.run(scrape_mobalytics())

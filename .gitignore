@@ -7,4 +7,11 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 /.playwright-mcp
-/.agents
+.env
+
+#Python
+\__pycache__
+
+#Github
+/.agents/
+/.github/
