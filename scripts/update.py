@@ -16,18 +16,18 @@ except ImportError as e:
     sys.exit(1)
 
 async def main():
-    print("🚀 開始全面更新 Overwatch 數據...")
+    print("🚀 開始全面更新 Overwatch 數據（含地圖維度）...")
     
     # 1. 抓取 Mobalytics (英雄指南與分級)
     print("\n--- [1/3] 抓取 Mobalytics 指南 ---")
     await scrape_mobalytics()
     
-    # 2. 抓取 Blizzard Stats (勝率與登場率)
-    print("\n--- [2/3] 抓取 Blizzard 數據庫 ---")
+    # 2. 抓取 Blizzard Stats (勝率與登場率，包含 all-maps 與逐地圖)
+    print("\n--- [2/3] 抓取 Blizzard 數據（all-maps + 逐地圖） ---")
     await scrape_blizzard()
     
-    # 3. 整合 JSON 大表
-    print("\n--- [3/3] 正整合資料庫中 ---")
+    # 3. 整合 JSON 大表與地圖維度統計
+    print("\n--- [3/3] 正整合資料庫並輸出 overwatch_stats.json ---")
     merge_overwatch_data()
     
     print("\n✨ 全部更新流程已完成！")

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16 20:46:02",
+  "last_updated": "2026-03-17 22:14:10",
   "heroes": [
     {
       "name": "Domina",
@@ -9,62 +9,6 @@
         "win_rate": 52.6,
         "pick_rate": 12.7,
         "role": "TANK"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 52.6,
-            "pick_rate": 12.7,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 52.3,
-            "pick_rate": 8.9,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 53.3,
-            "pick_rate": 8.7,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 53.9,
-            "pick_rate": 8.1,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 53.3,
-            "pick_rate": 7.5,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 54.3,
-            "pick_rate": 6.9,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 53.4,
-            "pick_rate": 7.0,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 51.0,
-            "pick_rate": 9.0,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 53.6,
-            "pick_rate": 8.0,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 53.6,
-            "pick_rate": 8.0,
-            "role": "TANK"
-          }
-        }
       },
       "guide": [
         {
@@ -320,62 +264,6 @@
         "win_rate": 48.4,
         "pick_rate": 6.4,
         "role": "TANK"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 48.4,
-            "pick_rate": 6.4,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 52.0,
-            "pick_rate": 5.7,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 49.7,
-            "pick_rate": 8.0,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 48.3,
-            "pick_rate": 8.7,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 48.0,
-            "pick_rate": 8.6,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 49.4,
-            "pick_rate": 7.8,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 52.3,
-            "pick_rate": 6.6,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 50.3,
-            "pick_rate": 7.8,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 48.8,
-            "pick_rate": 8.2,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 48.8,
-            "pick_rate": 8.2,
-            "role": "TANK"
-          }
-        }
       },
       "guide": [
         {
@@ -699,62 +587,6 @@
         "pick_rate": 9.3,
         "role": "TANK"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 52.6,
-            "pick_rate": 9.3,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 51.8,
-            "pick_rate": 16.2,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 52.2,
-            "pick_rate": 15.3,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 52.9,
-            "pick_rate": 14.1,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 53.1,
-            "pick_rate": 13.2,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 53.8,
-            "pick_rate": 12.7,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 54.4,
-            "pick_rate": 14.5,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 56.0,
-            "pick_rate": 15.7,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 52.9,
-            "pick_rate": 14.1,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 52.9,
-            "pick_rate": 14.1,
-            "role": "TANK"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -1061,62 +893,6 @@
         "pick_rate": 8.0,
         "role": "DAMAGE"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 49.2,
-            "pick_rate": 8.0,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 52.2,
-            "pick_rate": 5.8,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 48.7,
-            "pick_rate": 6.4,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 48.8,
-            "pick_rate": 7.7,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 50.1,
-            "pick_rate": 11.2,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 50.4,
-            "pick_rate": 16.9,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 52.7,
-            "pick_rate": 26.5,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 54.7,
-            "pick_rate": 39.2,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 49.8,
-            "pick_rate": 10.0,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 49.8,
-            "pick_rate": 10.0,
-            "role": "DAMAGE"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -1365,62 +1141,6 @@
         "win_rate": 51.8,
         "pick_rate": 10.9,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 51.8,
-            "pick_rate": 10.9,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 52.5,
-            "pick_rate": 2.7,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 54.6,
-            "pick_rate": 3.4,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 52.2,
-            "pick_rate": 3.6,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 51.7,
-            "pick_rate": 3.4,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 50.4,
-            "pick_rate": 3.4,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 49.4,
-            "pick_rate": 3.1,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 50.2,
-            "pick_rate": 5.2,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 52.4,
-            "pick_rate": 3.5,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 52.4,
-            "pick_rate": 3.5,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -1686,62 +1406,6 @@
         "win_rate": 44.5,
         "pick_rate": 12.4,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 44.5,
-            "pick_rate": 12.4,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 42.9,
-            "pick_rate": 20.4,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 44.7,
-            "pick_rate": 16.5,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 44.5,
-            "pick_rate": 14.6,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 45.5,
-            "pick_rate": 14.1,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 46.1,
-            "pick_rate": 15.4,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 49.1,
-            "pick_rate": 17.9,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 49.9,
-            "pick_rate": 21.6,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 45.0,
-            "pick_rate": 15.5,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 45.0,
-            "pick_rate": 15.5,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -2040,62 +1704,6 @@
         "pick_rate": 34.2,
         "role": "SUPPORT"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 47.7,
-            "pick_rate": 34.2,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.4,
-            "pick_rate": 41.3,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 48.3,
-            "pick_rate": 41.4,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 48.2,
-            "pick_rate": 41.1,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 47.8,
-            "pick_rate": 39.8,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 47.6,
-            "pick_rate": 39.8,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 47.6,
-            "pick_rate": 39.6,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 46.6,
-            "pick_rate": 44.7,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 48.2,
-            "pick_rate": 41.1,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 48.2,
-            "pick_rate": 41.1,
-            "role": "SUPPORT"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -2374,62 +1982,6 @@
         "pick_rate": 6.3,
         "role": "SUPPORT"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 51.4,
-            "pick_rate": 6.3,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 46.1,
-            "pick_rate": 7.0,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 48.0,
-            "pick_rate": 6.2,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 47.8,
-            "pick_rate": 5.2,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 48.1,
-            "pick_rate": 4.3,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 49.5,
-            "pick_rate": 4.4,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 45.9,
-            "pick_rate": 5.4,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 46.1,
-            "pick_rate": 7.7,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 47.9,
-            "pick_rate": 5.2,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 47.9,
-            "pick_rate": 5.2,
-            "role": "SUPPORT"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -2448,62 +2000,6 @@
         "win_rate": 54.2,
         "pick_rate": 8.7,
         "role": "SUPPORT"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 54.2,
-            "pick_rate": 8.7,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 53.2,
-            "pick_rate": 12.7,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 52.2,
-            "pick_rate": 12.1,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 53.1,
-            "pick_rate": 11.5,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 53.8,
-            "pick_rate": 11.7,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 54.4,
-            "pick_rate": 13.7,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 54.8,
-            "pick_rate": 18.9,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 54.7,
-            "pick_rate": 20.5,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 53.4,
-            "pick_rate": 12.3,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 53.4,
-            "pick_rate": 12.3,
-            "role": "SUPPORT"
-          }
-        }
       },
       "guide": [
         {
@@ -2791,62 +2287,6 @@
         "win_rate": 46.6,
         "pick_rate": 8.5,
         "role": "TANK"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 46.6,
-            "pick_rate": 8.5,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 47.0,
-            "pick_rate": 10.2,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 47.0,
-            "pick_rate": 9.1,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 47.3,
-            "pick_rate": 8.5,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 48.6,
-            "pick_rate": 8.3,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 48.8,
-            "pick_rate": 8.1,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 48.8,
-            "pick_rate": 7.1,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 46.9,
-            "pick_rate": 12.1,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 47.9,
-            "pick_rate": 8.6,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 47.9,
-            "pick_rate": 8.6,
-            "role": "TANK"
-          }
-        }
       },
       "guide": [
         {
@@ -3159,62 +2599,6 @@
         "pick_rate": 6.6,
         "role": "TANK"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 51.4,
-            "pick_rate": 6.6,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 52.7,
-            "pick_rate": 6.6,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 50.6,
-            "pick_rate": 8.3,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 50.5,
-            "pick_rate": 10.3,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 51.8,
-            "pick_rate": 12.9,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 52.3,
-            "pick_rate": 17.1,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 50.6,
-            "pick_rate": 21.9,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 53.2,
-            "pick_rate": 19.4,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 51.0,
-            "pick_rate": 11.4,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 51.0,
-            "pick_rate": 11.4,
-            "role": "TANK"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -3497,62 +2881,6 @@
         "pick_rate": 8.8,
         "role": "TANK"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 48.7,
-            "pick_rate": 8.8,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.5,
-            "pick_rate": 5.2,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 46.3,
-            "pick_rate": 6.2,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 47.9,
-            "pick_rate": 6.8,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 47.2,
-            "pick_rate": 7.8,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 46.2,
-            "pick_rate": 7.7,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 48.8,
-            "pick_rate": 6.8,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 46.5,
-            "pick_rate": 6.5,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 47.6,
-            "pick_rate": 6.9,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 47.6,
-            "pick_rate": 6.9,
-            "role": "TANK"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -3797,62 +3125,6 @@
         "win_rate": 49.9,
         "pick_rate": 18.6,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 49.9,
-            "pick_rate": 18.6,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 50.0,
-            "pick_rate": 18.7,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 50.3,
-            "pick_rate": 19.9,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 50.3,
-            "pick_rate": 20.7,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 51.4,
-            "pick_rate": 20.8,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 52.1,
-            "pick_rate": 22.0,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 53.3,
-            "pick_rate": 24.4,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 50.9,
-            "pick_rate": 28.8,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 51.0,
-            "pick_rate": 20.9,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 51.0,
-            "pick_rate": 20.9,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -4100,62 +3372,6 @@
         "win_rate": 50.4,
         "pick_rate": 11.8,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 50.4,
-            "pick_rate": 11.8,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 51.9,
-            "pick_rate": 12.6,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 50.2,
-            "pick_rate": 12.9,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 50.2,
-            "pick_rate": 13.2,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 51.0,
-            "pick_rate": 12.6,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 50.4,
-            "pick_rate": 11.2,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 50.6,
-            "pick_rate": 10.2,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 46.2,
-            "pick_rate": 8.8,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 50.5,
-            "pick_rate": 12.6,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 50.5,
-            "pick_rate": 12.6,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -4431,62 +3647,6 @@
         "win_rate": 51.0,
         "pick_rate": 5.4,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 51.0,
-            "pick_rate": 5.4,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.7,
-            "pick_rate": 4.8,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 49.9,
-            "pick_rate": 4.7,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 51.3,
-            "pick_rate": 5.0,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 52.2,
-            "pick_rate": 6.1,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 54.0,
-            "pick_rate": 7.9,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 53.0,
-            "pick_rate": 9.4,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 55.3,
-            "pick_rate": 11.2,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 51.7,
-            "pick_rate": 5.7,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 51.7,
-            "pick_rate": 5.7,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -4768,62 +3928,6 @@
         "win_rate": 46.9,
         "pick_rate": 19.5,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 46.9,
-            "pick_rate": 19.5,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.7,
-            "pick_rate": 14.0,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 46.8,
-            "pick_rate": 17.5,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 46.8,
-            "pick_rate": 21.2,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 46.2,
-            "pick_rate": 25.9,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 45.9,
-            "pick_rate": 28.6,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 45.8,
-            "pick_rate": 26.7,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 47.5,
-            "pick_rate": 25.2,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 46.7,
-            "pick_rate": 22.3,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 46.7,
-            "pick_rate": 22.3,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -5107,62 +4211,6 @@
         "pick_rate": 3.4,
         "role": "DAMAGE"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 56.7,
-            "pick_rate": 3.4,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 52.9,
-            "pick_rate": 3.9,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 55.1,
-            "pick_rate": 4.2,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 54.2,
-            "pick_rate": 4.5,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 53.5,
-            "pick_rate": 4.2,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 51.9,
-            "pick_rate": 3.6,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 49.6,
-            "pick_rate": 3.4,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 52.4,
-            "pick_rate": 3.4,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 53.9,
-            "pick_rate": 4.2,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 53.9,
-            "pick_rate": 4.2,
-            "role": "DAMAGE"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -5437,62 +4485,6 @@
         "pick_rate": 14.9,
         "role": "DAMAGE"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 48.7,
-            "pick_rate": 14.9,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.0,
-            "pick_rate": 20.0,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 48.0,
-            "pick_rate": 19.3,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 48.4,
-            "pick_rate": 17.8,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 48.1,
-            "pick_rate": 14.4,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 49.5,
-            "pick_rate": 10.6,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 47.0,
-            "pick_rate": 7.7,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 49.3,
-            "pick_rate": 5.1,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 48.2,
-            "pick_rate": 16.0,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 48.2,
-            "pick_rate": 16.0,
-            "role": "DAMAGE"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -5759,62 +4751,6 @@
         "win_rate": 49.9,
         "pick_rate": 11.2,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 49.9,
-            "pick_rate": 11.2,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 53.5,
-            "pick_rate": 7.4,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 52.2,
-            "pick_rate": 9.9,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 51.4,
-            "pick_rate": 12.9,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 51.5,
-            "pick_rate": 16.0,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 51.4,
-            "pick_rate": 16.9,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 51.1,
-            "pick_rate": 14.1,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 49.5,
-            "pick_rate": 9.3,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 51.8,
-            "pick_rate": 13.2,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 51.8,
-            "pick_rate": 13.2,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -6117,62 +5053,6 @@
         "pick_rate": 38.1,
         "role": "SUPPORT"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 46.9,
-            "pick_rate": 38.1,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.2,
-            "pick_rate": 24.7,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 49.0,
-            "pick_rate": 34.6,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 48.6,
-            "pick_rate": 44.8,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 49.4,
-            "pick_rate": 53.9,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 50.1,
-            "pick_rate": 56.0,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 50.5,
-            "pick_rate": 50.3,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 51.0,
-            "pick_rate": 41.0,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 49.0,
-            "pick_rate": 44.8,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 49.0,
-            "pick_rate": 44.8,
-            "role": "SUPPORT"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -6452,62 +5332,6 @@
         "pick_rate": 13.0,
         "role": "SUPPORT"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 49.5,
-            "pick_rate": 13.0,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 50.8,
-            "pick_rate": 3.0,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 50.4,
-            "pick_rate": 3.5,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 51.3,
-            "pick_rate": 4.0,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 49.7,
-            "pick_rate": 4.2,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 48.9,
-            "pick_rate": 4.5,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 49.5,
-            "pick_rate": 5.1,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 53.3,
-            "pick_rate": 8.0,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 50.4,
-            "pick_rate": 4.0,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 50.4,
-            "pick_rate": 4.0,
-            "role": "SUPPORT"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -6526,62 +5350,6 @@
         "win_rate": 54.1,
         "pick_rate": 21.4,
         "role": "SUPPORT"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 54.1,
-            "pick_rate": 21.4,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 54.4,
-            "pick_rate": 18.0,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 52.4,
-            "pick_rate": 17.7,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 52.6,
-            "pick_rate": 17.1,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 52.0,
-            "pick_rate": 15.9,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 51.1,
-            "pick_rate": 14.7,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 51.6,
-            "pick_rate": 13.9,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 53.5,
-            "pick_rate": 18.0,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 52.3,
-            "pick_rate": 16.7,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 52.3,
-            "pick_rate": 16.7,
-            "role": "SUPPORT"
-          }
-        }
       },
       "guide": [
         {
@@ -6844,62 +5612,6 @@
         "pick_rate": 14.1,
         "role": "SUPPORT"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 52.1,
-            "pick_rate": 14.1,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 53.7,
-            "pick_rate": 13.2,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 51.8,
-            "pick_rate": 11.9,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 52.0,
-            "pick_rate": 12.7,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 53.0,
-            "pick_rate": 14.7,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 53.0,
-            "pick_rate": 18.1,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 53.4,
-            "pick_rate": 22.8,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 53.2,
-            "pick_rate": 22.1,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 52.6,
-            "pick_rate": 14.1,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 52.6,
-            "pick_rate": 14.1,
-            "role": "SUPPORT"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -7152,62 +5864,6 @@
         "win_rate": 52.0,
         "pick_rate": 3.1,
         "role": "TANK"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 52.0,
-            "pick_rate": 3.1,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 47.2,
-            "pick_rate": 2.3,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 49.1,
-            "pick_rate": 2.1,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 52.5,
-            "pick_rate": 2.5,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 52.6,
-            "pick_rate": 2.9,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 52.5,
-            "pick_rate": 3.3,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 52.0,
-            "pick_rate": 3.1,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 55.0,
-            "pick_rate": 3.9,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 51.4,
-            "pick_rate": 2.6,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 51.4,
-            "pick_rate": 2.6,
-            "role": "TANK"
-          }
-        }
       },
       "guide": [
         {
@@ -7508,62 +6164,6 @@
         "win_rate": 51.8,
         "pick_rate": 7.9,
         "role": "TANK"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 51.8,
-            "pick_rate": 7.9,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 49.2,
-            "pick_rate": 8.3,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 51.7,
-            "pick_rate": 8.1,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 49.5,
-            "pick_rate": 7.9,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 48.4,
-            "pick_rate": 7.4,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 45.6,
-            "pick_rate": 5.9,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 42.9,
-            "pick_rate": 5.5,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 38.9,
-            "pick_rate": 4.0,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 49.1,
-            "pick_rate": 7.5,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 49.1,
-            "pick_rate": 7.5,
-            "role": "TANK"
-          }
-        }
       },
       "guide": [
         {
@@ -7917,62 +6517,6 @@
         "pick_rate": 3.1,
         "role": "TANK"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 53.1,
-            "pick_rate": 3.1,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.7,
-            "pick_rate": 2.1,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 50.3,
-            "pick_rate": 2.3,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 50.6,
-            "pick_rate": 2.6,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 50.3,
-            "pick_rate": 2.7,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 48.5,
-            "pick_rate": 2.5,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 51.1,
-            "pick_rate": 1.6,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 41.9,
-            "pick_rate": 0.9,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 50.2,
-            "pick_rate": 2.5,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 50.2,
-            "pick_rate": 2.5,
-            "role": "TANK"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -8258,62 +6802,6 @@
         "win_rate": 50.0,
         "pick_rate": 4.6,
         "role": "TANK"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 50.0,
-            "pick_rate": 4.6,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 46.9,
-            "pick_rate": 4.7,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 47.2,
-            "pick_rate": 4.1,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 46.6,
-            "pick_rate": 3.7,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 46.6,
-            "pick_rate": 3.3,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 46.1,
-            "pick_rate": 3.0,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 47.3,
-            "pick_rate": 2.4,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 41.8,
-            "pick_rate": 2.0,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 46.4,
-            "pick_rate": 3.6,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 46.4,
-            "pick_rate": 3.6,
-            "role": "TANK"
-          }
-        }
       },
       "guide": [
         {
@@ -8626,62 +7114,6 @@
         "pick_rate": 10.1,
         "role": "TANK"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 46.7,
-            "pick_rate": 10.1,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 46.8,
-            "pick_rate": 14.0,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 46.9,
-            "pick_rate": 12.9,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 46.6,
-            "pick_rate": 12.1,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 46.0,
-            "pick_rate": 9.7,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 46.4,
-            "pick_rate": 7.5,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 44.1,
-            "pick_rate": 4.9,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 49.3,
-            "pick_rate": 4.0,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 46.7,
-            "pick_rate": 11.0,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 46.7,
-            "pick_rate": 11.0,
-            "role": "TANK"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -8942,62 +7374,6 @@
         "win_rate": 49.6,
         "pick_rate": 9.4,
         "role": "TANK"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 49.6,
-            "pick_rate": 9.4,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 52.8,
-            "pick_rate": 3.7,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 50.9,
-            "pick_rate": 4.6,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 50.6,
-            "pick_rate": 5.6,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 50.6,
-            "pick_rate": 7.3,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 49.2,
-            "pick_rate": 9.3,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 47.3,
-            "pick_rate": 9.7,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 45.2,
-            "pick_rate": 6.4,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 50.1,
-            "pick_rate": 6.2,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 50.1,
-            "pick_rate": 6.2,
-            "role": "TANK"
-          }
-        }
       },
       "guide": [
         {
@@ -9303,62 +7679,6 @@
         "pick_rate": 12.9,
         "role": "DAMAGE"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 52.1,
-            "pick_rate": 12.9,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 52.0,
-            "pick_rate": 11.1,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 52.0,
-            "pick_rate": 11.7,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 51.6,
-            "pick_rate": 10.8,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 51.4,
-            "pick_rate": 9.2,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 50.6,
-            "pick_rate": 6.8,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 46.1,
-            "pick_rate": 3.7,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 32.5,
-            "pick_rate": 1.8,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 51.5,
-            "pick_rate": 10.0,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 51.5,
-            "pick_rate": 10.0,
-            "role": "DAMAGE"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -9621,62 +7941,6 @@
         "win_rate": 48.8,
         "pick_rate": 9.8,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 48.8,
-            "pick_rate": 9.8,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.6,
-            "pick_rate": 16.6,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 47.3,
-            "pick_rate": 12.1,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 46.7,
-            "pick_rate": 8.4,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 46.3,
-            "pick_rate": 5.9,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 45.8,
-            "pick_rate": 3.7,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 43.7,
-            "pick_rate": 2.4,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 43.4,
-            "pick_rate": 1.4,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 46.8,
-            "pick_rate": 8.2,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 46.8,
-            "pick_rate": 8.2,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -9959,62 +8223,6 @@
         "pick_rate": 5.2,
         "role": "DAMAGE"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 46.0,
-            "pick_rate": 5.2,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 47.2,
-            "pick_rate": 4.4,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 47.2,
-            "pick_rate": 4.1,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 46.5,
-            "pick_rate": 4.4,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 47.3,
-            "pick_rate": 4.6,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 47.4,
-            "pick_rate": 4.9,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 47.8,
-            "pick_rate": 4.8,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 45.2,
-            "pick_rate": 5.5,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 47.2,
-            "pick_rate": 4.5,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 47.2,
-            "pick_rate": 4.5,
-            "role": "DAMAGE"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -10275,62 +8483,6 @@
         "pick_rate": 7.0,
         "role": "DAMAGE"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 49.4,
-            "pick_rate": 7.0,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 51.5,
-            "pick_rate": 5.9,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 49.3,
-            "pick_rate": 6.1,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 50.6,
-            "pick_rate": 6.7,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 49.5,
-            "pick_rate": 7.3,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 48.7,
-            "pick_rate": 7.6,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 48.4,
-            "pick_rate": 7.9,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 56.0,
-            "pick_rate": 6.5,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 49.8,
-            "pick_rate": 6.8,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 49.8,
-            "pick_rate": 6.8,
-            "role": "DAMAGE"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -10581,62 +8733,6 @@
         "pick_rate": 7.7,
         "role": "DAMAGE"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 51.4,
-            "pick_rate": 7.7,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.0,
-            "pick_rate": 9.7,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 48.7,
-            "pick_rate": 7.7,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 48.2,
-            "pick_rate": 5.7,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 48.5,
-            "pick_rate": 4.4,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 48.2,
-            "pick_rate": 3.0,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 42.9,
-            "pick_rate": 2.6,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 36.3,
-            "pick_rate": 1.9,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 48.1,
-            "pick_rate": 5.5,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 48.1,
-            "pick_rate": 5.5,
-            "role": "DAMAGE"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -10883,62 +8979,6 @@
         "win_rate": 52.3,
         "pick_rate": 2.8,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 52.3,
-            "pick_rate": 2.8,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 49.6,
-            "pick_rate": 2.7,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 50.9,
-            "pick_rate": 3.1,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 52.8,
-            "pick_rate": 3.6,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 51.2,
-            "pick_rate": 4.0,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 51.8,
-            "pick_rate": 4.3,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 51.3,
-            "pick_rate": 3.8,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 50.8,
-            "pick_rate": 3.4,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 51.5,
-            "pick_rate": 3.6,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 51.5,
-            "pick_rate": 3.6,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -11241,62 +9281,6 @@
         "pick_rate": 10.0,
         "role": "DAMAGE"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 53.0,
-            "pick_rate": 10.0,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 53.0,
-            "pick_rate": 13.1,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 51.7,
-            "pick_rate": 15.0,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 51.2,
-            "pick_rate": 13.5,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 50.5,
-            "pick_rate": 11.3,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 50.2,
-            "pick_rate": 9.3,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 52.0,
-            "pick_rate": 7.9,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 45.4,
-            "pick_rate": 5.4,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 51.1,
-            "pick_rate": 12.4,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 51.1,
-            "pick_rate": 12.4,
-            "role": "DAMAGE"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -11564,62 +9548,6 @@
         "win_rate": 56.0,
         "pick_rate": 8.2,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 56.0,
-            "pick_rate": 8.2,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 51.4,
-            "pick_rate": 7.1,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 52.1,
-            "pick_rate": 7.8,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 51.3,
-            "pick_rate": 8.2,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 50.4,
-            "pick_rate": 7.3,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 50.0,
-            "pick_rate": 6.1,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 45.2,
-            "pick_rate": 4.6,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 51.6,
-            "pick_rate": 2.9,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 51.3,
-            "pick_rate": 7.6,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 51.3,
-            "pick_rate": 7.6,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -11913,62 +9841,6 @@
         "pick_rate": 4.4,
         "role": "DAMAGE"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 46.3,
-            "pick_rate": 4.4,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 47.9,
-            "pick_rate": 3.9,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 49.8,
-            "pick_rate": 3.9,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 50.6,
-            "pick_rate": 4.1,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 50.8,
-            "pick_rate": 4.4,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 49.2,
-            "pick_rate": 4.7,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 49.3,
-            "pick_rate": 5.7,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 39.7,
-            "pick_rate": 5.6,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 50.1,
-            "pick_rate": 4.3,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 50.1,
-            "pick_rate": 4.3,
-            "role": "DAMAGE"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -12203,62 +10075,6 @@
         "win_rate": 56.6,
         "pick_rate": 4.0,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 56.6,
-            "pick_rate": 4.0,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.5,
-            "pick_rate": 4.8,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 51.3,
-            "pick_rate": 4.4,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 50.5,
-            "pick_rate": 4.1,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 48.9,
-            "pick_rate": 3.5,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 48.2,
-            "pick_rate": 3.3,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 44.7,
-            "pick_rate": 3.7,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 49.7,
-            "pick_rate": 1.8,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 49.7,
-            "pick_rate": 3.9,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 49.7,
-            "pick_rate": 3.9,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -12555,62 +10371,6 @@
         "pick_rate": 6.0,
         "role": "SUPPORT"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 46.1,
-            "pick_rate": 6.0,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 45.5,
-            "pick_rate": 5.6,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 44.1,
-            "pick_rate": 6.3,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 45.4,
-            "pick_rate": 7.1,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 44.7,
-            "pick_rate": 7.5,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 45.1,
-            "pick_rate": 8.0,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 44.9,
-            "pick_rate": 9.3,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 42.0,
-            "pick_rate": 11.1,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 45.2,
-            "pick_rate": 7.2,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 45.2,
-            "pick_rate": 7.2,
-            "role": "SUPPORT"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -12883,62 +10643,6 @@
         "pick_rate": 13.3,
         "role": "SUPPORT"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 50.6,
-            "pick_rate": 13.3,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.5,
-            "pick_rate": 21.4,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 49.5,
-            "pick_rate": 14.8,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 49.5,
-            "pick_rate": 10.2,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 50.0,
-            "pick_rate": 7.0,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 49.1,
-            "pick_rate": 4.1,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 50.0,
-            "pick_rate": 2.5,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 50.5,
-            "pick_rate": 4.8,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 49.5,
-            "pick_rate": 10.0,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 49.5,
-            "pick_rate": 10.0,
-            "role": "SUPPORT"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -13205,62 +10909,6 @@
         "win_rate": 47.4,
         "pick_rate": 9.5,
         "role": "SUPPORT"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 47.4,
-            "pick_rate": 9.5,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 46.3,
-            "pick_rate": 10.3,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 47.8,
-            "pick_rate": 9.8,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 48.5,
-            "pick_rate": 8.6,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 49.6,
-            "pick_rate": 7.0,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 48.9,
-            "pick_rate": 6.0,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 47.6,
-            "pick_rate": 4.5,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 44.9,
-            "pick_rate": 2.2,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 48.6,
-            "pick_rate": 8.0,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 48.6,
-            "pick_rate": 8.0,
-            "role": "SUPPORT"
-          }
-        }
       },
       "guide": [
         {
@@ -13551,62 +11199,6 @@
         "pick_rate": 10.4,
         "role": "SUPPORT"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 54.1,
-            "pick_rate": 10.4,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 51.1,
-            "pick_rate": 10.1,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 52.0,
-            "pick_rate": 10.6,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 51.9,
-            "pick_rate": 11.0,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 51.7,
-            "pick_rate": 12.3,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 51.5,
-            "pick_rate": 12.8,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 47.8,
-            "pick_rate": 10.8,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 43.1,
-            "pick_rate": 6.3,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 51.5,
-            "pick_rate": 11.3,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 51.5,
-            "pick_rate": 11.3,
-            "role": "SUPPORT"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -13884,62 +11476,6 @@
         "win_rate": 49.8,
         "pick_rate": 3.6,
         "role": "SUPPORT"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 49.8,
-            "pick_rate": 3.6,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 47.3,
-            "pick_rate": 2.2,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 48.8,
-            "pick_rate": 2.5,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 47.7,
-            "pick_rate": 2.9,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 46.0,
-            "pick_rate": 3.7,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 46.9,
-            "pick_rate": 5.2,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 47.6,
-            "pick_rate": 6.2,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 46.1,
-            "pick_rate": 7.4,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 46.9,
-            "pick_rate": 3.3,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 46.9,
-            "pick_rate": 3.3,
-            "role": "SUPPORT"
-          }
-        }
       },
       "guide": [
         {
@@ -14262,62 +11798,6 @@
         "pick_rate": 3.4,
         "role": "TANK"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 49.8,
-            "pick_rate": 3.4,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 51.2,
-            "pick_rate": 2.5,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 51.3,
-            "pick_rate": 2.5,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 50.5,
-            "pick_rate": 3.2,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 49.3,
-            "pick_rate": 3.7,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 47.6,
-            "pick_rate": 4.6,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 48.4,
-            "pick_rate": 5.8,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 49.3,
-            "pick_rate": 7.2,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 49.7,
-            "pick_rate": 3.4,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 49.7,
-            "pick_rate": 3.4,
-            "role": "TANK"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -14552,62 +12032,6 @@
         "win_rate": 48.8,
         "pick_rate": 6.1,
         "role": "TANK"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 48.8,
-            "pick_rate": 6.1,
-            "role": "TANK"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 48.4,
-            "pick_rate": 9.6,
-            "role": "TANK"
-          },
-          "Silver": {
-            "win_rate": 47.2,
-            "pick_rate": 7.8,
-            "role": "TANK"
-          },
-          "Gold": {
-            "win_rate": 46.9,
-            "pick_rate": 6.2,
-            "role": "TANK"
-          },
-          "Platinum": {
-            "win_rate": 45.8,
-            "pick_rate": 4.7,
-            "role": "TANK"
-          },
-          "Diamond": {
-            "win_rate": 45.4,
-            "pick_rate": 3.5,
-            "role": "TANK"
-          },
-          "Master": {
-            "win_rate": 44.5,
-            "pick_rate": 3.0,
-            "role": "TANK"
-          },
-          "Grandmaster": {
-            "win_rate": 45.4,
-            "pick_rate": 2.0,
-            "role": "TANK"
-          },
-          "Champion": {
-            "win_rate": 46.9,
-            "pick_rate": 6.0,
-            "role": "TANK"
-          },
-          "All": {
-            "win_rate": 46.9,
-            "pick_rate": 6.0,
-            "role": "TANK"
-          }
-        }
       },
       "guide": [
         {
@@ -14914,62 +12338,6 @@
         "win_rate": 52.0,
         "pick_rate": 5.4,
         "role": "DAMAGE"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 52.0,
-            "pick_rate": 5.4,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 52.5,
-            "pick_rate": 7.8,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 50.4,
-            "pick_rate": 6.5,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 52.2,
-            "pick_rate": 5.8,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 52.6,
-            "pick_rate": 5.4,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 53.7,
-            "pick_rate": 5.1,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 54.7,
-            "pick_rate": 5.1,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 59.7,
-            "pick_rate": 4.5,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 51.9,
-            "pick_rate": 5.8,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 51.9,
-            "pick_rate": 5.8,
-            "role": "DAMAGE"
-          }
-        }
       },
       "guide": [
         {
@@ -15363,62 +12731,6 @@
         "pick_rate": 6.3,
         "role": "DAMAGE"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 47.5,
-            "pick_rate": 6.3,
-            "role": "DAMAGE"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 47.9,
-            "pick_rate": 2.6,
-            "role": "DAMAGE"
-          },
-          "Silver": {
-            "win_rate": 51.7,
-            "pick_rate": 2.9,
-            "role": "DAMAGE"
-          },
-          "Gold": {
-            "win_rate": 50.1,
-            "pick_rate": 3.5,
-            "role": "DAMAGE"
-          },
-          "Platinum": {
-            "win_rate": 48.7,
-            "pick_rate": 3.9,
-            "role": "DAMAGE"
-          },
-          "Diamond": {
-            "win_rate": 48.2,
-            "pick_rate": 4.6,
-            "role": "DAMAGE"
-          },
-          "Master": {
-            "win_rate": 43.5,
-            "pick_rate": 4.5,
-            "role": "DAMAGE"
-          },
-          "Grandmaster": {
-            "win_rate": 39.6,
-            "pick_rate": 2.3,
-            "role": "DAMAGE"
-          },
-          "Champion": {
-            "win_rate": 49.3,
-            "pick_rate": 3.6,
-            "role": "DAMAGE"
-          },
-          "All": {
-            "win_rate": 49.3,
-            "pick_rate": 3.6,
-            "role": "DAMAGE"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -15713,62 +13025,6 @@
         "pick_rate": 15.1,
         "role": "SUPPORT"
       },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 50.4,
-            "pick_rate": 15.1,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 49.2,
-            "pick_rate": 26.7,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 49.3,
-            "pick_rate": 24.5,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 48.7,
-            "pick_rate": 19.5,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 47.8,
-            "pick_rate": 14.3,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 47.4,
-            "pick_rate": 9.6,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 48.2,
-            "pick_rate": 8.0,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 52.7,
-            "pick_rate": 4.0,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 48.6,
-            "pick_rate": 18.1,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 48.6,
-            "pick_rate": 18.1,
-            "role": "SUPPORT"
-          }
-        }
-      },
       "guide": [
         {
           "id": "1",
@@ -16060,62 +13316,6 @@
         "win_rate": 47.5,
         "pick_rate": 6.3,
         "role": "SUPPORT"
-      },
-      "all_stats": {
-        "Quick Play": {
-          "All": {
-            "win_rate": 47.5,
-            "pick_rate": 6.3,
-            "role": "SUPPORT"
-          }
-        },
-        "Competitive": {
-          "Bronze": {
-            "win_rate": 42.4,
-            "pick_rate": 3.6,
-            "role": "SUPPORT"
-          },
-          "Silver": {
-            "win_rate": 45.3,
-            "pick_rate": 4.1,
-            "role": "SUPPORT"
-          },
-          "Gold": {
-            "win_rate": 44.7,
-            "pick_rate": 4.3,
-            "role": "SUPPORT"
-          },
-          "Platinum": {
-            "win_rate": 43.1,
-            "pick_rate": 3.8,
-            "role": "SUPPORT"
-          },
-          "Diamond": {
-            "win_rate": 40.1,
-            "pick_rate": 3.1,
-            "role": "SUPPORT"
-          },
-          "Master": {
-            "win_rate": 37.2,
-            "pick_rate": 2.7,
-            "role": "SUPPORT"
-          },
-          "Grandmaster": {
-            "win_rate": 52.5,
-            "pick_rate": 2.3,
-            "role": "SUPPORT"
-          },
-          "Champion": {
-            "win_rate": 43.6,
-            "pick_rate": 3.9,
-            "role": "SUPPORT"
-          },
-          "All": {
-            "win_rate": 43.6,
-            "pick_rate": 3.9,
-            "role": "SUPPORT"
-          }
-        }
       },
       "guide": [
         {
