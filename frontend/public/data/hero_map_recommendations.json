@@ -1,0 +1,311 @@
+{
+  "domina": {
+    "best_maps": [
+      "havana",
+      "junkertown",
+      "midtown"
+    ],
+    "worst_maps": [
+      "new-junk-city",
+      "watchpoint-gibraltar",
+      "numbani"
+    ],
+    "maps_summary": "Domina\n performs best on maps with strong choke points and long hallways, such as Havana, Junkertown, and Midtown."
+  },
+  "zarya": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "sigma": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "tracer": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Tracer’s mobility allows her to find value on virtually every map."
+  },
+  "vendetta": {
+    "best_maps": [
+      "watchpoint-gibraltar",
+      "numbani"
+    ],
+    "worst_maps": [
+      "havana",
+      "circuit-royal"
+    ],
+    "maps_summary": "Vendetta\n is an versitile hero who can adapt her playstyle to most maps."
+  },
+  "sojourn": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Sojourn’s versatility allows her to be played effectively on every map."
+  },
+  "kiriko": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Kiriko\n's mobility and versatility make her a solid choice on every map."
+  },
+  "lucio": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "illari": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "dva": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "The most distinct advantage \nD.Va\n has over the rest of the Tanks is her ability to fly for 2 seconds, every 3 and a half seconds."
+  },
+  "winston": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "The best maps for \nWinston\n have structures, high ground, and plenty of natural cover."
+  },
+  "roadhog": {
+    "best_maps": [
+      "watchpoint-gibraltar",
+      "circuit-royal",
+      "ilios"
+    ],
+    "worst_maps": [],
+    "maps_summary": "The best maps for \nRoadhog\n are those that encourage close-range fights, like most Control and Flashpoint maps."
+  },
+  "emre": {
+    "best_maps": [
+      "nepal",
+      "rialto",
+      "esperanca",
+      "dorado",
+      "watchpoint-gibraltar"
+    ],
+    "worst_maps": [
+      "oasis",
+      "new-junk-city"
+    ],
+    "maps_summary": "Emre performs best on maps with objective areas and sightlines that match his optimal range (e.g., Rialto, Nepal, Esperança)."
+  },
+  "ashe": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "echo": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Echo’s quick movement and flying abilities are best utilized on maps with plenty of high ground and natural vertical cover."
+  },
+  "cassidy": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "symmetra": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "The best maps to play \nSymmetra\n on either have enclosed objective areas or funnel both teams into one main choke point."
+  },
+  "soldier-76": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "The best maps to play Soldier: 76 on are maps with lots of flank routes."
+  },
+  "genji": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "ana": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "jetpack-cat": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "mizuki": {
+    "best_maps": [
+      "oasis",
+      "samoa",
+      "kings-row"
+    ],
+    "worst_maps": [
+      "circuit-royal",
+      "numbani"
+    ],
+    "maps_summary": "Maps that encourage close-range or brawly fights are the best for Mizuki to make full use of his kit (e.g., Oasis, Samoa, King's Row)."
+  },
+  "wuyang": {
+    "best_maps": [],
+    "worst_maps": [
+      "watchpoint-gibraltar",
+      "numbani"
+    ],
+    "maps_summary": "Wuyang\n has good horizontal and vertical mobility, long-range damage, and medium-range healing."
+  },
+  "hazard": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Hazard\n's mobility is best utilized on maps with lots of walls to climb, and plenty of high ground to move around on."
+  },
+  "reinhardt": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "junker-queen": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Maps with primarily flat areas around the objective are the best for \nJunker Queen\n."
+  },
+  "mauga": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "The best maps for \nMauga\n have small but open objective areas."
+  },
+  "orisa": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Orisa\n is always going to be a good choice on maps that favor poke comps."
+  },
+  "doomfist": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Doomfist\n and his incredible mobility are best utilized on maps where teams tend to play spread out."
+  },
+  "anran": {
+    "best_maps": [
+      "nepal",
+      "lijiang-tower",
+      "suravasa",
+      "dorado",
+      "new-queen-street",
+      "colosseo",
+      "circuit-royal",
+      "midtown"
+    ],
+    "worst_maps": [],
+    "maps_summary": "On Control and Flashpointmaps (e.g., Nepal, Lijiang Tower, Suravasa), \nAnran\n thrives by leveraging verticality and flank routes to harass isolated enemies and secure early picks."
+  },
+  "bastion": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "freja": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "The best maps for Freja complement her medium-long range positioning."
+  },
+  "hanzo": {
+    "best_maps": [
+      "havana",
+      "circuit-royal",
+      "colosseo",
+      "dorado"
+    ],
+    "worst_maps": [],
+    "maps_summary": "The best maps for \nHanzo\n have open long and narrow sightlines lines like Circuit Royal, first point Colosseo, and Havana."
+  },
+  "junkrat": {
+    "best_maps": [
+      "lijiang-tower",
+      "new-junk-city"
+    ],
+    "worst_maps": [
+      "havana"
+    ],
+    "maps_summary": "The best maps for \nJunkrat\n have narrow corridors small objective areas and some high ground to play around."
+  },
+  "venture": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "reaper": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Reaper thrives on maps with tight spaces and lots of small rooms."
+  },
+  "mei": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Mei\n tends to have an easier time finding value on non-payload maps."
+  },
+  "widowmaker": {
+    "best_maps": [
+      "circuit-royal",
+      "havana"
+    ],
+    "worst_maps": [],
+    "maps_summary": "The best maps for \nWidowmaker\n have long-sight lines where she can take advantage of her superior range."
+  },
+  "torbjorn": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Torbjörn and his Turrets do best on maps that favor close-range engagements and have choke points that are difficult to break through."
+  },
+  "baptiste": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "juno": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "The best maps for \nJuno\n are flat, have a lot of open space, and encourage fights to be on the objective."
+  },
+  "mercy": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Mercy\n's best maps have lots of space for her to move around."
+  },
+  "zenyatta": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "The best maps for \nZenyatta\n allow him to abuse his superior ranged poke damage."
+  },
+  "brigitte": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "wrecking-ball": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Because \nWrecking Ball\n can use \nGrappling Claw\n and \nRoll\n to move both vertically and horizontally, he performs well on maps with high ground as well as flatter layouts."
+  },
+  "ramattra": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "Maps that favor close-range engagements, have smaller objective areas, and little to no high ground are best for Ram."
+  },
+  "pharah": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "sombra": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "The best maps for Sombra have lots of side rooms for her to set up in."
+  },
+  "moira": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": ""
+  },
+  "lifeweaver": {
+    "best_maps": [],
+    "worst_maps": [],
+    "maps_summary": "The main feature \nLifeweaver\n wants in a map is natural cover."
+  }
+}

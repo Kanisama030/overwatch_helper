@@ -1,0 +1,531 @@
+{
+  "domina": {
+    "play_against_summary": [
+      "AoE and explosive damage can be used to destroy multiple barrier panels at once.",
+      "Dive counters her playstyle. Overwhelm her by quickly getting behind her barrier.",
+      "If a teammate gets imprisoned by her ult. Help them destroy the barrier from the outside."
+    ],
+    "countered_by_mentions": [
+      "Bastion",
+      "Reinhardt",
+      "Domina"
+    ]
+  },
+  "zarya": {
+    "play_against_summary": [
+      "Force her to use bubbles early or inefficiently by threatening burst damage or dives, then momentarily disengaging.",
+      "Play around her energy level. A high-energy \nZarya\n is far more lethal, so respect her threat in fights and avoid extended duels when she has maximum charge.",
+      "Avoid clumping together when she has Grav. Position where it's difficult for her to target you, or save defensive abilities to save yourself and teammates."
+    ],
+    "countered_by_mentions": [
+      "Zarya"
+    ]
+  },
+  "sigma": {
+    "play_against_summary": [
+      "Force \nSigma\n off his optimal mid-range poke angles by pressuring him with dive or flank threats, exploiting his lack of mobility.",
+      "Beam heroes are strong against \nSigma\n because they can burn through his shield and \nKinetic Grasp\n doesn't absorb beams.",
+      "Stun him out of \nGravitic Flux\n to immediately cancel his ult before he has a chance to activate."
+    ],
+    "countered_by_mentions": [
+      "Sigma",
+      "Winston"
+    ]
+  },
+  "tracer": {
+    "play_against_summary": [
+      "Keep your distance. Tracer has terrible ranged damage so try to position where it's difficult for her to reach you, or use mobility tools to dodge her.",
+      "Track \nRecall\n. You can get used to the timing of Recall to predict where she will rewind to. If you see Recall used, that is your chance to chase and eliminate Tracer.",
+      "If you see Tracer multi-Blink straight at you, expect a \nPulse Bomb\n. Use a barrier, stun, or escape tool to avoid getting stuck."
+    ],
+    "countered_by_mentions": [
+      "Torbjörn",
+      "Tracer",
+      "Mizuki"
+    ]
+  },
+  "vendetta": {
+    "play_against_summary": [
+      "Maintain distance. Save your escape tool for when you see her use her sword toss dash. She can’t chase you if you reposition after.",
+      "The moment she arrives, focus her. She won’t be able to escape for a few seconds, and that is your team’s best opportunity to punish her.",
+      "Use crowd control to neutralize her. She can only try to dodge it as her shield does not absorb CC."
+    ],
+    "countered_by_mentions": [
+      "Vendetta"
+    ]
+  },
+  "sojourn": {
+    "play_against_summary": [
+      "Watch for charged Railgun shots. When she hasn’t fired one for a few seconds, position out of her LoS.",
+      "When you hear \nOverclock\n, find cover and hide. On occasions where that isn’t possible, immediately focus her.",
+      "After she uses Power Slide, quickly dive her. She won’t be able to escape and likely has low Railgun charge."
+    ],
+    "countered_by_mentions": []
+  },
+  "kiriko": {
+    "play_against_summary": [
+      "Force out \nSwift Step\n or \nProtection Suzu\n early, then re-engage while those cooldowns are unavailable.",
+      "Pressure her from multiple angles to deny safe teleport targets and limit her escape options.",
+      "Treat \nKitsune Rush\n like the best offensive ult the enemy team has. Save defensive utility to survive, retreat when possible, or use your own ultimates to prevent her from overwhelming your team."
+    ],
+    "countered_by_mentions": []
+  },
+  "lucio": {
+    "play_against_summary": [],
+    "countered_by_mentions": []
+  },
+  "illari": {
+    "play_against_summary": [
+      "Illari\n has great ranged damage, but struggles with close-range duels. Try to avoid her LoS until you can catch her in a close-range fight.",
+      "Teams with Illari are at a disadvantage in longer fights that require a lot of sustain. Play patient and only commit to the attack after she’s lost her \nHealing Pylon\n and used up her Solar Energy.",
+      "When you hear her ult voice line, prepare your countermeasures. Shoot her out of the sky, block the projectile, stun her before she fires, or escape out of her LoS."
+    ],
+    "countered_by_mentions": [
+      "Illari"
+    ]
+  },
+  "dva": {
+    "play_against_summary": [
+      "Create crossfire. Attacking \nD.Va\n from multiple directions stops her from Matrixing all your team's damage.",
+      "Stay together. Focus on keeping each other alive and forcing her to retreat. Every time she leaves close range, her value goes way down.",
+      "D.Va\n has no protection against beam and melee attacks. If you’re struggling, consider swapping to counter."
+    ],
+    "countered_by_mentions": [
+      "D.Va"
+    ]
+  },
+  "winston": {
+    "play_against_summary": [
+      "Track his cooldowns. When \nWinston\n uses either bubble or leap, his enemies have a generous window to target him where he can’t shield or jump away. Focus him when he can’t escape.",
+      "Keep your distance. Most heroes have CC to stop or knockback \nWinston\n, or a movement ability to run away. Try to never let him get close to you, as he’s only a threat up close.",
+      "Stay in an ally Support’s LoS. \nWinston\n's damage is rather low, and most Supports can keep you alive with their healing even while he’s attacking you. Eventually, you’ll do more damage than him, and he’ll have to disengage."
+    ],
+    "countered_by_mentions": [
+      "Reaper",
+      "Winston",
+      "Vendetta"
+    ]
+  },
+  "roadhog": {
+    "play_against_summary": [
+      "If you react quickly with healing, CC, or damage mitigation when an ally gets Hooked, you can save their life.",
+      "When Hook misses or gets blocked, press the attack for a few seconds because \nRoadhog\n is not very lethal without \nChain Hook\n.",
+      "If you have a damage mitigation ability, let \nWhole Hog\n push you back so you get out of its optimal range before activating your barrier or damage absorption."
+    ],
+    "countered_by_mentions": []
+  },
+  "emre": {
+    "play_against_summary": [
+      "If you don’t have good burst damage, try to escape during his Siphon Blaster, so you minimize how much life steal he can generate.",
+      "Emre has no crowd control counters other than trying to dodge with Siphon Blasters. He’s an easy kill if you can stun or knock him around.",
+      "Listen for his Ult voice line, and prepare to shoot Emre out of the sky."
+    ],
+    "countered_by_mentions": [
+      "Ana",
+      "Widowmaker",
+      "Zenyatta",
+      "Emre"
+    ]
+  },
+  "ashe": {
+    "play_against_summary": [
+      "Close the distance. \nAshe\n struggles in close-range fights. Find ways to approach her and shut her down.",
+      "Keep track of \nDynamite\n's 12-second cooldown. If she just used it, you can move up. If she hasn’t thrown it for a while, try to stand outside of her throw range.",
+      "Hide from \nB.O.B.\n He has a huge health pool, so if your team can’t burst him down quickly, it's best to get out of his LoS and wait until he leaves."
+    ],
+    "countered_by_mentions": [
+      "Ashe",
+      "Widowmaker"
+    ]
+  },
+  "echo": {
+    "play_against_summary": [
+      "Hitscans like \nSoldier: 76\n have the advantage against Echo when she’s flying around.",
+      "Pay attention and notice if you don’t see Echo. She’s likely setting up behind you for a sneak attack, so watch your flank.",
+      "Many Echo players use Flight to get in and attack. Dodge and get cover for a few seconds, then quickly focus her while her \nFlight\n is on cooldown."
+    ],
+    "countered_by_mentions": [
+      "D.Va",
+      "Echo",
+      "Illari",
+      "Reinhardt",
+      "Soldier: 76",
+      "Emre"
+    ]
+  },
+  "cassidy": {
+    "play_against_summary": [
+      "Plan to counter \nFlashbang\n. If your hero has a way to block or dodge Flashbang, be sure to save it when getting into close range against a Cassidy.",
+      "Position outside his optimal range. Many heroes like \nAshe\n, \nFreja\n, \nAna\n, and \nZenyatta\n have the upper hand in long-range fights against Cassidy.",
+      "Watch for \nDeadeye\n. If you don’t see Cassidy for a bit, he’s likely setting up a flank Deadeye. Stay near cover; you can hide behind it or prepare your counterattack."
+    ],
+    "countered_by_mentions": [
+      "Ana",
+      "Ashe",
+      "Cassidy",
+      "Zenyatta",
+      "Freja"
+    ]
+  },
+  "symmetra": {
+    "play_against_summary": [
+      "Shoot the \nSentry Turret\ns. Don’t be the teammate who walks forward, gets blasted by the turrets, and ignores them. On corners, you can quickly peek and fire before they target you.",
+      "Watch for TP. Her team might end up behind you and wipe your backline. Sym may also use TP to dive an isolated target, so always watch to see if her hands are up in the deploy animation.",
+      "Stay out of her effective range. Primary fire and turrets both have very limited ranges, so most heroes have the advantage against Sym at medium to long range."
+    ],
+    "countered_by_mentions": [
+      "Symmetra"
+    ]
+  },
+  "soldier-76": {
+    "play_against_summary": [
+      "Dive him. Every role has heroes who can go with another ally and dive Soldier. He doesn’t have any CC and can’t attack while using his mobility tool.",
+      "Block his poke damage. If all Soldier is doing is shooting barriers, he’s not bringing a lot of value to his team. Either use your own shield or play in the protection of a teammate.",
+      "If you don’t see Soldier in front of you for a while, assume he is about to attack you from your flank. Play near cover so you can escape his surprise attack."
+    ],
+    "countered_by_mentions": [
+      "Lúcio",
+      "Soldier: 76",
+      "Jetpack Cat"
+    ]
+  },
+  "genji": {
+    "play_against_summary": [
+      "Don’t get isolated. Genji is one of the best 1v1 duelists in OW, so stay close to your allies so he always has to fight at least two enemies.",
+      "Force out \nDeflect\n by dealing damage with your standard weapon, then use your cooldown abilities to punish him when he doesn’t have it.",
+      "Dragonblade\n is extremely lethal and can instantly win team fights. Plan how you will personally survive it, and how you can help your teammates survive with your healing, burst damage, or CC."
+    ],
+    "countered_by_mentions": [
+      "Genji"
+    ]
+  },
+  "ana": {
+    "play_against_summary": [
+      "Sleep Dart is Ana’s primary means of survival. If you see her shoot it or sleep an ally, that is your signal to go attack her.",
+      "When playing Tank or any dive hero, you’ll need to play around anti-nades. Try to predict her timing and use your mitigation or evade ability to make sure you don’t get anti-healed.",
+      "Don’t overcommit to trying to kill her Tank if she hasn’t used Nano in a while. After you use up your cooldowns trying to get the kill, she’ll Nano the Tank, and their counterattack will be too much for you to survive."
+    ],
+    "countered_by_mentions": [
+      "Ana"
+    ]
+  },
+  "jetpack-cat": {
+    "play_against_summary": [],
+    "countered_by_mentions": []
+  },
+  "mizuki": {
+    "play_against_summary": [
+      "Stay outside his effective range. His abilities are close to medium-ranged, so attack him from distances where he cannot coutner attack.",
+      "His single-target healing is low; you can burst down his allies even when he’s trying to heal them.",
+      "Go inside his ultimate and force his team out. If you have melee or beam abilities, you can penetrate the Sanctuary walls."
+    ],
+    "countered_by_mentions": [
+      "Mizuki"
+    ]
+  },
+  "wuyang": {
+    "play_against_summary": [
+      "When you see the \nGuardian Wave\n slam, back off, wait a few seconds, then hard re-engage to wipe his team because they won’t have burst healing.",
+      "After you see him use Rushing Torrent (often to refill healing resources), immediately rush at him to eliminate Wuyang while he’s unable to escape.",
+      "His Ult has a short 3.5s duration. Run away, use cover, and escape tools your hero has because it’s basically impossible to survive if you get caught."
+    ],
+    "countered_by_mentions": [
+      "Wuyang"
+    ]
+  },
+  "hazard": {
+    "play_against_summary": [
+      "Every time you see \nHazard\n use \nSpike Guard\n, use your crowd control abilities on him.",
+      "Plan how you will survive his dive. You can use escape abilities, damage mitigation, stuns, or position near an ally who can assist you.",
+      "Counterswap when necessary. Examples: \nAna\n can sleep and anti him; \nEcho\n can avoid him, then burst combo him to death after he blocks; \nRoadhog\n can interrupt his dives with Hook."
+    ],
+    "countered_by_mentions": [
+      "Hazard"
+    ]
+  },
+  "reinhardt": {
+    "play_against_summary": [
+      "Use stuns and knock back to shut down his approach. If he can't get into \nRocket Hammer\n range, he's very underwhelming.",
+      "Burn his barrier from off-angles rather than stacking in front of it where his team can safely attack you.",
+      "When you see the Enemy walking suspiciously far up, expect\nEarthshatter\n. The moment you see him drop the shield and wind up, use your barrier or escape ability."
+    ],
+    "countered_by_mentions": [
+      "Ana",
+      "Lúcio",
+      "Orisa",
+      "Pharah",
+      "Reinhardt",
+      "Sojourn"
+    ]
+  },
+  "junker-queen": {
+    "play_against_summary": [
+      "CC her. \nJunker Queen\n has no countermeasure to CC. Stun and knock her around to keep her at bay.",
+      "Keep your distance. Keep moving and try to never let her get into axe range.",
+      "Shoot her team. JQ has a lot of self-healing and can be difficult to kill. But she’s smaller for a \nTank\n and can’t protect her team from your damage."
+    ],
+    "countered_by_mentions": [
+      "Ana",
+      "Ashe",
+      "Illari",
+      "Junker Queen",
+      "Sigma",
+      "Sojourn"
+    ]
+  },
+  "mauga": {
+    "play_against_summary": [
+      "Save your damage mitigation or mobility abilities to prevent him from damaging you during \nCardiac Overdrive\n.",
+      "Mauga\n can’t be stopped during \nOverrun\n. Position out of his charge range, or prepare to dodge him.",
+      "When he has \nCage Fight\n ready, either play spread so you don’t get caught, or get everyone inside so you and your team can help each other survive the ult."
+    ],
+    "countered_by_mentions": [
+      "Ana",
+      "Kiriko",
+      "Mauga"
+    ]
+  },
+  "orisa": {
+    "play_against_summary": [
+      "Ignore \nOrisa\n. The best way to counter \nOrisa\n is to avoid her and target the rest of her team. She’ll try to stop you, but she can’t chase you down.",
+      "Wait out \nFortify\n. If you see her golden, either hide so you don’t take damage, or switch targets, and attack someone else.",
+      "Go beams. If all else fails, the easiest way to counter \nOrisa\n is to play a beam hero. \nOrisa\n is free ult charge to them."
+    ],
+    "countered_by_mentions": [
+      "Orisa"
+    ]
+  },
+  "doomfist": {
+    "play_against_summary": [
+      "While he’s blocking or charging \nRocket Punch\n, stun him. He’s sitting still, and cancelling his \nPower Block\n is the best method for eliminating \nDoomfist\n.",
+      "Dodge his engage attack. Keep track of \nDoomfist\n and watch for when he’s coming in with \nSeismic Slam\n or \nRocket Punch\n. If you dodge his initial attack, he misses out on overhealth and will have to reset.",
+      "To counter \nDoomfist\n, play heroes with stuns or high mobility heroes who can evade him. If you can’t run away or stun him, \nDoomfist\n will harass you all game."
+    ],
+    "countered_by_mentions": [
+      "Doomfist"
+    ]
+  },
+  "anran": {
+    "play_against_summary": [
+      "Heroes with the mobility and range to stay outside of the 10m range of \nFan the Flames\n have an advantage in the match-up.",
+      "Crowd Control and stuns are very effective for shutting down \nAnran\n's rush. Target her and finish her off when she tries to escape.",
+      "Quickly target \nAnran\n during her ult. If she’s at low HP or takes a second to aim, you can eliminate her while she’s channeling \nVermillion Ascent\n."
+    ],
+    "countered_by_mentions": [
+      "Cassidy",
+      "Sojourn",
+      "Anran",
+      "Vendetta"
+    ]
+  },
+  "bastion": {
+    "play_against_summary": [
+      "Turret form only lasts for 6 seconds. Most of the time, your best play is to hide and wait for a few seconds. Don’t peek or else you’ll be killed or have to waste resources to not die.",
+      "Attack aggressively after his turret mode ends. His damage is low in Recon so you can ignore him and target his \nSupport\ns during his \nConfiguration: Assault\n cooldown.",
+      "Heroes with damage mitigation to shut down his turret form, or the mobility to outrun him, are the best counters. The key to beating \nBastion\n comps is to minimize the value he gets from each \nConfiguration: Assault\n use."
+    ],
+    "countered_by_mentions": [
+      "Bastion",
+      "D.Va",
+      "Orisa",
+      "Reinhardt",
+      "Sigma",
+      "Winston",
+      "Domina"
+    ]
+  },
+  "freja": {
+    "play_against_summary": [
+      "Freja excels at focusing down one target, but is weak when there are multiple enemies. Position near your allies so you don’t end up in a 1v1 situation.",
+      "If you see her use Updraft, know you have a 10-second window where she can’t target you behind cover or run away to high ground (unless she's using \nRising Winds\n).",
+      "Counter Freja by outranging her with a hitscan sniper, or overwhelming her with a close-range, high mobility hero."
+    ],
+    "countered_by_mentions": [
+      "Ashe",
+      "D.Va",
+      "Doomfist",
+      "Genji",
+      "Lúcio",
+      "Widowmaker",
+      "Zenyatta",
+      "Freja"
+    ]
+  },
+  "hanzo": {
+    "play_against_summary": [
+      "Respect his sightlines. If he’s already aiming down the main choke point, stay behind a barrier or take a different path.",
+      "Vary your left/right strafing movement to make it more difficult for him to predict your direction.",
+      "If you are playing a flank or dive hero, keep pressuring him so he can’t freely shoot the rest of your team."
+    ],
+    "countered_by_mentions": []
+  },
+  "junkrat": {
+    "play_against_summary": [
+      "Avoid tight corridors, rooms, hallways, and low areas. These are the perfect places for Junkrat’s frags to farm your team.",
+      "Keep an eye on the floor. Break traps for your teammates so they don’t walk in and die.",
+      "Heroes with long-range capabilities or small, high-mobility characters have favorable matchups against Junkrat."
+    ],
+    "countered_by_mentions": [
+      "Junkrat"
+    ]
+  },
+  "venture": {
+    "play_against_summary": [
+      "Venture can still be damaged after activating Burrow until their entire body is fully submerged. Don't let them get away!",
+      "Make a mental note if you don't see \nVenture\n on your screen. They are likely setting up a flank attack, so be ready to counter.",
+      "When they miss abilities, or you see them use \nDrill Dash\n and \nBurrow\n, that's your signal to hard-focus them at their most vulnerable."
+    ],
+    "countered_by_mentions": [
+      "Venture"
+    ]
+  },
+  "reaper": {
+    "play_against_summary": [
+      "Focus him after Wraith. Even if you have to chase after him, a Reaper without \nWraith Form\n is an easy kill.",
+      "Listen for \nShadow Step\n sound cue. Whichever direction you hear it from tells you he’s about to appear and attack you.",
+      "Counter \nDeath Blossom\n with CC, damage mitigation, or focus fire. He’s moving slowly and can’t cancel Blossom, so he’s easy to target."
+    ],
+    "countered_by_mentions": [
+      "Reaper"
+    ]
+  },
+  "mei": {
+    "play_against_summary": [
+      "Break her wall! Shoot a single pillar to quickly create an opening for trapped teammates to walk through.",
+      "Play around her cooldowns. When she has \nIce Wall\n, don’t casually walk through a choke and get walled off. Wait until she’s used it before pushing up.",
+      "Stay outside her primary fire range. Her secondary fire range is less consistent and easier to deal with."
+    ],
+    "countered_by_mentions": [
+      "Mei"
+    ]
+  },
+  "widowmaker": {
+    "play_against_summary": [
+      "Force her to retreat with dives and flanks. Even if you don’t get the kill, stop her from aiming at your teammates.",
+      "Never peek the same angle twice. If you see Widow aiming down sights, don’t walk out at the same position because she will be ready to hit the shot.",
+      "Avoid her sightlines. Scout or get info from your team about her position. Then take side routes where she can’t snipe you."
+    ],
+    "countered_by_mentions": []
+  },
+  "torbjorn": {
+    "play_against_summary": [
+      "Break his Turret first. Try quickly peeking around corners and hiding between your own shots to minimize the Turret's damage.",
+      "Bait out Overload. Soft engage without committing all your long cooldowns, then back up when he’s using Overload. It only lasts five seconds, and you can attack again as soon as it ends.",
+      "Play ranged heroes. Torb is weaker against heroes with range because they can break his Turret from safety and have more consistent damage than his primary fire."
+    ],
+    "countered_by_mentions": [
+      "Torbjörn"
+    ]
+  },
+  "baptiste": {
+    "play_against_summary": [
+      "Don’t commit long cooldowns or ultimates until after you’ve seen him use Immortality Field. Try to attack with your standard attacks or short CDs, retreat, then re-engage after he’s used it.",
+      "Watch his jumps, and track him in the air. He’s easiest to elim while he’s locked in the jump arc.",
+      "His primary fire has severe damage falloff. Keep your distance and take him down with heroes like Ana, Kiri, and Widowmaker."
+    ],
+    "countered_by_mentions": []
+  },
+  "juno": {
+    "play_against_summary": [
+      "Keep poking her. \nJuno\n can’t heal herself, so she relies on shield regen and the Support heal passive. Even the smallest amount of damage to her interrupts the passive self-heal.",
+      "All of \nJuno\n's healing requires LoS. Stop her from healing with barriers or by forcing her attention away from her allies through your attacks.",
+      "Without Pulsar Torpedoes, \nJuno\n struggles to defend herself against high mobility heroes. Get past her team and chase her down."
+    ],
+    "countered_by_mentions": [
+      "Juno"
+    ]
+  },
+  "mercy": {
+    "play_against_summary": [
+      "Don’t let her get off free resurrections. If her teammate dies, expect her to be looking for an opportunity to rez. Be ready to punish her.",
+      "Bait out Guardian Angel without using your movement ability. Then chase her for the kill.",
+      "Target \nMercy\n . Eliminating Mercy first is more efficient than trying to kill her allies through her healing."
+    ],
+    "countered_by_mentions": [
+      "D.Va",
+      "Mercy"
+    ]
+  },
+  "zenyatta": {
+    "play_against_summary": [
+      "Zenyatta\n can’t escape flank and dive attacks. Coordinate with at least one teammate and surprise attack him simultaneously for an easy kill.",
+      "Cleanse \nOrb of Discord\n by breaking LoS before committing to your attack. You don’t want to move in deep just to get blown up by the extra Discord damage.",
+      "If you don’t see \nZenyatta\n , assume he is charging up a volley. Get behind a barrier and watch your flank."
+    ],
+    "countered_by_mentions": [
+      "Zarya"
+    ]
+  },
+  "brigitte": {
+    "play_against_summary": [
+      "Poke. Brig can’t directly deal with poke damage, and it's a great way to pressure her Shield and keep her playing passively.",
+      "Soft engage to get \nWhip Shot\nout, then use movement cooldowns when she can’t knock you away.",
+      "Target her allies. Brig’s healing is pretty slow, so often the best strategy is to kill the rest of her team first, then her last."
+    ],
+    "countered_by_mentions": []
+  },
+  "wrecking-ball": {
+    "play_against_summary": [
+      "Track his \nAdaptive Shield\n. If he hasn’t used them, don’t use your stuns yet, or he’ll easily survive.",
+      "Pick a hero with kockbacks or stuns. Dealing with Ball is very hard without good CC.",
+      "Don’t get isolated. Instead, position with at least one teammate so you don’t get caught in a 1v1 with Ball."
+    ],
+    "countered_by_mentions": [
+      "Pharah",
+      "Sigma",
+      "Wrecking Ball",
+      "Jetpack Cat",
+      "Mizuki"
+    ]
+  },
+  "ramattra": {
+    "play_against_summary": [
+      "Ramattra\n is less tanky and less lethal in Omnic Form. After Nemesis ends, that is your window to go on the offensive.",
+      "Break line of sight (LoS) on his ultimate to end it quickly. Cutting off \nAnnihilation\n's AoE for a total of 3 seconds will immediately cancel it.",
+      "If Ram is walking toward you, expect a Vortex. Use mobility or cover before he throws it."
+    ],
+    "countered_by_mentions": []
+  },
+  "pharah": {
+    "play_against_summary": [
+      "The best way to deal with \nPharah\n is to play a hitscan with range and burst damage like \nAshe\n or \nIllari\n.",
+      "Deny her safe air space by controlling high ground and forcing her to play predictable sightlines.",
+      "Track her Barrage and hold defensive cooldowns or burst abilities to punish her immediately when she commits. A slight delay will make the difference between dying and taking her out."
+    ],
+    "countered_by_mentions": [
+      "Pharah"
+    ]
+  },
+  "sombra": {
+    "play_against_summary": [
+      "Be on the lookout for Sombra if you haven’t seen her for a while; that means she’s in position to flank you. Be ready to turn around and counterattack.",
+      "If she Translocates right into your team, assume EMP is coming. CC her, dash away, or get to cover.",
+      "Heroes with mobility like \nD.Va\n and \nAnran\n can chase after Translocate and shoot Sombra out of invis for the kill."
+    ],
+    "countered_by_mentions": [
+      "D.Va",
+      "Echo",
+      "Sombra",
+      "Winston",
+      "Anran"
+    ]
+  },
+  "moira": {
+    "play_against_summary": [
+      "Track her \nFade\n cooldown and pressure her aggressively once it has been used, as she is highly vulnerable without mobility.",
+      "Avoid giving her free resource generation by minimizing unnecessary poke damage and positioning outside of her Biotic Grasp range.",
+      "Focus her during \nCoalescence\n with burst damage or crowd control, she'll either be forced to Fade away, or be vulnerable to elimination during the ult."
+    ],
+    "countered_by_mentions": [
+      "Moira"
+    ]
+  },
+  "lifeweaver": {
+    "play_against_summary": [
+      "Focus your dives and flanks on \nLifeweaver\n . He won’t be personally killing you, so your only hindrance is his allies' protection.",
+      "Save your best cooldowns until after Life Grip has been used. After you’ve seen someone get pulled, you have a long window of time to attack where your target can’t be saved by Grip.",
+      "Pick a hero with vertical mobility. \nLifeweaver\n can easily avoid you if you can’t chase him vertically when he uses \nPetal Platform\n."
+    ],
+    "countered_by_mentions": []
+  }
+}
