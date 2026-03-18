@@ -19,24 +19,25 @@ function HeroCard({ hero, mapId, onClick }: { hero: HeroSummary; mapId: string |
     <div
       onClick={onClick}
       className="relative cursor-pointer rounded-lg overflow-hidden group"
-      style={{ background: 'linear-gradient(135deg, #2a1f10 0%, #1a1208 100%)', border: '1px solid rgba(242,127,13,0.15)', aspectRatio: '3/4' }}
+      style={{ background: 'linear-gradient(135deg, #2a1f10 0%, #1a1208 100%)', border: '1px solid rgba(242,127,13,0.15)' }}
     >
-      {/* Hero image */}
-      <div className="absolute inset-0">
+      {/* Hero image (square) */}
+      <div className="relative" style={{ aspectRatio: '1/1' }}>
         <HeroImage
           heroId={hero.id}
           heroName={hero.en}
-          className="w-full h-full object-cover object-top opacity-70 group-hover:opacity-90 transition-opacity"
+          className="w-full h-full object-cover object-top opacity-80 group-hover:opacity-95 transition-opacity"
         />
+        <div className="absolute top-2 left-2">
+          <TierBadge tier={hero.tier} />
+        </div>
       </div>
 
-      {/* Bottom overlay */}
-      <div className="absolute inset-x-0 bottom-0 p-2"
-        style={{ background: 'linear-gradient(to top, rgba(34,25,16,0.95) 0%, transparent 100%)' }}>
-        <TierBadge tier={hero.tier} />
-        <p className="text-white font-bold text-xs mt-1 truncate">{hero.en}</p>
+      {/* Bottom info */}
+      <div className="px-3 py-2.5">
+        <p className="text-white font-bold text-base leading-tight truncate">{hero.en}</p>
         {displayWinRate != null && (
-          <p className="text-[10px]" style={{ color: '#f27f0d' }}>{displayWinRate.toFixed(1)}% WR</p>
+          <p className="text-sm mt-1" style={{ color: '#f27f0d' }}>{displayWinRate.toFixed(1)}% WR</p>
         )}
       </div>
 

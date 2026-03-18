@@ -1,6 +1,7 @@
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import { DataProvider, useDataset } from './contexts/DataContext';
 import { LocaleProvider } from './contexts/LocaleContext';
+import { SidebarProvider } from './contexts/SidebarContext';
 import { Sidebar } from './components/layout/Sidebar';
 import { Header } from './components/layout/Header';
 import { LoadingScreen } from './components/common/LoadingScreen';
@@ -47,7 +48,9 @@ function App() {
     <LocaleProvider>
       <DataProvider>
         <HashRouter>
-          <AppShell />
+          <SidebarProvider>
+            <AppShell />
+          </SidebarProvider>
         </HashRouter>
       </DataProvider>
     </LocaleProvider>

@@ -39,12 +39,12 @@ function MapCard({ map, onClick }: { map: GameMap; onClick: () => void }) {
       {/* Map name & mode */}
       <div className="absolute inset-0 flex flex-col justify-end p-3">
         <span
-          className="text-[9px] font-black uppercase tracking-widest px-1.5 py-0.5 rounded self-start mb-1"
+          className="text-xs font-black uppercase tracking-widest px-1.5 py-0.5 rounded self-start mb-1"
           style={{ backgroundColor: `${modeColor}33`, color: modeColor, border: `1px solid ${modeColor}55` }}
         >
           {map.mode}
         </span>
-        <h3 className="text-white font-bold text-sm leading-tight">{map.en}</h3>
+        <h3 className="text-white font-bold text-lg leading-tight">{map.en}</h3>
       </div>
 
       {/* Hover play arrow */}

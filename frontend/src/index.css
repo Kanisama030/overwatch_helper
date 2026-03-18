@@ -7,6 +7,7 @@
   --color-background-dark: #221910;
   --color-background-light: #f8f7f5;
   --font-family-display: "Space Grotesk", sans-serif;
+  --ui-scale: 1.10;
   --radius-DEFAULT: 0.125rem;
   --radius-lg: 0.25rem;
   --radius-xl: 0.5rem;
@@ -15,6 +16,10 @@
 
 * {
   box-sizing: border-box;
+}
+
+html {
+  font-size: calc(16px * var(--ui-scale));
 }
 
 body {
