@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ana",
+    "en": "Ana",
+    "zh": "安娜",
+    "role": "Support",
+    "tier": "A",
+    "default_win_rate": 46.9,
+    "default_pick_rate": 38.1
+  },
+  {
+    "id": "ashe",
+    "en": "Ashe",
+    "zh": "艾西",
+    "role": "Damage",
+    "tier": "A",
+    "default_win_rate": 50.4,
+    "default_pick_rate": 11.8
+  },
+  {
+    "id": "baptiste",
+    "en": "Baptiste",
+    "zh": "巴帝斯特",
+    "role": "Support",
+    "tier": "B",
+    "default_win_rate": 46.1,
+    "default_pick_rate": 6.0
+  },
+  {
+    "id": "bastion",
+    "en": "Bastion",
+    "zh": "壁壘機兵",
+    "role": "Damage",
+    "tier": "B",
+    "default_win_rate": 48.8,
+    "default_pick_rate": 9.8
+  },
+  {
+    "id": "brigitte",
+    "en": "Brigitte",
+    "zh": "碧姬",
+    "role": "Support",
+    "tier": "B",
+    "default_win_rate": 49.8,
+    "default_pick_rate": 3.6
+  },
+  {
+    "id": "cassidy",
+    "en": "Cassidy",
+    "zh": "卡西迪",
+    "role": "Damage",
+    "tier": "A",
+    "default_win_rate": 46.9,
+    "default_pick_rate": 19.5
+  },
+  {
+    "id": "dva",
+    "en": "D.Va",
+    "zh": "D.Va",
+    "role": "Tank",
+    "tier": "A",
+    "default_win_rate": 46.6,
+    "default_pick_rate": 8.5
+  },
+  {
+    "id": "doomfist",
+    "en": "Doomfist",
+    "zh": "毀滅拳王",
+    "role": "Tank",
+    "tier": "B",
+    "default_win_rate": 49.6,
+    "default_pick_rate": 9.4
+  },
+  {
+    "id": "echo",
+    "en": "Echo",
+    "zh": "迴音",
+    "role": "Damage",
+    "tier": "A",
+    "default_win_rate": 51.0,
+    "default_pick_rate": 5.4
+  },
+  {
+    "id": "genji",
+    "en": "Genji",
+    "zh": "源氏",
+    "role": "Damage",
+    "tier": "A",
+    "default_win_rate": 49.9,
+    "default_pick_rate": 11.2
+  },
+  {
+    "id": "hanzo",
+    "en": "Hanzo",
+    "zh": "半藏",
+    "role": "Damage",
+    "tier": "B",
+    "default_win_rate": 49.4,
+    "default_pick_rate": 7.0
+  },
+  {
+    "id": "hazard",
+    "en": "Hazard",
+    "zh": "災害",
+    "role": "Tank",
+    "tier": "B",
+    "default_win_rate": 52.0,
+    "default_pick_rate": 3.1
+  },
+  {
+    "id": "illari",
+    "en": "Illari",
+    "zh": "伊拉里",
+    "role": "Support",
+    "tier": "S",
+    "default_win_rate": 54.2,
+    "default_pick_rate": 8.7
+  },
+  {
+    "id": "junker-queen",
+    "en": "Junker Queen",
+    "zh": "垃圾鎮女王",
+    "role": "Tank",
+    "tier": "B",
+    "default_win_rate": 53.1,
+    "default_pick_rate": 3.1
+  },
+  {
+    "id": "junkrat",
+    "en": "Junkrat",
+    "zh": "炸彈鼠",
+    "role": "Damage",
+    "tier": "B",
+    "default_win_rate": 51.4,
+    "default_pick_rate": 7.7
+  },
+  {
+    "id": "juno",
+    "en": "Juno",
+    "zh": "朱諾",
+    "role": "Support",
+    "tier": "B",
+    "default_win_rate": 50.6,
+    "default_pick_rate": 13.3
+  },
+  {
+    "id": "kiriko",
+    "en": "Kiriko",
+    "zh": "霧子",
+    "role": "Support",
+    "tier": "S",
+    "default_win_rate": 47.7,
+    "default_pick_rate": 34.2
+  },
+  {
+    "id": "lifeweaver",
+    "en": "Lifeweaver",
+    "zh": "織命",
+    "role": "Support",
+    "tier": "C",
+    "default_win_rate": 47.5,
+    "default_pick_rate": 6.3
+  },
+  {
+    "id": "lucio",
+    "en": "Lúcio",
+    "zh": "路西歐",
+    "role": "Support",
+    "tier": "S",
+    "default_win_rate": 51.4,
+    "default_pick_rate": 6.3
+  },
+  {
+    "id": "mauga",
+    "en": "Mauga",
+    "zh": "莫加",
+    "role": "Tank",
+    "tier": "B",
+    "default_win_rate": 50.0,
+    "default_pick_rate": 4.6
+  },
+  {
+    "id": "mei",
+    "en": "Mei",
+    "zh": "小美",
+    "role": "Damage",
+    "tier": "B",
+    "default_win_rate": 56.0,
+    "default_pick_rate": 8.2
+  },
+  {
+    "id": "mercy",
+    "en": "Mercy",
+    "zh": "慈悲",
+    "role": "Support",
+    "tier": "B",
+    "default_win_rate": 47.4,
+    "default_pick_rate": 9.5
+  },
+  {
+    "id": "moira",
+    "en": "Moira",
+    "zh": "莫伊拉",
+    "role": "Support",
+    "tier": "C",
+    "default_win_rate": 50.4,
+    "default_pick_rate": 15.1
+  },
+  {
+    "id": "orisa",
+    "en": "Orisa",
+    "zh": "歐瑞莎",
+    "role": "Tank",
+    "tier": "B",
+    "default_win_rate": 46.7,
+    "default_pick_rate": 10.1
+  },
+  {
+    "id": "pharah",
+    "en": "Pharah",
+    "zh": "法拉",
+    "role": "Damage",
+    "tier": "C",
+    "default_win_rate": 52.0,
+    "default_pick_rate": 5.4
+  },
+  {
+    "id": "ramattra",
+    "en": "Ramattra",
+    "zh": "拉瑪塔",
+    "role": "Tank",
+    "tier": "C",
+    "default_win_rate": 48.8,
+    "default_pick_rate": 6.1
+  },
+  {
+    "id": "reaper",
+    "en": "Reaper",
+    "zh": "死神",
+    "role": "Damage",
+    "tier": "B",
+    "default_win_rate": 53.0,
+    "default_pick_rate": 10.0
+  },
+  {
+    "id": "reinhardt",
+    "en": "Reinhardt",
+    "zh": "萊因哈特",
+    "role": "Tank",
+    "tier": "B",
+    "default_win_rate": 51.8,
+    "default_pick_rate": 7.9
+  },
+  {
+    "id": "roadhog",
+    "en": "Roadhog",
+    "zh": "攔路豬",
+    "role": "Tank",
+    "tier": "A",
+    "default_win_rate": 48.7,
+    "default_pick_rate": 8.8
+  },
+  {
+    "id": "sigma",
+    "en": "Sigma",
+    "zh": "席格馬",
+    "role": "Tank",
+    "tier": "S",
+    "default_win_rate": 52.6,
+    "default_pick_rate": 9.3
+  },
+  {
+    "id": "sojourn",
+    "en": "Sojourn",
+    "zh": "索潔恩",
+    "role": "Damage",
+    "tier": "S",
+    "default_win_rate": 44.5,
+    "default_pick_rate": 12.4
+  },
+  {
+    "id": "soldier-76",
+    "en": "Soldier: 76",
+    "zh": "士兵76",
+    "role": "Damage",
+    "tier": "A",
+    "default_win_rate": 48.7,
+    "default_pick_rate": 14.9
+  },
+  {
+    "id": "sombra",
+    "en": "Sombra",
+    "zh": "駭影",
+    "role": "Damage",
+    "tier": "C",
+    "default_win_rate": 47.5,
+    "default_pick_rate": 6.3
+  },
+  {
+    "id": "symmetra",
+    "en": "Symmetra",
+    "zh": "辛梅塔",
+    "role": "Damage",
+    "tier": "A",
+    "default_win_rate": 56.7,
+    "default_pick_rate": 3.4
+  },
+  {
+    "id": "torbjorn",
+    "en": "Torbjörn",
+    "zh": "托比昂",
+    "role": "Damage",
+    "tier": "B",
+    "default_win_rate": 56.6,
+    "default_pick_rate": 4.0
+  },
+  {
+    "id": "tracer",
+    "en": "Tracer",
+    "zh": "閃光",
+    "role": "Damage",
+    "tier": "S",
+    "default_win_rate": 49.2,
+    "default_pick_rate": 8.0
+  },
+  {
+    "id": "venture",
+    "en": "Venture",
+    "zh": "無畏",
+    "role": "Damage",
+    "tier": "B",
+    "default_win_rate": 52.3,
+    "default_pick_rate": 2.8
+  },
+  {
+    "id": "widowmaker",
+    "en": "Widowmaker",
+    "zh": "奪命女",
+    "role": "Damage",
+    "tier": "B",
+    "default_win_rate": 46.3,
+    "default_pick_rate": 4.4
+  },
+  {
+    "id": "winston",
+    "en": "Winston",
+    "zh": "溫斯頓",
+    "role": "Tank",
+    "tier": "A",
+    "default_win_rate": 51.4,
+    "default_pick_rate": 6.6
+  },
+  {
+    "id": "wrecking-ball",
+    "en": "Wrecking Ball",
+    "zh": "火爆鋼球",
+    "role": "Tank",
+    "tier": "C",
+    "default_win_rate": 49.8,
+    "default_pick_rate": 3.4
+  },
+  {
+    "id": "zarya",
+    "en": "Zarya",
+    "zh": "札莉雅",
+    "role": "Tank",
+    "tier": "S",
+    "default_win_rate": 48.4,
+    "default_pick_rate": 6.4
+  },
+  {
+    "id": "zenyatta",
+    "en": "Zenyatta",
+    "zh": "禪亞塔",
+    "role": "Support",
+    "tier": "B",
+    "default_win_rate": 54.1,
+    "default_pick_rate": 10.4
+  },
+  {
+    "id": "anran",
+    "en": "Anran",
+    "zh": "安燃",
+    "role": "Damage",
+    "tier": "B",
+    "default_win_rate": 52.1,
+    "default_pick_rate": 12.9
+  },
+  {
+    "id": "domina",
+    "en": "Domina",
+    "zh": "多米娜",
+    "role": "Tank",
+    "tier": "S",
+    "default_win_rate": 52.6,
+    "default_pick_rate": 12.7
+  },
+  {
+    "id": "emre",
+    "en": "Emre",
+    "zh": "伊默",
+    "role": "Damage",
+    "tier": "A",
+    "default_win_rate": 49.9,
+    "default_pick_rate": 18.6
+  },
+  {
+    "id": "jetpack-cat",
+    "en": "Jetpack Cat",
+    "zh": "火箭貓",
+    "role": "Support",
+    "tier": "A",
+    "default_win_rate": 49.5,
+    "default_pick_rate": 13.0
+  },
+  {
+    "id": "mizuki",
+    "en": "Mizuki",
+    "zh": "瑞稀",
+    "role": "Support",
+    "tier": "A",
+    "default_win_rate": 54.1,
+    "default_pick_rate": 21.4
+  },
+  {
+    "id": "vendetta",
+    "en": "Vendetta",
+    "zh": "宿怨",
+    "role": "Damage",
+    "tier": "S",
+    "default_win_rate": 51.8,
+    "default_pick_rate": 10.9
+  },
+  {
+    "id": "freja",
+    "en": "Freja",
+    "zh": "弗蕾亞",
+    "role": "Damage",
+    "tier": "B",
+    "default_win_rate": 46.0,
+    "default_pick_rate": 5.2
+  },
+  {
+    "id": "wuyang",
+    "en": "Wuyang",
+    "zh": "無漾",
+    "role": "Support",
+    "tier": "A",
+    "default_win_rate": 52.1,
+    "default_pick_rate": 14.1
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "ilios",
+    "en": "Ilios",
+    "zh": "伊利歐斯",
+    "mode": "Control",
+    "thumbnail": null
+  },
+  {
+    "id": "nepal",
+    "en": "Nepal",
+    "zh": "尼泊爾",
+    "mode": "Control",
+    "thumbnail": null
+  },
+  {
+    "id": "lijiang-tower",
+    "en": "Lijiang Tower",
+    "zh": "灕江天塔",
+    "mode": "Control",
+    "thumbnail": null
+  },
+  {
+    "id": "oasis",
+    "en": "Oasis",
+    "zh": "綠洲城",
+    "mode": "Control",
+    "thumbnail": null
+  },
+  {
+    "id": "samoa",
+    "en": "Samoa",
+    "zh": "薩摩亞",
+    "mode": "Control",
+    "thumbnail": null
+  },
+  {
+    "id": "busan",
+    "en": "Busan",
+    "zh": "釜山",
+    "mode": "Control",
+    "thumbnail": null
+  },
+  {
+    "id": "route-66",
+    "en": "Route 66",
+    "zh": "66號公路",
+    "mode": "Escort",
+    "thumbnail": null
+  },
+  {
+    "id": "havana",
+    "en": "Havana",
+    "zh": "哈瓦那",
+    "mode": "Escort",
+    "thumbnail": null
+  },
+  {
+    "id": "junkertown",
+    "en": "Junkertown",
+    "zh": "垃圾鎮",
+    "mode": "Escort",
+    "thumbnail": null
+  },
+  {
+    "id": "dorado",
+    "en": "Dorado",
+    "zh": "多拉多",
+    "mode": "Escort",
+    "thumbnail": null
+  },
+  {
+    "id": "watchpoint-gibraltar",
+    "en": "Watchpoint: Gibraltar",
+    "zh": "捍衛者基地：直布羅陀",
+    "mode": "Escort",
+    "thumbnail": null
+  },
+  {
+    "id": "circuit-royal",
+    "en": "Circuit Royal",
+    "zh": "皇家賽道",
+    "mode": "Escort",
+    "thumbnail": null
+  },
+  {
+    "id": "rialto",
+    "en": "Rialto",
+    "zh": "里亞爾托",
+    "mode": "Escort",
+    "thumbnail": null
+  },
+  {
+    "id": "shambali-monastery",
+    "en": "Shambali Monastery",
+    "zh": "香巴里僧院",
+    "mode": "Escort",
+    "thumbnail": null
+  },
+  {
+    "id": "aatlis",
+    "en": "Aatlis",
+    "zh": "埃特利斯",
+    "mode": "Flashpoint",
+    "thumbnail": null
+  },
+  {
+    "id": "new-junk-city",
+    "en": "New Junk City",
+    "zh": "新垃圾城",
+    "mode": "Flashpoint",
+    "thumbnail": null
+  },
+  {
+    "id": "suravasa",
+    "en": "Suravasa",
+    "zh": "蘇拉瓦薩",
+    "mode": "Flashpoint",
+    "thumbnail": null
+  },
+  {
+    "id": "midtown",
+    "en": "Midtown",
+    "zh": "中城區",
+    "mode": "Hybrid",
+    "thumbnail": null
+  },
+  {
+    "id": "numbani",
+    "en": "Numbani",
+    "zh": "努巴尼",
+    "mode": "Hybrid",
+    "thumbnail": null
+  },
+  {
+    "id": "kings-row",
+    "en": "King's Row",
+    "zh": "國王大道",
+    "mode": "Hybrid",
+    "thumbnail": null
+  },
+  {
+    "id": "hollywood",
+    "en": "Hollywood",
+    "zh": "好萊塢",
+    "mode": "Hybrid",
+    "thumbnail": null
+  },
+  {
+    "id": "paraiso",
+    "en": "Paraíso",
+    "zh": "帕拉伊索",
+    "mode": "Hybrid",
+    "thumbnail": null
+  },
+  {
+    "id": "eichenwalde",
+    "en": "Eichenwalde",
+    "zh": "愛西瓦德",
+    "mode": "Hybrid",
+    "thumbnail": null
+  },
+  {
+    "id": "blizzard-world",
+    "en": "Blizzard World",
+    "zh": "暴雪樂園",
+    "mode": "Hybrid",
+    "thumbnail": null
+  },
+  {
+    "id": "esperanca",
+    "en": "Esperança",
+    "zh": "希望之城",
+    "mode": "Push",
+    "thumbnail": null
+  },
+  {
+    "id": "new-queen-street",
+    "en": "New Queen Street",
+    "zh": "新皇后街",
+    "mode": "Push",
+    "thumbnail": null
+  },
+  {
+    "id": "runasapi",
+    "en": "Runasapi",
+    "zh": "盧納薩庇",
+    "mode": "Push",
+    "thumbnail": null
+  },
+  {
+    "id": "colosseo",
+    "en": "Colosseo",
+    "zh": "羅馬競技場",
+    "mode": "Push",
+    "thumbnail": null
+  }
+]

@@ -1,0 +1,6991 @@
+{
+  "last_updated": "2026-03-18 00:01:00",
+  "maps": [
+    {
+      "id": "ilios",
+      "en": "Ilios",
+      "zh": "伊利歐斯",
+      "mode": "Control",
+      "thumbnail": null
+    },
+    {
+      "id": "nepal",
+      "en": "Nepal",
+      "zh": "尼泊爾",
+      "mode": "Control",
+      "thumbnail": null
+    },
+    {
+      "id": "lijiang-tower",
+      "en": "Lijiang Tower",
+      "zh": "灕江天塔",
+      "mode": "Control",
+      "thumbnail": null
+    },
+    {
+      "id": "oasis",
+      "en": "Oasis",
+      "zh": "綠洲城",
+      "mode": "Control",
+      "thumbnail": null
+    },
+    {
+      "id": "samoa",
+      "en": "Samoa",
+      "zh": "薩摩亞",
+      "mode": "Control",
+      "thumbnail": null
+    },
+    {
+      "id": "busan",
+      "en": "Busan",
+      "zh": "釜山",
+      "mode": "Control",
+      "thumbnail": null
+    },
+    {
+      "id": "route-66",
+      "en": "Route 66",
+      "zh": "66號公路",
+      "mode": "Escort",
+      "thumbnail": null
+    },
+    {
+      "id": "havana",
+      "en": "Havana",
+      "zh": "哈瓦那",
+      "mode": "Escort",
+      "thumbnail": null
+    },
+    {
+      "id": "junkertown",
+      "en": "Junkertown",
+      "zh": "垃圾鎮",
+      "mode": "Escort",
+      "thumbnail": null
+    },
+    {
+      "id": "dorado",
+      "en": "Dorado",
+      "zh": "多拉多",
+      "mode": "Escort",
+      "thumbnail": null
+    },
+    {
+      "id": "watchpoint-gibraltar",
+      "en": "Watchpoint: Gibraltar",
+      "zh": "捍衛者基地：直布羅陀",
+      "mode": "Escort",
+      "thumbnail": null
+    },
+    {
+      "id": "circuit-royal",
+      "en": "Circuit Royal",
+      "zh": "皇家賽道",
+      "mode": "Escort",
+      "thumbnail": null
+    },
+    {
+      "id": "rialto",
+      "en": "Rialto",
+      "zh": "里亞爾托",
+      "mode": "Escort",
+      "thumbnail": null
+    },
+    {
+      "id": "shambali-monastery",
+      "en": "Shambali Monastery",
+      "zh": "香巴里僧院",
+      "mode": "Escort",
+      "thumbnail": null
+    },
+    {
+      "id": "aatlis",
+      "en": "Aatlis",
+      "zh": "埃特利斯",
+      "mode": "Flashpoint",
+      "thumbnail": null
+    },
+    {
+      "id": "new-junk-city",
+      "en": "New Junk City",
+      "zh": "新垃圾城",
+      "mode": "Flashpoint",
+      "thumbnail": null
+    },
+    {
+      "id": "suravasa",
+      "en": "Suravasa",
+      "zh": "蘇拉瓦薩",
+      "mode": "Flashpoint",
+      "thumbnail": null
+    },
+    {
+      "id": "midtown",
+      "en": "Midtown",
+      "zh": "中城區",
+      "mode": "Hybrid",
+      "thumbnail": null
+    },
+    {
+      "id": "numbani",
+      "en": "Numbani",
+      "zh": "努巴尼",
+      "mode": "Hybrid",
+      "thumbnail": null
+    },
+    {
+      "id": "kings-row",
+      "en": "King's Row",
+      "zh": "國王大道",
+      "mode": "Hybrid",
+      "thumbnail": null
+    },
+    {
+      "id": "hollywood",
+      "en": "Hollywood",
+      "zh": "好萊塢",
+      "mode": "Hybrid",
+      "thumbnail": null
+    },
+    {
+      "id": "paraiso",
+      "en": "Paraíso",
+      "zh": "帕拉伊索",
+      "mode": "Hybrid",
+      "thumbnail": null
+    },
+    {
+      "id": "eichenwalde",
+      "en": "Eichenwalde",
+      "zh": "愛西瓦德",
+      "mode": "Hybrid",
+      "thumbnail": null
+    },
+    {
+      "id": "blizzard-world",
+      "en": "Blizzard World",
+      "zh": "暴雪樂園",
+      "mode": "Hybrid",
+      "thumbnail": null
+    },
+    {
+      "id": "esperanca",
+      "en": "Esperança",
+      "zh": "希望之城",
+      "mode": "Push",
+      "thumbnail": null
+    },
+    {
+      "id": "new-queen-street",
+      "en": "New Queen Street",
+      "zh": "新皇后街",
+      "mode": "Push",
+      "thumbnail": null
+    },
+    {
+      "id": "runasapi",
+      "en": "Runasapi",
+      "zh": "盧納薩庇",
+      "mode": "Push",
+      "thumbnail": null
+    },
+    {
+      "id": "colosseo",
+      "en": "Colosseo",
+      "zh": "羅馬競技場",
+      "mode": "Push",
+      "thumbnail": null
+    }
+  ],
+  "heroes": [
+    {
+      "id": "ana",
+      "en": "Ana",
+      "zh": "安娜",
+      "role": "Support",
+      "tier": "A",
+      "default_win_rate": 46.9,
+      "default_pick_rate": 38.1,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Sleep Dart is Ana’s primary means of survival. If you see her shoot it or sleep an ally, that is your signal to go attack her.",
+          "When playing Tank or any dive hero, you’ll need to play around anti-nades. Try to predict her timing and use your mitigation or evade ability to make sure you don’t get anti-healed.",
+          "Don’t overcommit to trying to kill her Tank if she hasn’t used Nano in a while. After you use up your cooldowns trying to get the kill, she’ll Nano the Tank, and their counterattack will be too much for you to survive."
+        ],
+        "countered_by_mentions": [
+          "Ana"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 45.9,
+          "pick_rate": 32.2
+        },
+        "nepal": {
+          "win_rate": 46.4,
+          "pick_rate": 36.4
+        },
+        "lijiang-tower": {
+          "win_rate": 45.9,
+          "pick_rate": 36.0
+        },
+        "oasis": {
+          "win_rate": 46.0,
+          "pick_rate": 35.0
+        },
+        "samoa": {
+          "win_rate": 46.1,
+          "pick_rate": 36.2
+        },
+        "busan": {
+          "win_rate": 46.6,
+          "pick_rate": 35.2
+        },
+        "route-66": {
+          "win_rate": 48.3,
+          "pick_rate": 41.6
+        },
+        "havana": {
+          "win_rate": 48.2,
+          "pick_rate": 44.7
+        },
+        "junkertown": {
+          "win_rate": 48.2,
+          "pick_rate": 43.1
+        },
+        "dorado": {
+          "win_rate": 47.5,
+          "pick_rate": 38.8
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 47.8,
+          "pick_rate": 39.8
+        },
+        "circuit-royal": {
+          "win_rate": 47.7,
+          "pick_rate": 45.4
+        },
+        "rialto": {
+          "win_rate": 47.7,
+          "pick_rate": 43.6
+        },
+        "shambali-monastery": {
+          "win_rate": 47.0,
+          "pick_rate": 41.8
+        },
+        "aatlis": {
+          "win_rate": 45.5,
+          "pick_rate": 28.9
+        },
+        "new-junk-city": {
+          "win_rate": 46.0,
+          "pick_rate": 30.7
+        },
+        "suravasa": {
+          "win_rate": 45.2,
+          "pick_rate": 32.8
+        },
+        "midtown": {
+          "win_rate": 48.2,
+          "pick_rate": 42.4
+        },
+        "numbani": {
+          "win_rate": 47.7,
+          "pick_rate": 38.9
+        },
+        "kings-row": {
+          "win_rate": 48.2,
+          "pick_rate": 45.6
+        },
+        "hollywood": {
+          "win_rate": 48.1,
+          "pick_rate": 42.7
+        },
+        "paraiso": {
+          "win_rate": 46.8,
+          "pick_rate": 37.5
+        },
+        "eichenwalde": {
+          "win_rate": 47.8,
+          "pick_rate": 40.8
+        },
+        "blizzard-world": {
+          "win_rate": 47.2,
+          "pick_rate": 40.3
+        },
+        "new-queen-street": {
+          "win_rate": 47.2,
+          "pick_rate": 35.2
+        },
+        "runasapi": {
+          "win_rate": 46.0,
+          "pick_rate": 34.3
+        },
+        "colosseo": {
+          "win_rate": 45.9,
+          "pick_rate": 39.6
+        }
+      }
+    },
+    {
+      "id": "ashe",
+      "en": "Ashe",
+      "zh": "艾西",
+      "role": "Damage",
+      "tier": "A",
+      "default_win_rate": 50.4,
+      "default_pick_rate": 11.8,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Close the distance. \nAshe\n struggles in close-range fights. Find ways to approach her and shut her down.",
+          "Keep track of \nDynamite\n's 12-second cooldown. If she just used it, you can move up. If she hasn’t thrown it for a while, try to stand outside of her throw range.",
+          "Hide from \nB.O.B.\n He has a huge health pool, so if your team can’t burst him down quickly, it's best to get out of his LoS and wait until he leaves."
+        ],
+        "countered_by_mentions": [
+          "Ashe",
+          "Widowmaker"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 48.0,
+          "pick_rate": 8.7
+        },
+        "nepal": {
+          "win_rate": 47.0,
+          "pick_rate": 8.3
+        },
+        "lijiang-tower": {
+          "win_rate": 46.9,
+          "pick_rate": 7.5
+        },
+        "oasis": {
+          "win_rate": 48.3,
+          "pick_rate": 7.7
+        },
+        "samoa": {
+          "win_rate": 48.7,
+          "pick_rate": 9.0
+        },
+        "busan": {
+          "win_rate": 49.4,
+          "pick_rate": 10.5
+        },
+        "route-66": {
+          "win_rate": 52.4,
+          "pick_rate": 17.1
+        },
+        "havana": {
+          "win_rate": 53.4,
+          "pick_rate": 17.3
+        },
+        "junkertown": {
+          "win_rate": 51.8,
+          "pick_rate": 17.0
+        },
+        "dorado": {
+          "win_rate": 52.5,
+          "pick_rate": 14.9
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 53.1,
+          "pick_rate": 15.9
+        },
+        "circuit-royal": {
+          "win_rate": 53.7,
+          "pick_rate": 19.0
+        },
+        "rialto": {
+          "win_rate": 52.3,
+          "pick_rate": 16.7
+        },
+        "shambali-monastery": {
+          "win_rate": 51.6,
+          "pick_rate": 15.2
+        },
+        "aatlis": {
+          "win_rate": 47.2,
+          "pick_rate": 5.6
+        },
+        "new-junk-city": {
+          "win_rate": 46.6,
+          "pick_rate": 6.2
+        },
+        "suravasa": {
+          "win_rate": 49.2,
+          "pick_rate": 6.5
+        },
+        "midtown": {
+          "win_rate": 52.6,
+          "pick_rate": 15.7
+        },
+        "numbani": {
+          "win_rate": 50.9,
+          "pick_rate": 15.4
+        },
+        "kings-row": {
+          "win_rate": 51.1,
+          "pick_rate": 13.7
+        },
+        "hollywood": {
+          "win_rate": 51.3,
+          "pick_rate": 15.6
+        },
+        "paraiso": {
+          "win_rate": 53.3,
+          "pick_rate": 15.5
+        },
+        "eichenwalde": {
+          "win_rate": 50.9,
+          "pick_rate": 12.1
+        },
+        "blizzard-world": {
+          "win_rate": 52.4,
+          "pick_rate": 15.1
+        },
+        "new-queen-street": {
+          "win_rate": 49.9,
+          "pick_rate": 10.7
+        },
+        "runasapi": {
+          "win_rate": 48.1,
+          "pick_rate": 10.0
+        },
+        "colosseo": {
+          "win_rate": 49.0,
+          "pick_rate": 12.8
+        }
+      }
+    },
+    {
+      "id": "baptiste",
+      "en": "Baptiste",
+      "zh": "巴帝斯特",
+      "role": "Support",
+      "tier": "B",
+      "default_win_rate": 46.1,
+      "default_pick_rate": 6.0,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Don’t commit long cooldowns or ultimates until after you’ve seen him use Immortality Field. Try to attack with your standard attacks or short CDs, retreat, then re-engage after he’s used it.",
+          "Watch his jumps, and track him in the air. He’s easiest to elim while he’s locked in the jump arc.",
+          "His primary fire has severe damage falloff. Keep your distance and take him down with heroes like Ana, Kiri, and Widowmaker."
+        ],
+        "countered_by_mentions": []
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 44.4,
+          "pick_rate": 5.3
+        },
+        "nepal": {
+          "win_rate": 45.1,
+          "pick_rate": 5.4
+        },
+        "lijiang-tower": {
+          "win_rate": 44.4,
+          "pick_rate": 5.2
+        },
+        "oasis": {
+          "win_rate": 46.1,
+          "pick_rate": 5.8
+        },
+        "samoa": {
+          "win_rate": 46.0,
+          "pick_rate": 6.0
+        },
+        "busan": {
+          "win_rate": 45.7,
+          "pick_rate": 5.7
+        },
+        "route-66": {
+          "win_rate": 47.6,
+          "pick_rate": 6.6
+        },
+        "havana": {
+          "win_rate": 46.1,
+          "pick_rate": 6.4
+        },
+        "junkertown": {
+          "win_rate": 47.9,
+          "pick_rate": 6.5
+        },
+        "dorado": {
+          "win_rate": 47.7,
+          "pick_rate": 6.7
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 47.7,
+          "pick_rate": 6.7
+        },
+        "circuit-royal": {
+          "win_rate": 47.6,
+          "pick_rate": 7.4
+        },
+        "rialto": {
+          "win_rate": 46.9,
+          "pick_rate": 6.5
+        },
+        "shambali-monastery": {
+          "win_rate": 46.3,
+          "pick_rate": 6.5
+        },
+        "aatlis": {
+          "win_rate": 44.2,
+          "pick_rate": 5.0
+        },
+        "new-junk-city": {
+          "win_rate": 43.8,
+          "pick_rate": 5.2
+        },
+        "suravasa": {
+          "win_rate": 45.6,
+          "pick_rate": 5.0
+        },
+        "midtown": {
+          "win_rate": 48.2,
+          "pick_rate": 6.9
+        },
+        "numbani": {
+          "win_rate": 46.5,
+          "pick_rate": 7.1
+        },
+        "kings-row": {
+          "win_rate": 46.9,
+          "pick_rate": 6.8
+        },
+        "hollywood": {
+          "win_rate": 46.2,
+          "pick_rate": 6.7
+        },
+        "paraiso": {
+          "win_rate": 48.1,
+          "pick_rate": 6.7
+        },
+        "eichenwalde": {
+          "win_rate": 46.5,
+          "pick_rate": 6.4
+        },
+        "blizzard-world": {
+          "win_rate": 47.1,
+          "pick_rate": 6.5
+        },
+        "new-queen-street": {
+          "win_rate": 46.1,
+          "pick_rate": 5.3
+        },
+        "runasapi": {
+          "win_rate": 45.7,
+          "pick_rate": 5.2
+        },
+        "colosseo": {
+          "win_rate": 44.5,
+          "pick_rate": 5.4
+        }
+      }
+    },
+    {
+      "id": "bastion",
+      "en": "Bastion",
+      "zh": "壁壘機兵",
+      "role": "Damage",
+      "tier": "B",
+      "default_win_rate": 48.8,
+      "default_pick_rate": 9.8,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Turret form only lasts for 6 seconds. Most of the time, your best play is to hide and wait for a few seconds. Don’t peek or else you’ll be killed or have to waste resources to not die.",
+          "Attack aggressively after his turret mode ends. His damage is low in Recon so you can ignore him and target his \nSupport\ns during his \nConfiguration: Assault\n cooldown.",
+          "Heroes with damage mitigation to shut down his turret form, or the mobility to outrun him, are the best counters. The key to beating \nBastion\n comps is to minimize the value he gets from each \nConfiguration: Assault\n use."
+        ],
+        "countered_by_mentions": [
+          "Bastion",
+          "D.Va",
+          "Orisa",
+          "Reinhardt",
+          "Sigma",
+          "Winston",
+          "Domina"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 48.7,
+          "pick_rate": 8.9
+        },
+        "nepal": {
+          "win_rate": 49.8,
+          "pick_rate": 9.4
+        },
+        "lijiang-tower": {
+          "win_rate": 48.2,
+          "pick_rate": 9.3
+        },
+        "oasis": {
+          "win_rate": 48.6,
+          "pick_rate": 9.8
+        },
+        "samoa": {
+          "win_rate": 50.4,
+          "pick_rate": 10.3
+        },
+        "busan": {
+          "win_rate": 48.8,
+          "pick_rate": 10.1
+        },
+        "route-66": {
+          "win_rate": 48.2,
+          "pick_rate": 10.4
+        },
+        "havana": {
+          "win_rate": 48.5,
+          "pick_rate": 10.5
+        },
+        "junkertown": {
+          "win_rate": 49.2,
+          "pick_rate": 10.3
+        },
+        "dorado": {
+          "win_rate": 48.4,
+          "pick_rate": 9.5
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 48.7,
+          "pick_rate": 9.7
+        },
+        "circuit-royal": {
+          "win_rate": 50.0,
+          "pick_rate": 10.5
+        },
+        "rialto": {
+          "win_rate": 49.2,
+          "pick_rate": 10.3
+        },
+        "shambali-monastery": {
+          "win_rate": 50.7,
+          "pick_rate": 9.9
+        },
+        "aatlis": {
+          "win_rate": 46.8,
+          "pick_rate": 8.1
+        },
+        "new-junk-city": {
+          "win_rate": 46.1,
+          "pick_rate": 8.4
+        },
+        "suravasa": {
+          "win_rate": 47.5,
+          "pick_rate": 7.9
+        },
+        "midtown": {
+          "win_rate": 49.6,
+          "pick_rate": 10.9
+        },
+        "numbani": {
+          "win_rate": 49.7,
+          "pick_rate": 10.1
+        },
+        "kings-row": {
+          "win_rate": 49.4,
+          "pick_rate": 11.2
+        },
+        "hollywood": {
+          "win_rate": 48.1,
+          "pick_rate": 10.1
+        },
+        "paraiso": {
+          "win_rate": 48.8,
+          "pick_rate": 10.7
+        },
+        "eichenwalde": {
+          "win_rate": 48.6,
+          "pick_rate": 11.3
+        },
+        "blizzard-world": {
+          "win_rate": 48.9,
+          "pick_rate": 10.1
+        },
+        "new-queen-street": {
+          "win_rate": 48.6,
+          "pick_rate": 9.3
+        },
+        "runasapi": {
+          "win_rate": 48.4,
+          "pick_rate": 9.6
+        },
+        "colosseo": {
+          "win_rate": 46.4,
+          "pick_rate": 9.5
+        }
+      }
+    },
+    {
+      "id": "brigitte",
+      "en": "Brigitte",
+      "zh": "碧姬",
+      "role": "Support",
+      "tier": "B",
+      "default_win_rate": 49.8,
+      "default_pick_rate": 3.6,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Poke. Brig can’t directly deal with poke damage, and it's a great way to pressure her Shield and keep her playing passively.",
+          "Soft engage to get \nWhip Shot\nout, then use movement cooldowns when she can’t knock you away.",
+          "Target her allies. Brig’s healing is pretty slow, so often the best strategy is to kill the rest of her team first, then her last."
+        ],
+        "countered_by_mentions": []
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 51.5,
+          "pick_rate": 4.7
+        },
+        "nepal": {
+          "win_rate": 51.2,
+          "pick_rate": 4.1
+        },
+        "lijiang-tower": {
+          "win_rate": 50.5,
+          "pick_rate": 4.0
+        },
+        "oasis": {
+          "win_rate": 49.3,
+          "pick_rate": 4.6
+        },
+        "samoa": {
+          "win_rate": 50.1,
+          "pick_rate": 4.6
+        },
+        "busan": {
+          "win_rate": 49.6,
+          "pick_rate": 4.3
+        },
+        "route-66": {
+          "win_rate": 49.7,
+          "pick_rate": 2.8
+        },
+        "havana": {
+          "win_rate": 52.5,
+          "pick_rate": 2.3
+        },
+        "junkertown": {
+          "win_rate": 48.9,
+          "pick_rate": 2.7
+        },
+        "dorado": {
+          "win_rate": 48.6,
+          "pick_rate": 3.4
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 50.1,
+          "pick_rate": 3.0
+        },
+        "circuit-royal": {
+          "win_rate": 46.7,
+          "pick_rate": 2.0
+        },
+        "rialto": {
+          "win_rate": 49.8,
+          "pick_rate": 2.7
+        },
+        "shambali-monastery": {
+          "win_rate": 49.7,
+          "pick_rate": 2.7
+        },
+        "aatlis": {
+          "win_rate": 52.1,
+          "pick_rate": 5.4
+        },
+        "new-junk-city": {
+          "win_rate": 50.3,
+          "pick_rate": 5.0
+        },
+        "suravasa": {
+          "win_rate": 48.4,
+          "pick_rate": 4.9
+        },
+        "midtown": {
+          "win_rate": 51.2,
+          "pick_rate": 2.4
+        },
+        "numbani": {
+          "win_rate": 47.8,
+          "pick_rate": 2.7
+        },
+        "kings-row": {
+          "win_rate": 47.5,
+          "pick_rate": 2.6
+        },
+        "hollywood": {
+          "win_rate": 48.6,
+          "pick_rate": 2.7
+        },
+        "paraiso": {
+          "win_rate": 50.0,
+          "pick_rate": 2.8
+        },
+        "eichenwalde": {
+          "win_rate": 51.1,
+          "pick_rate": 2.7
+        },
+        "blizzard-world": {
+          "win_rate": 49.0,
+          "pick_rate": 2.8
+        },
+        "new-queen-street": {
+          "win_rate": 46.2,
+          "pick_rate": 3.9
+        },
+        "runasapi": {
+          "win_rate": 50.3,
+          "pick_rate": 3.9
+        },
+        "colosseo": {
+          "win_rate": 47.2,
+          "pick_rate": 3.5
+        }
+      }
+    },
+    {
+      "id": "cassidy",
+      "en": "Cassidy",
+      "zh": "卡西迪",
+      "role": "Damage",
+      "tier": "A",
+      "default_win_rate": 46.9,
+      "default_pick_rate": 19.5,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Plan to counter \nFlashbang\n. If your hero has a way to block or dodge Flashbang, be sure to save it when getting into close range against a Cassidy.",
+          "Position outside his optimal range. Many heroes like \nAshe\n, \nFreja\n, \nAna\n, and \nZenyatta\n have the upper hand in long-range fights against Cassidy.",
+          "Watch for \nDeadeye\n. If you don’t see Cassidy for a bit, he’s likely setting up a flank Deadeye. Stay near cover; you can hide behind it or prepare your counterattack."
+        ],
+        "countered_by_mentions": [
+          "Ana",
+          "Ashe",
+          "Cassidy",
+          "Zenyatta",
+          "Freja"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 46.6,
+          "pick_rate": 21.2
+        },
+        "nepal": {
+          "win_rate": 46.4,
+          "pick_rate": 20.9
+        },
+        "lijiang-tower": {
+          "win_rate": 47.0,
+          "pick_rate": 21.8
+        },
+        "oasis": {
+          "win_rate": 48.7,
+          "pick_rate": 24.2
+        },
+        "samoa": {
+          "win_rate": 47.2,
+          "pick_rate": 22.5
+        },
+        "busan": {
+          "win_rate": 48.2,
+          "pick_rate": 20.4
+        },
+        "route-66": {
+          "win_rate": 46.0,
+          "pick_rate": 18.0
+        },
+        "havana": {
+          "win_rate": 46.7,
+          "pick_rate": 15.2
+        },
+        "junkertown": {
+          "win_rate": 47.1,
+          "pick_rate": 16.9
+        },
+        "dorado": {
+          "win_rate": 46.5,
+          "pick_rate": 17.7
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 46.4,
+          "pick_rate": 16.6
+        },
+        "circuit-royal": {
+          "win_rate": 45.8,
+          "pick_rate": 13.9
+        },
+        "rialto": {
+          "win_rate": 45.3,
+          "pick_rate": 16.0
+        },
+        "shambali-monastery": {
+          "win_rate": 45.8,
+          "pick_rate": 16.9
+        },
+        "aatlis": {
+          "win_rate": 47.8,
+          "pick_rate": 24.6
+        },
+        "new-junk-city": {
+          "win_rate": 47.8,
+          "pick_rate": 23.3
+        },
+        "suravasa": {
+          "win_rate": 46.0,
+          "pick_rate": 24.6
+        },
+        "midtown": {
+          "win_rate": 47.4,
+          "pick_rate": 17.4
+        },
+        "numbani": {
+          "win_rate": 46.3,
+          "pick_rate": 17.4
+        },
+        "kings-row": {
+          "win_rate": 46.5,
+          "pick_rate": 16.4
+        },
+        "hollywood": {
+          "win_rate": 45.7,
+          "pick_rate": 17.0
+        },
+        "paraiso": {
+          "win_rate": 47.6,
+          "pick_rate": 16.8
+        },
+        "eichenwalde": {
+          "win_rate": 45.8,
+          "pick_rate": 17.4
+        },
+        "blizzard-world": {
+          "win_rate": 46.9,
+          "pick_rate": 16.5
+        },
+        "new-queen-street": {
+          "win_rate": 47.0,
+          "pick_rate": 20.7
+        },
+        "runasapi": {
+          "win_rate": 48.9,
+          "pick_rate": 21.8
+        },
+        "colosseo": {
+          "win_rate": 45.4,
+          "pick_rate": 18.6
+        }
+      }
+    },
+    {
+      "id": "dva",
+      "en": "D.Va",
+      "zh": "D.Va",
+      "role": "Tank",
+      "tier": "A",
+      "default_win_rate": 46.6,
+      "default_pick_rate": 8.5,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "The most distinct advantage \nD.Va\n has over the rest of the Tanks is her ability to fly for 2 seconds, every 3 and a half seconds."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Create crossfire. Attacking \nD.Va\n from multiple directions stops her from Matrixing all your team's damage.",
+          "Stay together. Focus on keeping each other alive and forcing her to retreat. Every time she leaves close range, her value goes way down.",
+          "D.Va\n has no protection against beam and melee attacks. If you’re struggling, consider swapping to counter."
+        ],
+        "countered_by_mentions": [
+          "D.Va"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 47.8,
+          "pick_rate": 9.1
+        },
+        "nepal": {
+          "win_rate": 44.8,
+          "pick_rate": 6.9
+        },
+        "lijiang-tower": {
+          "win_rate": 45.8,
+          "pick_rate": 7.0
+        },
+        "oasis": {
+          "win_rate": 47.0,
+          "pick_rate": 8.0
+        },
+        "samoa": {
+          "win_rate": 46.2,
+          "pick_rate": 6.6
+        },
+        "busan": {
+          "win_rate": 48.2,
+          "pick_rate": 9.6
+        },
+        "route-66": {
+          "win_rate": 47.7,
+          "pick_rate": 10.6
+        },
+        "havana": {
+          "win_rate": 44.0,
+          "pick_rate": 8.4
+        },
+        "junkertown": {
+          "win_rate": 46.5,
+          "pick_rate": 9.1
+        },
+        "dorado": {
+          "win_rate": 48.5,
+          "pick_rate": 13.6
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 48.6,
+          "pick_rate": 15.6
+        },
+        "circuit-royal": {
+          "win_rate": 42.6,
+          "pick_rate": 6.7
+        },
+        "rialto": {
+          "win_rate": 45.2,
+          "pick_rate": 8.9
+        },
+        "shambali-monastery": {
+          "win_rate": 45.9,
+          "pick_rate": 7.2
+        },
+        "aatlis": {
+          "win_rate": 47.7,
+          "pick_rate": 7.5
+        },
+        "new-junk-city": {
+          "win_rate": 48.9,
+          "pick_rate": 6.8
+        },
+        "suravasa": {
+          "win_rate": 47.5,
+          "pick_rate": 7.1
+        },
+        "midtown": {
+          "win_rate": 43.6,
+          "pick_rate": 6.7
+        },
+        "numbani": {
+          "win_rate": 50.4,
+          "pick_rate": 13.5
+        },
+        "kings-row": {
+          "win_rate": 44.2,
+          "pick_rate": 7.1
+        },
+        "hollywood": {
+          "win_rate": 47.0,
+          "pick_rate": 9.8
+        },
+        "paraiso": {
+          "win_rate": 48.5,
+          "pick_rate": 10.9
+        },
+        "eichenwalde": {
+          "win_rate": 45.0,
+          "pick_rate": 7.8
+        },
+        "blizzard-world": {
+          "win_rate": 46.1,
+          "pick_rate": 9.4
+        },
+        "new-queen-street": {
+          "win_rate": 47.4,
+          "pick_rate": 8.0
+        },
+        "runasapi": {
+          "win_rate": 47.2,
+          "pick_rate": 7.7
+        },
+        "colosseo": {
+          "win_rate": 45.1,
+          "pick_rate": 7.0
+        }
+      }
+    },
+    {
+      "id": "doomfist",
+      "en": "Doomfist",
+      "zh": "毀滅拳王",
+      "role": "Tank",
+      "tier": "B",
+      "default_win_rate": 49.6,
+      "default_pick_rate": 9.4,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Doomfist\n and his incredible mobility are best utilized on maps where teams tend to play spread out."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "While he’s blocking or charging \nRocket Punch\n, stun him. He’s sitting still, and cancelling his \nPower Block\n is the best method for eliminating \nDoomfist\n.",
+          "Dodge his engage attack. Keep track of \nDoomfist\n and watch for when he’s coming in with \nSeismic Slam\n or \nRocket Punch\n. If you dodge his initial attack, he misses out on overhealth and will have to reset.",
+          "To counter \nDoomfist\n, play heroes with stuns or high mobility heroes who can evade him. If you can’t run away or stun him, \nDoomfist\n will harass you all game."
+        ],
+        "countered_by_mentions": [
+          "Doomfist"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 48.3,
+          "pick_rate": 9.6
+        },
+        "nepal": {
+          "win_rate": 49.6,
+          "pick_rate": 10.8
+        },
+        "lijiang-tower": {
+          "win_rate": 50.4,
+          "pick_rate": 11.9
+        },
+        "oasis": {
+          "win_rate": 48.4,
+          "pick_rate": 10.0
+        },
+        "samoa": {
+          "win_rate": 48.7,
+          "pick_rate": 9.1
+        },
+        "busan": {
+          "win_rate": 48.4,
+          "pick_rate": 9.5
+        },
+        "route-66": {
+          "win_rate": 49.6,
+          "pick_rate": 8.4
+        },
+        "havana": {
+          "win_rate": 48.4,
+          "pick_rate": 7.8
+        },
+        "junkertown": {
+          "win_rate": 48.6,
+          "pick_rate": 8.0
+        },
+        "dorado": {
+          "win_rate": 50.7,
+          "pick_rate": 9.5
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 50.1,
+          "pick_rate": 9.2
+        },
+        "circuit-royal": {
+          "win_rate": 49.6,
+          "pick_rate": 7.5
+        },
+        "rialto": {
+          "win_rate": 50.3,
+          "pick_rate": 8.9
+        },
+        "shambali-monastery": {
+          "win_rate": 49.7,
+          "pick_rate": 8.5
+        },
+        "aatlis": {
+          "win_rate": 51.4,
+          "pick_rate": 10.9
+        },
+        "new-junk-city": {
+          "win_rate": 50.0,
+          "pick_rate": 9.6
+        },
+        "suravasa": {
+          "win_rate": 51.3,
+          "pick_rate": 10.5
+        },
+        "midtown": {
+          "win_rate": 50.9,
+          "pick_rate": 7.7
+        },
+        "numbani": {
+          "win_rate": 49.9,
+          "pick_rate": 9.7
+        },
+        "kings-row": {
+          "win_rate": 51.4,
+          "pick_rate": 8.4
+        },
+        "hollywood": {
+          "win_rate": 49.7,
+          "pick_rate": 8.5
+        },
+        "paraiso": {
+          "win_rate": 49.6,
+          "pick_rate": 8.0
+        },
+        "eichenwalde": {
+          "win_rate": 49.6,
+          "pick_rate": 8.6
+        },
+        "blizzard-world": {
+          "win_rate": 50.5,
+          "pick_rate": 8.7
+        },
+        "new-queen-street": {
+          "win_rate": 49.0,
+          "pick_rate": 9.5
+        },
+        "runasapi": {
+          "win_rate": 48.2,
+          "pick_rate": 9.4
+        },
+        "colosseo": {
+          "win_rate": 50.9,
+          "pick_rate": 9.5
+        }
+      }
+    },
+    {
+      "id": "echo",
+      "en": "Echo",
+      "zh": "迴音",
+      "role": "Damage",
+      "tier": "A",
+      "default_win_rate": 51.0,
+      "default_pick_rate": 5.4,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Echo’s quick movement and flying abilities are best utilized on maps with plenty of high ground and natural vertical cover."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Hitscans like \nSoldier: 76\n have the advantage against Echo when she’s flying around.",
+          "Pay attention and notice if you don’t see Echo. She’s likely setting up behind you for a sneak attack, so watch your flank.",
+          "Many Echo players use Flight to get in and attack. Dodge and get cover for a few seconds, then quickly focus her while her \nFlight\n is on cooldown."
+        ],
+        "countered_by_mentions": [
+          "D.Va",
+          "Echo",
+          "Illari",
+          "Reinhardt",
+          "Soldier: 76",
+          "Emre"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 52.7,
+          "pick_rate": 7.4
+        },
+        "nepal": {
+          "win_rate": 50.3,
+          "pick_rate": 5.1
+        },
+        "lijiang-tower": {
+          "win_rate": 49.4,
+          "pick_rate": 5.4
+        },
+        "oasis": {
+          "win_rate": 51.7,
+          "pick_rate": 5.3
+        },
+        "samoa": {
+          "win_rate": 49.3,
+          "pick_rate": 4.7
+        },
+        "busan": {
+          "win_rate": 50.5,
+          "pick_rate": 4.6
+        },
+        "route-66": {
+          "win_rate": 51.9,
+          "pick_rate": 5.3
+        },
+        "havana": {
+          "win_rate": 49.0,
+          "pick_rate": 3.9
+        },
+        "junkertown": {
+          "win_rate": 51.5,
+          "pick_rate": 4.5
+        },
+        "dorado": {
+          "win_rate": 52.0,
+          "pick_rate": 7.2
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 50.9,
+          "pick_rate": 6.6
+        },
+        "circuit-royal": {
+          "win_rate": 50.8,
+          "pick_rate": 4.4
+        },
+        "rialto": {
+          "win_rate": 50.0,
+          "pick_rate": 5.7
+        },
+        "shambali-monastery": {
+          "win_rate": 52.3,
+          "pick_rate": 5.8
+        },
+        "aatlis": {
+          "win_rate": 50.8,
+          "pick_rate": 4.5
+        },
+        "new-junk-city": {
+          "win_rate": 50.2,
+          "pick_rate": 4.3
+        },
+        "suravasa": {
+          "win_rate": 51.6,
+          "pick_rate": 4.6
+        },
+        "midtown": {
+          "win_rate": 50.1,
+          "pick_rate": 4.7
+        },
+        "numbani": {
+          "win_rate": 51.6,
+          "pick_rate": 7.0
+        },
+        "kings-row": {
+          "win_rate": 51.1,
+          "pick_rate": 4.7
+        },
+        "hollywood": {
+          "win_rate": 52.0,
+          "pick_rate": 5.2
+        },
+        "paraiso": {
+          "win_rate": 49.8,
+          "pick_rate": 6.5
+        },
+        "eichenwalde": {
+          "win_rate": 51.1,
+          "pick_rate": 6.2
+        },
+        "blizzard-world": {
+          "win_rate": 50.2,
+          "pick_rate": 5.3
+        },
+        "new-queen-street": {
+          "win_rate": 51.6,
+          "pick_rate": 4.8
+        },
+        "runasapi": {
+          "win_rate": 50.9,
+          "pick_rate": 4.9
+        },
+        "colosseo": {
+          "win_rate": 50.0,
+          "pick_rate": 4.7
+        }
+      }
+    },
+    {
+      "id": "genji",
+      "en": "Genji",
+      "zh": "源氏",
+      "role": "Damage",
+      "tier": "A",
+      "default_win_rate": 49.9,
+      "default_pick_rate": 11.2,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Don’t get isolated. Genji is one of the best 1v1 duelists in OW, so stay close to your allies so he always has to fight at least two enemies.",
+          "Force out \nDeflect\n by dealing damage with your standard weapon, then use your cooldown abilities to punish him when he doesn’t have it.",
+          "Dragonblade\n is extremely lethal and can instantly win team fights. Plan how you will personally survive it, and how you can help your teammates survive with your healing, burst damage, or CC."
+        ],
+        "countered_by_mentions": [
+          "Genji"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 49.9,
+          "pick_rate": 11.2
+        },
+        "nepal": {
+          "win_rate": 49.4,
+          "pick_rate": 11.4
+        },
+        "lijiang-tower": {
+          "win_rate": 50.0,
+          "pick_rate": 10.9
+        },
+        "oasis": {
+          "win_rate": 48.7,
+          "pick_rate": 11.3
+        },
+        "samoa": {
+          "win_rate": 48.7,
+          "pick_rate": 10.6
+        },
+        "busan": {
+          "win_rate": 49.5,
+          "pick_rate": 11.3
+        },
+        "route-66": {
+          "win_rate": 50.9,
+          "pick_rate": 11.6
+        },
+        "havana": {
+          "win_rate": 49.6,
+          "pick_rate": 10.7
+        },
+        "junkertown": {
+          "win_rate": 50.0,
+          "pick_rate": 10.8
+        },
+        "dorado": {
+          "win_rate": 51.0,
+          "pick_rate": 12.7
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 50.2,
+          "pick_rate": 13.2
+        },
+        "circuit-royal": {
+          "win_rate": 49.0,
+          "pick_rate": 10.2
+        },
+        "rialto": {
+          "win_rate": 50.2,
+          "pick_rate": 10.8
+        },
+        "shambali-monastery": {
+          "win_rate": 49.0,
+          "pick_rate": 10.3
+        },
+        "aatlis": {
+          "win_rate": 49.3,
+          "pick_rate": 11.2
+        },
+        "new-junk-city": {
+          "win_rate": 51.2,
+          "pick_rate": 11.7
+        },
+        "suravasa": {
+          "win_rate": 50.9,
+          "pick_rate": 11.6
+        },
+        "midtown": {
+          "win_rate": 49.0,
+          "pick_rate": 9.8
+        },
+        "numbani": {
+          "win_rate": 50.5,
+          "pick_rate": 12.2
+        },
+        "kings-row": {
+          "win_rate": 51.2,
+          "pick_rate": 11.4
+        },
+        "hollywood": {
+          "win_rate": 50.2,
+          "pick_rate": 11.6
+        },
+        "paraiso": {
+          "win_rate": 48.3,
+          "pick_rate": 11.1
+        },
+        "eichenwalde": {
+          "win_rate": 50.3,
+          "pick_rate": 10.7
+        },
+        "blizzard-world": {
+          "win_rate": 48.4,
+          "pick_rate": 11.0
+        },
+        "new-queen-street": {
+          "win_rate": 50.6,
+          "pick_rate": 11.3
+        },
+        "runasapi": {
+          "win_rate": 48.4,
+          "pick_rate": 10.9
+        },
+        "colosseo": {
+          "win_rate": 52.0,
+          "pick_rate": 11.2
+        }
+      }
+    },
+    {
+      "id": "hanzo",
+      "en": "Hanzo",
+      "zh": "半藏",
+      "role": "Damage",
+      "tier": "B",
+      "default_win_rate": 49.4,
+      "default_pick_rate": 7.0,
+      "map_recommendations": {
+        "best_maps": [
+          "havana",
+          "circuit-royal",
+          "colosseo",
+          "dorado"
+        ],
+        "worst_maps": [],
+        "maps_summary": "The best maps for \nHanzo\n have open long and narrow sightlines lines like Circuit Royal, first point Colosseo, and Havana."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Respect his sightlines. If he’s already aiming down the main choke point, stay behind a barrier or take a different path.",
+          "Vary your left/right strafing movement to make it more difficult for him to predict your direction.",
+          "If you are playing a flank or dive hero, keep pressuring him so he can’t freely shoot the rest of your team."
+        ],
+        "countered_by_mentions": []
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 48.0,
+          "pick_rate": 5.2
+        },
+        "nepal": {
+          "win_rate": 48.6,
+          "pick_rate": 6.1
+        },
+        "lijiang-tower": {
+          "win_rate": 49.6,
+          "pick_rate": 5.8
+        },
+        "oasis": {
+          "win_rate": 49.1,
+          "pick_rate": 5.6
+        },
+        "samoa": {
+          "win_rate": 48.6,
+          "pick_rate": 5.7
+        },
+        "busan": {
+          "win_rate": 47.1,
+          "pick_rate": 5.8
+        },
+        "route-66": {
+          "win_rate": 48.8,
+          "pick_rate": 7.9
+        },
+        "havana": {
+          "win_rate": 50.5,
+          "pick_rate": 9.9
+        },
+        "junkertown": {
+          "win_rate": 49.6,
+          "pick_rate": 8.0
+        },
+        "dorado": {
+          "win_rate": 49.6,
+          "pick_rate": 6.9
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 49.2,
+          "pick_rate": 7.1
+        },
+        "circuit-royal": {
+          "win_rate": 50.4,
+          "pick_rate": 10.0
+        },
+        "rialto": {
+          "win_rate": 50.0,
+          "pick_rate": 9.0
+        },
+        "shambali-monastery": {
+          "win_rate": 50.6,
+          "pick_rate": 8.8
+        },
+        "aatlis": {
+          "win_rate": 46.6,
+          "pick_rate": 4.6
+        },
+        "new-junk-city": {
+          "win_rate": 45.9,
+          "pick_rate": 5.2
+        },
+        "suravasa": {
+          "win_rate": 49.1,
+          "pick_rate": 5.1
+        },
+        "midtown": {
+          "win_rate": 50.1,
+          "pick_rate": 9.2
+        },
+        "numbani": {
+          "win_rate": 50.5,
+          "pick_rate": 7.6
+        },
+        "kings-row": {
+          "win_rate": 50.8,
+          "pick_rate": 9.2
+        },
+        "hollywood": {
+          "win_rate": 50.2,
+          "pick_rate": 8.5
+        },
+        "paraiso": {
+          "win_rate": 49.5,
+          "pick_rate": 7.4
+        },
+        "eichenwalde": {
+          "win_rate": 49.9,
+          "pick_rate": 9.0
+        },
+        "blizzard-world": {
+          "win_rate": 51.3,
+          "pick_rate": 8.5
+        },
+        "new-queen-street": {
+          "win_rate": 46.8,
+          "pick_rate": 5.9
+        },
+        "runasapi": {
+          "win_rate": 49.5,
+          "pick_rate": 5.6
+        },
+        "colosseo": {
+          "win_rate": 50.2,
+          "pick_rate": 7.8
+        }
+      }
+    },
+    {
+      "id": "hazard",
+      "en": "Hazard",
+      "zh": "災害",
+      "role": "Tank",
+      "tier": "B",
+      "default_win_rate": 52.0,
+      "default_pick_rate": 3.1,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Hazard\n's mobility is best utilized on maps with lots of walls to climb, and plenty of high ground to move around on."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Every time you see \nHazard\n use \nSpike Guard\n, use your crowd control abilities on him.",
+          "Plan how you will survive his dive. You can use escape abilities, damage mitigation, stuns, or position near an ally who can assist you.",
+          "Counterswap when necessary. Examples: \nAna\n can sleep and anti him; \nEcho\n can avoid him, then burst combo him to death after he blocks; \nRoadhog\n can interrupt his dives with Hook."
+        ],
+        "countered_by_mentions": [
+          "Hazard"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 53.0,
+          "pick_rate": 3.3
+        },
+        "nepal": {
+          "win_rate": 54.0,
+          "pick_rate": 3.3
+        },
+        "lijiang-tower": {
+          "win_rate": 52.3,
+          "pick_rate": 3.0
+        },
+        "oasis": {
+          "win_rate": 52.6,
+          "pick_rate": 3.6
+        },
+        "samoa": {
+          "win_rate": 52.0,
+          "pick_rate": 3.5
+        },
+        "busan": {
+          "win_rate": 51.8,
+          "pick_rate": 3.2
+        },
+        "route-66": {
+          "win_rate": 53.3,
+          "pick_rate": 3.1
+        },
+        "havana": {
+          "win_rate": 48.1,
+          "pick_rate": 2.3
+        },
+        "junkertown": {
+          "win_rate": 49.5,
+          "pick_rate": 3.0
+        },
+        "dorado": {
+          "win_rate": 52.7,
+          "pick_rate": 3.5
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 52.5,
+          "pick_rate": 3.4
+        },
+        "circuit-royal": {
+          "win_rate": 49.9,
+          "pick_rate": 2.0
+        },
+        "rialto": {
+          "win_rate": 48.8,
+          "pick_rate": 2.9
+        },
+        "shambali-monastery": {
+          "win_rate": 50.8,
+          "pick_rate": 3.0
+        },
+        "aatlis": {
+          "win_rate": 54.1,
+          "pick_rate": 4.5
+        },
+        "new-junk-city": {
+          "win_rate": 53.8,
+          "pick_rate": 4.2
+        },
+        "suravasa": {
+          "win_rate": 53.3,
+          "pick_rate": 3.9
+        },
+        "midtown": {
+          "win_rate": 49.8,
+          "pick_rate": 2.3
+        },
+        "numbani": {
+          "win_rate": 52.1,
+          "pick_rate": 3.7
+        },
+        "kings-row": {
+          "win_rate": 50.8,
+          "pick_rate": 2.3
+        },
+        "hollywood": {
+          "win_rate": 51.2,
+          "pick_rate": 3.0
+        },
+        "paraiso": {
+          "win_rate": 51.8,
+          "pick_rate": 3.5
+        },
+        "eichenwalde": {
+          "win_rate": 49.5,
+          "pick_rate": 2.3
+        },
+        "blizzard-world": {
+          "win_rate": 49.6,
+          "pick_rate": 2.9
+        },
+        "new-queen-street": {
+          "win_rate": 52.7,
+          "pick_rate": 3.5
+        },
+        "runasapi": {
+          "win_rate": 51.9,
+          "pick_rate": 3.6
+        },
+        "colosseo": {
+          "win_rate": 52.1,
+          "pick_rate": 3.3
+        }
+      }
+    },
+    {
+      "id": "illari",
+      "en": "Illari",
+      "zh": "伊拉里",
+      "role": "Support",
+      "tier": "S",
+      "default_win_rate": 54.2,
+      "default_pick_rate": 8.7,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Illari\n has great ranged damage, but struggles with close-range duels. Try to avoid her LoS until you can catch her in a close-range fight.",
+          "Teams with Illari are at a disadvantage in longer fights that require a lot of sustain. Play patient and only commit to the attack after she’s lost her \nHealing Pylon\n and used up her Solar Energy.",
+          "When you hear her ult voice line, prepare your countermeasures. Shoot her out of the sky, block the projectile, stun her before she fires, or escape out of her LoS."
+        ],
+        "countered_by_mentions": [
+          "Illari"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 52.6,
+          "pick_rate": 6.6
+        },
+        "nepal": {
+          "win_rate": 53.1,
+          "pick_rate": 7.1
+        },
+        "lijiang-tower": {
+          "win_rate": 53.6,
+          "pick_rate": 7.0
+        },
+        "oasis": {
+          "win_rate": 54.5,
+          "pick_rate": 7.1
+        },
+        "samoa": {
+          "win_rate": 54.6,
+          "pick_rate": 7.3
+        },
+        "busan": {
+          "win_rate": 53.6,
+          "pick_rate": 7.0
+        },
+        "route-66": {
+          "win_rate": 55.9,
+          "pick_rate": 10.8
+        },
+        "havana": {
+          "win_rate": 56.2,
+          "pick_rate": 11.8
+        },
+        "junkertown": {
+          "win_rate": 55.0,
+          "pick_rate": 10.8
+        },
+        "dorado": {
+          "win_rate": 55.0,
+          "pick_rate": 10.2
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 54.4,
+          "pick_rate": 9.6
+        },
+        "circuit-royal": {
+          "win_rate": 55.2,
+          "pick_rate": 13.8
+        },
+        "rialto": {
+          "win_rate": 54.3,
+          "pick_rate": 11.2
+        },
+        "shambali-monastery": {
+          "win_rate": 55.1,
+          "pick_rate": 11.6
+        },
+        "aatlis": {
+          "win_rate": 49.9,
+          "pick_rate": 5.5
+        },
+        "new-junk-city": {
+          "win_rate": 52.0,
+          "pick_rate": 5.4
+        },
+        "suravasa": {
+          "win_rate": 53.8,
+          "pick_rate": 6.0
+        },
+        "midtown": {
+          "win_rate": 55.7,
+          "pick_rate": 12.1
+        },
+        "numbani": {
+          "win_rate": 53.9,
+          "pick_rate": 9.7
+        },
+        "kings-row": {
+          "win_rate": 53.4,
+          "pick_rate": 11.6
+        },
+        "hollywood": {
+          "win_rate": 55.7,
+          "pick_rate": 11.8
+        },
+        "paraiso": {
+          "win_rate": 54.7,
+          "pick_rate": 10.8
+        },
+        "eichenwalde": {
+          "win_rate": 54.9,
+          "pick_rate": 11.4
+        },
+        "blizzard-world": {
+          "win_rate": 54.9,
+          "pick_rate": 11.1
+        },
+        "new-queen-street": {
+          "win_rate": 54.1,
+          "pick_rate": 6.3
+        },
+        "runasapi": {
+          "win_rate": 52.4,
+          "pick_rate": 6.5
+        },
+        "colosseo": {
+          "win_rate": 53.6,
+          "pick_rate": 7.0
+        }
+      }
+    },
+    {
+      "id": "junker-queen",
+      "en": "Junker Queen",
+      "zh": "垃圾鎮女王",
+      "role": "Tank",
+      "tier": "B",
+      "default_win_rate": 53.1,
+      "default_pick_rate": 3.1,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Maps with primarily flat areas around the objective are the best for \nJunker Queen\n."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "CC her. \nJunker Queen\n has no countermeasure to CC. Stun and knock her around to keep her at bay.",
+          "Keep your distance. Keep moving and try to never let her get into axe range.",
+          "Shoot her team. JQ has a lot of self-healing and can be difficult to kill. But she’s smaller for a \nTank\n and can’t protect her team from your damage."
+        ],
+        "countered_by_mentions": [
+          "Ana",
+          "Ashe",
+          "Illari",
+          "Junker Queen",
+          "Sigma",
+          "Sojourn"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 52.9,
+          "pick_rate": 3.1
+        },
+        "nepal": {
+          "win_rate": 53.0,
+          "pick_rate": 3.3
+        },
+        "lijiang-tower": {
+          "win_rate": 52.8,
+          "pick_rate": 3.2
+        },
+        "oasis": {
+          "win_rate": 54.5,
+          "pick_rate": 3.7
+        },
+        "samoa": {
+          "win_rate": 54.2,
+          "pick_rate": 4.1
+        },
+        "busan": {
+          "win_rate": 52.9,
+          "pick_rate": 3.2
+        },
+        "route-66": {
+          "win_rate": 53.2,
+          "pick_rate": 2.2
+        },
+        "havana": {
+          "win_rate": 51.6,
+          "pick_rate": 2.0
+        },
+        "junkertown": {
+          "win_rate": 52.8,
+          "pick_rate": 3.0
+        },
+        "dorado": {
+          "win_rate": 52.6,
+          "pick_rate": 2.1
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 50.0,
+          "pick_rate": 1.7
+        },
+        "circuit-royal": {
+          "win_rate": 52.1,
+          "pick_rate": 1.8
+        },
+        "rialto": {
+          "win_rate": 50.7,
+          "pick_rate": 2.3
+        },
+        "shambali-monastery": {
+          "win_rate": 52.1,
+          "pick_rate": 2.4
+        },
+        "aatlis": {
+          "win_rate": 57.0,
+          "pick_rate": 5.1
+        },
+        "new-junk-city": {
+          "win_rate": 56.0,
+          "pick_rate": 7.1
+        },
+        "suravasa": {
+          "win_rate": 54.5,
+          "pick_rate": 5.2
+        },
+        "midtown": {
+          "win_rate": 53.1,
+          "pick_rate": 2.4
+        },
+        "numbani": {
+          "win_rate": 50.6,
+          "pick_rate": 1.9
+        },
+        "kings-row": {
+          "win_rate": 50.9,
+          "pick_rate": 2.3
+        },
+        "hollywood": {
+          "win_rate": 51.4,
+          "pick_rate": 2.2
+        },
+        "paraiso": {
+          "win_rate": 48.1,
+          "pick_rate": 2.3
+        },
+        "eichenwalde": {
+          "win_rate": 51.3,
+          "pick_rate": 2.3
+        },
+        "blizzard-world": {
+          "win_rate": 49.4,
+          "pick_rate": 2.1
+        },
+        "new-queen-street": {
+          "win_rate": 54.3,
+          "pick_rate": 4.1
+        },
+        "runasapi": {
+          "win_rate": 54.4,
+          "pick_rate": 4.2
+        },
+        "colosseo": {
+          "win_rate": 55.3,
+          "pick_rate": 3.8
+        }
+      }
+    },
+    {
+      "id": "junkrat",
+      "en": "Junkrat",
+      "zh": "炸彈鼠",
+      "role": "Damage",
+      "tier": "B",
+      "default_win_rate": 51.4,
+      "default_pick_rate": 7.7,
+      "map_recommendations": {
+        "best_maps": [
+          "lijiang-tower",
+          "new-junk-city"
+        ],
+        "worst_maps": [
+          "havana"
+        ],
+        "maps_summary": "The best maps for \nJunkrat\n have narrow corridors small objective areas and some high ground to play around."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Avoid tight corridors, rooms, hallways, and low areas. These are the perfect places for Junkrat’s frags to farm your team.",
+          "Keep an eye on the floor. Break traps for your teammates so they don’t walk in and die.",
+          "Heroes with long-range capabilities or small, high-mobility characters have favorable matchups against Junkrat."
+        ],
+        "countered_by_mentions": [
+          "Junkrat"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 52.0,
+          "pick_rate": 7.6
+        },
+        "nepal": {
+          "win_rate": 52.8,
+          "pick_rate": 9.4
+        },
+        "lijiang-tower": {
+          "win_rate": 52.1,
+          "pick_rate": 9.9
+        },
+        "oasis": {
+          "win_rate": 51.8,
+          "pick_rate": 7.1
+        },
+        "samoa": {
+          "win_rate": 49.3,
+          "pick_rate": 6.8
+        },
+        "busan": {
+          "win_rate": 49.8,
+          "pick_rate": 7.1
+        },
+        "route-66": {
+          "win_rate": 53.0,
+          "pick_rate": 7.1
+        },
+        "havana": {
+          "win_rate": 49.2,
+          "pick_rate": 6.4
+        },
+        "junkertown": {
+          "win_rate": 50.2,
+          "pick_rate": 7.5
+        },
+        "dorado": {
+          "win_rate": 51.5,
+          "pick_rate": 7.9
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 52.6,
+          "pick_rate": 6.7
+        },
+        "circuit-royal": {
+          "win_rate": 50.9,
+          "pick_rate": 7.0
+        },
+        "rialto": {
+          "win_rate": 52.2,
+          "pick_rate": 7.6
+        },
+        "shambali-monastery": {
+          "win_rate": 51.7,
+          "pick_rate": 8.0
+        },
+        "aatlis": {
+          "win_rate": 51.5,
+          "pick_rate": 7.2
+        },
+        "new-junk-city": {
+          "win_rate": 53.9,
+          "pick_rate": 8.4
+        },
+        "suravasa": {
+          "win_rate": 51.3,
+          "pick_rate": 6.1
+        },
+        "midtown": {
+          "win_rate": 50.3,
+          "pick_rate": 7.6
+        },
+        "numbani": {
+          "win_rate": 50.8,
+          "pick_rate": 7.5
+        },
+        "kings-row": {
+          "win_rate": 51.4,
+          "pick_rate": 9.1
+        },
+        "hollywood": {
+          "win_rate": 51.5,
+          "pick_rate": 8.4
+        },
+        "paraiso": {
+          "win_rate": 52.7,
+          "pick_rate": 8.0
+        },
+        "eichenwalde": {
+          "win_rate": 53.7,
+          "pick_rate": 10.6
+        },
+        "blizzard-world": {
+          "win_rate": 51.0,
+          "pick_rate": 7.6
+        },
+        "new-queen-street": {
+          "win_rate": 46.9,
+          "pick_rate": 5.1
+        },
+        "runasapi": {
+          "win_rate": 47.6,
+          "pick_rate": 5.4
+        },
+        "colosseo": {
+          "win_rate": 50.6,
+          "pick_rate": 6.0
+        }
+      }
+    },
+    {
+      "id": "juno",
+      "en": "Juno",
+      "zh": "朱諾",
+      "role": "Support",
+      "tier": "B",
+      "default_win_rate": 50.6,
+      "default_pick_rate": 13.3,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "The best maps for \nJuno\n are flat, have a lot of open space, and encourage fights to be on the objective."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Keep poking her. \nJuno\n can’t heal herself, so she relies on shield regen and the Support heal passive. Even the smallest amount of damage to her interrupts the passive self-heal.",
+          "All of \nJuno\n's healing requires LoS. Stop her from healing with barriers or by forcing her attention away from her allies through your attacks.",
+          "Without Pulsar Torpedoes, \nJuno\n struggles to defend herself against high mobility heroes. Get past her team and chase her down."
+        ],
+        "countered_by_mentions": [
+          "Juno"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 50.2,
+          "pick_rate": 12.8
+        },
+        "nepal": {
+          "win_rate": 50.3,
+          "pick_rate": 12.7
+        },
+        "lijiang-tower": {
+          "win_rate": 50.1,
+          "pick_rate": 12.5
+        },
+        "oasis": {
+          "win_rate": 51.0,
+          "pick_rate": 13.1
+        },
+        "samoa": {
+          "win_rate": 51.6,
+          "pick_rate": 13.6
+        },
+        "busan": {
+          "win_rate": 50.5,
+          "pick_rate": 14.1
+        },
+        "route-66": {
+          "win_rate": 50.9,
+          "pick_rate": 14.0
+        },
+        "havana": {
+          "win_rate": 49.6,
+          "pick_rate": 12.9
+        },
+        "junkertown": {
+          "win_rate": 50.3,
+          "pick_rate": 13.6
+        },
+        "dorado": {
+          "win_rate": 50.7,
+          "pick_rate": 13.5
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 50.1,
+          "pick_rate": 14.2
+        },
+        "circuit-royal": {
+          "win_rate": 50.3,
+          "pick_rate": 13.4
+        },
+        "rialto": {
+          "win_rate": 49.8,
+          "pick_rate": 12.3
+        },
+        "shambali-monastery": {
+          "win_rate": 51.2,
+          "pick_rate": 12.8
+        },
+        "aatlis": {
+          "win_rate": 51.5,
+          "pick_rate": 13.0
+        },
+        "new-junk-city": {
+          "win_rate": 51.1,
+          "pick_rate": 13.6
+        },
+        "suravasa": {
+          "win_rate": 50.7,
+          "pick_rate": 13.3
+        },
+        "midtown": {
+          "win_rate": 49.2,
+          "pick_rate": 12.9
+        },
+        "numbani": {
+          "win_rate": 51.2,
+          "pick_rate": 13.9
+        },
+        "kings-row": {
+          "win_rate": 50.0,
+          "pick_rate": 11.6
+        },
+        "hollywood": {
+          "win_rate": 49.8,
+          "pick_rate": 12.5
+        },
+        "paraiso": {
+          "win_rate": 51.1,
+          "pick_rate": 14.3
+        },
+        "eichenwalde": {
+          "win_rate": 51.0,
+          "pick_rate": 12.1
+        },
+        "blizzard-world": {
+          "win_rate": 50.7,
+          "pick_rate": 13.6
+        },
+        "new-queen-street": {
+          "win_rate": 51.1,
+          "pick_rate": 15.6
+        },
+        "runasapi": {
+          "win_rate": 51.8,
+          "pick_rate": 16.5
+        },
+        "colosseo": {
+          "win_rate": 50.1,
+          "pick_rate": 14.7
+        }
+      }
+    },
+    {
+      "id": "kiriko",
+      "en": "Kiriko",
+      "zh": "霧子",
+      "role": "Support",
+      "tier": "S",
+      "default_win_rate": 47.7,
+      "default_pick_rate": 34.2,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Kiriko\n's mobility and versatility make her a solid choice on every map."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Force out \nSwift Step\n or \nProtection Suzu\n early, then re-engage while those cooldowns are unavailable.",
+          "Pressure her from multiple angles to deny safe teleport targets and limit her escape options.",
+          "Treat \nKitsune Rush\n like the best offensive ult the enemy team has. Save defensive utility to survive, retreat when possible, or use your own ultimates to prevent her from overwhelming your team."
+        ],
+        "countered_by_mentions": []
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 47.4,
+          "pick_rate": 33.1
+        },
+        "nepal": {
+          "win_rate": 48.1,
+          "pick_rate": 34.0
+        },
+        "lijiang-tower": {
+          "win_rate": 47.8,
+          "pick_rate": 32.5
+        },
+        "oasis": {
+          "win_rate": 47.8,
+          "pick_rate": 35.0
+        },
+        "samoa": {
+          "win_rate": 46.9,
+          "pick_rate": 34.9
+        },
+        "busan": {
+          "win_rate": 48.1,
+          "pick_rate": 35.4
+        },
+        "route-66": {
+          "win_rate": 46.8,
+          "pick_rate": 32.9
+        },
+        "havana": {
+          "win_rate": 47.3,
+          "pick_rate": 33.5
+        },
+        "junkertown": {
+          "win_rate": 48.7,
+          "pick_rate": 33.4
+        },
+        "dorado": {
+          "win_rate": 47.6,
+          "pick_rate": 35.7
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 47.9,
+          "pick_rate": 36.2
+        },
+        "circuit-royal": {
+          "win_rate": 47.1,
+          "pick_rate": 30.0
+        },
+        "rialto": {
+          "win_rate": 48.0,
+          "pick_rate": 32.4
+        },
+        "shambali-monastery": {
+          "win_rate": 48.3,
+          "pick_rate": 32.8
+        },
+        "aatlis": {
+          "win_rate": 47.6,
+          "pick_rate": 39.2
+        },
+        "new-junk-city": {
+          "win_rate": 47.8,
+          "pick_rate": 38.7
+        },
+        "suravasa": {
+          "win_rate": 47.9,
+          "pick_rate": 38.4
+        },
+        "midtown": {
+          "win_rate": 47.2,
+          "pick_rate": 32.9
+        },
+        "numbani": {
+          "win_rate": 48.4,
+          "pick_rate": 35.4
+        },
+        "kings-row": {
+          "win_rate": 47.4,
+          "pick_rate": 31.6
+        },
+        "hollywood": {
+          "win_rate": 46.6,
+          "pick_rate": 33.2
+        },
+        "paraiso": {
+          "win_rate": 47.2,
+          "pick_rate": 35.2
+        },
+        "eichenwalde": {
+          "win_rate": 46.7,
+          "pick_rate": 31.7
+        },
+        "blizzard-world": {
+          "win_rate": 47.9,
+          "pick_rate": 34.3
+        },
+        "new-queen-street": {
+          "win_rate": 49.2,
+          "pick_rate": 37.2
+        },
+        "runasapi": {
+          "win_rate": 48.7,
+          "pick_rate": 37.2
+        },
+        "colosseo": {
+          "win_rate": 47.9,
+          "pick_rate": 35.6
+        }
+      }
+    },
+    {
+      "id": "lifeweaver",
+      "en": "Lifeweaver",
+      "zh": "織命",
+      "role": "Support",
+      "tier": "C",
+      "default_win_rate": 47.5,
+      "default_pick_rate": 6.3,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "The main feature \nLifeweaver\n wants in a map is natural cover."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Focus your dives and flanks on \nLifeweaver\n . He won’t be personally killing you, so your only hindrance is his allies' protection.",
+          "Save your best cooldowns until after Life Grip has been used. After you’ve seen someone get pulled, you have a long window of time to attack where your target can’t be saved by Grip.",
+          "Pick a hero with vertical mobility. \nLifeweaver\n can easily avoid you if you can’t chase him vertically when he uses \nPetal Platform\n."
+        ],
+        "countered_by_mentions": []
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 46.1,
+          "pick_rate": 6.7
+        },
+        "nepal": {
+          "win_rate": 46.1,
+          "pick_rate": 5.7
+        },
+        "lijiang-tower": {
+          "win_rate": 45.1,
+          "pick_rate": 5.2
+        },
+        "oasis": {
+          "win_rate": 46.8,
+          "pick_rate": 5.6
+        },
+        "samoa": {
+          "win_rate": 46.9,
+          "pick_rate": 5.8
+        },
+        "busan": {
+          "win_rate": 47.8,
+          "pick_rate": 5.7
+        },
+        "route-66": {
+          "win_rate": 47.7,
+          "pick_rate": 7.2
+        },
+        "havana": {
+          "win_rate": 48.7,
+          "pick_rate": 7.0
+        },
+        "junkertown": {
+          "win_rate": 49.8,
+          "pick_rate": 7.1
+        },
+        "dorado": {
+          "win_rate": 50.3,
+          "pick_rate": 7.4
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 48.5,
+          "pick_rate": 7.5
+        },
+        "circuit-royal": {
+          "win_rate": 48.8,
+          "pick_rate": 7.3
+        },
+        "rialto": {
+          "win_rate": 48.4,
+          "pick_rate": 7.1
+        },
+        "shambali-monastery": {
+          "win_rate": 47.6,
+          "pick_rate": 6.7
+        },
+        "aatlis": {
+          "win_rate": 48.1,
+          "pick_rate": 4.8
+        },
+        "new-junk-city": {
+          "win_rate": 49.2,
+          "pick_rate": 5.1
+        },
+        "suravasa": {
+          "win_rate": 47.1,
+          "pick_rate": 5.4
+        },
+        "midtown": {
+          "win_rate": 47.9,
+          "pick_rate": 6.5
+        },
+        "numbani": {
+          "win_rate": 49.0,
+          "pick_rate": 8.0
+        },
+        "kings-row": {
+          "win_rate": 47.2,
+          "pick_rate": 6.2
+        },
+        "hollywood": {
+          "win_rate": 48.2,
+          "pick_rate": 6.7
+        },
+        "paraiso": {
+          "win_rate": 49.7,
+          "pick_rate": 7.2
+        },
+        "eichenwalde": {
+          "win_rate": 49.0,
+          "pick_rate": 5.8
+        },
+        "blizzard-world": {
+          "win_rate": 48.3,
+          "pick_rate": 7.0
+        },
+        "new-queen-street": {
+          "win_rate": 47.8,
+          "pick_rate": 6.6
+        },
+        "runasapi": {
+          "win_rate": 45.6,
+          "pick_rate": 6.4
+        },
+        "colosseo": {
+          "win_rate": 47.5,
+          "pick_rate": 6.6
+        }
+      }
+    },
+    {
+      "id": "lucio",
+      "en": "Lúcio",
+      "zh": "路西歐",
+      "role": "Support",
+      "tier": "S",
+      "default_win_rate": 51.4,
+      "default_pick_rate": 6.3,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [],
+        "countered_by_mentions": []
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 55.1,
+          "pick_rate": 12.9
+        },
+        "nepal": {
+          "win_rate": 51.9,
+          "pick_rate": 8.1
+        },
+        "lijiang-tower": {
+          "win_rate": 53.7,
+          "pick_rate": 10.9
+        },
+        "oasis": {
+          "win_rate": 50.3,
+          "pick_rate": 6.5
+        },
+        "samoa": {
+          "win_rate": 51.3,
+          "pick_rate": 5.7
+        },
+        "busan": {
+          "win_rate": 50.0,
+          "pick_rate": 6.1
+        },
+        "route-66": {
+          "win_rate": 49.6,
+          "pick_rate": 4.1
+        },
+        "havana": {
+          "win_rate": 47.7,
+          "pick_rate": 3.6
+        },
+        "junkertown": {
+          "win_rate": 47.0,
+          "pick_rate": 3.5
+        },
+        "dorado": {
+          "win_rate": 50.0,
+          "pick_rate": 4.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 49.3,
+          "pick_rate": 4.0
+        },
+        "circuit-royal": {
+          "win_rate": 48.0,
+          "pick_rate": 3.4
+        },
+        "rialto": {
+          "win_rate": 48.9,
+          "pick_rate": 3.8
+        },
+        "shambali-monastery": {
+          "win_rate": 46.7,
+          "pick_rate": 3.8
+        },
+        "aatlis": {
+          "win_rate": 52.1,
+          "pick_rate": 8.2
+        },
+        "new-junk-city": {
+          "win_rate": 51.5,
+          "pick_rate": 8.0
+        },
+        "suravasa": {
+          "win_rate": 52.7,
+          "pick_rate": 7.3
+        },
+        "midtown": {
+          "win_rate": 48.1,
+          "pick_rate": 3.6
+        },
+        "numbani": {
+          "win_rate": 50.1,
+          "pick_rate": 4.3
+        },
+        "kings-row": {
+          "win_rate": 48.9,
+          "pick_rate": 4.0
+        },
+        "hollywood": {
+          "win_rate": 48.6,
+          "pick_rate": 3.9
+        },
+        "paraiso": {
+          "win_rate": 47.9,
+          "pick_rate": 4.3
+        },
+        "eichenwalde": {
+          "win_rate": 48.5,
+          "pick_rate": 4.2
+        },
+        "blizzard-world": {
+          "win_rate": 48.7,
+          "pick_rate": 3.9
+        },
+        "new-queen-street": {
+          "win_rate": 49.4,
+          "pick_rate": 5.4
+        },
+        "runasapi": {
+          "win_rate": 50.4,
+          "pick_rate": 5.5
+        },
+        "colosseo": {
+          "win_rate": 52.3,
+          "pick_rate": 5.2
+        }
+      }
+    },
+    {
+      "id": "mauga",
+      "en": "Mauga",
+      "zh": "莫加",
+      "role": "Tank",
+      "tier": "B",
+      "default_win_rate": 50.0,
+      "default_pick_rate": 4.6,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "The best maps for \nMauga\n have small but open objective areas."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Save your damage mitigation or mobility abilities to prevent him from damaging you during \nCardiac Overdrive\n.",
+          "Mauga\n can’t be stopped during \nOverrun\n. Position out of his charge range, or prepare to dodge him.",
+          "When he has \nCage Fight\n ready, either play spread so you don’t get caught, or get everyone inside so you and your team can help each other survive the ult."
+        ],
+        "countered_by_mentions": [
+          "Ana",
+          "Kiriko",
+          "Mauga"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 48.7,
+          "pick_rate": 4.4
+        },
+        "nepal": {
+          "win_rate": 51.0,
+          "pick_rate": 5.0
+        },
+        "lijiang-tower": {
+          "win_rate": 49.9,
+          "pick_rate": 4.8
+        },
+        "oasis": {
+          "win_rate": 50.5,
+          "pick_rate": 5.2
+        },
+        "samoa": {
+          "win_rate": 53.0,
+          "pick_rate": 6.7
+        },
+        "busan": {
+          "win_rate": 51.6,
+          "pick_rate": 5.1
+        },
+        "route-66": {
+          "win_rate": 49.0,
+          "pick_rate": 4.1
+        },
+        "havana": {
+          "win_rate": 47.5,
+          "pick_rate": 4.2
+        },
+        "junkertown": {
+          "win_rate": 51.4,
+          "pick_rate": 4.4
+        },
+        "dorado": {
+          "win_rate": 48.9,
+          "pick_rate": 3.9
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 47.2,
+          "pick_rate": 3.7
+        },
+        "circuit-royal": {
+          "win_rate": 48.4,
+          "pick_rate": 3.8
+        },
+        "rialto": {
+          "win_rate": 48.7,
+          "pick_rate": 4.0
+        },
+        "shambali-monastery": {
+          "win_rate": 48.9,
+          "pick_rate": 4.1
+        },
+        "aatlis": {
+          "win_rate": 54.0,
+          "pick_rate": 5.2
+        },
+        "new-junk-city": {
+          "win_rate": 51.8,
+          "pick_rate": 5.4
+        },
+        "suravasa": {
+          "win_rate": 51.6,
+          "pick_rate": 5.3
+        },
+        "midtown": {
+          "win_rate": 50.3,
+          "pick_rate": 4.3
+        },
+        "numbani": {
+          "win_rate": 47.6,
+          "pick_rate": 4.0
+        },
+        "kings-row": {
+          "win_rate": 47.8,
+          "pick_rate": 4.0
+        },
+        "hollywood": {
+          "win_rate": 49.7,
+          "pick_rate": 4.0
+        },
+        "paraiso": {
+          "win_rate": 51.6,
+          "pick_rate": 4.1
+        },
+        "eichenwalde": {
+          "win_rate": 49.4,
+          "pick_rate": 4.0
+        },
+        "blizzard-world": {
+          "win_rate": 47.9,
+          "pick_rate": 3.9
+        },
+        "new-queen-street": {
+          "win_rate": 50.0,
+          "pick_rate": 5.1
+        },
+        "runasapi": {
+          "win_rate": 50.7,
+          "pick_rate": 5.3
+        },
+        "colosseo": {
+          "win_rate": 50.0,
+          "pick_rate": 4.9
+        }
+      }
+    },
+    {
+      "id": "mei",
+      "en": "Mei",
+      "zh": "小美",
+      "role": "Damage",
+      "tier": "B",
+      "default_win_rate": 56.0,
+      "default_pick_rate": 8.2,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Mei\n tends to have an easier time finding value on non-payload maps."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Break her wall! Shoot a single pillar to quickly create an opening for trapped teammates to walk through.",
+          "Play around her cooldowns. When she has \nIce Wall\n, don’t casually walk through a choke and get walled off. Wait until she’s used it before pushing up.",
+          "Stay outside her primary fire range. Her secondary fire range is less consistent and easier to deal with."
+        ],
+        "countered_by_mentions": [
+          "Mei"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 53.5,
+          "pick_rate": 7.5
+        },
+        "nepal": {
+          "win_rate": 55.7,
+          "pick_rate": 8.9
+        },
+        "lijiang-tower": {
+          "win_rate": 53.4,
+          "pick_rate": 8.3
+        },
+        "oasis": {
+          "win_rate": 55.0,
+          "pick_rate": 8.6
+        },
+        "samoa": {
+          "win_rate": 55.6,
+          "pick_rate": 8.6
+        },
+        "busan": {
+          "win_rate": 54.7,
+          "pick_rate": 8.1
+        },
+        "route-66": {
+          "win_rate": 57.8,
+          "pick_rate": 7.4
+        },
+        "havana": {
+          "win_rate": 57.4,
+          "pick_rate": 7.8
+        },
+        "junkertown": {
+          "win_rate": 57.6,
+          "pick_rate": 7.5
+        },
+        "dorado": {
+          "win_rate": 55.5,
+          "pick_rate": 7.5
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 57.1,
+          "pick_rate": 6.7
+        },
+        "circuit-royal": {
+          "win_rate": 57.3,
+          "pick_rate": 8.3
+        },
+        "rialto": {
+          "win_rate": 58.8,
+          "pick_rate": 8.4
+        },
+        "shambali-monastery": {
+          "win_rate": 58.1,
+          "pick_rate": 8.7
+        },
+        "aatlis": {
+          "win_rate": 53.8,
+          "pick_rate": 8.4
+        },
+        "new-junk-city": {
+          "win_rate": 56.4,
+          "pick_rate": 8.8
+        },
+        "suravasa": {
+          "win_rate": 56.3,
+          "pick_rate": 8.7
+        },
+        "midtown": {
+          "win_rate": 57.0,
+          "pick_rate": 9.1
+        },
+        "numbani": {
+          "win_rate": 56.4,
+          "pick_rate": 7.5
+        },
+        "kings-row": {
+          "win_rate": 57.3,
+          "pick_rate": 10.0
+        },
+        "hollywood": {
+          "win_rate": 56.9,
+          "pick_rate": 8.4
+        },
+        "paraiso": {
+          "win_rate": 57.0,
+          "pick_rate": 7.9
+        },
+        "eichenwalde": {
+          "win_rate": 57.9,
+          "pick_rate": 8.6
+        },
+        "blizzard-world": {
+          "win_rate": 59.0,
+          "pick_rate": 7.9
+        },
+        "new-queen-street": {
+          "win_rate": 56.6,
+          "pick_rate": 7.7
+        },
+        "runasapi": {
+          "win_rate": 56.5,
+          "pick_rate": 7.8
+        },
+        "colosseo": {
+          "win_rate": 54.9,
+          "pick_rate": 8.1
+        }
+      }
+    },
+    {
+      "id": "mercy",
+      "en": "Mercy",
+      "zh": "慈悲",
+      "role": "Support",
+      "tier": "B",
+      "default_win_rate": 47.4,
+      "default_pick_rate": 9.5,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Mercy\n's best maps have lots of space for her to move around."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Don’t let her get off free resurrections. If her teammate dies, expect her to be looking for an opportunity to rez. Be ready to punish her.",
+          "Bait out Guardian Angel without using your movement ability. Then chase her for the kill.",
+          "Target \nMercy\n . Eliminating Mercy first is more efficient than trying to kill her allies through her healing."
+        ],
+        "countered_by_mentions": [
+          "D.Va",
+          "Mercy"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 47.9,
+          "pick_rate": 8.9
+        },
+        "nepal": {
+          "win_rate": 47.0,
+          "pick_rate": 8.6
+        },
+        "lijiang-tower": {
+          "win_rate": 47.0,
+          "pick_rate": 8.4
+        },
+        "oasis": {
+          "win_rate": 47.7,
+          "pick_rate": 8.9
+        },
+        "samoa": {
+          "win_rate": 47.2,
+          "pick_rate": 8.1
+        },
+        "busan": {
+          "win_rate": 46.7,
+          "pick_rate": 9.2
+        },
+        "route-66": {
+          "win_rate": 48.1,
+          "pick_rate": 11.5
+        },
+        "havana": {
+          "win_rate": 46.9,
+          "pick_rate": 10.6
+        },
+        "junkertown": {
+          "win_rate": 46.5,
+          "pick_rate": 10.6
+        },
+        "dorado": {
+          "win_rate": 48.7,
+          "pick_rate": 11.4
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 46.7,
+          "pick_rate": 12.4
+        },
+        "circuit-royal": {
+          "win_rate": 48.9,
+          "pick_rate": 10.4
+        },
+        "rialto": {
+          "win_rate": 46.5,
+          "pick_rate": 10.2
+        },
+        "shambali-monastery": {
+          "win_rate": 47.6,
+          "pick_rate": 10.4
+        },
+        "aatlis": {
+          "win_rate": 43.4,
+          "pick_rate": 7.0
+        },
+        "new-junk-city": {
+          "win_rate": 46.1,
+          "pick_rate": 7.0
+        },
+        "suravasa": {
+          "win_rate": 47.7,
+          "pick_rate": 7.1
+        },
+        "midtown": {
+          "win_rate": 47.4,
+          "pick_rate": 9.9
+        },
+        "numbani": {
+          "win_rate": 48.8,
+          "pick_rate": 12.3
+        },
+        "kings-row": {
+          "win_rate": 46.8,
+          "pick_rate": 9.9
+        },
+        "hollywood": {
+          "win_rate": 48.0,
+          "pick_rate": 10.9
+        },
+        "paraiso": {
+          "win_rate": 48.3,
+          "pick_rate": 10.6
+        },
+        "eichenwalde": {
+          "win_rate": 45.9,
+          "pick_rate": 10.2
+        },
+        "blizzard-world": {
+          "win_rate": 47.4,
+          "pick_rate": 11.4
+        },
+        "new-queen-street": {
+          "win_rate": 46.3,
+          "pick_rate": 8.7
+        },
+        "runasapi": {
+          "win_rate": 47.7,
+          "pick_rate": 8.5
+        },
+        "colosseo": {
+          "win_rate": 49.0,
+          "pick_rate": 8.9
+        }
+      }
+    },
+    {
+      "id": "moira",
+      "en": "Moira",
+      "zh": "莫伊拉",
+      "role": "Support",
+      "tier": "C",
+      "default_win_rate": 50.4,
+      "default_pick_rate": 15.1,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Track her \nFade\n cooldown and pressure her aggressively once it has been used, as she is highly vulnerable without mobility.",
+          "Avoid giving her free resource generation by minimizing unnecessary poke damage and positioning outside of her Biotic Grasp range.",
+          "Focus her during \nCoalescence\n with burst damage or crowd control, she'll either be forced to Fade away, or be vulnerable to elimination during the ult."
+        ],
+        "countered_by_mentions": [
+          "Moira"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 49.2,
+          "pick_rate": 15.9
+        },
+        "nepal": {
+          "win_rate": 52.1,
+          "pick_rate": 17.3
+        },
+        "lijiang-tower": {
+          "win_rate": 51.1,
+          "pick_rate": 16.5
+        },
+        "oasis": {
+          "win_rate": 51.9,
+          "pick_rate": 17.5
+        },
+        "samoa": {
+          "win_rate": 52.5,
+          "pick_rate": 18.0
+        },
+        "busan": {
+          "win_rate": 51.1,
+          "pick_rate": 18.1
+        },
+        "route-66": {
+          "win_rate": 47.9,
+          "pick_rate": 12.7
+        },
+        "havana": {
+          "win_rate": 48.0,
+          "pick_rate": 12.3
+        },
+        "junkertown": {
+          "win_rate": 49.2,
+          "pick_rate": 13.3
+        },
+        "dorado": {
+          "win_rate": 49.5,
+          "pick_rate": 13.4
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 49.8,
+          "pick_rate": 13.0
+        },
+        "circuit-royal": {
+          "win_rate": 48.0,
+          "pick_rate": 11.2
+        },
+        "rialto": {
+          "win_rate": 49.0,
+          "pick_rate": 11.5
+        },
+        "shambali-monastery": {
+          "win_rate": 49.2,
+          "pick_rate": 12.9
+        },
+        "aatlis": {
+          "win_rate": 51.5,
+          "pick_rate": 21.2
+        },
+        "new-junk-city": {
+          "win_rate": 52.1,
+          "pick_rate": 20.8
+        },
+        "suravasa": {
+          "win_rate": 52.2,
+          "pick_rate": 18.5
+        },
+        "midtown": {
+          "win_rate": 49.3,
+          "pick_rate": 13.0
+        },
+        "numbani": {
+          "win_rate": 49.7,
+          "pick_rate": 12.3
+        },
+        "kings-row": {
+          "win_rate": 49.0,
+          "pick_rate": 12.5
+        },
+        "hollywood": {
+          "win_rate": 49.2,
+          "pick_rate": 12.9
+        },
+        "paraiso": {
+          "win_rate": 49.1,
+          "pick_rate": 13.8
+        },
+        "eichenwalde": {
+          "win_rate": 48.8,
+          "pick_rate": 13.3
+        },
+        "blizzard-world": {
+          "win_rate": 49.4,
+          "pick_rate": 12.7
+        },
+        "new-queen-street": {
+          "win_rate": 51.5,
+          "pick_rate": 16.0
+        },
+        "runasapi": {
+          "win_rate": 50.4,
+          "pick_rate": 16.1
+        },
+        "colosseo": {
+          "win_rate": 49.7,
+          "pick_rate": 14.8
+        }
+      }
+    },
+    {
+      "id": "orisa",
+      "en": "Orisa",
+      "zh": "歐瑞莎",
+      "role": "Tank",
+      "tier": "B",
+      "default_win_rate": 46.7,
+      "default_pick_rate": 10.1,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Orisa\n is always going to be a good choice on maps that favor poke comps."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Ignore \nOrisa\n. The best way to counter \nOrisa\n is to avoid her and target the rest of her team. She’ll try to stop you, but she can’t chase you down.",
+          "Wait out \nFortify\n. If you see her golden, either hide so you don’t take damage, or switch targets, and attack someone else.",
+          "Go beams. If all else fails, the easiest way to counter \nOrisa\n is to play a beam hero. \nOrisa\n is free ult charge to them."
+        ],
+        "countered_by_mentions": [
+          "Orisa"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 48.2,
+          "pick_rate": 11.2
+        },
+        "nepal": {
+          "win_rate": 48.0,
+          "pick_rate": 11.0
+        },
+        "lijiang-tower": {
+          "win_rate": 48.2,
+          "pick_rate": 11.5
+        },
+        "oasis": {
+          "win_rate": 47.8,
+          "pick_rate": 10.5
+        },
+        "samoa": {
+          "win_rate": 47.3,
+          "pick_rate": 10.4
+        },
+        "busan": {
+          "win_rate": 47.0,
+          "pick_rate": 10.4
+        },
+        "route-66": {
+          "win_rate": 45.5,
+          "pick_rate": 9.1
+        },
+        "havana": {
+          "win_rate": 46.3,
+          "pick_rate": 10.1
+        },
+        "junkertown": {
+          "win_rate": 45.3,
+          "pick_rate": 9.7
+        },
+        "dorado": {
+          "win_rate": 45.9,
+          "pick_rate": 8.4
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 45.5,
+          "pick_rate": 8.5
+        },
+        "circuit-royal": {
+          "win_rate": 44.9,
+          "pick_rate": 9.0
+        },
+        "rialto": {
+          "win_rate": 46.0,
+          "pick_rate": 9.4
+        },
+        "shambali-monastery": {
+          "win_rate": 46.0,
+          "pick_rate": 9.9
+        },
+        "aatlis": {
+          "win_rate": 45.4,
+          "pick_rate": 9.8
+        },
+        "new-junk-city": {
+          "win_rate": 45.4,
+          "pick_rate": 10.3
+        },
+        "suravasa": {
+          "win_rate": 44.0,
+          "pick_rate": 10.1
+        },
+        "midtown": {
+          "win_rate": 46.3,
+          "pick_rate": 10.0
+        },
+        "numbani": {
+          "win_rate": 46.6,
+          "pick_rate": 9.2
+        },
+        "kings-row": {
+          "win_rate": 45.9,
+          "pick_rate": 9.4
+        },
+        "hollywood": {
+          "win_rate": 44.5,
+          "pick_rate": 9.2
+        },
+        "paraiso": {
+          "win_rate": 47.5,
+          "pick_rate": 9.6
+        },
+        "eichenwalde": {
+          "win_rate": 46.7,
+          "pick_rate": 9.5
+        },
+        "blizzard-world": {
+          "win_rate": 47.3,
+          "pick_rate": 9.3
+        },
+        "new-queen-street": {
+          "win_rate": 45.4,
+          "pick_rate": 9.9
+        },
+        "runasapi": {
+          "win_rate": 45.5,
+          "pick_rate": 9.9
+        },
+        "colosseo": {
+          "win_rate": 44.4,
+          "pick_rate": 9.9
+        }
+      }
+    },
+    {
+      "id": "pharah",
+      "en": "Pharah",
+      "zh": "法拉",
+      "role": "Damage",
+      "tier": "C",
+      "default_win_rate": 52.0,
+      "default_pick_rate": 5.4,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "The best way to deal with \nPharah\n is to play a hitscan with range and burst damage like \nAshe\n or \nIllari\n.",
+          "Deny her safe air space by controlling high ground and forcing her to play predictable sightlines.",
+          "Track her Barrage and hold defensive cooldowns or burst abilities to punish her immediately when she commits. A slight delay will make the difference between dying and taking her out."
+        ],
+        "countered_by_mentions": [
+          "Pharah"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 54.9,
+          "pick_rate": 9.2
+        },
+        "nepal": {
+          "win_rate": 52.9,
+          "pick_rate": 5.6
+        },
+        "lijiang-tower": {
+          "win_rate": 56.1,
+          "pick_rate": 9.1
+        },
+        "oasis": {
+          "win_rate": 53.1,
+          "pick_rate": 5.2
+        },
+        "samoa": {
+          "win_rate": 48.9,
+          "pick_rate": 4.3
+        },
+        "busan": {
+          "win_rate": 49.9,
+          "pick_rate": 4.1
+        },
+        "route-66": {
+          "win_rate": 49.3,
+          "pick_rate": 4.7
+        },
+        "havana": {
+          "win_rate": 47.1,
+          "pick_rate": 3.3
+        },
+        "junkertown": {
+          "win_rate": 49.0,
+          "pick_rate": 3.7
+        },
+        "dorado": {
+          "win_rate": 51.5,
+          "pick_rate": 5.2
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 49.9,
+          "pick_rate": 4.6
+        },
+        "circuit-royal": {
+          "win_rate": 50.3,
+          "pick_rate": 4.3
+        },
+        "rialto": {
+          "win_rate": 51.7,
+          "pick_rate": 4.9
+        },
+        "shambali-monastery": {
+          "win_rate": 50.3,
+          "pick_rate": 4.9
+        },
+        "aatlis": {
+          "win_rate": 47.0,
+          "pick_rate": 3.8
+        },
+        "new-junk-city": {
+          "win_rate": 51.7,
+          "pick_rate": 3.5
+        },
+        "suravasa": {
+          "win_rate": 49.9,
+          "pick_rate": 3.7
+        },
+        "midtown": {
+          "win_rate": 49.3,
+          "pick_rate": 4.0
+        },
+        "numbani": {
+          "win_rate": 50.0,
+          "pick_rate": 5.1
+        },
+        "kings-row": {
+          "win_rate": 52.1,
+          "pick_rate": 5.1
+        },
+        "hollywood": {
+          "win_rate": 51.7,
+          "pick_rate": 4.8
+        },
+        "paraiso": {
+          "win_rate": 50.3,
+          "pick_rate": 5.0
+        },
+        "eichenwalde": {
+          "win_rate": 50.6,
+          "pick_rate": 6.7
+        },
+        "blizzard-world": {
+          "win_rate": 48.9,
+          "pick_rate": 4.9
+        },
+        "new-queen-street": {
+          "win_rate": 50.0,
+          "pick_rate": 3.9
+        },
+        "runasapi": {
+          "win_rate": 47.1,
+          "pick_rate": 4.0
+        },
+        "colosseo": {
+          "win_rate": 49.4,
+          "pick_rate": 4.2
+        }
+      }
+    },
+    {
+      "id": "ramattra",
+      "en": "Ramattra",
+      "zh": "拉瑪塔",
+      "role": "Tank",
+      "tier": "C",
+      "default_win_rate": 48.8,
+      "default_pick_rate": 6.1,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Maps that favor close-range engagements, have smaller objective areas, and little to no high ground are best for Ram."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Ramattra\n is less tanky and less lethal in Omnic Form. After Nemesis ends, that is your window to go on the offensive.",
+          "Break line of sight (LoS) on his ultimate to end it quickly. Cutting off \nAnnihilation\n's AoE for a total of 3 seconds will immediately cancel it.",
+          "If Ram is walking toward you, expect a Vortex. Use mobility or cover before he throws it."
+        ],
+        "countered_by_mentions": []
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 48.9,
+          "pick_rate": 4.7
+        },
+        "nepal": {
+          "win_rate": 49.7,
+          "pick_rate": 6.2
+        },
+        "lijiang-tower": {
+          "win_rate": 49.2,
+          "pick_rate": 5.9
+        },
+        "oasis": {
+          "win_rate": 49.9,
+          "pick_rate": 6.1
+        },
+        "samoa": {
+          "win_rate": 49.9,
+          "pick_rate": 6.6
+        },
+        "busan": {
+          "win_rate": 49.2,
+          "pick_rate": 6.4
+        },
+        "route-66": {
+          "win_rate": 48.7,
+          "pick_rate": 5.6
+        },
+        "havana": {
+          "win_rate": 50.4,
+          "pick_rate": 6.8
+        },
+        "junkertown": {
+          "win_rate": 47.3,
+          "pick_rate": 5.9
+        },
+        "dorado": {
+          "win_rate": 48.4,
+          "pick_rate": 5.1
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 48.8,
+          "pick_rate": 4.9
+        },
+        "circuit-royal": {
+          "win_rate": 47.5,
+          "pick_rate": 6.8
+        },
+        "rialto": {
+          "win_rate": 48.1,
+          "pick_rate": 6.0
+        },
+        "shambali-monastery": {
+          "win_rate": 50.3,
+          "pick_rate": 7.4
+        },
+        "aatlis": {
+          "win_rate": 48.6,
+          "pick_rate": 6.4
+        },
+        "new-junk-city": {
+          "win_rate": 50.5,
+          "pick_rate": 6.5
+        },
+        "suravasa": {
+          "win_rate": 49.2,
+          "pick_rate": 6.2
+        },
+        "midtown": {
+          "win_rate": 49.4,
+          "pick_rate": 7.3
+        },
+        "numbani": {
+          "win_rate": 47.8,
+          "pick_rate": 5.1
+        },
+        "kings-row": {
+          "win_rate": 47.5,
+          "pick_rate": 7.1
+        },
+        "hollywood": {
+          "win_rate": 48.7,
+          "pick_rate": 6.0
+        },
+        "paraiso": {
+          "win_rate": 46.2,
+          "pick_rate": 6.3
+        },
+        "eichenwalde": {
+          "win_rate": 48.5,
+          "pick_rate": 6.6
+        },
+        "blizzard-world": {
+          "win_rate": 47.5,
+          "pick_rate": 6.2
+        },
+        "new-queen-street": {
+          "win_rate": 47.5,
+          "pick_rate": 6.4
+        },
+        "runasapi": {
+          "win_rate": 48.3,
+          "pick_rate": 6.4
+        },
+        "colosseo": {
+          "win_rate": 47.9,
+          "pick_rate": 6.7
+        }
+      }
+    },
+    {
+      "id": "reaper",
+      "en": "Reaper",
+      "zh": "死神",
+      "role": "Damage",
+      "tier": "B",
+      "default_win_rate": 53.0,
+      "default_pick_rate": 10.0,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Reaper thrives on maps with tight spaces and lots of small rooms."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Focus him after Wraith. Even if you have to chase after him, a Reaper without \nWraith Form\n is an easy kill.",
+          "Listen for \nShadow Step\n sound cue. Whichever direction you hear it from tells you he’s about to appear and attack you.",
+          "Counter \nDeath Blossom\n with CC, damage mitigation, or focus fire. He’s moving slowly and can’t cancel Blossom, so he’s easy to target."
+        ],
+        "countered_by_mentions": [
+          "Reaper"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 54.5,
+          "pick_rate": 12.1
+        },
+        "nepal": {
+          "win_rate": 53.7,
+          "pick_rate": 11.1
+        },
+        "lijiang-tower": {
+          "win_rate": 53.5,
+          "pick_rate": 10.6
+        },
+        "oasis": {
+          "win_rate": 52.7,
+          "pick_rate": 11.3
+        },
+        "samoa": {
+          "win_rate": 54.5,
+          "pick_rate": 11.3
+        },
+        "busan": {
+          "win_rate": 52.2,
+          "pick_rate": 11.1
+        },
+        "route-66": {
+          "win_rate": 52.9,
+          "pick_rate": 9.3
+        },
+        "havana": {
+          "win_rate": 51.3,
+          "pick_rate": 8.7
+        },
+        "junkertown": {
+          "win_rate": 52.9,
+          "pick_rate": 8.8
+        },
+        "dorado": {
+          "win_rate": 52.5,
+          "pick_rate": 11.2
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 52.6,
+          "pick_rate": 10.8
+        },
+        "circuit-royal": {
+          "win_rate": 51.4,
+          "pick_rate": 7.4
+        },
+        "rialto": {
+          "win_rate": 53.0,
+          "pick_rate": 8.1
+        },
+        "shambali-monastery": {
+          "win_rate": 52.3,
+          "pick_rate": 8.6
+        },
+        "aatlis": {
+          "win_rate": 54.7,
+          "pick_rate": 11.9
+        },
+        "new-junk-city": {
+          "win_rate": 50.6,
+          "pick_rate": 11.0
+        },
+        "suravasa": {
+          "win_rate": 52.2,
+          "pick_rate": 10.5
+        },
+        "midtown": {
+          "win_rate": 51.9,
+          "pick_rate": 8.2
+        },
+        "numbani": {
+          "win_rate": 51.6,
+          "pick_rate": 9.7
+        },
+        "kings-row": {
+          "win_rate": 52.2,
+          "pick_rate": 8.8
+        },
+        "hollywood": {
+          "win_rate": 52.0,
+          "pick_rate": 9.5
+        },
+        "paraiso": {
+          "win_rate": 51.5,
+          "pick_rate": 9.7
+        },
+        "eichenwalde": {
+          "win_rate": 52.2,
+          "pick_rate": 9.0
+        },
+        "blizzard-world": {
+          "win_rate": 51.2,
+          "pick_rate": 8.9
+        },
+        "new-queen-street": {
+          "win_rate": 54.7,
+          "pick_rate": 9.0
+        },
+        "runasapi": {
+          "win_rate": 52.1,
+          "pick_rate": 9.0
+        },
+        "colosseo": {
+          "win_rate": 53.8,
+          "pick_rate": 8.9
+        }
+      }
+    },
+    {
+      "id": "reinhardt",
+      "en": "Reinhardt",
+      "zh": "萊因哈特",
+      "role": "Tank",
+      "tier": "B",
+      "default_win_rate": 51.8,
+      "default_pick_rate": 7.9,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Use stuns and knock back to shut down his approach. If he can't get into \nRocket Hammer\n range, he's very underwhelming.",
+          "Burn his barrier from off-angles rather than stacking in front of it where his team can safely attack you.",
+          "When you see the Enemy walking suspiciously far up, expect\nEarthshatter\n. The moment you see him drop the shield and wind up, use your barrier or escape ability."
+        ],
+        "countered_by_mentions": [
+          "Ana",
+          "Lúcio",
+          "Orisa",
+          "Pharah",
+          "Reinhardt",
+          "Sojourn"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 51.9,
+          "pick_rate": 6.5
+        },
+        "nepal": {
+          "win_rate": 52.9,
+          "pick_rate": 8.6
+        },
+        "lijiang-tower": {
+          "win_rate": 53.6,
+          "pick_rate": 8.9
+        },
+        "oasis": {
+          "win_rate": 49.6,
+          "pick_rate": 7.8
+        },
+        "samoa": {
+          "win_rate": 51.5,
+          "pick_rate": 8.3
+        },
+        "busan": {
+          "win_rate": 52.2,
+          "pick_rate": 8.0
+        },
+        "route-66": {
+          "win_rate": 48.7,
+          "pick_rate": 6.9
+        },
+        "havana": {
+          "win_rate": 50.8,
+          "pick_rate": 7.2
+        },
+        "junkertown": {
+          "win_rate": 50.2,
+          "pick_rate": 6.9
+        },
+        "dorado": {
+          "win_rate": 49.7,
+          "pick_rate": 6.6
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 49.9,
+          "pick_rate": 5.8
+        },
+        "circuit-royal": {
+          "win_rate": 49.5,
+          "pick_rate": 7.8
+        },
+        "rialto": {
+          "win_rate": 52.8,
+          "pick_rate": 7.7
+        },
+        "shambali-monastery": {
+          "win_rate": 51.4,
+          "pick_rate": 7.6
+        },
+        "aatlis": {
+          "win_rate": 50.9,
+          "pick_rate": 7.9
+        },
+        "new-junk-city": {
+          "win_rate": 50.8,
+          "pick_rate": 8.3
+        },
+        "suravasa": {
+          "win_rate": 52.0,
+          "pick_rate": 7.8
+        },
+        "midtown": {
+          "win_rate": 51.8,
+          "pick_rate": 8.0
+        },
+        "numbani": {
+          "win_rate": 49.5,
+          "pick_rate": 6.5
+        },
+        "kings-row": {
+          "win_rate": 52.3,
+          "pick_rate": 10.7
+        },
+        "hollywood": {
+          "win_rate": 50.6,
+          "pick_rate": 7.5
+        },
+        "paraiso": {
+          "win_rate": 50.4,
+          "pick_rate": 6.6
+        },
+        "eichenwalde": {
+          "win_rate": 52.7,
+          "pick_rate": 10.5
+        },
+        "blizzard-world": {
+          "win_rate": 51.1,
+          "pick_rate": 7.1
+        },
+        "new-queen-street": {
+          "win_rate": 53.2,
+          "pick_rate": 8.0
+        },
+        "runasapi": {
+          "win_rate": 53.4,
+          "pick_rate": 8.3
+        },
+        "colosseo": {
+          "win_rate": 53.7,
+          "pick_rate": 8.5
+        }
+      }
+    },
+    {
+      "id": "roadhog",
+      "en": "Roadhog",
+      "zh": "攔路豬",
+      "role": "Tank",
+      "tier": "A",
+      "default_win_rate": 48.7,
+      "default_pick_rate": 8.8,
+      "map_recommendations": {
+        "best_maps": [
+          "watchpoint-gibraltar",
+          "circuit-royal",
+          "ilios"
+        ],
+        "worst_maps": [],
+        "maps_summary": "The best maps for \nRoadhog\n are those that encourage close-range fights, like most Control and Flashpoint maps."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "If you react quickly with healing, CC, or damage mitigation when an ally gets Hooked, you can save their life.",
+          "When Hook misses or gets blocked, press the attack for a few seconds because \nRoadhog\n is not very lethal without \nChain Hook\n.",
+          "If you have a damage mitigation ability, let \nWhole Hog\n push you back so you get out of its optimal range before activating your barrier or damage absorption."
+        ],
+        "countered_by_mentions": []
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 52.4,
+          "pick_rate": 16.5
+        },
+        "nepal": {
+          "win_rate": 49.2,
+          "pick_rate": 10.7
+        },
+        "lijiang-tower": {
+          "win_rate": 49.1,
+          "pick_rate": 9.3
+        },
+        "oasis": {
+          "win_rate": 50.3,
+          "pick_rate": 9.2
+        },
+        "samoa": {
+          "win_rate": 48.4,
+          "pick_rate": 8.8
+        },
+        "busan": {
+          "win_rate": 48.8,
+          "pick_rate": 8.1
+        },
+        "route-66": {
+          "win_rate": 48.3,
+          "pick_rate": 7.3
+        },
+        "havana": {
+          "win_rate": 48.1,
+          "pick_rate": 6.7
+        },
+        "junkertown": {
+          "win_rate": 48.4,
+          "pick_rate": 7.4
+        },
+        "dorado": {
+          "win_rate": 46.7,
+          "pick_rate": 6.9
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 46.2,
+          "pick_rate": 6.4
+        },
+        "circuit-royal": {
+          "win_rate": 43.7,
+          "pick_rate": 5.7
+        },
+        "rialto": {
+          "win_rate": 47.8,
+          "pick_rate": 8.2
+        },
+        "shambali-monastery": {
+          "win_rate": 46.4,
+          "pick_rate": 7.1
+        },
+        "aatlis": {
+          "win_rate": 49.8,
+          "pick_rate": 9.2
+        },
+        "new-junk-city": {
+          "win_rate": 49.8,
+          "pick_rate": 9.7
+        },
+        "suravasa": {
+          "win_rate": 47.3,
+          "pick_rate": 9.2
+        },
+        "midtown": {
+          "win_rate": 47.9,
+          "pick_rate": 7.3
+        },
+        "numbani": {
+          "win_rate": 44.5,
+          "pick_rate": 6.5
+        },
+        "kings-row": {
+          "win_rate": 46.0,
+          "pick_rate": 6.8
+        },
+        "hollywood": {
+          "win_rate": 47.7,
+          "pick_rate": 7.2
+        },
+        "paraiso": {
+          "win_rate": 48.3,
+          "pick_rate": 7.4
+        },
+        "eichenwalde": {
+          "win_rate": 47.9,
+          "pick_rate": 7.3
+        },
+        "blizzard-world": {
+          "win_rate": 45.8,
+          "pick_rate": 6.9
+        },
+        "new-queen-street": {
+          "win_rate": 47.3,
+          "pick_rate": 8.5
+        },
+        "runasapi": {
+          "win_rate": 48.7,
+          "pick_rate": 8.3
+        },
+        "colosseo": {
+          "win_rate": 50.2,
+          "pick_rate": 7.8
+        }
+      }
+    },
+    {
+      "id": "sigma",
+      "en": "Sigma",
+      "zh": "席格馬",
+      "role": "Tank",
+      "tier": "S",
+      "default_win_rate": 52.6,
+      "default_pick_rate": 9.3,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Force \nSigma\n off his optimal mid-range poke angles by pressuring him with dive or flank threats, exploiting his lack of mobility.",
+          "Beam heroes are strong against \nSigma\n because they can burn through his shield and \nKinetic Grasp\n doesn't absorb beams.",
+          "Stun him out of \nGravitic Flux\n to immediately cancel his ult before he has a chance to activate."
+        ],
+        "countered_by_mentions": [
+          "Sigma",
+          "Winston"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 49.2,
+          "pick_rate": 5.8
+        },
+        "nepal": {
+          "win_rate": 50.9,
+          "pick_rate": 7.1
+        },
+        "lijiang-tower": {
+          "win_rate": 50.2,
+          "pick_rate": 6.6
+        },
+        "oasis": {
+          "win_rate": 51.4,
+          "pick_rate": 7.3
+        },
+        "samoa": {
+          "win_rate": 50.5,
+          "pick_rate": 7.6
+        },
+        "busan": {
+          "win_rate": 51.3,
+          "pick_rate": 7.5
+        },
+        "route-66": {
+          "win_rate": 53.6,
+          "pick_rate": 11.9
+        },
+        "havana": {
+          "win_rate": 55.5,
+          "pick_rate": 15.2
+        },
+        "junkertown": {
+          "win_rate": 55.3,
+          "pick_rate": 13.1
+        },
+        "dorado": {
+          "win_rate": 51.8,
+          "pick_rate": 9.6
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 52.5,
+          "pick_rate": 8.9
+        },
+        "circuit-royal": {
+          "win_rate": 57.5,
+          "pick_rate": 19.6
+        },
+        "rialto": {
+          "win_rate": 54.6,
+          "pick_rate": 11.7
+        },
+        "shambali-monastery": {
+          "win_rate": 54.9,
+          "pick_rate": 13.3
+        },
+        "aatlis": {
+          "win_rate": 47.8,
+          "pick_rate": 6.3
+        },
+        "new-junk-city": {
+          "win_rate": 46.3,
+          "pick_rate": 6.1
+        },
+        "suravasa": {
+          "win_rate": 48.9,
+          "pick_rate": 6.1
+        },
+        "midtown": {
+          "win_rate": 53.9,
+          "pick_rate": 13.5
+        },
+        "numbani": {
+          "win_rate": 52.7,
+          "pick_rate": 9.5
+        },
+        "kings-row": {
+          "win_rate": 53.6,
+          "pick_rate": 11.4
+        },
+        "hollywood": {
+          "win_rate": 53.7,
+          "pick_rate": 11.4
+        },
+        "paraiso": {
+          "win_rate": 54.0,
+          "pick_rate": 11.3
+        },
+        "eichenwalde": {
+          "win_rate": 53.8,
+          "pick_rate": 11.8
+        },
+        "blizzard-world": {
+          "win_rate": 54.0,
+          "pick_rate": 11.9
+        },
+        "new-queen-street": {
+          "win_rate": 51.8,
+          "pick_rate": 7.7
+        },
+        "runasapi": {
+          "win_rate": 49.6,
+          "pick_rate": 7.8
+        },
+        "colosseo": {
+          "win_rate": 50.5,
+          "pick_rate": 8.9
+        }
+      }
+    },
+    {
+      "id": "sojourn",
+      "en": "Sojourn",
+      "zh": "索潔恩",
+      "role": "Damage",
+      "tier": "S",
+      "default_win_rate": 44.5,
+      "default_pick_rate": 12.4,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Sojourn’s versatility allows her to be played effectively on every map."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Watch for charged Railgun shots. When she hasn’t fired one for a few seconds, position out of her LoS.",
+          "When you hear \nOverclock\n, find cover and hide. On occasions where that isn’t possible, immediately focus her.",
+          "After she uses Power Slide, quickly dive her. She won’t be able to escape and likely has low Railgun charge."
+        ],
+        "countered_by_mentions": []
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 44.7,
+          "pick_rate": 10.4
+        },
+        "nepal": {
+          "win_rate": 45.8,
+          "pick_rate": 12.3
+        },
+        "lijiang-tower": {
+          "win_rate": 44.7,
+          "pick_rate": 11.7
+        },
+        "oasis": {
+          "win_rate": 44.4,
+          "pick_rate": 12.4
+        },
+        "samoa": {
+          "win_rate": 44.4,
+          "pick_rate": 13.1
+        },
+        "busan": {
+          "win_rate": 45.8,
+          "pick_rate": 12.4
+        },
+        "route-66": {
+          "win_rate": 44.6,
+          "pick_rate": 11.9
+        },
+        "havana": {
+          "win_rate": 44.4,
+          "pick_rate": 12.9
+        },
+        "junkertown": {
+          "win_rate": 42.9,
+          "pick_rate": 12.2
+        },
+        "dorado": {
+          "win_rate": 44.7,
+          "pick_rate": 11.1
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 43.9,
+          "pick_rate": 10.7
+        },
+        "circuit-royal": {
+          "win_rate": 44.2,
+          "pick_rate": 14.0
+        },
+        "rialto": {
+          "win_rate": 44.3,
+          "pick_rate": 12.4
+        },
+        "shambali-monastery": {
+          "win_rate": 44.0,
+          "pick_rate": 13.2
+        },
+        "aatlis": {
+          "win_rate": 43.2,
+          "pick_rate": 13.0
+        },
+        "new-junk-city": {
+          "win_rate": 44.0,
+          "pick_rate": 14.3
+        },
+        "suravasa": {
+          "win_rate": 44.5,
+          "pick_rate": 14.1
+        },
+        "midtown": {
+          "win_rate": 43.9,
+          "pick_rate": 13.9
+        },
+        "numbani": {
+          "win_rate": 43.2,
+          "pick_rate": 11.2
+        },
+        "kings-row": {
+          "win_rate": 43.6,
+          "pick_rate": 13.0
+        },
+        "hollywood": {
+          "win_rate": 42.7,
+          "pick_rate": 12.1
+        },
+        "paraiso": {
+          "win_rate": 44.0,
+          "pick_rate": 12.6
+        },
+        "eichenwalde": {
+          "win_rate": 43.5,
+          "pick_rate": 11.8
+        },
+        "blizzard-world": {
+          "win_rate": 44.3,
+          "pick_rate": 12.7
+        },
+        "new-queen-street": {
+          "win_rate": 44.8,
+          "pick_rate": 14.0
+        },
+        "runasapi": {
+          "win_rate": 45.6,
+          "pick_rate": 13.6
+        },
+        "colosseo": {
+          "win_rate": 45.9,
+          "pick_rate": 13.5
+        }
+      }
+    },
+    {
+      "id": "soldier-76",
+      "en": "Soldier: 76",
+      "zh": "士兵76",
+      "role": "Damage",
+      "tier": "A",
+      "default_win_rate": 48.7,
+      "default_pick_rate": 14.9,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "The best maps to play Soldier: 76 on are maps with lots of flank routes."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Dive him. Every role has heroes who can go with another ally and dive Soldier. He doesn’t have any CC and can’t attack while using his mobility tool.",
+          "Block his poke damage. If all Soldier is doing is shooting barriers, he’s not bringing a lot of value to his team. Either use your own shield or play in the protection of a teammate.",
+          "If you don’t see Soldier in front of you for a while, assume he is about to attack you from your flank. Play near cover so you can escape his surprise attack."
+        ],
+        "countered_by_mentions": [
+          "Lúcio",
+          "Soldier: 76",
+          "Jetpack Cat"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 47.2,
+          "pick_rate": 14.2
+        },
+        "nepal": {
+          "win_rate": 48.6,
+          "pick_rate": 14.8
+        },
+        "lijiang-tower": {
+          "win_rate": 47.8,
+          "pick_rate": 14.2
+        },
+        "oasis": {
+          "win_rate": 50.0,
+          "pick_rate": 15.4
+        },
+        "samoa": {
+          "win_rate": 48.9,
+          "pick_rate": 14.5
+        },
+        "busan": {
+          "win_rate": 50.9,
+          "pick_rate": 16.9
+        },
+        "route-66": {
+          "win_rate": 48.2,
+          "pick_rate": 15.5
+        },
+        "havana": {
+          "win_rate": 49.7,
+          "pick_rate": 14.6
+        },
+        "junkertown": {
+          "win_rate": 49.0,
+          "pick_rate": 15.7
+        },
+        "dorado": {
+          "win_rate": 48.5,
+          "pick_rate": 15.6
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 48.5,
+          "pick_rate": 16.3
+        },
+        "circuit-royal": {
+          "win_rate": 47.9,
+          "pick_rate": 13.6
+        },
+        "rialto": {
+          "win_rate": 47.2,
+          "pick_rate": 14.0
+        },
+        "shambali-monastery": {
+          "win_rate": 47.3,
+          "pick_rate": 13.9
+        },
+        "aatlis": {
+          "win_rate": 49.3,
+          "pick_rate": 14.7
+        },
+        "new-junk-city": {
+          "win_rate": 48.8,
+          "pick_rate": 14.8
+        },
+        "suravasa": {
+          "win_rate": 48.7,
+          "pick_rate": 14.8
+        },
+        "midtown": {
+          "win_rate": 48.2,
+          "pick_rate": 14.5
+        },
+        "numbani": {
+          "win_rate": 49.3,
+          "pick_rate": 16.2
+        },
+        "kings-row": {
+          "win_rate": 46.5,
+          "pick_rate": 12.9
+        },
+        "hollywood": {
+          "win_rate": 47.8,
+          "pick_rate": 14.1
+        },
+        "paraiso": {
+          "win_rate": 47.9,
+          "pick_rate": 14.3
+        },
+        "eichenwalde": {
+          "win_rate": 46.4,
+          "pick_rate": 13.8
+        },
+        "blizzard-world": {
+          "win_rate": 47.4,
+          "pick_rate": 14.7
+        },
+        "new-queen-street": {
+          "win_rate": 51.9,
+          "pick_rate": 18.5
+        },
+        "runasapi": {
+          "win_rate": 51.8,
+          "pick_rate": 16.8
+        },
+        "colosseo": {
+          "win_rate": 48.6,
+          "pick_rate": 14.8
+        }
+      }
+    },
+    {
+      "id": "sombra",
+      "en": "Sombra",
+      "zh": "駭影",
+      "role": "Damage",
+      "tier": "C",
+      "default_win_rate": 47.5,
+      "default_pick_rate": 6.3,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "The best maps for Sombra have lots of side rooms for her to set up in."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Be on the lookout for Sombra if you haven’t seen her for a while; that means she’s in position to flank you. Be ready to turn around and counterattack.",
+          "If she Translocates right into your team, assume EMP is coming. CC her, dash away, or get to cover.",
+          "Heroes with mobility like \nD.Va\n and \nAnran\n can chase after Translocate and shoot Sombra out of invis for the kill."
+        ],
+        "countered_by_mentions": [
+          "D.Va",
+          "Echo",
+          "Sombra",
+          "Winston",
+          "Anran"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 47.5,
+          "pick_rate": 6.8
+        },
+        "nepal": {
+          "win_rate": 47.7,
+          "pick_rate": 6.1
+        },
+        "lijiang-tower": {
+          "win_rate": 46.9,
+          "pick_rate": 5.7
+        },
+        "oasis": {
+          "win_rate": 48.5,
+          "pick_rate": 6.8
+        },
+        "samoa": {
+          "win_rate": 46.4,
+          "pick_rate": 6.4
+        },
+        "busan": {
+          "win_rate": 47.6,
+          "pick_rate": 7.3
+        },
+        "route-66": {
+          "win_rate": 46.1,
+          "pick_rate": 5.9
+        },
+        "havana": {
+          "win_rate": 47.7,
+          "pick_rate": 6.3
+        },
+        "junkertown": {
+          "win_rate": 47.3,
+          "pick_rate": 6.8
+        },
+        "dorado": {
+          "win_rate": 47.2,
+          "pick_rate": 6.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 46.4,
+          "pick_rate": 6.3
+        },
+        "circuit-royal": {
+          "win_rate": 46.2,
+          "pick_rate": 5.3
+        },
+        "rialto": {
+          "win_rate": 45.6,
+          "pick_rate": 5.7
+        },
+        "shambali-monastery": {
+          "win_rate": 45.3,
+          "pick_rate": 5.4
+        },
+        "aatlis": {
+          "win_rate": 45.5,
+          "pick_rate": 6.9
+        },
+        "new-junk-city": {
+          "win_rate": 49.0,
+          "pick_rate": 6.5
+        },
+        "suravasa": {
+          "win_rate": 48.1,
+          "pick_rate": 7.4
+        },
+        "midtown": {
+          "win_rate": 47.0,
+          "pick_rate": 5.3
+        },
+        "numbani": {
+          "win_rate": 48.8,
+          "pick_rate": 6.3
+        },
+        "kings-row": {
+          "win_rate": 46.8,
+          "pick_rate": 4.9
+        },
+        "hollywood": {
+          "win_rate": 46.3,
+          "pick_rate": 5.6
+        },
+        "paraiso": {
+          "win_rate": 46.8,
+          "pick_rate": 5.5
+        },
+        "eichenwalde": {
+          "win_rate": 46.0,
+          "pick_rate": 5.7
+        },
+        "blizzard-world": {
+          "win_rate": 47.9,
+          "pick_rate": 6.7
+        },
+        "new-queen-street": {
+          "win_rate": 50.7,
+          "pick_rate": 7.8
+        },
+        "runasapi": {
+          "win_rate": 49.6,
+          "pick_rate": 7.4
+        },
+        "colosseo": {
+          "win_rate": 49.6,
+          "pick_rate": 7.1
+        }
+      }
+    },
+    {
+      "id": "symmetra",
+      "en": "Symmetra",
+      "zh": "辛梅塔",
+      "role": "Damage",
+      "tier": "A",
+      "default_win_rate": 56.7,
+      "default_pick_rate": 3.4,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "The best maps to play \nSymmetra\n on either have enclosed objective areas or funnel both teams into one main choke point."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Shoot the \nSentry Turret\ns. Don’t be the teammate who walks forward, gets blasted by the turrets, and ignores them. On corners, you can quickly peek and fire before they target you.",
+          "Watch for TP. Her team might end up behind you and wipe your backline. Sym may also use TP to dive an isolated target, so always watch to see if her hands are up in the deploy animation.",
+          "Stay out of her effective range. Primary fire and turrets both have very limited ranges, so most heroes have the advantage against Sym at medium to long range."
+        ],
+        "countered_by_mentions": [
+          "Symmetra"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 56.1,
+          "pick_rate": 3.6
+        },
+        "nepal": {
+          "win_rate": 60.9,
+          "pick_rate": 5.7
+        },
+        "lijiang-tower": {
+          "win_rate": 62.0,
+          "pick_rate": 6.2
+        },
+        "oasis": {
+          "win_rate": 55.3,
+          "pick_rate": 3.4
+        },
+        "samoa": {
+          "win_rate": 57.9,
+          "pick_rate": 3.5
+        },
+        "busan": {
+          "win_rate": 55.0,
+          "pick_rate": 2.8
+        },
+        "route-66": {
+          "win_rate": 53.5,
+          "pick_rate": 2.3
+        },
+        "havana": {
+          "win_rate": 55.3,
+          "pick_rate": 2.3
+        },
+        "junkertown": {
+          "win_rate": 51.3,
+          "pick_rate": 2.1
+        },
+        "dorado": {
+          "win_rate": 54.0,
+          "pick_rate": 3.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 53.0,
+          "pick_rate": 2.4
+        },
+        "circuit-royal": {
+          "win_rate": 55.1,
+          "pick_rate": 2.4
+        },
+        "rialto": {
+          "win_rate": 52.5,
+          "pick_rate": 2.5
+        },
+        "shambali-monastery": {
+          "win_rate": 57.3,
+          "pick_rate": 2.8
+        },
+        "aatlis": {
+          "win_rate": 54.0,
+          "pick_rate": 2.7
+        },
+        "new-junk-city": {
+          "win_rate": 53.1,
+          "pick_rate": 2.8
+        },
+        "suravasa": {
+          "win_rate": 57.1,
+          "pick_rate": 2.8
+        },
+        "midtown": {
+          "win_rate": 57.7,
+          "pick_rate": 3.8
+        },
+        "numbani": {
+          "win_rate": 52.7,
+          "pick_rate": 2.9
+        },
+        "kings-row": {
+          "win_rate": 53.2,
+          "pick_rate": 3.6
+        },
+        "hollywood": {
+          "win_rate": 56.0,
+          "pick_rate": 3.7
+        },
+        "paraiso": {
+          "win_rate": 56.9,
+          "pick_rate": 3.1
+        },
+        "eichenwalde": {
+          "win_rate": 56.9,
+          "pick_rate": 4.1
+        },
+        "blizzard-world": {
+          "win_rate": 54.6,
+          "pick_rate": 3.0
+        },
+        "new-queen-street": {
+          "win_rate": 49.8,
+          "pick_rate": 1.6
+        },
+        "runasapi": {
+          "win_rate": 48.5,
+          "pick_rate": 1.8
+        },
+        "colosseo": {
+          "win_rate": 50.3,
+          "pick_rate": 1.7
+        }
+      }
+    },
+    {
+      "id": "torbjorn",
+      "en": "Torbjörn",
+      "zh": "托比昂",
+      "role": "Damage",
+      "tier": "B",
+      "default_win_rate": 56.6,
+      "default_pick_rate": 4.0,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Torbjörn and his Turrets do best on maps that favor close-range engagements and have choke points that are difficult to break through."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Break his Turret first. Try quickly peeking around corners and hiding between your own shots to minimize the Turret's damage.",
+          "Bait out Overload. Soft engage without committing all your long cooldowns, then back up when he’s using Overload. It only lasts five seconds, and you can attack again as soon as it ends.",
+          "Play ranged heroes. Torb is weaker against heroes with range because they can break his Turret from safety and have more consistent damage than his primary fire."
+        ],
+        "countered_by_mentions": [
+          "Torbjörn"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 54.7,
+          "pick_rate": 3.3
+        },
+        "nepal": {
+          "win_rate": 56.2,
+          "pick_rate": 3.4
+        },
+        "lijiang-tower": {
+          "win_rate": 56.2,
+          "pick_rate": 3.1
+        },
+        "oasis": {
+          "win_rate": 56.1,
+          "pick_rate": 3.5
+        },
+        "samoa": {
+          "win_rate": 56.2,
+          "pick_rate": 3.8
+        },
+        "busan": {
+          "win_rate": 56.4,
+          "pick_rate": 3.5
+        },
+        "route-66": {
+          "win_rate": 56.6,
+          "pick_rate": 4.4
+        },
+        "havana": {
+          "win_rate": 58.8,
+          "pick_rate": 4.5
+        },
+        "junkertown": {
+          "win_rate": 55.6,
+          "pick_rate": 4.4
+        },
+        "dorado": {
+          "win_rate": 56.2,
+          "pick_rate": 4.4
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 56.9,
+          "pick_rate": 4.4
+        },
+        "circuit-royal": {
+          "win_rate": 56.9,
+          "pick_rate": 4.4
+        },
+        "rialto": {
+          "win_rate": 57.1,
+          "pick_rate": 4.3
+        },
+        "shambali-monastery": {
+          "win_rate": 56.9,
+          "pick_rate": 4.4
+        },
+        "aatlis": {
+          "win_rate": 57.7,
+          "pick_rate": 3.4
+        },
+        "new-junk-city": {
+          "win_rate": 57.5,
+          "pick_rate": 3.3
+        },
+        "suravasa": {
+          "win_rate": 58.2,
+          "pick_rate": 3.4
+        },
+        "midtown": {
+          "win_rate": 59.0,
+          "pick_rate": 5.0
+        },
+        "numbani": {
+          "win_rate": 56.1,
+          "pick_rate": 4.5
+        },
+        "kings-row": {
+          "win_rate": 55.4,
+          "pick_rate": 4.3
+        },
+        "hollywood": {
+          "win_rate": 57.0,
+          "pick_rate": 5.0
+        },
+        "paraiso": {
+          "win_rate": 59.0,
+          "pick_rate": 5.3
+        },
+        "eichenwalde": {
+          "win_rate": 59.4,
+          "pick_rate": 7.4
+        },
+        "blizzard-world": {
+          "win_rate": 59.1,
+          "pick_rate": 4.8
+        },
+        "new-queen-street": {
+          "win_rate": 54.2,
+          "pick_rate": 3.1
+        },
+        "runasapi": {
+          "win_rate": 53.4,
+          "pick_rate": 3.1
+        },
+        "colosseo": {
+          "win_rate": 54.3,
+          "pick_rate": 3.3
+        }
+      }
+    },
+    {
+      "id": "tracer",
+      "en": "Tracer",
+      "zh": "閃光",
+      "role": "Damage",
+      "tier": "S",
+      "default_win_rate": 49.2,
+      "default_pick_rate": 8.0,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Tracer’s mobility allows her to find value on virtually every map."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Keep your distance. Tracer has terrible ranged damage so try to position where it's difficult for her to reach you, or use mobility tools to dodge her.",
+          "Track \nRecall\n. You can get used to the timing of Recall to predict where she will rewind to. If you see Recall used, that is your chance to chase and eliminate Tracer.",
+          "If you see Tracer multi-Blink straight at you, expect a \nPulse Bomb\n. Use a barrier, stun, or escape tool to avoid getting stuck."
+        ],
+        "countered_by_mentions": [
+          "Torbjörn",
+          "Tracer",
+          "Mizuki"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 49.2,
+          "pick_rate": 9.0
+        },
+        "nepal": {
+          "win_rate": 47.2,
+          "pick_rate": 8.4
+        },
+        "lijiang-tower": {
+          "win_rate": 48.7,
+          "pick_rate": 8.7
+        },
+        "oasis": {
+          "win_rate": 49.3,
+          "pick_rate": 10.1
+        },
+        "samoa": {
+          "win_rate": 50.7,
+          "pick_rate": 10.5
+        },
+        "busan": {
+          "win_rate": 50.0,
+          "pick_rate": 9.2
+        },
+        "route-66": {
+          "win_rate": 49.4,
+          "pick_rate": 5.4
+        },
+        "havana": {
+          "win_rate": 48.3,
+          "pick_rate": 5.3
+        },
+        "junkertown": {
+          "win_rate": 46.8,
+          "pick_rate": 5.6
+        },
+        "dorado": {
+          "win_rate": 47.3,
+          "pick_rate": 5.2
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 47.2,
+          "pick_rate": 6.2
+        },
+        "circuit-royal": {
+          "win_rate": 45.0,
+          "pick_rate": 4.2
+        },
+        "rialto": {
+          "win_rate": 48.9,
+          "pick_rate": 5.7
+        },
+        "shambali-monastery": {
+          "win_rate": 48.0,
+          "pick_rate": 6.0
+        },
+        "aatlis": {
+          "win_rate": 53.0,
+          "pick_rate": 12.8
+        },
+        "new-junk-city": {
+          "win_rate": 50.4,
+          "pick_rate": 12.0
+        },
+        "suravasa": {
+          "win_rate": 50.5,
+          "pick_rate": 13.2
+        },
+        "midtown": {
+          "win_rate": 47.7,
+          "pick_rate": 6.3
+        },
+        "numbani": {
+          "win_rate": 50.1,
+          "pick_rate": 5.7
+        },
+        "kings-row": {
+          "win_rate": 46.3,
+          "pick_rate": 5.4
+        },
+        "hollywood": {
+          "win_rate": 48.3,
+          "pick_rate": 5.8
+        },
+        "paraiso": {
+          "win_rate": 46.5,
+          "pick_rate": 5.8
+        },
+        "eichenwalde": {
+          "win_rate": 47.7,
+          "pick_rate": 5.6
+        },
+        "blizzard-world": {
+          "win_rate": 47.1,
+          "pick_rate": 6.8
+        },
+        "new-queen-street": {
+          "win_rate": 51.3,
+          "pick_rate": 11.3
+        },
+        "runasapi": {
+          "win_rate": 51.7,
+          "pick_rate": 11.6
+        },
+        "colosseo": {
+          "win_rate": 53.0,
+          "pick_rate": 10.0
+        }
+      }
+    },
+    {
+      "id": "venture",
+      "en": "Venture",
+      "zh": "無畏",
+      "role": "Damage",
+      "tier": "B",
+      "default_win_rate": 52.3,
+      "default_pick_rate": 2.8,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Venture can still be damaged after activating Burrow until their entire body is fully submerged. Don't let them get away!",
+          "Make a mental note if you don't see \nVenture\n on your screen. They are likely setting up a flank attack, so be ready to counter.",
+          "When they miss abilities, or you see them use \nDrill Dash\n and \nBurrow\n, that's your signal to hard-focus them at their most vulnerable."
+        ],
+        "countered_by_mentions": [
+          "Venture"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 53.2,
+          "pick_rate": 3.4
+        },
+        "nepal": {
+          "win_rate": 52.0,
+          "pick_rate": 3.3
+        },
+        "lijiang-tower": {
+          "win_rate": 53.0,
+          "pick_rate": 3.4
+        },
+        "oasis": {
+          "win_rate": 50.9,
+          "pick_rate": 3.1
+        },
+        "samoa": {
+          "win_rate": 52.3,
+          "pick_rate": 3.3
+        },
+        "busan": {
+          "win_rate": 50.0,
+          "pick_rate": 2.8
+        },
+        "route-66": {
+          "win_rate": 52.4,
+          "pick_rate": 2.4
+        },
+        "havana": {
+          "win_rate": 52.0,
+          "pick_rate": 2.1
+        },
+        "junkertown": {
+          "win_rate": 51.4,
+          "pick_rate": 2.3
+        },
+        "dorado": {
+          "win_rate": 52.6,
+          "pick_rate": 2.4
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 51.7,
+          "pick_rate": 2.2
+        },
+        "circuit-royal": {
+          "win_rate": 51.9,
+          "pick_rate": 2.1
+        },
+        "rialto": {
+          "win_rate": 54.2,
+          "pick_rate": 2.4
+        },
+        "shambali-monastery": {
+          "win_rate": 50.5,
+          "pick_rate": 2.6
+        },
+        "aatlis": {
+          "win_rate": 52.1,
+          "pick_rate": 4.2
+        },
+        "new-junk-city": {
+          "win_rate": 53.2,
+          "pick_rate": 3.6
+        },
+        "suravasa": {
+          "win_rate": 53.3,
+          "pick_rate": 3.4
+        },
+        "midtown": {
+          "win_rate": 52.3,
+          "pick_rate": 2.4
+        },
+        "numbani": {
+          "win_rate": 49.7,
+          "pick_rate": 2.3
+        },
+        "kings-row": {
+          "win_rate": 51.5,
+          "pick_rate": 2.5
+        },
+        "hollywood": {
+          "win_rate": 52.8,
+          "pick_rate": 2.5
+        },
+        "paraiso": {
+          "win_rate": 54.6,
+          "pick_rate": 2.4
+        },
+        "eichenwalde": {
+          "win_rate": 53.0,
+          "pick_rate": 2.5
+        },
+        "blizzard-world": {
+          "win_rate": 52.6,
+          "pick_rate": 2.5
+        },
+        "new-queen-street": {
+          "win_rate": 53.0,
+          "pick_rate": 2.5
+        },
+        "runasapi": {
+          "win_rate": 51.4,
+          "pick_rate": 2.9
+        },
+        "colosseo": {
+          "win_rate": 55.1,
+          "pick_rate": 2.6
+        }
+      }
+    },
+    {
+      "id": "widowmaker",
+      "en": "Widowmaker",
+      "zh": "奪命女",
+      "role": "Damage",
+      "tier": "B",
+      "default_win_rate": 46.3,
+      "default_pick_rate": 4.4,
+      "map_recommendations": {
+        "best_maps": [
+          "circuit-royal",
+          "havana"
+        ],
+        "worst_maps": [],
+        "maps_summary": "The best maps for \nWidowmaker\n have long-sight lines where she can take advantage of her superior range."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Force her to retreat with dives and flanks. Even if you don’t get the kill, stop her from aiming at your teammates.",
+          "Never peek the same angle twice. If you see Widow aiming down sights, don’t walk out at the same position because she will be ready to hit the shot.",
+          "Avoid her sightlines. Scout or get info from your team about her position. Then take side routes where she can’t snipe you."
+        ],
+        "countered_by_mentions": []
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 43.6,
+          "pick_rate": 3.6
+        },
+        "nepal": {
+          "win_rate": 41.3,
+          "pick_rate": 1.8
+        },
+        "lijiang-tower": {
+          "win_rate": 40.0,
+          "pick_rate": 1.9
+        },
+        "oasis": {
+          "win_rate": 41.1,
+          "pick_rate": 1.5
+        },
+        "samoa": {
+          "win_rate": 42.0,
+          "pick_rate": 1.9
+        },
+        "busan": {
+          "win_rate": 47.9,
+          "pick_rate": 4.5
+        },
+        "route-66": {
+          "win_rate": 47.6,
+          "pick_rate": 6.1
+        },
+        "havana": {
+          "win_rate": 49.9,
+          "pick_rate": 13.1
+        },
+        "junkertown": {
+          "win_rate": 48.7,
+          "pick_rate": 9.9
+        },
+        "dorado": {
+          "win_rate": 45.2,
+          "pick_rate": 4.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 46.1,
+          "pick_rate": 7.0
+        },
+        "circuit-royal": {
+          "win_rate": 49.6,
+          "pick_rate": 12.5
+        },
+        "rialto": {
+          "win_rate": 47.4,
+          "pick_rate": 8.4
+        },
+        "shambali-monastery": {
+          "win_rate": 44.1,
+          "pick_rate": 5.0
+        },
+        "aatlis": {
+          "win_rate": 39.1,
+          "pick_rate": 1.1
+        },
+        "new-junk-city": {
+          "win_rate": 42.4,
+          "pick_rate": 1.2
+        },
+        "suravasa": {
+          "win_rate": 41.4,
+          "pick_rate": 1.1
+        },
+        "midtown": {
+          "win_rate": 46.5,
+          "pick_rate": 4.5
+        },
+        "numbani": {
+          "win_rate": 44.2,
+          "pick_rate": 4.0
+        },
+        "kings-row": {
+          "win_rate": 52.0,
+          "pick_rate": 9.0
+        },
+        "hollywood": {
+          "win_rate": 45.7,
+          "pick_rate": 5.7
+        },
+        "paraiso": {
+          "win_rate": 46.5,
+          "pick_rate": 4.1
+        },
+        "eichenwalde": {
+          "win_rate": 43.3,
+          "pick_rate": 3.1
+        },
+        "blizzard-world": {
+          "win_rate": 47.3,
+          "pick_rate": 6.1
+        },
+        "new-queen-street": {
+          "win_rate": 42.7,
+          "pick_rate": 2.7
+        },
+        "runasapi": {
+          "win_rate": 40.6,
+          "pick_rate": 2.6
+        },
+        "colosseo": {
+          "win_rate": 45.9,
+          "pick_rate": 4.7
+        }
+      }
+    },
+    {
+      "id": "winston",
+      "en": "Winston",
+      "zh": "溫斯頓",
+      "role": "Tank",
+      "tier": "A",
+      "default_win_rate": 51.4,
+      "default_pick_rate": 6.6,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "The best maps for \nWinston\n have structures, high ground, and plenty of natural cover."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Track his cooldowns. When \nWinston\n uses either bubble or leap, his enemies have a generous window to target him where he can’t shield or jump away. Focus him when he can’t escape.",
+          "Keep your distance. Most heroes have CC to stop or knockback \nWinston\n, or a movement ability to run away. Try to never let him get close to you, as he’s only a threat up close.",
+          "Stay in an ally Support’s LoS. \nWinston\n's damage is rather low, and most Supports can keep you alive with their healing even while he’s attacking you. Eventually, you’ll do more damage than him, and he’ll have to disengage."
+        ],
+        "countered_by_mentions": [
+          "Reaper",
+          "Winston",
+          "Vendetta"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 53.0,
+          "pick_rate": 6.7
+        },
+        "nepal": {
+          "win_rate": 49.2,
+          "pick_rate": 5.1
+        },
+        "lijiang-tower": {
+          "win_rate": 49.4,
+          "pick_rate": 4.9
+        },
+        "oasis": {
+          "win_rate": 51.9,
+          "pick_rate": 6.4
+        },
+        "samoa": {
+          "win_rate": 49.0,
+          "pick_rate": 5.6
+        },
+        "busan": {
+          "win_rate": 52.5,
+          "pick_rate": 7.0
+        },
+        "route-66": {
+          "win_rate": 53.6,
+          "pick_rate": 8.7
+        },
+        "havana": {
+          "win_rate": 51.3,
+          "pick_rate": 6.0
+        },
+        "junkertown": {
+          "win_rate": 49.8,
+          "pick_rate": 7.3
+        },
+        "dorado": {
+          "win_rate": 54.3,
+          "pick_rate": 10.7
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 55.6,
+          "pick_rate": 13.2
+        },
+        "circuit-royal": {
+          "win_rate": 47.1,
+          "pick_rate": 5.6
+        },
+        "rialto": {
+          "win_rate": 49.9,
+          "pick_rate": 6.8
+        },
+        "shambali-monastery": {
+          "win_rate": 48.3,
+          "pick_rate": 5.4
+        },
+        "aatlis": {
+          "win_rate": 53.6,
+          "pick_rate": 5.3
+        },
+        "new-junk-city": {
+          "win_rate": 51.8,
+          "pick_rate": 4.7
+        },
+        "suravasa": {
+          "win_rate": 53.8,
+          "pick_rate": 6.3
+        },
+        "midtown": {
+          "win_rate": 47.0,
+          "pick_rate": 4.5
+        },
+        "numbani": {
+          "win_rate": 55.0,
+          "pick_rate": 9.9
+        },
+        "kings-row": {
+          "win_rate": 50.0,
+          "pick_rate": 5.6
+        },
+        "hollywood": {
+          "win_rate": 52.2,
+          "pick_rate": 7.9
+        },
+        "paraiso": {
+          "win_rate": 52.3,
+          "pick_rate": 7.8
+        },
+        "eichenwalde": {
+          "win_rate": 47.9,
+          "pick_rate": 5.3
+        },
+        "blizzard-world": {
+          "win_rate": 50.8,
+          "pick_rate": 8.5
+        },
+        "new-queen-street": {
+          "win_rate": 51.5,
+          "pick_rate": 6.3
+        },
+        "runasapi": {
+          "win_rate": 51.3,
+          "pick_rate": 6.2
+        },
+        "colosseo": {
+          "win_rate": 53.7,
+          "pick_rate": 6.1
+        }
+      }
+    },
+    {
+      "id": "wrecking-ball",
+      "en": "Wrecking Ball",
+      "zh": "火爆鋼球",
+      "role": "Tank",
+      "tier": "C",
+      "default_win_rate": 49.8,
+      "default_pick_rate": 3.4,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "Because \nWrecking Ball\n can use \nGrappling Claw\n and \nRoll\n to move both vertically and horizontally, he performs well on maps with high ground as well as flatter layouts."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Track his \nAdaptive Shield\n. If he hasn’t used them, don’t use your stuns yet, or he’ll easily survive.",
+          "Pick a hero with kockbacks or stuns. Dealing with Ball is very hard without good CC.",
+          "Don’t get isolated. Instead, position with at least one teammate so you don’t get caught in a 1v1 with Ball."
+        ],
+        "countered_by_mentions": [
+          "Pharah",
+          "Sigma",
+          "Wrecking Ball",
+          "Jetpack Cat",
+          "Mizuki"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 47.3,
+          "pick_rate": 3.4
+        },
+        "nepal": {
+          "win_rate": 47.0,
+          "pick_rate": 3.2
+        },
+        "lijiang-tower": {
+          "win_rate": 48.5,
+          "pick_rate": 4.0
+        },
+        "oasis": {
+          "win_rate": 46.2,
+          "pick_rate": 3.5
+        },
+        "samoa": {
+          "win_rate": 48.5,
+          "pick_rate": 3.3
+        },
+        "busan": {
+          "win_rate": 46.5,
+          "pick_rate": 3.6
+        },
+        "route-66": {
+          "win_rate": 51.4,
+          "pick_rate": 3.0
+        },
+        "havana": {
+          "win_rate": 48.1,
+          "pick_rate": 2.5
+        },
+        "junkertown": {
+          "win_rate": 53.7,
+          "pick_rate": 3.3
+        },
+        "dorado": {
+          "win_rate": 54.3,
+          "pick_rate": 3.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 51.7,
+          "pick_rate": 3.2
+        },
+        "circuit-royal": {
+          "win_rate": 51.3,
+          "pick_rate": 2.7
+        },
+        "rialto": {
+          "win_rate": 48.5,
+          "pick_rate": 2.8
+        },
+        "shambali-monastery": {
+          "win_rate": 51.2,
+          "pick_rate": 3.0
+        },
+        "aatlis": {
+          "win_rate": 47.8,
+          "pick_rate": 3.6
+        },
+        "new-junk-city": {
+          "win_rate": 52.6,
+          "pick_rate": 3.3
+        },
+        "suravasa": {
+          "win_rate": 52.2,
+          "pick_rate": 4.2
+        },
+        "midtown": {
+          "win_rate": 49.6,
+          "pick_rate": 2.5
+        },
+        "numbani": {
+          "win_rate": 54.6,
+          "pick_rate": 3.2
+        },
+        "kings-row": {
+          "win_rate": 52.6,
+          "pick_rate": 2.4
+        },
+        "hollywood": {
+          "win_rate": 52.8,
+          "pick_rate": 2.9
+        },
+        "paraiso": {
+          "win_rate": 48.5,
+          "pick_rate": 2.7
+        },
+        "eichenwalde": {
+          "win_rate": 50.6,
+          "pick_rate": 2.9
+        },
+        "blizzard-world": {
+          "win_rate": 51.3,
+          "pick_rate": 3.6
+        },
+        "new-queen-street": {
+          "win_rate": 52.0,
+          "pick_rate": 4.6
+        },
+        "runasapi": {
+          "win_rate": 52.1,
+          "pick_rate": 4.3
+        },
+        "colosseo": {
+          "win_rate": 52.2,
+          "pick_rate": 4.2
+        }
+      }
+    },
+    {
+      "id": "zarya",
+      "en": "Zarya",
+      "zh": "札莉雅",
+      "role": "Tank",
+      "tier": "S",
+      "default_win_rate": 48.4,
+      "default_pick_rate": 6.4,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Force her to use bubbles early or inefficiently by threatening burst damage or dives, then momentarily disengaging.",
+          "Play around her energy level. A high-energy \nZarya\n is far more lethal, so respect her threat in fights and avoid extended duels when she has maximum charge.",
+          "Avoid clumping together when she has Grav. Position where it's difficult for her to target you, or save defensive abilities to save yourself and teammates."
+        ],
+        "countered_by_mentions": [
+          "Zarya"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 47.2,
+          "pick_rate": 5.6
+        },
+        "nepal": {
+          "win_rate": 49.5,
+          "pick_rate": 7.3
+        },
+        "lijiang-tower": {
+          "win_rate": 48.5,
+          "pick_rate": 7.5
+        },
+        "oasis": {
+          "win_rate": 50.3,
+          "pick_rate": 7.3
+        },
+        "samoa": {
+          "win_rate": 50.6,
+          "pick_rate": 7.5
+        },
+        "busan": {
+          "win_rate": 49.6,
+          "pick_rate": 6.8
+        },
+        "route-66": {
+          "win_rate": 46.6,
+          "pick_rate": 5.7
+        },
+        "havana": {
+          "win_rate": 46.7,
+          "pick_rate": 5.3
+        },
+        "junkertown": {
+          "win_rate": 47.7,
+          "pick_rate": 5.3
+        },
+        "dorado": {
+          "win_rate": 47.4,
+          "pick_rate": 5.3
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 44.5,
+          "pick_rate": 4.7
+        },
+        "circuit-royal": {
+          "win_rate": 47.4,
+          "pick_rate": 5.1
+        },
+        "rialto": {
+          "win_rate": 48.2,
+          "pick_rate": 5.6
+        },
+        "shambali-monastery": {
+          "win_rate": 49.0,
+          "pick_rate": 5.9
+        },
+        "aatlis": {
+          "win_rate": 47.0,
+          "pick_rate": 7.2
+        },
+        "new-junk-city": {
+          "win_rate": 47.9,
+          "pick_rate": 7.5
+        },
+        "suravasa": {
+          "win_rate": 47.3,
+          "pick_rate": 7.1
+        },
+        "midtown": {
+          "win_rate": 49.2,
+          "pick_rate": 6.7
+        },
+        "numbani": {
+          "win_rate": 46.0,
+          "pick_rate": 5.4
+        },
+        "kings-row": {
+          "win_rate": 49.7,
+          "pick_rate": 7.3
+        },
+        "hollywood": {
+          "win_rate": 48.7,
+          "pick_rate": 6.1
+        },
+        "paraiso": {
+          "win_rate": 49.0,
+          "pick_rate": 5.3
+        },
+        "eichenwalde": {
+          "win_rate": 47.9,
+          "pick_rate": 6.4
+        },
+        "blizzard-world": {
+          "win_rate": 48.1,
+          "pick_rate": 5.6
+        },
+        "new-queen-street": {
+          "win_rate": 48.4,
+          "pick_rate": 5.8
+        },
+        "runasapi": {
+          "win_rate": 47.3,
+          "pick_rate": 5.9
+        },
+        "colosseo": {
+          "win_rate": 46.9,
+          "pick_rate": 6.0
+        }
+      }
+    },
+    {
+      "id": "zenyatta",
+      "en": "Zenyatta",
+      "zh": "禪亞塔",
+      "role": "Support",
+      "tier": "B",
+      "default_win_rate": 54.1,
+      "default_pick_rate": 10.4,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "The best maps for \nZenyatta\n allow him to abuse his superior ranged poke damage."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Zenyatta\n can’t escape flank and dive attacks. Coordinate with at least one teammate and surprise attack him simultaneously for an easy kill.",
+          "Cleanse \nOrb of Discord\n by breaking LoS before committing to your attack. You don’t want to move in deep just to get blown up by the extra Discord damage.",
+          "If you don’t see \nZenyatta\n , assume he is charging up a volley. Get behind a barrier and watch your flank."
+        ],
+        "countered_by_mentions": [
+          "Zarya"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 52.0,
+          "pick_rate": 8.5
+        },
+        "nepal": {
+          "win_rate": 53.2,
+          "pick_rate": 10.1
+        },
+        "lijiang-tower": {
+          "win_rate": 52.0,
+          "pick_rate": 9.4
+        },
+        "oasis": {
+          "win_rate": 51.7,
+          "pick_rate": 9.5
+        },
+        "samoa": {
+          "win_rate": 53.3,
+          "pick_rate": 9.9
+        },
+        "busan": {
+          "win_rate": 53.0,
+          "pick_rate": 10.2
+        },
+        "route-66": {
+          "win_rate": 55.1,
+          "pick_rate": 11.0
+        },
+        "havana": {
+          "win_rate": 56.3,
+          "pick_rate": 13.4
+        },
+        "junkertown": {
+          "win_rate": 55.2,
+          "pick_rate": 11.7
+        },
+        "dorado": {
+          "win_rate": 55.6,
+          "pick_rate": 9.6
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 53.7,
+          "pick_rate": 9.4
+        },
+        "circuit-royal": {
+          "win_rate": 56.9,
+          "pick_rate": 13.6
+        },
+        "rialto": {
+          "win_rate": 56.2,
+          "pick_rate": 11.8
+        },
+        "shambali-monastery": {
+          "win_rate": 55.0,
+          "pick_rate": 11.7
+        },
+        "aatlis": {
+          "win_rate": 52.8,
+          "pick_rate": 8.0
+        },
+        "new-junk-city": {
+          "win_rate": 51.8,
+          "pick_rate": 8.3
+        },
+        "suravasa": {
+          "win_rate": 52.6,
+          "pick_rate": 8.3
+        },
+        "midtown": {
+          "win_rate": 55.7,
+          "pick_rate": 12.3
+        },
+        "numbani": {
+          "win_rate": 54.8,
+          "pick_rate": 9.3
+        },
+        "kings-row": {
+          "win_rate": 56.1,
+          "pick_rate": 12.8
+        },
+        "hollywood": {
+          "win_rate": 56.4,
+          "pick_rate": 11.3
+        },
+        "paraiso": {
+          "win_rate": 55.2,
+          "pick_rate": 10.7
+        },
+        "eichenwalde": {
+          "win_rate": 55.3,
+          "pick_rate": 12.2
+        },
+        "blizzard-world": {
+          "win_rate": 54.8,
+          "pick_rate": 10.8
+        },
+        "new-queen-street": {
+          "win_rate": 54.4,
+          "pick_rate": 9.1
+        },
+        "runasapi": {
+          "win_rate": 54.0,
+          "pick_rate": 9.1
+        },
+        "colosseo": {
+          "win_rate": 53.3,
+          "pick_rate": 10.6
+        }
+      }
+    },
+    {
+      "id": "anran",
+      "en": "Anran",
+      "zh": "安燃",
+      "role": "Damage",
+      "tier": "B",
+      "default_win_rate": 52.1,
+      "default_pick_rate": 12.9,
+      "map_recommendations": {
+        "best_maps": [
+          "nepal",
+          "lijiang-tower",
+          "suravasa",
+          "dorado",
+          "new-queen-street",
+          "colosseo",
+          "circuit-royal",
+          "midtown"
+        ],
+        "worst_maps": [],
+        "maps_summary": "On Control and Flashpointmaps (e.g., Nepal, Lijiang Tower, Suravasa), \nAnran\n thrives by leveraging verticality and flank routes to harass isolated enemies and secure early picks."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Heroes with the mobility and range to stay outside of the 10m range of \nFan the Flames\n have an advantage in the match-up.",
+          "Crowd Control and stuns are very effective for shutting down \nAnran\n's rush. Target her and finish her off when she tries to escape.",
+          "Quickly target \nAnran\n during her ult. If she’s at low HP or takes a second to aim, you can eliminate her while she’s channeling \nVermillion Ascent\n."
+        ],
+        "countered_by_mentions": [
+          "Cassidy",
+          "Sojourn",
+          "Anran",
+          "Vendetta"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 52.5,
+          "pick_rate": 13.8
+        },
+        "nepal": {
+          "win_rate": 51.4,
+          "pick_rate": 14.6
+        },
+        "lijiang-tower": {
+          "win_rate": 50.5,
+          "pick_rate": 14.3
+        },
+        "oasis": {
+          "win_rate": 51.0,
+          "pick_rate": 14.4
+        },
+        "samoa": {
+          "win_rate": 52.7,
+          "pick_rate": 15.2
+        },
+        "busan": {
+          "win_rate": 51.7,
+          "pick_rate": 13.6
+        },
+        "route-66": {
+          "win_rate": 51.9,
+          "pick_rate": 10.7
+        },
+        "havana": {
+          "win_rate": 52.2,
+          "pick_rate": 9.9
+        },
+        "junkertown": {
+          "win_rate": 52.8,
+          "pick_rate": 10.5
+        },
+        "dorado": {
+          "win_rate": 51.9,
+          "pick_rate": 11.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 52.7,
+          "pick_rate": 10.3
+        },
+        "circuit-royal": {
+          "win_rate": 51.2,
+          "pick_rate": 9.1
+        },
+        "rialto": {
+          "win_rate": 53.1,
+          "pick_rate": 10.8
+        },
+        "shambali-monastery": {
+          "win_rate": 52.8,
+          "pick_rate": 12.1
+        },
+        "aatlis": {
+          "win_rate": 54.5,
+          "pick_rate": 18.0
+        },
+        "new-junk-city": {
+          "win_rate": 53.2,
+          "pick_rate": 17.0
+        },
+        "suravasa": {
+          "win_rate": 52.5,
+          "pick_rate": 16.3
+        },
+        "midtown": {
+          "win_rate": 52.7,
+          "pick_rate": 11.7
+        },
+        "numbani": {
+          "win_rate": 53.2,
+          "pick_rate": 10.8
+        },
+        "kings-row": {
+          "win_rate": 52.3,
+          "pick_rate": 10.9
+        },
+        "hollywood": {
+          "win_rate": 52.6,
+          "pick_rate": 11.1
+        },
+        "paraiso": {
+          "win_rate": 51.5,
+          "pick_rate": 11.7
+        },
+        "eichenwalde": {
+          "win_rate": 52.5,
+          "pick_rate": 11.0
+        },
+        "blizzard-world": {
+          "win_rate": 51.4,
+          "pick_rate": 11.1
+        },
+        "new-queen-street": {
+          "win_rate": 50.8,
+          "pick_rate": 14.1
+        },
+        "runasapi": {
+          "win_rate": 53.2,
+          "pick_rate": 14.8
+        },
+        "colosseo": {
+          "win_rate": 54.1,
+          "pick_rate": 13.7
+        }
+      }
+    },
+    {
+      "id": "domina",
+      "en": "Domina",
+      "zh": "多米娜",
+      "role": "Tank",
+      "tier": "S",
+      "default_win_rate": 52.6,
+      "default_pick_rate": 12.7,
+      "map_recommendations": {
+        "best_maps": [
+          "havana",
+          "junkertown",
+          "midtown"
+        ],
+        "worst_maps": [
+          "new-junk-city",
+          "watchpoint-gibraltar",
+          "numbani"
+        ],
+        "maps_summary": "Domina\n performs best on maps with strong choke points and long hallways, such as Havana, Junkertown, and Midtown."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "AoE and explosive damage can be used to destroy multiple barrier panels at once.",
+          "Dive counters her playstyle. Overwhelm her by quickly getting behind her barrier.",
+          "If a teammate gets imprisoned by her ult. Help them destroy the barrier from the outside."
+        ],
+        "countered_by_mentions": [
+          "Bastion",
+          "Reinhardt",
+          "Domina"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 51.0,
+          "pick_rate": 10.2
+        },
+        "nepal": {
+          "win_rate": 52.7,
+          "pick_rate": 11.6
+        },
+        "lijiang-tower": {
+          "win_rate": 52.9,
+          "pick_rate": 11.5
+        },
+        "oasis": {
+          "win_rate": 52.1,
+          "pick_rate": 11.4
+        },
+        "samoa": {
+          "win_rate": 52.4,
+          "pick_rate": 11.9
+        },
+        "busan": {
+          "win_rate": 52.3,
+          "pick_rate": 11.6
+        },
+        "route-66": {
+          "win_rate": 52.0,
+          "pick_rate": 13.4
+        },
+        "havana": {
+          "win_rate": 53.8,
+          "pick_rate": 15.5
+        },
+        "junkertown": {
+          "win_rate": 52.8,
+          "pick_rate": 13.6
+        },
+        "dorado": {
+          "win_rate": 50.8,
+          "pick_rate": 11.7
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 51.7,
+          "pick_rate": 11.0
+        },
+        "circuit-royal": {
+          "win_rate": 53.9,
+          "pick_rate": 15.9
+        },
+        "rialto": {
+          "win_rate": 54.2,
+          "pick_rate": 14.8
+        },
+        "shambali-monastery": {
+          "win_rate": 52.2,
+          "pick_rate": 15.1
+        },
+        "aatlis": {
+          "win_rate": 49.9,
+          "pick_rate": 10.9
+        },
+        "new-junk-city": {
+          "win_rate": 49.9,
+          "pick_rate": 10.6
+        },
+        "suravasa": {
+          "win_rate": 52.4,
+          "pick_rate": 11.0
+        },
+        "midtown": {
+          "win_rate": 52.7,
+          "pick_rate": 16.9
+        },
+        "numbani": {
+          "win_rate": 51.2,
+          "pick_rate": 11.8
+        },
+        "kings-row": {
+          "win_rate": 53.7,
+          "pick_rate": 15.2
+        },
+        "hollywood": {
+          "win_rate": 52.8,
+          "pick_rate": 14.4
+        },
+        "paraiso": {
+          "win_rate": 51.3,
+          "pick_rate": 14.2
+        },
+        "eichenwalde": {
+          "win_rate": 53.9,
+          "pick_rate": 14.8
+        },
+        "blizzard-world": {
+          "win_rate": 54.5,
+          "pick_rate": 13.9
+        },
+        "new-queen-street": {
+          "win_rate": 53.3,
+          "pick_rate": 12.6
+        },
+        "runasapi": {
+          "win_rate": 54.0,
+          "pick_rate": 12.6
+        },
+        "colosseo": {
+          "win_rate": 51.2,
+          "pick_rate": 13.4
+        }
+      }
+    },
+    {
+      "id": "emre",
+      "en": "Emre",
+      "zh": "伊默",
+      "role": "Damage",
+      "tier": "A",
+      "default_win_rate": 49.9,
+      "default_pick_rate": 18.6,
+      "map_recommendations": {
+        "best_maps": [
+          "nepal",
+          "rialto",
+          "esperanca",
+          "dorado",
+          "watchpoint-gibraltar"
+        ],
+        "worst_maps": [
+          "oasis",
+          "new-junk-city"
+        ],
+        "maps_summary": "Emre performs best on maps with objective areas and sightlines that match his optimal range (e.g., Rialto, Nepal, Esperança)."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "If you don’t have good burst damage, try to escape during his Siphon Blaster, so you minimize how much life steal he can generate.",
+          "Emre has no crowd control counters other than trying to dodge with Siphon Blasters. He’s an easy kill if you can stun or knock him around.",
+          "Listen for his Ult voice line, and prepare to shoot Emre out of the sky."
+        ],
+        "countered_by_mentions": [
+          "Ana",
+          "Widowmaker",
+          "Zenyatta",
+          "Emre"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 48.9,
+          "pick_rate": 16.0
+        },
+        "nepal": {
+          "win_rate": 49.5,
+          "pick_rate": 16.9
+        },
+        "lijiang-tower": {
+          "win_rate": 48.8,
+          "pick_rate": 16.4
+        },
+        "oasis": {
+          "win_rate": 50.0,
+          "pick_rate": 16.8
+        },
+        "samoa": {
+          "win_rate": 51.0,
+          "pick_rate": 17.9
+        },
+        "busan": {
+          "win_rate": 51.2,
+          "pick_rate": 17.4
+        },
+        "route-66": {
+          "win_rate": 49.7,
+          "pick_rate": 20.3
+        },
+        "havana": {
+          "win_rate": 50.5,
+          "pick_rate": 20.8
+        },
+        "junkertown": {
+          "win_rate": 51.0,
+          "pick_rate": 20.5
+        },
+        "dorado": {
+          "win_rate": 48.6,
+          "pick_rate": 19.5
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 50.2,
+          "pick_rate": 19.8
+        },
+        "circuit-royal": {
+          "win_rate": 50.7,
+          "pick_rate": 22.0
+        },
+        "rialto": {
+          "win_rate": 49.1,
+          "pick_rate": 20.9
+        },
+        "shambali-monastery": {
+          "win_rate": 51.2,
+          "pick_rate": 21.2
+        },
+        "aatlis": {
+          "win_rate": 50.0,
+          "pick_rate": 16.1
+        },
+        "new-junk-city": {
+          "win_rate": 50.1,
+          "pick_rate": 17.0
+        },
+        "suravasa": {
+          "win_rate": 49.7,
+          "pick_rate": 17.3
+        },
+        "midtown": {
+          "win_rate": 49.2,
+          "pick_rate": 21.2
+        },
+        "numbani": {
+          "win_rate": 49.5,
+          "pick_rate": 19.9
+        },
+        "kings-row": {
+          "win_rate": 49.3,
+          "pick_rate": 19.1
+        },
+        "hollywood": {
+          "win_rate": 50.6,
+          "pick_rate": 19.8
+        },
+        "paraiso": {
+          "win_rate": 50.3,
+          "pick_rate": 20.2
+        },
+        "eichenwalde": {
+          "win_rate": 49.4,
+          "pick_rate": 18.4
+        },
+        "blizzard-world": {
+          "win_rate": 51.3,
+          "pick_rate": 20.3
+        },
+        "new-queen-street": {
+          "win_rate": 50.1,
+          "pick_rate": 19.8
+        },
+        "runasapi": {
+          "win_rate": 50.9,
+          "pick_rate": 19.9
+        },
+        "colosseo": {
+          "win_rate": 49.6,
+          "pick_rate": 20.0
+        }
+      }
+    },
+    {
+      "id": "jetpack-cat",
+      "en": "Jetpack Cat",
+      "zh": "火箭貓",
+      "role": "Support",
+      "tier": "A",
+      "default_win_rate": 49.5,
+      "default_pick_rate": 13.0,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": ""
+      },
+      "counter_data": {
+        "play_against_summary": [],
+        "countered_by_mentions": []
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 52.7,
+          "pick_rate": 18.9
+        },
+        "nepal": {
+          "win_rate": 50.4,
+          "pick_rate": 13.0
+        },
+        "lijiang-tower": {
+          "win_rate": 52.2,
+          "pick_rate": 15.4
+        },
+        "oasis": {
+          "win_rate": 49.8,
+          "pick_rate": 12.7
+        },
+        "samoa": {
+          "win_rate": 48.5,
+          "pick_rate": 11.7
+        },
+        "busan": {
+          "win_rate": 49.8,
+          "pick_rate": 12.4
+        },
+        "route-66": {
+          "win_rate": 48.2,
+          "pick_rate": 12.5
+        },
+        "havana": {
+          "win_rate": 46.7,
+          "pick_rate": 9.9
+        },
+        "junkertown": {
+          "win_rate": 45.5,
+          "pick_rate": 11.1
+        },
+        "dorado": {
+          "win_rate": 47.7,
+          "pick_rate": 13.5
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 48.4,
+          "pick_rate": 14.8
+        },
+        "circuit-royal": {
+          "win_rate": 46.2,
+          "pick_rate": 11.9
+        },
+        "rialto": {
+          "win_rate": 48.6,
+          "pick_rate": 14.3
+        },
+        "shambali-monastery": {
+          "win_rate": 47.5,
+          "pick_rate": 11.4
+        },
+        "aatlis": {
+          "win_rate": 51.6,
+          "pick_rate": 10.4
+        },
+        "new-junk-city": {
+          "win_rate": 50.1,
+          "pick_rate": 9.9
+        },
+        "suravasa": {
+          "win_rate": 50.1,
+          "pick_rate": 11.6
+        },
+        "midtown": {
+          "win_rate": 45.3,
+          "pick_rate": 8.9
+        },
+        "numbani": {
+          "win_rate": 48.1,
+          "pick_rate": 14.5
+        },
+        "kings-row": {
+          "win_rate": 49.2,
+          "pick_rate": 10.0
+        },
+        "hollywood": {
+          "win_rate": 46.9,
+          "pick_rate": 10.3
+        },
+        "paraiso": {
+          "win_rate": 47.9,
+          "pick_rate": 12.2
+        },
+        "eichenwalde": {
+          "win_rate": 50.4,
+          "pick_rate": 14.6
+        },
+        "blizzard-world": {
+          "win_rate": 48.6,
+          "pick_rate": 12.9
+        },
+        "new-queen-street": {
+          "win_rate": 46.7,
+          "pick_rate": 13.4
+        },
+        "runasapi": {
+          "win_rate": 48.3,
+          "pick_rate": 12.6
+        },
+        "colosseo": {
+          "win_rate": 51.2,
+          "pick_rate": 11.4
+        }
+      }
+    },
+    {
+      "id": "mizuki",
+      "en": "Mizuki",
+      "zh": "瑞稀",
+      "role": "Support",
+      "tier": "A",
+      "default_win_rate": 54.1,
+      "default_pick_rate": 21.4,
+      "map_recommendations": {
+        "best_maps": [
+          "oasis",
+          "samoa",
+          "kings-row"
+        ],
+        "worst_maps": [
+          "circuit-royal",
+          "numbani"
+        ],
+        "maps_summary": "Maps that encourage close-range or brawly fights are the best for Mizuki to make full use of his kit (e.g., Oasis, Samoa, King's Row)."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Stay outside his effective range. His abilities are close to medium-ranged, so attack him from distances where he cannot coutner attack.",
+          "His single-target healing is low; you can burst down his allies even when he’s trying to heal them.",
+          "Go inside his ultimate and force his team out. If you have melee or beam abilities, you can penetrate the Sanctuary walls."
+        ],
+        "countered_by_mentions": [
+          "Mizuki"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 53.9,
+          "pick_rate": 21.3
+        },
+        "nepal": {
+          "win_rate": 53.7,
+          "pick_rate": 23.4
+        },
+        "lijiang-tower": {
+          "win_rate": 54.3,
+          "pick_rate": 23.2
+        },
+        "oasis": {
+          "win_rate": 54.5,
+          "pick_rate": 24.6
+        },
+        "samoa": {
+          "win_rate": 54.4,
+          "pick_rate": 24.2
+        },
+        "busan": {
+          "win_rate": 54.5,
+          "pick_rate": 22.6
+        },
+        "route-66": {
+          "win_rate": 53.2,
+          "pick_rate": 18.1
+        },
+        "havana": {
+          "win_rate": 53.7,
+          "pick_rate": 17.6
+        },
+        "junkertown": {
+          "win_rate": 52.8,
+          "pick_rate": 18.3
+        },
+        "dorado": {
+          "win_rate": 53.5,
+          "pick_rate": 18.6
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 55.4,
+          "pick_rate": 16.5
+        },
+        "circuit-royal": {
+          "win_rate": 54.0,
+          "pick_rate": 16.3
+        },
+        "rialto": {
+          "win_rate": 54.0,
+          "pick_rate": 18.4
+        },
+        "shambali-monastery": {
+          "win_rate": 53.5,
+          "pick_rate": 20.0
+        },
+        "aatlis": {
+          "win_rate": 53.7,
+          "pick_rate": 28.7
+        },
+        "new-junk-city": {
+          "win_rate": 53.7,
+          "pick_rate": 27.5
+        },
+        "suravasa": {
+          "win_rate": 54.6,
+          "pick_rate": 26.6
+        },
+        "midtown": {
+          "win_rate": 54.3,
+          "pick_rate": 21.2
+        },
+        "numbani": {
+          "win_rate": 53.2,
+          "pick_rate": 17.5
+        },
+        "kings-row": {
+          "win_rate": 54.4,
+          "pick_rate": 20.5
+        },
+        "hollywood": {
+          "win_rate": 54.5,
+          "pick_rate": 19.6
+        },
+        "paraiso": {
+          "win_rate": 55.0,
+          "pick_rate": 20.1
+        },
+        "eichenwalde": {
+          "win_rate": 53.8,
+          "pick_rate": 20.1
+        },
+        "blizzard-world": {
+          "win_rate": 54.4,
+          "pick_rate": 18.1
+        },
+        "new-queen-street": {
+          "win_rate": 53.3,
+          "pick_rate": 22.5
+        },
+        "runasapi": {
+          "win_rate": 54.1,
+          "pick_rate": 23.5
+        },
+        "colosseo": {
+          "win_rate": 54.4,
+          "pick_rate": 22.1
+        }
+      }
+    },
+    {
+      "id": "vendetta",
+      "en": "Vendetta",
+      "zh": "宿怨",
+      "role": "Damage",
+      "tier": "S",
+      "default_win_rate": 51.8,
+      "default_pick_rate": 10.9,
+      "map_recommendations": {
+        "best_maps": [
+          "watchpoint-gibraltar",
+          "numbani"
+        ],
+        "worst_maps": [
+          "havana",
+          "circuit-royal"
+        ],
+        "maps_summary": "Vendetta\n is an versitile hero who can adapt her playstyle to most maps."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Maintain distance. Save your escape tool for when you see her use her sword toss dash. She can’t chase you if you reposition after.",
+          "The moment she arrives, focus her. She won’t be able to escape for a few seconds, and that is your team’s best opportunity to punish her.",
+          "Use crowd control to neutralize her. She can only try to dodge it as her shield does not absorb CC."
+        ],
+        "countered_by_mentions": [
+          "Vendetta"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 52.6,
+          "pick_rate": 11.9
+        },
+        "nepal": {
+          "win_rate": 50.8,
+          "pick_rate": 12.0
+        },
+        "lijiang-tower": {
+          "win_rate": 51.9,
+          "pick_rate": 11.6
+        },
+        "oasis": {
+          "win_rate": 50.9,
+          "pick_rate": 12.2
+        },
+        "samoa": {
+          "win_rate": 51.4,
+          "pick_rate": 11.9
+        },
+        "busan": {
+          "win_rate": 50.9,
+          "pick_rate": 11.6
+        },
+        "route-66": {
+          "win_rate": 51.8,
+          "pick_rate": 10.0
+        },
+        "havana": {
+          "win_rate": 49.2,
+          "pick_rate": 8.6
+        },
+        "junkertown": {
+          "win_rate": 52.5,
+          "pick_rate": 9.1
+        },
+        "dorado": {
+          "win_rate": 52.2,
+          "pick_rate": 11.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 52.8,
+          "pick_rate": 10.4
+        },
+        "circuit-royal": {
+          "win_rate": 52.0,
+          "pick_rate": 8.3
+        },
+        "rialto": {
+          "win_rate": 53.3,
+          "pick_rate": 9.6
+        },
+        "shambali-monastery": {
+          "win_rate": 51.3,
+          "pick_rate": 9.9
+        },
+        "aatlis": {
+          "win_rate": 52.5,
+          "pick_rate": 13.6
+        },
+        "new-junk-city": {
+          "win_rate": 52.4,
+          "pick_rate": 13.1
+        },
+        "suravasa": {
+          "win_rate": 52.7,
+          "pick_rate": 12.7
+        },
+        "midtown": {
+          "win_rate": 51.9,
+          "pick_rate": 9.2
+        },
+        "numbani": {
+          "win_rate": 53.0,
+          "pick_rate": 10.4
+        },
+        "kings-row": {
+          "win_rate": 51.9,
+          "pick_rate": 9.2
+        },
+        "hollywood": {
+          "win_rate": 53.4,
+          "pick_rate": 9.8
+        },
+        "paraiso": {
+          "win_rate": 50.8,
+          "pick_rate": 10.3
+        },
+        "eichenwalde": {
+          "win_rate": 51.4,
+          "pick_rate": 9.7
+        },
+        "blizzard-world": {
+          "win_rate": 51.2,
+          "pick_rate": 9.5
+        },
+        "new-queen-street": {
+          "win_rate": 51.6,
+          "pick_rate": 11.3
+        },
+        "runasapi": {
+          "win_rate": 51.6,
+          "pick_rate": 11.7
+        },
+        "colosseo": {
+          "win_rate": 52.3,
+          "pick_rate": 11.5
+        }
+      }
+    },
+    {
+      "id": "freja",
+      "en": "Freja",
+      "zh": "弗蕾亞",
+      "role": "Damage",
+      "tier": "B",
+      "default_win_rate": 46.0,
+      "default_pick_rate": 5.2,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [],
+        "maps_summary": "The best maps for Freja complement her medium-long range positioning."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "Freja excels at focusing down one target, but is weak when there are multiple enemies. Position near your allies so you don’t end up in a 1v1 situation.",
+          "If you see her use Updraft, know you have a 10-second window where she can’t target you behind cover or run away to high ground (unless she's using \nRising Winds\n).",
+          "Counter Freja by outranging her with a hitscan sniper, or overwhelming her with a close-range, high mobility hero."
+        ],
+        "countered_by_mentions": [
+          "Ashe",
+          "D.Va",
+          "Doomfist",
+          "Genji",
+          "Lúcio",
+          "Widowmaker",
+          "Zenyatta",
+          "Freja"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 46.3,
+          "pick_rate": 4.9
+        },
+        "nepal": {
+          "win_rate": 45.8,
+          "pick_rate": 4.5
+        },
+        "lijiang-tower": {
+          "win_rate": 45.7,
+          "pick_rate": 4.2
+        },
+        "oasis": {
+          "win_rate": 47.1,
+          "pick_rate": 4.4
+        },
+        "samoa": {
+          "win_rate": 45.9,
+          "pick_rate": 4.3
+        },
+        "busan": {
+          "win_rate": 45.9,
+          "pick_rate": 4.6
+        },
+        "route-66": {
+          "win_rate": 46.8,
+          "pick_rate": 6.3
+        },
+        "havana": {
+          "win_rate": 45.6,
+          "pick_rate": 5.9
+        },
+        "junkertown": {
+          "win_rate": 47.2,
+          "pick_rate": 5.9
+        },
+        "dorado": {
+          "win_rate": 47.0,
+          "pick_rate": 6.1
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 46.3,
+          "pick_rate": 6.2
+        },
+        "circuit-royal": {
+          "win_rate": 46.8,
+          "pick_rate": 7.1
+        },
+        "rialto": {
+          "win_rate": 45.6,
+          "pick_rate": 5.9
+        },
+        "shambali-monastery": {
+          "win_rate": 46.3,
+          "pick_rate": 6.3
+        },
+        "aatlis": {
+          "win_rate": 43.2,
+          "pick_rate": 3.5
+        },
+        "new-junk-city": {
+          "win_rate": 45.3,
+          "pick_rate": 3.5
+        },
+        "suravasa": {
+          "win_rate": 45.9,
+          "pick_rate": 4.0
+        },
+        "midtown": {
+          "win_rate": 44.7,
+          "pick_rate": 5.6
+        },
+        "numbani": {
+          "win_rate": 46.6,
+          "pick_rate": 6.3
+        },
+        "kings-row": {
+          "win_rate": 45.0,
+          "pick_rate": 5.5
+        },
+        "hollywood": {
+          "win_rate": 47.0,
+          "pick_rate": 5.7
+        },
+        "paraiso": {
+          "win_rate": 44.9,
+          "pick_rate": 5.9
+        },
+        "eichenwalde": {
+          "win_rate": 44.1,
+          "pick_rate": 5.5
+        },
+        "blizzard-world": {
+          "win_rate": 46.7,
+          "pick_rate": 6.1
+        },
+        "new-queen-street": {
+          "win_rate": 45.6,
+          "pick_rate": 4.8
+        },
+        "runasapi": {
+          "win_rate": 44.8,
+          "pick_rate": 4.8
+        },
+        "colosseo": {
+          "win_rate": 46.5,
+          "pick_rate": 5.4
+        }
+      }
+    },
+    {
+      "id": "wuyang",
+      "en": "Wuyang",
+      "zh": "無漾",
+      "role": "Support",
+      "tier": "A",
+      "default_win_rate": 52.1,
+      "default_pick_rate": 14.1,
+      "map_recommendations": {
+        "best_maps": [],
+        "worst_maps": [
+          "watchpoint-gibraltar",
+          "numbani"
+        ],
+        "maps_summary": "Wuyang\n has good horizontal and vertical mobility, long-range damage, and medium-range healing."
+      },
+      "counter_data": {
+        "play_against_summary": [
+          "When you see the \nGuardian Wave\n slam, back off, wait a few seconds, then hard re-engage to wipe his team because they won’t have burst healing.",
+          "After you see him use Rushing Torrent (often to refill healing resources), immediately rush at him to eliminate Wuyang while he’s unable to escape.",
+          "His Ult has a short 3.5s duration. Run away, use cover, and escape tools your hero has because it’s basically impossible to survive if you get caught."
+        ],
+        "countered_by_mentions": [
+          "Wuyang"
+        ]
+      },
+      "map_stats": {
+        "ilios": {
+          "win_rate": 51.6,
+          "pick_rate": 12.2
+        },
+        "nepal": {
+          "win_rate": 51.5,
+          "pick_rate": 14.1
+        },
+        "lijiang-tower": {
+          "win_rate": 51.1,
+          "pick_rate": 13.8
+        },
+        "oasis": {
+          "win_rate": 52.5,
+          "pick_rate": 14.1
+        },
+        "samoa": {
+          "win_rate": 52.3,
+          "pick_rate": 14.2
+        },
+        "busan": {
+          "win_rate": 52.6,
+          "pick_rate": 14.1
+        },
+        "route-66": {
+          "win_rate": 53.0,
+          "pick_rate": 14.2
+        },
+        "havana": {
+          "win_rate": 52.4,
+          "pick_rate": 14.0
+        },
+        "junkertown": {
+          "win_rate": 52.8,
+          "pick_rate": 14.2
+        },
+        "dorado": {
+          "win_rate": 51.7,
+          "pick_rate": 13.7
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": 52.9,
+          "pick_rate": 12.9
+        },
+        "circuit-royal": {
+          "win_rate": 51.5,
+          "pick_rate": 14.0
+        },
+        "rialto": {
+          "win_rate": 52.0,
+          "pick_rate": 14.0
+        },
+        "shambali-monastery": {
+          "win_rate": 52.9,
+          "pick_rate": 15.1
+        },
+        "aatlis": {
+          "win_rate": 53.6,
+          "pick_rate": 14.8
+        },
+        "new-junk-city": {
+          "win_rate": 52.6,
+          "pick_rate": 14.7
+        },
+        "suravasa": {
+          "win_rate": 51.6,
+          "pick_rate": 14.8
+        },
+        "midtown": {
+          "win_rate": 51.2,
+          "pick_rate": 14.9
+        },
+        "numbani": {
+          "win_rate": 52.3,
+          "pick_rate": 13.9
+        },
+        "kings-row": {
+          "win_rate": 51.2,
+          "pick_rate": 14.3
+        },
+        "hollywood": {
+          "win_rate": 52.2,
+          "pick_rate": 14.7
+        },
+        "paraiso": {
+          "win_rate": 51.4,
+          "pick_rate": 14.0
+        },
+        "eichenwalde": {
+          "win_rate": 51.5,
+          "pick_rate": 14.3
+        },
+        "blizzard-world": {
+          "win_rate": 52.1,
+          "pick_rate": 14.6
+        },
+        "new-queen-street": {
+          "win_rate": 53.5,
+          "pick_rate": 14.8
+        },
+        "runasapi": {
+          "win_rate": 53.6,
+          "pick_rate": 14.8
+        },
+        "colosseo": {
+          "win_rate": 53.7,
+          "pick_rate": 14.6
+        }
+      }
+    }
+  ]
+}
