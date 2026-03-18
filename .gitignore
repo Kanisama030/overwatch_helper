@@ -16,3 +16,5 @@ node_modules/
 /.agents/
 /.github/
 agent
+/stitch_mockup
+*plan.md
