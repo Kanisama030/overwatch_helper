@@ -4,301 +4,1201 @@
       "id": "ana",
       "en": "Ana",
       "zh": "安娜",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Groggy"
+          },
+          {
+            "name": "Speed Serum"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Headhunter"
+          },
+          {
+            "name": "Biotic Bounce"
+          }
+        ]
+      }
     },
     {
       "id": "ashe",
       "en": "Ashe",
       "zh": "艾西",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Remote Detonator"
+          },
+          {
+            "name": "Double-Barreled"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Viper's Sting"
+          },
+          {
+            "name": "Airburst"
+          }
+        ]
+      }
     },
     {
       "id": "baptiste",
       "en": "Baptiste",
       "zh": "巴帝斯特",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Assault Burst"
+          },
+          {
+            "name": "Expanded Field"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Automated Healing"
+          },
+          {
+            "name": "Rocket Boots"
+          }
+        ]
+      }
     },
     {
       "id": "bastion",
       "en": "Bastion",
       "zh": "壁壘機兵",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Configuration Reload"
+          },
+          {
+            "name": "Armored Artillery"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Lindholm Explosives"
+          },
+          {
+            "name": "Self-Repair"
+          }
+        ]
+      }
     },
     {
       "id": "brigitte",
       "en": "Brigitte",
       "zh": "碧姬",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Combat Medic"
+          },
+          {
+            "name": "Morale Boost"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Inspiring Strike"
+          },
+          {
+            "name": "Whiplash"
+          }
+        ]
+      }
     },
     {
       "id": "cassidy",
       "en": "Cassidy",
       "zh": "卡西迪",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Bang Bang"
+          },
+          {
+            "name": "Even the Odds"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Rollin' Round-Ups"
+          },
+          {
+            "name": "Silver Bullet"
+          }
+        ]
+      }
     },
     {
       "id": "dva",
       "en": "D.Va",
       "zh": "D.Va",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Bunny Power"
+          },
+          {
+            "name": "Extended Boosters"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Shield System"
+          },
+          {
+            "name": "Precision Fusion"
+          }
+        ]
+      }
     },
     {
       "id": "doomfist",
       "en": "Doomfist",
       "zh": "毀滅拳王",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "One-Two"
+          },
+          {
+            "name": "Survival of the Fittest"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Aftershock"
+          },
+          {
+            "name": "Power Matrix"
+          }
+        ]
+      }
     },
     {
       "id": "echo",
       "en": "Echo",
       "zh": "迴音",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Focused Rush"
+          },
+          {
+            "name": "Partial Scan"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Full Salvo"
+          },
+          {
+            "name": "High Beams"
+          }
+        ]
+      }
     },
     {
       "id": "genji",
       "en": "Genji",
       "zh": "源氏",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Swift Cuts"
+          },
+          {
+            "name": "Dragon's Thirst"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Blade Twisting"
+          },
+          {
+            "name": "Meditation"
+          }
+        ]
+      }
     },
     {
       "id": "hanzo",
       "en": "Hanzo",
       "zh": "半藏",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Sonic Disruption"
+          },
+          {
+            "name": "Dragon Fury"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Frost Arrow"
+          },
+          {
+            "name": "Scatter Arrows"
+          }
+        ]
+      }
     },
     {
       "id": "hazard",
       "en": "Hazard",
       "zh": "災害",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Deep Leap"
+          },
+          {
+            "name": "Anarchic Zeal"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Reconstitution"
+          },
+          {
+            "name": "Explosive Impalements"
+          }
+        ]
+      }
     },
     {
       "id": "illari",
       "en": "Illari",
       "zh": "伊拉里",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Rapid Construction"
+          },
+          {
+            "name": "Summer Solstice"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Solar Flare"
+          },
+          {
+            "name": "Sunburn"
+          }
+        ]
+      }
     },
     {
       "id": "junker-queen",
       "en": "Junker Queen",
       "zh": "垃圾鎮女王",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Rampant Charge"
+          },
+          {
+            "name": "Battle Shout"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Willy-Willy"
+          },
+          {
+            "name": "Savage Satiation"
+          }
+        ]
+      }
     },
     {
       "id": "junkrat",
       "en": "Junkrat",
       "zh": "炸彈鼠",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Mine Recycling"
+          },
+          {
+            "name": "Nitro Boost"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Frag Cannon"
+          },
+          {
+            "name": "Bomb Voyage"
+          }
+        ]
+      }
     },
     {
       "id": "juno",
       "en": "Juno",
       "zh": "朱諾",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Familiar Vitals"
+          },
+          {
+            "name": "Locked On"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Faster Blaster"
+          },
+          {
+            "name": "Lift Off"
+          }
+        ]
+      }
     },
     {
       "id": "kiriko",
       "en": "Kiriko",
       "zh": "霧子",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Urgent Care"
+          },
+          {
+            "name": "Fortune Teller"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Ready Step"
+          },
+          {
+            "name": "Foxtrot"
+          }
+        ]
+      }
     },
     {
       "id": "lifeweaver",
       "en": "Lifeweaver",
       "zh": "織命",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Petal Protection"
+          },
+          {
+            "name": "Dashing Escape"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Superbloom"
+          },
+          {
+            "name": "Sow the Seed"
+          }
+        ]
+      }
     },
     {
       "id": "lucio",
       "en": "Lúcio",
       "zh": "路西歐",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Soundwave Rider"
+          },
+          {
+            "name": "Beat Drop"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Noise Violation"
+          },
+          {
+            "name": "Accelerando"
+          }
+        ]
+      }
     },
     {
       "id": "mauga",
       "en": "Mauga",
       "zh": "莫加",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Kinetic Bandolier"
+          },
+          {
+            "name": "Pyromaniac"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Firewalker"
+          },
+          {
+            "name": "Combat Fuel"
+          }
+        ]
+      }
     },
     {
       "id": "mei",
       "en": "Mei",
       "zh": "小美",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Skating Rink"
+          },
+          {
+            "name": "Glacial Propulsion"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Deep Freeze"
+          },
+          {
+            "name": "Cryo-Storm"
+          }
+        ]
+      }
     },
     {
       "id": "mercy",
       "en": "Mercy",
       "zh": "慈悲",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Angelic Resurrection"
+          },
+          {
+            "name": "Divine Momentum"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Chain Boost"
+          },
+          {
+            "name": "Flash Heal"
+          }
+        ]
+      }
     },
     {
       "id": "moira",
       "en": "Moira",
       "zh": "莫伊拉",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Destruction's Divide"
+          },
+          {
+            "name": "Ethical Nourishment"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Reversal"
+          },
+          {
+            "name": "Phantom Step"
+          }
+        ]
+      }
     },
     {
       "id": "orisa",
       "en": "Orisa",
       "zh": "歐瑞莎",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Defense Protocol"
+          },
+          {
+            "name": "Mobile Fortification"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Charged Javelin"
+          },
+          {
+            "name": "Protective Barrier"
+          }
+        ]
+      }
     },
     {
       "id": "pharah",
       "en": "Pharah",
       "zh": "法拉",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Drift Thrusters"
+          },
+          {
+            "name": "Helix Shields"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Fuel Stores"
+          },
+          {
+            "name": "Rocket Salvo"
+          }
+        ]
+      }
     },
     {
       "id": "ramattra",
       "en": "Ramattra",
       "zh": "拉瑪塔",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Void Surge"
+          },
+          {
+            "name": "Relentless Form"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Nanite Repair"
+          },
+          {
+            "name": "Vengeful Vortex"
+          }
+        ]
+      }
     },
     {
       "id": "reaper",
       "en": "Reaper",
       "zh": "死神",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Lingering Wraith"
+          },
+          {
+            "name": "Soul Reaving"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Dire Triggers"
+          },
+          {
+            "name": "Shadow Blink"
+          }
+        ]
+      }
     },
     {
       "id": "reinhardt",
       "en": "Reinhardt",
       "zh": "萊因哈特",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Crusader's Fire"
+          },
+          {
+            "name": "Crusader's Resolve"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Shield Slam"
+          },
+          {
+            "name": "Ignited Fury"
+          }
+        ]
+      }
     },
     {
       "id": "roadhog",
       "en": "Roadhog",
       "zh": "攔路豬",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Scrap Hook"
+          },
+          {
+            "name": "Shrapnel Launcher"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Invigorate"
+          },
+          {
+            "name": "Pulled Pork"
+          }
+        ]
+      }
     },
     {
       "id": "sigma",
       "en": "Sigma",
       "zh": "席格馬",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Kinetic Cycle"
+          },
+          {
+            "name": "Hyper Regeneration"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Hyper Strike"
+          },
+          {
+            "name": "Levitation"
+          }
+        ]
+      }
     },
     {
       "id": "sojourn",
       "en": "Sojourn",
       "zh": "索潔恩",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Deceleration Field"
+          },
+          {
+            "name": "Overcharged"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Dual Thrusters"
+          },
+          {
+            "name": "Friction Generators"
+          }
+        ]
+      }
     },
     {
       "id": "soldier-76",
       "en": "Soldier: 76",
       "zh": "士兵76",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Helix Propulsion"
+          },
+          {
+            "name": "Tactical Salvo"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Agility Training"
+          },
+          {
+            "name": "Stim Pack"
+          }
+        ]
+      }
     },
     {
       "id": "sombra",
       "en": "Sombra",
       "zh": "駭影",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Encrypted Upload"
+          },
+          {
+            "name": "CTRL ALT ESC"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "High-Speed Bandwidth"
+          },
+          {
+            "name": "Viral Replication"
+          }
+        ]
+      }
     },
     {
       "id": "symmetra",
       "en": "Symmetra",
       "zh": "辛梅塔",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Sentry Capacity"
+          },
+          {
+            "name": "Perfect Alignment"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Hovering Barrier"
+          },
+          {
+            "name": "Shield Battery"
+          }
+        ]
+      }
     },
     {
       "id": "torbjorn",
       "en": "Torbjörn",
       "zh": "托比昂",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Hammer Time"
+          },
+          {
+            "name": "Pre-Heated"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Anchor Bolts"
+          },
+          {
+            "name": "Overloaded Turret"
+          }
+        ]
+      }
     },
     {
       "id": "tracer",
       "en": "Tracer",
       "zh": "閃光",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Chronal Dash"
+          },
+          {
+            "name": "Kinetic Reload"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Blink Packs"
+          },
+          {
+            "name": "Quantum Entanglement"
+          }
+        ]
+      }
     },
     {
       "id": "venture",
       "en": "Venture",
       "zh": "無畏",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Deep Burrow"
+          },
+          {
+            "name": "Excavation Exhilaration"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Smart Extender"
+          },
+          {
+            "name": "Covered in Dirt"
+          }
+        ]
+      }
     },
     {
       "id": "widowmaker",
       "en": "Widowmaker",
       "zh": "奪命女",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Scoped Efficiency"
+          },
+          {
+            "name": "Sniper's Instinct"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Widow’s Bite"
+          },
+          {
+            "name": "Seeker Mine"
+          }
+        ]
+      }
     },
     {
       "id": "winston",
       "en": "Winston",
       "zh": "溫斯頓",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Electric Charge"
+          },
+          {
+            "name": "Heavy Landing"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Chain Lightning"
+          },
+          {
+            "name": "Revitalizing Barrier"
+          }
+        ]
+      }
     },
     {
       "id": "wrecking-ball",
       "en": "Wrecking Ball",
       "zh": "火爆鋼球",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Steamroller"
+          },
+          {
+            "name": "Multi-Ball"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Hang Time"
+          },
+          {
+            "name": "Adaptive Barrier"
+          }
+        ]
+      }
     },
     {
       "id": "zarya",
       "en": "Zarya",
       "zh": "札莉雅",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Spotter"
+          },
+          {
+            "name": "Jump-Ups"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Energy Lance"
+          },
+          {
+            "name": "Extra Oomph"
+          }
+        ]
+      }
     },
     {
       "id": "zenyatta",
       "en": "Zenyatta",
       "zh": "禪亞塔",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Discordant Repair"
+          },
+          {
+            "name": "Ascendance"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Focused Destruction"
+          },
+          {
+            "name": "Dual Harmony"
+          }
+        ]
+      }
     },
     {
       "id": "anran",
       "en": "Anran",
       "zh": "安燃",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Smoulder"
+          },
+          {
+            "name": "Heat Shield"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Short Fuse"
+          },
+          {
+            "name": "Hungering Blaze"
+          }
+        ]
+      }
     },
     {
       "id": "domina",
       "en": "Domina",
       "zh": "多米娜",
-      "role": "Tank"
+      "role": "Tank",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Efficient Design"
+          },
+          {
+            "name": "Extended Power"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Disruptive Detonation"
+          },
+          {
+            "name": "Power Move"
+          }
+        ]
+      }
     },
     {
       "id": "emre",
       "en": "Emre",
       "zh": "伊默",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Suppressive Security"
+          },
+          {
+            "name": "Enhanced Agility"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Heat Sink"
+          },
+          {
+            "name": "Cyber Adhesion"
+          }
+        ]
+      }
     },
     {
       "id": "jetpack-cat",
       "en": "Jetpack Cat",
       "zh": "火箭貓",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Ulterior Motive"
+          },
+          {
+            "name": "Transport Shielding"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Headbutt"
+          },
+          {
+            "name": "Claws Out"
+          }
+        ]
+      }
     },
     {
       "id": "mizuki",
       "en": "Mizuki",
       "zh": "瑞稀",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Wellspring"
+          },
+          {
+            "name": "Exposed Soul"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Resonant Return"
+          },
+          {
+            "name": "Quickstep"
+          }
+        ]
+      }
     },
     {
       "id": "vendetta",
       "en": "Vendetta",
       "zh": "宿怨",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Raging Storm"
+          },
+          {
+            "name": "Extra Edge"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Relentless"
+          },
+          {
+            "name": "Siphoning Strike"
+          }
+        ]
+      }
     },
     {
       "id": "freja",
       "en": "Freja",
       "zh": "弗蕾亞",
-      "role": "Damage"
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Relentless Barrage"
+          },
+          {
+            "name": "Momentum Boost"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Aerial Recovery"
+          },
+          {
+            "name": "Rising Winds"
+          }
+        ]
+      }
     },
     {
       "id": "wuyang",
       "en": "Wuyang",
       "zh": "無漾",
-      "role": "Support"
+      "role": "Support",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Overflow"
+          },
+          {
+            "name": "Balance"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Ebb and Flow"
+          },
+          {
+            "name": "Falling Rain"
+          }
+        ]
+      }
     }
   ],
   "maps": [

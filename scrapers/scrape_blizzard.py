@@ -86,7 +86,7 @@ async def fetch_tier_data(page, mode, rq_val, tier_name, map_id, tier_val=None):
         })
     return data
 
-async def scrape_blizzard():
+async def scrape_blizzard(worker_count=8):
     # 確保輸出資料夾存在
     out_dir = os.path.join(os.path.dirname(__file__), "..", "data", "raw")
     os.makedirs(out_dir, exist_ok=True)
@@ -94,24 +94,41 @@ async def scrape_blizzard():
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
-        
+
         map_ids = await load_map_ids(page)
         all_maps = ["all-maps"] + [m for m in map_ids if m != "all-maps"]
+        await page.close()
 
         all_data = []
-        
+        worker_count = max(1, int(worker_count))
+        print(f"使用 {worker_count} 個 worker 並行抓取 Blizzard 資料...")
+
+        async def fetch_job(mode, rq_val, tier_name, map_id, tier_val=None):
+            worker_page = await browser.new_page()
+            try:
+                return await fetch_tier_data(
+                    worker_page,
+                    mode,
+                    rq_val=rq_val,
+                    tier_name=tier_name,
+                    map_id=map_id,
+                    tier_val=tier_val,
+                )
+            finally:
+                await worker_page.close()
+
+        semaphore = asyncio.Semaphore(worker_count)
+
+        async def run_with_limit(mode, rq_val, tier_name, map_id, tier_val=None):
+            async with semaphore:
+                return await fetch_job(mode, rq_val, tier_name, map_id, tier_val=tier_val)
+
+        jobs = []
+
         # 1. Quick Play (All) - 逐地圖抓取
         for map_id in all_maps:
-            qp_data = await fetch_tier_data(
-                page,
-                "Quick Play",
-                rq_val=0,
-                tier_name="All",
-                map_id=map_id,
-                tier_val="All",
-            )
-            all_data.extend(qp_data)
-        
+            jobs.append(asyncio.create_task(run_with_limit("Quick Play", 0, "All", map_id, "All")))
+
         # 2. Competitive - 9 個 Tier，逐地圖抓取
         tiers = [
             ("Bronze", "Bronze"),
@@ -124,19 +141,22 @@ async def scrape_blizzard():
             ("Champion", "Champion"),
             ("All", "All")
         ]
-        
+
         for tier_val, tier_name in tiers:
             for map_id in all_maps:
-                comp_data = await fetch_tier_data(
-                    page,
-                    "Competitive",
-                    rq_val=2,
-                    tier_name=tier_name,
-                    map_id=map_id,
-                    tier_val=tier_val,
+                jobs.append(
+                    asyncio.create_task(
+                        run_with_limit("Competitive", 2, tier_name, map_id, tier_val=tier_val)
+                    )
                 )
-                all_data.extend(comp_data)
-            
+
+        results = await asyncio.gather(*jobs, return_exceptions=True)
+        for result in results:
+            if isinstance(result, Exception):
+                print(f"抓取任務失敗: {result}")
+                continue
+            all_data.extend(result)
+
         await browser.close()
         
         if all_data:

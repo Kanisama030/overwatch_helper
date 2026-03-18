@@ -178,12 +178,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Efficient Design",
           "content": [
+            "Efficient Design",
             "Best for defensive play.",
             "When using \nEfficient Design\n, always wait to take a bit of damage before deploying her barrier.",
             "Extended Power",
@@ -194,6 +195,11 @@
           ]
         },
         {
+          "id": "5.1.2",
+          "title": "Extended Power",
+          "content": []
+        },
+        {
           "id": "5.2",
           "title": "Major Perks"
         },
@@ -201,6 +207,7 @@
           "id": "5.2.1",
           "title": "Disruptive Detonation",
           "content": [
+            "Disruptive Detonation",
             "Aim to detonate \nCrystal Charge\n between two enemies to maximize the perk’s CC effect.",
             "Slow down the enemy \nTank\n's approach, and hinder enemies trying to escape.",
             "Recommended Major Perk"
@@ -210,6 +217,7 @@
           "id": "5.2.2",
           "title": "Power Move",
           "content": [
+            "Power Move",
             "Good to give \nDomina\n counterplay against melee heroes.",
             "Once the enemy is in melee range, first deploy barrier behind them, then use \nSonic Repulsors\n to wall slam them into your barrier.",
             "Power Move\n only causes barrier to act as a wall for Sonic wall slams. Enemies can still freely walk and move through it as usual."
@@ -433,30 +441,36 @@
         },
         {
           "id": "5.1.1",
-          "title": "Jump-Ups",
+          "title": "Spotter",
           "content": [
+            "Jump-Ups",
             "Best on maps with lots of high ground. \nZarya\n normally struggles on these maps, but the extra jump height gives her more mobility options."
           ]
         },
         {
           "id": "5.1.2",
-          "title": "Spotter",
+          "title": "Jump-Ups",
           "content": [
+            "Spotter",
             "Extremely powerful for enabling your allies. Healing and granting a speed boost can turn your teammates into carries."
           ]
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
-          "content": [
-            "Extra Oomph",
-            "Stops decay, and builds more overall energy than just taking damage. Great when the enemy team is smart and trying not to charge you up."
-          ]
+          "title": "Major Perks"
         },
         {
           "id": "5.2.1",
           "title": "Energy Lance",
           "content": [
+            "Stops decay, and builds more overall energy than just taking damage. Great when the enemy team is smart and trying not to charge you up."
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Extra Oomph",
+          "content": [
+            "Energy Lance",
             "Best against brawly comps that play grouped up. Target the enemies behind and rotate to keep the front-most enemy in the beams path."
           ]
         },
@@ -746,21 +760,37 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Kinetic Cycle",
           "content": [
-            "Kinetic Cycle",
-            "Decent when struggling to maintain distance for dive and brawl \nTank\ns. Otherwise, take the other.",
-            "Hyper Regeneration",
+            "Decent when struggling to maintain distance for dive and brawl \nTank\ns. Otherwise, take the other."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Hyper Regeneration",
+          "content": [
             "Barrier health is very important, and \nSigma\n deals a lot of damage from his primary fire. Your team gains a significant amount of increased shielding, and in turn, everyone has an easier time staying alive."
           ]
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Hyper Strike",
           "content": [
-            "Hyper Strike",
-            "Interesting ability that is pretty good at countering any enemy with a primarily close-ranged kit. Send them floating and out of their optimal range.",
-            "Levitation",
+            "Interesting ability that is pretty good at countering any enemy with a primarily close-ranged kit. Send them floating and out of their optimal range."
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Levitation",
+          "content": [
             "Very good as it gives \nSigma\n the one thing he is missing, mobility.",
             "Best use is to traverse between high ground areas where your poke pressure can dominate."
           ]
@@ -1023,31 +1053,43 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Chronal Dash",
           "content": [
-            "Chronal Dash",
             "Increased movement, and can be good for chasing enemies with high mobillity.",
             "The main problem is that you would have to adjust muscle memory of blink distance mid-round.",
-            "Not worth taking over \nKinetic Reload\n.",
-            "Recommended Minor Perk",
+            "Not worth taking over \nKinetic Reload\n."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Kinetic Reload",
+          "content": [
             "Incredibly strong Perk to help secure elims. You literally restore 50% of your ammo with each Melee.",
             "Blink > Melee when you need just a few more bullets for the kill, as quick melee is faster than reloading."
           ]
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Blink Packs",
           "content": [
-            "Blink Packs",
             "Considering \nTracer\n uses frequently grabs health packs, this will help you get back into the fight a bit faster, multiple times per game.",
             "Great when dueling and are able to grab a health pack. Tracer puts herself in a lot of 1v1 scenarios. Health packs restoring a Blink give her increased survivability.",
             "Also, she can now steal health packs from the enemy even when she’s at full health. Don’t let them grab it!"
           ]
         },
         {
-          "id": "5.2.1",
+          "id": "5.2.2",
           "title": "Quantum Entanglement",
           "content": [
+            "Quantum Entanglement",
             "Helpful for confirming elims",
             "Sometimes, enemies survive with a bit of health. Overhealth and extra ammo come in handy to help stay in the fight after Recalling to get that final blow.",
             "Should probably still disengage",
@@ -1303,10 +1345,17 @@
         },
         {
           "id": "5.1.1",
-          "title": "Siphoning Strike",
+          "title": "Raging Storm",
           "content": [
+            "Siphoning Strike",
             "Vendetta’s best sustain tool. Without this perk, you have to play way more passively and disengage far sooner.",
-            "Recommended Minor Perk",
+            "Recommended Minor Perk"
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Extra Edge",
+          "content": [
             "The best tip for Extra Edge is to not use it.",
             "In theory, you can get an extra projectile in before recharging, but this is very low impact."
           ]
@@ -1327,8 +1376,9 @@
         },
         {
           "id": "5.2.2",
-          "title": "Raging Storm",
+          "title": "Siphoning Strike",
           "content": [
+            "Raging Storm",
             "Decent extra AoE damage, and a bit of extra movement.",
             "Use if you struggle to be accurate with her primary fire and need the big swings to add consistent damage."
           ]
@@ -1546,18 +1596,22 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Deceleration Field",
           "content": [
-            "Extended Mag",
             "Weaker Minor Perk",
             "Build more charge",
             "The one benefit of taking Extended Mag is that you can theoretically build charge shots faster because of the decrease in time spent reloading."
           ]
         },
         {
-          "id": "5.1.1",
+          "id": "5.1.2",
           "title": "Overcharged",
           "content": [
+            "Overcharged",
             "Best Minor Perk",
             "One-shot 250 HP heroes",
             "A 150% charged shot deals 255 damage on a critical hit. Since the majority of the roster falls within this threshold, you’ll have plenty of opportunities to delete heads.",
@@ -1573,6 +1627,7 @@
           "id": "5.2.1",
           "title": "Dual Thrusters",
           "content": [
+            "Dual Thrusters",
             "Best Major Perk",
             "Yes, you sacrifice a bit of vertical height, but getting a 2nd charge of Power Slide is incredibly powerful.",
             "New movement options",
@@ -1582,7 +1637,13 @@
             "Adhesive Siphon",
             "Weaker Major Perk",
             "Damage is cut in half",
-            "Adhesive Disruptor only deals about 150 damage maximum. Even if you stick a target, you’ll also need to land a lot of extra damage if you want to elim.",
+            "Adhesive Disruptor only deals about 150 damage maximum. Even if you stick a target, you’ll also need to land a lot of extra damage if you want to elim."
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Friction Generators",
+          "content": [
             "The ability to stick Disruptor to an enemy boosts its consistency in dealing damage. Plus if the stuck target is close to other enemies, you get the AoE damage as well.\nConsequently, you’ll be generating both Rail and ult charge faster.\nA stuck target generates 36 energy for Railgun.",
             "Wait for an easy target",
             "15-second cooldowns need to be used carefully. Wait until you see an easy shot before haphazardly blasting away."
@@ -1841,12 +1902,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Urgent Care",
           "content": [
+            "Urgent Care",
             "“Healing Ofuda projectile speed is increased by 50% when seeking critical health allies.”",
             "Take if you’ve already noticed your team demanding a lot of healing.",
             "Receiving healing sooner when at critical health can mean the difference between life or death for your ally. The farther they are from you, the greater benefit the Perk gives."
@@ -1856,6 +1918,7 @@
           "id": "5.1.2",
           "title": "Fortune Teller",
           "content": [
+            "Fortune Teller",
             "“Kunai hits launch 2 Healing Ofuda to an ally in front of you.”",
             "Free healing when attacking",
             "If you are able to be aggressive and attack frequently, Fortune Teller is the better Perk to take.\nWith the Fortune teller perk, it's worth shooting two Kunai between every \nHealing Ofuda\n. For a slight delay in primary fire, she has the chance to deal damage and increase healing potential from the extra 2 Ofudas per hit."
@@ -1863,18 +1926,22 @@
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Ready Step",
           "content": [
-            "Ready Step",
             "“Swift Step grants Kiriko 40% increased attack and reload speed for 3 seconds.\"",
             "When selecting \nReady Step\n, your dives become more lethal. Wait to TP to your ally until they need assistance with an elimination.",
             "Be smart. Just because you get buffed offense, doesn't mean you should always TP aggressively. \nSwift Step\n is you best escape tool, so if you TP into multiple enemies, you likely won't escape."
           ]
         },
         {
-          "id": "5.2.1",
+          "id": "5.2.2",
           "title": "Foxtrot",
           "content": [
+            "Foxtrot",
             "“Protection Suzu grants 30% movement speed to allies for 4 seconds.”",
             "30% movement speed is really strong, especially on heroes who need to stay close to deal optimal damage.",
             "For example, when playing with \nReinhardt\n the movement speed allows him to chase down squishies that would otherwise be just barely outside his range.",
@@ -1918,7 +1985,12 @@
         },
         {
           "id": "8",
-          "title": "How to Counter"
+          "title": "How to Counter",
+          "content": [
+            "Swift Step",
+            "Protection Suzu",
+            "Kitsune Rush"
+          ]
         },
         {
           "id": "9",
@@ -1936,9 +2008,298 @@
       "Guide": [
         {
           "id": "1",
-          "title": "The page you are looking for is not found",
+          "title": "Lucio Overview",
           "content": [
-            "There may have been an error or the link you tried may be broken."
+            "Using his sound waves and beats to inspire his allies, Lucio skates across maps while bringing his team along for the ride. Positioning and mobility are extremely important in Overwatch 2 and Lucio helps his whole team with both.",
+            "Although he doesn’t bring a lot of sustain, increasing the movement speed of his team gives them the advantage in deciding when and where to take fights.",
+            "He spends most of his time close to his Tank, but Lucio can also be a deadly backline assassin thanks to his wall riding. Master Amp it up timing and \nSoundwave\n usage, and you’ll be well on your way to carrying your team with this underground DJ!"
+          ]
+        },
+        {
+          "id": "1.1",
+          "title": "TLDR"
+        },
+        {
+          "id": "1.1.1",
+          "title": "Play As",
+          "content": [
+            "Speed in your Tank. If your Tank is a brawl style Tank, speed boost enables them to close the gap on the enemy and run them over.",
+            "Keep your allies in your aura. The indicator in the center of your screen tells you how many allies are being affected by \nCrossfade\n. Make sure to keep that number high.",
+            "Protect your backline. Lucio’s speed and knockback allow him to be a great protector of his backline from enemy flanks and dives. Speed over and help with a counterattack."
+          ]
+        },
+        {
+          "id": "1.1.2",
+          "title": "Play Against",
+          "content": [
+            "Knockback or stun him. Anything that stops or slows his momentum makes Lucio easier to eliminate.",
+            "When you see Lucio use \nSound Barrier\n try to disengage from the fight and wait out the overhealth instead of trying to fight through it.",
+            "If you keep getting run over by Lucio’s team, pick heroes with good mobility. Their speed won’t matter if you can escape their attack."
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Strengths And Weaknesses Summarized",
+          "content": [
+            "Opportunist",
+            "AoE abilities",
+            "Doesn't need a lot of resources",
+            "Hard to play",
+            "Needs good team coordination",
+            "Close ranged"
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Strengths And Weaknesses Explained"
+        },
+        {
+          "id": "3.1",
+          "title": "Strengths"
+        },
+        {
+          "id": "3.1.1",
+          "title": "Opportunist",
+          "content": [
+            "With unmatched speed, Lucio can quickly react and move. Good Lucio players often wait for opportune moments, such as seeing the enemy use their defensive cooldowns, then speed boost themselves and their team in for the kill."
+          ]
+        },
+        {
+          "id": "3.1.2",
+          "title": "Large AoE abilities",
+          "content": [
+            "Unlike many other Supports who can only assist one ally at a time, Lucio’s abilities can affect his entire team at once. Healing, speed boost, and \nSound Barrier\n all have generous AoE and get huge value when his team is all playing grouped up."
+          ]
+        },
+        {
+          "id": "3.1.3",
+          "title": "Low demand for team resources",
+          "content": [
+            "Riding vertically on walls, moving quickly and constantly changing up his positioning makes Lucio difficult for the enemy to target. Because of this, he doesn’t demand healing, damage mitigation, or protection resources from his team. The rest of his team can worry about themselves and use their abilities more offensively when Lucio is their Support."
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Weaknesses"
+        },
+        {
+          "id": "3.2.1",
+          "title": "High skill ceiling",
+          "content": [
+            "Wall Ride\n forward, backwards, in place, through windows, rollouts, and jump spots give Lucio nearly unlimited hero-specific tech. To maximize your Lucio play, you must dedicate many hours to fine-tuning your movement mechanics. He’s easy to pick up, but difficult to master."
+          ]
+        },
+        {
+          "id": "3.2.2",
+          "title": "Needs team coordination",
+          "content": [
+            "You’re probably not a Reddit Lucio who can go off on their own and solo kill the entire enemy team one by one. So instead, you’re going to need your team to work as a unit to succeed. It doesn’t matter how good your timing is if no one moves in to attack during Amp it Up speed boost."
+          ]
+        },
+        {
+          "id": "3.2.3",
+          "title": "Close range LoS",
+          "content": [
+            "Lucio can’t assist his team unless he’s within the 12m radius of \nCrossfade\n and there are no barriers or structures in his way. To maximize the value of his song aura, he needs to be positioned near his allies. Since the Tank typically needs speed boost the most, this means Lucio ends up front and in the open, where the enemy team can target him."
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Lucio Ability Tips"
+        },
+        {
+          "id": "4.1",
+          "title": "Primary Fire: Sonic Amplifier",
+          "content": [
+            "Tips for \nSonic Amplifier",
+            "Destroy deployables",
+            "Lucio's range and speed make him better than most at getting into position to destroy deployables like Sym and Torb turrets, Immortality Field, and Healing Pylon.",
+            "Keep moving while poking",
+            "Never stand still or stay grounded for long. Even when you are focusing on spamming the enemy team, be careful not to make yourself an easy target.\nHitscans have the upper hand and more consistent damage in ranged fights."
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Secondary Fire: Soundwave",
+          "content": [
+            "Tips for \nSoundwave",
+            "Get off me",
+            "Most of the time, you’ll want to use \nSoundwave\n's knockback to keep the enemy away from you and your allies. Especially against close-range and melee heroes, boop them away.",
+            "Spam",
+            "A Five-second cooldown is very short. You can generally use \nSoundwave\n off cooldown. Unless you need to save for a specific reason, like an environmental kill, or booping away an enemy ult like \nDeath Blossom\n.",
+            "Environmental kills",
+            "The best feeling is knocking people off the map with \nSoundwave\n. On maps with edges near the objective, a hole in the middle like Ilios Well, always be on the lookout for enemies standing too close to the edge.",
+            "Combos",
+            "Against walls or while diving with speed boost, Lucio has good burst damage combos. If you are moving too slow, or the enemy doesn’t have a wall behind them, the melee cancel will miss.\nThe knockback of \nSoundwave\n also makes tracking easier as it briefly locks the enemy's movement.\nPrimary fire → Soundwave → melee"
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "[SPACE]: Wall Ride",
+          "content": [
+            "Tips for \nWall Ride",
+            "Wall ride as much as possible",
+            "Lucio moves much faster while wall riding, and the verticality sets him above the standard horizontal plane where most enemies are aiming.",
+            "Rollouts",
+            "Very map-specific, but it's a good idea to pay attention to paths where you can jump from wall to wall on your way from spawn to the objective in case you die.",
+            "Bunny hop",
+            "If you jump right as you touch the ground, Lucio keeps some momentum for a few jumps.\nUseful for maintaining speed while transferring from one wall to another.",
+            "Stall objectives",
+            "Any objective with walls, windows, or a center column are good for Lucio \nWall Ride\n around when waiting for his team to respawn.\nRide in circles, in and out of windows, behind and in front of structures, and be as evasive as possible.",
+            "Settings",
+            "PC players. Binding the scroll wheel to jump makes wall jumps and bunny hopping easier."
+          ]
+        },
+        {
+          "id": "4.4",
+          "title": "[SHIFT]: Crossfade",
+          "content": [
+            "Tips for \nCrossfade",
+            "Watch your ally indicator",
+            "The number in the center of your screen under your crosshairs shows how many allies are being affected by your healing or speed. \nYou don’t need to look around, you can focus on attacking while also making sure to keep in position near enough to keep your allies in your sound aura.",
+            "Speed or healing?",
+            "Use healing aura any time your team needs health, or when you want to build Ult charge faster.\nUse speed boost whenever your team is trying to get close to the enemy or reposition quickly.\nWhen most of your team is near full health, feel free to stay on speed boost."
+          ]
+        },
+        {
+          "id": "4.5",
+          "title": "[E]: Amp it Up",
+          "content": [
+            "Tips for \nAmp It Up",
+            "Heal Amp",
+            "Amp It Up\n healing is over 4x’s faster than standard healing. If your team gets to critical health, quickly use Amp it Up healing.",
+            "Speed Amp",
+            "In brawl and rush comps, you’ll want to primarily save \nAmp It Up\n for speed boost. The most important thing with Tanks like Junker Queen, Ram, and Rein is not giving them a bit of healing to live longer. They just need to get close to the enemy and win the fight quickly.",
+            "Run away",
+            "When the enemy uses an offensive ultimate, speed Amp your team away from the enemy so they can get behind cover and survive. Then speed them back into the fight once the danger has passed."
+          ]
+        },
+        {
+          "id": "4.6",
+          "title": "Ultimate: Sound Barrier",
+          "content": [
+            "Tips for \nSound Barrier",
+            "Use reactively",
+            "Sometimes Lucios will try to start fights with \nSound Barrier\n to allow their team to push in without fear of dying. Typically, this brings much less value to your team and also leaves you defenseless when the enemy attacks with their ultimates.\nBetter to use \nSound Barrier\n in reaction to enemy ultimates. The overhealth is enough to survive most attacks.",
+            "Cast time",
+            "Be mindful of your height when using \nSound Barrier\n. The higher Lucio is, the longer it takes for the ult to activate.\nEnemies can cancel your ult if they stun you before hitting the ground. Watch for enemies with stun abilities, or \nSound Barrier\n behind cover."
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Perks"
+        },
+        {
+          "id": "5.1",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Soundwave Rider",
+          "content": [
+            "Higher Value Minor Perk",
+            "Lucio can benefit from Bass Blowout every four seconds. \nAgainst dive, brawl, and rush comps, 100% take Bass Blowout as the extra knockback distance will keep you and your team safer.",
+            "Easier environmental kills",
+            "On maps with lots of ledges, Bass Blowout makes knocking people off the map even more consistent."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Beat Drop",
+          "content": [
+            "Beat Drop",
+            "Stack Amp it Up uses",
+            "Use Amp it up before \nSound Barrier\n to maximize your benefit of \nBeat Drop\n. \nAmp it up lasts 6 seconds, and Amp it Up’s cooldown is 12 seconds. At most, you’ll only have to wait 6 seconds before another Amp it Up is available."
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Noise Violation",
+          "content": [
+            "Good in teams that are more spread out. If your team is running a lot of poke heroes like \nAna\n, \nAshe\n, and \nFreja\n, you’ll be more likely to get them all in your AoE with Noise Violation.",
+            "Lucio’s playstyle and positioning caters to allies who need speed boost the most already, so the extra Amp range isn’t really necessary."
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Accelerando",
+          "content": [
+            "Accelerando",
+            "Better for aggressive Lucio players",
+            "When you solo or team speed into the enemy team, 50% attack speed can be the difference between getting an elim or your target surviving long enough to kill you.\nIf you try for a lot of aggressive plays, or dive the enemy DPS and Supports, you should be running \nAccelerando\n."
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Maps",
+          "content": [
+            "The best maps to pick Lucio on are those with lots of flat ground or a lot of space to cover. The team with Lucio will always be able to move and reposition faster than the team without, so maps with a lot of area to walk give more opportunity to benefit from the speed boost.",
+            "Also, maps with ledges near the objective create to possibility of instant kills by booping them off the map.",
+            "The maps where he struggles the most are those with long, narrow sight lines where the enemy has more time to attack him during his approach. Lucio himself does well on maps with strong high ground areas, but the teammates who benefit the most from speed boost tend to be weaker on those maps."
+          ]
+        },
+        {
+          "id": "6.1",
+          "title": "Best maps",
+          "content": [
+            "Ilios",
+            "Lijiang Tower",
+            "King’s Row"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps",
+          "content": [
+            "New Queen Street",
+            "Esperança",
+            "Havana"
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Team Comp Synergies",
+          "content": [
+            "Team comps built around Lucio are equipped to take full advantage of his speed boost. Close range and melee heroes generally receive the most benefit from speed boost because they depend on getting close to the enemy to be effective.",
+            "Poke heavy comps can work with Lucio as well, but his speed will be used more often for defensive spacing and rotations instead of offensive approaches.",
+            "Lucio typically needs another Support with high healing output and burst healing capabilities to make up for his lack of sustain. In these teams, Lucio also functions as a backline protector by using his quick movement and knockback to keep his allies safe from enemy flankers.",
+            "Example of a team comp built around Lucio:",
+            "Tank: \nReinhardt\n, \nZarya\n (6v6)",
+            "DPS: \nCassidy\n, \nMei",
+            "Supports: Lucio, \nMoira"
+          ]
+        },
+        {
+          "id": "7.1",
+          "title": "Individual synergies with other heroes",
+          "content": [
+            "When \nReinhardt\n starts swinging on an enemy, they’re done if they can't immediately escape. Rein’s biggest weakness is his short melee range, and Charge being his only movement ability.",
+            "Lucio’s speed enables Rein to quickly get into melee range and overtake the enemy. With Amp it Up he can even shield walk faster than the enemy can walk away. Coordinate Amp it Up when Rein has the health to keep swinging, and you'll have some easy classic wins.",
+            "Cassidy\n is a mid-range hitscan with a great anti-dive kit. Lucio's poke and speed combined with Cassidy's damage output make them a lethal duo who oppress the enemy with ranged damage while simultaneously having high survivability.",
+            "Lucio helps peel for \nCassidy\n when he's getting overwhelmed by the enemy team, and Cassidy does the same for Lucio.",
+            "Additionally, a speed-boosted Deadeye is very hard to deal with because of how fast Cassidy moves around. They completely control sight lines and force the enemy to retreat.",
+            "Moira\n and Lucio’s AoE healing make them the perfect brawl Support duo. Teams that play grouped up will constantly be healed, and can move around as an unstoppable deathball.",
+            "Moira's healing is high enough that Lucio can also go on occasional flanks when the opportunity presents itself.",
+            "Neither Support needs to waste their resources peeling for the other because they both have high self-survivability. This allows them to focus on enabling the rest of their allies."
+          ]
+        },
+        {
+          "id": "8",
+          "title": "How to Counter Lucio",
+          "content": [
+            "Sound Barrier"
+          ]
+        },
+        {
+          "id": "9",
+          "title": "Role Passive: Support",
+          "content": [
+            "Support",
+            "Tactician"
           ]
         }
       ]
@@ -2066,6 +2427,7 @@
           "id": "4.2",
           "title": "Secondary fire: Solar Rifle (Healing Beam)",
           "content": [
+            "Solar Rifle",
             "Resource management",
             "Try to never fully deplete the Solar Energy resource because it adds a 3.36-second additional cooldown before you can use the ability again.\nHeal enough to stop your ally from dying, then pause and let the resources refill for another burst of healing.",
             "Burst healing",
@@ -2117,12 +2479,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Rapid Construction",
           "content": [
+            "Rapid Construction",
             "Increase Pylon Uptime",
             "As previously stated, the biggest weakness of \nIllari\n and her \nHealing Pylon\n is how much downtime there is between uses. The CD reduction has a more notable effect when replacing the Pylon without taking damage, but it's always helpful.",
             "Better at saving allies",
@@ -2133,24 +2496,29 @@
           "id": "5.1.2",
           "title": "Summer Solstice",
           "content": [
+            "Summer Solstice",
             "Makes outplaying your ult more difficult",
             "The extra flight time and speed make it harder for the enemy to avoid your ult and makes your fire timing more unpredictable.\nAgainst comps with a lot of Captive Sun Counters, you should take Summer Solstice."
           ]
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Solar Flare",
           "content": [
-            "Solar Flare",
             "Great for adding burst and AoE healing to \nIllari\n's kit, which is one of her main weaknesses for sustain.",
             "It can be activated as long as the energy resource is not completely depleted.",
             "Recommended Perk, unless the enemy team is hard-focusing you on dives."
           ]
         },
         {
-          "id": "5.2.1",
+          "id": "5.2.2",
           "title": "Sunburn",
           "content": [
+            "Sunburn",
             "Anti-dive",
             "The main strength of Outburst is the distance it creates between \nIllari\n and her attackers. The extra damage over time will help her win 1v1 duels.\nMost effective when you are being sustained by \nHealing Pylon\n because the burning damage is  only ~23 damage /second, so you'll need to stay alive long enough to benefit."
           ]
@@ -2426,17 +2794,21 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Bunny Power",
           "content": [
-            "Bunny Power",
             "Safer Minor Perk",
             "The extra health makes it way easier to survive long enough to remech. Enemies look to instantly kill pilot \nD.Va\n when she ejects from her mech. \nBunny Power\n helps her to tank those attacks."
           ]
         },
         {
-          "id": "5.1.1",
+          "id": "5.1.2",
           "title": "Extended Boosters",
           "content": [
+            "Extended Boosters",
             "Good for diving",
             "When diving the enemy backline, you can Boosters through their Tank and any other enemies in the path to proc \nExtended Boosters\n.\nChasing a \nMercy\n, for example, is much easier when you have more flight time.",
             "Numbers",
@@ -2451,6 +2823,7 @@
           "id": "5.2.1",
           "title": "Shield System",
           "content": [
+            "Shield System",
             "Increased self-sustain",
             "Shield health moves to the front of \nD.Va\n’s health pool and is damaged first.\nMatrix converting damage absorbed to recover lost shield health increases your survivability mid-fight."
           ]
@@ -2459,6 +2832,7 @@
           "id": "5.2.2",
           "title": "Precision Fusion",
           "content": [
+            "Precision Fusion",
             "Best when you want to focus on offensive power and kill potential.",
             "Save for finishing blows instead of using it at the start of attacks."
           ]
@@ -2710,18 +3084,22 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Electric Charge",
           "content": [
-            "Electric Charge",
             "Excellent for chasing opponents as they try get away from your dives.",
             "Compared to \nHeavy Landing\n, this perk will give you more consistent value.",
             "Best when the enemy has speed boosting abilities or if you are not confident with \nPrimal Rage\n juggling."
           ]
         },
         {
-          "id": "5.1.1",
+          "id": "5.1.2",
           "title": "Heavy Landing",
           "content": [
+            "Heavy Landing",
             "Best Minor Perk",
             "Increased lethality during \nPrimal Rage",
             "Every time you \nJump Pack\n during \nPrimal Rage\n, you’ll deal more burst damage. The extra damage is surprisingly helpful in converting kills.\nThe longer you’re in the air, the higher the resource meter fills up, and you’ll deal more damage upon landing.\nIn general, it’s better to only go for a high Jump on the initial attack, then keep the Jumps low and quick."
@@ -2735,6 +3113,7 @@
           "id": "5.2.1",
           "title": "Chain Lightning",
           "content": [
+            "Chain Lightning",
             "Extra ult charge",
             "Chain lightning deals an extra 72 damage when hitting 2 extra enemies. Compared to the 48 damage of a single hit, \nWinston\n can generate 2.5x the amount of ult charge with every secondary fire.",
             "Potential for final blows",
@@ -2745,6 +3124,7 @@
           "id": "5.2.2",
           "title": "Revitalizing Barrier",
           "content": [
+            "Revitalizing Barrier",
             "Self healing",
             "Even a few seconds of healing while bubble dancing with an enemy can make the difference between winning the exchange and getting out alive.",
             "A full duration Barrier heals 240 HP to each hero inside. The healing you and your allies receive generates ult charge. When needing to farm \nPrimal Rage\n for a fight, you can use the bubble defensively and heal your allies."
@@ -2922,6 +3302,7 @@
           "id": "4.2",
           "title": "Secondary Fire: Scrap Gun (Medium-range)",
           "content": [
+            "Scrap Gun",
             "Optimal secondary fire range is 10-14m. At this range, the explosion will trigger, and you can one-shot squishies with a full cluster headshot.",
             "Poke early in fights with secondary fire to start building ultimate charge.",
             "Always aim for headshots. If the range is after the explosion, aim slightly lower so the upper pellets crit."
@@ -2974,6 +3355,7 @@
           "id": "5.1.1",
           "title": "Scrap Hook",
           "content": [
+            "Scrap Hook",
             "Save yourself from embarrassment",
             "The worst feeling every \nRoadhog\n player has experienced is Hooking an enemy and finding you have no ammo, so you just stand there reloading with the enemy in your face.\nScrap Hook guarantees you’ll always have the ammo necessary for your Hook combos.",
             "Increase shotgun uptime",
@@ -2981,7 +3363,7 @@
           ]
         },
         {
-          "id": "5.2",
+          "id": "5.1.2",
           "title": "Shrapnel Launcher",
           "content": [
             "The new range is about 15m for the explosion range, which actually makes you weaker in the 10-14m range than without the perk. Keep this in mind to help you make your choice.",
@@ -2990,19 +3372,20 @@
           ]
         },
         {
-          "id": "5.3",
+          "id": "5.2",
           "title": "Major Perks"
         },
         {
-          "id": "5.3.1",
+          "id": "5.2.1",
           "title": "Invigorate",
           "content": [
+            "Invigorate",
             "Better for flank and solo playstyle. Can flank and reposition to and from off-angles more quickly.",
             "Good for disengaging as well. When you need to run away from something like \nRamattra\n's Ult, \nInvigorate\n makes it possible."
           ]
         },
         {
-          "id": "5.3.2",
+          "id": "5.2.2",
           "title": "Pulled Pork",
           "content": [
             "The extra sustain is very strong. Take \nPulled Pork\n when the enemy team has been laying a lot of damage on you. You’ll be able to stay in fights longer and position more forward."
@@ -3209,12 +3592,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Suppressive Security",
           "content": [
+            "Suppressive Security",
             "Makes Emre’s Ult more lethal by making it easier to land follow-up Heavy shots.",
             "Slow the enemy with light rounds, then finish them off with a heavy round.",
             "Enemies will be more hesitant to challenge your ult, thus making ulting a bit safer."
@@ -3224,6 +3608,7 @@
           "id": "5.1.2",
           "title": "Enhanced Agility",
           "content": [
+            "Enhanced Agility",
             "Decent for escaping and evading while Siphon Blaster cools off.",
             "Since the blaster is constantly overheating (without \nHeat Sink\n), you can take advantage of moments when you need to let it cool off.",
             "The 20% increase in movement speed, on top of the base movement buff, makes escaping feel more realistic."
@@ -3237,6 +3622,7 @@
           "id": "5.2.1",
           "title": "Heat Sink",
           "content": [
+            "Heat Sink",
             "Recommended Major Perk",
             "Fire more shots for more total time. Also results in greater life steal. If you are confident in aiming Siphon Blaster, this is a great Perk. Allows you to play more aggressively.",
             "Especially good for dueling, and for when Tanks are pressuring you (easier to land more shots on their large bodies)."
@@ -3246,6 +3632,7 @@
           "id": "5.2.2",
           "title": "Cyber Adhesion",
           "content": [
+            "Cyber Adhesion",
             "Transforms Cyber Frag into a cyber semtex.",
             "Sneak up on an enemy, throw the nade to stick, and immediately ADS headshot. You’ll delete DPS and Supports."
           ]
@@ -3451,17 +3838,23 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Remote Detonator",
           "content": [
+            "Remote Detonator",
             "Useful for exploding \nDynamite\n over walls and around corners where you can’t shoot it.",
             "Also, safer than standing in the open to shoot the \nDynamite\n.",
             "Double-Barreled",
             "Best against dive comps. You can create space between yourself and the enemy with the first shot, then you have another shot to reposition even better."
           ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Double-Barreled",
+          "content": []
         },
         {
           "id": "5.2",
@@ -3471,6 +3864,7 @@
           "id": "5.2.1",
           "title": "Viper's Sting",
           "content": [
+            "Viper's Sting",
             "Best poke Perk",
             "The extra damage is very powerful on maps with long sight lines. The bonus damage is also not affected by falloff, so the extra 25 damage keeps its effectiveness at all ranges.\nAlso useful for pressure \nTank\ns as landing two shots in a row is very easy on their large bodies.",
             "Bonus damage reset",
@@ -3481,6 +3875,7 @@
           "id": "5.2.2",
           "title": "Airburst",
           "content": [
+            "Airburst",
             "Best anti-brawl Perk",
             "When the enemy team plays as a deathball, the larger AoE will help you burn more targets with each use.",
             "Increase \nThe Viper\n uptime",
@@ -3740,10 +4135,20 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Focused Rush",
           "content": [
-            "Focused Rush",
             "Recommended Minor Perk",
+            "Focusing Beam\n is \nEcho\n's best ability, so buffing it is very strong for her. The increased range and speed enable you to position more safely and target enemies normally out of your range."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Partial Scan",
+          "content": [
             "Focusing Beam\n is \nEcho\n's best ability, so buffing it is very strong for her. The increased range and speed enable you to position more safely and target enemies normally out of your range.",
             "Partial Scan",
             "Install ults",
@@ -3760,6 +4165,7 @@
           "id": "5.2.1",
           "title": "Full Salvo",
           "content": [
+            "Full Salvo",
             "Best Major Perk",
             "Echo can benefit from Full Salvo every 6 seconds as compared to only benefitting from High Beams when specifically getting elims from Beam after using Flight.",
             "Extra burst damage",
@@ -3770,6 +4176,7 @@
           "id": "5.2.2",
           "title": "High Beams",
           "content": [
+            "High Beams",
             "Full aggro beam usage",
             "Being able to use Flight twice in a row enables some crazy aggressive plays. You can Flight dive the backline, kill, fly to cover, wait for Beam, and assassinate another.",
             "Hard to rely on the reset",
@@ -4006,9 +4413,12 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Bang Bang",
           "content": [
-            "Bang Bang",
             "New breakpoints",
             "Landing both Flashbangs creates new instakill combos for Cassidy\nBang Bang + headshot = 230 Dmg (225HP hero one-shot)",
             "Best for anti-dive",
@@ -4016,9 +4426,10 @@
           ]
         },
         {
-          "id": "5.1.1",
+          "id": "5.1.2",
           "title": "Even the Odds",
           "content": [
+            "Even the Odds",
             "Tank damage over time",
             "In standard 5v5 games, Cassidy can generate up to 150 HP of self-healing every second. Even if there are only a couple of targets, the extra healing helps to survive against non-burst damage\nIf the enemy is running Moira / Juno, for example, neither of them can burst or stun Cassidy, and he’s very likely to survive channeling Deadeye with the extra healing.",
             "When to avoid picking",
@@ -4027,16 +4438,20 @@
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Rollin' Round-Ups",
           "content": [
-            "Rollin' Round-Up",
             "As you should normally be using Roll to reload a full clip, you will naturally get a lot of sustain value from this perk."
           ]
         },
         {
-          "id": "5.2.1",
+          "id": "5.2.2",
           "title": "Silver Bullet",
           "content": [
+            "Silver Bullet",
             "Swap out the close-range burst for more min-range lethality.",
             "Silver Bullet\n crit + plus primary fire body shot will kill 275 HP heroes",
             "The burst damage is quite good, but you have to sacrifice Fan the Hammer and the sustain \nRollin' Round-Up\n would give you.",
@@ -4286,6 +4701,7 @@
           "id": "5.1.1",
           "title": "Sentry Capacity",
           "content": [
+            "Sentry Capacity",
             "Patrol and extra flank angle",
             "Sentry Capacity is useful to select when the enemy has been flanking you and giving you trouble. You can place one turret on both sides of you, and still have two more to use as you normally would to attack the enemies in front of you.",
             "More choke pressure",
@@ -4301,13 +4717,19 @@
           ]
         },
         {
+          "id": "5.1.2",
+          "title": "Perfect Alignment",
+          "content": []
+        },
+        {
           "id": "5.2",
           "title": "Major Perks"
         },
         {
           "id": "5.2.1",
-          "title": "Perfect Alignment",
+          "title": "Hovering Barrier",
           "content": [
+            "Perfect Alignment",
             "Max range",
             "At level 3 your beam will gain 3.6 extra meters of range for a total of 15.6 meters.",
             "Counter brawl and rush",
@@ -4318,6 +4740,7 @@
           "id": "5.2.2",
           "title": "Shield Battery",
           "content": [
+            "Shield Battery",
             "Best for duels and flanks",
             "If you find yourself spending more time flanking and 1v1ing the enemy than you do on the frontline, then Shield Battery is the better Major Perk for you.\nReceiving constant self-healing comes in clutch to win more duels and flank more aggressively. \nThe tether visually indicates you’re in range and receiving healing. \nRefer to “Tips for Teleporter”  for a breakdown of offensive strategies to employ with TP."
           ]
@@ -4548,8 +4971,9 @@
         },
         {
           "id": "5.1.1",
-          "title": "Recycled Pulse Munitions",
+          "title": "Helix Propulsion",
           "content": [
+            "Recycled Pulse Munitions",
             "The best Minor Perk, you can effectively increase each ammo clip by 50% if you time one Helix Rocket per clip.",
             "Ammo doesn’t overfill",
             "Make sure to wait until you have 15 bullets or fewer to use your Helix in order to maximize reload efficiency.",
@@ -4559,6 +4983,11 @@
             "Extra ult charge",
             "You can build Ult faster through healing stats if you keep using Biotic Field Perk to farm healing off your allies."
           ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Tactical Salvo",
+          "content": []
         },
         {
           "id": "5.2",
@@ -4576,6 +5005,7 @@
           "id": "5.2.2",
           "title": "Stim Pack",
           "content": [
+            "Stim Pack",
             "Heal or boost",
             "Since you don’t lose the option to use Biotic Field for healing if needed, Stim Pack allows for some versatility. Turn Soldier into a glass cannon as he gains attack speed at the cost of being anti-healed.\nThe short 4-second window means you’ll want to know and see your target before activating Stim Pack, or else you risk wasting the long CD.",
             "Cleanse effects",
@@ -4820,17 +5250,21 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Swift Cuts",
           "content": [
-            "Acrobatics",
             "Not very useful",
             "Compared to Dragon’s Thirst, Acrobatics brings very little value to Genji. You’re rarely going to find a use for being able to double jump, dash, then double jump again."
           ]
         },
         {
-          "id": "5.1.1",
+          "id": "5.1.2",
           "title": "Dragon's Thirst",
           "content": [
+            "Dragon's Thirst",
             "Best Minor Perk",
             "Lifesteal during Dragonblade enables you to be even more aggressive than normal during your ult.",
             "Less reliant on team resources",
@@ -4847,6 +5281,7 @@
           "id": "5.2.1",
           "title": "Blade Twisting",
           "content": [
+            "Blade Twisting",
             "More damage, ult charge, and elims",
             "More damage is more good. But, you'll need to use \nSwift Strike\n late in your combos to ensure you get the bonus damage.\nAgainst the 175 HP heroes \nTracer\n and pilot \nD.Va\n, the extra 25 damage makes \nSwift Strike\n > \nDragonblade\n slash kill.",
             "Meditation",
@@ -4855,6 +5290,11 @@
             "Help with beams",
             "While 35 healing per second is lower than the damage per second of every beam, it will still help Genji to survive some situations where he would’ve otherwise died."
           ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Meditation",
+          "content": []
         },
         {
           "id": "6",
@@ -5101,6 +5541,7 @@
           "id": "5.1.1",
           "title": "Groggy",
           "content": [
+            "Groggy",
             "Best against dive",
             "Ana is always a dive priority target, so anything that helps her counter their attacks is huge for her viability. \nThe extra damage and slow debuff is basically a guaranteed kill against any hero without an invincible escape tool.",
             "Shutdown enemy ults",
@@ -5111,6 +5552,7 @@
           "id": "5.1.2",
           "title": "Speed Serum",
           "content": [
+            "Speed Serum",
             "Best when aggressive Nano targets like Reinhardt who struggle to chase down retreating enemies.",
             "If you absolutely need to, you can Nano the nearest or easiest target just to give yourself the speed boost if you will die otherwise."
           ]
@@ -5121,8 +5563,9 @@
         },
         {
           "id": "5.2.1",
-          "title": "Biotic Bounce",
+          "title": "Headhunter",
           "content": [
+            "Biotic Bounce",
             "Win button",
             "Although the damage and healing are reduced on the 2nd bounce, the anti and heal buffs are the same.\nPotentially, Ana can hit the enemy frontline with the first bounce, then mid or back enemies with the second bounce. Anti-healing on a majority of the enemy team",
             "Hitting a nade into a wall next to or behind a target is also a very effective means of hitting tricky angles."
@@ -5130,8 +5573,9 @@
         },
         {
           "id": "5.2.2",
-          "title": "Headhunter",
+          "title": "Biotic Bounce",
           "content": [
+            "Headhunter",
             "Just to flex",
             "Refer to the “Tips for Biotic Rifle” section, and you’ll see ADS shots against enemies have a significantly decreased bullet size. This makes landing headshots with Ana quite difficult.\nAdditionally, the multiplier is only 1.5x, so the return isn’t that great.\nHead hurtboxes are mostly hidden when looking at the backs of heroes, and you’ll essentially always be looking at the backs of your teammates. Consequently, critical hits on allies are also impractical."
           ]
@@ -5208,9 +5652,259 @@
       "Guide": [
         {
           "id": "1",
-          "title": "The page you are looking for is not found",
+          "title": "Overview",
           "content": [
-            "There may have been an error or the link you tried may be broken."
+            "A stray cat found in Gibraltar and adopted by Brigitte. She pilots a jetpack and is ready to sacrifice all nine lives to protect their team.",
+            "Jetpack Cat flies themselves and allies around the map with their unmatched mobility. Their kit benefits from team coordination, sneaky taxiing, and creative playmaking. Lifeline transportation enables unique positioning strategies that have never before been possible in the history of Overwatch!",
+            "With high mobility, AoE aura healing, and limited primary fire damage/healing range, Jetpack Cat wants to hover just above the battle. Stay close, but not too close, and reposition frequently to keep your enemies guessing as you maximize your jetpack’s value."
+          ]
+        },
+        {
+          "id": "1.1",
+          "title": "TLDR"
+        },
+        {
+          "id": "1.1.1",
+          "title": "Play As",
+          "content": [
+            "Fly outside of their range when faced against melee and close combat enemies such as Vendetta.",
+            "Keep repositioning around vertical cover, walls, and structures to keep yourself out of enemy hitscan’s LoS.",
+            "Target Tanks when going to environmental KOs with your ult. When there are no ledges, wait for an ally to use a high damage Ult like Death Blossom."
+          ]
+        },
+        {
+          "id": "1.1.2",
+          "title": "Play Against",
+          "content": [
+            "Hitscan heroes are strong against Jetpack Cat. If they are giving you trouble, consider swapping.",
+            "Jetpack Cat doesn’t generate a lot of sustain for their team. If your team has higher healing (Supports like Kiriko and Moira), you win team fights by slowly chipping away at their health while keeping your team alive.",
+            "Immediately start shooting Jetpack Cat when they capture you or a teammate to stop them from getting an environmental KO."
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Strengths And Weaknesses Summarized",
+          "content": [
+            "Mobile",
+            "Can transport allies",
+            "Versatile",
+            "Weak vs hitscans",
+            "Ult is risky to use",
+            "Lacks a defensive ultimate"
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Strengths And Weaknesses Explained"
+        },
+        {
+          "id": "3.1",
+          "title": "Strengths"
+        },
+        {
+          "id": "3.1.1",
+          "title": "Very Mobile",
+          "content": [
+            "Extremely mobile. Only hero with permanent flying capabilities, and their boost is very fast, and refreshes quickly. Allows her follow up with teammates everywhere or escape defensively."
+          ]
+        },
+        {
+          "id": "3.1.2",
+          "title": "Transportation",
+          "content": [
+            "Unique playmaking capabilities by transporting allies around the map. Flying \nDeadeye\n, \nB.O.B.\n, and \nTactical Visor\n are just a few of the popular ways to combo ally abilities with \nLifeline\n."
+          ]
+        },
+        {
+          "id": "3.1.3",
+          "title": "Versatility",
+          "content": [
+            "Versatile and capable of both defensive and offensive playstyles. Her healing output is good when playing like a Support, but she's also one of the best solo-kill assassins in the game. Even after the nerfs, a \nClaws Out\n + \nTerritorial\n will eliminate \nTracer\n without even firing a single shot."
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Weaknesses"
+        },
+        {
+          "id": "3.2.1",
+          "title": "Weak vs range",
+          "content": [
+            "Weak against hitscans and long-range heroes. Anyone who can shoot Cat out of the air makes it difficult for her to utilize her best ability."
+          ]
+        },
+        {
+          "id": "3.2.2",
+          "title": "Ult is risky to use",
+          "content": [
+            "Ult puts you at risk of being KO’d by enemies that were not knocked down. Even the enemy you grab can shoot and kill you after the stun ends."
+          ]
+        },
+        {
+          "id": "3.2.3",
+          "title": "Lacks a defensive ult",
+          "content": [
+            "Whereas most Support heroes have an ultimate they can use to save their team from death, \nCatnapper\n can only be used offensively. Theoretically, she could use it to stun a solo aggressing enemy like an ulting \nGenji\n, but generally, she doesn't have a way to save her team from enemy ults."
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Ability Tips"
+        },
+        {
+          "id": "4.1",
+          "title": "Primary Fire: Biotic Pawjecticles",
+          "content": [
+            "Tips for \nBiotic Pawjectiles",
+            "No falloff damage, but the projectile only travels 40m before disappearing.",
+            "Pawjectiles are shotgun spread pellets. Each shot is the shape of a cat’s paw. The claws can crit, but the center paw pad cannot crit.",
+            "Aim towards enemies' necks and upper chest to maximize pellets hit and critical headshot damage.",
+            "Main source of healing and damage. Prioritize healing, and only focus on damage when your teammates are near full HP."
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Secondary Fire: Frenetic Flight",
+          "content": [
+            "Tips for \nFrenetic Flight",
+            "Use the boost to control space and positioning. Optimal range is keeping enemies within primary fire range (40m), and allies within healing aura when using Purr",
+            "Resource-based. After a momentary cooldown, you can reactivate Flight as long as you have remaining fuel.",
+            "Jetpack Cat is extremely evasive and has some of the best mobility in Overwatch.",
+            "Boost around frequently. Your base flight speed is slow and makes Jetpack Cat an easy target when floating around in the sky.",
+            "Can shoot during boost."
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "[SHIFT]: Lifeline",
+          "content": [
+            "Tips for \nLifeline",
+            "Transport and heals allies",
+            "Sling shot Cassidy during Deadeye for a lethal surprise Ult!",
+            "The teammate has to press “Interact” to confirm. (Unlike Lifeweaver’s Life Grip)",
+            "Give your allies time to confirm. It is difficult to quickly yank them out of a fight if they are already at low HP, but it can be a great rescue tool.",
+            "Can NOT shoot during Lifeline.",
+            "No time limit. You can transport your teammate anywhere on the map if you wish.",
+            "Your teammate CAN shoot and use their abilities while being transported."
+          ]
+        },
+        {
+          "id": "4.4",
+          "title": "[E]: Purr",
+          "content": [
+            "Tips for \nPurr",
+            "Knockback upon activation",
+            "Healing increases towards the end of the duration, making it more important to be near allies in the 2nd half of its duration.",
+            "Can be used during Flight and Lifeline, to keep yourself alive while evading attacks, repositioning, and escaping."
+          ]
+        },
+        {
+          "id": "4.5",
+          "title": "Ultimate: Catnapper",
+          "content": [
+            "Tips for \nCatnapper",
+            "On maps with ledges nearby the objective, save your Ult to use when an environmental KO is possible.",
+            "Low damage, so not lethal on its own. Try to combo with another teammate’s burst damage Ultimate, like Anran’s Ascent.",
+            "Keep in mind that even if you slam into knockdown multiple enemies, if the opposing team has hitscans like Ana and Emre elsewhere on the map, they can easily KO you as you pick up and carry their teammate.",
+            "Use Purr and Flight immediately after ulting to stay alive.",
+            "Bonus Tip: Against Tanks like \nD.Va\n who fly after being dropped, don't detach. Instead, use Descend to dip them below the environmental KO threshold off the ledge, then fly away immediately after."
+          ]
+        },
+        {
+          "id": "4.6",
+          "title": "Passive: Jetpack",
+          "content": [
+            "Tips for \nJetpack",
+            "Just because you can perma-fly at the top of the ceiling, doesn’t mean you should.",
+            "Make sure you stay in range of your own abilities.",
+            "Flying too high where there is no environmental cover to hide behind makes you an easy target and will get you killed quickly."
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Perks"
+        },
+        {
+          "id": "5.1",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Ulterior Motive",
+          "content": [
+            "Ulterior Motive",
+            "Refills fuel even during \nFrenetic Flight\n.",
+            "Significantly increases mobility and flight uptime when you are healing.",
+            "Dealing Damage does not convert into fuel.",
+            "Recommended default Minor Perk"
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Transport Shielding",
+          "content": [
+            "Transport Shielding",
+            "Best for strategic play-making. Allows you to take more damage while transporting an ally for a flank play. Also makes it safer to go for environmental KOs after your Ult.",
+            "Recommended when playing with comms or frequently coordinating transport plays."
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Headbutt",
+          "content": [
+            "Headbutt",
+            "Need to have almost half fuel and to travel ~8m to build enough momentum for the boop. (Displayed as VFX circling your screen)",
+            "Works in transport mode",
+            "Pair with \nUlterior Motive\n for more frequent use."
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Claws Out",
+          "content": [
+            "Claws Out",
+            "Best for consistent aggressive plays. If your team is using an aggressive closerange strategy such as brawl, rush or dive, having extra damage every 6-seconds on your melee is quite powerful.",
+            "When your team is playing more distance or poke styles, you won’t have many opportunities to use Claws Out.",
+            "Recommended Major Perk"
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Maps",
+          "content": [
+            "The best maps for \nJetpack Cat\n have plenty of vertical structures for her to fly around. High ground is especially strong since she can perma-fly. Numbani, Watchpoint: Gibraltar, and Paraiso, for example, all feature structural layouts that enable her to constantly reposition safely.",
+            "Flatter maps and those with wide open objective areas such as Samoa, Havana, and New Queen Street don't offer nearly as much room to play. On these maps, you'll typically need to position closer to your team and use them for safety."
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Team Comp Synergies",
+          "content": [
+            "Jetpack Cat is extremely self-sufficient thanks to their combat ability, mobility, and self-sustain. Because of this, she doesn't need allies to sit around and protect her.",
+            "Heroes who can fly or move quickly are no problem to keep up with, so look for teammates like \nD.Va\n, \nEcho\n, and \nTracer\n and be ready to \nFrenetic Flight\n in to assist in their attacks.",
+            "For a second Support it depends on the rest of your team more than the specific pairing. If your team has a tank like \nMauga\n or \nReinhardt\n who demand a lot of healing resources, it's best to pair with someone like \nAna\n or \nBaptiste\n.",
+            "However, if your team is running full dive or heroes with self-sustain, you can get away with pairing with a lower healing output Support like \nLúcio\n or \nBrigitte\n."
+          ]
+        },
+        {
+          "id": "8",
+          "title": "How to Counter",
+          "content": [
+            "To coutner \nJetpack Cat\n, you need to pressure her every time she exposes herself. Even a bit a damage will force her to back off, which is especially good when she's using \nPurr\n.",
+            "Always be ready for a flank attack because she can fly in super fast and shoot you from the side. Don't tunnel vision, and if you have any CC, you can save it if you've noticed the Cat player keeps going for flanks.",
+            "Also, you can counterswap in your role to heroes like \nD.Va\n, \nAshe\n or \nIllari\n to have an easier time shooter \nJetpack Cat\n out of the sky, evading her ult, and shutting down her flanks."
+          ]
+        },
+        {
+          "id": "9",
+          "title": "Role Passives: Support and Tactician",
+          "content": [
+            "Support",
+            "Tactician"
           ]
         }
       ]
@@ -5395,12 +6089,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Wellspring",
           "content": [
+            "Wellspring",
             "Helps keep your AoE healing higher and get it up sooner in fights.",
             "Good when your other Support lacks AoE healing."
           ]
@@ -5421,6 +6116,7 @@
           "id": "5.2.1",
           "title": "Resonant Return",
           "content": [
+            "Resonant Return",
             "To mazimize benefit of the extra bounce, try to use Healing Kasa when your team is positioned closely together.",
             "Good for increasing defensive capabilities.",
             "Best when you need to serve as the main source of your team’s sustain."
@@ -5430,6 +6126,7 @@
           "id": "5.2.2",
           "title": "Quickstep",
           "content": [
+            "Quickstep",
             "Best for rush and dive comps, as it enables a hyper-aggressive team initiation.",
             "Similar to Lucio’s speed aura, communicating with your team via VC, ping, or a voice line like “3-2-1” is important for coordinating ability timings.",
             "The speedboost window is short, so your team will get more benefit if they are prepared, instead of having to react once they realize the speed aura is active."
@@ -5643,6 +6340,7 @@
           "id": "5.1.1",
           "title": "Overflow",
           "content": [
+            "Overflow",
             "Grants the ability to give more burst healing to your allies, and less offensive downtime for yourself due to less time spent reloading.",
             "Recommended Minor Perk"
           ]
@@ -5651,6 +6349,7 @@
           "id": "5.1.2",
           "title": "Balance",
           "content": [
+            "Balance",
             "Allows you to focus even more on dealing damage. As long as you keep hitting enemies, your selected ally will keep benefitting from increased healing."
           ]
         },
@@ -5662,6 +6361,7 @@
           "id": "5.2.1",
           "title": "Ebb and Flow",
           "content": [
+            "Ebb and Flow",
             "Not a terrible perk, but not worth taking over \nFalling Rain\n.",
             "May help with countering dive comps by improving your close-range capabilities.",
             "Try it out if you have been unable to get value out of your charged primary fire up to this point."
@@ -5671,6 +6371,7 @@
           "id": "5.2.2",
           "title": "Falling Rain",
           "content": [
+            "Falling Rain",
             "Very powerful for increasing total and burst damage.",
             "As soon as you unlock the Major Perk, you should start putting more emphasis on dealing damage.",
             "All the same tips from \nXuanwu Staff\n apply as the use case does not change."
@@ -5913,12 +6614,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Deep Leap",
           "content": [
+            "Deep Leap",
             "Counter high mobility",
             "Hazard\n can have difficulty keeping up with targets who have lots of mobility, like \nJuno\n, \nMercy\n, and \nSojourn\n. The extra Leap distance helps him to close the gap and stay in a more advantageous range for him.",
             "Faster engages",
@@ -5933,6 +6635,11 @@
           ]
         },
         {
+          "id": "5.1.2",
+          "title": "Anarchic Zeal",
+          "content": []
+        },
+        {
           "id": "5.2",
           "title": "Major Perks"
         },
@@ -5940,12 +6647,18 @@
           "id": "5.2.1",
           "title": "Reconstitution",
           "content": [
+            "Reconstitution",
             "Significantly increased uptime",
             "Upon reading the Perk description, you may think it sounds weak. What makes \nReconstitution\n powerful, however, is that \nHazard\n uses the base \nSpike Guard\n resource before depleting the overfill. Also, the overfill does not decay, so you can hold onto it as long as needed.\nBetween the instant refill and overfill, you’ll be able to use \nSpike Guard\n considerably more often or for longer uses.",
             "Explosive Impalements",
             "Extra burst damage",
             "Very good for securing elims with your team and solo kills. You don't have to do anything special because all \nHazard\n players should already be using the combo listed above of shoot > Leap > Melee. Basically, a free extra 40 damage."
           ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Explosive Impalements",
+          "content": []
         },
         {
           "id": "6",
@@ -6194,24 +6907,40 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Crusader's Fire",
           "content": [
-            "Crusader's Fire",
             "Guarantees you have a \nFire Strike\n to follow up on \nEarthshatter\n.",
-            "Standard 250 HP heroes can be killed by Shatter > Fire Strike(x2), so this perk makes your shatter's more consistently lethal.",
-            "Crusader's Resolve",
+            "Standard 250 HP heroes can be killed by Shatter > Fire Strike(x2), so this perk makes your shatter's more consistently lethal."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Crusader's Resolve",
+          "content": [
             "Good in matchups where you are forced to play more passive such as when facing \nOrisa\n or \nMauga\n.",
             "Also a decent choice if your Supports have lower healing output."
           ]
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Shield Slam",
           "content": [
-            "Shield Slam",
             "Lose the ability to hold secondary fire down and look around without rotating.",
-            "The slam itself is ok, but generally not worth taking over the increased attack speed.",
-            "Ignited Fury",
+            "The slam itself is ok, but generally not worth taking over the increased attack speed."
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Ignited Fury",
+          "content": [
             "Save at least one \nFire Strike\n for when you get into melee range. The increased attack speed is very strong in brawls and will help you win the \nTank\n fight."
           ]
         },
@@ -6543,18 +7272,22 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Rampant Charge",
           "content": [
-            "Rampant Charge",
             "All in on your ultimate compared to \nBattle Shout\n bringing lower, but more frequent value.",
             "Make sure to use all your CDs before activating \nRampage\n.",
             "You can play hyper aggressive when you have ult because you'll be able to chain two ability cycles together."
           ]
         },
         {
-          "id": "5.1.1",
+          "id": "5.1.2",
           "title": "Battle Shout",
           "content": [
+            "Battle Shout",
             "“Commanding Shout fully reloads Scattergun and increases allied reload speed by 50%.”",
             "Extra aggression",
             "Battle Shout\n empowers JQ and all allies in Shout AoE to be more aggressive thanks to the decrease in reload time.",
@@ -6564,17 +7297,21 @@
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Willy-Willy",
           "content": [
-            "Willy-Willy",
             "Land easier Blade direct impacts, and get an bit of extra burst damage to help secure elims.",
             "Decent, but only take if you are getting hard CC'd everytime you try to \nCarnage\n and need more ranged presence."
           ]
         },
         {
-          "id": "5.2.1",
+          "id": "5.2.2",
           "title": "Savage Satiation",
           "content": [
+            "Savage Satiation",
             "“Carnage's impact damage gains 100% lifesteal.”",
             "Recommended Major Perk",
             "Extra healing",
@@ -6834,12 +7571,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Kinetic Bandolier",
           "content": [
+            "Kinetic Bandolier",
             "Niche",
             "In most scenarios where you’ve run out of ammo, you’ll also have used \nCardiac Overdrive\n and won’t have enough health to charge straight into the enemy to keep attacking.\nPlus, in these cases, you also won’t be running the full distance and therefore won’t get the max 150 ammo reloaded.",
             "Less downtime",
@@ -6850,6 +7588,7 @@
           "id": "5.1.2",
           "title": "Pyromaniac",
           "content": [
+            "Pyromaniac",
             "Adds a small burst of instant overhealth whenever you ignite an enemy. Good for survivability, and best when having to play more passively."
           ]
         },
@@ -6861,6 +7600,7 @@
           "id": "5.2.1",
           "title": "Firewalker",
           "content": [
+            "Firewalker",
             "Best Major Perk",
             "Ignited enemies take 15 damage per second, and can immediately be auto-crit by Cha-Cha. Since \nMauga\n is unstoppable during Overrun, he can easily ignite multiple enemies with each use.",
             "Burst damage",
@@ -6871,6 +7611,7 @@
           "id": "5.2.2",
           "title": "Combat Fuel",
           "content": [
+            "Combat Fuel",
             "Don’t need the extra Overhealth",
             "Mauga\n heals himself and reduces so much damage that you won’t even notice 100 extra Overhealth during Overdrive.\nPlus, you need to land 50 critical hits in between each use? Realistically, you’ll probably be averaging 50-60 overhealth with each Cardiac use.",
             "Soft counter to anti-healing and damage mitigation",
@@ -7116,11 +7857,19 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Defense Protocol",
           "content": [
-            "Defense Protocol",
-            "Makes \nTerra Surge\n an ok panic button. The healing will help you take more damage, and can save you when you are at low health.",
-            "Mobile Fortification",
+            "Makes \nTerra Surge\n an ok panic button. The healing will help you take more damage, and can save you when you are at low health."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Mobile Fortification",
+          "content": [
             "Very powerful and enables aggressive play when \nOrisa\n is already at her most powerful. Feels unstoppable to the enemy team."
           ]
         },
@@ -7129,7 +7878,7 @@
           "title": "Major Perks"
         },
         {
-          "id": "5.3",
+          "id": "5.2.1",
           "title": "Charged Javelin",
           "content": [
             "Overall, the better Major Perk",
@@ -7137,9 +7886,10 @@
           ]
         },
         {
-          "id": "5.3.1",
+          "id": "5.2.2",
           "title": "Protective Barrier",
           "content": [
+            "Protective Barrier",
             "Match up dependent",
             "Against \nMauga\n, it could be considered the better Major Perk since it can be used to help counter \nCardiac Overdrive\n. \nAgainst \nZarya\n, deploy a barrier anytime she uses bubble to block her damage and relieve the pressure of needing to break her barrier and charge her.\nIn theory, you can use the Barrier to block \nRamattra\n's ult LoS and try to end it early. The 600HP barrier may not survive long enough to rely on this tech, however.",
             "Double Barrier tip",
@@ -7388,12 +8138,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "One-Two",
           "content": [
+            "One-Two",
             "Quick Punch",
             "Doomfist\n starts to auto reload while charging \nRocket Punch\n, so One-Two makes the biggest difference on primary fire uses when not full charging \nRocket Punch\n.\nDump all \nHand Cannon\n ammo into the enemy, quick \nRocket Punch\n into a wall, finish them off with the refreshed primary fire, Slam away.",
             "Great with \nRocket Punch",
@@ -7404,6 +8155,7 @@
           "id": "5.1.2",
           "title": "Survival of the Fittest",
           "content": [
+            "Survival of the Fittest",
             "A bit weaker overall than \nOne-Two",
             "Doomfist\n gets plenty of elims",
             "Because he has AoE abilities, and your team follows up on your engages, most kills by your team will have some damage assist from \nDoomfist\n and count as an elim for the extra overhealth.",
@@ -7413,22 +8165,24 @@
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
-          "content": [
-            "The problem with Aftershock is that you have to give up \nPower Matrix\n. Only choose this perk if the enemy team has no projectile stuns.",
-            "Engage with Slam so you get easy follow-up shots during the slow. Ideally, you'll already have an empowered punch so you can finish for an easy KO."
-          ]
+          "title": "Major Perks"
         },
         {
           "id": "5.2.1",
-          "title": "Power Matrix",
+          "title": "Aftershock",
           "content": [
+            "Power Matrix",
             "Best Major Perk",
             "Creates new counterplay",
             "Previously, we stated \nDoomfist\n is particularly weak against stuns. \nPower Matrix\n gives him counterplay against stuns. As long as he times correctly, \nPower Matrix\n absorbs and negates all projectiles.",
             "Shares Defensive Matrix counters",
             "Unfortunately, \nDoomfist\n is not totally invulnerable during \nPower Block\n. Abilities like \nRoadhog\n Hook, \nDoomfist\n \nRocket Punch\n, and \nSigma\n's \nAccretion\n still counter \nPower Matrix\n."
           ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Power Matrix",
+          "content": []
         },
         {
           "id": "6",
@@ -7679,14 +8433,22 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Smoulder",
           "content": [
-            "Smoulder",
             "Extends the time of burning.",
             "Does not extend \nFan the Flames\n amplified damage time.",
             "Useful for extending damage on enemies that retreat to cover. Will sometimes score an elim where the enemy could’ve just barely lived otherwise.",
-            "Further delays the self-healing passive from activating.",
-            "Heat Shield",
+            "Further delays the self-healing passive from activating."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Heat Shield",
+          "content": [
             "Turns \nVermillion Ascent\n into a survival tool. The large AoE makes it consistent and realistic to expect to hit multiple targets per use.",
             "Enables more aggressive use of your ult. Hitting 2 targets, for example, generates 150 overhealth.",
             "Use the overhealth generation mid-fight to as a form of healing, or at the start of an attack to make yourself more tanky.",
@@ -7701,6 +8463,7 @@
           "id": "5.2.1",
           "title": "Short Fuse",
           "content": [
+            "Short Fuse",
             "Rushing through multiple targets in a scrambly fight is a great way to spread burning, inflict damage, and evade damage.",
             "Hitting the same target twice counts as double cooldown reduction (3s total).",
             "Be smart about where you position yourself when the Rush ends. You’d have to get 6 impacts to fully refresh the Rush if you don’t have either charge up."
@@ -7710,6 +8473,7 @@
           "id": "5.2.2",
           "title": "Hungering Blaze",
           "content": [
+            "Hungering Blaze",
             "Extremely potent survival ability.",
             "Being in range of multiple enemies is even more important when using \nHungering Blaze\n. As mentioned under Ability Tips, \nAnran\n will stay invulnerable for longer and additionally heal herself more.",
             "Recommended Major Perk."
@@ -7934,21 +8698,32 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Configuration Reload",
           "content": [
-            "Configuration Reload",
             "Purposely use \nA-36 Tactical Grenade\n before activating \nConfiguration: Assault\n, and again before its duration ends.",
             "Grenade is really good for burst damage and for pressuring enemies hiding behind corners out of your LoS.",
-            "This is generally the go-to Minor Perk, and \nArmored Artillery\n is more of a counter-pick.",
-            "Good against dive",
+            "This is generally the go-to Minor Perk, and \nArmored Artillery\n is more of a counter-pick."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Armored Artillery",
+          "content": [
             "When multiple heroes full dive you and you can’t run away, the overhealth can save your life and force the enemy to retreat. \nActivate ult and instantly drop one on your body and on your attackers. If allies are nearby, this should buy them enough time to peel for you."
           ]
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Lindholm Explosives",
           "content": [
-            "Lindholm Explosives",
             "Even better for pressuring backlines",
             "The splash damage forces \nSupport\ns not only to retreat, but also hide way behind cover where they won’t get hit by the splash damage. This extra space often allows your team to kill the other enemies that are not outside of their Support's LoS.",
             "Damage difference",
@@ -7956,9 +8731,10 @@
           ]
         },
         {
-          "id": "5.2.1",
+          "id": "5.2.2",
           "title": "Self-Repair",
           "content": [
+            "Self-Repair",
             "Greatly increased survivability",
             "Bastion\n is already quite tanky and with \nSelf-Repair\n, he feels impossible to kill for many heroes. Primarily use to heal yourself to help out your \nSupport\ns and get yourself back to full health quicker.",
             "Increase uptime",
@@ -8015,7 +8791,9 @@
             "Although some players main \nBastion\n, most often you'll see him used as a counter pick against Tanks like \nReinhardt\n, \nDomina\n, and \nWinston\n.",
             "If you want to get into the rock-paper-scissors, \nOrisa\n, \nD.Va\n, and \nSigma\n are good Tanks to counter Bastion.",
             "The main thing you have to worry about when playing against a \nBastion\n is \nConfiguration: Assault\n. By comparison his lethality is very low in recon mode.",
-            "To get him to waste his turret form, soft engage, or push up without using long cooldowns, then back off when he \nReconfigure\ns. Be patient, because turret mode only lasts for 6 seconds. Don’t peek or else you’ll be killed or have to waste resources to not die."
+            "To get him to waste his turret form, soft engage, or push up without using long cooldowns, then back off when he \nReconfigure\ns. Be patient, because turret mode only lasts for 6 seconds. Don’t peek or else you’ll be killed or have to waste resources to not die.",
+            "Support",
+            "Configuration: Assault"
           ]
         },
         {
@@ -8205,10 +8983,20 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Relentless Barrage",
           "content": [
-            "Relentless Barrage",
             "Recommended Minor Perk",
+            "Significantly increases spam uptime. If you hit multiple direct hits in a row using the standard combo listed under \nTake Aim (Freja)\n tips (6 primary fire > 1 Take Aim > repeat), you would have infinite ammo and never stop to reload."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Momentum Boost",
+          "content": [
             "Significantly increases spam uptime. If you hit multiple direct hits in a row using the standard combo listed under \nTake Aim (Freja)\n tips (6 primary fire > 1 Take Aim > repeat), you would have infinite ammo and never stop to reload.",
             "Momentum Boost",
             "Good use is as a counter pick against dive and melee heroes. The extra dash distance can give you the space needed to evade their attacks.",
@@ -8217,12 +9005,20 @@
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Aerial Recovery",
           "content": [
-            "Aerial Recovery",
             "Recommended Minor Perk.",
-            "Every time you jump and use \nUpdraft\n + \nTake Aim (Freja)\n slow, you'll heal for over 75 HP. Even more when used off a ledge.",
-            "Rising Winds",
+            "Every time you jump and use \nUpdraft\n + \nTake Aim (Freja)\n slow, you'll heal for over 75 HP. Even more when used off a ledge."
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Rising Winds",
+          "content": [
             "Considering the long cooldown of \nUpdraft\n, doubling its uptime is a considerable buff.",
             "Best when playing maps with walls to jump and shoot over.",
             "Also good as a counterpick against melee and very close-range heroes"
@@ -8413,6 +9209,7 @@
           "id": "4.3",
           "title": "[E]: Storm Arrows",
           "content": [
+            "Sonic Arrow",
             "Storm Arrows excel at burst damage on tanks, barriers, and targets with limited movement, like a turret form Bastion.",
             "Don’t panic activate Storm Arrows. Good players will try to bait you into using Storm Arrows, then disengage. After a few seconds, they will full commit to a real attack then you will be left defenseless.",
             "Activate when you’re confident shots will land.",
@@ -8456,12 +9253,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Sonic Disruption",
           "content": [
+            "Sonic Disruption",
             "Useful for inconveniencing enemy flankers who rely on health packs to get back into the fight.",
             "If there is a flanker like Tracer, or a Tank like Wrecking Ball harassing your team, grabbing health packs and attacking you again, Sonic Disruption can be used to hinder their gameplay loop,."
           ]
@@ -8470,6 +9268,7 @@
           "id": "5.1.2",
           "title": "Dragon Fury",
           "content": [
+            "Dragon Fury",
             "Even if you only hit one out of every 3 shots, the increased draw speed is very strong for Hanzo.",
             "Take by default. Especially powerful when being pressured by Tanks.",
             "Recommended Minor Perk"
@@ -8477,9 +9276,12 @@
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Frost Arrow",
           "content": [
-            "Frost Arrow",
             "AoE effect, hitting a surface also triggers the explosion and will inflict slow on nearby enemies.",
             "Can be used during Storm Arrow, but not with Sonic Arrow.",
             "Try aiming at your target's feet to either get an easy body shot or floor explosion. Then, go for a headshot while they are slowed",
@@ -8487,9 +9289,10 @@
           ]
         },
         {
-          "id": "5.2.1",
+          "id": "5.2.2",
           "title": "Scatter Arrows",
           "content": [
+            "Scatter Arrows",
             "In theory, you can get some cheeky KOs against retreating enemies inside rooms or around corners, but it’s too niche to be worth taking in any scenario over Frost Arrow."
           ]
         },
@@ -8687,12 +9490,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Mine Recycling",
           "content": [
+            "Mine Recycling",
             "Rewards efficient mine usage. Try to purposely save a Mine for landing the final blow.",
             "Very powerful and enables hyper-aggressive play. You can use one Mine to jump in, another to kill with the Frag-Mine combo, then a refreshed third to jump back out.",
             "Recommended Minor Perk"
@@ -8702,6 +9506,7 @@
           "id": "5.1.2",
           "title": "Nitro Boost",
           "content": [
+            "Nitro Boost",
             "Makes it much more challenging for the enemy to predict Tire movement and destroy it.",
             "Particularly valuable on vertical or open maps."
           ]
@@ -8712,8 +9517,9 @@
         },
         {
           "id": "5.2.1",
-          "title": "Bomb Voyage",
+          "title": "Frag Cannon",
           "content": [
+            "Bomb Voyage",
             "Makes your Mine jumps more lethal. Especially when paired with Mine Recycling and using the aforementioned three Mine jump-kill-jump method.",
             "Best used when playing flanks or surprising enemies by jumping over a wall and quickly raining Frags on them.",
             "Pick Bomb Voyage when you want to position more aggressively."
@@ -8721,8 +9527,9 @@
         },
         {
           "id": "5.2.2",
-          "title": "Frag Cannon",
+          "title": "Bomb Voyage",
           "content": [
+            "Frag Cannon",
             "Increased projectile speed makes landing direct hits more consistent.",
             "Best on maps with longer sight lines, but never a bad choice.",
             "The increased speed throws some players' muscle memory off, but most find the adjustment very helpful.",
@@ -8941,25 +9748,41 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Deep Burrow",
           "content": [
-            "Deep Burrow",
             "Good for flanks and increasing overall mobility.",
-            "Enables more efficient engages and disengages.",
-            "Excavation Exhilaration",
+            "Enables more efficient engages and disengages."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Excavation Exhilaration",
+          "content": [
             "You dump all your cooldowns to get in and weaken enemies, pop ult, and quickly get them all back.",
             "The best part is you can burrow into Ult and then again to escape."
           ]
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Smart Extender",
           "content": [
-            "Smart Extender",
             "Really good to give yourself some poke potential.",
             "Best use is to finish off elims on targets who escape your range mid-fight.",
-            "Though brief, it’s nice to have an option for better ranged damage.",
-            "Covered in Dirt",
+            "Though brief, it’s nice to have an option for better ranged damage."
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Covered in Dirt",
+          "content": [
             "Best for general flank and close-range combat playstyle that Venture primarily sticks to. Makes them more tanky during fights."
           ]
         },
@@ -9236,8 +10059,9 @@
         },
         {
           "id": "5.1.1",
-          "title": "Soul Reaving",
+          "title": "Lingering Wraith",
           "content": [
+            "Soul Reaving",
             "Extra tanky",
             "Soul Globes are useful for making Reaper even more tanky with the added self-sustain. Allow him to stay in the fight a bit longer.\nEspecially good in brawly fights on the objectives where enemies are dying in close range.",
             "Don’t try to pick up every Globe",
@@ -9249,18 +10073,27 @@
           ]
         },
         {
+          "id": "5.1.2",
+          "title": "Soul Reaving",
+          "content": []
+        },
+        {
           "id": "5.2",
-          "title": "Major Perks",
-          "content": [
-            "Shadow Blink",
-            "Enables safer escape with \nShadow Step\n. The best use of the faster cast time is being able to get out of fights when you don't have \nWraith Form\n.",
-            "Recommended if you are using \nLingering Wraith"
-          ]
+          "title": "Major Perks"
         },
         {
           "id": "5.2.1",
           "title": "Dire Triggers",
           "content": [
+            "Enables safer escape with \nShadow Step\n. The best use of the faster cast time is being able to get out of fights when you don't have \nWraith Form\n.",
+            "Recommended if you are using \nLingering Wraith"
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Shadow Blink",
+          "content": [
+            "Dire Triggers",
             "Poke weapon",
             "Greatly increased range damage and tightened bullet spread empower Reaper to finally be able to contribute to ranged fights.\nBefore getting in close, start building ult charge, or pressuring the enemy team.",
             "Help with fliers",
@@ -9311,7 +10144,8 @@
             "The strongest playstyle for \nReaper\n to carry his team with is a flanker who assassinates backline heroes like Supports and Snipers. This is the main thing you need to stop. He's also good when brawling Tanks, but outside of these two scenarios, his usefulness is very limited. Your job is to make both of these as difficult for him as possible.",
             "First off, almost every hero has better range than him so focus on staying outside of his range where you can attack him before he gets into close range.",
             "Listen for \nShadow Step\n sound cue. Whichever direction you hear it from tells you he’s about to appear and attack you. Same goes for \nWraith Form\n, if you see him use it towards you, immediately use your mobility to get away.",
-            "Save your knockback or stuns for after he's used Wraith whenever possible. Also very important is to focus him after Wraith, even if you have to chase after him, because a Reaper without \nWraith Form\n is an easy kill."
+            "Save your knockback or stuns for after he's used Wraith whenever possible. Also very important is to focus him after Wraith, even if you have to chase after him, because a Reaper without \nWraith Form\n is an easy kill.",
+            "Death Blossom"
           ]
         },
         {
@@ -9445,6 +10279,7 @@
           "id": "4.2",
           "title": "Secondary Fire: Endothermic Blaster Icicle",
           "content": [
+            "Endothermic Blaster",
             "Poke",
             "Mei has decent poke capabilities. Landing a single critical hit with icicle on any DPS or Support forces them to hide and wait for healing.\nIn the beginning phases of a fight, use secondary fire to build ult charge, and possibly get an early pick.",
             "Hold angles",
@@ -9516,13 +10351,21 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Skating Rink",
           "content": [
-            "Skating Rink",
             "Adds a defensive benefit to your Ult.",
             "Even if half the enemy team is not frozen and can shoot you, you can wall them, heal up yourself and your team while eliminating the enemies that are frozen. Then you have an easy clean up against those left.",
-            "Good for survivine damage over time and so you don't have to spend so much time in \nCryo-Freeze\n during your ult.",
-            "Glacial Propulsion",
+            "Good for survivine damage over time and so you don't have to spend so much time in \nCryo-Freeze\n during your ult."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Glacial Propulsion",
+          "content": [
             "Best use is for taking and contesting high ground areas.",
             "Has a low maximum height, so you can't jump off high ground and activate it to get an extra boost.",
             "Especially good on high maps with a bit of high ground like King's Row and Blizzard World where \nMei\n normally has a weakness against heroes with vertical mobility."
@@ -9536,6 +10379,7 @@
           "id": "5.2.1",
           "title": "Deep Freeze",
           "content": [
+            "Deep Freeze",
             "Play close and hold corners",
             "The ability to freeze enemies means you’ll want to spend as much time in primary fire range as possible. Position up front with your tank, or find enemies you can flank.\nWhen defending, stay at the choke and any corners. This forces close-range fights. Anyone who approaches you has to deal with the threat of being frozen, on top of getting walled off.",
             "Anti-Dive",
@@ -9546,6 +10390,7 @@
           "id": "5.2.2",
           "title": "Cryo-Storm",
           "content": [
+            "Cryo-Storm",
             "Big damage potential",
             "Cryo-Storm deals 70 damage every second for up to 350 damage total. \nTry to trap an enemy in a corner or between Ice Wall and Cryo-storm.",
             "Block doorways",
@@ -9726,9 +10571,9 @@
         },
         {
           "id": "4.2",
-          "title": "Secondary Fire: Take Aim",
+          "title": "Secondary Fire: Widow's Kiss (ADS)",
           "content": [
-            "Tips for Secondary Fire: Take Aim",
+            "Tips for Secondary Fire: \nWidow's Kiss\n (ADS)",
             "Fully charged shots deal 300 damage. You don’t need to fully charge if your target has lower health.",
             "Be patient, line up the shot, and avoid panic firing.",
             "Body shots to finish low targets are more consistent. Headshots are not always needed.",
@@ -9777,6 +10622,7 @@
           "id": "5.1.1",
           "title": "Scoped Efficiency",
           "content": [
+            "Scoped Efficiency",
             "Less downtime thanks to less reloading."
           ]
         },
@@ -9784,6 +10630,7 @@
           "id": "5.1.2",
           "title": "Sniper's Instinct",
           "content": [
+            "Sniper's Instinct",
             "Really good in Widow duels or when facing enemies that require you to use grapple to simultaneously evade and attack."
           ]
         },
@@ -9793,8 +10640,9 @@
         },
         {
           "id": "5.2.1",
-          "title": "Seeker Mine",
+          "title": "Widow’s Bite",
           "content": [
+            "Seeker Mine",
             "Patrols a much larger area than the standard mine. You’ll be alerted by the 10m radius and can leave it there without having to use the cooldown to redeploy.",
             "Widow's Bite",
             "The charge rate is the same. Charging to 125% takes longer and decreases the rate of fire.",
@@ -9802,6 +10650,11 @@
             "Also good if you’re spending more time shooting Tanks.",
             "The piercing helps on long flat areas a bit, but don’t waste your time fishing for collats."
           ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Seeker Mine",
+          "content": []
         },
         {
           "id": "6",
@@ -10028,9 +10881,12 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Hammer Time",
           "content": [
-            "Craftsman",
             "Niche Perk, but pairs ok with Overloaded Turret Major Perk",
             "Extra healing for the Turret can be useful, but then you're also only going to benefit when babysitting your Turret. So this Perk is wasted when paired with Anchor Bolts, for example.\nFocus on holding one area and keeping your Turret healthy, even if you have to body block incoming damage.",
             "Don’t try to force armor healing",
@@ -10038,9 +10894,10 @@
           ]
         },
         {
-          "id": "5.1.1",
-          "title": "Fully Loaded",
+          "id": "5.1.2",
+          "title": "Pre-Heated",
           "content": [
+            "Fully Loaded",
             "Best Minor Perk",
             "Less reload time",
             "Focus on not letting your Overdrive get forced out. That way, you can decide when is best to activate and get the instant reload."
@@ -10054,6 +10911,7 @@
           "id": "5.2.1",
           "title": "Anchor Bolts",
           "content": [
+            "Anchor Bolts",
             "Best Major Perk",
             "High and inconvenient",
             "Find places that are way out of the enemy's LoS where they have to look away from your team in order to shoot the Turret.",
@@ -10067,6 +10925,7 @@
           "id": "5.2.2",
           "title": "Overloaded Turret",
           "content": [
+            "Overloaded Turret",
             "Decent Major Perk",
             "Overload damage",
             "When Torb activates Overload, and this Major Perk causes the Turret to transform into the Overloaded Turret, there is a notable startup animation before the Turret starts firing again.\nConsequently, you don’t even get the extra damage throughout your whole Overload. So, while this Perk can be helpful because of some extra burst damage, it’s very brief and infrequent due to Overload’s cooldown.",
@@ -10309,25 +11168,39 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Assault Burst",
           "content": [
-            "Expanded Field",
+            "Makes Barrier Field tosses much more consistent and forgiving. The AoE is huge, so even if your placement isn’t perfect, you have a much higher chance of getting yourself and your teammates within the field."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Expanded Field",
+          "content": [
             "Makes Barrier Field tosses much more consistent and forgiving. The AoE is huge, so even if your placement isn’t perfect, you have a much higher chance of getting yourself and your teammates within the field."
           ]
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
-          "content": [
-            "Assault Burst",
-            "Allows for a more aggressive playstyle",
-            "Can also be used defensively to counterattack a flanker.\nReload first! Don’t get caught with low ammo during the short window of time when you want to be nonstop firing!"
-          ]
+          "title": "Major Perks"
         },
         {
           "id": "5.2.1",
           "title": "Automated Healing",
           "content": [
+            "Allows for a more aggressive playstyle",
+            "Can also be used defensively to counterattack a flanker.\nReload first! Don’t get caught with low ammo during the short window of time when you want to be nonstop firing!"
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Rocket Boots",
+          "content": [
+            "Automated Healing",
             "Nice to have for some extra healing. May not feel game-changing because his cooldowns are so long, but the extra 120 can make the difference of life and death for an ally.",
             "Rocket Boots",
             "Strengthens Bap's biggest weakness",
@@ -10574,12 +11447,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Familiar Vitals",
           "content": [
+            "Familiar Vitals",
             "“Pulsar Torpedoes lock onto allies 35% faster.”",
             "Save low HP allies",
             "The only weakness of \nPulsar Torpedoes\n is the time it takes to lock on, then the slow travel speed of the projectile. Teammates sometimes die before the healing arrives. 35% increase for only healing Torpedoes may not sound like a lot, but in critical moments it means the difference between life and death for \nJuno\n's allies.",
@@ -10590,11 +11464,31 @@
           ]
         },
         {
-          "id": "5.2",
-          "title": "Major Perks",
+          "id": "5.1.2",
+          "title": "Locked On",
           "content": [
-            "Lift Off",
             "Extra verticality",
+            "The extra 3rd jump can be use at any time, including during \nGlide Boost\n. This allows \nJuno\n to reach new heights and access some high ground that is normally just above her reach.\nGood for hopping above a wall to fire \nPulsar Torpedoes\n, and for escaping from close-range enemies who lack vertical mobility.",
+            "Counter Perk",
+            "Against melee, and close-range enemies, \nLift Off\n can be the better Major Perk to choose, because it will help \nJuno\n keep distance from her attackers.",
+            "Faster Blaster",
+            "Burst value",
+            "When picking this Perk, you gain ~30% fire rate increase during \nGlide Boost\n. \nThat gives you the option for both burst damage and burst healing.\nGood for dueling."
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Faster Blaster",
+          "content": []
+        },
+        {
+          "id": "5.2.2",
+          "title": "Lift Off",
+          "content": [
             "The extra 3rd jump can be use at any time, including during \nGlide Boost\n. This allows \nJuno\n to reach new heights and access some high ground that is normally just above her reach.\nGood for hopping above a wall to fire \nPulsar Torpedoes\n, and for escaping from close-range enemies who lack vertical mobility.",
             "Counter Perk",
             "Against melee, and close-range enemies, \nLift Off\n can be the better Major Perk to choose, because it will help \nJuno\n keep distance from her attackers.",
@@ -10850,17 +11744,23 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Angelic Resurrection",
           "content": [
+            "Angelic Resurrection",
             "Considering how impactful Resurrect is, but also how vulnerable \nMercy\n becomes during it, the Overhealth can be the difference between a won and lost game.",
             "Divine Momentum",
             "Counter dive",
             "Against teams that are running dive comps or have people constantly flanking and targeting you, the extra distance \nMercy\n travels by bunny hopping or crouch jumping can be your only means of survival"
           ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Divine Momentum",
+          "content": []
         },
         {
           "id": "5.2",
@@ -10870,6 +11770,7 @@
           "id": "5.2.1",
           "title": "Chain Boost",
           "content": [
+            "Chain Boost",
             "Good in poke and brawl",
             "First off, you need two allies to be playing near each other most of the game. Secondly, you want both of those heroes to have kits that benefit from damage boost.\nIf your team is running two ranged heroes, \nChain Boost\n is great for increasing their pressure and threat.\nWhen your team is running a brawl comp, \nChain Boost\n makes their deathball more lethal and helps them run over the enemy more aggressively."
           ]
@@ -10878,6 +11779,7 @@
           "id": "5.2.2",
           "title": "Flash Heal",
           "content": [
+            "Flash Heal",
             "Wait for your target to be below half health.",
             "Never waste the 15-second cooldown on the base 50 healing. Always wait to get the triple healing on low HP allies.",
             "More time to damage boost",
@@ -11129,8 +12031,9 @@
         },
         {
           "id": "5.1.1",
-          "title": "Ascendance",
+          "title": "Discordant Repair",
           "content": [
+            "Ascendance",
             "New positioning possibilities",
             "Instead of just increasing one of \nZenyatta\n's abilities, Ascendance gives him a completely new power that opens up a lot of new playmaking opportunities.",
             "Hover between high ground",
@@ -11142,6 +12045,11 @@
           ]
         },
         {
+          "id": "5.1.2",
+          "title": "Ascendance",
+          "content": []
+        },
+        {
           "id": "5.2",
           "title": "Major Perks"
         },
@@ -11149,6 +12057,7 @@
           "id": "5.2.1",
           "title": "Focused Destruction",
           "content": [
+            "Focused Destruction",
             "Increased offensive threat",
             "One-shot 300HP heroes",
             "Normally, a fully charged volley will kill the standard 250 HP hero. With \nFocused Destruction\n, \nZenyatta\n now eliminates all heroes up to 300HP like Mei and Reaper.",
@@ -11157,6 +12066,11 @@
             "Recommended Major Perk",
             "The net gain is +40% healing which translates to faster ultimate charging. Moreover, keeping two allies with sustain is a lot stronger than a bit more healing on a single target."
           ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Dual Harmony",
+          "content": []
         },
         {
           "id": "6",
@@ -11196,7 +12110,9 @@
           "title": "How to Counter",
           "content": [
             "The thing every hero needs to do against Zen is cleanse his \nOrb of Discord\n by breaking LoS. If you are someone who needs to push up: walk in, get discorded, briefly retreat to clear the mark, then push up for real. If you are a ranged hero sitting back, just hide for a second before peeking again.",
-            "For specific counters, \nZarya\n's \nParticle Barrier\n cleanses discord, and any hero with the mobility to dive Zen can quickly take him out early if they can get close."
+            "For specific counters, \nZarya\n's \nParticle Barrier\n cleanses discord, and any hero with the mobility to dive Zen can quickly take him out early if they can get close.",
+            "Zenyatta",
+            "Orb of Discord"
           ]
         },
         {
@@ -11423,9 +12339,12 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Combat Medic",
           "content": [
-            "Combat Medic",
             "Recommended Minor Perk",
             "Keep an eye on your \nRepair Pack\n cooldowns when brawling. Try to not let it sit at 3 packs when you have the opportunity to swing on the enemy so that you can maximize the benefit and extra healing output.",
             "Good when the team needs extra healing",
@@ -11433,9 +12352,10 @@
           ]
         },
         {
-          "id": "5.1.1",
+          "id": "5.1.2",
           "title": "Morale Boost",
           "content": [
+            "Morale Boost",
             "Pick when struggling to keep Inspire up.",
             "Whip Shot and Inspire",
             "Inspire lasts four seconds, and \nWhip Shot\n is a four-second cooldown. Therefore, if you land two Whip Shots in a row, you won’t even be benefiting from Morale Boost.\nIf you find your Inspire uptime is low or are struggling to find consistent opportunities to proc Inspire, Morale Boost can be a good choice."
@@ -11443,18 +12363,22 @@
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Inspiring Strike",
           "content": [
-            "Inspiring Strike",
             "Bash movement is one of the most important tools Brig has in her arsenal. Gaining even movement speed buff just makes it that much stronger.",
             "Increased aggression",
             "Brig can be more aggressive with her positiong when using \nInspiring Strike\n because she can dive and rush down enemies faster, and disengage faster as well. \nThe instant Inspire healing also makes her tankier in duels."
           ]
         },
         {
-          "id": "5.2.1",
+          "id": "5.2.2",
           "title": "Whiplash",
           "content": [
+            "Whiplash",
             "Situational, but clutch",
             "You won’t be benefiting from wall damage every time you \nWhip Shot\n, but when you do, the extra damage can secure kills or create the pressure needed to win the fight.",
             "Best on enclosed maps",
@@ -11698,11 +12622,17 @@
           "id": "5.1.1",
           "title": "Steamroller",
           "content": [
+            "Steamroller",
             "Not very impactful as an extra 60 damage on Tanks isn’t making a notable difference. Also, Tanks should not be your main target.",
             "Multi-Ball",
             "Extra area denial and counterplay to escapes. For example, if you try to slam and drop mines on a \nMoira\n but they Fade away, chase them, then drop the additional mines to trap them for a kill.",
             "Even better when you save \nGrappling Claw\n for after your Ult. Use high ground to roll in instead of swinging so you can immediately chase."
           ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Multi-Ball",
+          "content": []
         },
         {
           "id": "5.2",
@@ -11712,10 +12642,16 @@
           "id": "5.2.1",
           "title": "Hang Time",
           "content": [
+            "Hang Time",
             "Good against squishy heroes with poor mobility like \nZenyatta\n or \nHanzo\n.",
             "Adaptive Barrier",
             "Very strong as it gives you direct counterplay against crowd control, such as \nRoadhog\n \nChain Hook\n and \nAna\n's \nSleep Dart\n."
           ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Adaptive Barrier",
+          "content": []
         },
         {
           "id": "6",
@@ -11948,11 +12884,17 @@
           "id": "5.1.1",
           "title": "Void Surge",
           "content": [
+            "Void Surge",
             "Strengthen Ram’s weakness",
             "The extra burst damage has more impact than it seems on paper. Also, compared to Prolonged Barrier, \nVoid Barrier (Omnic Form)\n never breaks, and an extra second will rarely make a game-changing difference.\nBetter damage in Omnic Form allows Ram to be more of a threat while waiting for \nNemesis Form\n.",
             "Relentless Form",
             "Most of Ram's value is generated while in \nNemesis Form\n. Being able to extend the duration is really good. You won't always be able to get an elimination, but when you do, this is a very impactful buff."
           ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Relentless Form",
+          "content": []
         },
         {
           "id": "5.2",
@@ -11962,6 +12904,7 @@
           "id": "5.2.1",
           "title": "Nanite Repair",
           "content": [
+            "Nanite Repair",
             "Bit of extra sustain",
             "When inside Vortex for the full duration, Ram will heal for 150 health.\nHelpful when brawling because you can throw Vortex at your feet, and stay inside while Pummeling the enemy \nTank\n."
           ]
@@ -11970,6 +12913,7 @@
           "id": "5.2.2",
           "title": "Vengeful Vortex",
           "content": [
+            "Vengeful Vortex",
             "Better for poke",
             "Being able to detonate Vortex in the air makes it easy to catch distant enemies without needing to hit a perfect placement. The 50 detonation damage also helps increase your poke lethality.",
             "Better rush downs",
@@ -12317,21 +13261,37 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Drift Thrusters",
           "content": [
-            "Drift Thrusters",
-            "Pretty much the only way you can expect to survive using your own ult. While the movement may not look like much, this perk has proven very effective at making Barrage more successful.",
-            "Helix Shields",
+            "Pretty much the only way you can expect to survive using your own ult. While the movement may not look like much, this perk has proven very effective at making Barrage more successful."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Helix Shields",
+          "content": [
             "Good self-sustain. Best when you are not able to get consistent healing from your Supports."
           ]
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Fuel Stores",
           "content": [
-            "Fuel Stores",
-            "Allows Pharah to stay in the sky for longer. Best on maps with lots of vertical cover like Watchpoint Gibraltar.",
-            "Rocket Salvo",
+            "Allows Pharah to stay in the sky for longer. Best on maps with lots of vertical cover like Watchpoint Gibraltar."
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Rocket Salvo",
+          "content": [
             "Considering Pharah has two movement abilities, you get to activate the mini-rockets pretty often. Good for extra damage and better AoE.",
             "New total on direct hit is 200"
           ]
@@ -12636,6 +13596,7 @@
           "id": "5.1.1",
           "title": "Encrypted Upload",
           "content": [
+            "Encrypted Upload",
             "Extra sneaky",
             "Use the extra stealth to Hack an enemy, then reposition when they try and turn to attack you. Only commit to revealing yourself with your attack once they're disoriented trying to find you.",
             "Infinite Invisibility",
@@ -12646,24 +13607,29 @@
           "id": "5.1.2",
           "title": "CTRL ALT ESC",
           "content": [
+            "CTRL ALT ESC",
             "Situational",
             "Most of the time, you are engaging with Translocator, so you already have full health, or you’re getting away from the enemy so you’re not in danger of dying. Therefore, you won’t need the self-healing too often.\nMoreover, you can just wait for the universal healing passive to kick in for a similar effect.\nDoes decrease down time between engages."
           ]
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "High-Speed Bandwidth",
           "content": [
-            "High-Speed Bandwidth",
             "Decent when paired with flankers who frequently use health packs like \nTracer\n and \nWrecking Ball\n.",
             "Come in clutch in the niche situation of dueling near a health pack.",
             "Often people grab health packs out of combat, so the impact is low."
           ]
         },
         {
-          "id": "5.2.1",
+          "id": "5.2.2",
           "title": "Viral Replication",
           "content": [
+            "Viral Replication",
             "More ult charge",
             "Although not as free or consistent, you can deal high amounts of AoE damage through Viral Replication, which also results in faster EMPs.\nEspecially good against closely grouped team comps like brawl comps.",
             "More lethal ultimates",
@@ -12894,21 +13860,37 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks",
+          "title": "Minor Perks"
+        },
+        {
+          "id": "5.1.1",
+          "title": "Destruction's Divide",
           "content": [
-            "Destruction's Divide",
-            "Good for optimizing her Ult’s purpose. Especially if you like to dive in and use \nCoalescence\noffensively.",
-            "Ethical Nourishment",
+            "Good for optimizing her Ult’s purpose. Especially if you like to dive in and use \nCoalescence\noffensively."
+          ]
+        },
+        {
+          "id": "5.1.2",
+          "title": "Ethical Nourishment",
+          "content": [
             "Amazing for giving \nMoira\n burst healing. Much more consistent value than Destruction’s Divide."
           ]
         },
         {
           "id": "5.2",
-          "title": "Major Perks",
+          "title": "Major Perks"
+        },
+        {
+          "id": "5.2.1",
+          "title": "Reversal",
           "content": [
-            "Reversal",
-            "Gives you control over orbs. Use this to keep enemies attached and damage, or give your allies healing for longer.",
-            "Phantom Step",
+            "Gives you control over orbs. Use this to keep enemies attached and damage, or give your allies healing for longer."
+          ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "Phantom Step",
+          "content": [
             "Good mobility. Best against dive comps to give you better escapes.",
             "Also enables more aggressive dive playtsyle for yourself since you have better access to high ground areas."
           ]
@@ -13206,12 +14188,13 @@
         },
         {
           "id": "5.1",
-          "title": "Minor Perks"
+          "title": "Minor Perks"
         },
         {
           "id": "5.1.1",
           "title": "Petal Protection",
           "content": [
+            "Petal Protection",
             "A bit of extra Sustain, and ult charge.",
             "Lifeweaver\n can use the healing himself, which is especially good when petal dancing to avoid an attacker.",
             "Dashing Escape",
@@ -13222,21 +14205,28 @@
           ]
         },
         {
+          "id": "5.1.2",
+          "title": "Dashing Escape",
+          "content": []
+        },
+        {
           "id": "5.2",
           "title": "Major Perks"
         },
         {
           "id": "5.2.1",
-          "title": "Sow the Seed",
+          "title": "Superbloom",
           "content": [
+            "Sow the Seed",
             "Best for rush and brawl allies, as they get a lot of milage from movement buff and a burst of overhealth.",
             "Throw the seed in front of where your teammate is going, so they can pick it up as they chase the enemy."
           ]
         },
         {
           "id": "5.2.2",
-          "title": "Superbloom",
+          "title": "Sow the Seed",
           "content": [
+            "Superbloom",
             "The math",
             "In 2.5 seconds, \nLifeweaver\n will fire 55 thorns, and you need to land 16 of those to trigger the detonation.\nYou miss ~1/3 of your shots and still trigger \nSuperbloom\n.",
             "Self defense",
@@ -13294,7 +14284,9 @@
           "title": "Specific Hero Counters",
           "content": [
             "All dive heroes like \nD.Va\n, \nWrecking Ball\n, \nEcho\n \nGenji\n, \nJetpack Cat\nSombra\n, etc. excel at diving \nLifeweaver\n, chasing his dash, going up to \nPetal Platform\n.",
-            "Ana\n: Nade and \nSleep Dart\n are up twice as often as Life Grip. Force Cleansing Grasp Minor over Life Cycle. All LW does is heal, anti-nade shuts him down."
+            "Ana\n: Nade and \nSleep Dart\n are up twice as often as Life Grip. Force Cleansing Grasp Minor over Life Cycle. All LW does is heal, anti-nade shuts him down.",
+            "Lifeweaver",
+            "Petal Platform"
           ]
         },
         {

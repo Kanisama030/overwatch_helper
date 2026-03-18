@@ -43,13 +43,14 @@ def build_maps_index(mapping):
 
 def build_heroes_index(mapping, master):
     """產生 heroes_index.json，從 mapping 取 id，從 master 取 tier/default_stats"""
-    # 建立 master 英雄名稱（小寫）->資料 的查找表
-    master_by_name = {h["name"].lower(): h for h in master.get("heroes", [])}
+    # 建立 master 英雄 id（小寫）->資料 的查找表
+    master_by_id = {str(h.get("name", "")).lower(): h for h in master.get("heroes", [])}
 
     result = []
     for hero_map in mapping.get("heroes", []):
+        hero_id = hero_map.get("id", "")
         en_name = hero_map.get("en", "")
-        master_hero = master_by_name.get(en_name.lower())
+        master_hero = master_by_id.get(str(hero_id).lower())
 
         tier = None
         default_win_rate = None
@@ -66,7 +67,7 @@ def build_heroes_index(mapping, master):
         role = raw_role.title() if raw_role else raw_role
 
         result.append({
-            "id": hero_map.get("id"),
+            "id": hero_id,
             "en": en_name,
             "zh": hero_map.get("zh"),
             "role": role,
@@ -107,6 +108,9 @@ def _find_map_mentions(text, maps_list):
 def build_hero_map_recommendations(master, mapping):
     """產生 hero_map_recommendations.json"""
     maps_list = mapping.get("maps", [])
+    map_heroes = mapping.get("heroes", [])
+    mapping_ids = {str(h.get("id", "")).lower() for h in map_heroes}
+    en_to_id = {str(h.get("en", "")).lower(): h.get("id", "") for h in map_heroes}
     result = {}
 
     for hero in master.get("heroes", []):
@@ -149,13 +153,10 @@ def build_hero_map_recommendations(master, mapping):
                 # 從 best_maps 移除同時在 worst_maps 的項目
                 best_maps = [m for m in best_maps if m not in worst_maps]
 
-        # 若 hero_name 中有符合 mapping id 的英雄，使用 mapping id
-        hero_key = hero_name.lower().replace(" ", "-").replace(":", "").replace(".", "")
-        # 嘗試從 mapping 找正確 id
-        for hm in mapping.get("heroes", []):
-            if hm.get("en", "").lower() == hero_name.lower():
-                hero_key = hm.get("id", hero_key)
-                break
+        # name 已改為 id；若遇舊資料再回退 en->id
+        hero_key = hero_name.lower()
+        if hero_key not in mapping_ids:
+            hero_key = en_to_id.get(hero_name.lower(), hero_key)
 
         result[hero_key] = {
             "best_maps": best_maps,
@@ -168,7 +169,10 @@ def build_hero_map_recommendations(master, mapping):
 
 def build_counter_index(master, mapping):
     """產生 counter_index.json"""
-    hero_names_en = [h.get("en", "") for h in mapping.get("heroes", [])]
+    map_heroes = mapping.get("heroes", [])
+    hero_names_en = [h.get("en", "") for h in map_heroes]
+    mapping_ids = {str(h.get("id", "")).lower() for h in map_heroes}
+    en_to_id = {str(h.get("en", "")).lower(): h.get("id", "") for h in map_heroes}
     result = {}
 
     for hero in master.get("heroes", []):
@@ -195,12 +199,10 @@ def build_counter_index(master, mapping):
                 if re.search(re.escape(en_name), full_text, re.IGNORECASE):
                     countered_by_mentions.append(en_name)
 
-        # 取英雄 key（優先用 mapping id）
+        # name 已改為 id；若遇舊資料再回退 en->id
         hero_key = hero_name.lower()
-        for hm in mapping.get("heroes", []):
-            if hm.get("en", "").lower() == hero_name.lower():
-                hero_key = hm.get("id", hero_key)
-                break
+        if hero_key not in mapping_ids:
+            hero_key = en_to_id.get(hero_name.lower(), hero_key)
 
         result[hero_key] = {
             "play_against_summary": play_against_summary,
