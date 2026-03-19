@@ -25,11 +25,16 @@ function StrategyTab({ hero }: { hero: HeroSummary }) {
   const playAsMarkdown = toMarkdown(hero.counter_data.play_as || []);
   const mapSuggestionMarkdown = (hero.map_recommendations.maps_summary || '').trim();
   const teamCompMarkdown = toMarkdown(hero.counter_data.team_comp_synergies || []);
-  const strengthsSummaryMarkdown = toMarkdown(hero.counter_data.strengths_weaknesses_summarized || []);
+  const strengthsSummaryItems = (hero.counter_data.strengths_weaknesses_summarized || [])
+    .map(item => item.replace(/^\s*[*•-]\s*/, '').trim())
+    .filter(Boolean);
   const explained = hero.counter_data.strengths_weaknesses_explained;
   const explainedOverviewMarkdown = toMarkdown(explained?.overview || []);
-  const explainedStrengths = explained?.strengths || [];
-  const explainedWeaknesses = explained?.weaknesses || [];
+  const explainedStrengths = (explained?.strengths || []).filter(item => item.title.trim().toLowerCase() !== 'strengths');
+  const explainedWeaknesses = (explained?.weaknesses || []).filter(item => item.title.trim().toLowerCase() !== 'weaknesses');
+  const heroAnalysisTextClass = 'text-base leading-relaxed text-white mb-3 last:mb-0';
+  const heroAnalysisListItemClass = 'text-base leading-relaxed text-gray-200';
+  const heroAnalysisImageClass = 'inline-block align-text-bottom w-6 h-6 md:w-7 md:h-7 mx-1 my-0 rounded-sm border border-white/10 object-contain transition-transform duration-200 hover:scale-[2.6] hover:z-10 relative cursor-zoom-in';
 
   const minorPerks = hero.perks?.minor || [];
   const majorPerks = hero.perks?.major || [];
@@ -49,9 +54,14 @@ function StrategyTab({ hero }: { hero: HeroSummary }) {
       <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
         <div className="flex items-center gap-2 mb-3">
           <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>{icon}</span>
-          <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>{title}</span>
+          <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>{title}</span>
         </div>
-        <MarkdownContent content={markdown} />
+        <MarkdownContent
+          content={markdown}
+          textClassName={heroAnalysisTextClass}
+          listItemClassName={heroAnalysisListItemClass}
+          imageClassName={heroAnalysisImageClass}
+        />
       </div>
     );
   };
@@ -62,7 +72,7 @@ function StrategyTab({ hero }: { hero: HeroSummary }) {
         <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
           <div className="flex items-center gap-2 mb-4">
             <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>star</span>
-            <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>Perks</span>
+            <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>Perks</span>
           </div>
           <div className="space-y-3">
             {allPerks.map((perk, i) => {
@@ -88,7 +98,7 @@ function StrategyTab({ hero }: { hero: HeroSummary }) {
                             Recommended
                           </span>
                         )}
-                        <h5 className="text-sm font-bold truncate" style={{ color: '#f27f0d' }}>{perk.title}</h5>
+                        <h5 className="text-base font-bold truncate" style={{ color: '#f27f0d' }}>{perk.title}</h5>
                       </div>
                       {recommendedReason && (
                         <p className="text-xs mt-1 font-bold" style={{ color: '#22c55e' }}>{recommendedReason}</p>
@@ -100,7 +110,12 @@ function StrategyTab({ hero }: { hero: HeroSummary }) {
                   </button>
                   {isExpanded && perkMarkdown && (
                     <div className="px-3 md:px-4 pb-4 pt-0">
-                      <MarkdownContent content={perkMarkdown} />
+                      <MarkdownContent
+                        content={perkMarkdown}
+                        textClassName={heroAnalysisTextClass}
+                        listItemClassName={heroAnalysisListItemClass}
+                        imageClassName={heroAnalysisImageClass}
+                      />
                     </div>
                   )}
                 </div>
@@ -124,22 +139,53 @@ function StrategyTab({ hero }: { hero: HeroSummary }) {
       {renderCard('TLDR', 'auto_awesome', playAsMarkdown)}
       {renderCard('Map Suggestion', 'map', mapSuggestionMarkdown)}
       {renderCard('Team Comp Synergies', 'groups', teamCompMarkdown)}
-      {renderCard('Strengths And Weaknesses Summarized', 'summarize', strengthsSummaryMarkdown)}
+      {strengthsSummaryItems.length > 0 && (
+        <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
+          <div className="flex items-center gap-2 mb-3">
+            <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>summarize</span>
+            <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>Strengths And Weaknesses Summarized</span>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2">
+            {strengthsSummaryItems.map((item, idx) => (
+              <div
+                key={`${item}-${idx}`}
+                className="rounded p-3 text-center text-lg font-bold leading-tight"
+                style={{ border: '1px solid rgba(242,127,13,0.2)', backgroundColor: 'rgba(242,127,13,0.08)', color: '#e5e7eb' }}
+              >
+                {item}
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
 
       {(explainedOverviewMarkdown || explainedStrengths.length > 0 || explainedWeaknesses.length > 0) && (
         <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
           <div className="flex items-center gap-2 mb-3">
             <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>insights</span>
-            <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>Strengths And Weaknesses Explained</span>
+            <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>Strengths And Weaknesses Explained</span>
           </div>
-          {explainedOverviewMarkdown && <MarkdownContent content={explainedOverviewMarkdown} className="mb-3" />}
+          {explainedOverviewMarkdown && (
+            <MarkdownContent
+              content={explainedOverviewMarkdown}
+              className="mb-3"
+              textClassName={heroAnalysisTextClass}
+              listItemClassName={heroAnalysisListItemClass}
+              imageClassName={heroAnalysisImageClass}
+            />
+          )}
           {explainedStrengths.length > 0 && (
             <div className="space-y-3 mb-4">
               <p className="text-xs font-black uppercase tracking-widest" style={{ color: '#22c55e' }}>Strengths</p>
               {explainedStrengths.map(item => (
                 <div key={item.id} className="rounded p-3" style={{ border: '1px solid rgba(34,197,94,0.25)', backgroundColor: 'rgba(34,197,94,0.08)' }}>
-                  {item.title && <p className="text-sm font-bold mb-2 text-white">{item.title}</p>}
-                  <MarkdownContent content={toMarkdown(item.content)} />
+                  {item.title && <p className="text-lg font-bold mb-2 text-white">{item.title}</p>}
+                  <MarkdownContent
+                    content={toMarkdown(item.content)}
+                    textClassName={heroAnalysisTextClass}
+                    listItemClassName={heroAnalysisListItemClass}
+                    imageClassName={heroAnalysisImageClass}
+                  />
                 </div>
               ))}
             </div>
@@ -149,8 +195,13 @@ function StrategyTab({ hero }: { hero: HeroSummary }) {
               <p className="text-xs font-black uppercase tracking-widest" style={{ color: '#ef4444' }}>Weaknesses</p>
               {explainedWeaknesses.map(item => (
                 <div key={item.id} className="rounded p-3" style={{ border: '1px solid rgba(239,68,68,0.25)', backgroundColor: 'rgba(239,68,68,0.08)' }}>
-                  {item.title && <p className="text-sm font-bold mb-2 text-white">{item.title}</p>}
-                  <MarkdownContent content={toMarkdown(item.content)} />
+                  {item.title && <p className="text-lg font-bold mb-2 text-white">{item.title}</p>}
+                  <MarkdownContent
+                    content={toMarkdown(item.content)}
+                    textClassName={heroAnalysisTextClass}
+                    listItemClassName={heroAnalysisListItemClass}
+                    imageClassName={heroAnalysisImageClass}
+                  />
                 </div>
               ))}
             </div>
