@@ -63,8 +63,85 @@ npm run build
 
 ```bash
 # 執行爬蟲 + 整合 + 衍生資料（需 conda 環境）
+# 預設使用 Cloudflare Markdown 方法抓 Mobalytics
 conda run -n overwatch python scripts/update.py
 ```
+
+### Cloudflare 設定（Mobalytics 新方法）
+
+```bash
+set CLOUDFLARE_ACCOUNT_ID=你的_account_id
+set CLOUDFLARE_API_TOKEN=你的_api_token
+```
+
+### 切回舊方法（Playwright）
+
+```bash
+conda run -n overwatch python scripts/update.py --mobalytics-method playwright
+```
+
+### 只測單一英雄（Smoke Test）
+
+```bash
+conda run -n overwatch python scripts/update.py --mobalytics-smoke-hero roadhog
+```
+
+### Markdown 留存位置
+
+Mobalytics 原始 markdown 會留存於 `data/raw/mobalytics_markdown/`。
+
+## 資料格式
+
+主要資料檔為 `data/overwatch_master.json`，頂層結構如下：
+
+```json
+{
+  "heroes": [
+    {
+      "Hero": "ana",
+      "Tier": "A",
+      "Guide": [
+        { "id": "1", "title": "...", "content": ["..."] }
+      ]
+    }
+  ],
+  "meta_commentary": [
+    { "category": "Tank Commentary", "heros": [...] }
+  ]
+}
+```
+
+### 欄位說明
+
+- `heroes`: 英雄資料陣列（每位英雄一筆）
+- `Hero`: 英雄 id（對應 `data/overwatch_mapping.json`）
+- `Tier`: 來自 tier list 的分級（如 `S/A/B/C/D`）
+- `Guide`: 由 Mobalytics 英雄頁 markdown 轉換後的章節陣列
+- `meta_commentary`: 來自 tier list 文章的分組評論內容
+
+### Guide 章節編號規則
+
+- `id` 採階層編號：`6`、`6.1`、`6.1.1`（代表章節、子章節、子項）
+- 常見主章節：
+  - `1` Hero Overview
+  - `2` Abilities
+  - `3` Matchups
+  - `4` Hero Playstyle
+  - `5` Perks
+  - `6` Maps
+  - `7` Team Comp Synergies
+  - `8` Hero Counters
+
+### Maps（6）正規化規則
+
+- 固定保留：
+  - `6`: `Maps`
+  - `6.1`: `Best Maps`
+  - `6.2`: `Worst Maps`
+- 若來源只有清單（如 `* Havana`），會展平成 `6.1.x` / `6.2.x` 子項，`title` 為地圖名。
+- 若清單項目含說明，說明會掛在對應地圖子項的 `content`。
+- 若無說明，子項維持 `content: []`。
+- 某些英雄可能只有 `6` 或只有 `6.1`/`6.2`，屬於來源資料正常情況。
 
 ---
 
