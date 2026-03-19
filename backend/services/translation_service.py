@@ -20,7 +20,7 @@ class TranslationService:
         self.model_name = model_name
         self.glossary_service = glossary_service
         self.cache_service = cache_service
-        self.prompt_version = "v1"  # prompt 版本，變更時觸發重翻
+        self.prompt_version = "v2"  # prompt 版本，變更時觸發重翻
         
         # 設定 Gemini API
         genai.configure(api_key=api_key)
@@ -76,11 +76,12 @@ class TranslationService:
 {glossary_text}
 
 ## 翻譯規則
-1. **專有名詞**：英雄名稱、地圖名稱、模式名稱必須使用上方對照表，不可自行翻譯。
-2. **技能與能力**：保留英文原名，首次出現時可加註中文說明。
-3. **語氣**：維持專業、清晰的遊戲攻略風格。
-4. **格式**：保留原有的列表、段落結構。
-5. **圖片連結**：保持原樣不翻譯（以 ![]() 開頭的）。
+1. **專有名詞（有對照表）**：英雄名稱、地圖名稱、模式名稱必須使用上方對照表，不可自行翻譯。
+2. **專有名詞（無對照表）**：僅針對未定義的專有名詞（例如 ability 名稱、perk 名稱），統一使用「中文（英文）」格式，中文在前、英文括號在後（例如：湧泉（Wellspring））。
+3. **格式一致性**：不要輸出「英文（中文）」或只留英文；同一名詞在同一 section 內需維持一致寫法。
+4. **語氣**：維持專業、清晰的遊戲攻略風格。
+5. **格式**：保留原有的列表、段落結構。
+6. **圖片連結**：保持原樣不翻譯（以 ![]() 開頭的）。
 
 ## 待翻譯內容
 
@@ -184,7 +185,7 @@ Content:
             return None
         
         # 寫入快取
-        translated_title = translated.get("title", title)
+        translated_title = translated.get("title", section.get("title", ""))
         translated_content = translated.get("content", [])
         self.cache_service.set(
             hero_id=hero_id,

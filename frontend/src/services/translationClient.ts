@@ -4,6 +4,7 @@
  */
 
 const API_BASE_URL = 'http://127.0.0.1:8888';
+const CACHE_SCHEMA_VERSION = 'v2';
 
 interface TranslationSection {
   title?: string;
@@ -34,7 +35,7 @@ interface CacheEntry {
  * localStorage 快取鍵
  */
 function getCacheKey(heroId: string, locale: string): string {
-  return `ow_i18n_${heroId}_${locale}`;
+  return `ow_i18n_${CACHE_SCHEMA_VERSION}_${heroId}_${locale}`;
 }
 
 /**

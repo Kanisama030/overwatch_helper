@@ -346,7 +346,7 @@ def _normalize_perk_sections(sections, hero_id, perk_lookup):
 
     def split_first_content_by_second_title(first_section, second_section, second_name):
         first_content = list(first_section.get("content", []) or [])
-        if not first_content or second_section.get("content"):
+        if not first_content:
             return
         marker_idx = None
         second_norm = _normalize_lookup_key(second_name)
@@ -356,8 +356,49 @@ def _normalize_perk_sections(sections, hero_id, perk_lookup):
                 marker_idx = idx
                 break
         if marker_idx is not None:
-            second_section["content"] = first_content[marker_idx + 1:]
+            if not second_section.get("content"):
+                second_section["content"] = first_content[marker_idx + 1:]
             first_section["content"] = first_content[:marker_idx]
+
+    def normalize_content_lines(lines):
+        normalized = []
+        for line in list(lines or []):
+            text = str(line).strip()
+            if not text:
+                continue
+            if text not in normalized:
+                normalized.append(text)
+        return normalized
+
+    def content_signature(lines):
+        normalized = normalize_content_lines(lines)
+        if not normalized:
+            return ""
+        return "\n".join(normalized).strip().lower()
+
+    def title_matches(raw_title, expected_name):
+        return _normalize_lookup_key(raw_title) == _normalize_lookup_key(expected_name)
+
+    def raw_content_by_title(expected_name, candidate_ids):
+        expected_norm = _normalize_lookup_key(expected_name)
+        if not expected_norm:
+            return []
+        for sid in candidate_ids:
+            raw_title_norm = _normalize_lookup_key(raw_titles.get(sid, ""))
+            if raw_title_norm == expected_norm:
+                return normalize_content_lines(raw_contents.get(sid, []))
+        return []
+
+    def split_content_by_title_marker(lines, marker_title):
+        normalized_lines = normalize_content_lines(lines)
+        marker_norm = _normalize_lookup_key(marker_title)
+        if not marker_norm:
+            return normalized_lines, []
+        for idx, line in enumerate(normalized_lines):
+            normalized = _normalize_lookup_key(str(line).replace("*", " ").replace("_", " "))
+            if normalized == marker_norm:
+                return normalized_lines[:idx], normalized_lines[idx + 1:]
+        return normalized_lines, []
 
     if mapped_perks:
         perk_targets["5.1.1"]["title"] = mapped_perks["minor"][0]
@@ -462,19 +503,91 @@ def _normalize_perk_sections(sections, hero_id, perk_lookup):
                     major_first["content"] = parent_content[idx1 + 1:idx2]
                 major_second["content"] = parent_content[idx2 + 1:]
 
-        # 最終保底：同分支若其中一個空，借用另一個內容避免空陣列
-        if not minor_first.get("content") and minor_second.get("content"):
-            minor_first["content"] = list(minor_second.get("content", []))
-        if not minor_second.get("content") and minor_first.get("content"):
-            minor_second["content"] = list(minor_first.get("content", []))
-        if not major_first.get("content") and major_second.get("content"):
-            major_first["content"] = list(major_second.get("content", []))
-        if not major_second.get("content") and major_first.get("content"):
-            major_second["content"] = list(major_first.get("content", []))
+        # 最終修正：避免同英雄內 perk 內容重複，並對缺失內容補上 no guide provided
+        for branch, first_name, second_name, first_id, second_id in [
+            ("5.1", minor_first_name, minor_second_name, "5.1.1", "5.1.2"),
+            ("5.2", major_first_name, major_second_name, "5.2.1", "5.2.2"),
+        ]:
+            first_section = perk_targets[first_id]
+            second_section = perk_targets[second_id]
+            first_section["content"] = normalize_content_lines(first_section.get("content", []))
+            second_section["content"] = normalize_content_lines(second_section.get("content", []))
+
+            first_direct = raw_content_by_title(first_name, [first_id, second_id])
+            second_direct = raw_content_by_title(second_name, [first_id, second_id])
+            parent_first, parent_second = split_parent_by_titles(
+                raw_parent_contents.get(branch, []), first_name, second_name
+            )
+            parent_first = normalize_content_lines(parent_first)
+            parent_second = normalize_content_lines(parent_second)
+            parent_all = normalize_content_lines(raw_parent_contents.get(branch, []))
+
+            # 有些頁面會把第一個 perk 用同層標題（如 5.3）寫在 parent content，且沒有插入第二個 perk 標題字串。
+            # 此時 split_parent_by_titles 會拿不到切分點，改用 direct 命中結果推斷要把 parent 全段補給哪一側。
+            if parent_all and not parent_first and not parent_second:
+                if not first_direct and second_direct:
+                    parent_first = list(parent_all)
+                elif first_direct and not second_direct:
+                    parent_second = list(parent_all)
+                elif not first_direct and not second_direct:
+                    parent_first = list(parent_all)
+
+            first_direct, first_spill = split_content_by_title_marker(first_direct, second_name)
+            if first_spill and not second_direct:
+                second_direct = first_spill
+            parent_first, parent_spill = split_content_by_title_marker(parent_first, second_name)
+            if parent_spill and not parent_second:
+                parent_second = parent_spill
+
+            # 原始 section title 與預期 perk 名稱不符時，視為錯置內容，避免跨分支誤塞。
+            raw_first_title = raw_titles.get(first_id, "")
+            raw_second_title = raw_titles.get(second_id, "")
+            if (
+                not first_direct
+                and raw_first_title
+                and not title_matches(raw_first_title, first_name)
+            ):
+                first_section["content"] = []
+            if (
+                not second_direct
+                and raw_second_title
+                and not title_matches(raw_second_title, second_name)
+            ):
+                second_section["content"] = []
+
+            if first_direct:
+                first_section["content"] = first_direct
+            elif not first_section["content"] and parent_first:
+                first_section["content"] = parent_first
+
+            if second_direct:
+                second_section["content"] = second_direct
+            elif not second_section["content"] and parent_second:
+                second_section["content"] = parent_second
+
+            # 若兩個內容完全一樣，保留可被標題直接對應者，另一個視為缺失
+            first_sig = content_signature(first_section.get("content", []))
+            second_sig = content_signature(second_section.get("content", []))
+            if first_sig and second_sig and first_sig == second_sig:
+                if first_direct and not second_direct:
+                    second_section["content"] = []
+                elif second_direct and not first_direct:
+                    first_section["content"] = []
+
+            if not first_section.get("content"):
+                first_section["content"] = [
+                    "no guide provided",
+                    f"perk: {first_section.get('title', first_id)}",
+                ]
+            if not second_section.get("content"):
+                second_section["content"] = [
+                    "no guide provided",
+                    f"perk: {second_section.get('title', second_id)}",
+                ]
 
     perk_targets["5.1"].pop("content", None)
     perk_targets["5.2"].pop("content", None)
-    for sid in ["5", "5.1.1", "5.1.2", "5.2.1", "5.2.2"]:
+    for sid in ["5"]:
         if not perk_targets[sid].get("content"):
             perk_targets[sid].pop("content", None)
 

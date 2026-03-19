@@ -18,7 +18,13 @@
       "doomfist",
       "hazard",
       "winston",
-      "wrecking-ball"
+      "wrecking-ball",
+      "genji",
+      "reaper",
+      "tracer",
+      "venture",
+      "anran",
+      "vendetta"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)Domina pairs well with heroes who need a large shield to stand behind while spamming ranged damage. Heroes like ![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)Sojourn, ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe, and ![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)Baptiste share similar positioning strategies. Their poke pressure helps her control spacing and chip away at the enemy team's resources before they can fully approach. Since she lacks mobility, AoE and projectile healing provide the most consistent sustain."
@@ -433,8 +439,8 @@
     ],
     "specific_counters_81": [],
     "specific_counters_82": [
-      "cassidy",
       "ana",
+      "cassidy",
       "orisa"
     ],
     "team_comp_synergies": [
@@ -530,17 +536,17 @@
     ],
     "specific_counters_81": [],
     "specific_counters_82": [
+      "winston",
+      "dva",
       "genji",
       "tracer",
       "venture",
-      "winston",
       "doomfist",
+      "wrecking-ball",
       "reaper",
       "anran",
       "vendetta",
-      "dva",
-      "hazard",
-      "wrecking-ball"
+      "hazard"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)Sojourn DPS heroes in _Overwatch_. No matter what team composition she is paired with, she can find a way to provide value. There isn't really a team archetype that Sojourn simply will not work with."
@@ -1034,20 +1040,8 @@
     "specific_counters_82": [
       "doomfist",
       "ana",
-      "mauga",
-      "orisa",
-      "roadhog",
-      "zarya",
-      "genji",
-      "reaper",
-      "tracer",
-      "venture",
-      "anran",
-      "vendetta",
-      "baptiste",
-      "lucio",
-      "zenyatta",
-      "jetpack-cat"
+      "ramattra",
+      "vendetta"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)Winston doesn't have lethal burst damage on his own. If his target is receiving healing, he generally will not be able to get an elimination. Where Winston shines is disrupting backlines and creating openings for the rest of his team to follow up on his dives.",
@@ -1146,20 +1140,10 @@
     "specific_counters_81": [],
     "specific_counters_82": [
       "ana",
-      "orisa",
-      "dva",
-      "lifeweaver",
       "baptiste",
       "lucio",
       "zenyatta",
-      "jetpack-cat",
-      "doomfist",
-      "hazard",
-      "winston",
-      "wrecking-ball",
-      "kiriko",
-      "mercy",
-      "moira"
+      "jetpack-cat"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)Roadhog doesn't need much healing since he can heal himself more than any other hero. What he needs is allies who can fill the gaps in his kit. Heroes with long-range damage and those who can contest high ground for him make his life much easier.",
@@ -1364,12 +1348,7 @@
       "tracer",
       "venture",
       "anran",
-      "vendetta",
-      "dva",
-      "doomfist",
-      "hazard",
-      "winston",
-      "wrecking-ball"
+      "vendetta"
     ],
     "team_comp_synergies": [
       "Team comps built around ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe enable her sniper playstyle by creating space for her keep the enemy in her LoS. ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tanks with barriers can deploy them in front of her, allowing her to snipe her targets safely. Other DPS and ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)Supports assist ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe by keeping the enemy at a distance through CC or damage pressure. ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)Dynamite and ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. are equally important components of ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe's kit. Allies who help her stay in ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)Dynamite range enable ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe to farm ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. significantly faster and apply more pressure to the enemy backline. When ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe is free to hold angles, she takes over sight lines and destroys the enemy team.",
@@ -1678,12 +1657,12 @@
     "specific_counters_81": [],
     "specific_counters_82": [
       "pharah",
-      "echo",
       "widowmaker",
+      "hanzo",
       "ashe",
       "sojourn",
       "cassidy",
-      "hanzo",
+      "echo",
       "sombra",
       "freja"
     ],
@@ -1788,7 +1767,12 @@
       "tracer",
       "venture",
       "anran",
-      "vendetta"
+      "vendetta",
+      "dva",
+      "doomfist",
+      "hazard",
+      "winston",
+      "wrecking-ball"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)Soldier: 76 is one of the most self-sufficient heroes in all of Overwatch thanks to his mobility and ![](/data/assets/guide/bf8d8ba901c24a9b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-field.png)Biotic Field. He doesn't directly need any particular heroes on his team to run around the map and do some soft flanking.",
@@ -2204,7 +2188,14 @@
       "* Go inside his ultimate and force his team out. If you have melee or beam abilities, you can penetrate the Sanctuary walls."
     ],
     "specific_counters_81": [],
-    "specific_counters_82": [],
+    "specific_counters_82": [
+      "genji",
+      "reaper",
+      "tracer",
+      "venture",
+      "anran",
+      "vendetta"
+    ],
     "team_comp_synergies": [
       "![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)Mizuki has a hybrid kit that can adapt to multiple team comp styles. Ideally, he plays with rush comps where he can use ![](/data/assets/guide/7117e6d46ab75604.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkatashiro-return.png)Katashiro Return to push up aggressively with a Tank like ![](/data/assets/guide/452c9a51fb58d39d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunker-queen.png)Junker Queen, then teleport back to safety.",
       "Pairing him with a Support with high burst healing such as ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana makes for a great backline. They can use ![](/data/assets/guide/61a533467bf9f01d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbinding-chain.png)Binding Chain and ![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)Sleep Dart to protect themselves, while her burst healing and ![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)Biotic Grenade keeps the rest of their team alive."
@@ -2395,21 +2386,11 @@
     ],
     "specific_counters_81": [],
     "specific_counters_82": [
-      "reinhardt",
-      "brigitte",
-      "lucio",
-      "orisa",
-      "sigma",
-      "junker-queen",
-      "ramattra",
-      "domina",
-      "ana",
-      "baptiste",
-      "zenyatta",
-      "jetpack-cat",
-      "mauga",
-      "roadhog",
-      "zarya"
+      "ashe",
+      "cassidy",
+      "hanzo",
+      "sojourn",
+      "widowmaker"
     ],
     "team_comp_synergies": [
       "Team comps built around ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)Hazard can quickly react to his movement, baits, and hard engages. Because ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)Hazard is constantly repositioning, heroes with limited mobility or range have a hard time playing with him. Also, he doesn’t offer much protection to his team, and doesn’t have the movement range to peel for his backline, so teammates need to have some self-sufficiency. There is some flexibility in hero selection, however, since ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)Hazard isn’t a full-on brawl or dive ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tank.",
@@ -2918,23 +2899,7 @@
       "* To counter ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist, play heroes with stuns or high mobility heroes who can evade him. If you can’t run away or stun him, ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist will harass you all game."
     ],
     "specific_counters_81": [],
-    "specific_counters_82": [
-      "sombra",
-      "cassidy",
-      "ana",
-      "brigitte",
-      "mei",
-      "baptiste",
-      "lucio",
-      "zenyatta",
-      "jetpack-cat",
-      "bastion",
-      "junkrat",
-      "soldier-76",
-      "symmetra",
-      "torbjorn",
-      "emre"
-    ],
+    "specific_counters_82": [],
     "team_comp_synergies": [
       "Ideal team comps built around ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist take advantage of his explosive playstyle. ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist's gameplay loop constantly shifts between engaging and disengaging. Heroes with similar styles or who have high value burst abilities are the best pairings.",
       "Essentially, every ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist comp utilizes a dive playstyle that anchors on his attacks. Thanks to his block and bonus health, ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist is rather self sufficient so he doesn't demand a lot of healing resources which opens up more flexibility for Support pairings."
@@ -3122,7 +3087,14 @@
     "specific_counters_82": [
       "orisa",
       "dva",
-      "sigma"
+      "sigma",
+      "hanzo",
+      "genji",
+      "reaper",
+      "tracer",
+      "venture",
+      "anran",
+      "vendetta"
     ],
     "team_comp_synergies": [
       "Team comps built around ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion keep him alive and attacking throughout his Assault mode. ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tanks who can directly protect him with damage mitigation are the best fit. ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)Supports with high amounts of burst healing or some form of invincibility enable ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion to play turret super aggressively. For DPS, ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion benefits most from heroes who can flank and pull attention in a direction opposite of himself. His team should look to play around his turret form just as the enemy team does. When ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion goes into turret, the entire team presses the attack."
@@ -3228,21 +3200,7 @@
       "lucio",
       "widowmaker",
       "ashe",
-      "zenyatta",
-      "hazard",
-      "winston",
-      "wrecking-ball",
-      "reaper",
-      "tracer",
-      "venture",
-      "anran",
-      "vendetta",
-      "ana",
-      "baptiste",
-      "jetpack-cat",
-      "cassidy",
-      "hanzo",
-      "sojourn"
+      "zenyatta"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)Freja It is a hybrid character with short to long-range capabilities and good mobility. This allows her to adapt to most team comps.",
@@ -3750,9 +3708,9 @@
     ],
     "specific_counters_81": [],
     "specific_counters_82": [
+      "widowmaker",
       "ashe",
       "hanzo",
-      "widowmaker",
       "sojourn"
     ],
     "team_comp_synergies": [
@@ -3948,11 +3906,11 @@
     ],
     "specific_counters_81": [],
     "specific_counters_82": [
-      "widowmaker",
       "ashe",
+      "cassidy",
       "hanzo",
       "sojourn",
-      "cassidy"
+      "widowmaker"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)Torbjörn is a great backline protector when he sets up ![](/data/assets/guide/5a281b66a6179e54.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeploy-turret.png)Deploy Turret behind his Supports. Supports like ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana, ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)Zenyatta and ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)Mizuki who bring high value to your team, but also struggle against flankers are good choices.",
@@ -4250,7 +4208,12 @@
     ],
     "specific_counters_81": [],
     "specific_counters_82": [
-      "dva"
+      "dva",
+      "ashe",
+      "cassidy",
+      "hanzo",
+      "sojourn",
+      "widowmaker"
     ],
     "team_comp_synergies": [
       "The best comps for ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)Mercy tend to be poke-heavy since she can sit back and damage boost to give her allies the advantage. Other than during ![](/data/assets/guide/7df3cd0fb86c3ebf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvalkyrie.png)Valkyrie, she's limited to single-target healing, so brawly team comps have the worst team synergy.",
@@ -4456,15 +4419,18 @@
     ],
     "specific_counters_81": [],
     "specific_counters_82": [
-      "pharah",
-      "echo",
-      "sojourn",
-      "widowmaker",
-      "hanzo",
       "ashe",
       "cassidy",
-      "sombra",
-      "freja"
+      "hanzo",
+      "sojourn",
+      "widowmaker",
+      "soldier-76",
+      "bastion",
+      "junkrat",
+      "mei",
+      "symmetra",
+      "torbjorn",
+      "emre"
     ],
     "team_comp_synergies": [
       "Team comps built around ![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)Brigitte have heroes who struggle to survive on their own but have strong offensive or utility kits. Brig is great at protecting her allies, so if everyone has a lot of their own survivability, she doesn’t bring her maximum value. She’s also great at enabling heroes through her ranged healing and Whip Shot. Brig needs at least one hero to position with, so she doesn’t fit well into teams that want to play spread out or reposition too quickly.",
@@ -5102,20 +5068,7 @@
       "genji",
       "jetpack-cat",
       "sombra",
-      "ana",
-      "doomfist",
-      "hazard",
-      "winston",
-      "pharah",
-      "freja",
-      "reaper",
-      "tracer",
-      "venture",
-      "anran",
-      "vendetta",
-      "baptiste",
-      "lucio",
-      "zenyatta"
+      "ana"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)Lifeweaver brings consistent ranged healing to teams, and especially to teams with highly mobile heroes. Equally as important are his utilities in ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)Petal Platform which can be used to grant access to high ground to immobile allies, and ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)Petal Platform which allows him to save an ally from the brink of death.",
