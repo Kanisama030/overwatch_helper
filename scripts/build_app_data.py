@@ -41,10 +41,13 @@ def build_maps_index(mapping):
     return result
 
 
-def build_heroes_index(mapping, master):
-    """產生 heroes_index.json，從 mapping 取 id，從 master 取 tier/default_stats"""
-    # 建立 master 英雄 id（小寫）->資料 的查找表
-    master_by_id = {str(h.get("name", "")).lower(): h for h in master.get("heroes", [])}
+def build_heroes_index(mapping, master, stats):
+    """產生 heroes_index.json，從 mapping 取 id，從 master 取 tier，從 stats 取 default win/pick rate"""
+    # 建立 master 英雄 id（小寫）->資料 的查找表（相容新舊 key）
+    master_by_id = {}
+    for h in master.get("heroes", []):
+        hero_key = str(h.get("Hero") or h.get("name", "")).lower()
+        master_by_id[hero_key] = h
 
     result = []
     for hero_map in mapping.get("heroes", []):
@@ -57,14 +60,22 @@ def build_heroes_index(mapping, master):
         default_pick_rate = None
 
         if master_hero:
-            tier = master_hero.get("tier")
-            ds = master_hero.get("default_stats", {}) or {}
-            default_win_rate = ds.get("win_rate")
-            default_pick_rate = ds.get("pick_rate")
+            # 讀取 Tier（相容舊鍵 tier）
+            tier = master_hero.get("Tier") or master_hero.get("tier")
 
-        # role 轉 Title Case（例如 TANK -> Tank）
+        # default_win_rate / pick_rate 改由 stats 取值
+        # Quick Play -> All -> all-maps，若不存在則回退 Competitive
+        heroes_stats = stats.get("heroes_stats", {})
+        hero_stats = heroes_stats.get(en_name)
+        if hero_stats:
+            qp_all = hero_stats.get("Quick Play", {}).get("All", {}).get("all-maps", {})
+            comp_all = hero_stats.get("Competitive", {}).get("All", {}).get("all-maps", {})
+            default_win_rate = qp_all.get("win_rate") or comp_all.get("win_rate")
+            default_pick_rate = qp_all.get("pick_rate") or comp_all.get("pick_rate")
+
+        # role 來源改為 mapping 優先（維持 Title Case）
         raw_role = hero_map.get("role", "")
-        role = raw_role.title() if raw_role else raw_role
+        role = raw_role if raw_role else raw_role
 
         result.append({
             "id": hero_id,
@@ -100,8 +111,14 @@ def _find_map_mentions(text, maps_list):
     found = []
     for m in maps_list:
         en = m.get("en", "")
-        if en and re.search(re.escape(en), text, re.IGNORECASE):
-            found.append(m["id"])
+        if not en:
+            continue
+        # 使用單詞邊界匹配，處理特殊字符（如 : 和 '）
+        # 將地圖名中的特殊字符也 escape
+        pattern = r"\b" + re.escape(en) + r"\b"
+        if re.search(pattern, text, re.IGNORECASE):
+            if m["id"] not in found:
+                found.append(m["id"])
     return found
 
 
@@ -114,44 +131,54 @@ def build_hero_map_recommendations(master, mapping):
     result = {}
 
     for hero in master.get("heroes", []):
-        hero_name = hero.get("name", "")
-        guide = hero.get("guide", []) or []
+        # 相容新舊 key：Hero / name
+        hero_name = hero.get("Hero") or hero.get("name", "")
+        guide = hero.get("Guide") or hero.get("guide", []) or []
 
-        # 取 section id="6"（Maps）
+        # 取 section id="6"（Maps）的完整陳述文字
         maps_section = _get_guide_section(guide, "6")
         best_maps = []
         worst_maps = []
         maps_summary = ""
 
         if maps_section:
+            # maps_summary 改為 section 6 的完整陳述文字
             content = maps_section.get("content") or []
-            if content:
-                # maps_summary 取第一段的第一句
-                first_para = content[0]
-                first_sentence = re.split(r"(?<=[.!?])\s", first_para.strip())[0]
-                maps_summary = first_sentence
+            maps_summary = "\n".join(content)
 
-                # 分析 best/worst
-                # 先掃描全文，找出負面關鍵字之後的地圖歸為 worst
-                full_text = "\n".join(content)
-                worst_trigger = re.compile(
-                    r"(struggle|struggles|worst|trouble|difficult)", re.IGNORECASE
-                )
+        # 從 guide 扁平結構中找 6.1.1~6.1.3 生成 best_maps（從 title 和 content 找地圖名）
+        for sec_id in ["6.1.1", "6.1.2", "6.1.3"]:
+            sec = _get_guide_section(guide, sec_id)
+            if sec:
+                # 從 title 找地圖
+                title_text = sec.get("title", "")
+                title_mentions = _find_map_mentions(title_text, maps_list)
+                for mid in title_mentions:
+                    if mid not in best_maps:
+                        best_maps.append(mid)
+                # 從 content 找地圖
+                sec_content = "\n".join(sec.get("content") or [])
+                content_mentions = _find_map_mentions(sec_content, maps_list)
+                for mid in content_mentions:
+                    if mid not in best_maps:
+                        best_maps.append(mid)
 
-                for para in content:
-                    para_mentions = _find_map_mentions(para, maps_list)
-                    # 若段落含負面關鍵字，mention 的地圖歸 worst_maps
-                    if worst_trigger.search(para):
-                        for mid in para_mentions:
-                            if mid not in worst_maps:
-                                worst_maps.append(mid)
-                    else:
-                        for mid in para_mentions:
-                            if mid not in best_maps:
-                                best_maps.append(mid)
-
-                # 從 best_maps 移除同時在 worst_maps 的項目
-                best_maps = [m for m in best_maps if m not in worst_maps]
+        # 從 guide 扁平結構中找 6.2.1~6.2.3 生成 worst_maps（從 title 和 content 找地圖名）
+        for sec_id in ["6.2.1", "6.2.2", "6.2.3"]:
+            sec = _get_guide_section(guide, sec_id)
+            if sec:
+                # 從 title 找地圖
+                title_text = sec.get("title", "")
+                title_mentions = _find_map_mentions(title_text, maps_list)
+                for mid in title_mentions:
+                    if mid not in worst_maps:
+                        worst_maps.append(mid)
+                # 從 content 找地圖
+                sec_content = "\n".join(sec.get("content") or [])
+                content_mentions = _find_map_mentions(sec_content, maps_list)
+                for mid in content_mentions:
+                    if mid not in worst_maps:
+                        worst_maps.append(mid)
 
         # name 已改為 id；若遇舊資料再回退 en->id
         hero_key = hero_name.lower()
@@ -168,7 +195,7 @@ def build_hero_map_recommendations(master, mapping):
 
 
 def build_counter_index(master, mapping):
-    """產生 counter_index.json"""
+    """產生 counter_index.json，擴充輸出欄位（向後相容）"""
     map_heroes = mapping.get("heroes", [])
     hero_names_en = [h.get("en", "") for h in map_heroes]
     mapping_ids = {str(h.get("id", "")).lower() for h in map_heroes}
@@ -176,16 +203,35 @@ def build_counter_index(master, mapping):
     result = {}
 
     for hero in master.get("heroes", []):
-        hero_name = hero.get("name", "")
-        guide = hero.get("guide", []) or []
+        # 相容新舊 key：Hero / name
+        hero_name = hero.get("Hero") or hero.get("name", "")
+        guide = hero.get("Guide") or hero.get("guide", []) or []
 
-        # 找 section id="1.1.2"（Play Against / Playing Against）
+        # 新欄位：play_as <- section 1.1.1
+        play_as_section = _get_guide_section(guide, "1.1.1")
+        play_as = []
+        if play_as_section:
+            play_as = play_as_section.get("content") or []
+
+        # 新欄位：play_against <- section 1.1.2（完整內容）
         play_against_section = _get_guide_section(guide, "1.1.2")
+        play_against = []
         play_against_summary = []
         if play_against_section:
-            play_against_summary = play_against_section.get("content") or []
+            play_against = play_against_section.get("content") or []
+            play_against_summary = play_against  # 保留舊欄位作 fallback
 
-        # 找 section id="8"（How to Counter）
+        # 新欄位：specific_counters_81 <- section 8.1 content（扁平結構）
+        specific_counters_81 = []
+        specific_counters_82 = []
+        section_81 = _get_guide_section(guide, "8.1")
+        section_82 = _get_guide_section(guide, "8.2")
+        if section_81:
+            specific_counters_81 = section_81.get("content") or []
+        if section_82:
+            specific_counters_82 = section_82.get("content") or []
+
+        # 保留舊欄位：countered_by_mentions（從 section 8 提取英雄名稱）
         counter_section = _get_guide_section(guide, "8")
         countered_by_mentions = []
         if counter_section:
@@ -194,8 +240,6 @@ def build_counter_index(master, mapping):
             for en_name in hero_names_en:
                 if not en_name:
                     continue
-                # 找 \n{HeroName}\n 或直接提及
-                pattern = r"(\\n|\b)" + re.escape(en_name) + r"(\\n|\b)"
                 if re.search(re.escape(en_name), full_text, re.IGNORECASE):
                     countered_by_mentions.append(en_name)
 
@@ -205,8 +249,59 @@ def build_counter_index(master, mapping):
             hero_key = en_to_id.get(hero_name.lower(), hero_key)
 
         result[hero_key] = {
+            # 新欄位
+            "play_as": play_as,
+            "play_against": play_against,
+            "specific_counters_81": specific_counters_81,
+            "specific_counters_82": specific_counters_82,
+            # 保留舊欄位作 fallback
             "play_against_summary": play_against_summary,
             "countered_by_mentions": countered_by_mentions,
+        }
+
+    return result
+
+
+def build_perks_index(master, mapping):
+    """產生 perks_index.json，從 section 5 提取 perks 資料"""
+    mapping_ids = {str(h.get("id", "")).lower() for h in mapping.get("heroes", [])}
+    en_to_id = {str(h.get("en", "")).lower(): h.get("id", "") for h in mapping.get("heroes", [])}
+    result = {}
+
+    for hero in master.get("heroes", []):
+        hero_name = hero.get("Hero") or hero.get("name", "")
+        guide = hero.get("Guide") or hero.get("guide", []) or []
+
+        # 提取 minor perks (5.1.1, 5.1.2)
+        minor_perks = []
+        for sec_id in ["5.1.1", "5.1.2"]:
+            sec = _get_guide_section(guide, sec_id)
+            if sec:
+                minor_perks.append({
+                    "id": sec.get("id", ""),
+                    "title": sec.get("title", ""),
+                    "content": sec.get("content", []),
+                })
+
+        # 提取 major perks (5.2.1, 5.2.2)
+        major_perks = []
+        for sec_id in ["5.2.1", "5.2.2"]:
+            sec = _get_guide_section(guide, sec_id)
+            if sec:
+                major_perks.append({
+                    "id": sec.get("id", ""),
+                    "title": sec.get("title", ""),
+                    "content": sec.get("content", []),
+                })
+
+        # name 已改為 id；若遇舊資料再回退 en->id
+        hero_key = hero_name.lower()
+        if hero_key not in mapping_ids:
+            hero_key = en_to_id.get(hero_name.lower(), hero_key)
+
+        result[hero_key] = {
+            "minor": minor_perks,
+            "major": major_perks,
         }
 
     return result
@@ -243,7 +338,7 @@ def build_map_stats_for_hero(hero_name, stats_data):
     return map_stats
 
 
-def build_app_ready_dataset(maps_index, heroes_index, map_recs, counter_idx, master, stats_data, mapping):
+def build_app_ready_dataset(maps_index, heroes_index, map_recs, counter_idx, perks_idx, master, stats_data, mapping):
     """產生 app_ready_dataset.json"""
     # 建立 hero en name -> map_stats 查找
     # 利用 master heroes（有 default_stats）對應 stats
@@ -256,6 +351,8 @@ def build_app_ready_dataset(maps_index, heroes_index, map_recs, counter_idx, mas
         map_rec = map_recs.get(hero_id, {"best_maps": [], "worst_maps": [], "maps_summary": ""})
         # 取反制資料
         counter = counter_idx.get(hero_id, {"play_against_summary": [], "countered_by_mentions": []})
+        # 取 perks 資料
+        perks = perks_idx.get(hero_id, {"minor": [], "major": []})
         # 取地圖統計
         map_stats = build_map_stats_for_hero(en_name, stats_data)
 
@@ -263,6 +360,7 @@ def build_app_ready_dataset(maps_index, heroes_index, map_recs, counter_idx, mas
             **hero_idx,
             "map_recommendations": map_rec,
             "counter_data": counter,
+            "perks": perks,
             "map_stats": map_stats,
         }
         heroes_out.append(hero_entry)
@@ -296,7 +394,7 @@ def main():
 
     # 2. heroes_index.json
     print("產生 heroes_index.json...")
-    heroes_index = build_heroes_index(mapping, master)
+    heroes_index = build_heroes_index(mapping, master, stats)
     save_json(os.path.join(APP_DIR, "heroes_index.json"), heroes_index)
     print(f"  ✓ 共 {len(heroes_index)} 位英雄")
 
@@ -312,10 +410,16 @@ def main():
     save_json(os.path.join(APP_DIR, "counter_index.json"), counter_idx)
     print(f"  ✓ 共 {len(counter_idx)} 位英雄的反制資料")
 
-    # 5. app_ready_dataset.json
+    # 5. perks_index.json
+    print("產生 perks_index.json...")
+    perks_idx = build_perks_index(master, mapping)
+    save_json(os.path.join(APP_DIR, "perks_index.json"), perks_idx)
+    print(f"  ✓ 共 {len(perks_idx)} 位英雄的 Perks 資料")
+
+    # 6. app_ready_dataset.json
     print("產生 app_ready_dataset.json...")
     app_dataset = build_app_ready_dataset(
-        maps_index, heroes_index, map_recs, counter_idx, master, stats, mapping
+        maps_index, heroes_index, map_recs, counter_idx, perks_idx, master, stats, mapping
     )
     save_json(os.path.join(APP_DIR, "app_ready_dataset.json"), app_dataset)
     hero_count = len(app_dataset["heroes"])

@@ -45,16 +45,30 @@ npm run dev
 ## 重新 Build 靜態網頁
 
 ```bash
-# 1. 更新資料（需要 Python 環境）
+# 使用整合腳本（推薦）
+python run_build.py
+# 這會自動：
+#   1. 執行 scripts/build_app_data.py 產生衍生資料
+#   2. 同步 data/app/* 到 frontend/public/data/
+
+# 接著 build 前端
+cd frontend
+npm run build
+# 輸出於 frontend/dist/
+```
+
+### 手動步驟（不使用 run_build.py）
+
+```bash
+# 1. 產生衍生資料
 python scripts/build_app_data.py
 
-# 2. 複製資料到前端 public
+# 2. 複製資料到前端 public（Windows）
 Copy-Item data/app/* frontend/public/data/ -Recurse
 
 # 3. Build 前端
 cd frontend
 npm run build
-# 輸出於 frontend/dist/
 ```
 
 ---
@@ -64,7 +78,12 @@ npm run build
 ```bash
 # 執行爬蟲 + 整合 + 衍生資料（需 conda 環境）
 # 預設使用 Cloudflare Markdown 方法抓 Mobalytics
+# 已包含自動執行 build_app_data.py
 conda run -n overwatch python scripts/update.py
+
+# 完成後，記得同步資料到前端並重建
+python run_build.py
+cd frontend && npm run build
 ```
 
 ### Cloudflare 設定（Mobalytics 新方法）

@@ -2,8 +2,8 @@ import { useState, useMemo } from 'react';
 import { useNavigate, useSearchParams, Link } from 'react-router-dom';
 import { useDataset } from '../contexts/DataContext';
 import {
-  getMapById, filterHeroesByRole, searchHeroes, sortHeroesByTier,
-  getBestPicksForMap, getWorstPicksForMap, getHeroWinRateForMap
+  getMapById, filterHeroesByRole, searchHeroes, sortHeroes,
+  getBestPicksForMap, getWorstPicksForMap, getHeroWinRateForMap, type SortMode
 } from '../data/selectors';
 import { TierBadge } from '../components/common/TierBadge';
 import { HeroImage } from '../components/common/HeroImage';
@@ -74,12 +74,13 @@ export function HeroSelectionPage() {
   const mapId = searchParams.get('map');
   const [search, setSearch] = useState('');
   const [roleFilter, setRoleFilter] = useState<RoleFilter>('ALL');
+  const [sortMode, setSortMode] = useState<SortMode>('tier_then_winrate');
 
   const map = mapId && dataset ? getMapById(dataset, mapId) : null;
   const allHeroes = dataset?.heroes ?? [];
 
-  const bestPicks = useMemo(() => mapId && dataset ? sortHeroesByTier(getBestPicksForMap(dataset, mapId)) : [], [dataset, mapId]);
-  const worstPicks = useMemo(() => mapId && dataset ? getWorstPicksForMap(dataset, mapId) : [], [dataset, mapId]);
+  const bestPicks = useMemo(() => mapId && dataset ? sortHeroes(getBestPicksForMap(dataset, mapId), sortMode) : [], [dataset, mapId, sortMode]);
+  const worstPicks = useMemo(() => mapId && dataset ? sortHeroes(getWorstPicksForMap(dataset, mapId), sortMode) : [], [dataset, mapId, sortMode]);
   const bestIds = new Set(bestPicks.map(h => h.id));
   const worstIds = new Set(worstPicks.map(h => h.id));
 
@@ -89,9 +90,20 @@ export function HeroSelectionPage() {
     return heroes;
   }, [allHeroes, roleFilter, search]);
 
-  const filteredBest = filteredHeroes.filter(h => bestIds.has(h.id));
-  const filteredWorst = filteredHeroes.filter(h => worstIds.has(h.id));
-  const filteredOther = sortHeroesByTier(filteredHeroes.filter(h => !bestIds.has(h.id) && !worstIds.has(h.id)));
+  const filteredBest = useMemo(() => {
+    const filtered = filteredHeroes.filter(h => bestIds.has(h.id));
+    return sortHeroes(filtered, sortMode);
+  }, [filteredHeroes, bestIds, sortMode]);
+  
+  const filteredWorst = useMemo(() => {
+    const filtered = filteredHeroes.filter(h => worstIds.has(h.id));
+    return sortHeroes(filtered, sortMode);
+  }, [filteredHeroes, worstIds, sortMode]);
+  
+  const filteredOther = useMemo(() => {
+    const filtered = filteredHeroes.filter(h => !bestIds.has(h.id) && !worstIds.has(h.id));
+    return sortHeroes(filtered, sortMode);
+  }, [filteredHeroes, bestIds, worstIds, sortMode]);
 
   const onSelect = (hero: HeroSummary) => {
     const query = mapId ? `?map=${mapId}` : '';
@@ -143,7 +155,7 @@ export function HeroSelectionPage() {
         </div>
       </div>
 
-      {/* Search & Role filter */}
+      {/* Search & Role filter & Sort mode */}
       <div className="px-4 md:px-8 pb-4 flex flex-col sm:flex-row gap-3">
         <div className="relative flex-1 max-w-sm">
           <span className="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-lg"
@@ -156,7 +168,7 @@ export function HeroSelectionPage() {
             onChange={e => setSearch(e.target.value)}
           />
         </div>
-        <div className="flex gap-2">
+        <div className="flex gap-2 flex-wrap">
           {roles.map(r => (
             <button key={r.value} onClick={() => setRoleFilter(r.value)}
               className="px-3 py-1.5 rounded text-xs font-bold uppercase tracking-wider transition-all"
@@ -166,6 +178,21 @@ export function HeroSelectionPage() {
               {r.label}
             </button>
           ))}
+          <div className="w-px h-6 self-center" style={{ backgroundColor: 'rgba(242,127,13,0.2)' }} />
+          <button onClick={() => setSortMode('tier_then_winrate')}
+            className="px-3 py-1.5 rounded text-xs font-bold uppercase tracking-wider transition-all whitespace-nowrap"
+            style={sortMode === 'tier_then_winrate'
+              ? { backgroundColor: '#f27f0d', color: '#221910' }
+              : { backgroundColor: 'rgba(242,127,13,0.1)', color: '#9ca3af', border: '1px solid rgba(242,127,13,0.2)' }}>
+            Tier → WR
+          </button>
+          <button onClick={() => setSortMode('winrate_then_tier')}
+            className="px-3 py-1.5 rounded text-xs font-bold uppercase tracking-wider transition-all whitespace-nowrap"
+            style={sortMode === 'winrate_then_tier'
+              ? { backgroundColor: '#f27f0d', color: '#221910' }
+              : { backgroundColor: 'rgba(242,127,13,0.1)', color: '#9ca3af', border: '1px solid rgba(242,127,13,0.2)' }}>
+            WR → Tier
+          </button>
         </div>
       </div>
 

@@ -20,7 +20,19 @@ export interface MapRecommendation {
   maps_summary: string;
 }
 
+export interface PerkSection {
+  id: string;
+  title: string;
+  content?: string[];
+}
+
 export interface CounterData {
+  // 新欄位
+  play_as?: string[];
+  play_against?: string[];
+  specific_counters_81?: string[];
+  specific_counters_82?: string[];
+  // 保留舊欄位作 fallback
   play_against_summary: string[];
   countered_by_mentions: string[];
 }
@@ -36,6 +48,10 @@ export interface HeroSummary {
   map_recommendations: MapRecommendation;
   counter_data: CounterData;
   map_stats: Record<string, MapStats>;
+  perks?: {
+    minor: PerkSection[];
+    major: PerkSection[];
+  };
 }
 
 export interface AppDataset {

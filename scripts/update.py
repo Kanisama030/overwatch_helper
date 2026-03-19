@@ -49,34 +49,49 @@ async def main():
     
     # 1. 抓取 Mobalytics (英雄指南與分級)
     if args.mobalytics_method == "cloudflare":
-        print("\n--- [1/4] 抓取 Mobalytics 指南（Cloudflare Markdown，單線程） ---")
+        print("\n--- [1/5] 抓取 Mobalytics 指南（Cloudflare Markdown，單線程） ---")
         await scrape_mobalytics_cloudflare(
             smoke_hero=args.mobalytics_smoke_hero,
             build_master=True,
             worker_count=args.mobalytics_workers,
         )
-        print("\n--- [2/4] 抓取 Blizzard 數據（all-maps + 逐地圖, {worker_count} workers） ---")
+        print("\n--- [2/5] 抓取 Blizzard 數據（all-maps + 逐地圖, {worker_count} workers） ---")
         await scrape_blizzard(worker_count=worker_count)
-        print("\n--- [3/4] Cloudflare 模式已直接輸出 overwatch_master.json，略過 merge_data ---")
-        print("\n--- [4/4] Cloudflare 模式略過舊版 validate_and_fix_master_data ---")
+        print("\n--- [3/5] Cloudflare 模式已直接輸出 overwatch_master.json，略過 merge_data ---")
+        print("\n--- [4/5] Cloudflare 模式略過舊版 validate_and_fix_master_data ---")
+        
+        # 5. 重建衍生資料
+        print("\n--- [5/5] 重建前端衍生資料（build_app_data.py）---")
+        import subprocess
+        result = subprocess.run([sys.executable, os.path.join(os.path.dirname(__file__), "build_app_data.py")])
+        if result.returncode != 0:
+            print("⚠️  build_app_data.py 執行失敗，但資料更新已完成")
+        
         print("\n✨ 全部更新流程已完成！")
         return
     else:
-        print(f"\n--- [1/4] 抓取 Mobalytics 指南（Playwright，{worker_count} workers） ---")
+        print(f"\n--- [1/5] 抓取 Mobalytics 指南（Playwright，{worker_count} workers） ---")
         await scrape_mobalytics(worker_count=worker_count)
     
     # 2. 抓取 Blizzard Stats (勝率與登場率，包含 all-maps 與逐地圖)
-    print(f"\n--- [2/4] 抓取 Blizzard 數據（all-maps + 逐地圖, {worker_count} workers） ---")
+    print(f"\n--- [2/5] 抓取 Blizzard 數據（all-maps + 逐地圖, {worker_count} workers） ---")
     await scrape_blizzard(worker_count=worker_count)
     
     # 3. 整合 JSON 大表與地圖維度統計
-    print("\n--- [3/4] 正整合資料庫並輸出 overwatch_stats.json ---")
+    print("\n--- [3/5] 正整合資料庫並輸出 overwatch_stats.json ---")
     merge_overwatch_data()
 
     # 4. 驗證整合輸出，能修就修；不可修才中止
-    print("\n--- [4/4] 驗證輸出資料結構 ---")
+    print("\n--- [4/5] 驗證輸出資料結構 ---")
     if not validate_and_fix_master_data(write_back=True):
         raise RuntimeError("資料結構驗證未通過，已中止流程。")
+    
+    # 5. 重建衍生資料
+    print("\n--- [5/5] 重建前端衍生資料（build_app_data.py）---")
+    import subprocess
+    result = subprocess.run([sys.executable, os.path.join(os.path.dirname(__file__), "build_app_data.py")])
+    if result.returncode != 0:
+        print("⚠️  build_app_data.py 執行失敗，但資料更新已完成")
     
     print("\n✨ 全部更新流程已完成！")
 

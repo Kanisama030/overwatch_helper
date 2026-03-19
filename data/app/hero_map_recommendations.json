@@ -10,126 +10,239 @@
       "watchpoint-gibraltar",
       "numbani"
     ],
-    "maps_summary": "Domina\n performs best on maps with strong choke points and long hallways, such as Havana, Junkertown, and Midtown."
+    "maps_summary": "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/domina.png)Domina performs best on maps with strong choke points and long hallways, such as **Havana**, **Junkertown**, and **Midtown**. These maps favor poke compositions, which Domina pairs well with and counters effectively thanks to her high barrier uptime and ranged attacks.\nShe struggles most with two types of maps. The first are those with very tight spaces, such as **New Junk City** and **Antarctic Peninsula**. While she can work with the right comps—provided you rotate and maintain optimal distance—it can be a significant struggle.\nMaps with an abundance of high ground, such as **Watchpoint: Gibraltar** and **Numbani**, give her the most trouble. As stated under \"Weaknesses\" above, Domina struggles against high-mobility and dive heroes who thrive on these vertical layouts."
   },
   "zarya": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "rialto",
+      "lijiang-tower"
+    ],
+    "worst_maps": [
+      "hollywood",
+      "new-queen-street",
+      "suravasa"
+    ],
     "maps_summary": ""
   },
   "sigma": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "circuit-royal",
+      "junkertown",
+      "midtown"
+    ],
+    "worst_maps": [
+      "ilios",
+      "nepal"
+    ],
     "maps_summary": ""
   },
   "tracer": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Tracer’s mobility allows her to find value on virtually every map."
+    "best_maps": [
+      "new-junk-city",
+      "oasis"
+    ],
+    "worst_maps": [
+      "junkertown",
+      "circuit-royal",
+      "midtown"
+    ],
+    "maps_summary": "Tracer’s mobility allows her to find value on virtually every map. The best maps for Tracer, however, are flat maps with plenty of side rooms for flanking. When Tracer can abuse corners and side routes with health packs, her job of being a backline assassin becomes considerably easier. Because she lacks vertical mobility, she can have trouble on maps with lots of high ground that the enemy can use to avoid her. On wide open maps with long sight lines, Tracer wastes a lot of time pathing to avoid enemies with superior range."
   },
   "vendetta": {
     "best_maps": [
-      "watchpoint-gibraltar",
-      "numbani"
+      "numbani",
+      "watchpoint-gibraltar"
     ],
     "worst_maps": [
-      "havana",
-      "circuit-royal"
+      "circuit-royal",
+      "havana"
     ],
-    "maps_summary": "Vendetta\n is an versitile hero who can adapt her playstyle to most maps."
+    "maps_summary": "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/vendetta.png)Vendetta is an versitile hero who can adapt her playstyle to most maps. The ones she'll struggle the most on are the traditional sniper maps like Circuit Royal and Havana. When playing these maps, take the extra time needed to path around the edges of the map and outside of the LoS of ranged enemies.\nHer best maps have high ground she can set up on, drop down and engage without needing to use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/soaring-slice.png)Soaring Slice. Most maps have some areas where she can do this but Numbani and Watchpoint: Gibraltar are prime examples."
   },
   "sojourn": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Sojourn’s versatility allows her to be played effectively on every map."
+    "best_maps": [
+      "blizzard-world",
+      "route-66"
+    ],
+    "worst_maps": [
+      "samoa"
+    ],
+    "maps_summary": "Sojourn’s versatility allows her to be played effectively on every map. That said, she performs best on maps with high ground, her Slide jump reaches. Also, medium range sight lines are best for her since her damage fall off begins at 40m. The maps that hinder her capabilities the most are those that don’t give her enough room to slide around and maintain that ideal mid-range fight distance. Additionally, if the map’s high ground is too tall, her Slide becomes much less useful, and she’s at a disadvantage compared to the heroes whose mobility allows them to take those vertical positions."
   },
   "kiriko": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Kiriko\n's mobility and versatility make her a solid choice on every map."
+    "best_maps": [
+      "dorado",
+      "colosseo"
+    ],
+    "worst_maps": [
+      "junkertown",
+      "oasis"
+    ],
+    "maps_summary": "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/kiriko.png)Kiriko's mobility and versatility make her a solid choice on every map. But because she can climb and teleport through walls, maps with lots of structures or rooms give her more outplay potential. Long sight lines are good for her Kunai, but bad for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/healing-ofuda.png)Healing Ofuda if her allies get too far away from her. Be mindful of the map area you are in and adjust accordingly. Just make sure to always be within lock-on and Swift Step range to your team."
   },
   "lucio": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": ""
+    "best_maps": [
+      "ilios",
+      "lijiang-tower"
+    ],
+    "worst_maps": [
+      "new-queen-street",
+      "esperanca",
+      "havana"
+    ],
+    "maps_summary": "The best maps to pick Lucio on are those with lots of flat ground or a lot of space to cover. The team with Lucio will always be able to move and reposition faster than the team without, so maps with a lot of area to walk give more opportunity to benefit from the speed boost.\nAlso, maps with ledges near the objective create to possibility of instant kills by booping them off the map.\nThe maps where he struggles the most are those with long, narrow sight lines where the enemy has more time to attack him during his approach. Lucio himself does well on maps with strong high ground areas, but the teammates who benefit the most from speed boost tend to be weaker on those maps."
   },
   "illari": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "circuit-royal",
+      "blizzard-world",
+      "midtown"
+    ],
+    "worst_maps": [
+      "lijiang-tower",
+      "busan"
+    ],
     "maps_summary": ""
   },
   "dva": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "The most distinct advantage \nD.Va\n has over the rest of the Tanks is her ability to fly for 2 seconds, every 3 and a half seconds."
+    "best_maps": [
+      "paraiso",
+      "numbani"
+    ],
+    "worst_maps": [
+      "ilios",
+      "nepal",
+      "new-junk-city"
+    ],
+    "maps_summary": "The most distinct advantage ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/d-va.png)D.Va has over the rest of the Tanks is her ability to fly for 2 seconds, every 3 and a half seconds. She gets the most value from maps with extensive high-ground areas. Her damage is only effective at very short ranges, so maps with flat and open areas are bad for her. However, that doesn’t mean she wants to sit and brawl on the objective. Capture and Control points that are cramped don’t give her enough room to move around, and she’ll likely lose the face-to-face Tank battle."
   },
   "winston": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "The best maps for \nWinston\n have structures, high ground, and plenty of natural cover."
+    "best_maps": [
+      "dorado",
+      "hollywood"
+    ],
+    "worst_maps": [
+      "new-junk-city",
+      "nepal",
+      "havana"
+    ],
+    "maps_summary": "The best maps for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/winston.png)Winston have structures, high ground, and plenty of natural cover. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/winston.png)Winston doesn’t want to have to rely on his ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-projector.png)Barrier Projector as his only means of staying alive. Instead, he performs best when the map’s environment offers protection. Jumping the high ground to push enemies off is his bread and butter. High ground also allows ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/winston.png)Winston to stage dives and drop down on the enemy without having to use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jump-pack.png)Jump Pack. That way, he can leap away at a moment's notice.\nThe maps Monke struggles on are the wide-open ones with very little cover. Also maps that favor close-range fights on the objective are pretty miserable for him since he has a harder time staying away from his bad matchups."
   },
   "roadhog": {
     "best_maps": [
-      "watchpoint-gibraltar",
-      "circuit-royal",
-      "ilios"
+      "ilios",
+      "nepal",
+      "lijiang-tower"
     ],
-    "worst_maps": [],
-    "maps_summary": "The best maps for \nRoadhog\n are those that encourage close-range fights, like most Control and Flashpoint maps."
+    "worst_maps": [
+      "watchpoint-gibraltar",
+      "circuit-royal"
+    ],
+    "maps_summary": "The best maps for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/roadhog.png)Roadhog are those that encourage close-range fights, like most Control and Flashpoint maps. Because Roadhog has no mobility, he doesn't like high-ground maps like Watchpoint: Gibraltar, and with limited range, he doesn't want long-sightline maps like Circuit Royal.\nNo matter what map, the main thing Hog needs to use is corners to pull enemies around.\nAlso, there's a need to mention Ilios: Well because Hog just standing on the point threatening to pull you into the hole is a major threat that forces the enemy to reposition off the objective."
   },
   "emre": {
     "best_maps": [
-      "nepal",
       "rialto",
-      "esperanca",
-      "dorado",
-      "watchpoint-gibraltar"
+      "nepal",
+      "esperanca"
     ],
     "worst_maps": [
       "oasis",
       "new-junk-city"
     ],
-    "maps_summary": "Emre performs best on maps with objective areas and sightlines that match his optimal range (e.g., Rialto, Nepal, Esperança)."
+    "maps_summary": "Emre performs best on maps with objective areas and sightlines that match his optimal range (e.g., Rialto, Nepal, Esperança). Ideally, he will play near Cyber Frag’s max range, where he can abuse the AoE damage paired with his rifle follow-up shots.\nSmaller maps (e.g., Antarctic Peninsula, Oasis, New Junk City) feel cramped for Emre. Although he can get good value from grenades, he may struggle to utilize the rest of his kit effectively.\nAs long as he can maintain high ground, he performs decently on dive maps (e.g., Dorado, Watchpoint: Gibraltar), but he gets countered by dive heroes like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/d-va.png)D.Va that are typically played on these maps."
   },
   "ashe": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "rialto",
+      "colosseo",
+      "eichenwalde"
+    ],
+    "worst_maps": [
+      "oasis"
+    ],
     "maps_summary": ""
   },
   "echo": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Echo’s quick movement and flying abilities are best utilized on maps with plenty of high ground and natural vertical cover."
+    "best_maps": [
+      "numbani",
+      "oasis"
+    ],
+    "worst_maps": [
+      "havana",
+      "circuit-royal",
+      "ilios"
+    ],
+    "maps_summary": "Echo’s quick movement and flying abilities are best utilized on maps with plenty of high ground and natural vertical cover. Peeking over walls, or air strafing around structures high in the air allow Echo to play more aggressively and do so more safely.\nOn flatter maps, as long as there are lots of side paths for flanking, Echo still performs great thanks to her silent footsteps and horizontal dashing. The maps that hinder her playstyle the most are the long range sniper maps where she has to expose herself down sightlines to approach the enemy. Echo also has difficulty on maps with large open objective areas and maps with too many small areas that hinder her movement."
   },
   "cassidy": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "lijiang-tower",
+      "ilios"
+    ],
+    "worst_maps": [
+      "havana",
+      "circuit-royal"
+    ],
     "maps_summary": ""
   },
   "symmetra": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "The best maps to play \nSymmetra\n on either have enclosed objective areas or funnel both teams into one main choke point."
+    "best_maps": [
+      "hollywood",
+      "ilios",
+      "lijiang-tower"
+    ],
+    "worst_maps": [
+      "colosseo",
+      "circuit-royal",
+      "new-queen-street"
+    ],
+    "maps_summary": "The best maps to play ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/symmetra.png)Symmetra on either have enclosed objective areas or funnel both teams into one main choke point. On maps with either of these qualities, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sentry-turret.png)Sentry Turret put in crazy work. The enemy has no other pathing or position options but to walk in and deal with your turrets.\nBecause of her limited primary fire range, Sym also does better on maps with shorter sight lines and worse on maps with long sight lines. The more open an area is, the more space the enemy team has to play outside of her range and away from her turrets."
   },
   "soldier-76": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "The best maps to play Soldier: 76 on are maps with lots of flank routes."
+    "best_maps": [
+      "colosseo",
+      "shambali-monastery"
+    ],
+    "worst_maps": [
+      "suravasa"
+    ],
+    "maps_summary": "The best maps to play Soldier: 76 on are maps with lots of flank routes. Having excellent ground mobility, but not vertical mobility, means flat levels maximize his Sprint value and minimize his vertical weakness. If the high ground areas are easily accessible, however, he should certainly be looking to take them. You’ll also want to look for longer sight lines as his weapons are best suited for medium-range engagements. Maps that force close-quarters combat are difficult for Soldier as he gets outclassed by heroes like Tracer and Genji. Really long sight lines are also a problem for him if the enemy is running snipers like Widow Maker."
   },
   "genji": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "numbani",
+      "dorado"
+    ],
+    "worst_maps": [
+      "circuit-royal",
+      "havana"
+    ],
     "maps_summary": ""
   },
   "ana": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "junkertown",
+      "blizzard-world"
+    ],
+    "worst_maps": [
+      "new-junk-city",
+      "paraiso"
+    ],
     "maps_summary": ""
   },
   "jetpack-cat": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": ""
+    "best_maps": [
+      "numbani",
+      "watchpoint-gibraltar",
+      "paraiso"
+    ],
+    "worst_maps": [
+      "samoa",
+      "havana",
+      "new-queen-street"
+    ],
+    "maps_summary": "The best maps for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/jetpack-cat.png)Jetpack Cat have plenty of vertical structures for her to fly around. High ground is especially strong since she can perma-fly. Numbani, Watchpoint: Gibraltar, and Paraiso, for example, all feature structural layouts that enable her to constantly reposition safely.\nFlatter maps and those with wide open objective areas such as Samoa, Havana, and New Queen Street don't offer nearly as much room to play. On these maps, you'll typically need to position closer to your team and use them for safety."
   },
   "mizuki": {
     "best_maps": [
@@ -141,7 +254,7 @@
       "circuit-royal",
       "numbani"
     ],
-    "maps_summary": "Maps that encourage close-range or brawly fights are the best for Mizuki to make full use of his kit (e.g., Oasis, Samoa, King's Row)."
+    "maps_summary": "Maps that encourage close-range or brawly fights are the best for Mizuki to make full use of his kit (e.g., Oasis, Samoa, King's Row). Not only do these maps favor team comps he works well with, but they also allow him to get value from both his AoE healing and bouncing projectiles.\nLong-range maps, such as Circuit Royal, and high-ground maps like Numbani are the two types of maps where ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mizuki.png)Mizuki will struggle the most. As long as he can stay with his team, he can make it work, but he'll often feel at a disadvantage compared to other heroes."
   },
   "wuyang": {
     "best_maps": [],
@@ -149,71 +262,127 @@
       "watchpoint-gibraltar",
       "numbani"
     ],
-    "maps_summary": "Wuyang\n has good horizontal and vertical mobility, long-range damage, and medium-range healing."
+    "maps_summary": "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/wuyang.png)Wuyang has good horizontal and vertical mobility, long-range damage, and medium-range healing. These attributes allow him to adapt to most maps.\nRegardless of the map, he wants to take advantage of his curving projectile to hit around corners, and jiggle peek cover to minimize his exposure to damage.\nThe maps he struggles most on are those with high ground areas that are outside his jump reach. Watchpoint: Gibraltar and Numbani, for example, have objective areas surrounded by high ground that Wuyang can't reach to contest or follow his team."
   },
   "hazard": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Hazard\n's mobility is best utilized on maps with lots of walls to climb, and plenty of high ground to move around on."
+    "best_maps": [
+      "samoa"
+    ],
+    "worst_maps": [
+      "havana",
+      "midtown",
+      "circuit-royal"
+    ],
+    "maps_summary": "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/hazard.png)Hazard's mobility is best utilized on maps with lots of walls to climb, and plenty of high ground to move around on. Since he has limited range, his playstyle is hindered on maps with large open areas and maps with long sightlines. He also likes to set up his dive engagements by utilizing corners and structure, so maps with sectioned-off areas give him more opportunities. Another map feature that helps ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/hazard.png)Hazard shine is tight choke points and doorways. On maps where the enemy team funnels through these tight areas, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jagged-wall.png)Jagged Wall puts in work and easily carries fights by cutting off the enemy."
   },
   "reinhardt": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "lijiang-tower"
+    ],
+    "worst_maps": [
+      "dorado",
+      "circuit-royal",
+      "ilios"
+    ],
     "maps_summary": ""
   },
   "junker-queen": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Maps with primarily flat areas around the objective are the best for \nJunker Queen\n."
+    "best_maps": [
+      "suravasa",
+      "oasis"
+    ],
+    "worst_maps": [
+      "runasapi",
+      "havana",
+      "circuit-royal"
+    ],
+    "maps_summary": "Maps with primarily flat areas around the objective are the best for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/junker-queen.png)Junker Queen. She has good ground mobility from Shout, but lacks vertical mobility or the range to contest enemies on high ground. Maps with too much high ground are difficult for her to find consistent value on. Additionally, areas that are really open or have long sight lines are bad for JQ, as she has no way of directly dealing with poke damage."
   },
   "mauga": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "The best maps for \nMauga\n have small but open objective areas."
+    "best_maps": [
+      "samoa",
+      "suravasa",
+      "rialto"
+    ],
+    "worst_maps": [
+      "dorado",
+      "junkertown"
+    ],
+    "maps_summary": "The best maps for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mauga.png)Mauga have small but open objective areas. If the objective is broken up by too much natural cover, it's easy for the enemy to rotate around him since he moves so slowly while firing both chainguns. Other Tanks can’t go toe-to-toe with ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mauga.png)Mauga, so he excels on objectives that pull teams into close-range fights. The maps ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mauga.png)Mauga struggles most on are those with lots of high ground, where dive comps are dominant. He has no vertical mobility, so ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/overrun.png)Overrun gets little to no value against enemies who can run away to high ground he can’t reach. The same can be said of maps with huge open areas where the enemy can keep their distance from ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mauga.png)Mauga."
   },
   "orisa": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Orisa\n is always going to be a good choice on maps that favor poke comps."
+    "best_maps": [
+      "junkertown",
+      "midtown",
+      "new-queen-street"
+    ],
+    "worst_maps": [
+      "dorado",
+      "numbani"
+    ],
+    "maps_summary": "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/orisa.png)Orisa is always going to be a good choice on maps that favor poke comps. An objective area with wide-open space and long, straight payload routes that play into her strengths. Because she’s very tanky, she’s not bad on small maps either, but it makes it harder for her to execute her keepaway game plan. She can contest high ground with her ranged damage, but she can’t ever access the high ground herself, so she’s also at a disadvantage on maps with lots of high ground that favor dive comps."
   },
   "doomfist": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Doomfist\n and his incredible mobility are best utilized on maps where teams tend to play spread out."
+    "best_maps": [
+      "lijiang-tower",
+      "dorado",
+      "oasis"
+    ],
+    "worst_maps": [
+      "havana",
+      "midtown",
+      "rialto"
+    ],
+    "maps_summary": "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/doomfist.png)Doomfist and his incredible mobility are best utilized on maps where teams tend to play spread out. The only thing he requires is natural cover to rotate around. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/doomfist.png)Doomfist typically takes space in chunks so long sight lines and wide open areas are difficult for him. Tight areas with lots of walls and structures give him more opportunities for wall slams off ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rocket-punch.png)Rocket Punch which greatly raises his overall impact. Additionally, his knockback is quite far so maps with nearby ledges give him the chance for environmental kills."
   },
   "anran": {
     "best_maps": [
       "nepal",
       "lijiang-tower",
-      "suravasa",
-      "dorado",
-      "new-queen-street",
-      "colosseo",
-      "circuit-royal",
-      "midtown"
+      "suravasa"
     ],
-    "worst_maps": [],
-    "maps_summary": "On Control and Flashpointmaps (e.g., Nepal, Lijiang Tower, Suravasa), \nAnran\n thrives by leveraging verticality and flank routes to harass isolated enemies and secure early picks."
+    "worst_maps": [
+      "midtown",
+      "circuit-royal"
+    ],
+    "maps_summary": "On _Control_ and _Flashpoint_maps (e.g., Nepal, Lijiang Tower, Suravasa), ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/anran.png)Anran thrives by leveraging verticality and flank routes to harass isolated enemies and secure early picks. She needs to use a get-in-get out strategy on these smaller maps or else the enemy team can peel for her target, then focus fire her to a quick death.\nOn _Escort_, _Hybrid,_ and _Push_ maps (e.g., New Queen Street, Dorado, Colosseo), use her mobility to similarly threaten Supports and DPS set up in the backlines of their team. The more linear layout of these maps merits longer poke phases compared to the two previous modes.\nAnran’s kit rewards players who can read team rotations, abuse environmental cover to be difficult to predict or eliminate, and punish enemies whose anti-dive abilites are on cooldown (E.G., ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sleep-dart.png)Sleep Dart, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/flashbang.png)Flashbang, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fade.png)Fade).\nBecause ranged combat is her primary weakness, on maps with long sightlines like Midtown and Circuit Royal, she gets outclassed by hitscans like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/ashe.png)Ashe."
   },
   "bastion": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "rialto",
+      "eichenwalde",
+      "midtown"
+    ],
+    "worst_maps": [
+      "busan",
+      "ilios",
+      "new-junk-city"
+    ],
     "maps_summary": ""
   },
   "freja": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "The best maps for Freja complement her medium-long range positioning."
+    "best_maps": [
+      "dorado",
+      "blizzard-world",
+      "colosseo"
+    ],
+    "worst_maps": [
+      "new-junk-city",
+      "nepal",
+      "oasis"
+    ],
+    "maps_summary": "The best maps for Freja complement her medium-long range positioning. She struggles one map areas with tight spaces and a lot of flat ground. Finding longer sight lines and high ground to set up on is the way Freja primarily wants to position on any map."
   },
   "hanzo": {
     "best_maps": [
-      "havana",
       "circuit-royal",
       "colosseo",
+      "havana"
+    ],
+    "worst_maps": [
       "dorado"
     ],
-    "worst_maps": [],
-    "maps_summary": "The best maps for \nHanzo\n have open long and narrow sightlines lines like Circuit Royal, first point Colosseo, and Havana."
+    "maps_summary": "The best maps for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/hanzo.png)Hanzo have open long and narrow sightlines lines like Circuit Royal, first point Colosseo, and Havana. These are areas funnel the enemy into predictable positions he can spam arrows down and abuse the threat of a long-range one-shot.\nSince he can ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/wall-climb.png)Wall Climb to high ground repeatedly, he does especially well by taking the high ground surrounding objectives.\nMaps with enclosed objective areas are difficult for him because outside of using ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/storm-arrows.png)Storm Arrows, he's at the disadvantage in close-ranges.\nThe only draw back to high ground maps like Dorado, is that these are also common maps for the enemy to play his main counters like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/genji.png)Genji and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/d-va.png)D.Va."
   },
   "junkrat": {
     "best_maps": [
@@ -221,91 +390,191 @@
       "new-junk-city"
     ],
     "worst_maps": [
+      "junkertown",
       "havana"
     ],
-    "maps_summary": "The best maps for \nJunkrat\n have narrow corridors small objective areas and some high ground to play around."
+    "maps_summary": "The best maps for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/junkrat.png)Junkrat have narrow corridors small objective areas and some high ground to play around. Lijiang Tower's Control Center, and New Junk City are good examples of the types of map layouts that let Junkrat pump a barrage of frags down onto objectives, off walls, and into small rooms.\nHe struggles on maps with long sightlines and open areas like Junker Town and Havana. The slow travel speed of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/frag-launcher.png)Frag Launcher and short range of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/concussion-mine.png)Concussion Mine let long ranged projectile and hitscan heroes out-class him on these maps."
   },
   "venture": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "ilios",
+      "oasis",
+      "hollywood"
+    ],
+    "worst_maps": [
+      "havana",
+      "new-queen-street"
+    ],
     "maps_summary": ""
   },
   "reaper": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Reaper thrives on maps with tight spaces and lots of small rooms."
+    "best_maps": [
+      "samoa",
+      "runasapi"
+    ],
+    "worst_maps": [
+      "circuit-royal",
+      "new-queen-street",
+      "midtown"
+    ],
+    "maps_summary": "Reaper thrives on maps with tight spaces and lots of small rooms. He struggles most on maps with long sightlines, narrow hallways, and wide open spaces. Finding areas with cover and flank routes should be the primary focus of your pathing on Reaper. If one side of the objective has health packs or covered paths, spend most of your time on that side and avoid the other. Maps with high ground areas give him the extra option to TP up, then drop down for a lethal surprise attack."
   },
   "mei": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Mei\n tends to have an easier time finding value on non-payload maps."
+    "best_maps": [
+      "lijiang-tower",
+      "oasis"
+    ],
+    "worst_maps": [
+      "circuit-royal",
+      "junkertown"
+    ],
+    "maps_summary": "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mei.png)Mei tends to have an easier time finding value on non-payload maps. The stationary objectives of Control, Flashpoint, and Clash naturally have chokepoints for Mei to Wall off.\nRegardless of the game mode, Mei likes maps with tight spaces and wants to avoid wide open spaces at all costs. Icicle gives her decent poke pressure, but she’s at a clear disadvantage against snipers on long sight lines. Since she lacks mobility, she also struggles on maps that favor dive and have a lot of high ground."
   },
   "widowmaker": {
     "best_maps": [
       "circuit-royal",
-      "havana"
+      "havana",
+      "junkertown"
     ],
-    "worst_maps": [],
-    "maps_summary": "The best maps for \nWidowmaker\n have long-sight lines where she can take advantage of her superior range."
+    "worst_maps": [
+      "ilios",
+      "nepal",
+      "lijiang-tower"
+    ],
+    "maps_summary": "The best maps for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/widowmaker.png)Widowmaker have long-sight lines where she can take advantage of her superior range. She also benefits from high ground she can ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/grappling-hook.png)Grappling Hook up to, then use for attack angles and protection. Maps with enclosed objective areas are difficult for her because she’s forced to play in suboptimal close ranges.\nFurthermore, if the map has a lot of side routes for flankers, Widow is vulnerable from too many angles to manage or put ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/venom-mine.png)Venom Mines on, so she can’t properly defend herself.\n**Best Maps**\n* Circuit Royal\n* Havana\n* Junker Town\n* * First Point"
   },
   "torbjorn": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Torbjörn and his Turrets do best on maps that favor close-range engagements and have choke points that are difficult to break through."
+    "best_maps": [
+      "nepal",
+      "numbani",
+      "new-junk-city"
+    ],
+    "worst_maps": [
+      "circuit-royal",
+      "junkertown"
+    ],
+    "maps_summary": "Torbjörn and his Turrets do best on maps that favor close-range engagements and have choke points that are difficult to break through. When he can set up his Turret behind his team in a position where the enemy team has to walk through a choke to see, it is much harder for them to deal with the Turret. The bullet drop and slow speed of his primary fire put him at a major disadvantage against other ranged heroes on maps with long sight lines.\nAlthough he has decent movement speed from Overload, Torb doesn’t have any vertical mobility. He can deal with the dive comps that traditionally do well on high ground maps, but it's easy for him to fall behind in rotations."
   },
   "baptiste": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "runasapi",
+      "havana",
+      "paraiso"
+    ],
+    "worst_maps": [
+      "suravasa",
+      "ilios"
+    ],
     "maps_summary": ""
   },
   "juno": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "The best maps for \nJuno\n are flat, have a lot of open space, and encourage fights to be on the objective."
+    "best_maps": [
+      "lijiang-tower",
+      "new-junk-city"
+    ],
+    "worst_maps": [
+      "dorado",
+      "numbani"
+    ],
+    "maps_summary": "The best maps for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/juno.png)Juno are flat, have a lot of open space, and encourage fights to be on the objective. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/hyper-ring.png)Hyper Ring gets the most value when her team needs the extra speed to get to the next objective quickly, or when helping her team flank or rush down the enemy backline. If the enemy can set up on high ground or far from the objective, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/hyper-ring.png)Hyper Ring’s value decreases. Because Orbital Ray moves in a slow and fixed path, fights that stay in one place also raise its potential. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/juno.png)Juno's horizontal movement is best on flat ground maps and maps with lots of small side rooms she can glide through while evading the enemy."
   },
   "mercy": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Mercy\n's best maps have lots of space for her to move around."
+    "best_maps": [
+      "dorado",
+      "junkertown"
+    ],
+    "worst_maps": [
+      "samoa",
+      "nepal"
+    ],
+    "maps_summary": "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mercy.png)Mercy's best maps have lots of space for her to move around. In tight or cramped map areas, she has difficulty evading the enemy. She never wants to be close to the enemy, so always try to find areas that allow you to keep your distance, no matter the map. Because she pairs so well with ranged DPS like Ashe and Sojourn, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mercy.png)Mercy also works great on maps with long sight lines where these heroes are strong."
   },
   "zenyatta": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "The best maps for \nZenyatta\n allow him to abuse his superior ranged poke damage."
+    "best_maps": [
+      "new-queen-street",
+      "midtown"
+    ],
+    "worst_maps": [
+      "busan",
+      "oasis",
+      "dorado"
+    ],
+    "maps_summary": "The best maps for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zenyatta.png)Zenyatta allow him to abuse his superior ranged poke damage. Long sight lines and plenty of corners to peek around make it easier for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zenyatta.png)Zenyatta to perform well. Because he has poor mobility, maps with very tall high ground either leave him at a disadvantage on the floor or force him to waste time finding a long walking path up. Small maps can also prove challenging to ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zenyatta.png)Zenyatta since he wants to keep his distance and has trouble dealing with flankers. Game modes with payloads give him a natural moving cover to always play around. Additionally, his team benefits from Zen sitting on cart, since it allows the rest of them to push up."
   },
   "brigitte": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "samoa",
+      "new-junk-city"
+    ],
+    "worst_maps": [
+      "havana",
+      "midtown",
+      "colosseo"
+    ],
     "maps_summary": ""
   },
   "wrecking-ball": {
     "best_maps": [],
     "worst_maps": [],
-    "maps_summary": "Because \nWrecking Ball\n can use \nGrappling Claw\n and \nRoll\n to move both vertically and horizontally, he performs well on maps with high ground as well as flatter layouts."
+    "maps_summary": "Because ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/wrecking-ball.png)Wrecking Ball can use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/grappling-claw.png)Grappling Claw and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/roll.png)Roll to move both vertically and horizontally, he performs well on maps with high ground as well as flatter layouts. Ideally, there is high ground or a ledge for him to use for a Piledriver or to sneak up on targets.\nWhen the enemy team holds the high ground, Wrecking Ball is the best hero to roll through and knock them off. On flat ground, your goal should be to separate and disrupt: roll through, bait out cooldowns you can dodge, then return a few seconds later to fully commit with shields to secure eliminations."
   },
   "ramattra": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "Maps that favor close-range engagements, have smaller objective areas, and little to no high ground are best for Ram."
+    "best_maps": [
+      "lijiang-tower",
+      "nepal",
+      "rialto"
+    ],
+    "worst_maps": [
+      "numbani",
+      "junkertown"
+    ],
+    "maps_summary": "Maps that favor close-range engagements, have smaller objective areas, and little to no high ground are best for Ram. He wants enemies to be close enough to rush them with ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/nemesis-form.png)Nemesis Form at any moment. Also, because he has good horizontal move speed but no vertical mobility, flat ground areas enable Ram’s play style best. Maps with wide open space and long sight lines are situationally difficult for Ram, depending on the matchup.\nIf the enemy is running more short-range heroes and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/tank.svg)Tank, then he has the advantage, but if the enemy runs long-range or high-mobility heroes, he’s at a disadvantage. He doesn’t want to waste time trying to approach, and high ground gives the enemy an easy escape from Nemesis and his ult."
   },
   "pharah": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "eichenwalde",
+      "lijiang-tower"
+    ],
+    "worst_maps": [
+      "samoa",
+      "ilios",
+      "havana"
+    ],
     "maps_summary": ""
   },
   "sombra": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "The best maps for Sombra have lots of side rooms for her to set up in."
+    "best_maps": [
+      "esperanca",
+      "route-66"
+    ],
+    "worst_maps": [
+      "nepal",
+      "lijiang-tower",
+      "circuit-royal"
+    ],
+    "maps_summary": "The best maps for Sombra have lots of side rooms for her to set up in. Translocator’s versatile movement enables her to access just about any area on any map, so high ground or flat doesn’t matter too much. Sombra struggles on maps with large, open areas that cannot be easily crossed using Translocator and stealth. These areas impede her effectiveness as a flanker. Likewise, if a sightline is too long for her and doesn’t offer enough side paths, she can get sniped during her approach."
   },
   "moira": {
-    "best_maps": [],
-    "worst_maps": [],
+    "best_maps": [
+      "lijiang-tower",
+      "eichenwalde",
+      "new-junk-city"
+    ],
+    "worst_maps": [
+      "havana"
+    ],
     "maps_summary": ""
   },
   "lifeweaver": {
-    "best_maps": [],
-    "worst_maps": [],
-    "maps_summary": "The main feature \nLifeweaver\n wants in a map is natural cover."
+    "best_maps": [
+      "nepal",
+      "route-66"
+    ],
+    "worst_maps": [
+      "junkertown",
+      "havana",
+      "rialto"
+    ],
+    "maps_summary": "The main feature ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/lifeweaver.png)Lifeweaver wants in a map is natural cover. He’s squishy, has short range in his mobility, and has weak offense. Therefore, he relies on natural cover to play around so he can evade enemy attacks while staying alive and healing his team.\nHigh ground is always good for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/lifeweaver.png)Lifeweaver since only he can create a Pedal elevator for non-mobile allies. Open maps with spaced out natural cover are difficult for him to position on, as transitioning between exposes him, and his abilities start to feel limited by their range."
   }
 }
