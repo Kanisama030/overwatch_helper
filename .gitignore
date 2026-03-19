@@ -18,3 +18,4 @@ node_modules/
 agent
 /stitch_mockup
 *plan.md
+/.vscode
