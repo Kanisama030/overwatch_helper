@@ -1,14 +1,7 @@
-import { createContext, useContext, useEffect, useState, type ReactNode } from 'react';
+import { useEffect, useState, type ReactNode } from 'react';
 import { loadAppDataset } from '../data/loader';
 import type { AppDataset } from '../types';
-
-interface DataContextValue {
-  dataset: AppDataset | null;
-  loading: boolean;
-  error: string | null;
-}
-
-const DataContext = createContext<DataContextValue>({ dataset: null, loading: true, error: null });
+import { DataContext } from './dataContextStore';
 
 export function DataProvider({ children }: { children: ReactNode }) {
   const [dataset, setDataset] = useState<AppDataset | null>(null);
@@ -23,8 +16,4 @@ export function DataProvider({ children }: { children: ReactNode }) {
   }, []);
 
   return <DataContext.Provider value={{ dataset, loading, error }}>{children}</DataContext.Provider>;
-}
-
-export function useDataset() {
-  return useContext(DataContext);
 }

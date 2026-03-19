@@ -7,6 +7,7 @@ import json
 import os
 import re
 from datetime import datetime
+from urllib.parse import quote
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "data")
@@ -104,6 +105,61 @@ def _get_guide_section_by_title(guide_list, title_keywords):
         if any(kw.lower() in title.lower() for kw in title_keywords):
             return section
     return None
+
+
+def _read_manifest(path):
+    data = load_json(path)
+    if isinstance(data, list):
+        return data
+    return []
+
+
+def _build_asset_url_mapping(hero_manifest, map_manifest, guide_manifest):
+    mapping = {}
+    for item in (hero_manifest or []) + (map_manifest or []) + (guide_manifest or []):
+        if not isinstance(item, dict):
+            continue
+        src = item.get("image_url")
+        local_path = item.get("local_path")
+        if src and local_path:
+            normalized = str(local_path).replace("\\", "/")
+            if not normalized.startswith("/"):
+                normalized = f"/{normalized}"
+            mapping[src] = normalized
+    return mapping
+
+
+def _rewrite_markdown_images(text, asset_url_mapping):
+    if not text:
+        return text
+
+    pattern = re.compile(r"!\[([^\]]*)\]\(([^)\s]+)(?:\s+\".*?\")?\)")
+
+    def _replace(match):
+        alt = match.group(1)
+        original_url = match.group(2)
+        local_path = asset_url_mapping.get(original_url)
+        if not local_path:
+            return match.group(0)
+        fallback = quote(original_url, safe="")
+        return f"![{alt}]({local_path}#fallback={fallback})"
+
+    return pattern.sub(_replace, text)
+
+
+def _localize_guide_images(master, asset_url_mapping):
+    heroes = master.get("heroes", [])
+    for hero in heroes:
+        guide = hero.get("Guide") or hero.get("guide") or []
+        for section in guide:
+            content = section.get("content") or []
+            if not isinstance(content, list):
+                continue
+            section["content"] = [
+                _rewrite_markdown_images(line, asset_url_mapping) if isinstance(line, str) else line
+                for line in content
+            ]
+    return master
 
 
 def _find_map_mentions(text, maps_list):
@@ -231,6 +287,37 @@ def build_counter_index(master, mapping):
         if section_82:
             specific_counters_82 = section_82.get("content") or []
 
+        # 新欄位：Team Comp Synergies（section 7 或 7.1）
+        team_comp_section = _get_guide_section(guide, "7") or _get_guide_section(guide, "7.1")
+        team_comp_synergies = (team_comp_section or {}).get("content") or []
+
+        # 新欄位：Strengths And Weaknesses Summarized（section 2）
+        strengths_weaknesses_summarized = []
+        section_2 = _get_guide_section(guide, "2")
+        if section_2:
+            strengths_weaknesses_summarized = section_2.get("content") or []
+
+        # 新欄位：Strengths And Weaknesses Explained（section 3 + 子節點）
+        section_3 = _get_guide_section(guide, "3")
+        strengths_weaknesses_explained = {
+            "overview": (section_3 or {}).get("content") or [],
+            "strengths": [],
+            "weaknesses": [],
+        }
+        for sec in guide:
+            sec_id = sec.get("id", "")
+            if not sec_id.startswith("3."):
+                continue
+            section_item = {
+                "id": sec_id,
+                "title": sec.get("title", ""),
+                "content": sec.get("content") or [],
+            }
+            if sec_id.startswith("3.1"):
+                strengths_weaknesses_explained["strengths"].append(section_item)
+            elif sec_id.startswith("3.2"):
+                strengths_weaknesses_explained["weaknesses"].append(section_item)
+
         # 保留舊欄位：countered_by_mentions（從 section 8 提取英雄名稱）
         counter_section = _get_guide_section(guide, "8")
         countered_by_mentions = []
@@ -254,6 +341,9 @@ def build_counter_index(master, mapping):
             "play_against": play_against,
             "specific_counters_81": specific_counters_81,
             "specific_counters_82": specific_counters_82,
+            "team_comp_synergies": team_comp_synergies,
+            "strengths_weaknesses_summarized": strengths_weaknesses_summarized,
+            "strengths_weaknesses_explained": strengths_weaknesses_explained,
             # 保留舊欄位作 fallback
             "play_against_summary": play_against_summary,
             "countered_by_mentions": countered_by_mentions,
@@ -277,10 +367,15 @@ def build_perks_index(master, mapping):
         for sec_id in ["5.1.1", "5.1.2"]:
             sec = _get_guide_section(guide, sec_id)
             if sec:
+                content = sec.get("content", []) or []
+                content_text = "\n".join(content).lower()
+                is_recommended = ("recommended" in content_text and "minor" in content_text)
                 minor_perks.append({
                     "id": sec.get("id", ""),
                     "title": sec.get("title", ""),
-                    "content": sec.get("content", []),
+                    "content": content,
+                    "recommended_flag": is_recommended,
+                    "recommended_reason": "Recommended Minor Perk" if is_recommended else None,
                 })
 
         # 提取 major perks (5.2.1, 5.2.2)
@@ -288,10 +383,15 @@ def build_perks_index(master, mapping):
         for sec_id in ["5.2.1", "5.2.2"]:
             sec = _get_guide_section(guide, sec_id)
             if sec:
+                content = sec.get("content", []) or []
+                content_text = "\n".join(content).lower()
+                is_recommended = ("recommended" in content_text and "major" in content_text)
                 major_perks.append({
                     "id": sec.get("id", ""),
                     "title": sec.get("title", ""),
-                    "content": sec.get("content", []),
+                    "content": content,
+                    "recommended_flag": is_recommended,
+                    "recommended_reason": "Recommended Major Perk" if is_recommended else None,
                 })
 
         # name 已改為 id；若遇舊資料再回退 en->id
@@ -381,10 +481,16 @@ def main():
     master = load_json(os.path.join(DATA_DIR, "overwatch_master.json"))
     mapping = load_json(os.path.join(DATA_DIR, "overwatch_mapping.json"))
     stats = load_json(os.path.join(DATA_DIR, "overwatch_stats.json"))
+    hero_manifest = _read_manifest(os.path.join(DATA_DIR, "assets", "heroes", "manifest.json"))
+    map_manifest = _read_manifest(os.path.join(DATA_DIR, "assets", "maps", "manifest.json"))
+    guide_manifest = _read_manifest(os.path.join(DATA_DIR, "assets", "guide", "manifest.json"))
 
     if not master or not mapping or not stats:
         print("[失敗] 資料載入失敗，請確認來源檔案存在。")
         return
+
+    asset_url_mapping = _build_asset_url_mapping(hero_manifest, map_manifest, guide_manifest)
+    master = _localize_guide_images(master, asset_url_mapping)
 
     # 1. maps_index.json
     print("產生 maps_index.json...")

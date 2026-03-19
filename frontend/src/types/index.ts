@@ -24,6 +24,20 @@ export interface PerkSection {
   id: string;
   title: string;
   content?: string[];
+  recommended_flag?: boolean;
+  recommended_reason?: string | null;
+}
+
+export interface StrengthWeaknessDetailSection {
+  id: string;
+  title: string;
+  content: string[];
+}
+
+export interface StrengthWeaknessExplained {
+  overview: string[];
+  strengths: StrengthWeaknessDetailSection[];
+  weaknesses: StrengthWeaknessDetailSection[];
 }
 
 export interface CounterData {
@@ -32,6 +46,9 @@ export interface CounterData {
   play_against?: string[];
   specific_counters_81?: string[];
   specific_counters_82?: string[];
+  team_comp_synergies?: string[];
+  strengths_weaknesses_summarized?: string[];
+  strengths_weaknesses_explained?: StrengthWeaknessExplained;
   // 保留舊欄位作 fallback
   play_against_summary: string[];
   countered_by_mentions: string[];

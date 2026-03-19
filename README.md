@@ -48,8 +48,9 @@ npm run dev
 # 使用整合腳本（推薦）
 python run_build.py
 # 這會自動：
-#   1. 執行 scripts/build_app_data.py 產生衍生資料
-#   2. 同步 data/app/* 到 frontend/public/data/
+#   1. 下載 scripts/download_master_guide_assets.py（Guide markdown 圖片）
+#   2. 執行 scripts/build_app_data.py 產生衍生資料
+#   3. 同步 data/app/* 與 data/assets/* 到 frontend/public/data/
 
 # 接著 build 前端
 cd frontend
@@ -61,10 +62,12 @@ npm run build
 
 ```bash
 # 1. 產生衍生資料
+python scripts/download_master_guide_assets.py
 python scripts/build_app_data.py
 
 # 2. 複製資料到前端 public（Windows）
 Copy-Item data/app/* frontend/public/data/ -Recurse
+Copy-Item data/assets/* frontend/public/data/assets/ -Recurse
 
 # 3. Build 前端
 cd frontend

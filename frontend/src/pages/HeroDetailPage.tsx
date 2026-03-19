@@ -1,12 +1,13 @@
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo } from 'react';
 import { useParams, useSearchParams, Link, useNavigate } from 'react-router-dom';
-import { useDataset } from '../contexts/DataContext';
+import { useDataset } from '../contexts/dataContextStore';
 import { 
   getHeroById, getMapById, getHeroWinRateForMap,
-  cleanSectionContent, extractCounterHeroIds, sortHeroes
+  extractCounterHeroIds, sortHeroes, toMarkdown
 } from '../data/selectors';
 import { TierBadge } from '../components/common/TierBadge';
 import { HeroImage } from '../components/common/HeroImage';
+import { MarkdownContent } from '../components/common/MarkdownContent';
 import type { HeroSummary, AppDataset } from '../types';
 
 type Tab = 'strategy' | 'counter';
@@ -21,99 +22,94 @@ function StatPill({ label, value }: { label: string; value: string | null }) {
 }
 
 function StrategyTab({ hero }: { hero: HeroSummary }) {
-  // TLDR 改為完整顯示 section 1.1.1 Play As
-  const playAs = hero.counter_data.play_as || [];
-  const cleanedPlayAs = cleanSectionContent(playAs);
+  const playAsMarkdown = toMarkdown(hero.counter_data.play_as || []);
+  const mapSuggestionMarkdown = (hero.map_recommendations.maps_summary || '').trim();
+  const teamCompMarkdown = toMarkdown(hero.counter_data.team_comp_synergies || []);
+  const strengthsSummaryMarkdown = toMarkdown(hero.counter_data.strengths_weaknesses_summarized || []);
+  const explained = hero.counter_data.strengths_weaknesses_explained;
+  const explainedOverviewMarkdown = toMarkdown(explained?.overview || []);
+  const explainedStrengths = explained?.strengths || [];
+  const explainedWeaknesses = explained?.weaknesses || [];
 
-  // Map suggestion 顯示 section 6 完整陳述文字
-  const mapsSummary = hero.map_recommendations.maps_summary;
-
-  // Perks 區塊
   const minorPerks = hero.perks?.minor || [];
   const majorPerks = hero.perks?.major || [];
+  const allPerks = [
+    ...minorPerks.map(perk => ({ ...perk, perkType: 'minor' as const })),
+    ...majorPerks.map(perk => ({ ...perk, perkType: 'major' as const })),
+  ];
+  const [expandedPerkIds, setExpandedPerkIds] = useState<Record<string, boolean>>({});
+
+  const togglePerk = (key: string) => {
+    setExpandedPerkIds(prev => ({ ...prev, [key]: !prev[key] }));
+  };
+
+  const renderCard = (title: string, icon: string, markdown: string) => {
+    if (!markdown) return null;
+    return (
+      <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
+        <div className="flex items-center gap-2 mb-3">
+          <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>{icon}</span>
+          <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>{title}</span>
+        </div>
+        <MarkdownContent content={markdown} />
+      </div>
+    );
+  };
 
   return (
     <div className="space-y-6">
-      {/* TLDR - 改為 Play As */}
-      {cleanedPlayAs.length > 0 && (
-        <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.08)', border: '1px solid rgba(242,127,13,0.25)' }}>
-          <div className="flex items-center gap-2 mb-3">
-            <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>auto_awesome</span>
-            <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>TLDR - Play As</span>
-          </div>
-          <div className="space-y-2">
-            {cleanedPlayAs.map((tip, i) => (
-              <div key={i} className="flex gap-2">
-                <span className="text-xs mt-0.5 flex-shrink-0" style={{ color: '#f27f0d' }}>▸</span>
-                <p className="text-sm text-white leading-relaxed">{tip}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      )}
-
-      {/* Map Suggestion - 改名並顯示 section 6 完整文字，移除勝率顯示 */}
-      {mapsSummary && (
-        <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
-          <div className="flex items-center gap-2 mb-3">
-            <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>map</span>
-            <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>Map Suggestion</span>
-          </div>
-          <p className="text-sm text-white leading-relaxed whitespace-pre-line">{mapsSummary}</p>
-        </div>
-      )}
-
-      {/* Perks Section - 2x2 Grid */}
-      {(minorPerks.length > 0 || majorPerks.length > 0) && (
+      {allPerks.length > 0 && (
         <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
           <div className="flex items-center gap-2 mb-4">
             <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>star</span>
             <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>Perks</span>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {/* Minor Perks - First Row */}
-            {minorPerks.map((perk, i) => (
-              <div key={`minor-${i}`} className="rounded p-3" style={{ backgroundColor: 'rgba(242,127,13,0.08)', border: '1px solid rgba(242,127,13,0.2)' }}>
-                <div className="flex items-center gap-2 mb-2">
-                  <span className="text-[10px] font-black px-1.5 py-0.5 rounded" style={{ backgroundColor: 'rgba(242,127,13,0.3)', color: '#f27f0d' }}>MINOR</span>
-                  <h5 className="text-sm font-bold" style={{ color: '#f27f0d' }}>{perk.title}</h5>
-                </div>
-                {perk.content && perk.content.length > 0 && (
-                  <div className="space-y-1">
-                    {cleanSectionContent(perk.content).map((line, j) => (
-                      <div key={j} className="flex gap-2">
-                        <span className="text-xs mt-0.5 flex-shrink-0" style={{ color: '#f27f0d' }}>▸</span>
-                        <p className="text-xs leading-relaxed" style={{ color: '#d1d5db' }}>{line}</p>
+          <div className="space-y-3">
+            {allPerks.map((perk, i) => {
+              const key = `${perk.perkType}-${perk.id || i}`;
+              const isExpanded = !!expandedPerkIds[key];
+              const recommendedReason = perk.recommended_reason || null;
+              const perkMarkdown = toMarkdown(perk.content || []);
+              return (
+                <div key={key} className="rounded overflow-hidden" style={{ border: '1px solid rgba(242,127,13,0.2)', backgroundColor: 'rgba(242,127,13,0.08)' }}>
+                  <button
+                    type="button"
+                    onClick={() => togglePerk(key)}
+                    className="w-full text-left p-3 md:p-4 flex items-start gap-2 touch-manipulation"
+                    style={{ minHeight: '52px' }}
+                  >
+                    <div className="flex-1 min-w-0">
+                      <div className="flex items-center gap-2 flex-wrap">
+                        <span className="text-[10px] font-black px-1.5 py-0.5 rounded" style={perk.perkType === 'minor' ? { backgroundColor: 'rgba(242,127,13,0.3)', color: '#f27f0d' } : { backgroundColor: 'rgba(242,127,13,0.5)', color: '#221910' }}>
+                          {perk.perkType.toUpperCase()}
+                        </span>
+                        {perk.recommended_flag && (
+                          <span className="text-[10px] font-black px-1.5 py-0.5 rounded" style={{ backgroundColor: 'rgba(34,197,94,0.25)', color: '#22c55e' }}>
+                            Recommended
+                          </span>
+                        )}
+                        <h5 className="text-sm font-bold truncate" style={{ color: '#f27f0d' }}>{perk.title}</h5>
                       </div>
-                    ))}
-                  </div>
-                )}
-              </div>
-            ))}
-            {/* Major Perks - Second Row */}
-            {majorPerks.map((perk, i) => (
-              <div key={`major-${i}`} className="rounded p-3" style={{ backgroundColor: 'rgba(242,127,13,0.08)', border: '1px solid rgba(242,127,13,0.2)' }}>
-                <div className="flex items-center gap-2 mb-2">
-                  <span className="text-[10px] font-black px-1.5 py-0.5 rounded" style={{ backgroundColor: 'rgba(242,127,13,0.5)', color: '#221910' }}>MAJOR</span>
-                  <h5 className="text-sm font-bold" style={{ color: '#f27f0d' }}>{perk.title}</h5>
+                      {recommendedReason && (
+                        <p className="text-xs mt-1 font-bold" style={{ color: '#22c55e' }}>{recommendedReason}</p>
+                      )}
+                    </div>
+                    <span className="material-symbols-outlined text-base mt-0.5" style={{ color: '#f27f0d' }}>
+                      {isExpanded ? 'expand_less' : 'expand_more'}
+                    </span>
+                  </button>
+                  {isExpanded && perkMarkdown && (
+                    <div className="px-3 md:px-4 pb-4 pt-0">
+                      <MarkdownContent content={perkMarkdown} />
+                    </div>
+                  )}
                 </div>
-                {perk.content && perk.content.length > 0 && (
-                  <div className="space-y-1">
-                    {cleanSectionContent(perk.content).map((line, j) => (
-                      <div key={j} className="flex gap-2">
-                        <span className="text-xs mt-0.5 flex-shrink-0" style={{ color: '#f27f0d' }}>▸</span>
-                        <p className="text-xs leading-relaxed" style={{ color: '#d1d5db' }}>{line}</p>
-                      </div>
-                    ))}
-                  </div>
-                )}
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       )}
 
-      {/* AI Placeholder - 保留 */}
       <div className="rounded-lg p-4" style={{ backgroundColor: '#1a1208', border: '1px solid rgba(242,127,13,0.15)' }}>
         <div className="flex items-center gap-2 mb-2">
           <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>psychology</span>
@@ -124,6 +120,43 @@ function StrategyTab({ hero }: { hero: HeroSummary }) {
           AI tactical analysis will be available in a future update. Powered by Gemini Flash.
         </p>
       </div>
+
+      {renderCard('TLDR', 'auto_awesome', playAsMarkdown)}
+      {renderCard('Map Suggestion', 'map', mapSuggestionMarkdown)}
+      {renderCard('Team Comp Synergies', 'groups', teamCompMarkdown)}
+      {renderCard('Strengths And Weaknesses Summarized', 'summarize', strengthsSummaryMarkdown)}
+
+      {(explainedOverviewMarkdown || explainedStrengths.length > 0 || explainedWeaknesses.length > 0) && (
+        <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
+          <div className="flex items-center gap-2 mb-3">
+            <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>insights</span>
+            <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>Strengths And Weaknesses Explained</span>
+          </div>
+          {explainedOverviewMarkdown && <MarkdownContent content={explainedOverviewMarkdown} className="mb-3" />}
+          {explainedStrengths.length > 0 && (
+            <div className="space-y-3 mb-4">
+              <p className="text-xs font-black uppercase tracking-widest" style={{ color: '#22c55e' }}>Strengths</p>
+              {explainedStrengths.map(item => (
+                <div key={item.id} className="rounded p-3" style={{ border: '1px solid rgba(34,197,94,0.25)', backgroundColor: 'rgba(34,197,94,0.08)' }}>
+                  {item.title && <p className="text-sm font-bold mb-2 text-white">{item.title}</p>}
+                  <MarkdownContent content={toMarkdown(item.content)} />
+                </div>
+              ))}
+            </div>
+          )}
+          {explainedWeaknesses.length > 0 && (
+            <div className="space-y-3">
+              <p className="text-xs font-black uppercase tracking-widest" style={{ color: '#ef4444' }}>Weaknesses</p>
+              {explainedWeaknesses.map(item => (
+                <div key={item.id} className="rounded p-3" style={{ border: '1px solid rgba(239,68,68,0.25)', backgroundColor: 'rgba(239,68,68,0.08)' }}>
+                  {item.title && <p className="text-sm font-bold mb-2 text-white">{item.title}</p>}
+                  <MarkdownContent content={toMarkdown(item.content)} />
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
     </div>
   );
 }
@@ -134,10 +167,9 @@ function CounterTab({ hero, dataset, mapId, navigate }: {
   mapId: string | null;
   navigate: ReturnType<typeof useNavigate>;
 }) {
-  if (!dataset) return null;
-
   // Threats to You 改用 8.2 Specific Hero Counters，排除自身
   const threatIds = useMemo(() => {
+    if (!dataset) return [];
     const counters82 = hero.counter_data.specific_counters_82 || [];
     const ids = extractCounterHeroIds(counters82, dataset);
     // 排除自己
@@ -145,37 +177,34 @@ function CounterTab({ hero, dataset, mapId, navigate }: {
   }, [hero, dataset]);
 
   const threats = useMemo(() => {
+    if (!dataset) return [];
     return threatIds.map(id => getHeroById(dataset, id)).filter((h): h is HeroSummary => h !== undefined);
   }, [threatIds, dataset]);
 
-  // Threat 選單預設自動選第一個
+  // Threat 選單預設使用第一個（不強制寫回 state）
   const [selectedThreatId, setSelectedThreatId] = useState<string | null>(null);
   const [pendingSwapId, setPendingSwapId] = useState<string | null>(null);
-
-  useEffect(() => {
-    if (threats.length > 0 && !selectedThreatId) {
-      setSelectedThreatId(threats[0].id);
-    }
-  }, [threats, selectedThreatId]);
-
-  const selectedThreat = selectedThreatId ? getHeroById(dataset, selectedThreatId) : null;
+  const effectiveThreatId = selectedThreatId ?? threats[0]?.id ?? null;
+  const selectedThreat = dataset && effectiveThreatId ? getHeroById(dataset, effectiveThreatId) : null;
 
   // How to Fight Back 改為：顯示被選中的 threat 英雄其 1.1.2 Play Against 內容
-  const fightBackTips = useMemo(() => {
-    if (!selectedThreat) return [];
+  const fightBackMarkdown = useMemo(() => {
+    if (!selectedThreat) return '';
     const playAgainst = selectedThreat.counter_data.play_against || selectedThreat.counter_data.play_against_summary || [];
-    return cleanSectionContent(playAgainst);
+    return toMarkdown(playAgainst);
   }, [selectedThreat]);
 
   // Recommended Swaps 改為：顯示被選中的 threat 英雄其 8.2 Specific Hero Counters，並按 tier->勝率排序
   const recommendedSwaps = useMemo(() => {
-    if (!selectedThreat) return [];
+    if (!dataset || !selectedThreat) return [];
     const counters82 = selectedThreat.counter_data.specific_counters_82 || [];
     const ids = extractCounterHeroIds(counters82, dataset);
     const swaps = ids.map(id => getHeroById(dataset, id)).filter((h): h is HeroSummary => h !== undefined);
     // 按 tier->勝率排序
     return sortHeroes(swaps, 'tier_then_winrate').slice(0, 6);
   }, [selectedThreat, dataset]);
+
+  if (!dataset) return null;
 
   const handleConfirmSwap = () => {
     if (pendingSwapId) {
@@ -202,17 +231,17 @@ function CounterTab({ hero, dataset, mapId, navigate }: {
             {threats.map(threat => (
               <div
                 key={threat.id}
-                onClick={() => setSelectedThreatId(threat.id)}
+                  onClick={() => setSelectedThreatId(threat.id)}
                 className="relative cursor-pointer rounded-lg overflow-hidden transition-all"
                 style={{
-                  border: selectedThreatId === threat.id ? '2px solid #ef4444' : '1px solid rgba(239,68,68,0.3)',
-                  backgroundColor: selectedThreatId === threat.id ? 'rgba(239,68,68,0.15)' : 'rgba(239,68,68,0.08)'
-                }}
-              >
-                <div className="relative" style={{ aspectRatio: '1/1' }}>
-                  <HeroImage heroId={threat.id} heroName={threat.en} className="w-full h-full object-cover object-top" 
-                    style={{ opacity: selectedThreatId === threat.id ? 0.95 : 0.85 }} />
-                </div>
+                    border: effectiveThreatId === threat.id ? '2px solid #ef4444' : '1px solid rgba(239,68,68,0.3)',
+                    backgroundColor: effectiveThreatId === threat.id ? 'rgba(239,68,68,0.15)' : 'rgba(239,68,68,0.08)'
+                  }}
+                >
+                  <div className="relative" style={{ aspectRatio: '1/1' }}>
+                    <HeroImage heroId={threat.id} heroName={threat.en} className="w-full h-full object-cover object-top" 
+                      style={{ opacity: effectiveThreatId === threat.id ? 0.95 : 0.85 }} />
+                  </div>
                 <div className="px-1.5 py-1 text-center">
                   <p className="text-[9px] text-white font-bold truncate">{threat.en}</p>
                 </div>
@@ -223,7 +252,7 @@ function CounterTab({ hero, dataset, mapId, navigate }: {
       </div>
 
       {/* How to Fight Back - 顯示選中 threat 的 Play Against */}
-      {selectedThreat && fightBackTips.length > 0 && (
+      {selectedThreat && fightBackMarkdown.length > 0 && (
         <div>
           <div className="flex items-center gap-2 mb-3">
             <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>swords</span>
@@ -232,16 +261,8 @@ function CounterTab({ hero, dataset, mapId, navigate }: {
             </span>
             <div className="flex-1 h-px" style={{ backgroundColor: 'rgba(242,127,13,0.15)' }} />
           </div>
-          <div className="space-y-3">
-            {fightBackTips.map((tip, i) => (
-              <div key={i} className="flex gap-3">
-                <span className="text-xs font-black mt-0.5 w-6 h-6 rounded-full flex-shrink-0 flex items-center justify-center"
-                  style={{ backgroundColor: 'rgba(242,127,13,0.2)', color: '#f27f0d' }}>
-                  {String(i + 1).padStart(2, '0')}
-                </span>
-                <p className="text-sm leading-relaxed" style={{ color: '#d1d5db' }}>{tip}</p>
-              </div>
-            ))}
+          <div className="rounded p-3" style={{ border: '1px solid rgba(242,127,13,0.2)', backgroundColor: 'rgba(242,127,13,0.08)' }}>
+            <MarkdownContent content={fightBackMarkdown} />
           </div>
         </div>
       )}

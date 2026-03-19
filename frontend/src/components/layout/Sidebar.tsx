@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'react-router-dom';
-import { useSidebar } from '../../contexts/SidebarContext';
-import { useLocale } from '../../contexts/LocaleContext';
+import { useSidebar } from '../../contexts/sidebarContextStore';
+import { useLocale } from '../../contexts/localeContextStore';
 
 export function Sidebar() {
   const location = useLocation();

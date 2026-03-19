@@ -71,10 +71,13 @@ export function cleanSectionContent(content: string[] | undefined): string[] {
   if (!content) return [];
   return content.map(line => 
     line
-      .replace(/!\[.*?\]\(.*?\)/g, '') // 移除 markdown 圖片
-      .replace(/^\s*\*\s+/, '')        // 移除開頭的 * 
+      .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '')
       .trim()
   ).filter(line => line.length > 0);
+}
+
+export function toMarkdown(content: string[] | undefined): string {
+  return cleanSectionContent(content).join('\n');
 }
 
 // counters 清單規範化（小寫 id / 英文名對應）

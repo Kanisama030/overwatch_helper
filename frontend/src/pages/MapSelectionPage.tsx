@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useDataset } from '../contexts/DataContext';
+import { useDataset } from '../contexts/dataContextStore';
 import { groupMapsByMode } from '../data/selectors';
 import type { GameMap } from '../types';
 

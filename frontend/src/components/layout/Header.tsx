@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
-import { useLocale } from '../../contexts/LocaleContext';
+import { useLocale } from '../../contexts/localeContextStore';
 
 interface HeaderProps {
   title: string;

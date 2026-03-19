@@ -1,7 +1,8 @@
 import { HashRouter, Routes, Route } from 'react-router-dom';
-import { DataProvider, useDataset } from './contexts/DataContext';
+import { DataProvider } from './contexts/DataContext';
 import { LocaleProvider } from './contexts/LocaleContext';
 import { SidebarProvider } from './contexts/SidebarContext';
+import { useDataset } from './contexts/dataContextStore';
 import { Sidebar } from './components/layout/Sidebar';
 import { Header } from './components/layout/Header';
 import { LoadingScreen } from './components/common/LoadingScreen';

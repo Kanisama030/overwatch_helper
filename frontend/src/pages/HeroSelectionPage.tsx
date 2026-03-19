@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import { useNavigate, useSearchParams, Link } from 'react-router-dom';
-import { useDataset } from '../contexts/DataContext';
+import { useDataset } from '../contexts/dataContextStore';
 import {
   getMapById, filterHeroesByRole, searchHeroes, sortHeroes,
   getBestPicksForMap, getWorstPicksForMap, getHeroWinRateForMap, type SortMode
