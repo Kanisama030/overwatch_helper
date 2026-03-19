@@ -5,6 +5,7 @@
       "en": "Ana",
       "zh": "安娜",
       "role": "Support",
+      "subrole": "Tactician",
       "perks": {
         "minor perks": [
           {
@@ -29,6 +30,7 @@
       "en": "Ashe",
       "zh": "艾西",
       "role": "Damage",
+      "subrole": "Sharpshooter",
       "perks": {
         "minor perks": [
           {
@@ -53,6 +55,7 @@
       "en": "Baptiste",
       "zh": "巴帝斯特",
       "role": "Support",
+      "subrole": "Tactician",
       "perks": {
         "minor perks": [
           {
@@ -77,6 +80,7 @@
       "en": "Bastion",
       "zh": "壁壘機兵",
       "role": "Damage",
+      "subrole": "Specialist",
       "perks": {
         "minor perks": [
           {
@@ -101,6 +105,7 @@
       "en": "Brigitte",
       "zh": "碧姬",
       "role": "Support",
+      "subrole": "Survivor",
       "perks": {
         "minor perks": [
           {
@@ -125,6 +130,7 @@
       "en": "Cassidy",
       "zh": "卡西迪",
       "role": "Damage",
+      "subrole": "Sharpshooter",
       "perks": {
         "minor perks": [
           {
@@ -149,6 +155,7 @@
       "en": "D.Va",
       "zh": "D.Va",
       "role": "Tank",
+      "subrole": "Initiator",
       "perks": {
         "minor perks": [
           {
@@ -173,6 +180,7 @@
       "en": "Doomfist",
       "zh": "毀滅拳王",
       "role": "Tank",
+      "subrole": "Initiator",
       "perks": {
         "minor perks": [
           {
@@ -197,6 +205,7 @@
       "en": "Echo",
       "zh": "迴音",
       "role": "Damage",
+      "subrole": "Recon",
       "perks": {
         "minor perks": [
           {
@@ -221,6 +230,7 @@
       "en": "Genji",
       "zh": "源氏",
       "role": "Damage",
+      "subrole": "Flanker",
       "perks": {
         "minor perks": [
           {
@@ -245,6 +255,7 @@
       "en": "Hanzo",
       "zh": "半藏",
       "role": "Damage",
+      "subrole": "Sharpshooter",
       "perks": {
         "minor perks": [
           {
@@ -269,6 +280,7 @@
       "en": "Hazard",
       "zh": "災害",
       "role": "Tank",
+      "subrole": "Initiator",
       "perks": {
         "minor perks": [
           {
@@ -293,6 +305,7 @@
       "en": "Illari",
       "zh": "伊拉里",
       "role": "Support",
+      "subrole": "Survivor",
       "perks": {
         "minor perks": [
           {
@@ -317,6 +330,7 @@
       "en": "Junker Queen",
       "zh": "垃圾鎮女王",
       "role": "Tank",
+      "subrole": "Stalwart",
       "perks": {
         "minor perks": [
           {
@@ -341,6 +355,7 @@
       "en": "Junkrat",
       "zh": "炸彈鼠",
       "role": "Damage",
+      "subrole": "Specialist",
       "perks": {
         "minor perks": [
           {
@@ -365,6 +380,7 @@
       "en": "Juno",
       "zh": "朱諾",
       "role": "Support",
+      "subrole": "Survivor",
       "perks": {
         "minor perks": [
           {
@@ -389,6 +405,7 @@
       "en": "Kiriko",
       "zh": "霧子",
       "role": "Support",
+      "subrole": "Medic",
       "perks": {
         "minor perks": [
           {
@@ -413,6 +430,7 @@
       "en": "Lifeweaver",
       "zh": "織命",
       "role": "Support",
+      "subrole": "Medic",
       "perks": {
         "minor perks": [
           {
@@ -437,6 +455,7 @@
       "en": "Lúcio",
       "zh": "路西歐",
       "role": "Support",
+      "subrole": "Tactician",
       "perks": {
         "minor perks": [
           {
@@ -461,6 +480,7 @@
       "en": "Mauga",
       "zh": "莫加",
       "role": "Tank",
+      "subrole": "Bruiser",
       "perks": {
         "minor perks": [
           {
@@ -485,6 +505,7 @@
       "en": "Mei",
       "zh": "小美",
       "role": "Damage",
+      "subrole": "Specialist",
       "perks": {
         "minor perks": [
           {
@@ -509,6 +530,7 @@
       "en": "Mercy",
       "zh": "慈悲",
       "role": "Support",
+      "subrole": "Medic",
       "perks": {
         "minor perks": [
           {
@@ -533,6 +555,7 @@
       "en": "Moira",
       "zh": "莫伊拉",
       "role": "Support",
+      "subrole": "Medic",
       "perks": {
         "minor perks": [
           {
@@ -557,6 +580,7 @@
       "en": "Orisa",
       "zh": "歐瑞莎",
       "role": "Tank",
+      "subrole": "Bruiser",
       "perks": {
         "minor perks": [
           {
@@ -581,6 +605,7 @@
       "en": "Pharah",
       "zh": "法拉",
       "role": "Damage",
+      "subrole": "Recon",
       "perks": {
         "minor perks": [
           {
@@ -605,6 +630,7 @@
       "en": "Ramattra",
       "zh": "拉瑪塔",
       "role": "Tank",
+      "subrole": "Stalwart",
       "perks": {
         "minor perks": [
           {
@@ -629,6 +655,7 @@
       "en": "Reaper",
       "zh": "死神",
       "role": "Damage",
+      "subrole": "Flanker",
       "perks": {
         "minor perks": [
           {
@@ -653,6 +680,7 @@
       "en": "Reinhardt",
       "zh": "萊因哈特",
       "role": "Tank",
+      "subrole": "Stalwart",
       "perks": {
         "minor perks": [
           {
@@ -677,6 +705,7 @@
       "en": "Roadhog",
       "zh": "攔路豬",
       "role": "Tank",
+      "subrole": "Bruiser",
       "perks": {
         "minor perks": [
           {
@@ -701,6 +730,7 @@
       "en": "Sigma",
       "zh": "席格馬",
       "role": "Tank",
+      "subrole": "Stalwart",
       "perks": {
         "minor perks": [
           {
@@ -725,6 +755,7 @@
       "en": "Sojourn",
       "zh": "索潔恩",
       "role": "Damage",
+      "subrole": "Sharpshooter",
       "perks": {
         "minor perks": [
           {
@@ -749,6 +780,7 @@
       "en": "Soldier: 76",
       "zh": "士兵76",
       "role": "Damage",
+      "subrole": "Specialist",
       "perks": {
         "minor perks": [
           {
@@ -773,6 +805,7 @@
       "en": "Sombra",
       "zh": "駭影",
       "role": "Damage",
+      "subrole": "Recon",
       "perks": {
         "minor perks": [
           {
@@ -797,6 +830,7 @@
       "en": "Symmetra",
       "zh": "辛梅塔",
       "role": "Damage",
+      "subrole": "Specialist",
       "perks": {
         "minor perks": [
           {
@@ -821,6 +855,7 @@
       "en": "Torbjörn",
       "zh": "托比昂",
       "role": "Damage",
+      "subrole": "Specialist",
       "perks": {
         "minor perks": [
           {
@@ -845,6 +880,7 @@
       "en": "Tracer",
       "zh": "閃光",
       "role": "Damage",
+      "subrole": "Flanker",
       "perks": {
         "minor perks": [
           {
@@ -869,6 +905,7 @@
       "en": "Venture",
       "zh": "無畏",
       "role": "Damage",
+      "subrole": "Flanker",
       "perks": {
         "minor perks": [
           {
@@ -893,6 +930,7 @@
       "en": "Widowmaker",
       "zh": "奪命女",
       "role": "Damage",
+      "subrole": "Sharpshooter",
       "perks": {
         "minor perks": [
           {
@@ -917,6 +955,7 @@
       "en": "Winston",
       "zh": "溫斯頓",
       "role": "Tank",
+      "subrole": "Initiator",
       "perks": {
         "minor perks": [
           {
@@ -941,6 +980,7 @@
       "en": "Wrecking Ball",
       "zh": "火爆鋼球",
       "role": "Tank",
+      "subrole": "Initiator",
       "perks": {
         "minor perks": [
           {
@@ -965,6 +1005,7 @@
       "en": "Zarya",
       "zh": "札莉雅",
       "role": "Tank",
+      "subrole": "Bruiser",
       "perks": {
         "minor perks": [
           {
@@ -989,6 +1030,7 @@
       "en": "Zenyatta",
       "zh": "禪亞塔",
       "role": "Support",
+      "subrole": "Tactician",
       "perks": {
         "minor perks": [
           {
@@ -1013,6 +1055,7 @@
       "en": "Anran",
       "zh": "安燃",
       "role": "Damage",
+      "subrole": "Flanker",
       "perks": {
         "minor perks": [
           {
@@ -1037,6 +1080,7 @@
       "en": "Domina",
       "zh": "多米娜",
       "role": "Tank",
+      "subrole": "Stalwart",
       "perks": {
         "minor perks": [
           {
@@ -1061,6 +1105,7 @@
       "en": "Emre",
       "zh": "伊默",
       "role": "Damage",
+      "subrole": "Specialist",
       "perks": {
         "minor perks": [
           {
@@ -1085,6 +1130,7 @@
       "en": "Jetpack Cat",
       "zh": "火箭貓",
       "role": "Support",
+      "subrole": "Tactician",
       "perks": {
         "minor perks": [
           {
@@ -1109,6 +1155,7 @@
       "en": "Mizuki",
       "zh": "瑞稀",
       "role": "Support",
+      "subrole": "Survivor",
       "perks": {
         "minor perks": [
           {
@@ -1133,6 +1180,7 @@
       "en": "Vendetta",
       "zh": "宿怨",
       "role": "Damage",
+      "subrole": "Flanker",
       "perks": {
         "minor perks": [
           {
@@ -1157,6 +1205,7 @@
       "en": "Freja",
       "zh": "弗蕾亞",
       "role": "Damage",
+      "subrole": "Recon",
       "perks": {
         "minor perks": [
           {
@@ -1181,6 +1230,7 @@
       "en": "Wuyang",
       "zh": "無漾",
       "role": "Support",
+      "subrole": "Survivor",
       "perks": {
         "minor perks": [
           {
