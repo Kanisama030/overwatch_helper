@@ -233,6 +233,56 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.1.1",
+          "title": "Havana",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.2",
+          "title": "Junkertown",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.3",
+          "title": "Midtown",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
+          "id": "6.2.1",
+          "title": "New Junk City",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.2",
+          "title": "Watchpoint: Gibraltar",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.3",
+          "title": "Numbani",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -245,6 +295,19 @@
           "content": [
             "The best way to counter ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/domina.png)Domina is to use heroes who can trade cooldowns to burn through her barrier. Aside from minor shield generation from ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/reconstruction.png)Reconstruction, Domina doesn't have survivability tools outside of her barrier. Heroes like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/bastion.png)Bastion can use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/configuration-assault.png)Configuration: Assaultt to quickly shred the shield, exposing Domina and her allies to their team's onslaught of damage.",
             "Alternatively, you can bypass her barrier altogether using Rush or Dive comps. These strategies use bursts of mobility to close the gap and overwhelm the backline. Success depends on minimizing damage during the approach; for example, if a ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reinhardt.png)Reinhardt reaches melee range with only 400 barrier health and no armor remaining, he won't be able to swing aggressively enough to win the fight."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "bastion",
+            "reinhardt",
+            "dva",
+            "doomfist",
+            "hazard",
+            "winston",
+            "wrecking-ball"
           ]
         }
       ]
@@ -561,6 +624,16 @@
             "* ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mei.png)Mei countering ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zarya.png)Zarya depends on who can outplay the other. If an ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/ice-wall.png)Ice Wall cuts off ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zarya.png)Zarya from her team, it's pretty much a guaranteed elim, or will trade your one cool down for both bubbles, and a ton of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zarya.png)Zarya's ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/support.svg)Supports' abilities. The Slow effect of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/endothermic-blaster.png)Endothermic Blaster is a really strong punish against a ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zarya.png)Zarya caught without a self bubble available. The danger for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mei.png)Mei is that if she messes up her ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/ice-wall.png)Ice Wall, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zarya.png)Zarya's close-range damage far exceeds ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mei.png)Mei's close-range primary fire.",
             "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/baptiste.png)Baptiste",
             "* Against ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zarya.png)Zarya's big fight winning ultimate, simply placing an ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/immortality-field.png)Immortality Field around a corner can keep his entire team alive. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/baptiste.png)Baptiste's poke damage is also high enough to force out bubbles. When bubbling an ally trying to engage an enemy ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/baptiste.png)Baptiste, he has so many survivability tools he likely won’t be defeated and you’ll be out a bubble."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "ramattra",
+            "widowmaker",
+            "mei",
+            "baptiste"
           ]
         }
       ]
@@ -882,6 +955,17 @@
             "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/lucio.png)Lúcio",
             "* On his own, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/lucio.png)Lúcio can wall ride around and be a nuisance to ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/sigma.png)Sigma, who has difficulty tracking the speedy ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/support.svg)Support. The way ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/lucio.png)Lúcio truly counters ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/sigma.png)Sigma, however, is by speed boosting his immobile allies into the ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/sigma.png)Sigma, who has no way of escaping without an ally's assistance. Many short-range heroes (![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mei.png)Mei, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reinhardt.png)Reinhardt, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/symmetra.png)Symmetra, etc) are very strong against ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/sigma.png)Sigma but only if they can close the distance on him. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/lucio.png)Lúcio gives them all a consistent way to do just that."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "zarya",
+            "symmetra",
+            "lucio",
+            "mei",
+            "reinhardt"
+          ]
         }
       ]
     },
@@ -1159,6 +1243,14 @@
             "Track Recall, and if you haven't seen her use it, save your offensive cooldowns until after. You can get used to the timing of Recall to predict where she will rewind to. If you see Recall used, that is your chance to chase and eliminate Tracer.",
             "If you see Tracer multi-![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/blink.png)Blink straight at you, expect a ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/pulse-bomb.png)Pulse Bomb. Use a barrier, stun, or escape tool to avoid getting stuck."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "mizuki",
+            "torbjorn"
+          ]
         }
       ]
     },
@@ -1402,6 +1494,42 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.1.1",
+          "title": "Numbani",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.2",
+          "title": "Watchpoint: Gibraltar",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
+          "id": "6.2.1",
+          "title": "Circuit Royal",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.2",
+          "title": "Havana",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -1416,6 +1544,15 @@
             "When left unchecked, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/vendetta.png)Vendetta can single-handedly win the match for her team. The best way to counter her is to play heroes with stuns such as ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/flashbang.png)Flashbang, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sleep-dart.png)Sleep Dart and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/energy-javelin.png)Energy Javelin. She doesn't have any direct counterplay to projectile stuns, so it's the easiest way to punish her for soaring in.",
             "When you don't have these available, you want to play near allies who can help you fight her. Never leave yourself in a situation where she can put you into a 1v1.",
             "Lastly, open areas away from cover are difficult for her to reach if you have the range to do so."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "cassidy",
+            "ana",
+            "orisa"
           ]
         }
       ]
@@ -1769,6 +1906,23 @@
             "When you hear Overclock, find cover and hide. On occasions where that isn’t possible, immediately focus her.",
             "After she uses Power Slide, quickly dive her. She won’t be able to escape and likely has low Railgun charge."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "genji",
+            "tracer",
+            "venture",
+            "winston",
+            "doomfist",
+            "reaper",
+            "anran",
+            "vendetta",
+            "dva",
+            "hazard",
+            "wrecking-ball"
+          ]
         }
       ]
     },
@@ -2064,6 +2218,11 @@
             "Pressure her from multiple angles to deny safe teleport targets and limit her escape options.",
             "Treat ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/kitsune-rush.png)Kitsune Rush like the best offensive ult the enemy team has. Save defensive utility to survive, retreat when possible, or use your own ultimates to prevent her from overwhelming your team."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": []
         }
       ]
     },
@@ -2392,6 +2551,11 @@
             "When you see Lucio use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sound-barrier.png)Sound Barrier try to disengage from the fight and wait out the overhealth instead of trying to fight through it.",
             "If you keep getting run over by Lucio’s team, pick heroes with good mobility. Their speed won’t matter if you can escape their attack."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": []
         }
       ]
     },
@@ -2721,6 +2885,15 @@
             "A good Genji can ruin Illari’s day. His mobility allows him to position and consistently destroy Healing Pylon. If ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/illari.png)Illari is positioned with some distance from her team as she often will be, Genji dives her and is at a huge advantage in the 1v1 duel because of his high mobility, Deflect, and Illari’s slow rate of fire makes it even harder to hit Genji jumping all around her. The charge timer also makes Illari’s shots more predictable and thereby easier to Deflect. Top all that off with the fact that he can Deflect Captive Sun back to your team and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/illari.png)Illari has her work cut out for her.",
             "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/kiriko.png)Kiriko",
             "Although not as consistent, Kunai can challenge ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/illari.png)Illari's ranged damage because of its high headshot damage and lack of fall off damage. If ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/illari.png)Illari doesn’t purposely wait for Protection Suzu to be used, Captive Sun becomes completely useless since it cleanses everyone in the AoE of the debuff."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "dva",
+            "genji",
+            "kiriko"
           ]
         }
       ]
@@ -3061,6 +3234,18 @@
             "If your hero only has projectiles, you can position her at angles where you can shoot her from the sides or back, where Matrix cannot absorb.",
             "Also, any abilities that can stun her out of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/boosters.png)Boosters will stop her movement, and is the best way to get the de-mech. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/binding-chain.png)Binding Chain,![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sleep-dart.png)Sleep Dart and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/accretion.png)Accretion are strong CC tools that you should save to use until she tries to fly away."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "zarya",
+            "symmetra",
+            "reinhardt",
+            "genji",
+            "ana",
+            "sigma"
+          ]
         }
       ]
     },
@@ -3372,6 +3557,28 @@
             "Lastly, remember that if you don't have an escape ability, you must stay near an ally who can protect you—either with high-burst healing or enough damage to force Winston's retreat.",
             "* Pro Tip: Don't automatically switch to ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reaper.png)Reaper. This counterpick is a remnant of the past that has cemented itself into the modern player base. While his shotguns deal high damage to Monke, that only applies at point-blank range and if Winston doesn't have a ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-projector.png)Barrier Projector to protect himself. This situation rarely presents itself if the Winston player knows what they are doing. Remember that matchups don't exist in vacuums; you must remain conscious of the map, the game mode, and the rest of the enemy team."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "doomfist",
+            "ana",
+            "mauga",
+            "orisa",
+            "roadhog",
+            "zarya",
+            "genji",
+            "reaper",
+            "tracer",
+            "venture",
+            "anran",
+            "vendetta",
+            "baptiste",
+            "lucio",
+            "zenyatta",
+            "jetpack-cat"
+          ]
         }
       ]
     },
@@ -3591,6 +3798,91 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.1.1",
+          "title": "Ilios",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.2",
+          "title": "Nepal",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.3",
+          "title": "Lijiang Tower",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.4",
+          "title": "Oasis",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.5",
+          "title": "Samoa",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.6",
+          "title": "Busan",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.7",
+          "title": "Aatlis",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.8",
+          "title": "New Junk City",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.9",
+          "title": "Suravasa",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
+          "id": "6.2.1",
+          "title": "Watchpoint: Gibraltar",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.2",
+          "title": "Circuit Royal",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -3605,6 +3897,27 @@
             "To counter Hog, all you really need to do is stop his hook from killing people. If you are a barrier Tank, watch for patterns and his animation to reactively block as many hooks as possible. If you are a DPS or Support with an escape or block, use them to avoid getting hooked.",
             "The other important component is protecting allies who do get hooked. You can use abilities like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/defense-matrix.png)Defense Matrix, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/energy-javelin.png)Energy Javelin, and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/life-grip.png)Life Grip to save your teammate from death after they get hooked.",
             "Anti-healing is also extremely strong against Hog since his only form of survivability is ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/take-a-breather.png)Take a Breather. When none of these apply, just exploit the fact that he can't protect his team or contest range and high ground, and farm as much damage and Ult charge as possible from him and his team."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "ana",
+            "orisa",
+            "dva",
+            "lifeweaver",
+            "baptiste",
+            "lucio",
+            "zenyatta",
+            "jetpack-cat",
+            "doomfist",
+            "hazard",
+            "winston",
+            "wrecking-ball",
+            "kiriko",
+            "mercy",
+            "moira"
           ]
         }
       ]
@@ -3825,6 +4138,63 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.1.1",
+          "title": "Rialto",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.2",
+          "title": "Nepal",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.3",
+          "title": "Esperança",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.4",
+          "title": "Dorado",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.5",
+          "title": "Watchpoint: Gibraltar",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
+          "id": "6.2.1",
+          "title": "Oasis",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.2",
+          "title": "New Junk City",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -3842,6 +4212,20 @@
             "If you don’t have good burst damage, try to escape during his Siphon Blaster, so you minimize how much life steal he can generate.",
             "Emre has no crowd control counters other than trying to dodge with Siphon Blasters. He’s an easy kill if you can stun or knock him around.",
             "Listen for his Ult voice line, and prepare to shoot Emre out of the sky."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "dva",
+            "widowmaker",
+            "ana",
+            "zenyatta",
+            "doomfist",
+            "hazard",
+            "winston",
+            "wrecking-ball"
           ]
         }
       ]
@@ -4141,6 +4525,24 @@
             "If you have a barrier or mitigation ability that can block Dynamite, make it your personal mission to block every single throw. This will deny her a ton of ult charge meaning you'll have to deal with ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/b-o-b.png)B.O.B. less often.",
             "Most of the time you should hide from ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/b-o-b.png)B.O.B. He has a huge health pool, so if your team can’t burst him down quickly, it's best to get out of his LoS and wait until he leaves (10 seconds).",
             "Of course if you need to contest point or if your team can get out of his range, then you need to help by either shooting him, displacing him, or blocking his shots."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "widowmaker",
+            "genji",
+            "reaper",
+            "tracer",
+            "venture",
+            "anran",
+            "vendetta",
+            "dva",
+            "doomfist",
+            "hazard",
+            "winston",
+            "wrecking-ball"
           ]
         }
       ]
@@ -4462,6 +4864,16 @@
             "Pay attention and notice if you don’t see Echo. She’s likely setting up behind you for a sneak attack, so watch your flank. Many Echo players use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/flight.png)Flight to get in and attack. Dodge and get to cover for a few seconds, then quickly focus her while her Flight is on cooldown.",
             "When she uses ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/duplicate.png)Duplicate on Tanks, remember that her HP is capped (usually at 350 HP), making it lower than a \"real\" Tank. Focus her down immediately before she can generate their ultimate."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "dva",
+            "soldier-76",
+            "emre",
+            "illari"
+          ]
         }
       ]
     },
@@ -4777,6 +5189,16 @@
             "The main thing you need to deal with is ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/flashbang.png)Flashbang. If you plan on approaching him, you need to counter ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/flashbang.png)Flashbang by either dodging it with a mobility or invulnerable ability like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/dancing-blaze.png)Dancing Blaze, or block with something like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/deflect.png)Deflect or ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-shield.png)Barrier Shield",
             "Watch for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/deadeye.png)Deadeye. If you don’t see Cassidy for a bit, he’s likely setting up a flank Deadeye. Stay near cover; you can hide behind it or prepare your counterattack. Don't forget you can stun him to cancel the ult with attacks like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/javelin-spin.png)Javelin Spin and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sleep-dart.png)Sleep Dart."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "ashe",
+            "freja",
+            "ana",
+            "zenyatta"
+          ]
         }
       ]
     },
@@ -5087,6 +5509,21 @@
             "Watch for TP. Her team might end up behind you and wipe your backline. Sym may also use TP to dive an isolated target, so always watch to see if her hands are up in the deploy animation.",
             "Stay out of her effective range. Primary fire and turrets both have very limited ranges, so most heroes have the advantage against Sym at medium to long range."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "pharah",
+            "echo",
+            "widowmaker",
+            "ashe",
+            "sojourn",
+            "cassidy",
+            "hanzo",
+            "sombra",
+            "freja"
+          ]
         }
       ]
     },
@@ -5380,6 +5817,20 @@
             "The way ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/soldier-76.png)Soldier: 76 carries games is by being uncontested on high ground and flank angles. Therefore, the way to shut him down is to pressure him as soon as he takes an angle on your team.",
             "Dive heroes are the best for the job. His method of dealing with a dive is simply surviving by running away and healing; it's generally not very dangerous to dive him. Every role has heroes who can go with another ally and dive Soldier, even Supports like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/lucio.png)Lúcio and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/jetpack-cat.png)Jetpack Cat.",
             "Track his location, and if you don’t see Soldier in front of you for a while, assume he is about to attack you from your flank. If you lack mobility, play near cover so you can escape his surprise attack. For Tanks, simply blocking his poke damage brings a lot of value. If all Soldier is doing is shooting barriers, he’s not bringing a lot of value to his team. Either use your own shield or play in the protection of a teammate."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "lucio",
+            "jetpack-cat",
+            "genji",
+            "reaper",
+            "tracer",
+            "venture",
+            "anran",
+            "vendetta"
           ]
         }
       ]
@@ -5717,6 +6168,16 @@
             "* Moira is the classic Genji counter since her ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-grasp.png)Biotic Grasp auto-tracks Genji’s fast movement and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-orb.png)Biotic Orb damages Genji during Deflect unless he directly Deflects the projectile. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/coalescence.png)Coalescence gives Moira a third method of damaging through ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/deflect.png)Deflect.",
             "* Additionally, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fade.png)Fade’s invincibility and movement are also difficult for Genji to deal with and can interrupt him from chaining together dash resets during Dragonblade. Unlike ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/brigitte.png)Brigitte, however, Moira struggles to keep her allies alive against Genji. Moira is an easier way to survive against and kill Genji, but Brig is technically the better counter."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "winston",
+            "echo",
+            "brigitte",
+            "moira"
+          ]
         }
       ]
     },
@@ -6039,6 +6500,15 @@
             "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/kiriko.png)Kiriko",
             "* Protection Suzu instantly cleanses Ana’s best abilities: Sleep and Nade. Suzu even cleanses Ana’s primary fire damage over time and can save a hero just before they lose health. Kiriko also tends to win in 1v1 duels against Ana because she can get in, Suzu, then TP out after getting the kill."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "sigma",
+            "sombra",
+            "kiriko"
+          ]
         }
       ]
     },
@@ -6273,6 +6743,56 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.1.1",
+          "title": "Numbani",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.2",
+          "title": "Watchpoint: Gibraltar",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.3",
+          "title": "Paraíso",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
+          "id": "6.2.1",
+          "title": "Samoa",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.2",
+          "title": "Havana",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.3",
+          "title": "New Queen Street",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -6289,6 +6809,15 @@
             "To coutner ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/jetpack-cat.png)Jetpack Cat, you need to pressure her every time she exposes herself. Even a bit a damage will force her to back off, which is especially good when she's using ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/purr.png)Purr.",
             "Always be ready for a flank attack because she can fly in super fast and shoot you from the side. Don't tunnel vision, and if you have any CC, you can save it if you've noticed the Cat player keeps going for flanks.",
             "Also, you can counterswap in your role to heroes like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/d-va.png)D.Va, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/ashe.png)Ashe or ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/illari.png)Illari to have an easier time shooter ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/jetpack-cat.png)Jetpack Cat out of the sky, evading her ult, and shutting down her flanks."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "dva",
+            "ashe",
+            "illari"
           ]
         }
       ]
@@ -6524,6 +7053,49 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.1.1",
+          "title": "Oasis",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.2",
+          "title": "Samoa",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.3",
+          "title": "King's Row",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
+          "id": "6.2.1",
+          "title": "Circuit Royal",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.2",
+          "title": "Numbani",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -6539,6 +7111,11 @@
             "As a general strategy, remember that his healing is most effective when he is dealing damage. If possible, play outside of his primary fire range, and chip away at his team's health as he struggles to keep them alive.",
             "During his ultimate, either full-commit or back away. When your team has melee heroes, go aggro, and you can kill through the healing. If your team is primarily projectiles, it's better to just wait out the 7-second duration before recommitting to the fight."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": []
         }
       ]
     },
@@ -6759,6 +7336,28 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
+          "id": "6.2.1",
+          "title": "Watchpoint: Gibraltar",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.2",
+          "title": "Numbani",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -6779,6 +7378,11 @@
             "His Ult has a short 3.5s duration. Run away, use cover, and escape tools your hero has because you don't want to get knocked down by the explosion.",
             "When you are unable to escape, hard focus the enemy in ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/tidal-blast.png)Tidal Blast. This is less optimal since they'll likely have plenty of health plus the huge chunk of overhealth from the ult."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": []
         }
       ]
     },
@@ -7112,6 +7716,27 @@
             "Effectively countering ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/hazard.png)Hazard has a few steps. You need to be able to deal with his ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jagged-wall.png)Jagged Wall and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/violent-leap.png)Violent Leap if you want to stay alive. Heroes with poor mobility are easy targets for him to put a Wall behind, isolating them from their team and signing their death sentence. Heroes who can jump or escape in this situation have a much easier time surviving.",
             "To deal with Leap and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/spike-guard.png)Spike Guard, your best tools are knockback and stuns. His Leap doesn't travel very far, and his ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/bonespur.png)Bonespur has limited range, so boop him away or stun him in place, and his effectiveness becomes very limited.",
             "* Bonus Tip: ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/downpour.png)Downpour is literally a vertical projectile so you can block it with barriers if you cover above yourself."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "reinhardt",
+            "brigitte",
+            "lucio",
+            "orisa",
+            "sigma",
+            "junker-queen",
+            "ramattra",
+            "domina",
+            "ana",
+            "baptiste",
+            "zenyatta",
+            "jetpack-cat",
+            "mauga",
+            "roadhog",
+            "zarya"
           ]
         }
       ]
@@ -7449,6 +8074,17 @@
           "title": "Specific Hero Counters"
         },
         {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "lucio",
+            "pharah",
+            "sojourn",
+            "orisa",
+            "ana"
+          ]
+        },
+        {
           "id": "8.0.2",
           "title": "Tank",
           "content": [
@@ -7783,6 +8419,19 @@
             "She struggles into poke and high-ground control compositions that force her to take chip damage before she can get into her own optimal range. Heroes like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/sigma.png)Sigma, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/ashe.png)Ashe, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/sojourn.png)Sojourn, or ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/illari.png)Illari can pressure her from distance, forcing her to burn Shout defensively just to close space. Once Shout is used, she has no mobility or overhealth, and becomes vulnerable to burst focus fire.",
             "Anti-heal and disengage tools are also critical. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/ana.png)Ana’s ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-grenade.png)Biotic Grenade negates her lifesteal which dramatically lowers her survivability. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/protection-suzu.png)Protection Suzu can straight up make it as if ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rampage.png)Rampage never happened by healing and and cleansing all allies.",
             "Overall, do not take extended brawls on her terms. Kite backward and wait out ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/commanding-shout.png)Commanding Shout, then go aggro. Whenever possible, position outside of her range and her value drops sharply."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "orisa",
+            "doomfist",
+            "ashe",
+            "sojourn",
+            "illari",
+            "ana",
+            "kiriko"
           ]
         }
       ]
@@ -8122,6 +8771,14 @@
             "The other thing you need to watch out for is ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/overrun.png)Overrun. First off, don't get slammed. Make sure to save a mobility tool to dodge him, or play near cover where you can move out of his path. Additionally, his charge is on a very short cooldown, so make sure you are always alert and don't get caught off guard where you don't realize you are within its range.",
             "* When you want to really shut him down hard, get an ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/ana.png)Ana to anti-heal him, and a ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/kiriko.png)Kiriko to cleanse burning allies."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "ana",
+            "kiriko"
+          ]
         }
       ]
     },
@@ -8407,6 +9064,11 @@
             "To counter Orisa, you need to exploit gaps in her cooldown cycles. She's virtually unkillable if she has ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fortify.png)Fortify and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/javelin-spin.png)Javelin Spin available. If you see her use both of these cooldowns, you have a short window where she's vulnerable. Go aggressive quickly before the Fortify cooldown refreshes.",
             "In order to pull this off, you need to have the resources still available after she's used hers. Therefore, as soon as you see her activate ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fortify.png)Fortify, focus on defending, backing up, and saving cooldowns. Then, you will have everything you need to punish her and win the fight."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": []
         }
       ]
     },
@@ -8737,6 +9399,27 @@
             "The easiest time to stun him is during his block. If he starts to bait this by canceling his block into slam and dodging your moves, it's a mind game to see who will waste their abilities.",
             "The other best time is while he channels ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rocket-punch.png)Rocket Punch, or immediately after he uses ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/seismic-slam.png)Seismic Slam since you know he won't be able to suddenly move unless he uses his ultimate."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "sombra",
+            "cassidy",
+            "ana",
+            "brigitte",
+            "mei",
+            "baptiste",
+            "lucio",
+            "zenyatta",
+            "jetpack-cat",
+            "bastion",
+            "junkrat",
+            "soldier-76",
+            "symmetra",
+            "torbjorn",
+            "emre"
+          ]
         }
       ]
     },
@@ -8983,6 +9666,91 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.1.1",
+          "title": "Nepal",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.2",
+          "title": "Lijiang Tower",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.3",
+          "title": "Suravasa",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.4",
+          "title": "Ilios",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.5",
+          "title": "Oasis",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.6",
+          "title": "Samoa",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.7",
+          "title": "Busan",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.8",
+          "title": "Aatlis",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.9",
+          "title": "New Junk City",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
+          "id": "6.2.1",
+          "title": "Midtown",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.2",
+          "title": "Circuit Royal",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -8998,6 +9766,15 @@
             "Movement and the use of cover to prevent her from repeatedly landing hits makes it difficult for her to keep up burning damage on you. Once her burn gauge resets, she struggles to re-establish pressure.",
             "High-burst DPS such as ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/sojourn.png)Sojourn, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/cassidy.png)Cassidy, or ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/vendetta.png)Vendetta can intercept Anran before she can be effectice. They also excel at finishing her off during ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/inferno-rush.png)Inferno Rush or after ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/dancing-blaze.png)Dancing Blaze.",
             "Don't forget to keep an eye on her death location when you hear her use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/vermillion-revival.png)Vermillion Revival, becuase she can be an easy kill if she's located away from her team."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "sojourn",
+            "cassidy",
+            "vendetta"
           ]
         }
       ]
@@ -9319,6 +10096,15 @@
             "To get him to waste his turret form, soft engage, or push up without using long cooldowns, then back off when he ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/reconfigure.png)Reconfigures. Be patient, because turret mode only lasts for 6 seconds. Don’t peek or else you’ll be killed or have to waste resources to not die.",
             "Attack aggressively after his turret mode ends. His damage is low in Recon so you can ignore him and target his ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/support.svg)Supports during his ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/configuration-assault.png)Configuration: Assault cooldown."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "orisa",
+            "dva",
+            "sigma"
+          ]
         }
       ]
     },
@@ -9607,6 +10393,33 @@
             "Also, when you see her use Updraft, know you have a 10-second window where she can’t target you behind cover or run away to high ground (unless she's using Rising Winds).",
             "Those with damage mitigation should look to block ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/bola-shot.png)Bola Shot when the hear the ult voice line."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "dva",
+            "doomfist",
+            "genji",
+            "lucio",
+            "widowmaker",
+            "ashe",
+            "zenyatta",
+            "hazard",
+            "winston",
+            "wrecking-ball",
+            "reaper",
+            "tracer",
+            "venture",
+            "anran",
+            "vendetta",
+            "ana",
+            "baptiste",
+            "jetpack-cat",
+            "cassidy",
+            "hanzo",
+            "sojourn"
+          ]
         }
       ]
     },
@@ -9837,6 +10650,42 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.1.1",
+          "title": "Circuit Royal",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.2",
+          "title": "Colosseo",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.3",
+          "title": "Havana",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
+          "id": "6.2.1",
+          "title": "Dorado",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -9852,6 +10701,23 @@
             "Respect his sightlines. If he’s already aiming down the main choke point, stay behind a barrier or take a different path.",
             "Vary your left/right strafing movement to make it more difficult for him to predict your direction.",
             "If you are playing a flank or dive hero, keep pressuring him so he can’t freely shoot the rest of your team."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "genji",
+            "dva",
+            "reaper",
+            "tracer",
+            "venture",
+            "anran",
+            "vendetta",
+            "doomfist",
+            "hazard",
+            "winston",
+            "wrecking-ball"
           ]
         }
       ]
@@ -10069,6 +10935,42 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.1.1",
+          "title": "Lijiang Tower",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.2",
+          "title": "New Junk City",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
+          "id": "6.2.1",
+          "title": "Junkertown",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.2",
+          "title": "Havana",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -10086,6 +10988,17 @@
             "Staircases and doorways are common places for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/steel-trap.png)Steel Trap, so keep an eye on the floor. Break traps for your teammates so they don’t walk in and die.",
             "Flanking him at close range is dangerous because you put yourself in range of his frag-mine combos. Whenever possible, play outside his optimal range.",
             "In open areas and places with long sightlines, hitscans and long-range heroes have the advantage against Junkrat."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "ashe",
+            "cassidy",
+            "hanzo",
+            "sojourn",
+            "widowmaker"
           ]
         }
       ]
@@ -10398,6 +11311,15 @@
             "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/ana.png)Ana",
             "* Similar to Magnetic Grenade, Sleep Dart hard counters Venture’s game plan and abilities. The brief moment of slow movement and vulnerability during the startup frames of Burrow is the easiest opportunity for Ana land a sleep."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "doomfist",
+            "cassidy",
+            "ana"
+          ]
         }
       ]
     },
@@ -10700,6 +11622,11 @@
             "Save your knockback or stuns for after he's used Wraith whenever possible. Also very important is to focus him after Wraith, even if you have to chase after him, because a Reaper without ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/wraith-form.png)Wraith Form is an easy kill.",
             "Counter ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/death-blossom.png)Death Blossom with CC, damage mitigation, or focus fire. He’s moving slowly and can’t cancel Blossom, so he’s easy to target."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": []
         }
       ]
     },
@@ -11022,6 +11949,16 @@
             "First off, if you are the Tank, try to bait out walls. When you know Mei is waiting for you to walk through a choke point to wall and kill you, strafe forward and back. This will throw off her timing and you can end up on the safe side of the wall. Then, you should push in aggressively before the cooldown refreshes.",
             "In general, try to stay outside her primary fire range. Her secondary fire range is less consistent and easier to deal with, but if you're getting frozen, it's difficult to win."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "ashe",
+            "hanzo",
+            "widowmaker",
+            "sojourn"
+          ]
         }
       ]
     },
@@ -11245,6 +12182,77 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.1.1",
+          "title": "Circuit Royal",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.2",
+          "title": "Havana",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.3",
+          "title": "Junkertown",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
+          "id": "6.2.1",
+          "title": "Ilios",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.2",
+          "title": "Nepal",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.3",
+          "title": "Lijiang Tower",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.4",
+          "title": "Oasis",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.5",
+          "title": "Samoa",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.2.6",
+          "title": "Busan",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -11260,6 +12268,18 @@
             "Force her to retreat with dives and flanks. Even if you don’t get the kill, stop her from aiming at your teammates.",
             "Never peek the same angle twice. If you see Widow aiming down sights, don’t walk out at the same position because she will be ready to hit the shot.",
             "Avoid her sightlines. Scout or get info from your team about her position. Then take side routes where she can’t snipe you."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "genji",
+            "reaper",
+            "tracer",
+            "venture",
+            "anran",
+            "vendetta"
           ]
         }
       ]
@@ -11578,6 +12598,17 @@
             "Bait out ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/overload.png)Overload. Soft engage without committing all your long cooldowns, then back up when he’s using Overload. It only lasts five seconds, and you can attack again as soon as it ends. Consider him unkillable if you haven't seen him already pop the over armor.",
             "To counter-pick, play ranged heroes since ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/torbjorn.png)Torbjörn is weaker against heroes who can position farther away because they can break his Turret from safety and have more consistent damage than his primary fire."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "widowmaker",
+            "ashe",
+            "hanzo",
+            "sojourn",
+            "cassidy"
+          ]
         }
       ]
     },
@@ -11884,6 +12915,15 @@
             "Don’t commit long cooldowns or ultimates until after you’ve seen him use Immortality Field. Try to attack with your standard attacks or short CDs, retreat, then re-engage after he’s used it.",
             "Watch his jumps, and track him in the air. He’s easiest to elim while he’s locked in the jump arc.",
             "His primary fire has severe damage falloff. Keep your distance and take him down with heroes like Ana, Kiri, and Widowmaker."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "ana",
+            "kiriko",
+            "widowmaker"
           ]
         }
       ]
@@ -12193,6 +13233,18 @@
             "All of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/juno.png)Juno's healing requires LoS. Stop her from healing with barriers or by forcing her attention away from her allies through your attacks.",
             "Without Pulsar Torpedoes, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/juno.png)Juno struggles to defend herself against high mobility heroes. Get past her team and chase her down.",
             "Once you've seen her use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/glide-boost.png)Glide Boost, that is your time to hard focus Juno. She won't be able to instantly activate ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/survivor.svg)Survivor from her other abilities, and she can't fly away. Making her an easy target."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "genji",
+            "reaper",
+            "tracer",
+            "venture",
+            "anran",
+            "vendetta"
           ]
         }
       ]
@@ -12507,6 +13559,13 @@
             "Don’t let her get off free resurrections. If her teammate dies, expect her to be looking for an opportunity to rez. Be ready to punish her.",
             "Bait out Guardian Angel without using your movement ability. Then chase her for the kill.",
             "Target ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mercy.png)Mercy . Eliminating Mercy first is more efficient than trying to kill her allies through her healing."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "dva"
           ]
         }
       ]
@@ -12828,6 +13887,24 @@
             "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zenyatta.png)Zenyatta can’t escape flank and dive attacks. Coordinate with at least one teammate and surprise attack him simultaneously for an easy kill.",
             "Cleanse ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/orb-of-discord.png)Orb of Discord by breaking LoS before committing to your attack. You don’t want to move in deep just to get blown up by the extra Discord damage.",
             "If you don’t see ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zenyatta.png)Zenyatta , assume he is charging up a volley. Get behind a barrier and watch your flank."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "zarya",
+            "genji",
+            "reaper",
+            "tracer",
+            "venture",
+            "anran",
+            "vendetta",
+            "dva",
+            "doomfist",
+            "hazard",
+            "winston",
+            "wrecking-ball"
           ]
         }
       ]
@@ -13194,6 +14271,21 @@
             "Soft engage to get ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/whip-shot.png)Whip Shot out, then use movement cooldowns when she can’t knock you away.",
             "Target her allies. Brig’s healing is pretty slow, so often the best strategy is to kill the rest of her team first, then her last."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "pharah",
+            "echo",
+            "sojourn",
+            "widowmaker",
+            "hanzo",
+            "ashe",
+            "cassidy",
+            "sombra",
+            "freja"
+          ]
         }
       ]
     },
@@ -13409,6 +14501,14 @@
           ]
         },
         {
+          "id": "6.1",
+          "title": "Best Maps"
+        },
+        {
+          "id": "6.2",
+          "title": "Worst Maps"
+        },
+        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -13424,6 +14524,16 @@
             "Wrecking Ball is one of the best stalling heroes in Overwatch. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/adaptive-shield.png)Adaptive Shield and his high mobility make him difficult to eliminate. The easiest way to take him out is to chain CC with your allies. If you hit him with ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mizuki.png)Mizuki’s ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/binding-chain.png)Binding Chain followed by a ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/sigma.png)Sigma ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/accretion.png)Accretion, he is likely dead. Knockback is also effective for stopping his momentum and causing his slams to miss.",
             "He doesn't have much counterplay against fliers, so you have plenty of options like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/pharah.png)Pharah or ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/jetpack-cat.png)Jetpack Cat.",
             "If you play heroes without stuns, the most important thing is to hold your cooldowns until you see him use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/adaptive-shield.png)Adaptive Shield. If his shields are still available, it is nearly impossible to kill him, and your cooldowns will be wasted."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "mizuki",
+            "sigma",
+            "pharah",
+            "jetpack-cat"
           ]
         }
       ]
@@ -13747,6 +14857,11 @@
             "* Save mobility for dodging Vortex. If you are already in Vortex, don't use your mobility abilities until you've escaped.",
             "* Break LoS during ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/annihilation.png)Annihilation. If you can't escape, barriers also count as breaking LoS so hold the barrier until the duration expires."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": []
         },
         {
           "id": "8.0.2",
@@ -14156,6 +15271,18 @@
             "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/baptiste.png)Baptiste",
             "* Baptiste can burn down Pharah with a few quick bursts of his primary fire. His Exo Boots keep him off the ground and in the air where Pharah has a difficult time landing rockets. Immortality Field is also a strong tool for keeping himself and his teammates alive against Pharah’s rockets and can give extra survivability time to a Barrage for the team to react and shut down the ult."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "mauga",
+            "ashe",
+            "widowmaker",
+            "cassidy",
+            "soldier-76",
+            "baptiste"
+          ]
         }
       ]
     },
@@ -14473,6 +15600,16 @@
             "Equally as important is to watch for her retreat. You can see the line of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/translocator.png)Translocator and immediately dash or fly to it and attack. When you hit her she'll be revealed for an easy kill. Heroes with mobility like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/d-va.png)D.Va, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/winston.png)Winston, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/echo.png)Echo, and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/anran.png)Anran are especially good at this.",
             "If she ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/translocator.png)Translocators right into your team, assume EMP is coming. CC her, dash away, or get to cover."
           ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "dva",
+            "winston",
+            "echo",
+            "anran"
+          ]
         }
       ]
     },
@@ -14772,6 +15909,15 @@
             "* Tracer's horizontal mobility far outclasses Moira’s. Three blinks can easily chase down Moira, no matter where she Fades to, and recall, let's Tracer get out after confirming the kill. At close range, Tracer melts Moira way faster than her Biotic Orb can heal her. Although Biotic Grasp makes damaging Tracer easy, Moira has no way to shut down Tracer or deal with Tracer harassing her allies.",
             "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/ana.png)Ana",
             "* Anti-Nade is basically a death sentence against any ally that Moira is trying to keep alive. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/moira.png)Moira has zero counterplay to Anti-Nade. Furthermore, you may be surprised at how often Ana players hit sleeps on an ulting Moira. Sleep Dart also makes it extremely dangerous for Moira to go in deep."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "dva",
+            "tracer",
+            "ana"
           ]
         }
       ]
@@ -15096,6 +16242,32 @@
             "Focus your dives and flanks on ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/lifeweaver.png)Lifeweaver . He won’t be personally killing you, so your only hindrance is his allies' protection.",
             "Save your best cooldowns until after Life Grip has been used. After you’ve seen someone get pulled, you have a long window of time to attack where your target can’t be saved by Grip.",
             "Pick a hero with vertical mobility. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/lifeweaver.png)Lifeweaver can easily avoid you if you can’t chase him vertically when he uses ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/petal-platform.png)Petal Platform."
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Specific Hero Counters names",
+          "content": [
+            "dva",
+            "wrecking-ball",
+            "echo",
+            "genji",
+            "jetpack-cat",
+            "sombra",
+            "ana",
+            "doomfist",
+            "hazard",
+            "winston",
+            "pharah",
+            "freja",
+            "reaper",
+            "tracer",
+            "venture",
+            "anran",
+            "vendetta",
+            "baptiste",
+            "lucio",
+            "zenyatta"
           ]
         }
       ]

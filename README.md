@@ -90,6 +90,85 @@ conda run -n overwatch python scripts/update.py --mobalytics-smoke-hero roadhog
 
 Mobalytics 原始 markdown 會留存於 `data/raw/mobalytics_markdown/`。
 
+## Gemini 補齊腳本（獨立，不整合 update.py）
+
+可用 Gemini 讀取 `overwatch_master.json` 的指定章節，補齊：
+
+- `6.1.x` Best Maps
+- `6.2.x` Worst Maps
+- `8.2` Specific Hero Counters names（僅英雄 id 列表）
+
+預設模型：`gemini-3.1-flash-lite-preview`
+
+### 前置
+
+1. 設定 API Key（擇一）
+
+```bash
+set GEMINI_API_KEY=你的_key
+```
+
+或在專案根目錄 `.env` 設定：
+
+```bash
+GEMINI_API_KEY=你的_key
+```
+
+2. 安裝 Gemini Python SDK
+
+```bash
+pip install google-genai
+```
+
+### 執行方式
+
+先建議跑完整更新流程，再跑補齊腳本：
+
+```bash
+conda run -n overwatch python scripts/update.py
+conda run -n overwatch python scripts/enrich_master_with_gemini.py --only-missing
+```
+
+單英雄測試（只看 Domina）：
+
+```bash
+conda run -n overwatch python scripts/enrich_master_with_gemini.py --hero domina --dry-run
+```
+
+強制覆蓋既有 `6.1/6.2/8.2`：
+
+```bash
+conda run -n overwatch python scripts/enrich_master_with_gemini.py --force
+```
+
+### 參數
+
+- `--hero <id>`: 只處理指定英雄。
+- `--only-missing`: 只補缺漏（預設啟用）。
+- `--dry-run`: 只輸出預覽，不寫回檔案。
+- `--force`: 覆蓋既有 `6.1/6.2` 子項與 `8.2 content`。
+- `--model`: 指定模型，預設 `gemini-3.1-flash-lite-preview`。
+- `--max-retries`: 失敗重試次數（預設 3）。
+- `--retry-base-seconds`: 指數退避基礎秒數（預設 1.5）。
+
+### 原始內容 vs AI 輸出（5 英雄對照測試）
+
+若你想先人工比對原始內容與 AI 推論結果，可使用預覽腳本（不會寫回 `overwatch_master.json`）：
+
+```bash
+conda run -n overwatch python scripts/preview_gemini_enrichment.py
+```
+
+預設會測 5 位英雄：`domina,zarya,ana,roadhog,kiriko`，輸出檔案：
+
+`data/app/gemini_preview_report.json`
+
+自訂英雄（逗號分隔）：
+
+```bash
+conda run -n overwatch python scripts/preview_gemini_enrichment.py --heroes domina,sigma,tracer,echo,mercy
+```
+
 ## 資料格式
 
 主要資料檔為 `data/overwatch_master.json`，頂層結構如下：
