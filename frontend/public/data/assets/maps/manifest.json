@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ilios",
+    "en": "Ilios",
+    "zh": "伊利歐斯",
+    "mode": "Control",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/ilios.jpg",
+    "local_path": "data/assets/maps/ilios.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "nepal",
+    "en": "Nepal",
+    "zh": "尼泊爾",
+    "mode": "Control",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/nepal.jpg",
+    "local_path": "data/assets/maps/nepal.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "lijiang-tower",
+    "en": "Lijiang Tower",
+    "zh": "灕江天塔",
+    "mode": "Control",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/lijiang-tower.jpg",
+    "local_path": "data/assets/maps/lijiang-tower.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "oasis",
+    "en": "Oasis",
+    "zh": "綠洲城",
+    "mode": "Control",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/oasis.jpg",
+    "local_path": "data/assets/maps/oasis.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "samoa",
+    "en": "Samoa",
+    "zh": "薩摩亞",
+    "mode": "Control",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/samoa.jpg",
+    "local_path": "data/assets/maps/samoa.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "busan",
+    "en": "Busan",
+    "zh": "釜山",
+    "mode": "Control",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/busan.jpg",
+    "local_path": "data/assets/maps/busan.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "route-66",
+    "en": "Route 66",
+    "zh": "66號公路",
+    "mode": "Escort",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/route-66.jpg",
+    "local_path": "data/assets/maps/route-66.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "havana",
+    "en": "Havana",
+    "zh": "哈瓦那",
+    "mode": "Escort",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/havana.jpg",
+    "local_path": "data/assets/maps/havana.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "junkertown",
+    "en": "Junkertown",
+    "zh": "垃圾鎮",
+    "mode": "Escort",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/junkertown.jpg",
+    "local_path": "data/assets/maps/junkertown.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "dorado",
+    "en": "Dorado",
+    "zh": "多拉多",
+    "mode": "Escort",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/dorado.jpg",
+    "local_path": "data/assets/maps/dorado.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "watchpoint-gibraltar",
+    "en": "Watchpoint: Gibraltar",
+    "zh": "捍衛者基地：直布羅陀",
+    "mode": "Escort",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/watchpoint-gibraltar.jpg",
+    "local_path": "data/assets/maps/watchpoint-gibraltar.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "circuit-royal",
+    "en": "Circuit Royal",
+    "zh": "皇家賽道",
+    "mode": "Escort",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/circuit-royal.jpg",
+    "local_path": "data/assets/maps/circuit-royal.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "rialto",
+    "en": "Rialto",
+    "zh": "里亞爾托",
+    "mode": "Escort",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/rialto.jpg",
+    "local_path": "data/assets/maps/rialto.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "shambali-monastery",
+    "en": "Shambali Monastery",
+    "zh": "香巴里僧院",
+    "mode": "Escort",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/shambali-monastery.jpg",
+    "local_path": "data/assets/maps/shambali-monastery.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "aatlis",
+    "en": "Aatlis",
+    "zh": "埃特利斯",
+    "mode": "Flashpoint",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/aatlis.jpg",
+    "local_path": "data/assets/maps/aatlis.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "new-junk-city",
+    "en": "New Junk City",
+    "zh": "新垃圾城",
+    "mode": "Flashpoint",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/new-junk-city.jpg",
+    "local_path": "data/assets/maps/new-junk-city.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "suravasa",
+    "en": "Suravasa",
+    "zh": "蘇拉瓦薩",
+    "mode": "Flashpoint",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/suravasa.jpg",
+    "local_path": "data/assets/maps/suravasa.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "midtown",
+    "en": "Midtown",
+    "zh": "中城區",
+    "mode": "Hybrid",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/midtown.jpg",
+    "local_path": "data/assets/maps/midtown.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "numbani",
+    "en": "Numbani",
+    "zh": "努巴尼",
+    "mode": "Hybrid",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/numbani.jpg",
+    "local_path": "data/assets/maps/numbani.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "kings-row",
+    "en": "King's Row",
+    "zh": "國王大道",
+    "mode": "Hybrid",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/kings-row.jpg",
+    "local_path": "data/assets/maps/kings-row.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "hollywood",
+    "en": "Hollywood",
+    "zh": "好萊塢",
+    "mode": "Hybrid",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/hollywood.jpg",
+    "local_path": "data/assets/maps/hollywood.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "paraiso",
+    "en": "Paraíso",
+    "zh": "帕拉伊索",
+    "mode": "Hybrid",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/paraiso.jpg",
+    "local_path": "data/assets/maps/paraiso.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "eichenwalde",
+    "en": "Eichenwalde",
+    "zh": "愛西瓦德",
+    "mode": "Hybrid",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/eichenwalde.jpg",
+    "local_path": "data/assets/maps/eichenwalde.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "blizzard-world",
+    "en": "Blizzard World",
+    "zh": "暴雪樂園",
+    "mode": "Hybrid",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/blizzard-world.jpg",
+    "local_path": "data/assets/maps/blizzard-world.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "esperanca",
+    "en": "Esperança",
+    "zh": "希望之城",
+    "mode": "Push",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/esperanca.jpg",
+    "local_path": "data/assets/maps/esperanca.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "new-queen-street",
+    "en": "New Queen Street",
+    "zh": "新皇后街",
+    "mode": "Push",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/new-queen-street.jpg",
+    "local_path": "data/assets/maps/new-queen-street.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "runasapi",
+    "en": "Runasapi",
+    "zh": "盧納薩庇",
+    "mode": "Push",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/runasapi.jpg",
+    "local_path": "data/assets/maps/runasapi.jpg",
+    "status": "ok"
+  },
+  {
+    "id": "colosseo",
+    "en": "Colosseo",
+    "zh": "羅馬競技場",
+    "mode": "Push",
+    "source": "overfast",
+    "image_url": "https://overfast-api.tekrop.fr/static/maps/colosseo.jpg",
+    "local_path": "data/assets/maps/colosseo.jpg",
+    "status": "ok"
+  }
+]

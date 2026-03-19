@@ -1,0 +1,1592 @@
+[
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/a-36-tactical-grenade.png",
+    "local_path": "data/assets/guide/6ad6a85052cee304.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/accretion.png",
+    "local_path": "data/assets/guide/b87166103290a2c3.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/adaptive-shield.png",
+    "local_path": "data/assets/guide/a757c1f15c83012d.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/adrenaline-rush.png",
+    "local_path": "data/assets/guide/97e645527d54a63e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/amp-it-up.png",
+    "local_path": "data/assets/guide/7956014a02388269.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/amplification-matrix.png",
+    "local_path": "data/assets/guide/d56469975ca68b87.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/angelic-descent.png",
+    "local_path": "data/assets/guide/3543d7d6f7ff3efe.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/annihilation.png",
+    "local_path": "data/assets/guide/de397de5fd8f936e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/augmented-fusion-driver.png",
+    "local_path": "data/assets/guide/945c6006c1ad69b0.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/b-o-b.png",
+    "local_path": "data/assets/guide/526e37997ecc8f1a.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrage.png",
+    "local_path": "data/assets/guide/bdc23f8912816520.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-array.png",
+    "local_path": "data/assets/guide/921f50ca3ecba070.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-field.png",
+    "local_path": "data/assets/guide/e2b61a19c451876c.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-projector.png",
+    "local_path": "data/assets/guide/3320e3b9cbd5d84c.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-shield.png",
+    "local_path": "data/assets/guide/1858a99948e6d377.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/berserker.png",
+    "local_path": "data/assets/guide/b0fa6db11f7513d7.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/binding-chain.png",
+    "local_path": "data/assets/guide/61a533467bf9f01d.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-field.png",
+    "local_path": "data/assets/guide/bf8d8ba901c24a9b.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-grasp.png",
+    "local_path": "data/assets/guide/112e6bfacd58fe0e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-grenade.png",
+    "local_path": "data/assets/guide/5845366bf977ed06.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-launcher.png",
+    "local_path": "data/assets/guide/0ab52135db053bfc.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-orb.png",
+    "local_path": "data/assets/guide/b4447c9cc5302954.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-pawjectiles.png",
+    "local_path": "data/assets/guide/b8ec4b6b8f9a2f9e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-rifle.png",
+    "local_path": "data/assets/guide/8e97b1456138e53b.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/blink.png",
+    "local_path": "data/assets/guide/2c47faa18b7d4066.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/blizzard.png",
+    "local_path": "data/assets/guide/7578824db04164d2.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/block-nemesis-form.png",
+    "local_path": "data/assets/guide/a6b525622400ef12.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/bola-shot.png",
+    "local_path": "data/assets/guide/b1ce1291520986df.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/bonespur.png",
+    "local_path": "data/assets/guide/e333ac66d1d49141.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/boosters.png",
+    "local_path": "data/assets/guide/390fb173c801c718.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/bounty-hunting.png",
+    "local_path": "data/assets/guide/58f847da37478046.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/burrow.png",
+    "local_path": "data/assets/guide/1c1049853f308bf0.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/caduceus-blaster.png",
+    "local_path": "data/assets/guide/de8bd3e0c6c89d9e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/caduceus-staff.png",
+    "local_path": "data/assets/guide/2c81fb62b0b54490.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/cage-fight.png",
+    "local_path": "data/assets/guide/9b7ffe70b1afed44.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/call-mech.png",
+    "local_path": "data/assets/guide/068bc5e965810679.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/captive-sun.png",
+    "local_path": "data/assets/guide/b00bbcb63e12ae6d.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/cardiac-overdrive.png",
+    "local_path": "data/assets/guide/b54c199ade517940.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/carnage.png",
+    "local_path": "data/assets/guide/bb798f5782fe4ccc.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/catnapper.png",
+    "local_path": "data/assets/guide/41958b3505632e51.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/chain-hook.png",
+    "local_path": "data/assets/guide/92d64f77a57b16b8.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/charge.png",
+    "local_path": "data/assets/guide/acd524155a25802e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/clobber.png",
+    "local_path": "data/assets/guide/6bfb3e5a31c9072e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/coach-gun.png",
+    "local_path": "data/assets/guide/aa1e1fee6005660a.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/coalescence.png",
+    "local_path": "data/assets/guide/c2024d883333803a.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/combat-roll.png",
+    "local_path": "data/assets/guide/ca5aa7c83d303ae8.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/commanding-shout.png",
+    "local_path": "data/assets/guide/6015e8c1fd972a00.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/concussion-mine.png",
+    "local_path": "data/assets/guide/ba859132aa8f14c2.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/concussive-blast.png",
+    "local_path": "data/assets/guide/ae9bcf3003d3c260.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/configuration-artillery.png",
+    "local_path": "data/assets/guide/a34f91117dd5373e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/configuration-assault.png",
+    "local_path": "data/assets/guide/8d001c017ec66f5c.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/configuration-recon.png",
+    "local_path": "data/assets/guide/d49d78c271eff986.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/crossfade.png",
+    "local_path": "data/assets/guide/646d7b1b049a69e3.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/cryo-freeze.png",
+    "local_path": "data/assets/guide/d3098a7cd908d5b1.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/crystal-charge.png",
+    "local_path": "data/assets/guide/a4c29a25893817ef.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/cyber-agility.png",
+    "local_path": "data/assets/guide/54c6c32e92f23687.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/cyber-frag.png",
+    "local_path": "data/assets/guide/7432cc7ae0e02f92.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/dancing-blaze.png",
+    "local_path": "data/assets/guide/b03c6c39b72fea97.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/deadeye.png",
+    "local_path": "data/assets/guide/4c3fdbb733566161.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/death-blossom.png",
+    "local_path": "data/assets/guide/ffc140c6d6a32c46.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/defense-matrix.png",
+    "local_path": "data/assets/guide/bd20cd06dd7b0779.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/deflect.png",
+    "local_path": "data/assets/guide/50e882867327ed22.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/deploy-turret.png",
+    "local_path": "data/assets/guide/5a281b66a6179e54.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/disruptor-shot.png",
+    "local_path": "data/assets/guide/900594053065a6b7.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/downpour.png",
+    "local_path": "data/assets/guide/eeafb396dbd4850f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/dragonblade.png",
+    "local_path": "data/assets/guide/7b9aee18b1847b4b.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/dragonstrike.png",
+    "local_path": "data/assets/guide/16d7e47ad5393cd4.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/drill-dash.png",
+    "local_path": "data/assets/guide/f83edd45b5d018be.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/duplicate.png",
+    "local_path": "data/assets/guide/61a19a9c46e2ab66.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/dynamite.png",
+    "local_path": "data/assets/guide/17c0defbc2244ec8.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/earthshatter.png",
+    "local_path": "data/assets/guide/7d8540657f6fd9b7.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/eject.png",
+    "local_path": "data/assets/guide/3727e1ebb5a40942.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/emp.png",
+    "local_path": "data/assets/guide/7fac3c200ab1ed09.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/endothermic-blaster.png",
+    "local_path": "data/assets/guide/6f0829d84c10e9e2.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/energy-javelin.png",
+    "local_path": "data/assets/guide/76027704b29fb3cb.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/energy.png",
+    "local_path": "data/assets/guide/385129e8606db3b6.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/exo-boots.png",
+    "local_path": "data/assets/guide/671f8de840d7801b.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/experimental-barrier.png",
+    "local_path": "data/assets/guide/17f84ecf06b49c68.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/explosive-resolve.png",
+    "local_path": "data/assets/guide/34808702edc730f3.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fade.png",
+    "local_path": "data/assets/guide/3645240b7a0b07c1.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fan-the-flames.png",
+    "local_path": "data/assets/guide/99e4dd776d3d372b.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fire-strike.png",
+    "local_path": "data/assets/guide/d2aabba10a98f146.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/flashbang.png",
+    "local_path": "data/assets/guide/f60c62173ce6fce8.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/flight.png",
+    "local_path": "data/assets/guide/912c21ab260072ee.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/focusing-beam.png",
+    "local_path": "data/assets/guide/9ecb1957f6f092f0.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/forge-hammer.png",
+    "local_path": "data/assets/guide/41c5f71c191494f6.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fortify.png",
+    "local_path": "data/assets/guide/1818b49db97673b3.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/frag-launcher.png",
+    "local_path": "data/assets/guide/72f7df04b6d0f995.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/frenetic-flight.png",
+    "local_path": "data/assets/guide/5232ea25e34d2656.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fusion-cannons.png",
+    "local_path": "data/assets/guide/2a1e12556e664cb2.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/glide-boost.png",
+    "local_path": "data/assets/guide/0af76c2c1400b1cb.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/glide.png",
+    "local_path": "data/assets/guide/ab6789ce439abe44.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/grappling-claw.png",
+    "local_path": "data/assets/guide/e2a04628b040f9a1.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/grappling-hook.png",
+    "local_path": "data/assets/guide/abe4440fcbb0df97.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/gravitic-flux.png",
+    "local_path": "data/assets/guide/c95892af1b952964.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/graviton-surge.png",
+    "local_path": "data/assets/guide/eacdf2c5d0a248f5.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/guardian-angel.png",
+    "local_path": "data/assets/guide/148ecdeadcafa610.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/guardian-wave.png",
+    "local_path": "data/assets/guide/03b0e43c2c7db099.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/hack.png",
+    "local_path": "data/assets/guide/c99c013677934a46.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/hand-cannon.png",
+    "local_path": "data/assets/guide/91a2bc571e74c5b2.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/healing-blossom.png",
+    "local_path": "data/assets/guide/fbf6e063631b500d.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/healing-kasa.png",
+    "local_path": "data/assets/guide/215ca01bdeb99fbb.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/healing-ofuda.png",
+    "local_path": "data/assets/guide/b83666fe6c7d4451.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/healing-pylon.png",
+    "local_path": "data/assets/guide/2b591a0928bd1b4f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/heavy-pulse-rifle.png",
+    "local_path": "data/assets/guide/684b9c24af2959b0.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/helix-rockets.png",
+    "local_path": "data/assets/guide/fc8b8c45dbb1ed83.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/hellfire-shotguns.png",
+    "local_path": "data/assets/guide/ee63221cfd675de0.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/hover-jets.png",
+    "local_path": "data/assets/guide/3ec5c760c0f9e4e4.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/hyper-ring.png",
+    "local_path": "data/assets/guide/a85755b1f05e3456.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/hyperspheres.png",
+    "local_path": "data/assets/guide/30d2c2929a99f2d5.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/ice-wall.png",
+    "local_path": "data/assets/guide/f6754797bf4c1a57.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/immortality-field.png",
+    "local_path": "data/assets/guide/3adb743da6c064fe.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/inferno-rush.png",
+    "local_path": "data/assets/guide/9ba68e38b13e072f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/infra-sight.png",
+    "local_path": "data/assets/guide/916dc4a069c6e035.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/inspire.png",
+    "local_path": "data/assets/guide/50cf2be15ce4d753.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jagged-blade.png",
+    "local_path": "data/assets/guide/f053add36af24437.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jagged-wall.png",
+    "local_path": "data/assets/guide/860a1f6211acadb3.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/javelin-spin.png",
+    "local_path": "data/assets/guide/6c968a00b8106f0d.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jet-dash.png",
+    "local_path": "data/assets/guide/77fd7fe9918b2164.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jetpack.png",
+    "local_path": "data/assets/guide/766a854bf2f54c93.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jump-jet.png",
+    "local_path": "data/assets/guide/b259920bedbf88ae.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jump-pack.png",
+    "local_path": "data/assets/guide/71e72edd3dddab12.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/katashiro-return.png",
+    "local_path": "data/assets/guide/7117e6d46ab75604.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/kekkai-sanctuary.png",
+    "local_path": "data/assets/guide/d94973157497aac1.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/kinetic-grasp.png",
+    "local_path": "data/assets/guide/7486123dd5edc842.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/kitsune-rush.png",
+    "local_path": "data/assets/guide/d4bee70da37be094.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/kunai.png",
+    "local_path": "data/assets/guide/8fd604ed67d2d5bc.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/life-grip.png",
+    "local_path": "data/assets/guide/70bdaf439d6cdcdd.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/lifeline.png",
+    "local_path": "data/assets/guide/7a678ebc365ae830.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/light-gun.png",
+    "local_path": "data/assets/guide/83cc24b57b713e82.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/lunge.png",
+    "local_path": "data/assets/guide/64689db265ff11a7.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/machine-pistol.png",
+    "local_path": "data/assets/guide/429384d371b33501.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/martian-overboots.png",
+    "local_path": "data/assets/guide/c834fd2163b4acf2.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/mediblaster.png",
+    "local_path": "data/assets/guide/d5e57bf7180221d8.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/meteor-strike.png",
+    "local_path": "data/assets/guide/b2653d3e7fce99bf.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/micro-missiles.png",
+    "local_path": "data/assets/guide/cb85107f12591c3b.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/minefield.png",
+    "local_path": "data/assets/guide/fba9f0d37c01bf57.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/molten-core.png",
+    "local_path": "data/assets/guide/6db02d49ff2c55df.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/nano-boost.png",
+    "local_path": "data/assets/guide/9db85f17ed9127be.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/nemesis-form.png",
+    "local_path": "data/assets/guide/058cc46b9e18740c.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/onslaught.png",
+    "local_path": "data/assets/guide/60370685282b4102.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/opportunist.png",
+    "local_path": "data/assets/guide/07c9762d91f6e823.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/orb-of-destruction.png",
+    "local_path": "data/assets/guide/a7f6469e50fb0458.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/orb-of-discord.png",
+    "local_path": "data/assets/guide/47965eb66f5ed006.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/orb-of-harmony.png",
+    "local_path": "data/assets/guide/495517d449a60604.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/orbital-ray.png",
+    "local_path": "data/assets/guide/a556e4ed6de03aaf.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/outburst.png",
+    "local_path": "data/assets/guide/c1bc9ef3f3c3f8dc.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/overclock.png",
+    "local_path": "data/assets/guide/74549b59ef18f026.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/overload.png",
+    "local_path": "data/assets/guide/02335ee8dc146b90.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/override-protocol.png",
+    "local_path": "data/assets/guide/eacd4ed16f02a4f7.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/overrun.png",
+    "local_path": "data/assets/guide/a5b715f2ad049a53.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/palatine-fang.png",
+    "local_path": "data/assets/guide/852241ea040103f6.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/panopticon.png",
+    "local_path": "data/assets/guide/d21539d5998c3ac6.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-barrier.png",
+    "local_path": "data/assets/guide/81b1062b5b25f966.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-cannon.png",
+    "local_path": "data/assets/guide/319945fa8ef79cf6.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/peacekeeper.png",
+    "local_path": "data/assets/guide/588a4d00913791ed.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/petal-platform.png",
+    "local_path": "data/assets/guide/d747d16d3747ce4f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/photon-barrier.png",
+    "local_path": "data/assets/guide/5a5d8bc6b248eb68.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/photon-magnum.png",
+    "local_path": "data/assets/guide/1f8db820974b857f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/photon-projector.png",
+    "local_path": "data/assets/guide/dfca9f5b755d9b41.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/piledriver.png",
+    "local_path": "data/assets/guide/445ff36cea6a8e68.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/power-block.png",
+    "local_path": "data/assets/guide/1fda4cd48050e83c.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/power-slide.png",
+    "local_path": "data/assets/guide/861b66a38565c2cf.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/primal-rage.png",
+    "local_path": "data/assets/guide/f9410941588ff5c9.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/projected-barrier.png",
+    "local_path": "data/assets/guide/edfc9d8a2457aafb.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/projected-edge.png",
+    "local_path": "data/assets/guide/b3466d6377c4830f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/protection-suzu.png",
+    "local_path": "data/assets/guide/617631df12ff0fc7.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/pulsar-torpedoes.png",
+    "local_path": "data/assets/guide/d30517a5688f2742.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/pulse-bomb.png",
+    "local_path": "data/assets/guide/4179aa31d749fae6.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/pulse-pistols.png",
+    "local_path": "data/assets/guide/5d6f07498a625201.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/pummel-nemesis-form.png",
+    "local_path": "data/assets/guide/c1e40f427ae57001.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/purr.png",
+    "local_path": "data/assets/guide/f538962b42c61721.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/quad-cannons.png",
+    "local_path": "data/assets/guide/c4cc06a88a117304.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/quick-dash.png",
+    "local_path": "data/assets/guide/5a9b60679667ad2a.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/railgun.png",
+    "local_path": "data/assets/guide/e8c9519205769313.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rally.png",
+    "local_path": "data/assets/guide/199388013619eeee.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rampage.png",
+    "local_path": "data/assets/guide/a110bdbe1bbd0f0f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/ravenous-vortex.png",
+    "local_path": "data/assets/guide/4430a4dc25f88f5c.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/recall.png",
+    "local_path": "data/assets/guide/59884f41423190cf.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/reconfigure.png",
+    "local_path": "data/assets/guide/f84538f13c413123.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/reconstruction.png",
+    "local_path": "data/assets/guide/72a652a468e51b07.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/regenerative-burst.png",
+    "local_path": "data/assets/guide/3f5e4677380a1ca1.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rejuvenating-dash.png",
+    "local_path": "data/assets/guide/2840b3ed5df016d5.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/remedy-aura.png",
+    "local_path": "data/assets/guide/097b3464b14cd331.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/repair-pack.png",
+    "local_path": "data/assets/guide/8053c37a257e8067.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/restorative-stream.png",
+    "local_path": "data/assets/guide/e2ee1807aea9c23a.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/resurrect.png",
+    "local_path": "data/assets/guide/76e56d5b5359b387.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/revdraw-crossbow.png",
+    "local_path": "data/assets/guide/6059ee4843491111.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rip-tire.png",
+    "local_path": "data/assets/guide/e30d6cf12db48904.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rivet-gun.png",
+    "local_path": "data/assets/guide/40832b6bb39dcc47.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rocket-flail.png",
+    "local_path": "data/assets/guide/be2f8119902a84ce.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rocket-hammer.png",
+    "local_path": "data/assets/guide/0bdc6b49a56a3be7.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rocket-launcher.png",
+    "local_path": "data/assets/guide/ce38aca322038472.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rocket-punch.png",
+    "local_path": "data/assets/guide/07a6c392a4903511.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/roll.png",
+    "local_path": "data/assets/guide/d1ab2ae4c4cebd73.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rushing-torrent.png",
+    "local_path": "data/assets/guide/821e6d2eeb6b1948.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/scattergun.png",
+    "local_path": "data/assets/guide/21f45973280e0d8a.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/scrap-gun.png",
+    "local_path": "data/assets/guide/2aaac1b9bc2b7dc1.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/seismic-slam.png",
+    "local_path": "data/assets/guide/177c26faed388178.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/self-destruct.png",
+    "local_path": "data/assets/guide/182487a51a584671.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sentry-turret.png",
+    "local_path": "data/assets/guide/6811bc86a1033e85.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/shadow-step.png",
+    "local_path": "data/assets/guide/e223d900c52de2b4.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/shield-bash.png",
+    "local_path": "data/assets/guide/b1200abdf4dd910b.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/shuriken.png",
+    "local_path": "data/assets/guide/6c736d07f66ab357.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/siphon-blaster.png",
+    "local_path": "data/assets/guide/8bb0ce66b4fe8f61.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sleep-dart.png",
+    "local_path": "data/assets/guide/89ddbbfe1fbc9a6c.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/smart-excavator.png",
+    "local_path": "data/assets/guide/f0115172adaad5a9.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/snap-kick.png",
+    "local_path": "data/assets/guide/0c56bc1f79635b12.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/soaring-slice.png",
+    "local_path": "data/assets/guide/a4a69967a061e176.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/solar-rifle.png",
+    "local_path": "data/assets/guide/bb101b26b726fd3d.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sonic-amplifier.png",
+    "local_path": "data/assets/guide/f9007586b31570ef.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sonic-arrow.png",
+    "local_path": "data/assets/guide/0867ccdb950bcb34.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sonic-repulsors.png",
+    "local_path": "data/assets/guide/2a769fd04e1536dc.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sound-barrier.png",
+    "local_path": "data/assets/guide/d2ebbaa1842e11ad.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/soundwave.png",
+    "local_path": "data/assets/guide/7480b183af5d8219.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/spike-guard.png",
+    "local_path": "data/assets/guide/c47191eac4c3da8b.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/spirit-glaive.png",
+    "local_path": "data/assets/guide/59870a8e73620945.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sprint.png",
+    "local_path": "data/assets/guide/ee9a27f9733b28b5.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/steel-trap.png",
+    "local_path": "data/assets/guide/bcd737fdd37e006d.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sticky-bombs.png",
+    "local_path": "data/assets/guide/c917d6cf1c095fcf.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/storm-arrows.png",
+    "local_path": "data/assets/guide/fd60def8b68baca3.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/storm-bow.png",
+    "local_path": "data/assets/guide/17238750e6fd25bf.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sundering-blade.png",
+    "local_path": "data/assets/guide/c4c707eb4fb47abe.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/swift-step.png",
+    "local_path": "data/assets/guide/ac12e57db5e0a620.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/swift-strike.png",
+    "local_path": "data/assets/guide/2b083b4a4d737525.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/synthetic-burst-rifle.png",
+    "local_path": "data/assets/guide/adac5a9d729fb48c.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/tactical-visor.png",
+    "local_path": "data/assets/guide/5a0bd28ab2154772.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/take-a-breather.png",
+    "local_path": "data/assets/guide/b08074397e9cf795.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/take-aim-emre.png",
+    "local_path": "data/assets/guide/7f0a804fdbeda034.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/take-aim-freja.png",
+    "local_path": "data/assets/guide/3e91f745133fcd75.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/tectonic-shock.png",
+    "local_path": "data/assets/guide/4a3281f9d6d86612.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/teleporter.png",
+    "local_path": "data/assets/guide/442047e29c6772ee.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/terra-surge.png",
+    "local_path": "data/assets/guide/135c836b3c9c24ac.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/tesla-cannon.png",
+    "local_path": "data/assets/guide/6e13dbd3b63c0f90.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/the-best-defense.png",
+    "local_path": "data/assets/guide/287f9b9e850436af.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/the-reaping.png",
+    "local_path": "data/assets/guide/bfefb918f7aa1322.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/the-viper.png",
+    "local_path": "data/assets/guide/6d41bdb3da6b2de8.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/thorn-volley.png",
+    "local_path": "data/assets/guide/268ca50e0a721b53.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/tidal-blast.png",
+    "local_path": "data/assets/guide/91b2239520de7052.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/total-mayhem.png",
+    "local_path": "data/assets/guide/6b597825c4f622cd.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/transcendence.png",
+    "local_path": "data/assets/guide/feb976c891fbe2ae.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/translocator.png",
+    "local_path": "data/assets/guide/e02932bc2fe16c69.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/tree-of-life.png",
+    "local_path": "data/assets/guide/7a4677520600b458.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/tri-shot.png",
+    "local_path": "data/assets/guide/3db6bb05eabd9f89.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/updraft.png",
+    "local_path": "data/assets/guide/af11f739171075dc.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/valkyrie.png",
+    "local_path": "data/assets/guide/7df3cd0fb86c3ebf.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/vault.png",
+    "local_path": "data/assets/guide/0288db79a40ae52f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/venom-mine.png",
+    "local_path": "data/assets/guide/be9f23a26307e96b.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/vermillion-ascent.png",
+    "local_path": "data/assets/guide/6a979f3121204210.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/vermillion-revival.png",
+    "local_path": "data/assets/guide/f8fcdd09fc03d81e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/violent-leap.png",
+    "local_path": "data/assets/guide/121d222c0195922b.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/virus.png",
+    "local_path": "data/assets/guide/193bfabc2fb3df0f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/void-accelerator-omnic-form.png",
+    "local_path": "data/assets/guide/247e18e131793da8.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/void-barrier-omnic-form.png",
+    "local_path": "data/assets/guide/18b39bbccad34011.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/wall-climb.png",
+    "local_path": "data/assets/guide/7d1c537e6929240e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/wall-ride.png",
+    "local_path": "data/assets/guide/808dcefc7ac05287.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/warding-stance.png",
+    "local_path": "data/assets/guide/5102a49af3545d2d.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/whip-shot.png",
+    "local_path": "data/assets/guide/7a4683cc8d893758.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/whirlwind-dash.png",
+    "local_path": "data/assets/guide/f3d27322dc1f8779.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/whole-hog.png",
+    "local_path": "data/assets/guide/c112a0acc9386624.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/widows-kiss.png",
+    "local_path": "data/assets/guide/bf05212c65efd0db.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/wraith-form.png",
+    "local_path": "data/assets/guide/7bf2a5a33fdf1bde.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/xuanwu-staff.png",
+    "local_path": "data/assets/guide/8fbe92ce7f53c900.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/zhuque-fans.png",
+    "local_path": "data/assets/guide/e314387b816b98fa.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/ana.png",
+    "local_path": "data/assets/guide/3bd1f9f730a6a2ce.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/anran.png",
+    "local_path": "data/assets/guide/336ae88d165cfe5a.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/ashe.png",
+    "local_path": "data/assets/guide/1745f43a104480df.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/baptiste.png",
+    "local_path": "data/assets/guide/cfaf284c1e565920.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/bastion.png",
+    "local_path": "data/assets/guide/9836801e140c9b2a.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/brigitte.png",
+    "local_path": "data/assets/guide/df34545acaf615da.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/cassidy.png",
+    "local_path": "data/assets/guide/e57835c9ff2eb7ae.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/d-va.png",
+    "local_path": "data/assets/guide/2e4a51913793e6dc.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/domina.png",
+    "local_path": "data/assets/guide/91e2ca432368c785.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/doomfist.png",
+    "local_path": "data/assets/guide/b0e3b7fdf5d7ba15.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/echo.png",
+    "local_path": "data/assets/guide/ec8f0896ca78ec6f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/emre.png",
+    "local_path": "data/assets/guide/e4d3354cf66c9e62.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/freja.png",
+    "local_path": "data/assets/guide/9d5aac4b0dd47287.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/genji.png",
+    "local_path": "data/assets/guide/c5e996565ab1a764.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/hanzo.png",
+    "local_path": "data/assets/guide/affc69220cbf88d7.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/hazard.png",
+    "local_path": "data/assets/guide/8f2eb5a45467c702.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/illari.png",
+    "local_path": "data/assets/guide/2975ce75297a0957.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/jetpack-cat.png",
+    "local_path": "data/assets/guide/5ecb2adb5abc123f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/junker-queen.png",
+    "local_path": "data/assets/guide/452c9a51fb58d39d.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/junkrat.png",
+    "local_path": "data/assets/guide/2b23a0f925f80146.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/juno.png",
+    "local_path": "data/assets/guide/13c0663d738c73ee.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/kiriko.png",
+    "local_path": "data/assets/guide/ca4458a60a9fff01.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/lifeweaver.png",
+    "local_path": "data/assets/guide/41367de8021167d5.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/lucio.png",
+    "local_path": "data/assets/guide/3d1103aaa0893433.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mauga.png",
+    "local_path": "data/assets/guide/e958e5cf8ba983fa.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mei.png",
+    "local_path": "data/assets/guide/83501cfadb6150e1.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mercy.png",
+    "local_path": "data/assets/guide/c7d7f2bfb765e77e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mizuki.png",
+    "local_path": "data/assets/guide/90fbc15b3208bec3.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/moira.png",
+    "local_path": "data/assets/guide/d2383fba0420b5f1.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/orisa.png",
+    "local_path": "data/assets/guide/c56b764d48d7b25b.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/pharah.png",
+    "local_path": "data/assets/guide/98529ba32956dcb8.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/ramattra.png",
+    "local_path": "data/assets/guide/3f791ccf8b419b4a.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reaper.png",
+    "local_path": "data/assets/guide/5bcf0662f0357e81.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reinhardt.png",
+    "local_path": "data/assets/guide/bfc283f3f5c967de.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/roadhog.png",
+    "local_path": "data/assets/guide/492c99cc430727c1.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/sigma.png",
+    "local_path": "data/assets/guide/b07e1a5d33e34f21.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/sojourn.png",
+    "local_path": "data/assets/guide/0df66e1c25a77a79.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/soldier-76.png",
+    "local_path": "data/assets/guide/29b626780c408560.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/sombra.png",
+    "local_path": "data/assets/guide/670bb2169385300d.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/symmetra.png",
+    "local_path": "data/assets/guide/85db567c48780d42.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/torbjorn.png",
+    "local_path": "data/assets/guide/954ef74e420324bc.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/tracer.png",
+    "local_path": "data/assets/guide/5c24a105db5a970e.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/vendetta.png",
+    "local_path": "data/assets/guide/52c34367e459b0af.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/venture.png",
+    "local_path": "data/assets/guide/47ceb39c2ed21da9.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/widowmaker.png",
+    "local_path": "data/assets/guide/62383b6520e2bec1.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/winston.png",
+    "local_path": "data/assets/guide/55b5862f0bee17fa.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/wrecking-ball.png",
+    "local_path": "data/assets/guide/2d37d713fbda6bee.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/wuyang.png",
+    "local_path": "data/assets/guide/9f82e6ddaa52911f.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zarya.png",
+    "local_path": "data/assets/guide/530a84fb4af55362.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zenyatta.png",
+    "local_path": "data/assets/guide/d61f1a6f760500a9.png",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/medic.svg",
+    "local_path": "data/assets/guide/2c6092f82d0f20bc.svg",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/support.svg",
+    "local_path": "data/assets/guide/28f559449d0692f6.svg",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/survivor.svg",
+    "local_path": "data/assets/guide/c53b36b242971604.svg",
+    "status": "ok"
+  },
+  {
+    "image_url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/tank.svg",
+    "local_path": "data/assets/guide/9ed520f69c65040c.svg",
+    "status": "ok"
+  }
+]
