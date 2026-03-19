@@ -25,27 +25,38 @@ export function Header({ title, subtitle }: HeaderProps) {
       </div>
       <div className="flex items-center gap-4">
         {/* Language switch */}
-        <div className="flex items-center gap-1 text-xs font-bold">
+        <div
+          className="flex items-center rounded-full p-1 text-xs font-bold"
+          style={{ backgroundColor: 'rgba(242,127,13,0.1)', border: '1px solid rgba(242,127,13,0.18)' }}
+        >
           <button
             onClick={() => setLocale('en')}
-            className={`px-2 py-1 rounded transition-all ${locale === 'en' ? 'text-[#f27f0d]' : 'text-gray-500'}`}
+            className={`px-2.5 py-1 rounded-full transition-all duration-300 ${
+              locale === 'en' ? 'text-[#221910] -translate-y-px scale-105' : 'text-gray-400 hover:text-[#f27f0d]'
+            }`}
+            style={locale === 'en'
+              ? { backgroundColor: '#f27f0d', boxShadow: '0 0 14px rgba(242,127,13,0.45)' }
+              : undefined}
           >
-            EN
+            {t.language.en}
           </button>
-          <span className="text-gray-600">|</span>
           <button
-            title={t.language.comingSoon}
-            className="px-2 py-1 rounded text-gray-600 cursor-not-allowed opacity-50"
-            disabled
+            onClick={() => setLocale('zh-TW')}
+            className={`px-2.5 py-1 rounded-full transition-all duration-300 ${
+              locale === 'zh-TW' ? 'text-[#221910] -translate-y-px scale-105' : 'text-gray-400 hover:text-[#f27f0d]'
+            }`}
+            style={locale === 'zh-TW'
+              ? { backgroundColor: '#f27f0d', boxShadow: '0 0 14px rgba(242,127,13,0.45)' }
+              : undefined}
           >
-            ZH-TW
+            {t.language.zhTW}
           </button>
         </div>
         {/* Nav links */}
         <nav className="hidden md:flex items-center gap-4 text-sm font-bold">
           <Link to="/" className={location.pathname === '/' ? 'text-[#f27f0d]' : 'text-gray-400 hover:text-[#f27f0d]'}>
             <span className="material-symbols-outlined align-middle text-lg mr-1">map</span>
-            Maps
+            {t.nav.maps}
           </Link>
         </nav>
       </div>

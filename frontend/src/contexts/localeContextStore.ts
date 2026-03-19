@@ -1,12 +1,11 @@
 import { createContext, useContext } from 'react';
 import { getMessages } from '../locales';
 import type { Locale } from '../types';
-import type { Messages } from '../locales/en';
 
 export interface LocaleContextValue {
   locale: Locale;
   setLocale: (l: Locale) => void;
-  t: Messages;
+  t: ReturnType<typeof getMessages>;
 }
 
 export const LocaleContext = createContext<LocaleContextValue>({

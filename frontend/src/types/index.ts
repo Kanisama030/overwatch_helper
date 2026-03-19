@@ -59,6 +59,7 @@ export interface HeroSummary {
   en: string;
   zh: string | null;
   role: Role;
+  subrole?: string;
   tier: string | null;
   default_win_rate: number | null;
   default_pick_rate: number | null;

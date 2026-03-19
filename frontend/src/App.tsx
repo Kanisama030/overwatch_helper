@@ -11,23 +11,25 @@ import { MapSelectionPage } from './pages/MapSelectionPage';
 import { HeroSelectionPage } from './pages/HeroSelectionPage';
 import { HeroDetailPage } from './pages/HeroDetailPage';
 import { useLocation } from 'react-router-dom';
-
-const PAGE_META: Record<string, { title: string; subtitle: string }> = {
-  '/': { title: 'Map Selection', subtitle: 'Step 1: Choose your battleground' },
-  '/heroes': { title: 'Hero Guide', subtitle: 'Step 2: Pick your hero' },
-};
+import { useLocale } from './contexts/localeContextStore';
 
 function AppShell() {
   const { loading, error } = useDataset();
   const location = useLocation();
+  const { t } = useLocale();
 
   if (loading) return <LoadingScreen />;
   if (error) return <ErrorScreen message={error} />;
 
+  const pageMeta: Record<string, { title: string; subtitle: string }> = {
+    '/': { title: t.maps.title, subtitle: t.steps.step1 },
+    '/heroes': { title: t.heroes.title, subtitle: t.steps.step2 },
+  };
+
   const isHeroDetail = location.pathname.startsWith('/hero/');
   const meta = isHeroDetail
-    ? { title: 'Hero Analysis', subtitle: 'Step 3: Strategy' }
-    : (PAGE_META[location.pathname] ?? { title: 'Overwatch Helper', subtitle: '' });
+    ? { title: t.hero.analysisTitle, subtitle: t.steps.step3 }
+    : (pageMeta[location.pathname] ?? { title: t.app.name, subtitle: '' });
 
   return (
     <div className="flex h-screen overflow-hidden" style={{ backgroundColor: '#221910', color: '#f1f5f9' }}>

@@ -1420,5 +1420,26 @@
       "zh": "羅馬競技場",
       "mode": "Push"
     }
-  ]
+  ],
+  "terms": {
+    "Hybrid": "混合",
+    "Escort": "護送",
+    "Control": "控制",
+    "Push": "推進",
+    "Flashpoint": "閃擊點",
+    "perks": "特殊能力",
+    "minor perks": "次要特殊能力",
+    "major perks": "主要特殊能力",
+    "subrole": "副角色",
+    "Bruiser": "戰士",
+    "Initiator": "前鋒",
+    "Stalwart": "堅守者",
+    "Flanker": "側襲者",
+    "Recon": "偵查者",
+    "Sharpshooter": "神射手",
+    "Specialist": "專家",
+    "Medic": "醫護兵",
+    "Survivor": "生存專家",
+    "Tactician": "戰略家"
+  }
 }

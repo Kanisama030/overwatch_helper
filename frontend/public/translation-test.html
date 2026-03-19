@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>翻譯 API 測試 - Overwatch Helper</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #1a1a1a, #2d2d2d);
+      color: #fff;
+      padding: 20px;
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    h1 {
+      color: #f27f0d;
+      margin-bottom: 30px;
+      text-align: center;
+    }
+    .hero-selector {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+      gap: 10px;
+      margin-bottom: 30px;
+    }
+    .hero-btn {
+      background: rgba(242, 127, 13, 0.1);
+      border: 2px solid rgba(242, 127, 13, 0.3);
+      color: #f27f0d;
+      padding: 15px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: bold;
+      transition: all 0.2s;
+      text-transform: uppercase;
+      font-size: 14px;
+    }
+    .hero-btn:hover {
+      background: rgba(242, 127, 13, 0.2);
+      border-color: #f27f0d;
+    }
+    .hero-btn.active {
+      background: rgba(242, 127, 13, 0.3);
+      border-color: #f27f0d;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      margin-bottom: 30px;
+      padding: 20px;
+      background: rgba(242, 127, 13, 0.05);
+      border: 1px solid rgba(242, 127, 13, 0.2);
+      border-radius: 8px;
+    }
+    .stat-item {
+      text-align: center;
+    }
+    .stat-label {
+      font-size: 12px;
+      color: #9ca3af;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    .stat-value {
+      font-size: 24px;
+      font-weight: bold;
+      color: #f27f0d;
+      margin-top: 5px;
+    }
+    .loading {
+      background: linear-gradient(135deg, rgba(242, 127, 13, 0.1), rgba(242, 127, 13, 0.05));
+      border: 2px solid rgba(242, 127, 13, 0.3);
+      border-radius: 12px;
+      padding: 30px;
+      margin-bottom: 20px;
+    }
+    .loading-content {
+      text-align: center;
+    }
+    .loading-icon {
+      font-size: 48px;
+      color: #f27f0d;
+      animation: pulse 1.5s ease-in-out infinite;
+      margin-bottom: 15px;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.6; transform: scale(1.1); }
+    }
+    .loading-title {
+      font-size: 20px;
+      font-weight: bold;
+      color: #f27f0d;
+      margin-bottom: 10px;
+    }
+    .loading-subtitle {
+      color: #9ca3af;
+      margin-bottom: 20px;
+      font-size: 14px;
+    }
+    .progress-bar-container {
+      width: 100%;
+      height: 8px;
+      background: rgba(0, 0, 0, 0.3);
+      border-radius: 4px;
+      overflow: hidden;
+      margin-bottom: 15px;
+    }
+    .progress-bar {
+      height: 100%;
+      background: linear-gradient(90deg, #f27f0d, #ff9f4a);
+      border-radius: 4px;
+      transition: width 0.3s ease;
+      box-shadow: 0 0 10px rgba(242, 127, 13, 0.5);
+    }
+    .loading-steps {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 20px;
+      padding: 0 10px;
+    }
+    .loading-step {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      flex: 1;
+      position: relative;
+    }
+    .loading-step::before {
+      content: '';
+      position: absolute;
+      top: 15px;
+      left: 50%;
+      right: -50%;
+      height: 2px;
+      background: rgba(242, 127, 13, 0.2);
+      z-index: 0;
+    }
+    .loading-step:last-child::before {
+      display: none;
+    }
+    .step-icon {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background: rgba(242, 127, 13, 0.2);
+      border: 2px solid rgba(242, 127, 13, 0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #9ca3af;
+      font-size: 14px;
+      margin-bottom: 8px;
+      z-index: 1;
+      position: relative;
+    }
+    .step-icon.active {
+      background: #f27f0d;
+      border-color: #f27f0d;
+      color: #fff;
+      box-shadow: 0 0 15px rgba(242, 127, 13, 0.6);
+      animation: stepPulse 1s ease-in-out infinite;
+    }
+    @keyframes stepPulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+    }
+    .step-icon.completed {
+      background: #22c55e;
+      border-color: #22c55e;
+      color: #fff;
+    }
+    .step-label {
+      font-size: 11px;
+      color: #9ca3af;
+      text-align: center;
+    }
+    .step-label.active {
+      color: #f27f0d;
+      font-weight: bold;
+    }
+    .step-label.completed {
+      color: #22c55e;
+    }
+    .error {
+      background: rgba(239, 68, 68, 0.1);
+      border: 1px solid rgba(239, 68, 68, 0.3);
+      color: #ef4444;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+    .translation-result {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    .section {
+      margin-bottom: 25px;
+      padding-bottom: 25px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .section:last-child {
+      border-bottom: none;
+    }
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .section-id {
+      background: rgba(242, 127, 13, 0.2);
+      color: #f27f0d;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: bold;
+      font-family: monospace;
+    }
+    .section-content {
+      line-height: 1.8;
+      color: #e5e5e5;
+    }
+    .section-content p {
+      margin-bottom: 12px;
+    }
+    .cache-indicator {
+      display: inline-block;
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 11px;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+    .cache-hit {
+      background: rgba(34, 197, 94, 0.2);
+      color: #22c55e;
+    }
+    .cache-miss {
+      background: rgba(239, 68, 68, 0.2);
+      color: #ef4444;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎮 繁中翻譯 API 測試 (灰度：Ana, Mercy, Reinhardt)</h1>
+    
+    <div class="hero-selector">
+      <button class="hero-btn" onclick="loadHero('ana')">Ana<br>安娜</button>
+      <button class="hero-btn" onclick="loadHero('mercy')">Mercy<br>慈悲</button>
+      <button class="hero-btn" onclick="loadHero('reinhardt')">Reinhardt<br>萊因哈特</button>
+    </div>
+
+    <div id="stats" class="stats" style="display: none;">
+      <div class="stat-item">
+        <div class="stat-label">請求時間</div>
+        <div class="stat-value" id="request-time">-</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">翻譯段落數</div>
+        <div class="stat-value" id="section-count">-</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-label">快取狀態</div>
+        <div class="stat-value" id="cache-status">-</div>
+      </div>
+    </div>
+
+    <div id="loading" class="loading" style="display: none;">
+      <div class="loading-content">
+        <div class="loading-icon">🤖</div>
+        <div class="loading-title">AI 即時翻譯中...</div>
+        <div class="loading-subtitle" id="loading-message">正在準備翻譯...</div>
+        
+        <div class="progress-bar-container">
+          <div class="progress-bar" id="progress-bar" style="width: 0%;"></div>
+        </div>
+        
+        <div class="loading-steps">
+          <div class="loading-step">
+            <div class="step-icon" id="step-1">1</div>
+            <div class="step-label" id="step-1-label">檢查快取</div>
+          </div>
+          <div class="loading-step">
+            <div class="step-icon" id="step-2">2</div>
+            <div class="step-label" id="step-2-label">呼叫 API</div>
+          </div>
+          <div class="loading-step">
+            <div class="step-icon" id="step-3">3</div>
+            <div class="step-label" id="step-3-label">AI 翻譯</div>
+          </div>
+          <div class="loading-step">
+            <div class="step-icon" id="step-4">✓</div>
+            <div class="step-label" id="step-4-label">完成</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="error" class="error" style="display: none;"></div>
+
+    <div id="result" class="translation-result" style="display: none;"></div>
+  </div>
+
+  <script>
+    const API_BASE = 'http://127.0.0.1:8888';
+    let requestStartTime = 0;
+    let loadHistory = [];
+    let progressInterval = null;
+
+    function updateProgress(step, percentage, message) {
+      // 更新進度條
+      document.getElementById('progress-bar').style.width = `${percentage}%`;
+      document.getElementById('loading-message').textContent = message;
+
+      // 更新步驟狀態
+      for (let i = 1; i <= 4; i++) {
+        const icon = document.getElementById(`step-${i}`);
+        const label = document.getElementById(`step-${i}-label`);
+        
+        if (i < step) {
+          icon.classList.remove('active');
+          icon.classList.add('completed');
+          label.classList.remove('active');
+          label.classList.add('completed');
+        } else if (i === step) {
+          icon.classList.add('active');
+          icon.classList.remove('completed');
+          label.classList.add('active');
+          label.classList.remove('completed');
+        } else {
+          icon.classList.remove('active', 'completed');
+          label.classList.remove('active', 'completed');
+        }
+      }
+    }
+
+    function startProgressSimulation(isFromCache) {
+      let progress = 0;
+      const targetTime = isFromCache ? 500 : 65000; // 快取 0.5 秒，翻譯 65 秒
+      const updateFrequency = 100; // 每 100ms 更新一次
+      const totalSteps = targetTime / updateFrequency;
+      const progressPerStep = 100 / totalSteps;
+
+      updateProgress(1, 0, '檢查本地快取...');
+
+      progressInterval = setInterval(() => {
+        progress += progressPerStep;
+        
+        if (progress > 100) {
+          progress = 100;
+          clearInterval(progressInterval);
+          return;
+        }
+
+        // 根據進度更新步驟
+        if (isFromCache) {
+          if (progress < 30) {
+            updateProgress(1, progress, '檢查本地快取...');
+          } else if (progress < 70) {
+            updateProgress(2, progress, '讀取快取資料...');
+          } else {
+            updateProgress(4, progress, '載入完成！');
+          }
+        } else {
+          if (progress < 10) {
+            updateProgress(1, progress, '檢查本地快取...');
+          } else if (progress < 20) {
+            updateProgress(2, progress, '連接翻譯伺服器...');
+          } else if (progress < 95) {
+            const sections = Math.floor((progress - 20) / 2.5);
+            updateProgress(3, progress, `AI 翻譯中... (約 ${sections}/29 段落)`);
+          } else {
+            updateProgress(4, progress, '完成翻譯！');
+          }
+        }
+      }, updateFrequency);
+    }
+
+    function stopProgressSimulation() {
+      if (progressInterval) {
+        clearInterval(progressInterval);
+        progressInterval = null;
+      }
+      updateProgress(4, 100, '翻譯完成！');
+    }
+
+    async function loadHero(heroId) {
+      // 更新按鈕狀態
+      document.querySelectorAll('.hero-btn').forEach(btn => btn.classList.remove('active'));
+      event.target.classList.add('active');
+
+      // 重置顯示
+      document.getElementById('loading').style.display = 'block';
+      document.getElementById('error').style.display = 'none';
+      document.getElementById('result').style.display = 'none';
+      document.getElementById('stats').style.display = 'none';
+
+      requestStartTime = Date.now();
+      const wasInCache = checkLocalCache(heroId);
+      
+      // 開始進度模擬
+      startProgressSimulation(wasInCache);
+
+      try {
+        const response = await fetch(`${API_BASE}/api/i18n/hero/${heroId}?locale=zh-TW`);
+        
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+
+        const data = await response.json();
+        const requestTime = Date.now() - requestStartTime;
+        
+        // 停止進度並顯示結果
+        stopProgressSimulation();
+        setTimeout(() => {
+          displayResult(data, requestTime, wasInCache);
+          saveToLocalStorage(heroId, data);
+          loadHistory.push({ heroId, requestTime, wasInCache });
+        }, 500); // 讓完成狀態顯示 0.5 秒
+
+      } catch (err) {
+        stopProgressSimulation();
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('error').style.display = 'block';
+        document.getElementById('error').textContent = `翻譯失敗: ${err.message}`;
+      }
+    }
+
+    function checkLocalCache(heroId) {
+      const key = `ow_i18n_${heroId}_zh-TW`;
+      return localStorage.getItem(key) !== null;
+    }
+
+    function saveToLocalStorage(heroId, data) {
+      const key = `ow_i18n_${heroId}_zh-TW`;
+      const entry = {
+        data,
+        cached_at: new Date().toISOString()
+      };
+      localStorage.setItem(key, JSON.stringify(entry));
+    }
+
+    function displayResult(data, requestTime, wasInCache) {
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('result').style.display = 'block';
+      document.getElementById('stats').style.display = 'grid';
+
+      // 更新統計
+      document.getElementById('request-time').textContent = `${requestTime}ms`;
+      document.getElementById('section-count').textContent = Object.keys(data.sections).length;
+      
+      const cacheIndicator = wasInCache 
+        ? '<span class="cache-indicator cache-hit">✓ 命中</span>'
+        : '<span class="cache-indicator cache-miss">✗ 未命中</span>';
+      document.getElementById('cache-status').innerHTML = cacheIndicator;
+
+      // 顯示翻譯內容（取前 5 個 section 作為預覽）
+      const sections = Object.entries(data.sections).slice(0, 5);
+      let html = `<h2 style="color: #f27f0d; margin-bottom: 20px;">翻譯預覽 (前 ${sections.length} 段)</h2>`;
+      
+      sections.forEach(([sectionId, section]) => {
+        html += `
+          <div class="section">
+            <div class="section-header">
+              <span class="section-id">Section ${sectionId}</span>
+            </div>
+            <div class="section-content">
+              ${section.content.map(p => `<p>${p}</p>`).join('')}
+            </div>
+          </div>
+        `;
+      });
+
+      document.getElementById('result').innerHTML = html;
+    }
+
+    // 頁面載入時顯示提示
+    window.addEventListener('load', () => {
+      console.log('[Translation Test] 測試頁面已載入');
+      console.log('[Translation Test] 請點擊上方英雄按鈕開始測試');
+    });
+  </script>
+</body>
+</html>

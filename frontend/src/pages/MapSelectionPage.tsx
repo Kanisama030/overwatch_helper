@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useDataset } from '../contexts/dataContextStore';
+import { useLocale } from '../contexts/localeContextStore';
 import { groupMapsByMode } from '../data/selectors';
 import type { GameMap } from '../types';
 
@@ -16,8 +17,19 @@ const MODE_COLORS: Record<string, string> = {
   Clash: '#f59e0b',
 };
 
-function MapCard({ map, onClick }: { map: GameMap; onClick: () => void }) {
+function getModeLabel(locale: 'en' | 'zh-TW', t: ReturnType<typeof useLocale>['t'], mode: string) {
+  if (locale !== 'zh-TW') return mode;
+  return t.maps.modes[mode as keyof typeof t.maps.modes] ?? mode;
+}
+
+function MapCard({
+  map,
+  locale,
+  modeLabel,
+  onClick,
+}: { map: GameMap; locale: 'en' | 'zh-TW'; modeLabel: string; onClick: () => void }) {
   const modeColor = MODE_COLORS[map.mode] ?? '#6b7280';
+  const mapName = locale === 'zh-TW' ? (map.zh ?? map.en) : map.en;
   return (
     <div
       onClick={onClick}
@@ -27,7 +39,7 @@ function MapCard({ map, onClick }: { map: GameMap; onClick: () => void }) {
       {/* Map image */}
       <img
         src={`./maps/${map.id}.jpg`}
-        alt={map.en}
+          alt={mapName}
         className="absolute inset-0 w-full h-full object-cover opacity-60 group-hover:opacity-80 transition-opacity duration-300"
         onError={e => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }}
       />
@@ -42,9 +54,9 @@ function MapCard({ map, onClick }: { map: GameMap; onClick: () => void }) {
           className="text-xs font-black uppercase tracking-widest px-1.5 py-0.5 rounded self-start mb-1"
           style={{ backgroundColor: `${modeColor}33`, color: modeColor, border: `1px solid ${modeColor}55` }}
         >
-          {map.mode}
+          {modeLabel}
         </span>
-        <h3 className="text-white font-bold text-lg leading-tight">{map.en}</h3>
+        <h3 className="text-white font-bold text-lg leading-tight">{mapName}</h3>
       </div>
 
       {/* Hover play arrow */}
@@ -60,6 +72,7 @@ function MapCard({ map, onClick }: { map: GameMap; onClick: () => void }) {
 
 export function MapSelectionPage() {
   const { dataset } = useDataset();
+  const { locale, t } = useLocale();
   const navigate = useNavigate();
   const [search, setSearch] = useState('');
   const [selectedMode, setSelectedMode] = useState('All');
@@ -75,7 +88,7 @@ export function MapSelectionPage() {
     }
     if (search.trim()) {
       const q = search.toLowerCase();
-      result = result.filter(m => m.en.toLowerCase().includes(q));
+      result = result.filter(m => (locale === 'zh-TW' ? (m.zh ?? m.en) : m.en).toLowerCase().includes(q));
     }
     return result;
   }, [maps, selectedMode, search]);
@@ -92,11 +105,11 @@ export function MapSelectionPage() {
         <div className="flex items-center gap-3 mb-1">
           <span className="w-1 h-8 rounded-full inline-block" style={{ backgroundColor: '#f27f0d' }} />
           <h1 className="text-2xl md:text-3xl font-black text-white uppercase tracking-tight italic">
-            Map Selection
+            {t.maps.title}
           </h1>
         </div>
         <p className="text-sm ml-4" style={{ color: '#9ca3af' }}>
-          Choose your battleground to get hero recommendations
+          {t.maps.subtitle}
         </p>
       </div>
 
@@ -108,7 +121,7 @@ export function MapSelectionPage() {
           <input
             className="w-full pl-10 pr-4 py-2 rounded-lg text-sm text-white outline-none transition-all"
             style={{ backgroundColor: 'rgba(242,127,13,0.08)', border: '1px solid rgba(242,127,13,0.25)' }}
-            placeholder="Quick find map..."
+            placeholder={t.maps.search}
             value={search}
             onChange={e => setSearch(e.target.value)}
           />
@@ -134,13 +147,13 @@ export function MapSelectionPage() {
         {displayModes.length === 0 ? (
           <div className="text-center py-20" style={{ color: '#9ca3af' }}>
             <span className="material-symbols-outlined text-5xl block mb-3">search_off</span>
-            <p>No maps found</p>
+            <p>{t.maps.noResults}</p>
           </div>
         ) : displayModes.map(mode => (
           <div key={mode} className="mb-8">
             <div className="flex items-center gap-2 mb-3">
               <span className="text-xs font-black uppercase tracking-widest" style={{ color: MODE_COLORS[mode] ?? '#f27f0d' }}>
-                {mode}
+                {getModeLabel(locale, t, mode)}
               </span>
               <div className="flex-1 h-px" style={{ backgroundColor: 'rgba(242,127,13,0.15)' }} />
             </div>
@@ -149,6 +162,8 @@ export function MapSelectionPage() {
                 <MapCard
                   key={map.id}
                   map={map}
+                  locale={locale}
+                  modeLabel={getModeLabel(locale, t, map.mode)}
                   onClick={() => navigate(`/heroes?map=${map.id}`)}
                 />
               ))}

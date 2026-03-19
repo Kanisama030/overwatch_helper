@@ -1,8 +1,9 @@
 import { useState, useMemo } from 'react';
 import { useNavigate, useSearchParams, Link } from 'react-router-dom';
 import { useDataset } from '../contexts/dataContextStore';
+import { useLocale } from '../contexts/localeContextStore';
 import {
-  getMapById, filterHeroesByRole, searchHeroes, sortHeroes,
+  getMapById, filterHeroesByRole, sortHeroes,
   getBestPicksForMap, getWorstPicksForMap, getHeroWinRateForMap, type SortMode
 } from '../data/selectors';
 import { TierBadge } from '../components/common/TierBadge';
@@ -11,9 +12,16 @@ import type { HeroSummary, Role } from '../types';
 
 type RoleFilter = 'ALL' | Role;
 
+function getModeLabel(locale: 'en' | 'zh-TW', t: ReturnType<typeof useLocale>['t'], mode: string) {
+  if (locale !== 'zh-TW') return mode;
+  return t.maps.modes[mode as keyof typeof t.maps.modes] ?? mode;
+}
+
 function HeroCard({ hero, mapId, onClick }: { hero: HeroSummary; mapId: string | null; onClick: () => void }) {
+  const { locale } = useLocale();
   const mapWinRate = mapId ? getHeroWinRateForMap(hero, mapId) : null;
   const displayWinRate = mapWinRate ?? hero.default_win_rate;
+  const heroName = locale === 'zh-TW' ? (hero.zh ?? hero.en) : hero.en;
 
   return (
     <div
@@ -25,7 +33,7 @@ function HeroCard({ hero, mapId, onClick }: { hero: HeroSummary; mapId: string |
       <div className="relative" style={{ aspectRatio: '1/1' }}>
         <HeroImage
           heroId={hero.id}
-          heroName={hero.en}
+          heroName={heroName}
           className="w-full h-full object-cover object-top opacity-80 group-hover:opacity-95 transition-opacity"
         />
         <div className="absolute top-2 left-2">
@@ -35,7 +43,7 @@ function HeroCard({ hero, mapId, onClick }: { hero: HeroSummary; mapId: string |
 
       {/* Bottom info */}
       <div className="px-3 py-2.5">
-        <p className="text-white font-bold text-base leading-tight truncate">{hero.en}</p>
+        <p className="text-white font-bold text-base leading-tight truncate">{heroName}</p>
         {displayWinRate != null && (
           <p className="text-sm mt-1" style={{ color: '#f27f0d' }}>{displayWinRate.toFixed(1)}% WR</p>
         )}
@@ -69,6 +77,7 @@ function HeroSection({ title, heroes, mapId, onSelect, accentColor = '#f27f0d', 
 
 export function HeroSelectionPage() {
   const { dataset } = useDataset();
+  const { locale, t } = useLocale();
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
   const mapId = searchParams.get('map');
@@ -86,9 +95,15 @@ export function HeroSelectionPage() {
 
   const filteredHeroes = useMemo(() => {
     let heroes = filterHeroesByRole(allHeroes, roleFilter);
-    heroes = searchHeroes(heroes, search);
+    if (search.trim()) {
+      const q = search.toLowerCase();
+      heroes = heroes.filter(h => {
+        const primary = locale === 'zh-TW' ? (h.zh ?? h.en) : h.en;
+        return primary.toLowerCase().includes(q) || h.en.toLowerCase().includes(q);
+      });
+    }
     return heroes;
-  }, [allHeroes, roleFilter, search]);
+  }, [allHeroes, roleFilter, search, locale]);
 
   const filteredBest = useMemo(() => {
     const filtered = filteredHeroes.filter(h => bestIds.has(h.id));
@@ -111,11 +126,12 @@ export function HeroSelectionPage() {
   };
 
   const roles: { label: string; value: RoleFilter }[] = [
-    { label: 'ALL', value: 'ALL' },
-    { label: 'TANK', value: 'Tank' },
-    { label: 'DAMAGE', value: 'Damage' },
-    { label: 'SUPPORT', value: 'Support' },
+    { label: t.heroes.filterAll, value: 'ALL' },
+    { label: t.heroes.filterTank, value: 'Tank' },
+    { label: t.heroes.filterDamage, value: 'Damage' },
+    { label: t.heroes.filterSupport, value: 'Support' },
   ];
+  const mapName = map ? (locale === 'zh-TW' ? (map.zh ?? map.en) : map.en) : '';
 
   return (
     <div className="flex-1 flex flex-col overflow-y-auto scrollbar-hide min-h-0">
@@ -123,9 +139,9 @@ export function HeroSelectionPage() {
       {map && (
         <div className="px-4 md:px-8 pt-6 pb-2">
           <nav className="text-xs mb-3" style={{ color: '#6b7280' }}>
-            <Link to="/" style={{ color: '#f27f0d' }}>Maps</Link>
+            <Link to="/" style={{ color: '#f27f0d' }}>{t.nav.maps}</Link>
             <span className="mx-2">›</span>
-            <span className="text-white">{map.en}</span>
+            <span className="text-white">{mapName}</span>
           </nav>
           <div className="relative rounded-lg overflow-hidden p-4 md:p-6"
             style={{ background: 'linear-gradient(135deg, #3d2a10, #221910)', border: '1px solid rgba(242,127,13,0.3)' }}>
@@ -139,8 +155,8 @@ export function HeroSelectionPage() {
             <div className="relative flex items-center gap-3">
               <span className="material-symbols-outlined text-3xl" style={{ color: '#f27f0d' }}>map</span>
               <div>
-                <h2 className="text-xl font-black text-white uppercase tracking-tight">{map.en}</h2>
-                <p className="text-xs" style={{ color: '#f27f0d' }}>{map.mode}</p>
+                 <h2 className="text-xl font-black text-white uppercase tracking-tight">{mapName}</h2>
+                <p className="text-xs" style={{ color: '#f27f0d' }}>{getModeLabel(locale, t, map.mode)}</p>
               </div>
             </div>
           </div>
@@ -151,7 +167,7 @@ export function HeroSelectionPage() {
       <div className="px-4 md:px-8 pt-4 pb-2">
         <div className="flex items-center gap-3 mb-1">
           <span className="w-1 h-8 rounded-full inline-block" style={{ backgroundColor: '#f27f0d' }} />
-          <h1 className="text-2xl font-black text-white uppercase tracking-tight italic">Hero Guide</h1>
+           <h1 className="text-2xl font-black text-white uppercase tracking-tight italic">{t.heroes.title}</h1>
         </div>
       </div>
 
@@ -163,7 +179,7 @@ export function HeroSelectionPage() {
           <input
             className="w-full pl-10 pr-4 py-2 rounded-lg text-sm text-white outline-none"
             style={{ backgroundColor: 'rgba(242,127,13,0.08)', border: '1px solid rgba(242,127,13,0.25)' }}
-            placeholder="Search heroes..."
+            placeholder={t.heroes.search}
             value={search}
             onChange={e => setSearch(e.target.value)}
           />
@@ -184,14 +200,14 @@ export function HeroSelectionPage() {
             style={sortMode === 'tier_then_winrate'
               ? { backgroundColor: '#f27f0d', color: '#221910' }
               : { backgroundColor: 'rgba(242,127,13,0.1)', color: '#9ca3af', border: '1px solid rgba(242,127,13,0.2)' }}>
-            Tier → WR
+             {t.heroes.sortTierThenWR}
           </button>
           <button onClick={() => setSortMode('winrate_then_tier')}
             className="px-3 py-1.5 rounded text-xs font-bold uppercase tracking-wider transition-all whitespace-nowrap"
             style={sortMode === 'winrate_then_tier'
               ? { backgroundColor: '#f27f0d', color: '#221910' }
               : { backgroundColor: 'rgba(242,127,13,0.1)', color: '#9ca3af', border: '1px solid rgba(242,127,13,0.2)' }}>
-            WR → Tier
+             {t.heroes.sortWRThenTier}
           </button>
         </div>
       </div>
@@ -200,15 +216,15 @@ export function HeroSelectionPage() {
       <div className="px-4 md:px-8 pb-8">
         {mapId ? (
           <>
-            <HeroSection title="Best Picks" heroes={filteredBest} mapId={mapId} onSelect={onSelect}
+            <HeroSection title={t.heroes.bestPicks} heroes={filteredBest} mapId={mapId} onSelect={onSelect}
               accentColor="#f27f0d" icon="military_tech" />
-            <HeroSection title="Avoid Picks" heroes={filteredWorst} mapId={mapId} onSelect={onSelect}
+            <HeroSection title={t.heroes.avoidPicks} heroes={filteredWorst} mapId={mapId} onSelect={onSelect}
               accentColor="#ef4444" icon="warning" />
-            <HeroSection title="All Heroes" heroes={filteredOther} mapId={mapId} onSelect={onSelect}
+            <HeroSection title={t.heroes.allHeroes} heroes={filteredOther} mapId={mapId} onSelect={onSelect}
               accentColor="#6b7280" icon="groups" />
           </>
         ) : (
-          <HeroSection title="All Heroes" heroes={filteredOther} mapId={null} onSelect={onSelect}
+          <HeroSection title={t.heroes.allHeroes} heroes={filteredOther} mapId={null} onSelect={onSelect}
             accentColor="#6b7280" icon="groups" />
         )}
       </div>
