@@ -313,7 +313,6 @@
   </div>
 
   <script>
-    const API_BASE = 'http://127.0.0.1:8888';
     let requestStartTime = 0;
     let loadHistory = [];
     let progressInterval = null;
@@ -376,7 +375,7 @@
           if (progress < 10) {
             updateProgress(1, progress, '檢查本地快取...');
           } else if (progress < 20) {
-            updateProgress(2, progress, '連接翻譯伺服器...');
+            updateProgress(2, progress, '讀取靜態翻譯檔...');
           } else if (progress < 95) {
             const sections = Math.floor((progress - 20) / 2.5);
             updateProgress(3, progress, `AI 翻譯中... (約 ${sections}/29 段落)`);
@@ -413,7 +412,7 @@
       startProgressSimulation(wasInCache);
 
       try {
-        const response = await fetch(`${API_BASE}/api/i18n/hero/${heroId}?locale=zh-TW`);
+        const response = await fetch(`/data/i18n/zh-TW/${heroId}.json`);
         
         if (!response.ok) {
           throw new Error(`HTTP ${response.status}: ${response.statusText}`);

@@ -8,9 +8,9 @@
 
 ### 使用方式
 
-1. 啟動後端 API:
+1. 預生成靜態翻譯檔:
 ```bash
-start_translation_api.bat
+python run_build.py --with-translations --translation-skip-existing
 ```
 
 2. 開啟測試頁面:
@@ -26,7 +26,7 @@ file:///e:/projects/overwatch_helper/frontend/public/translation-test.html
 - **進度條**: 實時顯示載入百分比
 - **步驟指示器**: 4 個步驟視覺化
   1. 檢查快取 (灰色 → 橘色)
-  2. 呼叫 API (灰色 → 橘色)
+  2. 讀取靜態翻譯檔 (灰色 → 橘色)
   3. AI 翻譯 (灰色 → 橘色)
   4. 完成 (綠色 ✓)
 - **動態訊息**: 根據進度更新說明文字
@@ -40,7 +40,7 @@ file:///e:/projects/overwatch_helper/frontend/public/translation-test.html
 
 **首次翻譯** (~65 秒):
 ```
-檢查本地快取... → 連接翻譯伺服器... → AI 翻譯中... (顯示段落數) → 完成翻譯！
+檢查本地快取... → 讀取靜態翻譯檔... → AI 翻譯中... (顯示段落數) → 完成翻譯！
 ```
 
 ## React 元件整合
@@ -152,7 +152,7 @@ TranslationProgress 元件使用 Tailwind CSS，可透過 props 或修改元件�
 
 ## 整合檢查清單
 
-- [ ] 確認 API 伺服器運行於 `http://127.0.0.1:8888`
+- [ ] 確認 `frontend/public/data/i18n/zh-TW/*.json` 已存在
 - [ ] 測試快取命中情境（二次載入同英雄）
 - [ ] 測試首次翻譯情境（首次載入或清除快取）
 - [ ] 確認進度訊息正確更新

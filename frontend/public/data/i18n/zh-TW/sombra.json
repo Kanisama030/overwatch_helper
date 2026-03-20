@@ -1,0 +1,356 @@
+{
+  "hero_id": "sombra",
+  "locale": "zh-TW",
+  "sections": {
+    "1": {
+      "title": "概覽",
+      "description": "",
+      "content": [
+        "被稱為後排刺客的駭影（Sombra）對於毫無準備的對手來說是一大威脅。自從英雄禁用機制推出以來，她立刻成為禁用率最高的英雄，並持續位居禁用榜前茅。她能夠進入隱形（Invisible）狀態並阻止敵人使用冷卻技能，這讓對手在面對她時感到相當挫折。",
+        "駭影擅長擾亂敵方隊伍，並迫使對方消耗資源來處理她。她的實用性呈現出一種反向鐘形曲線：低階玩家難以應對她，但只有在講求協調的職業賽場中，才能發揮出她的完整潛力。",
+        "大多數玩家將她視為反制選擇（counterpick）而非首選英雄。這是因為她的技能組具有中斷技能的特殊功能，即駭入（Hack）；然而，對於那些依賴技能進行遊戲的英雄來說，駭影能徹底封鎖他們，並經常迫使對方更換其他英雄。"
+      ],
+      "content_hash": "629513c41b38",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:09.204789Z"
+    },
+    "1.1.1": {
+      "title": "操作指南",
+      "description": "",
+      "content": [
+        "* 先使用轉置（Translocate）來移動到定位，保持隱形直到持續時間結束，發動攻擊，然後立即再次使用轉置（Translocate）撤離以確保生存。",
+        "* 駭入（Hack）既適合用來發起單獨進攻，也適合用來中斷敵方對你隊伍的攻擊。別忘了防禦性地使用駭入（Hack）來協助你的隊友。",
+        "* 電磁脈衝（EMP）最適合與其他隊友的絕招進行連攜。請檢查計分板確認是否有其他進攻型絕招可用，然後等待該名英雄就位準備跟進後，再施放電磁脈衝（EMP）。"
+      ],
+      "content_hash": "981b05ac195d",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:11.356818Z"
+    },
+    "1.1.2": {
+      "title": "對戰策略",
+      "description": "",
+      "content": [
+        "* 如果有一段時間沒看到駭影（Sombra），請務必提高警覺；這代表她已經就位準備側襲（Flanker）你們。隨時準備轉身進行反擊。",
+        "* 如果她傳送（Translocate）進你們隊伍之中，請預判電磁脈衝（EMP）即將到來。對她施加控場效果（CC）、衝刺離開，或是尋找掩體。",
+        "* 擁有機動性的英雄，例如 D.Va 和安燃（Anran），可以追擊傳送（Translocate）後的目標，並將隱形狀態下的駭影（Sombra）射出來擊殺。"
+      ],
+      "content_hash": "67e93ff8bbe1",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:13.373700Z"
+    },
+    "2": {
+      "title": "優勢與劣勢總結",
+      "description": "",
+      "content": [
+        "* 隱形干擾",
+        "* 能力封鎖（Ability lockout）",
+        "* 後排刺客",
+        "* 低傷害",
+        "* 隱形持續時間",
+        "* 射程"
+      ],
+      "content_hash": "e3890ecd60be",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:14.836811Z"
+    },
+    "3.1.1": {
+      "title": "隱形的干擾者",
+      "description": "",
+      "content": [
+        "無論駭影（Sombra）是否正在取得擊殺，她總是在干擾敵方隊伍。她在後排存在的威脅，迫使對手必須時刻保持警覺、投入注意力並保留資源來應對。對於坦克（Tanks）來說，被駭入（Hacked）是非常干擾的行為，因此坦克非常討厭必須針對駭影（Sombra）來調整自己的打法。"
+      ],
+      "content_hash": "d7c6c1ceab9c",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:16.749376Z"
+    },
+    "3.1.2": {
+      "title": "技能封鎖（Ability lockout）",
+      "description": "",
+      "content": [
+        "駭入（Hack）與電磁脈衝（EMP）都能短暫阻止受影響的英雄使用任何技能，並會中斷他們正在引導的技能。由於技能是任何英雄配置中最核心的部分，因此能夠做到這一點無疑是非常強大的。有些英雄甚至會因為一次駭入（Hack）而完全失去作用。"
+      ],
+      "content_hash": "a0f5bd596fd1",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:18.442067Z"
+    },
+    "3.1.3": {
+      "title": "後排刺客",
+      "description": "",
+      "content": [
+        "駭影的整套技能組完全是為了刺殺後排而設計的。支援型英雄或神射手（Sharpshooter）類型的輸出英雄很容易被悄悄接近，他們通常不會頻繁移動，且視線多半直視前方。透過經典的「駭入（Hack）」、「病毒（Virus）」加上從背後射擊的連招，能迅速解決這些落單的敵人。"
+      ],
+      "content_hash": "bbcab619e386",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:20.013613Z"
+    },
+    "3.2.1": {
+      "title": "低傷害",
+      "description": "",
+      "content": [
+        "雖然駭影（Sombra）能夠瞬間擊殺單一目標，但她的整體傷害輸出可能是所有 DPS 英雄中最低的。這部分是因為她花費了太多時間在隱形以及使用傳送器（Translocator）進行位移，導致無法參與戰鬥。如果她沒有在正確的時間駭入（Hack）正確的目標，她反而會成為隊伍的負擔，因為她的傷害輸出絕對無法帶領隊伍取得勝利。"
+      ],
+      "content_hash": "f9fec842cf72",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:21.617329Z"
+    },
+    "3.2.2": {
+      "title": "有限的隱形持續時間",
+      "description": "",
+      "content": [
+        "與過去版本的駭影不同，目前的版本只能維持隱形幾秒鐘。這意味著她必須使用轉位傳送器（Translocator）移動到目標隱形位置附近。由於轉位傳送器具有音效提示，敵人可以察覺到她的存在，並知道她在位置暴露前只剩下幾秒鐘的時間。"
+      ],
+      "content_hash": "3e206c72832c",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:23.099009Z"
+    },
+    "3.2.3": {
+      "title": "射程不佳",
+      "description": "",
+      "content": [
+        "駭影僅在近距離交戰時才具有威脅性。駭入（Hack）的距離僅有 15 公尺，且她的槍枝在該距離下幾乎無法造成任何傷害。病毒（Virus）雖然可以跨越地圖射擊，但其緩慢的飛行速度讓敵人有充足的時間閃避或格擋。"
+      ],
+      "content_hash": "d44e303afc74",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:24.679067Z"
+    },
+    "4.1": {
+      "title": "主要攻擊：機關手槍（Machine Pistol）",
+      "description": "",
+      "content": [
+        "**機關手槍（Machine Pistol）的使用技巧**",
+        "* 近距離表現最佳",
+        "* 儘管這是即時命中（hitscan）武器，但廣泛的擴散範圍與傷害衰減，使得機關手槍（Machine Pistol）在中遠距離非常無力。",
+        "* 機會主義傷害",
+        "* 由於你對遭到駭入（Hacked）的敵人能造成更多傷害，因此在開火前應嘗試先進行駭入（Hack）。",
+        "* 單彈匣擊殺",
+        "* 當駭影（Sombra）悄悄靠近目標僅幾公尺處時，她可以在不使用病毒（Virus）的情況下，僅靠一個彈匣擊殺所有輸出（DPS）與輔助（Supports）英雄。",
+        "* 你必須確保大部分子彈命中，因此距離越近越好。",
+        "* 如果在子彈耗盡時敵人仍然存活，通常比較明智的做法是使用轉位傳送（Translocate）撤離，而不是站在原地裝填彈藥。",
+        "* 遠距離騷擾",
+        "* 不要花太多時間在遠距離騷擾敵人，你又不是士兵76（Soldier: 76）。但如果你必須這麼做，最好採用短點放的方式射擊，因為在連續射擊 6 發子彈後，你的子彈擴散會變得非常嚴重。"
+      ],
+      "content_hash": "a6f227ab0e77",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:26.915860Z"
+    },
+    "4.2": {
+      "title": "次要攻擊：駭入（Hack）",
+      "description": "",
+      "content": [
+        "駭入（Hack）技巧",
+        "* 從駭入（Hack）開始",
+        "* * 你幾乎應該在每一場交戰前都先使用駭入（Hack）。無論你是否正處於隱形狀態，在開始射擊或使用病毒（Virus）之前，你都應該先封鎖敵人的技能並觸發機會主義者（Opportunist）。",
+        "* 駭入（Hack）可以取消引導型技能",
+        "* * 例子包括歐瑞莎（Orisa）正在蓄力的大地崩碎（Terra Surge）、垃圾鎮女王（Junker Queen）剛開始施放的轟炸（Rampage），以及席格馬（Sigma）在施放重力流（Gravitic Flux）時的飛行狀態。",
+        "* 所有這些技能都可以透過駭入（Hack）來取消。當你懷疑敵人已經準備好使用絕招時，試著保持在可以及時反應並使用駭入（Hack）的距離內。",
+        "* 駭入（Hack）大型生命包",
+        "* * 每個控制（Control）目標點附近都有一個大型生命包，且所有護送（Escort）路徑沿途也都有幾個。多花幾秒鐘駭入（Hack）離敵人最近的大型生命包，以防止他們使用它。"
+      ],
+      "content_hash": "cfc2ffb1954b",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:29.269812Z"
+    },
+    "4.3": {
+      "title": "[SHIFT]：病毒（Virus）",
+      "description": "",
+      "content": [
+        "**病毒（Virus）的使用技巧**",
+        "* 先駭入再使用病毒（Virus）",
+        "* 病毒（Virus）會對目前處於駭入狀態的敵人造成額外的衝擊傷害，隨後造成更快的持續傷害。因此，理想情況下，你應該只在駭入敵人後才使用病毒（Virus）。",
+        "* 在未駭入的情況下使用",
+        "* 有時你沒有時間完成不受干擾的駭入。即便如此，你仍應使用病毒（Virus）。它的施放速度非常快，且總傷害量仍超過 100 點。",
+        "* 摧毀部署物",
+        "* 例如，托比昂（Torbjörn）的砲塔對你這種側襲者（Flanker）的遊玩風格來說是個麻煩。在傳送（Translocate）進場前先對它發射病毒（Virus），以協助你的隊伍更快將其摧毀。"
+      ],
+      "content_hash": "4208224ab595",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:31.256212Z"
+    },
+    "4.4": {
+      "title": "[E]：轉置傳送器（Translocator）",
+      "description": "",
+      "content": [
+        "**轉置傳送器（Translocator）的使用技巧**",
+        "* 頻繁使用轉置傳送器（Translocator）",
+        "* 6 秒的短冷卻時間會在傳送後立即開始計算，並在隱形結束後不久即可再次使用。因此請大膽地使用它。",
+        "* 突襲",
+        "* 傳送到目標的上方、側邊或後方，以進入近距離範圍並立即開始攻擊。",
+        "* 逃脫",
+        "* 當轉置傳送器（Translocator）處於冷卻狀態時，絕對不要投入戰鬥。你需要它來保命。每當敵方將你的生命值打低、集火你，或是嘗試對你施加控場效果（CC）時，請立即使用轉置傳送器（Translocator）傳送離開。",
+        "* 雙重轉置傳送器（Double Translocator）",
+        "* 使用轉置傳送器（Translocator）並搭配隱形的移動速度加成，移動到目標附近最近的掩體。接著在原地再次使用轉置傳送器（Translocator），僅為了啟動隱形並跑向你預定的目標。"
+      ],
+      "content_hash": "ea30257daf6f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:33.499849Z"
+    },
+    "4.5": {
+      "title": "（被動技能）：機會主義者（Opportunist）",
+      "description": "",
+      "content": [
+        "關於機會主義者（Opportunist）的技巧",
+        "* 溝通敵方絕招狀態",
+        "* 當前絕招充能完畢的敵人頭上會出現一個勾選標記。讓你的隊伍知道哪些英雄已經準備好使用絕招。",
+        "* 絕招已就緒的敵人是高優先級目標。試著優先擊殺他們，或是給予壓力迫使他們提早交出絕招。",
+        "* 迴音（Echo）的複製（Duplicate）",
+        "* 若我方迴音（Echo）複製了敵方的駭影（Sombra），你們兩人的駭入（Hack）皆會觸發機會主義者（Opportunist）。"
+      ],
+      "content_hash": "4c38b4e3dfc3",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:35.350373Z"
+    },
+    "4.6": {
+      "title": "絕招：電磁脈衝（EMP）",
+      "description": "",
+      "content": [
+        "**電磁脈衝（EMP）的使用技巧**",
+        "* 傳送進場",
+        "* 想要最輕鬆地對多名敵人施放電磁脈衝（EMP），最好的方式就是利用傳送器（Translocator）傳送到敵方隊伍的上方並落在他們中間。",
+        "* 這也是最危險的方法，因此你仍應嘗試從側翼（off angle）切入。",
+        "* 不使用傳送器（Translocator）的情況",
+        "* 匿蹤（Stealth）在結束後會有一小段冷卻時間，期間駭影（Sombra）無法使用其他技能。如果敵人一直在針對你的電磁脈衝（EMP），請嘗試在不使用匿蹤（Stealth）的情況下進行佈局。",
+        "* 在敵方隊伍上方的區域進行佈局，然後跳下並立即啟動電磁脈衝（EMP）。",
+        "* 封鎖敵方絕招",
+        "* 有無數的絕招可以直接被電磁脈衝（EMP）反制。像辛梅塔（Symmetra）的防護屏障（Barrier）這類可部署的絕招會被摧毀或失效，引導型絕招可以被中斷，而單純限制技能的使用基本上就能反制其餘大部分的絕招。"
+      ],
+      "content_hash": "cabd35640df4",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:37.612434Z"
+    },
+    "5.1.1": {
+      "title": "加密上傳（Encrypted Upload）",
+      "description": "",
+      "content": [
+        "* 極度隱密",
+        "* 利用額外的隱形效果來駭入敵人，然後在他們轉身試圖攻擊你時重新調整位置。只有在他們因找不到你而感到困惑時，才發動攻擊並現身。",
+        "* 無限隱形",
+        "* 加密上傳（Encrypted Upload）將隱形持續時間增加至 7 秒，而轉位傳送（Translocator）的冷卻時間為 6 秒。因此從技術上來說，駭影（Sombra）可以重複進行駭入和轉位傳送，而永遠不需要解除隱形狀態。",
+        "* 這非常適合駭入生命包，因為你可以透過增加的運作時間來彌補損失的時間。"
+      ],
+      "content_hash": "e84f770e4cc5",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:39.523103Z"
+    },
+    "5.1.2": {
+      "title": "CTRL ALT ESC",
+      "description": "",
+      "content": [
+        "* 視情況而定",
+        "* 大多數時候，你都是使用傳送器（Translocator）來進行交戰，所以你通常是滿血狀態，或者你正從敵人身邊撤離，因此沒有生命危險。基於這個原因，你不需要太頻繁地使用自我治療。",
+        "* 此外，你也可以直接等待全英雄通用的治療被動觸發，也能達到類似的效果。",
+        "* 這確實能減少交戰之間的空窗期。"
+      ],
+      "content_hash": "298515a59037",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:41.322614Z"
+    },
+    "5.2.1": {
+      "title": "高速頻寬（High-Speed Bandwidth）",
+      "description": "",
+      "content": [
+        "* 當隊伍中有像閃光（Tracer）和火爆鋼球（Wrecking Ball）這類頻繁使用生命包的側襲者（Flanker）時，表現相當不錯。",
+        "* 在靠近生命包進行決鬥的特定情況下，能發揮關鍵作用。",
+        "* 由於玩家通常在戰鬥外拾取生命包，因此其實際影響力較低。"
+      ],
+      "content_hash": "23589782eb0e",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:43.118245Z"
+    },
+    "5.2.2": {
+      "title": "病毒複製（Viral Replication）",
+      "description": "",
+      "content": [
+        "* 更多絕招充能",
+        "* 雖然不如其他方式來得免費或穩定，但你可以透過病毒複製（Viral Replication）造成大量的範圍傷害，這也能讓你更快累積 EMP（EMP）。",
+        "* 對抗像戰士（Bruiser）陣容這類緊密站位的隊伍組合時特別有效。",
+        "* 更致命的絕招",
+        "* 由於你經常會用 EMP（EMP）擊中一群敵人，後續接上的病毒（Virus）能幫助你的隊伍取得更多擊殺。"
+      ],
+      "content_hash": "f25fa7265f83",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:44.580253Z"
+    },
+    "6": {
+      "title": "地圖",
+      "description": "",
+      "content": [
+        "對駭影來說，最好的地圖是那些擁有許多側邊房間供她進行佈置的地圖。轉移裝置（Translocator）靈活的位移能力使她幾乎能進入任何地圖上的任何區域，因此地形是高地還是平地對她來說影響不大。駭影在那些擁有大型開放區域、且無法輕易透過轉移裝置和潛行穿越的地圖上會感到吃力。這些區域會阻礙她作為側襲者（Flanker）的發揮。同樣地，如果視線範圍對她來說太長且缺乏足夠的側路，她在接近目標時可能會遭到狙擊。"
+      ],
+      "content_hash": "034e2c1ff806",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:47.839567Z"
+    },
+    "7": {
+      "title": "隊伍陣容搭配",
+      "description": "",
+      "content": [
+        "雖然駭影可以獨自進行暗殺，但若能與至少另一位側襲者（Flanker）搭配，效果會更顯著。「駭拳（Hack-fist）」是一個舊稱，指的是毀滅拳王與駭影的組合；這個名稱源於他們極高的致命性，以及對手難以反制其戰術佈局的特性。",
+        "無論搭配哪位側襲者（Flanker），策略皆大同小異：",
+        "* 駭影以駭入（Hack）作為先手",
+        "* 1. 封鎖敵方使用技能",
+        "* 盟友（例如：毀滅拳王、迴音、源氏）立即進場擊殺。",
+        "* 駭影與隊友撤離，接著對下一個目標重複上述動作。",
+        "此策略對於那些依賴技能來反制側襲與突擊的英雄特別有效，例如擁有睡眠鏢（Sleep Dart）的安娜、擁有束縛鎖鏈（Binding Chain）的瑞稀（Mizuki），或是擁有閃光彈（Flashbang）的卡西迪。"
+      ],
+      "content_hash": "19a2bee36a7b",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:50.064315Z"
+    },
+    "8": {
+      "title": "如何反制",
+      "description": "",
+      "content": [
+        "駭影（Sombra）贏得比賽的方式是騷擾後排並進行隱蔽的暗殺，然後利用位移轉置（Translocator）逃脫以保全性命。如果你想擊敗她，這就是你必須阻止的核心重點。",
+        "中斷駭入（Hack）的視線（LoS）可以阻止該技能。你可以透過走位到掩體後方，或是將屏障護盾（Barrier Shield）放置在你與駭影之間來達成。對她進行射擊也會中斷駭入（Hack）。",
+        "如果你有一段時間沒看到駭影，請務必提高警覺；這意味著她已經就位準備側襲（Flanker）你。隨時準備轉身進行反擊。",
+        "同樣重要的是觀察她的撤退路徑。你可以看到位移轉置（Translocator）的軌跡，並立即衝刺或飛向該位置進行攻擊。當你擊中她時，她會現形，讓你輕鬆擊殺。像 D.Va、溫斯頓（Winston）、迴音（Echo）和安燃（Anran）這類具有高機動性的英雄特別擅長此道。",
+        "如果她直接利用位移轉置（Translocator）傳送到你們隊伍中，請假設電磁脈衝（EMP）即將到來。對她施加控場效果（CC）、衝刺離開，或是移動到掩體後方。"
+      ],
+      "content_hash": "16fd7665ab7b",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:52.436021Z"
+    },
+    "8.2": {
+      "title": "特定英雄反制名稱",
+      "description": "",
+      "content": [
+        "D.Va",
+        "溫斯頓",
+        "迴音",
+        "安燃"
+      ],
+      "content_hash": "5b4565b4848a",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:52:53.420188Z"
+    }
+  },
+  "metadata": {
+    "prompt_version": "v5",
+    "glossary_version": "v1",
+    "timestamp": "2026-03-20T04:28:18.187200Z"
+  }
+}

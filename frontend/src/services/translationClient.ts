@@ -1,9 +1,8 @@
 /**
  * Translation API Client
- * 負責與後端翻譯 API 溝通，並管理 localStorage 快取
+ * 負責讀取靜態翻譯檔，並管理 localStorage 快取
  */
 
-const API_BASE_URL = 'http://127.0.0.1:8888';
 const CACHE_SCHEMA_VERSION = 'v3';
 
 interface TranslationSection {
@@ -137,26 +136,32 @@ function clearOldTranslationCache(): void {
 }
 
 /**
- * 從後端 API 取得翻譯
+ * 從靜態檔取得翻譯
  */
-export async function fetchTranslationFromAPI(
+export async function fetchTranslationFromStatic(
   heroId: string,
   locale: string
 ): Promise<TranslationResponse> {
-  const url = `${API_BASE_URL}/api/i18n/hero/${heroId}?locale=${locale}`;
+  if (locale !== 'zh-TW') {
+    throw new Error(`不支援的語系: ${locale}，目前僅支援 zh-TW`);
+  }
+
+  const url = `/data/i18n/${locale}/${heroId}.json`;
   
   const response = await fetch(url);
   
   if (!response.ok) {
-    const error = await response.json().catch(() => ({ detail: 'Unknown error' }));
-    throw new Error(`翻譯 API 錯誤: ${error.detail || response.statusText}`);
+    if (response.status === 404) {
+      throw new Error(`找不到翻譯檔: ${heroId} (${locale})`);
+    }
+    throw new Error(`翻譯檔讀取失敗: ${response.status} ${response.statusText}`);
   }
 
   return response.json();
 }
 
 /**
- * 取得英雄翻譯（先查快取，未命中則呼叫 API）
+ * 取得英雄翻譯（先查快取，未命中則讀取靜態檔）
  */
 export async function getHeroTranslation(
   heroId: string,
@@ -169,9 +174,9 @@ export async function getHeroTranslation(
     return cached;
   }
 
-  // 2. 呼叫後端 API
-  console.log(`[Translation] 呼叫 API 翻譯: ${heroId}`);
-  const translation = await fetchTranslationFromAPI(heroId, locale);
+  // 2. 讀取靜態翻譯檔
+  console.log(`[Translation] 讀取靜態翻譯: ${heroId}`);
+  const translation = await fetchTranslationFromStatic(heroId, locale);
 
   // 3. 寫入本地快取
   setTranslationCache(heroId, locale, translation);

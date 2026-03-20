@@ -1,0 +1,388 @@
+{
+  "hero_id": "vendetta",
+  "locale": "zh-TW",
+  "sections": {
+    "1": {
+      "title": "概覽",
+      "description": "",
+      "content": [
+        "宿怨（Vendetta），羅馬競技場（Colosseo）的冠軍，是《鬥陣特攻》中唯一真正的近戰輸出英雄。她是一位冷酷的角鬥士，被憤怒與奪回家族失落帝國的強烈野心所驅使。她揮舞著巨大的帕拉廷之牙（Palatine Fang）巨劍，結合了迅雷般的移動速度、致命的控場能力以及爆發傷害。",
+        "在隊伍陣容中，宿怨的目標是進行突襲並擾亂敵方後排，逼出敵方的冷卻時間，並製造出讓隊友能跟進的混亂。與遠程輸出英雄不同，她必須身處戰鬥核心才能發揮價值。這種高風險、高回報的遊玩風格要求精準的時機掌握、聰明的目標選擇，以及閱讀戰場的能力，以判斷何時投入戰鬥才是安全的。若能正確執行，將會帶來巨大的回報，因為宿怨可以憑一己之力摧毀敵方的後排，進而導致敵方坦克隨後倒下，贏得團戰勝利。"
+      ],
+      "content_hash": "15caeea16ead",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:01.436166Z"
+    },
+    "1.1.1": {
+      "title": "遊玩方式",
+      "description": "",
+      "content": [
+        "* 從側翼死角與高地發動攻勢，從敵人無法察覺的角度接近他們。",
+        "* 優先鎖定高價值且落單的目標，例如位在隊伍後方的無漾（Wuyang）。",
+        "* 不僅要運用她的格擋（Block），還要善用機動性（Mobility）來閃避敵方攻擊以求生存。"
+      ],
+      "content_hash": "b9f155f2b722",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:02.936763Z"
+    },
+    "1.1.2": {
+      "title": "對戰策略",
+      "description": "",
+      "content": [
+        "* 保持距離。請保留你的逃生技能，直到看見她使用劍刃衝刺（sword toss dash）。只要你在她衝刺後重新調整位置，她就無法追上你。",
+        "* 當她抵達的瞬間，集中火力攻擊她。她會有幾秒鐘的時間無法逃脫，這正是你們隊伍懲罰她的最佳時機。",
+        "* 使用控場技能（crowd control）來牽制她。由於她的護盾無法吸收控場效果，她只能嘗試閃避。"
+      ],
+      "content_hash": "661578f3894b",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:04.537761Z"
+    },
+    "2": {
+      "title": "優勢與劣勢總結",
+      "description": "",
+      "content": [
+        "* 擅長近身壓制敵人",
+        "* 機動性極高",
+        "* 滾雪球能力強",
+        "* 攻擊距離短",
+        "* 非常脆弱",
+        "* 容易被控場技能（CC）克制"
+      ],
+      "content_hash": "00c7a9ca4d87",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:05.967937Z"
+    },
+    "3.1.1": {
+      "title": "近距離的重大優勢",
+      "description": "",
+      "content": [
+        "宿怨（Vendetta）的連段與機動性使她在近距離戰鬥（CQC）對決中極具威脅。當她黏住目標時，她那爆發性與持續性的劍刃傷害，能在大多數英雄逃脫前就將其擊潰。"
+      ],
+      "content_hash": "21803d3b536f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:07.309020Z"
+    },
+    "3.1.2": {
+      "title": "機動性與干擾",
+      "description": "",
+      "content": [
+        "像是旋風衝刺（Whirlwind Dash）和騰空斬（Soaring Slice）這類技能，讓她能夠快速切入、重新調整位置或脫離戰鬥。這種機動性使她在混戰中難以預測，且難以被鎖定。"
+      ],
+      "content_hash": "809bc47655cd",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:08.649758Z"
+    },
+    "3.1.3": {
+      "title": "滾雪球（Snowballing）",
+      "description": "",
+      "content": [
+        "她的被動技能「猛攻（Onslaught）」會在她擊中敵人時增加移動速度與攻擊速度。如果交戰持續超過幾秒鐘，她會變得更加強大，且其傷害足以壓制目標。"
+      ],
+      "content_hash": "59c0466c8386",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:10.035950Z"
+    },
+    "3.2.1": {
+      "title": "極其有限的射程",
+      "description": "",
+      "content": [
+        "宿怨（Vendetta）在遠距離作戰時會陷入苦戰；遠程消耗與神射手（Sharpshooter）的騷擾可以在她進入攻擊範圍前就先將目標擊退。"
+      ],
+      "content_hash": "4257ab1efe7b",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:11.387695Z"
+    },
+    "3.2.2": {
+      "title": "玻璃大砲",
+      "description": "",
+      "content": [
+        "宿怨（Vendetta）既致命又脆弱。若誤用了冷卻時間或同時衝向太多英雄，通常會導致她自己送命。"
+      ],
+      "content_hash": "d3607ceab580",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:12.726008Z"
+    },
+    "3.2.3": {
+      "title": "容易受到控場效果影響",
+      "description": "",
+      "content": [
+        "她的格擋（Block）無法阻擋控場效果（CC）、睡眠鏢（Sleep Dart）或暈眩效果。如果她已經使用了衝刺（Dashes），而在格擋時又被擊退（Knockbacks），那麼這些擊退效果將會瞬間中斷她的進場。"
+      ],
+      "content_hash": "006677c452fb",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:14.347049Z"
+    },
+    "4.1": {
+      "title": "[主要攻擊]：帕拉汀之牙（Palatine Fang）",
+      "description": "",
+      "content": [
+        "**帕拉汀之牙（Palatine Fang）的提示**",
+        "* 在她的技能傷害遭到削弱後，一般的揮劍與過頂斬擊已成為你主要的傷害來源。",
+        "* 一旦進入射程，只需不斷施放主要攻擊，除了移動或格擋之外，不必擔心其他技能。",
+        "* 當你發現目標時，可以先在掩體後方進行兩次揮劍來預備過頂斬擊，接著現身並以第三次攻擊（即強力的過頂斬擊）發動突襲。",
+        "* 雖然時間很短，但你在第二次揮劍後有短暫的空檔可以停頓，隨後仍能施展過頂斬擊。",
+        "* 攻擊距離比你想像中更遠。如果你在過頂斬擊啟動時按住前進並跳躍，就能擊中距離你超過 10 公尺的目標。"
+      ],
+      "content_hash": "04dee17ea7bc",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:16.647355Z"
+    },
+    "4.2": {
+      "title": "[次要攻擊]：守護姿態（Warding Stance）",
+      "description": "",
+      "content": [
+        "**守護姿態（Warding Stance）使用技巧**",
+        "* 並非無敵，僅提供傷害減免，因此請確保在使用時擁有足夠的生命值，以免直接陣亡（例如：剩餘約 100 生命值時）。",
+        "* 可格擋 100% 的近戰傷害，例如萊因哈特（Reinhardt）的火箭鎚。格擋近戰攻擊同樣會消耗資源。",
+        "* 一旦格擋資源耗盡，就是撤出戰鬥的最佳時機。"
+      ],
+      "content_hash": "92aa6676c437",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:18.349346Z"
+    },
+    "4.3": {
+      "title": "防禦邊緣（Protected Edge）（在「守護姿態（Warind Stance）」期間的主要攻擊）",
+      "description": "",
+      "content": [
+        "* 主要用於消耗傷害以累積絕招能量。",
+        "* 不具備太大的致命威脅。但在進入近距離戰鬥前，或是當你想對超出你「劍刃投擲（sword toss）」範圍的目標造成額外傷害時，使用此技能是明智之舉。",
+        "* 非常適合用來收割那些在你的初始攻擊後僥倖存活、生命值偏低的敵人，作為最後一擊。",
+        "* 發射拋射物也會消耗格擋資源（block resource）。"
+      ],
+      "content_hash": "c20305d6b27c",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:20.015932Z"
+    },
+    "4.4": {
+      "title": "[SHIFT]：旋風衝刺（Whirlwind Dash）",
+      "description": "",
+      "content": [
+        "旋風衝刺（Whirlwind Dash）的使用技巧",
+        "* 由於你通常會使用劍刃投擲衝刺來進行交戰，請保留旋風衝刺（Whirlwind Dash）作為撤退手段，或是在等待騰空斬（Soaring Slice）冷卻完畢時用來閃避敵方攻擊。",
+        "* 該技能的傷害尚可，但僅在多名敵人聚集在一起，或是需要快速給予最後一擊時才值得使用。"
+      ],
+      "content_hash": "7928be63897d",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:21.620327Z"
+    },
+    "4.5": {
+      "title": "[E]：騰空斬（Soaring Slice）",
+      "description": "",
+      "content": [
+        "**騰空斬（Soaring Slice）的使用技巧**",
+        "* 利用劍刃投擲（Sword Toss）來獲得垂直高度、佔領高地，並為下一次進攻做好準備。",
+        "* 理想情況下，你不希望敵人發現你的行蹤。請務必規劃路徑，以出其不意的方式突襲目標。",
+        "* 你可以提早使用騰空斬（Soaring Slice）來移動到指定位置，然後等待冷卻時間結束，再發動真正的突擊。",
+        "* 頭頂重擊（Overhead）總是在接住劍刃後緊接著施放。"
+      ],
+      "content_hash": "48b0c9b8eaa8",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:23.205941Z"
+    },
+    "4.5.1": {
+      "title": "連招",
+      "description": "",
+      "content": [
+        "使用飛天斬（Soaring Slice）飛至敵人上空。在下落過程中射出投影刃（Projected Edge），落地後接上一記頭頂斬擊，並依據情況進行後續動作：",
+        "* 近戰攻擊將能擊殺 225 生命值的英雄",
+        "* 投影刃（Projected Edge）將能擊殺 250 生命值的英雄"
+      ],
+      "content_hash": "4755fe151141",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:25.035653Z"
+    },
+    "4.6": {
+      "title": "[Q]：絕招：裂地之刃（Sundering Blade）",
+      "description": "",
+      "content": [
+        "裂地之刃（Sundering Blade）的使用技巧",
+        "* 充能至第 3 階段大約需要 2.5 秒。這段時間內保持靜止是非常危險的。請務必利用地形或隊友的屏障來確保在引導期間存活。",
+        "* 使用騰空斬（Soaring Slice）衝向空中，接著啟動絕招並充能至第 3 階段，然後從高處俯衝至咽喉點，這樣敵人就無法確切掌握你的進攻位置。",
+        "* 在地面引導時，請選擇在轉角處或屏障後方進行，這樣你才能存活夠久以充能至第 3 階段的傷害量。"
+      ],
+      "content_hash": "ef81b07a39fc",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:26.875932Z"
+    },
+    "4.7": {
+      "title": "被動技能：猛攻（Onslaught）",
+      "description": "",
+      "content": [
+        "**猛攻（Onslaught）的使用技巧**",
+        "* 此增益效果不會像其他許多技能那樣逐漸衰減。當效果結束時，數值會瞬間歸零。",
+        "* 如果你在戰鬥中無法繼續使用主要斬擊（primary slice），請做好準備，因為你的攻擊速度將會變慢，或者你可能會突然無法追擊敵人。如果你失去了此被動效果，請不要過度投入戰鬥；適時撤退並重整旗鼓是沒問題的。",
+        "* 當你擁有治療資源時，你可以從此被動技能中獲得極大的效益。"
+      ],
+      "content_hash": "783dd1c3fd9a",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:28.529677Z"
+    },
+    "5.1.1": {
+      "title": "狂暴風暴（Raging Storm）",
+      "description": "旋風衝刺（Whirlwind Dash）會持續旋轉，在廣大範圍內額外造成 3 次打擊，每次造成 30 點傷害。",
+      "content": [
+        "未提供攻略",
+        "特殊能力（perk）：狂暴風暴（Raging Storm）"
+      ],
+      "content_hash": "0c7982d2c2ba",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:29.873508Z"
+    },
+    "5.1.2": {
+      "title": "額外優勢（Extra Edge）",
+      "description": "投影邊緣（Projected Edge）的能量消耗降低 25%。",
+      "content": [
+        "* 關於額外優勢（Extra Edge）最好的建議就是不要使用它。",
+        "* 理論上，你可以在重新充能前多發射一枚拋射物，但這對戰局的影響非常小。"
+      ],
+      "content_hash": "3715ad329b93",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:31.232237Z"
+    },
+    "5.2.1": {
+      "title": "無情（Relentless）",
+      "description": "猛攻（Onslaught）可以額外堆疊 3 次，每層堆疊增加 5% 攻擊速度與 4% 移動速度。",
+      "content": [
+        "* 選擇無情（Relentless）會將猛攻（Onslaught）被動增益從 25% 攻擊速度提升至 40%，並將 20% 移動速度提升至 32%。",
+        "* 與汲取打擊（Siphonning Strike）搭配時極為強大，因為你能維持揮擊的時間更長。",
+        "* 與隊伍進行協調，因為獲得隊友支援且擁有滿層無情（Relentless）增益的宿怨（Vendetta），對敵方隊伍來說將會是無法阻擋的存在。",
+        "* 推薦的主要特殊能力（major perk）"
+      ],
+      "content_hash": "baf28df80306",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:33.458006Z"
+    },
+    "5.2.2": {
+      "title": "汲取重擊（Siphoning Strike）",
+      "description": "過頂重擊獲得 30% 的生命竊取（Lifesteal）。",
+      "content": [
+        "未提供指南",
+        "特殊能力：汲取重擊（Siphoning Strike）"
+      ],
+      "content_hash": "fb3657229596",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:34.895583Z"
+    },
+    "6": {
+      "title": "地圖",
+      "description": "",
+      "content": [
+        "宿怨（Vendetta）是一位多才多藝的英雄，能根據大多數地圖調整她的遊玩風格。她在傳統狙擊手地圖（如皇家賽道和哈瓦那）上會感到較為吃力。在這些地圖遊玩時，請多花點時間繞過地圖邊緣，並避開遠程敵人的視線（LoS）。",
+        "她表現最好的地圖通常擁有高地，讓她可以先行架設位置，再跳下進行交戰，而無需使用騰空斬（Soaring Slice）。大多數地圖都有適合這樣操作的區域，但努巴尼和捍衛者基地：直布羅陀是其中的最佳範例。"
+      ],
+      "content_hash": "9127f5fc3252",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:36.812592Z"
+    },
+    "6.1.1": {
+      "title": "努巴尼",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:37.880590Z"
+    },
+    "6.1.2": {
+      "title": "捍衛者基地：直布羅陀",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:39.132746Z"
+    },
+    "6.2.1": {
+      "title": "皇家賽道",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:40.380303Z"
+    },
+    "6.2.2": {
+      "title": "哈瓦那",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:41.295038Z"
+    },
+    "7": {
+      "title": "隊伍陣容搭配",
+      "description": "",
+      "content": [
+        "擁有遠程保護功能（例如投影屏障（Projected Barrier））的英雄，最能強化宿怨（Vendetta）並讓她橫掃戰場。衝入敵陣、獲得護盾、揮擊、擊殺，然後撤退。這種強大的戰術規劃讓敵方隊伍極難應對。",
+        "此外，她偏好來自生化步槍（Biotic Rifle）和和諧之珠（Orb of Harmony）等技能的持續遠程治療。當她能從隊伍獲得續戰力時，她可以選擇額外優勢（Extra Edge）作為她的次要特殊能力（minor perks），以增加投射物的使用頻率。"
+      ],
+      "content_hash": "7caf181c8cb6",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:43.343608Z"
+    },
+    "8": {
+      "title": "如何反制",
+      "description": "",
+      "content": [
+        "若不加以限制，宿怨（Vendetta）可以憑一己之力為隊伍贏得比賽。反制她最好的方法是使用擁有暈眩技能的英雄，例如閃光彈（Flashbang）、睡眠鏢（Sleep Dart）和能量標槍（Energy Javelin）。她對於投射物暈眩技能沒有任何直接的反制手段，因此這是懲罰她飛入戰場最簡單的方式。",
+        "當你無法使用這些技能時，建議待在能協助你對抗她的隊友身邊。絕對不要讓自己陷入她能將你強行帶入 1 對 1 單挑的處境。",
+        "最後，如果你擁有足夠的射程，遠離掩體的開闊區域會讓她難以接近。"
+      ],
+      "content_hash": "cf3fa0d4d7cc",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:45.186096Z"
+    },
+    "8.2": {
+      "title": "特定英雄剋星名稱",
+      "description": "",
+      "content": [
+        "* 卡西迪",
+        "* 安娜",
+        "* 歐瑞莎"
+      ],
+      "content_hash": "29989065ec5e",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:17:46.444872Z"
+    }
+  },
+  "metadata": {
+    "prompt_version": "v5",
+    "glossary_version": "v1",
+    "timestamp": "2026-03-20T04:28:17.746144Z"
+  }
+}

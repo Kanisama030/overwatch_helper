@@ -1,0 +1,392 @@
+{
+  "hero_id": "domina",
+  "locale": "zh-TW",
+  "sections": {
+    "1": {
+      "title": "概覽",
+      "description": "",
+      "content": [
+        "多米娜（Domina）是一位具備強大遠程傷害的護盾消耗型戰士（Bruiser）。圍繞目標點進行輪轉，並利用環境來控制與敵方前線的距離，是發揮她技能組優勢的關鍵。",
+        "在戰士（Bruiser）對決中，她擅長中距離的消耗戰。雖然大多數其他戰士（Bruiser）在近距離戰鬥中都能勝過她，但她擁有群體控制（Crowd Control）技能，能協助她主導戰鬥節奏。",
+        "具備類似遠程能力的隊友是與她搭配的最佳選擇，因為他們能從她巨大的護盾中獲得極大助益。總體而言，只要她能控制好空間距離，她就佔有優勢；但若無法甩開對手，面對強勢的突擊（Dive）與混戰（Brawl）陣容時，她會感到相當棘手。"
+      ],
+      "content_hash": "79de928fd430",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:12:58.147725Z"
+    },
+    "1.1.1": {
+      "title": "遊玩風格",
+      "description": "",
+      "content": [
+        "* 務必在掩體附近遊玩。探頭射擊光束爆發，並在射擊間隙迅速躲回掩體。",
+        "* 利用你的射程鎖定傷害型（DPS）與輔助型（Supports）英雄，以快速擊殺或迫使他們撤退。",
+        "* 在目標點周圍的邊緣位置進行站位，這樣你既能爭奪目標，又不會陷入被包圍的困境。"
+      ],
+      "content_hash": "1659fb142c47",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:12:59.842562Z"
+    },
+    "1.1.2": {
+      "title": "對戰策略",
+      "description": "",
+      "content": [
+        "* 範圍傷害（AoE）與爆炸傷害可以用來同時摧毀多個屏障面板。",
+        "* 突擊（Dive）戰術能有效反制她的玩法。透過快速繞到她的屏障後方來壓制她。",
+        "* 如果隊友被她的絕招困住，請協助他們從外部摧毀屏障。"
+      ],
+      "content_hash": "a9d75825c56c",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:01.191859Z"
+    },
+    "2": {
+      "title": "優勢與劣勢總結",
+      "description": "",
+      "content": [
+        "* 視野控制（Sightline Control）",
+        "* 高傷害（High damage）",
+        "* 具備扭轉戰局的絕招（Fight-winning Ult）",
+        "* 容易被破盾者（shield busters）反制",
+        "* 容易受到近戰衝突（Brawl）威脅",
+        "* 對抗機動突襲（dive）時較為弱勢"
+      ],
+      "content_hash": "929faf2135c1",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:02.817976Z"
+    },
+    "3.1.1": {
+      "title": "空間與視線控制",
+      "description": "",
+      "content": [
+        "屏障陣列（Barrier Array）的弧形結構與分段式生命值，使其成為《鬥陣特攻》中控制視線最強大的能力之一。隊友可以在屏障後方採取更寬廣的角度，並在屏障面板被擊破時進行重新走位。敵方隊伍通常無法一次摧毀所有面板。在隘口以及狹長的走廊地圖區域，多米娜（Domina）的屏障能讓她的隊伍在消耗戰中取得巨大優勢。"
+      ],
+      "content_hash": "dcb85cc0e6a4",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:04.630384Z"
+    },
+    "3.1.2": {
+      "title": "中距離的高額傷害",
+      "description": "",
+      "content": [
+        "光子手槍（Photon Magnum）的爆發傷害與射程，使她在中距離成為極具威脅的存在。這道光束是遊戲中最長的，讓她能夠在近距離敵人的最佳攻擊範圍之外進行輸出。當她以爆炸造成暴擊時，那些躲在坦克身後的敵人往往會因為她那出其不意的射程而措手不及。"
+      ],
+      "content_hash": "2287749469b6",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:05.985169Z"
+    },
+    "3.1.3": {
+      "title": "扭轉戰局的絕招",
+      "description": "",
+      "content": [
+        "許多英雄缺乏足夠的傷害，無法在屏障（barrier）爆炸前擊破盤諾普提康（Panopticon）。除非隊友能將他們救出，否則若能利用她的絕招（Ult）困住幾名支援（Supports），往往就能憑一己之力贏下會戰。"
+      ],
+      "content_hash": "b212ff814445",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:07.885531Z"
+    },
+    "3.2.1": {
+      "title": "被護盾破壞者克制",
+      "description": "",
+      "content": [
+        "擁有像壁壘機兵（Bastion）或炸彈鼠（Junkrat）這類擅長快速消耗護盾生命值的英雄之隊伍陣容，會讓多米娜（Domina）幾乎沒有反制手段。他們可以在多米娜的攻擊範圍外進行輸出，並剝奪她唯一的安全保障。"
+      ],
+      "content_hash": "cfda8f8e3c49",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:09.431740Z"
+    },
+    "3.2.2": {
+      "title": "容易被戰士（Bruiser）坦克克制",
+      "description": "",
+      "content": [
+        "多米娜（Domina）透過保持距離與控制空間來擊敗戰士（Bruiser）坦克。當她無法做到這一點時，她唯一的近距離手段就是音波排斥器（Sonic Repulsors）的擊退效果。一旦像萊因哈特（Reinhardt）和札莉雅（Zarya）這樣的戰士（Bruiser）坦克貼身近戰，她很快就會落敗。"
+      ],
+      "content_hash": "e9a5da196d5d",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:11.228154Z"
+    },
+    "3.2.3": {
+      "title": "弱點：面對側襲",
+      "description": "",
+      "content": [
+        "由於缺乏機動性工具，多米娜（Domina）無法跟上溫斯頓（Winston）、毀滅拳王（Doomfist）和閃光（Tracer）等高機動性側襲英雄的節奏。這些英雄可以輕易地與她保持距離，而當他們繞過她時，她也難以保護後排隊友。此外，她對於己方的高機動性隊友也幾乎無法提供任何協助。"
+      ],
+      "content_hash": "f51e8f2a8c35",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:12.990276Z"
+    },
+    "4.1": {
+      "title": "主要攻擊：光子麥格農（Photon Magnum）",
+      "description": "",
+      "content": [
+        "**關於**光子麥格農（Photon Magnum）**的技巧**",
+        "* 這是《鬥陣特攻》中射程最長的射束。雖然限制在 25 公尺，但光子麥格農（Photon Magnum）的射程仍大於遊戲中任何其他的射束武器。",
+        "* 在面對除了歐瑞莎（Orisa）、莫加（Mauga）以及智械型態的拉瑪塔（Ramattra）以外的所有坦克對局中，多米娜（Domina）都擁有射程優勢。",
+        "* 最後的爆發射擊為即時命中（hitscan）。不需要預判射擊位置。",
+        "* 爆發傷害與射程的特性，讓多米娜（Domina）在屏障冷卻期間進行「探頭射擊」（jiggle peeking）時特別有效。",
+        "* 在射擊間隔與射束啟動期間，短暫地移動到掩體後方。僅在即將發射高衝擊力射擊前才探頭。這樣做可以將她受到的傷害降至最低，同時仍能維持高 DPS 輸出。"
+      ],
+      "content_hash": "92e60b9ff7b9",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:15.097706Z"
+    },
+    "4.2": {
+      "title": "次要攻擊：屏障陣列（Barrier Array）",
+      "description": "",
+      "content": [
+        "**屏障陣列（Barrier Array）的使用技巧**",
+        "* 將半圓形屏障部署在扼守點前方或設有側門的走廊。這能最大化屏障所能保護的視野範圍，讓你的隊伍能從中進行反擊。",
+        "* 在選擇屏障的放置位置後，每個面板都擁有各自的生命值，必須個別擊破，否則面板會在持續時間結束後消失。",
+        "* 屏障陣列（Barrier Array）容易受到範圍傷害（AoE damage）的影響，因為這類傷害能同時摧毀多個面板。例如炸彈鼠（Junkrat）的地雷以及萊因哈特（Reinhardt）的火箭槌（Rocket Hammer）。"
+      ],
+      "content_hash": "cfa394b8f8d8",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:32.328197Z"
+    },
+    "4.3": {
+      "title": "[SHIFT]：音波排斥器（Sonic Repulsors）",
+      "description": "",
+      "content": [
+        "音波排斥器（Sonic Repulsors）的使用技巧",
+        "* 撞擊牆面會造成暈眩並附加額外傷害。請留意周遭環境，並嘗試將敵人夾在多米娜（Domina）與牆面或建築物（例如護送目標的載具）之間。",
+        "* 面對近戰英雄時，請將此技能作為「退後」按鈕使用。多米娜（Domina）不希望與敵人近身肉搏，她更傾向於利用她的水晶（Crystal）與光束射程進行戰鬥。",
+        "* 在可能的情況下，尋找地形殺（environmental KO）的機會，例如在愛西瓦德（Eichenwalde）的橋上。"
+      ],
+      "content_hash": "f6eb11bea232",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:33.908212Z"
+    },
+    "4.4": {
+      "title": "[E]：水晶充能（Crystal Charge）",
+      "description": "",
+      "content": [
+        "**水晶充能（Crystal Charge）的使用技巧**",
+        "* 對於透過她的被動技能重建（Reconstruction）來恢復護盾非常有幫助。",
+        "* 當你的生命值偏低時，鎖定像是敵方多米娜（Domina）的屏障這類可部署物，能快速造成技能傷害並瞬間治療自己。",
+        "* 擁有近乎無限的射程（100 公尺）。當你看到敵人且他們位於你的光束射程之外時，請立即使用此技能。",
+        "* 在撞擊英雄或地形後，水晶會造成持續性傷害。",
+        "* 可以在空中手動引爆。抓準時機引爆，使其在敵人頭頂上方炸開。",
+        "* 可以穿透屏障，因此你可以射擊像是席格馬（Sigma）這類坦克，即使他們正受到屏障保護而免疫你的光束攻擊。"
+      ],
+      "content_hash": "1fd22144dae1",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:36.031704Z"
+    },
+    "4.5": {
+      "title": "絕招：全景監獄（Panopticon）",
+      "description": "",
+      "content": [
+        "**全景監獄（Panopticon）使用技巧**",
+        "* 爆炸傷害運作機制",
+        "* * 屏障生命值：450",
+        "* 爆炸傷害會根據屏障消失時的剩餘生命值，在 100 至 300 點之間浮動。",
+        "* 困在內部的英雄可以攻擊屏障，外部的隊友也能協助摧毀它。",
+        "* 最適合用來對付支援型英雄或其他屏障傷害能力較低的英雄。",
+        "* * 例如霧子（Kiriko）和安娜（Ana），兩者的屏障傷害都非常低，除非有外部隊友協助摧毀屏障，否則很有可能會被爆炸直接擊殺。",
+        "* 另一方面，攔路豬（Roadhog）能快速消耗屏障生命值，並能使用「深呼吸（Take a Breather）」來進一步降低受到的傷害。",
+        "* 持續攻擊！",
+        "* * 被囚禁的敵人無法攻擊你，但他們仍會受到多米娜（Domina）及其隊友的傷害。如果你將敵人的生命值壓低，爆炸通常足以確保擊殺。"
+      ],
+      "content_hash": "366f06a7b023",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:38.488042Z"
+    },
+    "4.6": {
+      "title": "被動技能：重建（Reconstruction）",
+      "description": "",
+      "content": [
+        "**重建（Reconstruction）的技巧**",
+        "* 只有直接對敵方英雄造成的技能傷害，才能計入重建（Reconstruction）的護盾恢復量。",
+        "* 當你的護盾值偏低時，請在造成技能傷害的同時留意自己的生命值。當你能造成更多傷害時，你就能在戰鬥中存活更久。"
+      ],
+      "content_hash": "764f3b3f938f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:39.737812Z"
+    },
+    "5.1.1": {
+      "title": "高效設計（Efficient Design）",
+      "description": "在使用屏障陣列（Barrier Array）後，恢復 50 點護盾並啟動被動生命恢復。",
+      "content": [
+        "* 最適合防守型打法。",
+        "* 當使用高效設計（Efficient Design）時，請務必在受到一些傷害後再部署她的屏障。"
+      ],
+      "content_hash": "53343e02ee84",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:41.278010Z"
+    },
+    "5.1.2": {
+      "title": "延伸力量（Extended Power）",
+      "description": "將光子手槍（Photon Magnum）的射程增加 20%。",
+      "content": [
+        "* 更適合進攻。",
+        "* 將你的主要攻擊射程延長 5 公尺是非常強大的；千萬別小看這項次要特殊能力（minor perk）的威力。",
+        "* 啟用後，請嘗試適應增加後的射程。在戰鬥中持續移動，並利用你優越的射程優勢來對抗戰士（Bruiser）。",
+        "* 忽略敵方戰士（Bruiser），並利用你的光束（Beam）鎖定那些自以為安全、生命值較低的目標。"
+      ],
+      "content_hash": "43fe43835576",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:42.917850Z"
+    },
+    "5.2.1": {
+      "title": "干擾引爆（Disruptive Detonation）",
+      "description": "被水晶衝鋒（Crystal Charge）爆炸擊中的敵人將會被緩速 30%，持續 2 秒。",
+      "content": [
+        "* 試著在兩名敵人之間引爆水晶衝鋒（Crystal Charge），以最大化此特殊能力（perk）的控場效果。",
+        "* 減緩敵方坦克（Tank）的推進速度，並阻礙試圖逃跑的敵人。",
+        "* 推薦主要特殊能力（major perks）"
+      ],
+      "content_hash": "c971341f655d",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:44.204897Z"
+    },
+    "5.2.2": {
+      "title": "強力移動（Power Move）",
+      "description": "屏障陣列（Barrier Array）可以用來當作牆壁，搭配音波排斥器（Sonic Repulsors）將敵人擊暈，並造成 100% 的傷害提升。",
+      "content": [
+        "* 很適合用來讓多米娜（Domina）反制近戰英雄。",
+        "* 一旦敵人進入近戰範圍，先在他們身後部署屏障，接著使用音波排斥器（Sonic Repulsors）將他們撞向你的屏障。",
+        "* 強力移動（Power Move）只會讓屏障在進行音波撞擊（Sonic wall slams）時視為牆壁。敵人依然可以像平常一樣自由地穿過它。"
+      ],
+      "content_hash": "f1bbf6ec9369",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:46.123529Z"
+    },
+    "6": {
+      "title": "地圖",
+      "description": "",
+      "content": [
+        "多米娜（Domina）在擁有強勢隘口與長廊的地圖中表現最佳，例如哈瓦那（Havana）、垃圾鎮（Junkertown）和中城區（Midtown）。這些地圖有利於消耗型陣容，而多米娜憑藉其高防護罩覆蓋率與遠程攻擊，不僅能與此類陣容完美搭配，也能有效進行反制。",
+        "她最難以應對兩種類型的地圖。第一種是空間非常狹窄的地圖，例如新垃圾城（New Junk City）和南極半島（Antarctic Peninsula）。雖然在正確的陣容搭配下她仍能發揮作用——前提是你必須不斷轉位並保持最佳距離——但這會是一場艱苦的戰鬥。",
+        "擁有大量高地的地圖，例如捍衛者基地：直布羅陀（Watchpoint: Gibraltar）和努巴尼（Numbani），會帶給她最大的困擾。正如上方「弱點」章節所述，多米娜難以對抗那些擅長利用此類垂直地形的高機動性與機動突擊（Dive）英雄。"
+      ],
+      "content_hash": "65237f7ab61f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:48.236640Z"
+    },
+    "6.1.1": {
+      "title": "哈瓦那",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:49.297534Z"
+    },
+    "6.1.2": {
+      "title": "垃圾鎮",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:50.642257Z"
+    },
+    "6.1.3": {
+      "title": "中城區",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:52.004019Z"
+    },
+    "6.2.1": {
+      "title": "新垃圾城",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:52.897101Z"
+    },
+    "6.2.2": {
+      "title": "捍衛者基地：直布羅陀",
+      "description": "",
+      "content": [
+        "AI 生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:54.166849Z"
+    },
+    "6.2.3": {
+      "title": "努巴尼",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:55.371015Z"
+    },
+    "7": {
+      "title": "隊伍陣容搭配",
+      "description": "",
+      "content": [
+        "多米娜（Domina）非常適合與那些需要大型護盾作為掩護，同時進行遠程傷害輸出的英雄搭配。像索潔恩（Sojourn）、艾西（Ashe）和巴帝斯特（Baptiste）這類英雄都有相似的站位策略。他們的遠程消耗壓力能幫助多米娜（Domina）控制空間，並在敵方隊伍完全逼近前，先削減其資源。由於她缺乏機動性，範圍治療（AoE healing）和投射物治療（projectile healing）能提供最穩定的續航能力。"
+      ],
+      "content_hash": "fdd74f070e73",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:57.547095Z"
+    },
+    "8": {
+      "title": "如何反制",
+      "description": "",
+      "content": [
+        "反制多米娜（Domina）的最佳方式是使用能夠透過交換冷卻時間來消耗其屏障的英雄。除了來自重建（Reconstruction）的少量護盾生成外，多米娜（Domina）在屏障之外並沒有其他的生存工具。像壁壘機兵（Bastion）這樣的英雄可以使用設定：強襲（Configuration: Assault）來快速粉碎護盾，讓多米娜（Domina）及其隊友暴露在己方隊伍的猛烈攻勢之下。",
+        "或者，你也可以使用衝鋒（Rush）或機動（Dive）陣容來完全繞過她的屏障。這些策略利用爆發性的機動能力來縮短距離並壓制後排。成功的關鍵在於將接近過程中的傷害降至最低；例如，如果萊因哈特（Reinhardt）在僅剩 400 點屏障生命值且沒有護甲的情況下進入近戰範圍，他將無法進行足夠激進的揮擊來贏得戰鬥。"
+      ],
+      "content_hash": "704d6bd658f0",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:13:59.706984Z"
+    },
+    "8.2": {
+      "title": "特定英雄剋制名稱",
+      "description": "",
+      "content": [
+        "* 壁壘機兵",
+        "* 萊因哈特"
+      ],
+      "content_hash": "59b6470f3419",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:14:01.117179Z"
+    }
+  },
+  "metadata": {
+    "prompt_version": "v5",
+    "glossary_version": "v1",
+    "timestamp": "2026-03-20T04:28:17.702504Z"
+  }
+}

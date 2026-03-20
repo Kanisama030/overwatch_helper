@@ -123,10 +123,16 @@ export function useHeroTranslation(
       } catch (err) {
         if (!isCancelled) {
           console.error('[Translation] 翻譯失敗:', err);
-          setError(err instanceof Error ? err.message : '翻譯載入失敗');
+          const message = err instanceof Error ? err.message : '翻譯載入失敗';
+          if (message.includes('找不到翻譯檔')) {
+            setError(null);
+          } else {
+            setError(message);
+          }
           setLoading(false);
           setProgress(0);
           setCurrentStep(1);
+          setSections(null);
           
           if (progressInterval !== null) {
             window.clearInterval(progressInterval);

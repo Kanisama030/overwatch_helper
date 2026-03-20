@@ -1,0 +1,318 @@
+{
+  "hero_id": "reaper",
+  "locale": "zh-TW",
+  "sections": {
+    "1": {
+      "title": "概覽",
+      "description": "",
+      "content": [
+        "這位手持雙管霰彈槍、冷酷無情的殺手，是所有坦克玩家揮之不去的夢魘。死神（Reaper）在隊伍中擔任非常明確的近距離戰鬥者角色。在中遠距離下，他幾乎無法為隊伍提供任何價值；但若能成功貼近敵方臉上，他將瞬間取得絕對優勢。",
+        "玩家必須具備足夠的紀律與耐心，才能執行隱蔽的側襲（Flanker）路線，並在接近目標的過程中避免受到傷害。他在快速消滅落單敵人以及與坦克正面對決時同樣有效。根據地圖與對戰組合的不同，他可以靈活調整目標優先級，並擊殺敵方陣容中最脆弱的對手。"
+      ],
+      "content_hash": "42fa2b2dd32e",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:34.873018Z"
+    },
+    "1.1.1": {
+      "title": "遊玩方式",
+      "description": "",
+      "content": [
+        "* 尋找後排落單的敵人。他們最容易被擊殺，且能迅速為你的隊伍帶來優勢。",
+        "* 保留幽影形態（Wraith Form）以利生存。試著潛入並發動攻擊，僅在生命值偏低且需要撤退時才使用幽影形態（Wraith Form）。",
+        "* 協助你的坦克贏得坦克對決。特別是在坦克鏡像對局中，死神（Reaper）提供的額外傷害能讓你的坦克在對抗敵方坦克時輕鬆獲勝。"
+      ],
+      "content_hash": "56254b104f39",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:36.654778Z"
+    },
+    "1.1.2": {
+      "title": "對戰策略",
+      "description": "",
+      "content": [
+        "* 在死神（Reaper）使用幽影傳送（Wraith Form）後再集中火力攻擊他。即使必須追擊，失去幽影傳送的死神也非常容易擊殺。",
+        "* 仔細聆聽暗影步（Shadow Step）的音效提示。你聽到的聲音方向即代表他即將出現並發動攻擊的位置。",
+        "* 使用控場技能（CC）、傷害減免技能或集中火力來反制死亡綻放（Death Blossom）。由於他在施放期間移動緩慢且無法取消技能，因此很容易成為目標。"
+      ],
+      "content_hash": "c3bd471cabc7",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:38.600674Z"
+    },
+    "2": {
+      "title": "優缺點總結",
+      "description": "",
+      "content": [
+        "* 坦克毀滅者（Tank buster）",
+        "* 後排刺客（Backline assassin）",
+        "* 具備自我生存能力（Self-reliant）",
+        "* 射程較差（Poor range）",
+        "* 絕招容易被反制（Ult is easy to counter）",
+        "* 護甲（Armor）"
+      ],
+      "content_hash": "526cfc0a1143",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:39.825143Z"
+    },
+    "3.1.1": {
+      "title": "坦克殺手",
+      "description": "",
+      "content": [
+        "死神（Reaper）散佈範圍廣泛的散彈槍非常適合射擊體型巨大的坦克。這些散彈槍同時也是他自身生命竊取（lifesteal）的主要來源。憑藉著高額傷害與生命竊取能力，大多數坦克都會盡可能避開死神。"
+      ],
+      "content_hash": "04ad8bac9be8",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:41.589624Z"
+    },
+    "3.1.2": {
+      "title": "後排刺客",
+      "description": "",
+      "content": [
+        "暗影步（Shadow Step）與幽影傳送（Wraith Form）是非常優秀的側襲工具。死神（Reaper）可以傳送至敵方後方進行突襲、擊殺目標，接著轉為無敵狀態並撤離。"
+      ],
+      "content_hash": "a21f4d7f8894",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:43.143858Z"
+    },
+    "3.1.3": {
+      "title": "自給自足",
+      "description": "",
+      "content": [
+        "擁有生命竊取（life steal）、機動性以及無敵能力，意味著死神（Reaper）不需要過度依賴隊伍的資源。當你覺得隊伍提供的支援不足時，他是非常好的選擇。透過生命包與生命竊取（life steal），死神（Reaper）完全可以靠自己保持滿血狀態。"
+      ],
+      "content_hash": "d54488dc4a00",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:44.616119Z"
+    },
+    "3.2.1": {
+      "title": "射程不佳",
+      "description": "",
+      "content": [
+        "死神唯一的攻擊手段是地獄火散彈槍（Hellfire Shotguns），其傷害衰減距離短且彈著點擴散範圍大，這使得死神無法在近距離以外的戰鬥中發揮價值。在消耗戰階段，死神幾乎無法做出任何貢獻。此外，為了進入近距離作戰，也讓死神自身陷入更大的危險之中。"
+      ],
+      "content_hash": "3f072001b656",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:46.194578Z"
+    },
+    "3.2.2": {
+      "title": "容易被反制的絕招",
+      "description": "",
+      "content": [
+        "在《鬥陣特攻2》中，絕招被視為能扭轉戰局的關鍵能力。然而對死神來說，他的絕招卻很難穩定發揮價值。施放絕招的時機往往太過明顯，且有無數種方式可以反制，從減傷效果與無敵技能，到暈眩效果與瞬間爆發傷害，應有盡有。"
+      ],
+      "content_hash": "d0164b5adadb",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:47.760523Z"
+    },
+    "3.2.3": {
+      "title": "護甲",
+      "description": "",
+      "content": [
+        "護甲會將死神（Reaper）的散彈槍傷害降低一半。因此，如果他正在攻擊像歐瑞莎（Orisa）這樣擁有大量護甲的坦克，他在與隊友將其護甲削減至基礎生命值之前，所造成的傷害會非常低。"
+      ],
+      "content_hash": "8be2b8483887",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:48.775724Z"
+    },
+    "4.1": {
+      "title": "主要攻擊：地獄火散彈槍（Hellfire Shotguns）",
+      "description": "",
+      "content": [
+        "**地獄火散彈槍（Hellfire Shotguns）的技巧**",
+        "* 近距離交戰",
+        "* 地獄火散彈槍（Hellfire Shotguns）的傷害在極近距離下會大幅提升。在距離超過 10 公尺時，傷害衰減便會開始生效，且彈道擴散會導致大量彈丸落空。",
+        "* 貼臉攻擊敵人能確保散彈槍的彈丸全數命中，進而造成更高傷害並獲得更多生命竊取。",
+        "* 在 5 公尺或更近的距離下，死神（Reaper）在幾乎所有的對決中都佔有優勢。",
+        "* 暴擊",
+        "* 一發爆頭加上一發身體射擊即可瞬間擊殺所有傷害型英雄與支援型英雄（假設為近距離且全數彈丸命中）。對死神（Reaper）而言，瞄準頭部極為重要，因為他仰賴爆發傷害來快速擊殺目標，並在自身陣亡前撤離。近距離交戰也使得爆頭比長距離英雄更容易達成。",
+        "* 射擊節奏",
+        "* 每半秒射擊一次聽起來很快，但當目標是像朱諾（Juno）這種移動迅速且體型嬌小的敵人時，請嘗試單獨控制每一次射擊。這樣可以節省彈藥並提高命中率。",
+        "* 此外，當你潛行靠近未察覺你的敵人時，請等到進入極近距離再開火。如果對方沒發現你，不要一看到人就立刻開槍。這樣才能在戰鬥中將你的優勢最大化。"
+      ],
+      "content_hash": "b55e7ab3fce8",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:51.841161Z"
+    },
+    "4.2": {
+      "title": "[SHIFT]：幽影傳送（Wraith Form）",
+      "description": "",
+      "content": [
+        "**幽影傳送（Wraith Form）使用技巧**",
+        "* 用於無敵狀態",
+        "* 幽影傳送（Wraith Form）的主要用途應該是生存。在理想情況下，死神（Reaper）玩家在交戰時應盡量避免使用幽影傳送（Wraith Form），並將其保留在生命值偏低時作為安全撤離的手段。",
+        "* 如果你使用幽影傳送（Wraith Form）來接近目標，一旦敵方隊伍轉火攻擊你，死神（Reaper）就會成為活靶子。",
+        "* 用於裝填彈藥",
+        "* 啟動並立即取消幽影傳送（Wraith Form）可以快速裝滿彈匣，並幫助死神（Reaper）擊殺生命值較低的目標。你經常會遇到彈藥耗盡而目標卻殘血逃脫的情況。利用幽影傳送（Wraith Form）的裝填取消技巧，將能幫助你順利完成擊殺。",
+        "* 務必牢記：在那些沒有保留幽影傳送（Wraith Form）的情況下，請務必規劃好你的生存路徑。附近有掩體嗎？有生命包嗎？是否有治療或傷害減免資源？了解這些問題的答案，將能讓你打得更加激進。"
+      ],
+      "content_hash": "34e7fec1d2c7",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:54.115891Z"
+    },
+    "4.3": {
+      "title": "[E]：暗影步（Shadow Step）",
+      "description": "",
+      "content": [
+        "**暗影步（Shadow Step）的使用技巧**",
+        "* 響亮的音效提示",
+        "* 首先，你必須知道當死神抵達選定的傳送位置時，會發出敵人能聽見的響亮音效。即使是在牆後，當你使用暗影步（Shadow Step）靠近敵人時，也要做好應對他們反應的準備。",
+        "* 用於佈局側襲",
+        "* 暗影步（Shadow Step）非常適合移動到敵人的後方或高處。接著，透過蹲下行走悄悄靠近他們，讓敵人無法察覺死神的存在。這樣做能讓敵方後排對死神產生恐懼。",
+        "* 切勿在敵方視野（LoS）內進行傳送",
+        "* 死神在啟動暗影步（Shadow Step）以及抵達選定地點時，會處於靜止狀態。如果他在這兩個過程中的任何一個時刻處於敵方視野（LoS）內，敵人就能輕鬆獲得免費的爆頭機會，並且通常有足夠的時間在死神移動或使用幽影傳送（Wraith Form）之前將其擊殺。"
+      ],
+      "content_hash": "a44f22736ed2",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:56.542291Z"
+    },
+    "4.4": {
+      "title": "絕招：死亡綻放（Death Blossom）",
+      "description": "",
+      "content": [
+        "**死亡綻放（Death Blossom）的使用技巧**",
+        "* 保持隱蔽",
+        "* 為了提升死亡綻放（Death Blossom）的擊殺數與成功率，請專注於讓敵人措手不及。如果敵人沒有發現死神，卻突然遭到背後的死亡綻放（Death Blossom）攻擊，他們將幾乎沒有時間做出反應。",
+        "* 不要使用幽影傳送（Wraith Form）切入死亡綻放（Death Blossom）",
+        "* 這是所有死神玩家最愛用的招式，以至於敵人都已經習慣在看到死神使用幽影傳送（Wraith Form）衝進隊伍時，預期他會接著施放死亡綻放（Death Blossom）。這樣做很可能會讓你被駭入、暈眩，或是絕招被阻擋，最終導致死神陣亡。",
+        "* 收割殘血目標",
+        "* 死亡綻放（Death Blossom）會自動鎖定範圍內的所有敵人和可部署裝置。這對於彈藥耗盡，或是難以給予最後一擊時收割目標非常有用。"
+      ],
+      "content_hash": "85b58cc116fa",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:42:58.556027Z"
+    },
+    "4.5": {
+      "title": "（被動技能）收割（The Reaping）",
+      "description": "",
+      "content": [
+        "**關於**收割（The Reaping）**的提示**",
+        "* 30% 生命竊取",
+        "* 死神（Reaper）使用霰彈槍造成的任何傷害，包含在施放死亡綻放（Death Blossom）期間，皆會治療死神（Reaper）。",
+        "* 當生命值偏低且無路可逃時，請專注於射擊坦克（Tanks）或機動性較低的敵人，因為你更有可能對他們快速造成傷害。如此一來，你就能更快地產生自我治療效果。",
+        "* 請密切注意你的生命值",
+        "* 在戰鬥中，死神（Reaper）的生命值會因為治療與受傷而不斷起伏。請務必留意你的生命值條，以判斷何時需要使用幽影傳送（Wraith Form）來保命。"
+      ],
+      "content_hash": "9dbb2241b10e",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:43:01.170070Z"
+    },
+    "5.1.1": {
+      "title": "幽影殘留（Lingering Wraith）",
+      "description": "",
+      "content": [
+        "未提供攻略",
+        "特殊能力：幽影殘留（Lingering Wraith）"
+      ],
+      "content_hash": "e692808cc51b",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:43:02.378558Z"
+    },
+    "5.1.2": {
+      "title": "靈魂掠奪（Soul Reaving）",
+      "description": "",
+      "content": [
+        "* 極高坦度",
+        "* 靈魂球（Soul Globes）對於提升死神的坦度非常有幫助，能增加他的自我續航能力，讓他能在戰鬥中存活更久。",
+        "* 在目標點附近的混戰中特別有效，因為敵人會在近距離陣亡。",
+        "* 不要試圖撿起每一個靈魂球",
+        "* 看到靈魂球並不代表你一定要去撿。它們可能是誘餌，為了極少的治療量而浪費時間。只有在生命值危急，或是它們正好在你前往目標敵人的路徑上時才去撿取。",
+        "幽影纏繞（Lingering Wraith）",
+        "* 危險的特殊能力（Perk）",
+        "* 速度加成會誘使你使用幽影型態（Wraith Form）來進場，但這樣一來你就沒有技能可以逃脫了。你必須對自己能成功擊殺並存活下來有極高的把握。",
+        "* 對付那些機動性持續時間更長，或是移動距離比你的幽影型態（Wraith Form）更遠的目標時非常有用。"
+      ],
+      "content_hash": "167eaf504c27",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:43:05.017795Z"
+    },
+    "5.2.1": {
+      "title": "致命扳機（Dire Triggers）",
+      "description": "",
+      "content": [
+        "* 遠程武器",
+        "* 大幅增加的遠程傷害與更集中的彈道擴散，讓死神終於能夠參與遠距離戰鬥。",
+        "* 在近身交戰前，先累積絕招充能，或是對敵方隊伍施加壓力。",
+        "* 協助對付飛行單位",
+        "* 在有法拉或迴音等飛行單位的對戰中，致命扳機（Dire Triggers）較長的射程有助於施加壓力，甚至將其擊殺。",
+        "* 不要過早暴露你的側襲位置",
+        "* 致命扳機（Dire Triggers）的傷害並不值得讓你用來作為側襲攻擊的開端。盡可能靠近目標，再使用地獄火霰彈槍（Hellfire Shotguns）進行攻擊依然是更好的選擇。"
+      ],
+      "content_hash": "32a5c5f8dd33",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:43:06.971097Z"
+    },
+    "5.2.2": {
+      "title": "暗影閃現（Shadow Blink）",
+      "description": "",
+      "content": [
+        "* 讓死神（Reaper）能透過暗影步（Shadow Step）進行更安全的撤離。此特殊能力（perk）最棒的用途在於當你沒有幽影體（Wraith Form）時，能藉由更快的施法時間脫離戰鬥。",
+        "* 若你有使用餘韻幽影（Lingering Wraith），則強烈建議搭配此特殊能力（perk）。"
+      ],
+      "content_hash": "ac53aa90587b",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:43:09.021818Z"
+    },
+    "6": {
+      "title": "地圖",
+      "description": "",
+      "content": [
+        "死神（Reaper）在空間狹窄且充滿小型房間的地圖中表現最為出色。他在長視線、狹窄走廊以及開闊空間的地圖中則較為吃力。在操作死神（Reaper）時，規劃路徑的首要重點應放在尋找掩體與側襲路線。如果目標點的一側有生命包或掩蔽路徑，請將大部分時間花在那一側，並避開另一側。擁有高台區域的地圖能為他提供額外的選擇，讓他可以傳送（TP）上去，再跳下進行致命的突襲。"
+      ],
+      "content_hash": "deda6db879bb",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:43:11.127218Z"
+    },
+    "7": {
+      "title": "隊伍陣容搭配",
+      "description": "",
+      "content": [
+        "死神最好的盟友是札莉雅，因為她擁有投射屏障（Projected Barrier）以及在前線的壓制力。",
+        "當他切入戰場並獲得屏障保護時，他有幾秒鐘的時間可以毫無顧忌地消滅敵人，而不必擔心被暈眩。同樣地，投射屏障也是讓高價值的死亡綻放（Death Blossom）發揮作用的絕佳工具。",
+        "他也與其他戰士（Bruiser）和衝鋒型坦克搭配良好，可以與機動性高的坦克一同切入，但與多米娜和席格馬這類消耗型坦克搭配時，能發揮的價值較低。",
+        "由於他需要近距離作戰，能夠在他深入敵方後排時提供治療的輔助英雄是最佳選擇。例如織命，他不僅能提供治療，還能在必要時使用生命之握（Life Grip）拯救死神。安娜則能提供爆發性治療、使用生化手榴彈（Biotic Grenade）來確保擊殺，並透過奈米強化（Nano Boost）讓死神的進攻變得極具威脅。"
+      ],
+      "content_hash": "ad703037e8e9",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:43:13.779151Z"
+    },
+    "8": {
+      "title": "如何反制",
+      "description": "",
+      "content": [
+        "死神（Reaper）最強的玩法是擔任側襲者（Flanker），專門刺殺後排英雄，例如醫護兵（Medic）和神射手（Sharpshooter）。這正是你需要阻止的主要目標。他在與戰士（Bruiser）近身纏鬥時也很強，但除了這兩種情況外，他的作用非常有限。你的任務就是盡可能讓他難以執行這些戰術。",
+        "首先，幾乎每位英雄的射程都比他遠，所以請專注於保持在他射程之外，這樣你就能在他靠近前先發制人。",
+        "仔細聆聽暗影步（Shadow Step）的音效提示。你聽到的方向就是他即將現身並發動攻擊的位置。幽影傳送（Wraith Form）也是同理，如果你看到他朝你的方向使用該技能，請立即利用你的機動性拉開距離。",
+        "盡可能將擊退或暈眩技能留到他使用過幽影傳送（Wraith Form）之後再施放。另外非常重要的一點是，在他使用幽影傳送（Wraith Form）後集中火力攻擊他，即使必須追擊也在所不惜，因為失去幽影傳送（Wraith Form）的死神（Reaper）很容易擊殺。",
+        "利用控場技能（CC）、傷害減免或集中火力來反制死亡綻放（Death Blossom）。他在施放期間移動緩慢且無法取消技能，因此很容易成為目標。"
+      ],
+      "content_hash": "95ec8f3bf3da",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:43:17.071025Z"
+    }
+  },
+  "metadata": {
+    "prompt_version": "v5",
+    "glossary_version": "v1",
+    "timestamp": "2026-03-20T04:28:18.082975Z"
+  }
+}
