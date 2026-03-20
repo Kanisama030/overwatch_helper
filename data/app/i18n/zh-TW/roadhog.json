@@ -6,39 +6,39 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "攔路豬（Roadhog）比起坦克，感覺更像是一個巨大的輸出型角色。鏈鉤（Chain Hook）使他比其他坦克更具致命威脅。攔路豬能透過單人操作來主導戰局並贏得勝利。他也是少數除了當作肉盾吸收傷害外，無法為隊友提供任何保護的坦克。",
-        "喜歡親自掌握攻防節奏的玩家會發現攔路豬非常適合他們。深呼吸（Take a Breather）賦予他極強的自我續航能力，使攔路豬成為《鬥陣特攻》（Overwatch）中最具獨立性的坦克之一。採取前壓打法，將位置不佳的敵方目標拉過來，並將這些早期的擊殺轉化為團戰的勝利。"
+        "![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬（Roadhog）感覺更像是一個巨大的輸出型英雄，而非坦克。鎖鏈鉤（Chain Hook）讓他比其他坦克更具致命威脅。![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬透過成為單打獨鬥的關鍵操盤手來贏得比賽。他也是少數除了作為肉盾吸收傷害外，無法為隊友提供任何保護的坦克之一。",
+        "喜歡將攻守掌握在自己手中的玩家會發現![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬非常適合他們。![](/data/assets/guide/b08074397e9cf795.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-a-breather.png)深呼吸（Take a Breather）賦予他極強的自我維持能力，使攔路豬成為《鬥陣特攻》（Overwatch）中最能自給自足的坦克之一。大膽向前推進，將位置不佳的脆弱敵人拉過來，並將這些早期的擊殺轉化為團戰的勝利。"
       ],
-      "content_hash": "c9db5201f506",
-      "prompt_version": "v5",
+      "content_hash": "eaede151b05d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:03.347047Z"
+      "timestamp": "2026-03-20T13:15:15.805958Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 對輸出或支援英雄使用鏈鉤（Chain Hook）的價值高於對坦克使用。請隨時留意鏈鉤射程內的脆皮目標。",
-        "* 當你的支援英雄忙於其他事務或不在視野範圍（LoS）內時，請使用深呼吸（Take a Breather）來治療自己。你也可以在深呼吸期間吸收更多傷害。",
-        "* 你可以在使用火力全開（Whole Hog）之前或期間使用鏈鉤，以確保敵人保持在近距離。試著將火力全開瞄準牆壁，這樣目標就會被困住，而不是被擊退。"
+        "* 對 DPS 或醫護兵（Support）使用 ![](/data/assets/guide/92d64f77a57b16b8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fchain-hook.png)鏈鉤（Chain Hook）的價值高於對戰士（Tank）使用。請隨時留意鏈鉤範圍內的軟皮目標。",
+        "* 每當你的醫護兵（Support）忙於他事或不在視野範圍（LoS）內時，請使用 ![](/data/assets/guide/b08074397e9cf795.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-a-breather.png)深呼吸（Take a Breather）來進行治療。你也可以在深呼吸（Take a Breather）期間吸收更多傷害。",
+        "* 鏈鉤（Hook）可以在使用 ![](/data/assets/guide/c112a0acc9386624.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhole-hog.png)火力全開（Whole Hog）之前或期間使用，以將敵人保持在近距離。試著將 ![](/data/assets/guide/c112a0acc9386624.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhole-hog.png)火力全開（Whole Hog）瞄準牆壁，這樣你的目標就會被卡住，而不是被擊退。"
       ],
-      "content_hash": "73a70de5cde3",
-      "prompt_version": "v5",
+      "content_hash": "7dae7574c38a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:05.417368Z"
+      "timestamp": "2026-03-20T13:15:18.237093Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 當隊友被鉤住時，若你能迅速反應並給予治療、控場（CC）或傷害減免，就有機會救下他們的性命。",
-        "* 當攔路豬的鎖鏈鉤（Chain Hook）落空或被阻擋時，請把握這幾秒鐘發動攻勢，因為沒有鎖鏈鉤的攔路豬威脅性並不高。",
-        "* 如果你擁有傷害減免技能，請先讓豬肉屠宰場（Whole Hog）將你擊退，待脫離其最佳射程後，再開啟你的屏障或傷害吸收技能。"
+        "* 當隊友被鉤住時，若能迅速反應並給予治療、控場（CC）或傷害減免，就有機會救他們一命。",
+        "* 當攔路豬（Roadhog）的鉤子落空或被格擋時，請把握接下來幾秒鐘發動攻勢，因為沒有了鏈鉤（Chain Hook）的 ![](/data/assets/guide/92d64f77a57b16b8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fchain-hook.png)，![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬的威脅性會大幅降低。",
+        "* 如果你擁有傷害減免技能，請先讓 ![](/data/assets/guide/c112a0acc9386624.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhole-hog.png)豬肉屠宰場（Whole Hog）將你擊退，待脫離其最佳射程後，再開啟你的屏障或傷害吸收技能。"
       ],
-      "content_hash": "ef8c05d68904",
-      "prompt_version": "v5",
+      "content_hash": "b5873a285933",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:07.548419Z"
+      "timestamp": "2026-03-20T13:15:20.567961Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -46,220 +46,220 @@
       "content": [
         "* 鎖鏈鉤（Chain Hook）",
         "* 爆發傷害（Burst damage）",
-        "* 高自我續航力（High self-sustain）",
-        "* 吸收傷害者（Bullet Sponge）",
+        "* 高自我生存能力（High self-sustain）",
+        "* 肉盾（Bullet Sponge）",
         "* 低射程（Low range）",
         "* 機動性差（Poor mobility）"
       ],
       "content_hash": "3fbae4308075",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:09.076647Z"
+      "timestamp": "2026-03-20T13:15:22.071699Z"
     },
     "3.1.1": {
-      "title": "位移技能（Displacement abilities）",
+      "title": "位移技能",
       "description": "",
       "content": [
-        "攔路豬（Roadhog）的「鎖鏈鉤（Chain Hook）」無疑是所有《鬥陣特攻》中，坦克最危險的冷卻技能。將某人從轉角處拉出並使其遠離隊友，幾乎總是能確保擊殺。此外，「全速開火（Whole Hog）」可以用來進行地形擊殺，或是將敵人推離目標點。"
+        "![](/data/assets/guide/92d64f77a57b16b8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fchain-hook.png)鏈鉤（Chain Hook）絕對是所有 Overwatch 中最危險的坦克冷卻技能。將某人拉過轉角並使其脫離隊伍，幾乎總是足以完成擊殺。此外，攔路豬（Roadhog）的絕招「火力全開（Whole Hog）」![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)可以用於地形殺，或是將敵人推離目標點。"
       ],
-      "content_hash": "002c489ff202",
-      "prompt_version": "v5",
+      "content_hash": "17785849a12d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:11.590656Z"
+      "timestamp": "2026-03-20T13:15:23.318820Z"
     },
     "3.1.2": {
       "title": "爆發傷害",
       "description": "",
       "content": [
-        "他的散彈槍在極近距離和中距離都能造成高額的爆發傷害。他也可以使用右鍵 > 鎖鏈鉤（Chain Hook） > 主要攻擊 > 近戰攻擊的連招，來打出一套快速的爆發組合技。"
+        "他的散彈槍在極近距離和中距離都能造成高額的爆發傷害。他也可以透過右鍵點擊 > ![](/data/assets/guide/92d64f77a57b16b8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fchain-hook.png)鏈鉤（Chain Hook） > 主要攻擊 > 近戰攻擊的連招，來打出一套快速的爆發連擊。"
       ],
-      "content_hash": "42f37c73382a",
-      "prompt_version": "v5",
+      "content_hash": "7ea7b3b80efb",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:13.168653Z"
+      "timestamp": "2026-03-20T13:15:25.131447Z"
     },
     "3.1.3": {
       "title": "高自我維持能力",
       "description": "",
       "content": [
-        "攔路豬是唯一一位能在需要生命值時隨時自我治療的坦克（前提是他擁有氣罐（Breather）資源）。他大約每 9 秒就能恢復 450 點生命值。在使用「深呼吸（Take a Breather）」期間，他還能獲得傷害減免。這讓攔路豬能夠獨自生存，並使他變得難以擊殺。"
+        "![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬是唯一一位能在需要生命值時隨時進行自我治療的坦克（前提是他擁有氣罐（Breather）資源）。他大約每 9 秒就能恢復 450 點生命值。在施展 ![](/data/assets/guide/b08074397e9cf795.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-a-breather.png)深呼吸（Take a Breather）期間，他還能獲得傷害減免。這讓 ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬能夠獨自生存，並使他難以被擊殺。"
       ],
-      "content_hash": "8023b8a72432",
-      "prompt_version": "v5",
+      "content_hash": "b9c248f25f95",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:14.697038Z"
+      "timestamp": "2026-03-20T13:15:27.101489Z"
     },
     "3.2.1": {
       "title": "肉盾（Bullet sponge）",
       "description": "",
       "content": [
-        "由於攔路豬體型龐大、移動緩慢且缺乏傷害減免能力，他總是會承受大量的傷害。使用攔路豬時很容易發生「送頭（Feeding）」的情況，即便你沒有陣亡，敵方隊伍也往往能藉此在絕招經濟（ult economy）上取得優勢。"
+        "由於攔路豬（Roadhog）體型龐大、移動緩慢且缺乏傷害減免能力，![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬（Roadhog）總是會承受大量的傷害。使用![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬（Roadhog）時很容易發生「送頭」的情況，即便沒有死亡，敵方隊伍也往往能藉此獲得絕招經濟優勢。"
       ],
-      "content_hash": "91c4dad98fe1",
-      "prompt_version": "v5",
+      "content_hash": "a36dc1e5567c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:16.250621Z"
+      "timestamp": "2026-03-20T13:15:28.991653Z"
     },
     "3.2.2": {
       "title": "射程有限",
       "description": "",
       "content": [
-        "垃圾鎮女王（Junker Queen）的廢鐵槍（Scrap Gun）彈道速度緩慢且彈著點擴散範圍大，這使得它在遠距離交戰時表現極差。若敵人能站在她的鉤子（Hook）射程之外，便能直接無視她所帶來的威脅。"
+        "![](/data/assets/guide/2aaac1b9bc2b7dc1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fscrap-gun.png)垃圾鎮女王的廢鐵槍（Scrap Gun）投射物速度緩慢且彈道擴散範圍廣，這使得它在遠距離戰鬥中表現極差。若敵人能站在攔路豬的鉤子（Hook）射程之外，便能完全無視他的威脅。"
       ],
-      "content_hash": "9ca68df9bb2a",
-      "prompt_version": "v5",
+      "content_hash": "ad2bb4f4c5b2",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:17.874382Z"
+      "timestamp": "2026-03-20T13:15:30.674812Z"
     },
     "3.2.3": {
       "title": "機動性差",
       "description": "",
       "content": [
-        "攔路豬是唯一沒有任何位移技能的坦克。他雖然擁有能短暫提升移動速度的「強效呼吸（Invigorate）」，但該技能被鎖定在主要特殊能力（major perks）中。大多數英雄都能輕易地與攔路豬保持距離，且對於擁有大量高台的地圖來說，攔路豬會感到極為棘手。"
+        "![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬是唯一沒有任何位移技能的坦克。他確實擁有能短暫提升移動速度的「深呼吸（Invigorate）」，但該能力被鎖定在主要特殊能力（major perks）中。大多數英雄都能輕易地與 ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬保持距離，且擁有大量高地的地圖對他來說極其困難。"
       ],
-      "content_hash": "38bb15da5567",
-      "prompt_version": "v5",
+      "content_hash": "fc7c316d8c75",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:19.522988Z"
+      "timestamp": "2026-03-20T13:15:31.873783Z"
     },
     "4.1": {
       "title": "主要攻擊：廢鐵槍（Scrap Gun）",
       "description": "",
       "content": [
-        "**廢鐵槍（Scrap Gun）的使用技巧**",
-        "* 僅適用於近距離。除非你非常靠近目標（幾公尺內），否則應該使用次要攻擊（Secondary Fire）。",
-        "* 利用掩體進行遊戲。由於射擊速度較慢，攔路豬（Roadhog）最理想的打法是不斷從掩體後方探出頭來射擊。即使在近距離交戰時，也別忘了盡量減少自己受到的傷害。"
+        "**![](/data/assets/guide/2aaac1b9bc2b7dc1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fscrap-gun.png)廢鐵槍（Scrap Gun）的使用技巧**",
+        "* 僅適用於近距離。除非你已經非常靠近目標（幾公尺內），否則應該使用次要攻擊。",
+        "* 善用掩體。緩慢的射擊頻率讓![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬（Roadhog）最適合採取不斷從掩體後方探頭射擊的打法。即使在近距離交戰時，也別忘了盡量減少自己受到的傷害。"
       ],
-      "content_hash": "b2def3a302c5",
-      "prompt_version": "v5",
+      "content_hash": "d83bc3052928",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:21.243797Z"
+      "timestamp": "2026-03-20T13:15:33.695463Z"
     },
     "4.2": {
-      "title": "次要攻擊：廢鐵槍（中距離）",
+      "title": "次要攻擊：破銅爛鐵槍（中距離）",
       "description": "",
       "content": [
-        "**廢鐵槍（Scrap Gun）技巧**",
-        "* 次要攻擊的最佳射程為 10-14 公尺。在此距離下，爆裂物會觸發，若能精準命中頭部，即可一發擊殺生命值較低的英雄。",
-        "* 在戰鬥初期使用次要攻擊進行消耗，以開始累積絕招能量。",
-        "* 務必瞄準頭部。如果目標距離超過爆裂範圍，請將準心稍微調低，讓上方的彈片能造成暴擊。"
+        "關於 ![](/data/assets/guide/2aaac1b9bc2b7dc1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fscrap-gun.png) 破銅爛鐵槍的技巧",
+        "* 次要攻擊的最佳射程為 10-14 公尺。在此距離下，爆裂效果會觸發，你可以透過完整的彈片爆頭一擊秒殺低生命值目標。",
+        "* 在戰鬥初期使用次要攻擊進行騷擾，以開始累積絕招能量。",
+        "* 務必瞄準頭部。如果目標距離超過爆裂範圍，請稍微瞄準下方，讓上方的彈片能造成暴擊。"
       ],
-      "content_hash": "ad3b1b54dfd9",
-      "prompt_version": "v5",
+      "content_hash": "d01920d310ee",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:23.088657Z"
+      "timestamp": "2026-03-20T13:15:35.603197Z"
     },
     "4.3": {
       "title": "[SHIFT]：鎖鏈鉤（Chain Hook）",
       "description": "",
       "content": [
-        "**鎖鏈鉤（Chain Hook）技巧**",
-        "* 勾拉與轉身",
-        "* * 最好的鎖鏈鉤（Chain Hook）操作是在牆壁或建築物附近進行，這樣攔路豬（Roadhog）可以將敵人拉過來，快速轉動視角，將敵人重新定位到牆後。",
-        "* 他們的隊伍將無法提供治療，且他們必須繞過牆壁才能逃脫。這通常是不可能的，幾乎保證能擊殺目標。",
+        "![](/data/assets/guide/92d64f77a57b16b8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fchain-hook.png)鎖鏈鉤（Chain Hook）技巧",
+        "* 鉤住並轉身",
+        "* * 最好的鉤人時機是在牆壁或建築物附近，這樣 ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)Roadhog 就能將敵人拉過來，快速甩動視角，將敵人重新定位到牆後。",
+        "* 他們的隊伍將無法提供治療，而他們必須繞過牆壁才能逃脫。這通常是不可能的，幾乎能保證擊殺（KO）。",
         "* 連招：次要攻擊 > 鎖鏈鉤（Chain Hook） > 主要攻擊 > 近戰攻擊",
-        "* * 這一套連招需要快速連續施展，是攔路豬（Roadhog）的核心打法。若此連招能命中爆頭，大多數的輸出（DPS）和輔助（Support）都會直接被秒殺。",
-        "* 鎖定輸出（DPS）和輔助（Support）",
-        "* * 鎖鏈鉤（Chain Hook）的射程為 20 公尺。請善用其射程，將那些自以為躲在坦克（Tank）身後很安全的輸出（DPS）和輔助（Support）拉過來。與高生命值的坦克（Tank）相比，輸出（DPS）和輔助（Support）無法在被勾中後存活，除非他們的隊友使用像是生命之握（Life Grip）之類的技能來拯救他們。",
-        "* 防止坦克（Tank）脫離戰鬥",
-        "* * 對抗像是 D.Va 這類機動坦克（Dive Tanks）時，不要在他們使用位移技能前就將其拉過來。如果你太早使用鎖鏈鉤（Chain Hook），他們可以直接飛走。如果你在他們飛行期間使用鎖鏈鉤（Chain Hook），他們就會被困住。"
+        "* * 這套連招動作迅速，是 ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)Roadhog 的核心戰術。若此連招能命中爆頭，大多數的 DPS 和醫護兵（Medic）都會被瞬間消滅。",
+        "* 以 DPS 和醫護兵（Medic）為目標",
+        "* * ![](/data/assets/guide/92d64f77a57b16b8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fchain-hook.png)鎖鏈鉤（Chain Hook）的射程為 20 公尺。善用此射程優勢，將那些自以為躲在坦克（Tank）身後很安全的 DPS 和醫護兵（Medic）拉過來。與高生命值的坦克（Tank）相比，DPS 和醫護兵（Medic）除非有隊友使用如 ![](/data/assets/guide/70bdaf439d6cdcdd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flife-grip.png)生命之握（Life Grip）之類的技能救援，否則無法在被鉤住後存活。",
+        "* 防止坦克（Tank）撤退",
+        "* * 對抗像 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 這樣的機動坦克（Dive Tank）時，不要在他們使用位移技能前將其拉過來。如果你太早使用 ![](/data/assets/guide/92d64f77a57b16b8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fchain-hook.png)鎖鏈鉤（Chain Hook），他們可以直接飛走。如果你在他們飛行期間使用 ![](/data/assets/guide/92d64f77a57b16b8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fchain-hook.png)鎖鏈鉤（Chain Hook），他們就會被困住。"
       ],
-      "content_hash": "35fff0f30532",
-      "prompt_version": "v5",
+      "content_hash": "a8538579e1f6",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:25.692652Z"
+      "timestamp": "2026-03-20T13:15:38.479076Z"
     },
     "4.4": {
       "title": "[E]：深呼吸（Take a Breather）",
       "description": "",
       "content": [
-        "關於深呼吸（Take a Breather）的技巧：",
-        "* 當你的醫護兵（Medic）正忙於治療其他隊友時，請先使用深呼吸（Take a Breather），而不是一直狂按「我需要治療」。這項技能的核心意義在於讓你擁有自主管理生命值的主動權。",
-        "* 小心不要送頭（feed）。即便你能自我治療，也不代表你應該持續承受無謂的消耗傷害。",
-        "* 利用深呼吸（Take a Breather）來減免高傷害攻擊，例如毀滅拳王（Doomfist）的流星擊（Meteor Strike）。"
+        "![](/data/assets/guide/b08074397e9cf795.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-a-breather.png)深呼吸（Take a Breather）的使用技巧",
+        "* 當你的醫護兵（Medic）忙於治療其他隊友時，請在狂按「我需要治療」之前先使用 ![](/data/assets/guide/b08074397e9cf795.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-a-breather.png)深呼吸（Take a Breather）。這項技能的核心意義在於讓你擁有管理自身生命值的主動權。",
+        "* 小心不要送頭。即便你能自我治療，也不代表你應該持續承受無謂的消耗傷害。",
+        "* 利用 ![](/data/assets/guide/b08074397e9cf795.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-a-breather.png)深呼吸（Take a Breather）來減免高傷害攻擊帶來的傷害，例如 ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)毀滅拳王（Doomfist）的 ![](/data/assets/guide/b2653d3e7fce99bf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmeteor-strike.png)流星擊（Meteor Strike）。"
       ],
-      "content_hash": "8266703af984",
-      "prompt_version": "v5",
+      "content_hash": "fb17e0a88d15",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:27.470251Z"
+      "timestamp": "2026-03-20T13:15:40.712458Z"
     },
     "4.5": {
-      "title": "絕招：火力全開",
+      "title": "絕招：火力全開（Whole Hog）",
       "description": "",
       "content": [
-        "**關於** 火力全開（Whole Hog）**的技巧**",
-        "* 在使用 火力全開（Whole Hog）之前，先用 鎖鏈鉤（Chain Hook）將敵人拉到身邊。你也可以先開啟 火力全開（Whole Hog），接著使用 鎖鏈鉤（Chain Hook），然後繼續射擊。",
-        "* 地形擊殺是最好的選擇。在有邊緣的地圖上，調整自己的位置讓對手背對懸崖，然後將他們轟下去。",
-        "* 在施放絕招時，牆壁是你最好的幫手。將敵方 戰士（Bruiser）困在牆邊、角落或房間內，能確保你持續以最大傷害轟擊他們。"
+        "**![](/data/assets/guide/c112a0acc9386624.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhole-hog.png)火力全開（Whole Hog）的使用技巧**",
+        "* 在使用 ![](/data/assets/guide/c112a0acc9386624.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhole-hog.png)火力全開（Whole Hog）之前，先將敵人勾過來。你也可以先啟動 ![](/data/assets/guide/c112a0acc9386624.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhole-hog.png)火力全開（Whole Hog），接著使用「肉鉤（Hook）」，然後繼續射擊。",
+        "* 地形擊殺（Environmental KOs）是最好的選擇。在有邊緣的地圖上，調整自己的位置，讓對手的背後朝向邊緣，然後將他們轟下去。",
+        "* 在施放絕招時，牆壁是你最好的朋友。將敵方坦克困在牆邊、角落或房間內，能確保你以最大傷害持續轟擊他們。"
       ],
-      "content_hash": "c490d76a76d2",
-      "prompt_version": "v5",
+      "content_hash": "5910c2d97e06",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:29.714642Z"
+      "timestamp": "2026-03-20T13:15:42.938495Z"
     },
     "5.1.1": {
       "title": "廢鐵鉤（Scrap Hook）",
       "description": "鎖鏈鉤（Chain Hook）命中時會裝填 2 發彈藥。",
       "content": [
-        "避免尷尬時刻",
-        "* 每一位攔路豬玩家都經歷過最糟糕的感覺：鉤中敵人後卻發現彈藥耗盡，只能尷尬地站在敵人面前裝填彈藥。",
-        "* 廢鐵鉤（Scrap Hook）保證你在進行鉤子連技時，永遠有足夠的彈藥。",
-        "增加散彈槍的持續輸出時間",
-        "* 額外的 2 發彈藥能有效減少攔路豬 30% 的裝填時間。"
+        "* 避免尷尬時刻",
+        "* 每位 ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬玩家都經歷過最糟糕的感覺，就是勾中敵人後卻發現自己沒有彈藥，只能站在原地裝填，而敵人就在你面前。廢鐵鉤（Scrap Hook）能確保你永遠有足夠的彈藥來進行鉤子連技。",
+        "* 增加散彈槍的持續輸出時間",
+        "* 額外的 2 發彈藥能有效減少 [[__OWH_IMG_1__]]攔路豬 30% 的裝填時間。",
+        "* * The extra 2 ammo effectively decreases the time ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)Roadhog spends reloading by 30%"
       ],
-      "content_hash": "755440c96317",
-      "prompt_version": "v5",
+      "content_hash": "0c6495b06b8f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:31.148600Z"
+      "timestamp": "2026-03-20T13:15:44.702347Z"
     },
     "5.1.2": {
       "title": "破片發射器（Shrapnel Launcher）",
-      "description": "將廢料槍（Scrap Gun）次要攻擊的射程延長 50%，並將其爆發擴散範圍縮小 25%。",
+      "description": "將廢料槍（Scrap Gun）次要攻擊的射程延長 50%，並將其爆發擴散範圍縮減 25%。",
       "content": [
-        "* 新的爆炸射程約為 15 公尺，這實際上會使你在 10-14 公尺距離內的戰鬥力比未裝備此特殊能力（perk）時更弱。請務必記住這一點，以利於做出選擇。",
+        "* 新的爆炸範圍大約為 15 公尺，這實際上會導致你在 10-14 公尺距離內的戰鬥力比未裝備此特殊能力（perk）時更弱。請務必記住這一點，以協助你做出選擇。",
         "* 當你對自己的準度有信心時非常強大。在戰鬥的消耗階段（poke phases）能大幅提升遠距離傷害能力。",
         "* 在視線較長的地圖上特別好用，例如羅馬競技場（Colosseo）。"
       ],
       "content_hash": "446b0889852e",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:33.441848Z"
+      "timestamp": "2026-03-20T13:15:46.297391Z"
     },
     "5.2.1": {
-      "title": "活力（Invigorate）",
-      "description": "「深呼吸（Take A Breather）」會使攔路豬的移動速度提升 30%。",
+      "title": "振奮（Invigorate）",
+      "description": "「深呼吸（Take A Breather）」會使攔路豬的移動速度快速提升 30%。",
       "content": [
-        "* 更適合側襲者（Flanker）與單打獨鬥的遊玩風格。能夠更快速地進行側襲，並在不同側翼角度之間進行轉位。",
-        "* 同樣也適合脫離戰鬥。當你需要逃離像是拉瑪塔（Ramattra）絕招這類威脅時，活力（Invigorate）讓這成為可能。"
+        "* 更適合側襲（flank）與單打獨鬥的遊玩風格。可以更快速地進行側襲，並在非主流位置（off-angles）之間進行轉位。",
+        "* 同樣也利於脫離戰鬥。當你需要從像是 ![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)拉瑪塔（Ramattra）的大絕招中逃離時，振奮（Invigorate）讓這成為可能。"
       ],
-      "content_hash": "3a68bbfe20cc",
-      "prompt_version": "v5",
+      "content_hash": "46e41da9087a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:35.148704Z"
+      "timestamp": "2026-03-20T13:15:48.311229Z"
     },
     "5.2.2": {
       "title": "拉扯豬肉（Pulled Pork）",
-      "description": "根據你使用鎖鏈鉤（Chain Hook）拉動敵人的距離獲得額外生命值，最高可達 300 點。",
+      "description": "根據你使用鎖鏈鉤（Chain Hook）拉動敵人的距離獲得額外生命，最高可達 300 點。",
       "content": [
-        "* 這種額外的續戰力非常強大。當敵方隊伍對你造成大量傷害時，請選擇拉扯豬肉（Pulled Pork）。這能讓你更持久地留在戰鬥中，並採取更前線的站位。"
+        "* 額外的續戰力非常強大。當敵隊對你造成大量傷害時，請選擇拉扯豬肉（Pulled Pork）。你將能夠在戰鬥中存活更久，並採取更前線的站位。"
       ],
       "content_hash": "548f772dfe1c",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:37.006530Z"
+      "timestamp": "2026-03-20T13:15:50.155718Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "最適合攔路豬的地圖是那些鼓勵近距離戰鬥的地圖，例如大多數的控制（Control）和閃擊點（Flashpoint）地圖。由於攔路豬沒有位移能力，他不喜歡像捍衛者基地：直布羅陀（Watchpoint: Gibraltar）這類高地地圖；此外，由於射程有限，他也不喜歡像皇家賽道（Circuit Royal）這種長視線地圖。",
+        "最適合 ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬的地圖是那些鼓勵近距離戰鬥的地圖，例如大多數的控制（Control）和閃擊點（Flashpoint）地圖。由於攔路豬缺乏機動性，他不喜歡像捍衛者基地：直布羅陀（Watchpoint: Gibraltar）這類高地地圖；再加上射程有限，他也不喜歡像皇家賽道（Circuit Royal）這種視野遼闊的地圖。",
         "無論在哪張地圖上，攔路豬最需要運用的核心技巧就是利用轉角將敵人拉過來。",
-        "此外，必須提到伊利歐斯（Ilios）：深井（Well），因為攔路豬只要站在據點上威脅要將你拉進洞裡，就是一個巨大的威脅，這會迫使敵人離開目標點並重新調整位置。"
+        "此外，必須特別提到伊利歐斯（Ilios）：深井，因為攔路豬只要站在目標點附近，隨時威脅要將敵人拉進洞裡，這種巨大的威脅感會迫使敵方必須離開目標點重新調整站位。"
       ],
-      "content_hash": "8e9bb49c2f6b",
-      "prompt_version": "v5",
+      "content_hash": "858d180ee3c8",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:39.278818Z"
+      "timestamp": "2026-03-20T13:15:52.081671Z"
     },
     "6.1.1": {
       "title": "伊利歐斯",
@@ -268,9 +268,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:40.580644Z"
+      "timestamp": "2026-03-20T13:15:53.331113Z"
     },
     "6.1.2": {
       "title": "尼泊爾",
@@ -279,20 +279,20 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:41.738822Z"
+      "timestamp": "2026-03-20T13:15:54.573585Z"
     },
     "6.1.3": {
       "title": "灕江天塔",
       "description": "",
       "content": [
-        "人工智慧生成"
+        "AI 生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:43.189828Z"
+      "timestamp": "2026-03-20T13:15:55.763707Z"
     },
     "6.1.4": {
       "title": "綠洲城",
@@ -301,20 +301,20 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:44.454983Z"
+      "timestamp": "2026-03-20T13:15:56.935093Z"
     },
     "6.1.5": {
       "title": "薩摩亞",
       "description": "",
       "content": [
-        "ai 生成"
+        "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:45.796579Z"
+      "timestamp": "2026-03-20T13:15:58.206148Z"
     },
     "6.1.6": {
       "title": "釜山",
@@ -323,9 +323,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:47.186679Z"
+      "timestamp": "2026-03-20T13:15:59.543071Z"
     },
     "6.1.7": {
       "title": "埃特利斯",
@@ -334,9 +334,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:48.465643Z"
+      "timestamp": "2026-03-20T13:16:00.809643Z"
     },
     "6.1.8": {
       "title": "新垃圾城",
@@ -345,9 +345,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:49.837521Z"
+      "timestamp": "2026-03-20T13:16:01.899463Z"
     },
     "6.1.9": {
       "title": "蘇拉瓦薩",
@@ -356,9 +356,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:50.962629Z"
+      "timestamp": "2026-03-20T13:16:02.998023Z"
     },
     "6.2.1": {
       "title": "捍衛者基地：直布羅陀",
@@ -367,9 +367,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:52.262471Z"
+      "timestamp": "2026-03-20T13:16:04.366595Z"
     },
     "6.2.2": {
       "title": "皇家賽道",
@@ -378,53 +378,53 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:53.447638Z"
+      "timestamp": "2026-03-20T13:16:05.743115Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "攔路豬（Roadhog）不需要太多治療，因為他自我治療的能力比其他任何英雄都強。他真正需要的是能彌補其技能組缺口的隊友。擁有遠程傷害能力的英雄，以及能為他爭奪高地的英雄，都能讓他的生存環境輕鬆許多。",
-        "在輔助方面，禪亞塔（Zenyatta）的紛亂之珠（Orb of Discord）能讓每一次的鎖鏈鉤（Chain Hook）變得更加致命。如果敵方擁有像是生化手榴彈（Biotic Grenade）或狂暴衝鋒（Rampage）這類反治療手段，那麼保護鈴（Protection Suzu）幾乎是攔路豬（Roadhog）生存的必備技能。"
+        "![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬（Roadhog）並不需要太多的治療，因為他自我治療的能力比其他任何英雄都強。他真正需要的是能彌補他技能組缺口的隊友。擁有遠程傷害能力的英雄，以及能為他爭奪高地的英雄，能讓他的戰鬥輕鬆許多。",
+        "在輔助方面，![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）的![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)紛亂之珠（Orb of Discord）能讓每一次的![](/data/assets/guide/92d64f77a57b16b8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fchain-hook.png)鎖鏈鉤（Chain Hook）變得更加致命。如果敵方擁有像是![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)生化手榴彈（Biotic Grenade）或![](/data/assets/guide/a110bdbe1bbd0f0f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frampage.png)狂暴（Rampage）這類禁療手段，那麼![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu）幾乎是攔路豬生存的必備技能。"
       ],
-      "content_hash": "3d3d22eab9d4",
-      "prompt_version": "v5",
+      "content_hash": "e3a46e7f190e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:55.036436Z"
+      "timestamp": "2026-03-20T13:16:08.227845Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "要反制攔路豬，你只需要阻止他的鉤子擊殺隊友即可。如果你是擁有屏障的坦克，請觀察他的動作模式與動畫，盡可能在反應時間內擋下鉤子。如果你是擁有位移或防禦技能的輸出或輔助，請善用這些技能來避免被鉤中。",
-        "另一個重點是保護被鉤中的隊友。你可以使用防禦矩陣（Defense Matrix）、能量標槍（Energy Javelin）和生命之握（Life Grip）等技能，在隊友被鉤住後將他們從死亡邊緣救回。",
-        "禁療效果對攔路豬也非常有效，因為他唯一的生存手段就是「深呼吸（Take a Breather）」。當上述手段都無法使用時，請利用他無法保護隊友、且難以應對遠距離與高台的弱點，盡可能對他和他的隊伍輸出傷害，藉此累積絕招能量。"
+        "要反制攔路豬，你只需要阻止他的鉤子擊殺隊友。如果你是擁有護盾的坦克，請觀察他的動作模式與動畫，並盡可能反應性地格擋掉鉤子。如果你是擁有位移或格擋技能的輸出或輔助，請善用這些技能來避免被鉤住。",
+        "另一個重點是保護被鉤住的隊友。你可以使用像是 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）、![](/data/assets/guide/76027704b29fb3cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fenergy-javelin.png)能量標槍（Energy Javelin）以及 ![](/data/assets/guide/70bdaf439d6cdcdd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flife-grip.png)生命之握（Life Grip）等技能，在隊友被鉤住後將他們從死亡邊緣救回。",
+        "禁止治療效果對攔路豬也非常有效，因為他唯一的生存手段就是 ![](/data/assets/guide/b08074397e9cf795.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-a-breather.png)深呼吸（Take a Breather）。當上述方法都不適用時，請利用他無法保護隊友、也無法在遠距離或高地進行爭奪的弱點，盡可能對他及其隊伍輸出傷害並累積絕招能量。"
       ],
-      "content_hash": "448dc2483e37",
-      "prompt_version": "v5",
+      "content_hash": "d381e70cf312",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:59.003724Z"
+      "timestamp": "2026-03-20T13:16:10.821475Z"
     },
     "8.2": {
-      "title": "特定英雄剋制名單",
+      "title": "特定英雄剋制名稱",
       "description": "",
       "content": [
         "* 安娜",
+        "* D.Va",
         "* 歐瑞莎",
-        "* 織命",
-        "* D.Va"
+        "* 織命"
       ],
-      "content_hash": "140cd229923f",
-      "prompt_version": "v5",
+      "content_hash": "c29f397385de",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:18:59.962727Z"
+      "timestamp": "2026-03-20T13:16:12.154344Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.518566Z"
+    "timestamp": "2026-03-20T13:15:13.855086Z"
   }
 }

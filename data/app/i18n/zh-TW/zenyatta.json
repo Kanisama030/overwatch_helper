@@ -6,39 +6,39 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "禪亞塔（Zenyatta）打破了輔助型英雄就只是治療者的迷思。儘管他是一位追求和平的僧侶，但他並不排斥以高爆發傷害來消滅敵人。他的技能組比起治療或續航，更傾向於傷害輸出。在頻繁使用主要攻擊與蓄力發射一連串的能量球之間，禪亞塔能為隊伍輸出極其可觀的傷害。",
-        "然而，別忽略了他的治療能力，因為能夠被動地為盟友附上自動治療，這讓他們能夠打得極具侵略性。通常，他會希望將自己定位在隊伍後方，從那裡向主要路徑發射能量球。當機會來臨時，他也是一名致命的側襲者（Flanker），經常能輕鬆擊殺那些忘記提防這名危險輔助型英雄的敵人。"
+        "![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）打破了輔助英雄僅能治療的迷思。儘管他是一位追求和平的僧侶，但他並不介意以高爆發傷害來消滅敵人。他的技能組更偏向傷害輸出，而非治療或續航。在主要攻擊的連續射擊與蓄力發射一連串的能量球之間，![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔能為輔助英雄角色提供極高的傷害輸出。",
+        "然而，別忽略了他的治療能力，因為能夠被動地為盟友附加自動治療的效果，使他們能夠採取極具侵略性的打法。通常，他會希望將自己定位在隊伍後方，從那裡向主要路徑發射能量球。當機會來臨時，他也是一名致命的側襲者（Flanker），經常能輕鬆擊殺那些忘記提防這位危險輔助英雄的敵人。"
       ],
-      "content_hash": "21004b4b63e7",
-      "prompt_version": "v5",
+      "content_hash": "84833ad01e36",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:37.676761Z"
+      "timestamp": "2026-03-20T13:22:10.544230Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
         "* 在掩體後方蓄力次要攻擊。絕對不要在空曠處蓄力，以免遭到敵人攻擊。",
-        "* 對離隊友最近的敵人施加「紛亂之珠（Discord Orb）」。當越多隊友能攻擊你的紛亂目標時，你獲得的效益就越高。",
-        "* 利用「傳送器（Translocator）」來反制敵人的絕招。特別是在敵人擁有強大的絕招（如「龍一文字（Dragonblade）」或「重力噴湧（Graviton Surge）」）時，請保留傳送器，以便在他們施放絕招時拯救你的隊伍。"
+        "* 對離隊伍最近的敵人施加「紛亂之珠（Discord Orb）」。當越多隊友能攻擊你的紛亂目標時，你獲得的效益就越高。",
+        "* 使用 ![](/data/assets/guide/e02932bc2fe16c69.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranslocator.png)「轉置（Translocator）」來反制敵人的絕招。特別是當敵人擁有強大的絕招（如 ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)「龍一文字（Dragonblade）」或 ![](/data/assets/guide/eacdf2c5d0a248f5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgraviton-surge.png)「重力彈（Graviton Surge）」）時，請保留轉置以在他們施放絕招時拯救你的隊伍。"
       ],
-      "content_hash": "01da5695ac7a",
-      "prompt_version": "v5",
+      "content_hash": "fb08bc6931c2",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:42.776702Z"
+      "timestamp": "2026-03-20T13:22:12.758044Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 禪亞塔（Zenyatta）無法逃脫側襲者（Flanker）與突擊攻擊。與至少一名隊友協調，同時發動奇襲即可輕鬆擊殺他。",
-        "* 在發動攻擊前，請先透過中斷視線（LoS）來清除「紛亂之珠（Orb of Discord）」。你絕對不想在深入敵陣後，因為額外的紛亂傷害而被瞬間秒殺。",
-        "* 如果你看不到禪亞塔（Zenyatta），請假設他正在蓄力發射。躲在屏障後方並留意你的側翼。"
+        "* ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）無法逃脫側襲者（Flanker）與突擊攻擊。與至少一名隊友協調，並同時發動奇襲，即可輕鬆擊殺他。",
+        "* 在發動攻擊前，請透過中斷視線（LoS）來淨化 ![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)紛亂之珠（Orb of Discord）。你絕對不想在深入敵陣後，卻因為額外的紛亂傷害而被瞬間秒殺。",
+        "* 如果你看不到 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta），請假設他正在蓄力發射。躲在屏障後方並留意你的側翼。"
       ],
-      "content_hash": "c6a20ecbcce9",
-      "prompt_version": "v5",
+      "content_hash": "b6731b82556a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:46.169650Z"
+      "timestamp": "2026-03-20T13:22:14.632709Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -46,296 +46,296 @@
       "content": [
         "* 高傷害",
         "* 紛亂（Discord）",
-        "* 強大的絕招",
+        "* 強大的絕招（Ultimate）",
         "* 低治療量",
         "* 非常脆弱",
         "* 無位移能力"
       ],
       "content_hash": "63ae6c300104",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:47.631995Z"
+      "timestamp": "2026-03-20T13:22:16.171728Z"
     },
     "3.1.1": {
       "title": "高傷害",
       "description": "",
       "content": [
-        "他擁有所有支援型英雄中最高的傷害輸出。蓄力滿的連發攻擊可以瞬間擊殺大多數英雄，且他的兩種攻擊方式皆無傷害衰減。這使他在擔任支援位時成為絕佳選擇，特別是當你感覺隊伍因為缺乏傷害和擊殺潛力而陷入劣勢時。"
+        "他在所有輔助英雄中擁有最高的傷害輸出。蓄力滿的彈幕（volley）可以瞬間消滅大多數英雄，且他的兩種攻擊方式都沒有傷害衰減。這使他在擔任輔助時成為絕佳的選擇，特別是當你覺得隊伍因為缺乏傷害和擊殺潛力而陷入劣勢時。"
       ],
       "content_hash": "3e9e3c0464b4",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:49.425931Z"
+      "timestamp": "2026-03-20T13:22:17.696890Z"
     },
     "3.1.2": {
       "title": "紛亂（Discord）",
       "description": "",
       "content": [
-        "禪亞塔（Zenyatta）是唯一能夠在整場比賽中持續提升全隊傷害的英雄。紛亂之珠（Orb of Discord）是擊殺敵方戰士（Tank）或在敵方輸出（DPS）施放絕招時迅速將其壓制的可靠手段。"
+        "![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)Zenyatta is the only hero who can constantly boost his entire team’s damage throughout the entire match. ![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)Orb of Discord can be a reliable means of killing enemy Tanks or quickly shutting down an enemy DPS during their ultimate."
       ],
-      "content_hash": "557fd651e472",
-      "prompt_version": "v5",
+      "content_hash": "9ffdd63288d7",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:52.267972Z"
+      "timestamp": "2026-03-20T13:22:19.301026Z"
     },
     "3.1.3": {
       "title": "強大的防禦型絕招",
       "description": "",
       "content": [
-        "在禪亞塔施放「超凡入聖（Transcendence）」期間，範圍內的所有隊友幾乎是不死之身，而禪亞塔本人更是處於無敵狀態。敵方隊伍可能需要投入三個絕招來試圖擊殺你的隊友，卻會被你的一個絕招完全抵銷。"
+        "在 ![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png) 禪亞塔（Transcendence）期間，範圍內的所有隊友幾乎無法被擊殺，而 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png) 禪亞塔本人更是處於無敵狀態。敵方隊伍可能需要投入三個絕招來試圖擊殺你們，卻會被你的這一個絕招完全抵銷。"
       ],
-      "content_hash": "44bdbb7437fc",
-      "prompt_version": "v5",
+      "content_hash": "9517f2b61db0",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:54.281788Z"
+      "timestamp": "2026-03-20T13:22:21.091679Z"
     },
     "3.2.1": {
       "title": "低治療量",
       "description": "",
       "content": [
-        "如果你選擇遊玩禪亞塔（Zenyatta），請做好心理準備，你的隊伍可能會要求你更換成一名「主治療」。除了他的絕招之外，與其他支援英雄相比，他的治療量極低且緩慢。正因如此，如果你的另一名支援英雄無法提供大量的治療，那麼要發揮禪亞塔（Zenyatta）的作用將會非常困難。"
+        "如果你選擇遊玩 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔，請做好心理準備，你的隊友可能會要求你更換成一名「主治療」。除了絕招之外，與其他輔助英雄相比，他的治療量極低且緩慢。正因如此，如果你的另一名輔助無法提供大量的治療，那麼要發揮他的作用將會非常困難。"
       ],
-      "content_hash": "d46cdbbd4bde",
-      "prompt_version": "v5",
+      "content_hash": "897d7aee96b5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:55.625512Z"
+      "timestamp": "2026-03-20T13:22:22.521808Z"
     },
     "3.2.2": {
       "title": "玻璃大砲",
       "description": "",
       "content": [
-        "禪亞塔（Zenyatta）沒有任何傷害減免、自我治療或逃生手段。他必須仰賴自身的傷害輸出能力來防衛。他的受擊判定範圍（hurtbox）很大，且總是成為敵方側襲者（Flanker）陣容的目標。總體而言，禪亞塔被視為容易擊殺的目標。"
+        "![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）沒有任何傷害減免、自我治療或逃脫手段。他必須仰賴自身的傷害輸出進行防禦。他的受擊判定範圍（hurtbox）很大，且總是成為敵方機動陣容（dive comps）的目標。總體而言，禪亞塔（Zenyatta）被視為容易擊殺的目標。"
       ],
-      "content_hash": "48d24b195752",
-      "prompt_version": "v5",
+      "content_hash": "a6019d05e25f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:57.293708Z"
+      "timestamp": "2026-03-20T13:22:24.357448Z"
     },
     "3.2.3": {
       "title": "機動性差",
       "description": "",
       "content": [
-        "《鬥陣特攻》中充滿了各個角色定位的高機動性英雄。禪亞塔的移動速度非常緩慢，且沒有任何位移技能。次要特殊能力（minor perks）「飛昇（Ascendance）」雖然能賦予他有限的空中移動能力，但並不會提供任何速度加成或無敵效果。在大型地圖或高機動性的隊伍陣容中，禪亞塔會因為試圖趕上戰鬥而浪費大量時間。"
+        "《鬥陣特攻》中每個角色定位都充滿了高機動性的英雄。![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）的移動速度非常緩慢，且沒有任何位移能力。次要特殊能力（minor perks）中的「飛昇（Ascendance）」雖然能賦予他有限的空中移動能力，但並不會提供任何速度加成或無敵效果。在大型地圖或隊伍陣容機動性極高的情況下，禪亞塔（Zenyatta）往往會浪費大量時間在趕往戰場的路上。"
       ],
-      "content_hash": "9ce371127038",
-      "prompt_version": "v5",
+      "content_hash": "7d35b4cac46f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:58.808693Z"
+      "timestamp": "2026-03-20T13:22:25.883893Z"
     },
     "4.1": {
       "title": "主要攻擊：毀滅之珠（Orb of Destruction）",
       "description": "",
       "content": [
-        "**毀滅之珠（Orb of Destruction）的使用技巧**",
+        "**![](/data/assets/guide/a7f6469e50fb0458.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-destruction.png)毀滅之珠（Orb of Destruction）的提示**",
         "* 更高的每秒傷害",
-        "* * 與其總是蓄力次要攻擊的連射，頻繁使用主要攻擊能帶來顯著更高的總體傷害。",
-        "* 鎖定敵方後排",
-        "* * 儘管敵方後排可能較難命中，但禪亞塔的高傷害與無限射程讓他能在大多數遠距離戰鬥中佔據優勢。",
-        "* 在大多數隊伍陣容中，禪亞塔對敵方後排造成的壓力比隊伍中任何人都大。",
-        "* 他唯一會輸給的英雄是像奪命女這樣的狙擊手，因為即時命中（hitscan）武器比投射物武器更穩定。"
+        "* 與其總是蓄力次要攻擊進行連射，頻繁使用主要攻擊能帶來顯著更高的整體傷害。",
+        "* 瞄準敵方後排",
+        "* 即使他們可能較難命中，但憑藉高額傷害與無限射程，讓 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔在大多數遠距離交戰中佔有優勢。",
+        "* 在大多數隊伍陣容中，![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔對敵方後排造成的壓力比隊伍中任何人都大。",
+        "* 他唯一會輸給的英雄是像 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女這類的狙擊手，因為即時命中（hitscan）武器比投射物武器更穩定。"
       ],
-      "content_hash": "492dad7438c9",
-      "prompt_version": "v5",
+      "content_hash": "4eac14c9c4f8",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:01.048464Z"
+      "timestamp": "2026-03-20T13:22:28.039412Z"
     },
     "4.2": {
       "title": "次要攻擊：毀滅之珠（蓄力）",
       "description": "",
       "content": [
-        "**毀滅之珠（蓄力）的技巧**",
-        "* 在掩體後方蓄力",
-        "* 在空曠處蓄力會給予敵人攻擊你的時間，而你卻無法對他們造成任何傷害。",
-        "* 保持隱蔽，然後在剛好足夠瞄準的時間內探頭、射擊，接著退回安全處。",
+        "**![](/data/assets/guide/a7f6469e50fb0458.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-destruction.png)毀滅之珠（蓄力）的使用技巧**",
+        "* 在掩體後方進行蓄力",
+        "* 在空曠處蓄力會讓敵人有時間攻擊你，而你卻無法對他們造成任何傷害。",
+        "* 保持隱蔽，在有足夠時間瞄準時再探頭射擊，隨後立即退回安全位置。",
         "* 不要中斷「紛亂之珠（Discord Orb）」的視線（LoS）",
-        "* 即使你不應該在蓄力時暴露自己，但也應盡量避免因躲在掩體後方太久而導致「紛亂之珠（Discord Orb）」從目標身上移除。",
-        "* 當你的隊友已經在集火該名被施加「紛亂之珠（Discord Orb）」的敵人時，這點尤為重要。",
+        "* 即使你不應該在蓄力時暴露自己，但也應避免因躲在掩體後方太久，導致目標身上的「紛亂之珠（Discord Orb）」被移除。",
+        "* 當隊伍的其他成員已經在集火該名被施加「紛亂之珠（Discord Orb）」的敵人時，這點尤為重要。",
         "* 下蹲並釋放",
-        "* 禪亞塔（Zenyatta）可以透過同時下蹲和射擊蓄力彈來操控頭部受擊判定。這會使他的頭部位置比平時低得多，對於閃避敵方神射手（Sharpshooter）的爆頭攻擊非常有用。"
+        "* ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）可以透過同時執行下蹲與射擊連發來操控頭部受擊判定。這會使他的頭部位置比平時低得多，對於閃避敵方神射手（Sharpshooter）的爆頭攻擊非常有用。"
       ],
-      "content_hash": "c48ff3bbdd54",
-      "prompt_version": "v5",
+      "content_hash": "30a3a66a84fc",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:03.381450Z"
+      "timestamp": "2026-03-20T13:22:30.661253Z"
     },
     "4.3": {
       "title": "[SHIFT]：和諧之珠（Orb of Harmony）",
       "description": "",
       "content": [
-        "**和諧之珠（Orb of Harmony）的使用技巧**",
-        "* 優先將和諧之珠給予你的側襲者（Flanker）",
-        "* 當隊友準備進行側襲或切入敵方後排時，請務必在他們進場前給予和諧之珠（Orb of Harmony）。即便他們脫離了你的視野（LoS），他們仍能獲得 5 秒的持續治療，這能幫助他們存活並進行更長時間的戰鬥。",
-        "* 照顧你的另一位支援位隊友",
-        "* 在典型的禪亞塔陣容中，另一位支援位隊友通常能負責治療隊伍的其他成員。然而，他們不希望浪費自己的技能來治療自己，因此禪亞塔必須隨時留意另一位支援位隊友的生命值。只要他們開始受到傷害，就請給予他們和諧之珠（Orb of Harmony）。",
+        "![](/data/assets/guide/495517d449a60604.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-harmony.png)和諧之珠（Orb of Harmony）的使用技巧",
+        "* 為你的側襲者（Flanker）掛上和諧之珠",
+        "* 當隊友準備進行側襲或深入敵方後排時，你應該在他們進場前給予他們![](/data/assets/guide/495517d449a60604.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-harmony.png)和諧之珠（Orb of Harmony）。即使他們脫離了視野（LoS），他們仍能獲得 5 秒的治療效果，這有助於他們生存並延長戰鬥時間。",
+        "* 為你的另一位醫護兵（Medic）掛上和諧之珠",
+        "* 在典型的![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）陣容中，第二位醫護兵（Medic）可以負責治療隊伍的其他成員。然而，他們通常不希望浪費自己的技能來治療自己，因此禪亞塔（Zenyatta）應隨時留意另一位醫護兵（Medic）的生命值。只要他們開始受到傷害，就立刻給予他們和諧之珠（Orb of Harmony）。",
         "* 坦克對決",
-        "* 如果雙方坦克在空曠處進行持久戰，比拚誰先倒下，那麼你應該將和諧之珠（Orb of Harmony）留在你的坦克身上。",
-        "* 他們需要額外的治療，再加上亂之珠（Orb of Discord）帶來的傷害加成，才能贏得這場對決。"
+        "* 如果雙方坦克正在空曠處進行持久戰，比拚誰會先倒下，那麼你應該將![](/data/assets/guide/495517d449a60604.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-harmony.png)和諧之珠（Orb of Harmony）留在你的坦克身上。",
+        "* 他們需要額外的治療，再加上![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)亂之珠（Orb of Discord）的傷害加成，才能贏得這場對決。"
       ],
-      "content_hash": "877ac89c839f",
-      "prompt_version": "v5",
+      "content_hash": "f9080e136a09",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:05.954467Z"
+      "timestamp": "2026-03-20T13:22:33.454601Z"
     },
     "4.4": {
       "title": "[E]：紛亂之珠（Orb of Discord）",
       "description": "",
       "content": [
-        "**紛亂之珠（Orb of Discord）的使用技巧**",
-        "* 紛亂之珠（Orb of Discord）的目標優先級：雖然目標優先級相當微妙，但以下幾項指導原則能幫助你最大化紛亂之珠（Orb of Discord）的威力：",
-        "* 1. 對最具威脅的敵人施加紛亂之珠（Orb of Discord）。任何最有可能擊殺你或隊友的敵人，都應是你施加紛亂之珠（Orb of Discord）的首要目標。",
-        "* 2. 對最具侵略性的敵人施加紛亂之珠（Orb of Discord）。大多數情況下，這會是推進到離你隊伍最前線的敵人。",
-        "* 3. 在決鬥中使用紛亂之珠（Orb of Discord）。如果你陷入 1 對 1 的單挑，務必先對其施加紛亂之珠（Orb of Discord）。",
-        "* 4. 對引導型絕招施加紛亂之珠（Orb of Discord）。當你聽到索潔恩（Sojourn）或源氏（Genji）等擁有引導型絕招的英雄語音時，應立即對其施加紛亂之珠（Orb of Discord）。",
+        "**![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)紛亂之珠（Orb of Discord）的使用技巧**",
+        "* ![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)紛亂之珠（Orb of Discord）的目標優先級：雖然目標優先級相當微妙，但以下幾項指導原則能幫助你將紛亂之珠的威力最大化：",
+        "* 1. 對最具威脅的敵人施加紛亂之珠。任何最有可能擊殺你或隊友的敵人，都應是你施加紛亂之珠的首要目標。",
+        "* 2. 對最具侵略性的敵人施加紛亂之珠。大多數情況下，這會是推進到離你們隊伍最前線的敵人。",
+        "* 3. 在決鬥時施加紛亂之珠。如果你陷入 1 對 1 的戰鬥，務必先對其施加紛亂之珠。",
+        "* 4. 對引導型絕招施加紛亂之珠。當你聽到索潔恩（Sojourn）或源氏（Genji）等擁有引導型絕招的英雄語音時，應立即對他們施加 ![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)紛亂之珠（Orb of Discord）。",
         "* 等待敵方坦克推進",
-        "* * 如果你太早對敵方坦克施加紛亂之珠（Orb of Discord），他們可以輕易地躲藏一秒並消除效果。接著你有 6 秒的時間無法再次施加。在《鬥陣特攻》的時間觀裡，這是一個巨大的空窗期！",
+        "* * 如果你太早對敵方坦克施加紛亂之珠，他們可以輕鬆躲藏一秒並清除紛亂之珠的效果。這樣一來，你在 6 秒內將無法再次施加。在《鬥陣特攻》的節奏中，這是一個巨大的空窗期！",
         "* 留意側襲者（Flanker）",
-        "* * 一旦你發現有敵人正在側襲你或其他隊友，立刻對他們施加紛亂之珠（Orb of Discord）。他們要麼會撤退，要麼就必須被迫承受額外的傷害與生命威脅。"
+        "* * 一旦你發現有敵人正試圖側襲你或其他隊友，立即對他們施加紛亂之珠。他們要麼會撤退，要麼就必須被迫面對額外的傷害與生命威脅。"
       ],
-      "content_hash": "3aae70483b05",
-      "prompt_version": "v5",
+      "content_hash": "3f767ea9fe7a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:08.653504Z"
+      "timestamp": "2026-03-20T13:22:36.509067Z"
     },
     "4.5": {
       "title": "（近戰）：瞬踢（Snap Kick）",
       "description": "",
       "content": [
-        "**瞬踢（Snap Kick）的技巧**",
+        "![](/data/assets/guide/0c56bc1f79635b12.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsnap-kick.png)瞬踢（Snap Kick）的技巧",
         "* 離我遠點！",
-        "* 自從禪亞塔獲得了帶有擊退效果的近戰攻擊後，他的生存能力大幅提升。瞬踢（Snap Kick）對於與攻擊者保持距離非常有用。",
+        "* 自從 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔獲得了帶有擊退效果的近戰攻擊後，他的生存能力大幅提升。![](/data/assets/guide/0c56bc1f79635b12.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsnap-kick.png)瞬踢（Snap Kick）在與攻擊者拉開距離時非常實用。",
         "* 連招",
-        "* 傷害加上擊退帶來的短暫位移限制，讓禪亞塔擁有一套不錯的小連招：踢擊 + 身體射擊可造成 110 點傷害，而踢擊 + 爆頭則可造成 160 點傷害！",
+        "* 傷害加上擊退帶來的短暫位移限制，讓 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔擁有一套不錯的小連招：踢擊 + 身體射擊可造成 110 點傷害，而踢擊 + 爆頭則可造成 160 點傷害！",
         "* 在狹小的房間或牆邊，你可以重複進行踢擊、射擊、射擊，直到敵人死亡。",
         "* 了解敵人的優勢。",
-        "* 如果敵人擅長近距離輸出，請盡量保持足夠的距離，這樣就不需要對他們使用瞬踢（Snap Kick）。",
-        "* 範例：當萊因哈特或死神攻擊你時，不要主動走過去踢他們。持續向後退，只有在他們強行進入你的攻擊範圍時才使用踢擊。"
+        "* 如果敵人擅長近距離作戰，請盡量保持足夠的距離，避免必須使用 ![](/data/assets/guide/0c56bc1f79635b12.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsnap-kick.png)瞬踢（Snap Kick）來應對他們。",
+        "* 範例：當 [[__OWH_IMG_1__]]萊因哈特或 [[__OWH_IMG_1__]]死神攻擊你時，不要主動走上前去踢他們。請持續向後退，只有在他們強行進入你的攻擊範圍時才使用踢擊。"
       ],
-      "content_hash": "ea256ae41b2b",
-      "prompt_version": "v5",
+      "content_hash": "bdb6fb1b191a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:11.013501Z"
+      "timestamp": "2026-03-20T13:22:39.115829Z"
     },
     "4.6": {
-      "title": "絕招：聖靈（Transcendence）",
+      "title": "絕招：超凡入聖（Transcendence）",
       "description": "",
       "content": [
-        "**聖靈（Transcendence）的使用技巧**",
+        "**![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)超凡入聖（Transcendence）的使用技巧**",
         "* 反制絕招",
-        "* * 使用聖靈（Transcendence）來反制敵方的絕招。特別是當敵方擁有強大的絕招（如龍一文字或重力噴湧）時，請務必保留它，以便在敵方施放絕招時拯救你的隊伍。",
-        "* 受限於視線（LoS）與屏障",
-        "* * 萊因哈特的屏障、溫斯頓的防護力場以及所有其他屏障都會阻斷聖靈（Transcendence）的治療效果。如果你發現有隊友被建築物或屏障阻隔，請嘗試移動到合適的位置以確保他們存活。",
-        "* 獲得第二次生存機會",
-        "* * 在《鬥陣特攻》中，存活是最重要的事情。如果你確定即將陣亡，且隊伍中其他成員仍然存活，那麼使用聖靈（Transcendence）來保住自己的性命是值得的。",
-        "* 禪亞塔回到戰場需要很長的時間，因此若聖靈（Transcendence）的保留策略最終無法發揮作用，將會得不償失。",
-        "* 如果場上只剩下你和另一名隊友對抗 5 名敵人，請讓自己陣亡，因為使用聖靈（Transcendence）只會造成浪費，且效果一結束你就會立刻死亡。",
+        "* 使用超凡入聖（Transcendence）來反制敵方的絕招。特別是當敵方擁有強大的絕招（如 ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字（Dragonblade）或 ![](/data/assets/guide/eacdf2c5d0a248f5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgraviton-surge.png)重力噴湧（Graviton Surge））時，請務必保留此絕招，以便在敵方發動攻勢時拯救你的隊伍。",
+        "* 受視線（LoS）與屏障阻擋",
+        "* ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）的屏障、![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓（Winston）的防護罩以及所有其他屏障都會阻斷 ![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)超凡入聖（Transcendence）的治療效果。如果你發現有隊友被建築物或屏障擋住，試著移動到合適位置以確保他們存活。",
+        "* 重獲新生的機會",
+        "* 在《鬥陣特攻》中，存活是最重要的事情。如果你確定即將陣亡，且隊伍中其他成員尚存，那麼使用超凡入聖（Transcendence）來保命是值得的。",
+        "* ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）回到戰場需要很長的時間，因此如果因為陣亡而導致絕招無法發揮作用，那麼保留超凡入聖（Transcendence）的策略最終將會失敗。",
+        "* 如果場上只剩下你和另一名隊友對抗 5 名敵人，那麼請讓自己陣亡，因為使用超凡入聖（Transcendence）只是浪費絕招，且效果結束後你依然會立刻死亡。",
         "* 向前推進，隨後撤退",
-        "* * 禪亞塔在施放聖靈（Transcendence）時應該大膽向前推進，讓隊友能在這項治療絕招的範圍內，處於最佳的攻擊位置。",
-        "* 只是別忘了在聖靈（Transcendence）持續時間結束前退回安全地帶，否則效果一結束你就會立刻死亡。"
+        "* ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）在發動 ![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)超凡入聖（Transcendence）期間應該大膽向前推進，讓隊友能在這項治療絕招的有效範圍內進行最佳的攻擊。",
+        "* 務必記得在 ![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)超凡入聖（Transcendence）持續時間結束前回到安全位置，否則效果一結束你就會立刻陣亡。"
       ],
-      "content_hash": "077884a141ea",
-      "prompt_version": "v5",
+      "content_hash": "760c02112c72",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:14.091655Z"
+      "timestamp": "2026-03-20T13:22:42.894197Z"
     },
     "5.1.1": {
       "title": "不和諧修復（Discordant Repair）",
-      "description": "禪亞塔（Zenyatta）對受到「不和諧之珠（Discord Orb）」影響的敵人造成傷害時，可獲得 10% 的生命竊取效果。",
+      "description": "禪亞塔對受到「不和諧寶珠（Discord Orb）」影響的敵人造成傷害時，可獲得 10% 的生命竊取效果。",
       "content": [
         "無提供攻略",
-        "特殊能力（perk）：不和諧修復（Discordant Repair）"
+        "特殊能力：不和諧修復（Discordant Repair）"
       ],
       "content_hash": "9bd9a043ab40",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:15.427586Z"
+      "timestamp": "2026-03-20T13:22:44.430572Z"
     },
     "5.1.2": {
       "title": "飛升（Ascendance）",
-      "description": "啟動並按住二段跳（Double Jump）即可懸浮最多 3 秒。",
+      "description": "啟動並按住二段跳即可懸浮最多 3 秒。",
       "content": [
         "* 全新的走位可能性",
-        "* 飛升（Ascendance）不僅僅是強化禪亞塔（Zenyatta）的其中一項能力，而是賦予他一項全新的力量，創造出許多新的戰術操作機會。",
+        "* 除了單純強化 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）的其中一項能力外，飛升（Ascendance）賦予了他一項全新的力量，創造出許多新的戰術操作機會。",
         "* 在高處之間懸浮",
-        "* 擁有大量高處地形的地圖通常對禪亞塔（Zenyatta）來說很棘手，但有了飛升（Ascendance），他一旦佔據高處就能持續保持優勢。",
-        "* 範例：努巴尼（Numbani）的起始佔領點。禪亞塔（Zenyatta）可以利用樓梯到達任何高處區域。隨後，他能使用飛升（Ascendance）在高處之間飄移，以便進行防禦性保護或進攻性打擊。",
+        "* 擁有大量高處地形的地圖通常對 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）來說很棘手，但有了飛升（Ascendance），他一旦佔據高處就能持續保持優勢。",
+        "* 範例：努巴尼（Numbani）的初始佔領點。禪亞塔（Zenyatta）可以利用樓梯抵達任何高處區域。隨後，他能使用飛升（Ascendance）在高處之間飄移，以便重新走位進行防禦保護或進攻。",
         "* 越過牆壁與屏障進行射擊",
-        "* 蓄力次要攻擊，接著二段跳（Double Jump）越過牆壁或屏障，從原本無法觸及的角度發動攻擊。",
-        "* 發掘新的側襲點位",
-        "* 禪亞塔（Zenyatta）熱衷於側襲，並尋求以完全蓄力的右鍵攻擊瞬間消滅毫無防備的敵人。許多地圖都有禪亞塔（Zenyatta）僅能透過飛升（Ascendance）才能穿越的周邊路徑。請多加留意並嘗試探索。"
+        "* 蓄力次要攻擊，接著二段跳躍至牆壁或屏障上方，從原本無法觸及的角度發動攻擊。",
+        "* 發掘新的側襲點",
+        "* ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）熱衷於側襲，並試圖以滿蓄力的右鍵攻擊瞬間消滅毫無防備的敵人。許多地圖都有邊緣路徑，只有透過飛升（Ascendance）才能讓 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）穿越。請多加留意並進行嘗試。"
       ],
-      "content_hash": "d1e72b8d5c2c",
-      "prompt_version": "v5",
+      "content_hash": "78c837b6ed0c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:18.052098Z"
+      "timestamp": "2026-03-20T13:22:46.879087Z"
     },
     "5.2.1": {
       "title": "聚焦毀滅（Focused Destruction）",
-      "description": "次要攻擊蓄力速度提升 20%，並可額外儲存 1 個毀滅之珠（Orb of Destruction）。",
+      "description": "次要攻擊蓄力速度提升 20%，並可額外儲存 1 發毀滅之珠（Orb of Destruction）。",
       "content": [
         "* 提升進攻威脅",
         "* 可秒殺 300 生命值的英雄",
-        "* 通常情況下，滿蓄力的連射可以擊殺標準 250 生命值的英雄。有了聚焦毀滅（Focused Destruction），禪亞塔（Zenyatta）現在可以消滅所有生命值上限為 300 的英雄，例如小美（Mei）和死神（Reaper）。",
-        "* 由於蓄力速度加快，你可以更頻繁地使用次要攻擊，但上述關於毀滅之珠（Orb of Destruction）（蓄力）的技巧與原則同樣適用。"
+        "* 一般情況下，滿蓄力的連射可以擊殺標準 250 生命值的英雄。有了聚焦毀滅（Focused Destruction），![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）現在可以消滅所有生命值上限為 300 的英雄，例如小美（Mei）和死神（Reaper）。",
+        "* 由於蓄力速度加快，你可以更頻繁地使用次要攻擊，但仍需遵循上述關於 ![](/data/assets/guide/a7f6469e50fb0458.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-destruction.png)毀滅之珠（Orb of Destruction）（蓄力）的技巧與原則。"
       ],
-      "content_hash": "e5668d4c2bf4",
-      "prompt_version": "v5",
+      "content_hash": "eb2662e845af",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:19.697329Z"
+      "timestamp": "2026-03-20T13:22:48.613880Z"
     },
     "5.2.2": {
       "title": "雙重和諧（Dual Harmony）",
-      "description": "獲得第 2 顆和諧之珠，但兩者的治療效果皆為 70%。",
+      "description": "獲得第二顆和諧之珠，但兩者的治療效果皆為 70%。",
       "content": [
         "* 推薦主要特殊能力（Recommended Major Perk）",
-        "* 淨增益為 +40% 治療量，這意味著能更快累積絕招。此外，同時為兩名隊友提供持續治療，遠比單一目標獲得些許額外治療更為強大。"
+        "* 淨增益為 +40% 治療量，這意味著能更快累積絕招。此外，同時為兩名隊友提供持續治療，遠比單一目標獲得較高的治療量更為強大。"
       ],
       "content_hash": "c91f5beb91d1",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:21.553459Z"
+      "timestamp": "2026-03-20T13:22:50.240286Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "最適合禪亞塔的地圖，是那些能讓他發揮卓越遠程騷擾傷害的地圖。長距離的視線以及充足的轉角掩體，能讓禪亞塔更容易發揮實力。由於他的機動性較差，擁有極高地形的地圖要麼會讓他處於地面上的劣勢，要麼會迫使他浪費時間尋找漫長的步行路徑抵達高處。小型地圖對禪亞塔來說也充滿挑戰，因為他需要保持距離，且難以應對側襲者（Flanker）。具有護送（Escort）目標的遊戲模式能為他提供天然的移動掩體，讓他隨時能圍繞掩體作戰。此外，若禪亞塔能待在運載目標上，他的隊伍也能因此獲益，因為這能讓隊伍中的其他人向前推進。"
+        "最適合 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔的地圖，是那些能讓他發揮卓越遠程消耗傷害優勢的地圖。長距離的視野以及充足的轉角掩體，讓 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔更容易發揮實力。由於他缺乏機動性，擁有極高地勢的地圖要麼會讓他處於地面劣勢，要麼會迫使他浪費時間尋找漫長的步行路徑上去。小型地圖對 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔來說也充滿挑戰，因為他需要保持距離，且難以應對側襲者。具有護送目標的遊戲模式為他提供了天然的移動掩體，讓他隨時都能圍繞其進行戰鬥。此外，他的隊伍也能從禪亞塔待在運載目標上獲益，因為這能讓隊伍的其他成員向前推進。"
       ],
-      "content_hash": "1b41236d3792",
-      "prompt_version": "v5",
+      "content_hash": "551e270dd93e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:23.696073Z"
+      "timestamp": "2026-03-20T13:22:52.528069Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "禪亞塔（Zenyatta）是消耗型陣容（poke comps）的大師。他不僅擁有極高的遠程傷害且沒有傷害衰減，其「紛亂之珠（Orb of Discord）」配合消耗型隊伍的集火攻擊，能瞬間消滅任何敵人。基本上，任何具備遠程傷害的英雄與他搭配都有極佳的效果。",
-        "基於同樣的原因，他在突襲型陣容（dive comps）中也能成為極具威脅的戰力。突襲型隊友會迅速包夾被施加「紛亂之珠」的目標，瞬間將戰局轉變為 5 對 4 的優勢，並以此擴大勝果。唯一的缺點是，若敵方隊伍同樣採取突襲陣容，禪亞塔（Zenyatta）將會成為首要目標，此時他需要像巴帝斯特（Baptiste）或霧子（Kiriko）這樣的隊友來協助保護他。"
+        "![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）是消耗型陣容（poke comps）的大師。他不僅擁有驚人的遠程傷害且沒有距離衰減，配合 ![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)紛亂之珠（Orb of Discord）以及消耗型隊伍的集火能力，能瞬間消滅任何敵人。幾乎任何擁有遠程傷害的英雄都能與他完美搭配。",
+        "由於類似的原因，他在側襲型陣容（dive comps）中也能成為極具威脅的戰力。側襲型隊友會集火被掛上紛亂之珠的目標，迅速將戰局轉變為 5 對 4 的優勢，並從中取得勝利。唯一的缺點是如果敵方隊伍同樣採取側襲戰術，禪亞塔（Zenyatta）會成為首要目標，此時他將需要像 ![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特（Baptiste）或 ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）這樣的隊友來協助保護他。"
       ],
-      "content_hash": "d34171f09113",
-      "prompt_version": "v5",
+      "content_hash": "e1fc6d4bcce8",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:25.712755Z"
+      "timestamp": "2026-03-20T13:22:54.720630Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "面對禪亞塔時，每位英雄都必須做的一件事，就是透過中斷視野（LoS）來清除他的「紛亂之珠（Orb of Discord）」。如果你是需要向前推進的角色：先走進去，被掛上紛亂之珠後，短暫撤退以清除標記，接著再正式發動推進。如果你是待在後方的遠程英雄，只需躲避一秒鐘，然後再探頭即可。",
-        "針對具體的反制手段，札莉雅的「粒子屏障（Particle Barrier）」可以清除紛亂之珠，任何具備機動性並能對禪亞塔進行「側襲者（Flanker）」或「前鋒（Initiator）」式突襲的英雄，只要能接近他，就能迅速將其擊殺。",
-        "禪亞塔無法逃脫側襲和突襲攻擊。與至少一名隊友配合，同時對他發動奇襲，即可輕鬆將其擊殺。",
-        "在發動攻擊前，請務必透過中斷視野來清除紛亂之珠。你絕對不想在深入敵陣後，卻因為紛亂之珠的額外傷害而被瞬間秒殺。",
-        "如果你沒看到禪亞塔，請假設他正在蓄力「亂（Volley）」。躲到屏障後方並留意你的側翼。"
+        "面對禪亞塔時，每位英雄都必須做的一件事，就是透過中斷視線（LoS）來清除他的 ![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png) 紛亂之珠（Orb of Discord）。如果你是需要向前推進的角色：走進去、被掛上紛亂之珠、短暫撤退以消除標記，然後再真正地發動推進。如果你是待在後方的遠程英雄，只需躲避一秒鐘，然後再探頭即可。",
+        "針對特定反制手段，![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png) 札莉雅的 ![](/data/assets/guide/81b1062b5b25f966.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fparticle-barrier.png) 粒子屏障（Particle Barrier）可以清除紛亂之珠；任何具備機動性、能突襲禪亞塔的英雄，只要能接近他，就能迅速在戰鬥初期將其擊殺。",
+        "![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png) 禪亞塔無法逃脫側襲者（Flanker）與突襲攻擊。與至少一名隊友協調，同時對他發動奇襲，即可輕鬆將其擊殺。",
+        "在發動攻擊前，請務必透過中斷視線來清除 ![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png) 紛亂之珠（Orb of Discord）。你肯定不想在深入敵陣後，卻因為紛亂之珠的額外傷害而被瞬間秒殺。",
+        "如果你沒有看到 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png) 禪亞塔，請假設他正在蓄力發射。躲到屏障後方並留意你的側翼。"
       ],
-      "content_hash": "4aebfbefc99c",
-      "prompt_version": "v5",
+      "content_hash": "193053075768",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:28.049804Z"
+      "timestamp": "2026-03-20T13:22:57.523346Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:39:35.847838Z"
+    "timestamp": "2026-03-20T13:22:08.185761Z"
   }
 }

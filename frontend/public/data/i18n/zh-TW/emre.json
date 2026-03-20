@@ -6,260 +6,260 @@
       "title": "概述",
       "description": "",
       "content": [
-        "他曾是一位原則堅定的捍衛者特工，但在組織迷失方向後選擇離開。他遭到賞金獵人弗蕾亞（Freja）的追捕，對方發現他已經過重度的生化改造。他的內心正處於交戰狀態，在過去的自我與毫無靈魂的殺人機器之間不斷切換。",
-        "伊默（Emre）使用他的爆發步槍（Burst Rifle）主宰遠程戰鬥。大多數英雄在戰鬥時必須犧牲精準度或移動速度，但伊默在瞄準射擊（ADS）並進行側向移動時，能同時兼顧這兩者，既致命又難以捉摸。",
-        "佔據側翼角度有助於他繞過防禦型坦克，並找出掩體後的目標。當他發現敵人疏於防備時，可以利用直接命中的手榴彈（nade）重創對手，再以步槍爆發射擊將其擊殺。此外，憑藉著吸血效果與生命值恢復被動，他還具備極佳的自我續航能力。"
+        "他曾是一位有原則的捍衛者成員，但在組織迷失方向後選擇離開。他遭到賞金獵人弗蕾亞（Freja）的追捕，對方發現他經過了重度的生化改造。他的內心正處於交戰狀態，在過去的自我與毫無靈魂的殺人機器之間不斷切換。",
+        "伊默（Emre）使用他的爆發步槍（Burst Rifle）來主導遠程戰鬥。大多數英雄在戰鬥時必須犧牲準確度或移動速度，但伊默在瞄準射擊（ADS）並進行側向移動時，能同時兼顧這兩者，既具備致命性又難以捉摸。",
+        "佔據側翼角度能幫助他繞過防禦型坦克，並找出掩體後的目標。當他逮到對手疏於防備時，可以使用直接投擲的手榴彈（nade）重創敵人，再以步槍的爆發射擊將其擊殺。此外，憑藉著生命竊取（life steal）以及自身的生命恢復被動技能，他還擁有極佳的自我生存能力。"
       ],
       "content_hash": "ca544ae6a661",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:03.414517Z"
+      "timestamp": "2026-03-20T13:15:36.520063Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
         "* 盡可能保持瞄準射擊（ADS）。只有在沒有目標，或是進行極近距離戰鬥時才取消瞄準。",
-        "* 保持自身存活，不要過度依賴支援的治療。當你需要治療時，請使用虹吸爆破槍（Siphon Blaster）。",
-        "* 投擲電子破片（Cyber Frag）並迅速嘗試射擊同一目標。破片加上爆頭是他最致命的連招。"
+        "* 保持自身存活，不要過度依賴醫護兵（Support）的治療。當你需要治療時，請使用虹吸爆破槍（Siphon Blaster）。",
+        "* 投擲網路碎片（Cyber Frag）並迅速嘗試射擊同一個目標。碎片加上爆頭是他最致命的連招。"
       ],
       "content_hash": "bb39373dec00",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:04.979262Z"
+      "timestamp": "2026-03-20T13:15:38.389986Z"
     },
     "1.1.2": {
-      "title": "遊玩建議",
+      "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 如果你沒有足夠的爆發傷害，請試著在他施展虹吸爆能槍（Siphon Blaster）時逃跑，以盡量減少他能產生的生命竊取效果。",
-        "* 伊默（Emre）除了試著用虹吸爆能槍（Siphon Blaster）閃避之外，沒有任何應對控場技能的手段。如果你能對他造成昏迷或擊飛，他會很容易被擊殺。",
-        "* 仔細聆聽他的絕招語音，並準備好將空中的伊默（Emre）擊落。"
+        "* 如果你的爆發傷害不足，試著在他使用虹吸爆能槍（Siphon Blaster）時逃跑，這樣可以將他能獲得的生命竊取降至最低。",
+        "* 伊默（Emre）除了試著用虹吸爆能槍（Siphon Blaster）閃避之外，沒有任何應對控場技能的手段。如果你能暈眩他或將他擊飛，他會變得很容易擊殺。",
+        "* 仔細聆聽他的絕招語音，並準備好將伊默（Emre）從空中擊落。"
       ],
       "content_hash": "61cbe3682b30",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:07.015663Z"
+      "timestamp": "2026-03-20T13:15:40.253845Z"
     },
     "2": {
-      "title": "優缺點總結",
+      "title": "優勢與劣勢總結",
       "description": "",
       "content": [
         "* 擅長中長距離作戰",
         "* 移動速度快",
-        "* 具備自我維持（Self-sustain）能力",
+        "* 具備自我維持能力",
         "* 在施放絕招（Ult）期間較為脆弱",
         "* 傷害輸出較低",
-        "* 相比其他輸出型英雄較為弱勢"
+        "* 是其他輸出（DPS）角色的弱化版本"
       ],
       "content_hash": "f1f48eadba52",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:08.383144Z"
+      "timestamp": "2026-03-20T13:15:41.911026Z"
     },
     "3.1.1": {
       "title": "優秀的中長距離對決能力",
       "description": "",
       "content": [
-        "能夠使用突擊步槍進行腰射與瞄準射擊（ADS），使他在各種有效射程內具備相當不錯的靈活性。瞄準（Take Aim）（伊默）使他在中長距離的對決中表現得非常強勢。"
+        "能夠使用突擊步槍進行腰射與瞄準射擊（ADS），使他在各種有效射程內具備相當不錯的靈活性。![](/data/assets/guide/7f0a804fdbeda034.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-aim-emre.png)瞄準（Take Aim）（伊默）使他在中長距離的對決中表現得非常強勢。"
       ],
-      "content_hash": "29afc0a91bba",
-      "prompt_version": "v5",
+      "content_hash": "a5b9c2c102e7",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:09.922895Z"
+      "timestamp": "2026-03-20T13:15:43.303718Z"
     },
     "3.1.2": {
       "title": "快速移動",
       "description": "",
       "content": [
-        "雖然伊默（Emre）的移動速度不及跳躍噴射（Jump Pack）那樣的超高速，但他擁有遊戲中最強的瞄準（ADS）側移速度，且虹吸爆擊槍（Siphon Blaster）同時賦予了他垂直與水平方向的機動性。他從不需要停留在原地，這使他成為敵方隊伍難以鎖定的目標。"
+        "雖然伊默（Emre）的移動速度不及 ![](/data/assets/guide/71e72edd3dddab12.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjump-pack.png)跳躍背包（Jump Pack）那樣的超高速，但他擁有遊戲中最強的開鏡（ADS）左右橫移速度，且 ![](/data/assets/guide/8bb0ce66b4fe8f61.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsiphon-blaster.png)虹吸爆裂槍（Siphon Blaster）同時賦予了他垂直與水平方向的機動性。他從不需要停留在原地，這使他成為敵方隊伍難以鎖定的目標。"
       ],
-      "content_hash": "68d77ac78483",
-      "prompt_version": "v5",
+      "content_hash": "150c0d372562",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:12.138947Z"
+      "timestamp": "2026-03-20T13:15:44.811026Z"
     },
     "3.1.3": {
       "title": "自我維持",
       "description": "",
       "content": [
-        "自我維持在輸出角色的陣容中是相當罕見的。雖然虹吸爆破槍（Siphon Blaster）提供的吸血效果並非極高額的瞬間治療，但絕對足以讓伊默（Emre）在 1v1 對決中存活下來。結合了位移能力與吸血效果，使得伊默（Emre）更具備自我生存能力，並減少對團隊協助的依賴。"
+        "自我維持在輸出角色的陣容中是相當稀有的能力。雖然來自 ![](/data/assets/guide/8bb0ce66b4fe8f61.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsiphon-blaster.png) 虹吸爆破槍（Siphon Blaster）的吸血效果並非極高爆發的治療量，但絕對能在 1v1 對決中讓伊默（Emre）保持生存。將位移能力與吸血效果結合，使伊默（Emre）更具備自我生存能力，並減少對隊伍支援的依賴。"
       ],
-      "content_hash": "ea51f1682da8",
-      "prompt_version": "v5",
+      "content_hash": "6dab46c0becb",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:14.164600Z"
+      "timestamp": "2026-03-20T13:15:46.478344Z"
     },
     "3.2.1": {
-      "title": "終極技能期間的脆弱狀態",
+      "title": "絕招期間的脆弱狀態",
       "description": "",
       "content": [
-        "在施放終極技能時懸浮於空中，會使他成為敵方神射手（Sharpshooter）容易鎖定的目標。請預期任何具備對空能力的敵人，都會在確保他取得多次擊殺前，優先將他擊落。"
+        "在施放絕招時懸浮於空中，會使他成為敵方神射手（Sharpshooter）容易鎖定的目標。請預期任何具備對空能力的敵人，都會在確保他取得多重擊殺之前，優先將他擊落。"
       ],
       "content_hash": "3cb42380db40",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:15.880462Z"
+      "timestamp": "2026-03-20T13:15:48.027910Z"
     },
     "3.2.2": {
-      "title": "在啟動吸取爆能槍（Siphon Blaster）期間，傷害輸出非常低",
+      "title": "在使用虹吸爆能槍（Siphon Blaster）期間，傷害輸出非常低",
       "description": "",
       "content": [
-        "儘管他需要依靠此技能來維持生存，但掏出吸取爆能槍（Siphon Blaster）會犧牲大量的傷害輸出。如果目標正在接受治療，他在切換回步槍或使用電子破片（Cyber Frag）命中目標之前，很難成功擊殺敵人。"
+        "儘管他需要依靠虹吸爆能槍（Siphon Blaster）來維持生存，但使用它會犧牲大量的傷害輸出。如果目標正在接受治療，他在切換回步槍或使用 ![](/data/assets/guide/7432cc7ae0e02f92.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcyber-frag.png) 網路破片（Cyber Frag）直接命中目標之前，很難成功擊殺對手。"
       ],
-      "content_hash": "ed17e2c4e149",
-      "prompt_version": "v5",
+      "content_hash": "3d73af279fda",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:17.605666Z"
+      "timestamp": "2026-03-20T13:15:49.420817Z"
     },
     "3.2.3": {
-      "title": "在定位上落後",
+      "title": "在其定位中落後",
       "description": "",
       "content": [
-        "伊默（Emre）在隊伍中與士兵76、索潔恩和艾西等英雄競爭中長距離即時命中（hitscan）的角色定位。這些英雄都擁有相當全面的技能組以及高額的傷害輸出。雖然他能與士兵76一較高下，但與索潔恩和艾西相比，選擇伊默（Emre）的理由顯得較為薄弱。"
+        "伊默（Emre）在隊伍中與 ![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76、![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩以及 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西等英雄競爭中長距離即時命中（hitscan）的角色定位。這些英雄都擁有相當全面的技能組與高額的傷害輸出。雖然他能與士兵76一較高下，但與索潔恩和艾西相比，選擇伊默（Emre）的理由顯得較為薄弱。"
       ],
-      "content_hash": "95c866105c65",
-      "prompt_version": "v5",
+      "content_hash": "b8e4615a106d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:19.338306Z"
+      "timestamp": "2026-03-20T13:15:51.085323Z"
     },
     "4.1": {
       "title": "主要攻擊：合成爆發步槍（Synthetic Burst Rifle）",
       "description": "",
       "content": [
-        "**合成爆發步槍（Synthetic Burst Rifle）的使用技巧**",
-        "* 當你需要進行大幅度的瞄準調整，或是鎖定近距離的敵人時，請保持不開鏡狀態。",
-        "* 此武器設計旨在頻繁切換開鏡與不開鏡狀態，你可以順暢地在兩者之間轉換。",
-        "* 當沒有主動瞄準特定目標時，請保持不開鏡狀態，以維持完整的視野（FoV），避免限制你的視覺資訊。"
+        "**![](/data/assets/guide/adac5a9d729fb48c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsynthetic-burst-rifle.png)合成爆發步槍（Synthetic Burst Rifle）的使用技巧**",
+        "* 當你需要進行大幅度瞄準調整，或是鎖定近距離的敵人時，請保持不開鏡狀態。",
+        "* 此武器專為頻繁切換開鏡/不開鏡的玩法所設計。你可以流暢地在兩者之間進行切換。",
+        "* 當沒有主動瞄準特定目標時，請保持不開鏡狀態，這樣才能維持完整的視野（FoV），避免限制你的視覺資訊。"
       ],
-      "content_hash": "73f845568a20",
-      "prompt_version": "v5",
+      "content_hash": "52f0f4483610",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:21.052793Z"
+      "timestamp": "2026-03-20T13:15:53.062544Z"
     },
     "4.2": {
       "title": "次要攻擊：瞄準（Take Aim）",
       "description": "",
       "content": [
-        "關於伊默（Emre）的瞄準（Take Aim）技巧：",
-        "* 沒有移動懲罰，在瞄準射擊（ADS）時的左右橫移速度極快，這與安娜（Ana）和艾西（Ashe）在瞄準時會減速的機制不同。",
-        "* 大幅提升有效射程並縮小彈道擴散。盡可能保持瞄準射擊（ADS）狀態。",
-        "* 射程、準確度以及移動速度，使伊默（Emre）在中遠距離的消耗戰中表現極為出色。"
+        "**![](/data/assets/guide/7f0a804fdbeda034.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-aim-emre.png)瞄準（Take Aim）（伊默）的使用技巧**",
+        "* 沒有移動懲罰，在瞄準射擊（ADS）時可以進行超快速的橫向移動，這與安娜和艾西在瞄準時會減速的情況不同。",
+        "* 大幅提升有效射程並縮小彈道擴散。盡可能隨時保持瞄準射擊（ADS）狀態。",
+        "* 射程、準確度以及移動速度使伊默在進行中遠距離的消耗戰時表現極為出色。"
       ],
-      "content_hash": "69661c0ecb2f",
-      "prompt_version": "v5",
+      "content_hash": "c5b092b9ead8",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:22.381891Z"
+      "timestamp": "2026-03-20T13:15:54.848607Z"
     },
     "4.3": {
-      "title": "[SHIFT]：虹吸爆能槍（Siphon Blaster）",
+      "title": "[SHIFT]：汲取爆能槍（Siphon Blaster）",
       "description": "",
       "content": [
-        "**虹吸爆能槍（Siphon Blaster）使用技巧**",
-        "* 生存工具。主要將虹吸爆能槍（Siphon Blaster）用於在敵方攻擊下存活。使用時你的閃避能力會提升，並獲得跳躍與移動速度加成，且使用爆能槍造成的所有傷害皆會產生生命竊取效果。",
-        "* 此移動力加成並非爆發性位移或衝刺。它類似於巴帝斯特（Baptiste）的跳躍或朱諾（Juno）的滑翔，而不像迴音（Echo）、溫斯頓（Winston）或安燃（Anran）的 [SHIFT] 技能。",
-        "* 爆能槍為半自動武器，因此你需要快速點擊射擊。",
-        "* 若採用點放、暫停、再點放、再暫停的方式，在即將過熱前控制節奏，冷卻速度會更快。"
+        "![](/data/assets/guide/8bb0ce66b4fe8f61.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsiphon-blaster.png)汲取爆能槍（Siphon Blaster）的使用技巧",
+        "* 生存工具。主要將汲取爆能槍（Siphon Blaster）用於在敵方攻擊下存活。你會變得更難以捉摸，並獲得跳躍與移動速度加成，且使用爆能槍造成的任何傷害都會產生生命竊取（Life Steal）。",
+        "* 增加的機動性並非爆發性移動或衝刺。它類似於巴帝斯特（Baptiste）的跳躍或朱諾（Juno）的滑翔，而不像迴音（Echo）、溫斯頓（Winston）或安燃（Anran）的 [SHIFT] 技能。",
+        "* 爆能槍為半自動射擊，因此你需要快速點擊開火。",
+        "* 如果在即將過熱前採用「點放、暫停、點放、暫停」的節奏，冷卻速度會更快。"
       ],
-      "content_hash": "bfe770719c96",
-      "prompt_version": "v5",
+      "content_hash": "ae992d1f9095",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:24.612324Z"
+      "timestamp": "2026-03-20T13:15:57.303574Z"
     },
     "4.4": {
-      "title": "[E]：網路破片（Cyber Frag）",
+      "title": "[E]：網路碎片（Cyber Frag）",
       "description": "",
       "content": [
-        "**網路破片（Cyber Frag）的使用技巧**",
-        "* 你選擇伊默（Emre）而非索潔恩（Sojourn）或士兵76（Soldier: 76）的主要原因就是為了網路破片（Cyber Frag）。",
-        "* 最好的使用方式是壓制位於角落和牆壁附近的敵人。你可以強迫他們撤退、切斷他們的退路，或是利用反彈手榴彈在他們撤退後擊中掩體後的目標。",
-        "* 這招也適合用來發起進攻。先投擲手榴彈，然後開始射擊，這樣爆炸傷害就能與你的子彈命中時間重疊，造成高額的爆發傷害。",
-        "* 具有不錯的範圍傷害（AoE damage），但最適合用來瞬間擊殺單一目標。",
-        "* 可以進行手榴彈跳躍（nade jump），若將手榴彈跳躍與虹吸爆破槍（Siphon Blaster）結合，還能獲得額外的跳躍速度。"
+        "關於 ![](/data/assets/guide/7432cc7ae0e02f92.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcyber-frag.png)網路碎片（Cyber Frag）的提示",
+        "* 你選擇使用 ![](/data/assets/guide/e4d3354cf66c9e62.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Femre.png)伊默（Emre）而非其他英雄（如 ![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩（Sojourn）或 ![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76（Soldier: 76））的主要原因，就是為了 ![](/data/assets/guide/7432cc7ae0e02f92.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcyber-frag.png)網路碎片（Cyber Frag）。",
+        "* 最好的用法是壓制位於角落和牆壁附近的敵人。你可以強迫他們撤退、切斷他們的退路，或者在他們撤退後利用手榴彈反彈來命中掩體後的目標。",
+        "* 同時也適合用來發起進攻。先投擲手榴彈，然後開始射擊，這樣爆炸傷害就能與你的子彈同時命中，造成巨大的爆發傷害。",
+        "* 擁有不錯的範圍傷害（AoE damage），但最適合用來快速擊殺單一目標。",
+        "* 可以進行手榴彈跳躍（nade jump），若將手榴彈跳躍與虹吸爆破槍（Siphon Blaster）結合使用，還能獲得額外的跳躍速度。"
       ],
-      "content_hash": "dc79bf1d1a24",
-      "prompt_version": "v5",
+      "content_hash": "1036fe455b9c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:26.447258Z"
+      "timestamp": "2026-03-20T13:15:59.635928Z"
     },
     "4.5": {
       "title": "絕招：覆寫協定（Override Protocol）",
       "description": "",
       "content": [
-        "**覆寫協定（Override Protocol）的使用技巧**",
-        "* 先發射一發重型彈藥。由於發射後會有冷卻時間，請在冷卻期間連續發射輕型彈藥，直到可以再次發射重型彈藥為止。",
+        "**![](/data/assets/guide/eacd4ed16f02a4f7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverride-protocol.png)覆寫協定（Override Protocol）的使用技巧**",
+        "* 先以重型彈藥開場。由於再次發射前有冷卻時間，請在冷卻期間連續發射輕型彈藥，直到能再次發射重型彈藥為止。",
         "* 重型彈藥的直接命中傷害與範圍傷害（AoE damage）皆大幅提升。",
-        "* 重型彈藥可用於進行超高速火箭跳躍，只需射擊地面或牆壁，並在受到自我擊退效果時跳躍即可。",
-        "* 在絕招飛行期間極為脆弱。請確保有醫護兵（Medic）直接為你治療，或是站在屏障後方。否則，你需要利用垂直掩體，並在施放絕招時採取較為保守的打法。"
+        "* 重型彈藥可用於進行超高速的火箭跳躍，方法是射擊地面或牆壁，並在受到自身擊退效果時進行跳躍。",
+        "* 在絕招飛行期間極為脆弱。請確保有醫護兵（Support）直接為你治療，或是將位置調整至屏障後方。否則，你需要利用垂直掩體，並在施放時採取較為保守的策略。"
       ],
-      "content_hash": "6615d85d6792",
-      "prompt_version": "v5",
+      "content_hash": "b8a03b3d058e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:28.667506Z"
+      "timestamp": "2026-03-20T13:16:01.628616Z"
     },
     "5.1.1": {
       "title": "壓制安全（Suppressive Security）",
-      "description": "超載協議（Override Protocol）的輕型彈藥會使敵人緩速 30%，持續 1 秒。",
+      "description": "超載協定（Override Protocol）的輕型彈藥會使敵人緩速 30%，持續 1 秒。",
       "content": [
-        "* 讓伊默（Emre）的絕招變得更致命，因為更容易命中後續的重型射擊。",
-        "* 利用輕型彈藥緩速敵人，接著以重型彈藥將其擊殺。",
-        "* 敵人會更猶豫是否要挑戰你的絕招，這使得施放絕招時稍微安全了一些。"
+        "* 透過讓後續的重型射擊更容易命中，提升伊默（Emre）絕招的致命性。",
+        "* 以輕型彈藥緩速敵人，接著用重型彈藥將其擊殺。",
+        "* 敵人會更猶豫是否要挑戰你的絕招，這使得施放絕招變得稍微安全一些。"
       ],
       "content_hash": "dc9291d19a3a",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:30.428228Z"
+      "timestamp": "2026-03-20T13:16:03.363992Z"
     },
     "5.1.2": {
       "title": "強化敏捷（Enhanced Agility）",
-      "description": "當未進行射擊時，虹吸爆能槍（Siphon Blaster）的移動速度加成提升 20%。",
+      "description": "當未進行射擊時，虹吸爆能槍（Siphon Blaster）的移動速度加成提高 20%。",
       "content": [
-        "* 對於在虹吸爆能槍（Siphon Blaster）冷卻期間進行逃脫與閃避相當實用。",
-        "* 由於爆能槍會持續過熱（在沒有散熱槽（Heat Sink）的情況下），你可以利用需要讓它冷卻的空檔來發揮此效果。",
-        "* 額外 20% 的移動速度加成，加上基礎移動速度增益，讓逃脫變得更加切實可行。"
+        "* 在虹吸爆能槍（Siphon Blaster）冷卻期間，這對於逃脫與閃避相當實用。",
+        "* 由於爆能槍會持續過熱（在沒有散熱槽（Heat Sink）的情況下），你可以利用需要讓它冷卻的空檔來發揮此能力。",
+        "* 20% 的移動速度提升，加上基礎移動速度增益，讓逃脫變得更加切實可行。"
       ],
       "content_hash": "72dda6642bc5",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:31.850661Z"
+      "timestamp": "2026-03-20T13:16:05.393448Z"
     },
     "5.2.1": {
       "title": "散熱器（Heat Sink）",
-      "description": "以虹吸爆破槍（Siphon Blaster）直接命中目標可返還熱能，並增加 0.1 秒的持續時間。",
+      "description": "以虹吸爆破槍（Siphon Blaster）直接命中目標可返還熱能，並延長其持續時間 0.1 秒。",
       "content": [
-        "* 推薦主要特殊能力（Major Perk）",
-        "* 射擊次數越多，總持續時間就越長。同時也會帶來更高的生命竊取效果。如果你對虹吸爆破槍（Siphon Blaster）的瞄準有信心，這是一個很棒的特殊能力（Perk）。能讓你打得更具侵略性。",
-        "* 特別適合單挑，以及當坦克對你施加壓力時（因為坦克體型較大，更容易命中更多發射擊）。"
+        "* 推薦主要特殊能力（major perks）",
+        "* 射擊次數越多，總持續時間就越長。同時也能獲得更高的生命竊取效果。如果你對虹吸爆破槍（Siphon Blaster）的準度有信心，這是一個非常棒的特殊能力（perk）。能讓你打得更具侵略性。",
+        "* 特別適合單挑，以及當戰士（Bruiser）對你施加壓力時（因為他們的體型較大，更容易命中更多發射擊）。"
       ],
       "content_hash": "d61ee6bc8c81",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:33.507843Z"
+      "timestamp": "2026-03-20T13:16:07.651112Z"
     },
     "5.2.2": {
       "title": "網路黏附（Cyber Adhesion）",
-      "description": "網路破片（Cyber Frag）現在會在接觸時黏附，對被黏附的敵人造成 40 點額外傷害。",
+      "description": "網路碎片（Cyber Frag）現在會在接觸時黏附，對被黏附的敵人額外造成 40 點傷害。",
       "content": [
-        "* 將網路破片（Cyber Frag）轉化為網路黏性炸彈（Cyber Semtex）。",
-        "* 悄悄靠近敵人，投擲手榴彈使其黏附，並立即進行瞄準（ADS）爆頭。你將能瞬間擊殺側襲者（Flanker）與醫護兵（Medic）。"
+        "* 將網路碎片（Cyber Frag）轉化為網路黏性炸彈（cyber semtex）。",
+        "* 悄悄靠近敵人，投擲手榴彈使其黏附，並立即進行瞄準（ADS）爆頭。你將能瞬間消滅敵方的傷害型英雄與輔助型英雄。"
       ],
       "content_hash": "8b928b09054c",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:35.542709Z"
+      "timestamp": "2026-03-20T13:16:09.230612Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "伊默（Emre）在目標區域與視野範圍符合其最佳射程的地圖上表現最為出色（例如：里亞爾托、尼泊爾、希望之城）。理想情況下，他會待在網路碎片（Cyber Frag）的最大射程附近，利用範圍傷害搭配步槍的後續射擊來壓制對手。",
-        "較小的地圖（例如：南極半島、綠洲城、新垃圾城）對伊默（Emre）來說顯得過於狹窄。雖然他能從手榴彈中獲得不錯的價值，但可能難以有效發揮其餘技能組的效用。",
-        "只要能維持高地優勢，他在潛水地圖（例如：多拉多、捍衛者基地：直布羅陀）上也有不錯的表現，但會被這類地圖中常見的潛水英雄（如 D.Va）所反制。"
+        "伊默（Emre）在目標區域與視線範圍符合其最佳射程的地圖上表現最為出色（例如：里亞爾托、尼泊爾、希望之城）。理想情況下，他會保持在網路碎片（Cyber Frag）的最大射程附近進行戰鬥，藉此發揮範圍傷害（AoE damage）並搭配步槍進行後續射擊。",
+        "較小的地圖（例如：南極半島、綠洲城、新垃圾城）會讓伊默（Emre）感到空間受限。雖然他能從手榴彈中獲得不錯的價值，但可能難以有效發揮其餘技能組的效用。",
+        "只要能維持高地優勢，他在突襲地圖（例如：多拉多、捍衛者基地：直布羅陀）上的表現尚可，但他會被這些地圖中常見的突襲型英雄（如 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va）所反制。"
       ],
-      "content_hash": "73c3542357e8",
-      "prompt_version": "v5",
+      "content_hash": "73fa723b670c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:37.081229Z"
+      "timestamp": "2026-03-20T13:16:11.774949Z"
     },
     "6.1.1": {
       "title": "里亞爾托",
@@ -268,9 +268,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:38.430950Z"
+      "timestamp": "2026-03-20T13:16:13.063999Z"
     },
     "6.1.2": {
       "title": "尼泊爾",
@@ -279,9 +279,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:39.552840Z"
+      "timestamp": "2026-03-20T13:16:14.330097Z"
     },
     "6.1.3": {
       "title": "希望之城",
@@ -290,9 +290,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:40.930353Z"
+      "timestamp": "2026-03-20T13:16:15.567031Z"
     },
     "6.1.4": {
       "title": "多拉多",
@@ -301,20 +301,20 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:42.065638Z"
+      "timestamp": "2026-03-20T13:16:16.522111Z"
     },
     "6.1.5": {
       "title": "捍衛者基地：直布羅陀",
       "description": "",
       "content": [
-        "AI 生成"
+        "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:43.330722Z"
+      "timestamp": "2026-03-20T13:16:17.737231Z"
     },
     "6.2.1": {
       "title": "綠洲城",
@@ -323,9 +323,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:44.698306Z"
+      "timestamp": "2026-03-20T13:16:19.025930Z"
     },
     "6.2.2": {
       "title": "新垃圾城",
@@ -334,56 +334,56 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:45.554762Z"
+      "timestamp": "2026-03-20T13:16:20.249635Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "伊默（Emre）需要一名能夠建立並堅守陣地的坦克作為前線。像多米娜（Domina）和席格馬（Sigma）這樣的坦克是理想的選擇，因為他們的屏障能保護他，且具備防禦敵方進攻所需的傷害與控場能力（CC）。",
-        "由於他作為輸出英雄相當靈活且輸出穩定，他幾乎可以與任何其他輸出英雄搭配。主要考量在於另一名輸出英雄是否擔任相同的副角色（subrole）（例如：士兵76（Soldier: 76）、索潔恩（Sojourn））。如果敵方隊伍使用側襲者（Flanker）或屏障坦克來反制，你們的隊伍將會缺乏反制手段。",
-        "至於輔助英雄，通常由伊默（Emre）自行配合以保持在視野或治療範圍內。由於他具備一定的自我維持能力，他可以與高治療量以及功能取向的輔助英雄共同運作。"
+        "伊默（Emre）需要一名能夠建立並堅守陣地的正面戰士（Tank）。像 ![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)多米娜（Domina）和 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）這類英雄是理想的選擇，因為他們的屏障能保護他，且具備足夠的傷害與控場能力（CC）來協助抵禦敵方的侵略。",
+        "由於他作為輸出（DPS）英雄相當靈活且輸出穩定，他幾乎可以與任何其他輸出英雄搭配。主要的考量在於另一名輸出英雄是否擔任相同的副角色（subrole）（例如：![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76、![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩）。如果敵方隊伍使用機動夾擊（dive）或屏障戰士（Tank）來反制，你們的隊伍將會缺乏反制手段。",
+        "至於輔助（Support），通常由伊默（Emre）負責保持在視線範圍或治療距離內。由於他具備一定的自我維持能力，他可以與高治療量或功能導向的輔助（Support）搭配。"
       ],
-      "content_hash": "934b6e3e6bfd",
-      "prompt_version": "v5",
+      "content_hash": "3abee580c8c9",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:47.988487Z"
+      "timestamp": "2026-03-20T13:16:22.962659Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "要反制伊默（Emre），你的首要目標應該是抵銷他的手榴彈。你可以透過保持在手榴彈範圍外（例如使用奪命女、安娜、禪亞塔等神射手），或是使用傷害減免技能來阻擋它（例如防禦矩陣、屏障護盾）。",
-        "伊默（Emre）最弱勢的對局是面對能夠追擊並在近距離壓制他的側襲者（Flanker）與衝鋒陣容。他缺乏強力的逃生手段，也沒有任何控場技能（CC），因此對他採取激進的打法很容易就能將其擊殺。",
-        "如果你缺乏足夠的爆發傷害，請嘗試在他使用虹吸爆能槍（Siphon Blaster）時進行撤退，以將他能產生的生命竊取效果降至最低。",
-        "除了嘗試用虹吸爆能槍（Siphon Blaster）閃避之外，伊默（Emre）沒有任何反制控場的手段。如果你能對他施加暈眩或擊飛效果，他將會成為輕而易舉的擊殺目標。",
-        "留意他的絕招語音，並準備好將空中的伊默（Emre）擊落。"
+        "To counter ![](/data/assets/guide/e4d3354cf66c9e62.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Femre.png)Emre, your first objective should be neutralizing his grenade. You can do this either by playing outside of its range (snipers like ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)Widowmaker, ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana, ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)Zenyatta) or by using damage mitigation to block it (e.g., ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)Defense Matrix, ![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)Barrier Shield).",
+        "伊默最弱勢的對局是面對能夠追擊並在近距離擊敗他的機動與衝鋒陣容。他缺乏強力的逃生手段，且沒有任何控場技能（CC），因此對他採取侵略性的打法很容易就能將其擊殺。",
+        "如果你缺乏足夠的爆發傷害，請試著在他施展虹吸爆能槍（Siphon Blaster）時進行閃避，以將他能產生的生命竊取效果降至最低。",
+        "除了試著用虹吸爆能槍（Siphon Blaster）閃避之外，伊默沒有任何反制控場的手段。只要你能對他施加暈眩或擊退效果，他就會成為容易擊殺的目標。",
+        "仔細聆聽他的絕招語音，並準備好將空中的伊默擊落。"
       ],
-      "content_hash": "efeccad142e4",
-      "prompt_version": "v5",
+      "content_hash": "b435d40cd236",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:50.830532Z"
+      "timestamp": "2026-03-20T13:16:26.058145Z"
     },
     "8.2": {
-      "title": "特定英雄剋制名稱",
+      "title": "特定英雄剋制名單",
       "description": "",
       "content": [
-        "* D.Va",
-        "* 奪命女",
-        "* 安娜",
-        "* 禪亞塔"
+        "D.Va",
+        "奪命女",
+        "安娜",
+        "禪亞塔"
       ],
       "content_hash": "425e17afe5da",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:19:51.988283Z"
+      "timestamp": "2026-03-20T13:16:27.405612Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.529582Z"
+    "timestamp": "2026-03-20T13:15:34.158581Z"
   }
 }

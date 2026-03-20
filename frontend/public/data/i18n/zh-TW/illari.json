@@ -6,39 +6,39 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "伊拉里（Illari）利用太陽的力量對敵人造成傷害並治療隊友，這使她成為《鬥陣特攻》中最致命的進攻型輔助英雄之一。她的太陽步槍（Solar Rifle）可以在傷害與治療模式之間無縫切換，讓玩家能隨時進行快速調整。在所有輔助英雄中，伊拉里的技能組對操作要求極高，因為她真正的威力在於能否精準命中弱點。擅長爆頭的玩家通常能很快上手伊拉里，並迅速帶領隊伍走向勝利。",
-        "她在當前版本中的定位往往較為特定，且極度依賴地圖與隊伍陣容。她的遠程消耗能力非常強大，但與其他輔助相比，缺乏穩定的治療輸出。請務必將治療塔（Pylon）放置在敵人無法輕易摧毀、卻又能持續治療隊友的位置，這樣你就能無往不利。"
+        "駕馭太陽的力量來對敵人造成傷害並治療盟友，這使 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里成為《鬥陣特攻》中最致命的進攻型輔助英雄之一。她的 ![](/data/assets/guide/bb101b26b726fd3d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsolar-rifle.png)太陽步槍（Solar Rifle）能在傷害與治療模式間無縫切換，讓玩家能隨時進行快速調整。在所有輔助英雄中，![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里的技能組對操作要求極高，因為她真正的威力在於能否精準命中弱點。擅長精準射擊的玩家通常會選擇 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里，並迅速開始主導比賽節奏。",
+        "她在當前環境中的定位往往較為特定，且極度依賴地圖與隊伍陣容。她的遠程消耗能力非常強大，但與其他輔助英雄相比，缺乏持續性的治療輸出。務必將治療塔（Pylon）放置在敵人無法輕易摧毀，卻又能覆蓋隊友治療範圍的位置，這樣你就能邁向勝利。"
       ],
-      "content_hash": "c60859ac5592",
-      "prompt_version": "v5",
+      "content_hash": "e0a067440fe9",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:07.736352Z"
+      "timestamp": "2026-03-20T13:14:33.177345Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 專注於維持你的傷害輸出。如果你無法施加足夠的進攻壓力，那麼選擇其他支援英雄會是更好的選擇。",
-        "* 將治療塔（Healing Pylon）放置在牆後，使其不被敵方隊伍發現。只有在全隊進行轉位時才移動它。",
-        "* 使用你的絕招來鎖定盟友正在攻擊的敵人。這樣一來，他們就能快速觸發「日炙（Sunstruck）」爆炸。"
+        "* 專注於維持你的傷害輸出。如果你無法施加足夠的進攻壓力，那麼選擇其他支援型英雄會是更好的選擇。",
+        "* 將 ![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）放置在牆後，使其不被敵方隊伍發現。只有在全隊重新佈陣時才移動它。",
+        "* 使用你的絕招來鎖定盟友正在攻擊的敵人。這樣一來，他們就能快速觸發「日照（Sunstruck）」爆炸。"
       ],
-      "content_hash": "cb48e86cfb73",
-      "prompt_version": "v5",
+      "content_hash": "8db7696769fa",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:09.513688Z"
+      "timestamp": "2026-03-20T13:14:35.020435Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 伊拉里（Illari）擁有強大的遠程傷害，但在近距離對決中較為吃力。試著避開她的視野（LoS），直到你能將她逼入近距離戰鬥。",
-        "* 擁有伊拉里（Illari）的隊伍在需要大量續戰力的持久戰中處於劣勢。請保持耐心，只有在她的治療塔（Healing Pylon）被摧毀且太陽能（Solar Energy）耗盡後，再發動進攻。",
-        "* 當你聽到她的絕招語音時，請準備好應對措施。將她從空中擊落、阻擋她的投射物、在她發射前將其擊暈，或是逃離她的視野（LoS）。"
+        "* ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里擁有優秀的遠程傷害，但在近距離對決中表現較弱。試著避開她的視線（LoS），直到你能將她逼入近距離戰鬥。",
+        "* 擁有伊拉里的隊伍在需要高續航力的持久戰中處於劣勢。請保持耐心，只有在摧毀她的 ![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）並耗盡她的太陽能量（Solar Energy）後，再全力發動進攻。",
+        "* 當你聽到她的絕招語音時，請準備好應對措施。將她從空中擊落、阻擋她的投射物、在她發射前將其擊暈，或是逃離她的視線（LoS）。"
       ],
-      "content_hash": "22c204af4f36",
-      "prompt_version": "v5",
+      "content_hash": "4b366f341367",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:11.130664Z"
+      "timestamp": "2026-03-20T13:14:37.080719Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -52,188 +52,188 @@
         "* 絕招容易被反制"
       ],
       "content_hash": "52fc696dd66b",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:12.500568Z"
+      "timestamp": "2026-03-20T13:14:38.590437Z"
     },
     "3.1.1": {
-      "title": "高額遠程傷害",
+      "title": "高額消耗傷害",
       "description": "",
       "content": [
-        "伊拉里（Illari）的主要攻擊擁有長射程與高傷害，這讓她感覺更像是一名剛好也能治療隊友的輸出型英雄。在《鬥陣特攻2》（Overwatch 2）中，爆發傷害往往是任何英雄所能擁有的最有價值的能力。伊拉里的精準爆擊會迫使敵人做出選擇：要麼退避到她的視線範圍（LoS）之外，導致他們難以發揮作用，要麼就與她進行一場你死我活的正面對決。"
+        "The long range and high damage of her primary fire make ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari feel more like a DPS hero who just so happens to be able to heal her allies as well. Oftentimes in OW2, burst damage ends up being the most valuable ability any hero can possess. Landing critical hits with ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari forces the enemy to either start playing out of her LoS where they struggle to get value, or ego duel to the death."
       ],
-      "content_hash": "ab4e5a9a8562",
-      "prompt_version": "v5",
+      "content_hash": "387526bc00c1",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:14.378837Z"
+      "timestamp": "2026-03-20T13:14:40.533838Z"
     },
     "3.1.2": {
       "title": "被動治療能力",
       "description": "",
       "content": [
-        "治療塔（Healing Pylon）是一項非常強大的治療能力。這個可部署裝置可以放置在隊友附近，並自動治療範圍內的所有人。自動化的治療讓伊拉里（Illari）能夠專注於精準射擊，或是使用她的治療光束（Healing Beam）為生命值偏低的隊友提供瞬間的治療爆發。"
+        "![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）是一項非常強大的治療能力。這個可部署裝置可以放置在隊伍附近，並自動治療範圍內的所有人。自動化的治療讓 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里能夠專注於精準射擊，或是使用她的治療光束為生命值偏低的隊友提供瞬間的治療爆發。"
       ],
-      "content_hash": "c46ca6861198",
-      "prompt_version": "v5",
+      "content_hash": "15613884d4f6",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:15.751579Z"
+      "timestamp": "2026-03-20T13:14:42.086963Z"
     },
     "3.1.3": {
       "title": "擊退位移技能",
       "description": "",
       "content": [
-        "擁有能同時控場（CC）敵人並調整自身位置能力的英雄，在面對近距離敵人時具有優勢。伊拉里（Illari）可以使用湧出（Outburst）進行快速的垂直或水平位移，也可以用來將敵人擊退（boop）出有利位置。伊拉里需要與敵人保持距離，以發揮她遠程攻擊的威力，因此湧出（Outburst）是維持這種距離的絕佳工具。"
+        "Heroes with the ability to simultaneously CC their enemy and reposition themselves possess an advantage against close-range enemies. Outburst can be used for quick vertical or horizontal movement for ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari, or can be used to boop away the enemy out of position. ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari wants to maintain distance from her enemies to take advantage of her ranged power, so Outburst is a great tool to keep that distance."
       ],
-      "content_hash": "0bfa2f968047",
-      "prompt_version": "v5",
+      "content_hash": "7a6516b00ad6",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:17.600103Z"
+      "timestamp": "2026-03-20T13:14:44.013276Z"
     },
     "3.2.1": {
       "title": "近距離表現不佳",
       "description": "",
       "content": [
-        "當伊拉里（Illari）與傾向於在近距離對抗敵方隊伍的隊友搭配時，她可能會難以跟上節奏。治療塔（Healing Pylon）的優勢在於隊伍能長時間固守陣地並保持在治療範圍內。此外，她較慢的射擊頻率也讓她在近距離決鬥時面臨極大挑戰，通常會處於劣勢。"
+        "當隊友傾向於與敵方隊伍進行近距離交戰時，![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）可能會難以跟上節奏。![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）適合隊伍長時間固守陣地並保持在其範圍內的戰術。此外，她緩慢的射擊頻率也讓近距離對決變得極具挑戰性，通常會使她處於劣勢。"
       ],
-      "content_hash": "6a8d1167c722",
-      "prompt_version": "v5",
+      "content_hash": "14040ab1788f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:19.476714Z"
+      "timestamp": "2026-03-20T13:14:45.475949Z"
     },
     "3.2.2": {
       "title": "有限的治療能力",
       "description": "",
       "content": [
-        "治療塔（Healing Pylon）總生命值僅有 125 點，一旦被發現就很容易被摧毀。當敵人摧毀治療塔時，其冷卻時間會加倍至 14 秒。對於她的隊伍來說，這段時間若只能單靠太陽步槍（Solar Rifle）的治療將會非常吃力。即便治療塔運作中，她也只能治療單一目標，且太陽步槍（Solar Rifle）的治療資源也非常有限。"
+        "![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）的總生命值僅有 125 點，一旦被發現便很容易被摧毀。當敵人摧毀治療塔時，其冷卻時間會加倍至 14 秒。對於她的隊伍來說，這段時間若只能單靠太陽步槍（Solar Rifle）的治療將會非常吃力。即便治療塔運作中，她也只能治療單一目標，且太陽步槍（Solar Rifle）的治療資源非常有限。"
       ],
-      "content_hash": "8b1fb53281b5",
-      "prompt_version": "v5",
+      "content_hash": "b071afbde456",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:21.793655Z"
+      "timestamp": "2026-03-20T13:14:47.143184Z"
     },
     "3.2.3": {
-      "title": "容易被反制的絕招",
+      "title": "絕招容易被反制",
       "description": "",
       "content": [
-        "「受困之日（Captive Sun）」有時會讓人覺得是足以扭轉戰局的強大絕招，有時卻又顯得毫無用處。首先，伊拉里（Illari）的語音會提示所有人她正在施放絕招，接著她會以不算太快、容易追蹤的速度飛向空中。最後，她只有 5 秒的時間可以發射投射物。在這段期間內，敵人有足夠的時間準備反制手段，從防禦矩陣（Defense Matrix）到保護鈴（Protection Suzu），甚至是簡單的相位能力來進行自我淨化，應對方式多種多樣。"
+        "![](/data/assets/guide/b00bbcb63e12ae6d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcaptive-sun.png)伊拉里（Illari）的「太陽衝擊（Captive Sun）」有時會讓人覺得是足以扭轉戰局的強力絕招，但有時卻又顯得毫無用處。首先，伊拉里（Illari）的語音會提示所有人她正在施放絕招，接著她會以不算太快、容易追蹤的速度飛向空中。最後，她只有 5 秒的時間可以發射拋射物。在這段期間內，敵人可以準備各種反制手段，從 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）到 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu），甚至是簡單的相位能力來自我淨化。"
       ],
-      "content_hash": "c5bd66b0c6b9",
-      "prompt_version": "v5",
+      "content_hash": "7d0a2b95c586",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:23.818663Z"
+      "timestamp": "2026-03-20T13:14:48.797338Z"
     },
     "4.1": {
       "title": "主要攻擊：太陽步槍（Solar Rifle）",
       "description": "",
       "content": [
-        "**太陽步槍（Solar Rifle）的技巧**",
-        "* 優先採取攻勢",
-        "* 選擇伊拉里（Illari）而非其他支援角色的目的，在於利用她的射程與遠程消耗傷害。盡可能將時間花在利用主要攻擊對敵方隊伍進行攻擊。",
+        "**![](/data/assets/guide/bb101b26b726fd3d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsolar-rifle.png)太陽步槍（Solar Rifle）的使用技巧**",
+        "* 優先採取進攻",
+        "* 選擇使用 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里 而非其他輔助角色的目的，在於利用她的射程與遠程消耗傷害。請盡可能花時間使用主要攻擊來攻擊敵方隊伍。",
         "* 左右探頭（Jiggle Peek）",
-        "* 蓄力至最大傷害需要一秒多一點的時間。在射擊間隔時躲回掩體後方，並在即將射擊前探出身體以瞄準目標，射擊後立即退回掩體。",
-        "* 對於伊拉里（Illari）來說，左右探頭（Jiggle Peek）對於在最大化攻擊時間的同時，將受到的傷害降至最低至關重要。",
+        "* 蓄滿一次射擊需要超過一秒的時間。在兩次射擊之間，請躲回掩體後方，並在即將射擊前探頭出來瞄準，射擊後立即退回掩體。",
+        "* 左右探頭對於 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里 來說至關重要，能將受到的傷害降至最低，同時最大化她的攻擊時間。",
         "* 蓄力與彈藥管理",
-        "* 與溫斯頓（Winston）或札莉雅（Zarya）的次要攻擊等其他蓄力技能不同，伊拉里（Illari）的蓄力並不會影響她的彈藥消耗。",
-        "* 若要最大化傷害輸出，請確保每一發射擊都達到完全蓄力。",
+        "* 與其他蓄力技能（例如 ![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓 或 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅 的次要攻擊）不同，伊拉里的蓄力不會影響她的彈藥消耗。",
+        "* 為了最大化傷害輸出，請確保每一發射擊都蓄滿。",
         "* 擊殺門檻（Break points）",
         "* 在 30 公尺射程內，需要 2 發爆頭加上 1 發身體射擊，才能擊殺 250 點生命值與 275 點生命值的英雄。"
       ],
-      "content_hash": "8b64dc80479c",
-      "prompt_version": "v5",
+      "content_hash": "c4462f5a2ab6",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:26.715248Z"
+      "timestamp": "2026-03-20T13:14:51.144434Z"
     },
     "4.2": {
       "title": "次要攻擊：太陽步槍（治療光束）",
       "description": "",
       "content": [
-        "**太陽步槍（Solar Rifle）的技巧**",
+        "![](/data/assets/guide/bb101b26b726fd3d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsolar-rifle.png)太陽步槍的使用技巧",
         "* 資源管理",
-        "* * 盡量不要讓太陽能量（Solar Energy）資源完全耗盡，因為這會導致額外 3.36 秒的冷卻時間，之後才能再次使用該技能。",
-        "* 治療量足夠讓盟友不至於陣亡即可，接著暫停一下，讓資源恢復，以便進行下一波爆發治療。",
+        "* 盡量不要讓太陽能量資源完全耗盡，因為這會導致額外 3.36 秒的冷卻時間，之後才能再次使用該能力。",
+        "* 進行足夠的治療以防止隊友死亡，然後暫停一下，讓資源恢復以進行下一波爆發治療。",
         "* 爆發治療",
-        "* * 在所有輔助英雄中，伊拉里（Illari）在不使用絕招的情況下擁有最高的每秒治療量。她受限於治療光束與治療塔（Pylon）的空窗期，且沒有範圍治療能力。",
-        "* 通常來說，伊拉里會希望另一位輔助英雄負責維持坦克（Tank）的血量，因為她的爆發治療在輸出（DPS）與輔助英雄身上能發揮更高的價值。"
+        "* 在所有輔助英雄中，![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里的每秒治療量在絕招之外是最高的。她的限制在於治療光束與治療塔的空窗期，以及缺乏範圍治療能力。",
+        "* 通常，![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里會希望另一位輔助英雄負責維持坦克生命值，因為她的爆發治療在輸出位與輔助位身上能發揮更高的價值。"
       ],
-      "content_hash": "fe3c532e9bf3",
-      "prompt_version": "v5",
+      "content_hash": "84568b4ddfe1",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:28.460022Z"
+      "timestamp": "2026-03-20T13:14:53.475807Z"
     },
     "4.3": {
-      "title": "[E]：治療塔（Healing Pylon）：部署一座能治療盟友的塔",
+      "title": "[E]：治療塔（Healing Pylon）：部署一座治療盟友的塔",
       "description": "",
       "content": [
-        "**治療塔（Healing Pylon）的使用技巧**",
+        "![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）的使用技巧",
         "* 啟用側襲",
-        "* * 只要伊拉里（Illari）搭配另一位能維持隊伍生存的支援型英雄（例如巴帝斯特（Baptiste）），她就能獨自進行側襲，並利用治療塔（Healing Pylon）維持自身血量，同時為敵人製造多個難以防守的攻擊角度。",
-        "* 治療塔（Healing Pylon）目標鎖定",
-        "* * 治療塔（Healing Pylon）的光束會自動鎖定範圍內生命值最低的盟友。",
-        "* 隱藏治療塔（Healing Pylon）",
-        "* * 通常情況下，治療塔（Healing Pylon）在部署後即開始計算 7 秒的非戰鬥冷卻時間。然而，如果它受到傷害或被摧毀，冷卻時間會加倍至 14 秒。",
-        "* 因此，將治療塔（Healing Pylon）放置在敵方視線（LoS）之外，且讓敵人難以瞄準的位置至關重要。"
+        "* 只要她與另一位能維持隊伍生存的支援型英雄（例如巴帝斯特）搭配，![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）就能獨自進行側襲，並利用![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）維持自身血量，同時為敵人製造多個難以防守的進攻角度。",
+        "* 治療塔目標鎖定",
+        "* 治療塔的光束會自動鎖定範圍內生命值最低的盟友。",
+        "* 隱藏治療塔",
+        "* 一般來說，![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）在部署後，非戰鬥冷卻時間為 7 秒。然而，如果它受到傷害或被摧毀，冷卻時間會加倍至 14 秒。",
+        "* 因此，將治療塔放置在敵方視野（LoS）之外，且讓敵人難以瞄準的位置至關重要。"
       ],
-      "content_hash": "cd3d3692352a",
-      "prompt_version": "v5",
+      "content_hash": "88f137705ec4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:30.914439Z"
+      "timestamp": "2026-03-20T13:14:55.766622Z"
     },
     "4.4": {
       "title": "[SHIFT]：爆發（Outburst）",
       "description": "",
       "content": [
-        "**爆發（Outburst）的使用技巧**",
+        "**![](/data/assets/guide/c1bc9ef3f3c3f8dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foutburst.png)爆發（Outburst）的使用技巧**",
         "* 逃生工具",
-        "* 伊拉里的理想戰鬥距離約為 20-30 公尺。大多數敵人越靠近她，優勢就越大。爆發（Outburst）能幫助伊拉里將敵人推開，以便她進行擊殺或逃脫。",
-        "* 面對側襲者（Flanker）和突進型敵人時，請務必將爆發（Outburst）保留作為防禦性的逃生手段，避免將其用於進攻。否則，你很容易被抓到並遭到擊殺。",
-        "* 如何控制爆發（Outburst）的移動",
-        "* 長按 SHIFT 能讓伊拉里獲得更高的垂直高度。",
-        "* 輕點 SHIFT 能讓伊拉里獲得更快的水平移動速度。",
-        "* 兔子跳（Bunny hop）：在不跳躍的情況下，輕點 SHIFT，然後在落地前按住跳躍鍵，即可將慣性向前延伸。",
-        "* 最高垂直移動：在原地（無方向輸入）狀態下，跳躍（按住），啟動爆發（Outburst），並持續按住跳躍鍵。"
+        "* ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）的理想戰鬥距離約為 20-30 公尺。大多數敵人離她越近，優勢就越大。![](/data/assets/guide/c1bc9ef3f3c3f8dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foutburst.png)爆發（Outburst）能幫助伊拉里（Illari）將敵人推開，以便她進行擊殺或逃脫。",
+        "* 面對側襲者（Flanker）和突進型敵人時，請務必保留爆發（Outburst）作為防禦性逃生手段，避免將其用於進攻。否則，你將會被困住並輕易遭到擊殺。",
+        "* 如何控制爆發（Outburst）的位移",
+        "* 長按 SHIFT 會給予 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）更高的垂直高度。",
+        "* 輕點 SHIFT 會給予 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）更快的水平移動速度。",
+        "* 兔跳（Bunny hop）：在不跳躍的情況下，輕點 SHIFT，然後在落地前按住跳躍鍵，即可將動能向前延伸。",
+        "* 最高垂直位移：從靜止狀態（無方向輸入）開始，跳躍（按住），啟動 ![](/data/assets/guide/c1bc9ef3f3c3f8dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foutburst.png)爆發（Outburst），並持續按住跳躍鍵。"
       ],
-      "content_hash": "d9a40397b522",
-      "prompt_version": "v5",
+      "content_hash": "f26aed38fd53",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:33.256678Z"
+      "timestamp": "2026-03-20T13:14:58.007915Z"
     },
     "4.5": {
-      "title": "絕招：禁錮之日（Captive Sun）",
+      "title": "絕招：禁錮烈陽",
       "description": "",
       "content": [
-        "**禁錮之日（Captive Sun）的使用技巧**",
-        "* 何時「不」該使用禁錮之日（Captive Sun）",
-        "* * 盡量避免在戰鬥剛開始時使用，因為敵方隊伍通常有足夠的資源來存活下來。",
+        "**![](/data/assets/guide/b00bbcb63e12ae6d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcaptive-sun.png)禁錮烈陽的使用技巧**",
+        "* 何時「不」該使用禁錮烈陽",
+        "* 盡量避免在戰鬥剛開始時使用，因為敵方隊伍通常有足夠的資源來存活下來。",
         "* 當你近期沒看過敵方使用反制技能時，請勿使用。",
-        "* * 例如：像 D.Va 這種敵人還有推進器和防禦矩陣（DM）可用，或是霧子（Kiriko）還有保護鈴（Protection Suzu）可以淨化。",
-        "* 何時該使用禁錮之日（Captive Sun）",
-        "* * 當你的隊友已經深入敵陣並威脅到敵方後排時。當他們處於進攻位置時，觸發日蝕（Sunstruck）的機率會更高。",
-        "* 在雙方隊伍都已經投入資源、輔助技能和防禦型絕招之後。",
-        "* 觸發日蝕（Sunstruck）",
-        "* * 兩次身體射擊或一次爆頭射擊即可觸發日蝕（Sunstruck）。",
-        "* 隊伍中任何人累積造成 90 點傷害即可觸發該效果。",
+        "* 例如：敵方的 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 還有推進器和防禦矩陣（Defense Matrix）可用，或是 ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)Kiriko 還有 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)保護鈴（Protection Suzu）可以進行淨化。",
+        "* 何時該使用禁錮烈陽",
+        "* 當你的隊友已經深入敵陣並威脅到敵方後排時。當他們處於進攻位置時，觸發「烈陽打擊（Sunstruck）」的機率會更高。",
+        "* 在雙方隊伍都已經開始投入資源、輔助冷卻技能和防禦型絕招之後。",
+        "* 觸發「烈陽打擊（Sunstruck）」",
+        "* 兩發身體射擊或一發爆頭射擊即可觸發「烈陽打擊（Sunstruck）」。",
+        "* 隊伍中任何人累計造成 90 點傷害即可觸發該效果。",
         "* 如何在自己的絕招中存活",
-        "* * 在飛行階段利用環境掩體，避免被敵方的即時命中（hitscan）英雄從空中擊落。",
-        "* 規劃你的撤退路線。發射投射物後，務必尋找一個既能保持強勢又能確保安全的位置著陸，以便在緩速效果期間觸發日蝕（Sunstruck）的爆炸。"
+        "* 在飛行階段利用環境掩體，避免被敵方的即時命中（hitscan）英雄從空中擊落。",
+        "* 規劃你的撤退路徑。在發射投射物後，務必尋找一個既強勢又安全的地點降落，以便在緩速效果期間引爆「烈陽打擊（Sunstruck）」。"
       ],
-      "content_hash": "aec7c5182c4f",
-      "prompt_version": "v5",
+      "content_hash": "fbe2b469800a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:37.873367Z"
+      "timestamp": "2026-03-20T13:15:00.939611Z"
     },
     "5.1.1": {
-      "title": "快速建造（Rapid Construction）",
+      "title": "快速建造",
       "description": "治療塔（Healing Pylon）的建造速度提升 300%，且冷卻時間縮短 1.5 秒。",
       "content": [
         "* 提升治療塔（Healing Pylon）運作時間",
-        "* 如前所述，伊拉里（Illari）及其治療塔（Healing Pylon）最大的弱點在於使用間隔的空窗期過長。冷卻時間縮短在未受傷害而需替換治療塔（Healing Pylon）時效果更為顯著，但這項能力在任何情況下都很有幫助。",
-        "* 更能有效拯救隊友",
-        "* 較快的建造時間讓伊拉里（Illari）能夠在危險的隊友附近部署治療塔（Healing Pylon），並大幅縮短開始治療的時間。面對突襲陣容（dive comps）時，快速建造（Rapid Construction）是較佳的次要特殊能力（minor perks）。"
+        "* 如前所述，![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里與其 ![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）最大的弱點在於使用之間的空窗期過長。冷卻時間縮短在未受傷害而更換治療塔時效果更為顯著，但這項能力在任何情況下都很有幫助。",
+        "* 更有效地拯救隊友",
+        "* 更快的建造時間讓 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里能夠在危險的隊友附近部署 ![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon），並顯著加快開始治療的速度。面對突擊陣容時，快速建造是較佳的次要特殊能力（minor perks）。"
       ],
-      "content_hash": "292e48a34c68",
-      "prompt_version": "v5",
+      "content_hash": "c9db6e240054",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:39.851380Z"
+      "timestamp": "2026-03-20T13:15:03.300786Z"
     },
     "5.1.2": {
       "title": "夏至（Summer Solstice）",
@@ -244,156 +244,162 @@
         "* 當面對擁有許多太陽衝擊（Captive Sun）反制手段的隊伍陣容時，你應該選擇夏至（Summer Solstice）。"
       ],
       "content_hash": "369996b71d9e",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:41.522955Z"
+      "timestamp": "2026-03-20T13:15:04.910588Z"
     },
     "5.2.1": {
-      "title": "太陽閃焰（Solar Flare）",
-      "description": "在使用伊拉里的太陽步槍（Solar Rifle）治療光束時按下主要攻擊，可為伊拉里前方所有盟友恢復 100 點生命值。",
+      "title": "太陽耀斑（Solar Flare）",
+      "description": "在使用伊拉里（Illari）的太陽步槍（Solar Rifle）治療光束時按下主要攻擊，即可治療伊拉里（Illari）前方所有隊友 100 點生命值。",
       "content": [
-        "* 非常適合為伊拉里的技能組增添爆發性與範圍治療能力，這也是她維持續航力時的主要弱點之一。",
-        "* 只要能量資源尚未完全耗盡，即可啟動此技能。",
-        "* 推薦使用的特殊能力（Perk），除非敵方隊伍正針對你進行強勢的側襲（Dive）。"
+        "* 非常適合為 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）的技能組增加爆發與範圍治療，這正是她持續治療能力的主要弱點之一。",
+        "* 只要能量資源尚未完全耗盡，即可隨時啟動。",
+        "* 推薦使用的特殊能力（Perk），除非敵方隊伍正針對你進行強勢的側襲（Flanker）進攻。"
       ],
-      "content_hash": "e4f0fee30f60",
-      "prompt_version": "v5",
+      "content_hash": "9d38d47b3e55",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:43.448251Z"
+      "timestamp": "2026-03-20T13:15:06.645497Z"
     },
     "5.2.2": {
       "title": "曬傷（Sunburn）",
       "description": "爆發（Outburst）會點燃敵人，在 3 秒內額外造成 70 點傷害。",
       "content": [
-        "* 反側襲（Anti-dive）",
-        "* 爆發（Outburst）的主要優勢在於它能在伊拉里（Illari）與攻擊者之間拉開距離。持續性的額外傷害將有助於她在 1v1 的決鬥中勝出。",
-        "* 當你有治療塔（Healing Pylon）提供持續治療時效果最顯著，因為燃燒傷害僅約每秒 23 點，所以你需要存活夠久才能從中獲益。"
+        "* 反突擊",
+        "* 爆發（Outburst）的主要優勢在於它能拉開 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里與攻擊者之間的距離。持續性的額外傷害將有助於她贏得 1 對 1 的決鬥。",
+        "* 當你受到 ![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）的持續治療時效果最顯著，因為燃燒傷害僅約每秒 23 點，所以你需要存活夠久才能從中獲益。"
       ],
-      "content_hash": "ee4b87eeb735",
-      "prompt_version": "v5",
+      "content_hash": "3385ebc0d51b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:45.203785Z"
+      "timestamp": "2026-03-20T13:15:09.248571Z"
     },
     "6.1.1": {
       "title": "皇家賽道",
       "description": "",
       "content": [
-        "* 皇家賽道的每一個點位與區域，都擁有適合伊拉里（Illari）步槍發揮的完美視野。地圖中的大多數區域也設有掩體，讓伊拉里能將治療塔（Healing Pylon）放置在敵人難以摧毀的位置。在第一點防守時，高台橋樑區域非常適合伊拉里與其他消耗型英雄進行陣地部署。"
+        "* 皇家賽道的每一個點位與區域都擁有適合伊拉里（Illari）步槍的完美視野。地圖中的大多數區域也都設有適合 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）將 ![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）放置在掩體後方的位置，讓敵人難以摧毀。在防守第一點時，高台橋樑區域非常適合伊拉里（Illari）與其他消耗型英雄進行陣地部署。"
       ],
-      "content_hash": "0ef2051977d8",
-      "prompt_version": "v5",
+      "content_hash": "162c33440577",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:47.191766Z"
+      "timestamp": "2026-03-20T13:15:11.167482Z"
     },
     "6.1.2": {
       "title": "暴雪樂園",
       "description": "",
       "content": [
-        "* 暴雪樂園的前兩個據點為伊拉里（Illari）提供了多個角度，無論是在進攻還是防守時，都能利用掩體進行佈局。她在這些區域的傷害潛力讓敵方隊伍難以應對。此外，地圖上的每一處高地都可以透過爆發（Outburst）抵達，讓伊拉里（Illari）能夠隨心所欲地重新調整位置。"
+        "* 暴雪樂園的前兩個據點為伊拉里（Illari）提供了多個角度，無論是在進攻還是防守時，都能利用掩體進行佈局。她在這些區域的傷害潛力讓敵方隊伍極難應對。此外，這張地圖上的每一個高地都可以透過爆發（Outburst）到達，讓 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）能夠隨心所欲地重新調整位置。"
       ],
-      "content_hash": "0060b0edbdf5",
-      "prompt_version": "v5",
+      "content_hash": "8937f3943487",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:48.768581Z"
+      "timestamp": "2026-03-20T13:15:12.742760Z"
     },
     "6.1.3": {
       "title": "中城區",
       "description": "",
       "content": [
-        "* 伊拉里（Illari）在中城區（Midtown）總能發揮價值。地圖配置使得戰鬥幾乎總是發生在她的最佳射程內。在防守時，她有多種位置選擇來進行部署。而在進攻時，團戰通常會停留在相同的幾個地點，這讓她有機會不斷重新部署治療塔（Healing Pylon），使其保持在自己與隊友的範圍內。"
+        "* ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里在中城區總能發揮價值。地圖的配置使得戰鬥幾乎總是發生在她的最佳射程內。在防守時，她有多種位置選擇來進行部署。而在進攻時，團戰通常會停留在相同的幾個地點，這讓她有機會不斷重新部署![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon），使其保持在自己與隊友的範圍內。"
       ],
-      "content_hash": "d5f2b1f2f18d",
-      "prompt_version": "v5",
+      "content_hash": "5c82108462fb",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:50.624090Z"
+      "timestamp": "2026-03-20T13:15:14.792930Z"
     },
     "6.2.1": {
       "title": "捍衛者基地：直布羅陀",
       "description": "",
       "content": [
-        "* 在捍衛者基地：直布羅陀上，高處區域是非常強勢的點位，且高度過高，導致爆發（Outburst）無法觸及。機動陣容（Dive comps）通常會在這張地圖中佔據主導地位，而伊拉里並不適合與這類陣容搭配，且在面對優秀的機動陣容時，難以維持生存。"
+        "* 在捍衛者基地：直布羅陀上，高地區域是非常強勢的點位，且高度過高，導致爆發（Outburst）無法觸及。機動陣容（Dive comps）通常在這張地圖上佔據主導地位，而 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）並不適合搭配這類陣容，且在面對優秀的機動陣容時，難以維持生存。"
       ],
-      "content_hash": "00bacee88ab4",
-      "prompt_version": "v5",
+      "content_hash": "05acd8fa7b96",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:52.272698Z"
+      "timestamp": "2026-03-20T13:15:16.537230Z"
     },
     "6.2.2": {
       "title": "灕江天塔",
       "description": "",
       "content": [
-        "* 伊拉里（Illari）可以將自己和她的太陽能塔（Pylon）部署在控制點的外圍，但在這些位置上，她很難不被敵方包夾。灕江天塔（Lijiang Tower）的地形也較有利於近距離戰鬥與鬥毆型隊伍陣容，這使得伊拉里（Illari）在面對這類陣容時，難以維持隊友的生存。"
+        "* ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）可以將自己和她的太陽能塔（Pylon）部署在控制點的外圍，但在這些位置上，她很難不被敵方包夾。灕江天塔（Lijiang Tower）的地圖特性也偏向近距離戰鬥與鬥毆型隊伍陣容，這使得伊拉里（Illari）在面對這類陣容時，難以維持隊友的生存。"
       ],
-      "content_hash": "ebbd58903829",
-      "prompt_version": "v5",
+      "content_hash": "18d307498016",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:53.805445Z"
+      "timestamp": "2026-03-20T13:15:18.217238Z"
     },
     "6.2.3": {
       "title": "釜山",
       "description": "",
       "content": [
         "市中心",
-        "* 在控制點對面的地圖開放區域中，伊拉里的表現尚可。當戰鬥無可避免地轉移到目標區域時，伊拉里會難以找到一個既能讓自己生存，又能讓治療塔（Healing Pylon）發揮作用的有效位置。地圖上實在沒有適合放置治療塔的地方，既能治療隊友又不至於被輕易摧毀。"
+        "* ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）在控制點對面的地圖開放區域表現尚可。當戰鬥不可避免地轉移到目標區域時，伊拉里會很難為自己和她的治療塔（Healing Pylon）找到有效的站位。這裡實在沒有一個合適的地方可以放置治療塔（Healing Pylon），既能治療隊友又不至於被輕易摧毀。"
       ],
-      "content_hash": "73b1cb8cb010",
-      "prompt_version": "v5",
+      "content_hash": "f1aa585d6c98",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:55.642623Z"
+      "timestamp": "2026-03-20T13:15:20.223625Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "伊拉里（Illari）在以遠程傷害最大化為核心的「消耗型（poke）」隊伍陣容中表現最為出色，這類陣容的目標是在敵方隊伍有機會拉近距離前就將其擊潰。至於另一位輔助英雄，伊拉里適合搭配能專注於治療隊伍的隊友，這樣她就能更專注於輸出最大傷害。伊拉里在節奏快速、高機動性的隊伍（例如「機動型（dive）」陣容）中難以發揮價值。理想情況下，伊拉里可以放置治療塔（Healing Pylon），並與擁有強大遠程傷害的輸出（DPS）隊友一同集火敵人。",
+        "![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里在以遠程傷害輸出為核心的「消耗型（poke）」隊伍陣容中表現最為出色，這類陣容的目標是在敵方隊伍有機會拉近距離之前，就先將其擊潰。至於另一位輔助英雄，![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里適合搭配能專注於治療隊伍的隊友，這樣她就能更專注於輸出最大化傷害。![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里在節奏快速且高機動性的隊伍（例如「機動型（dive）」陣容）中難以發揮價值。理想情況下，![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里可以放置![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon），並與一名具備強大遠程傷害能力的輸出英雄一同射擊敵人。",
         "**以伊拉里為核心的理想陣容：**",
-        "* 席格馬、艾西、炸彈鼠、伊拉里、巴帝斯特"
+        "* ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬、![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西、![](/data/assets/guide/2b23a0f925f80146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunkrat.png)炸彈鼠、![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里、![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特"
       ],
-      "content_hash": "6ce9becb955d",
-      "prompt_version": "v5",
+      "content_hash": "6c2ece070d5a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:15:58.478510Z"
+      "timestamp": "2026-03-20T13:15:22.701713Z"
     },
     "7.1": {
-      "title": "與其他英雄的個人搭配",
+      "title": "與其他英雄的個人協同效應",
       "description": "",
       "content": [
-        "席格馬（Sigma）在大多數長距離與消耗型地圖中依然是最佳的坦克。由於他缺乏任何位移能力，伊拉里（Illari）可以輕鬆跟上他的腳步，並將治療塔（Healing Pylon）保持在有效範圍內。實驗屏障（Experimental Barrier）也能為伊拉里提供絕佳的掩護，抵擋敵方的消耗傷害。",
-        "艾西（Ashe）與伊拉里（Illari）的目標一致，且兩者的有效射程也相當。僅靠伊拉里與艾西在隊伍側翼創造出一個非正面交火的角度（off-angle），就能左右戰局，讓敵方隊伍無法閃避來自多個方向的猛烈火力。如果艾西必須與其他長距離英雄單挑，伊拉里能輸出極高的單體治療量，這將使你的艾西在對決中幾乎立於不敗之地。",
-        "高額的總治療量加上能與其單體治療互補的範圍治療（AoE healing），使巴帝斯特（Baptiste）與伊拉里（Illari）成為理想的組合。他們的技能組搭配得天衣無縫。伊拉里可以透過增幅矩陣（Amplification Matrix）以爆頭擊殺敵人，而巴帝斯特也能輕鬆補足 90 點傷害，觸發伊拉里絕招後的太陽擊中（Sunstruck）爆炸效果。此外，維生力場（Immortality Field）也有助於彌補伊拉里缺乏防禦技能的弱點。"
+        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬\n席格馬依然是大多數長距離與消耗型地圖中最優秀的戰士。他缺乏任何位移能力，因此![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)伊拉里很容易跟上他，並將[[__OWH_IMG_2__]]治療塔（Healing Pylon）保持在有效範圍內。實驗屏障（Experimental Barrier）也能為[[__OWH_IMG_3__]]伊拉里提供絕佳的掩護，抵擋來自敵方的消耗傷害。",
+        "Sigma remains the best tank for most long range and poke maps. He lacks any movement ability so it's easy for ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari to keep with him and keep![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)Healing Pylon within range. Experimental Barrier provides great cover against the enemy's poke damage for ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari as well.",
+        "![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)巴帝斯特\n高額的總治療量加上範圍治療，補足了她單體治療的特性，使![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)巴帝斯特與[[__OWH_IMG_2__]]伊拉里的組合成為理想搭檔。他們的整套技能組相輔相成。伊拉里可以透過增幅矩陣（Amplification Matrix）以爆頭擊殺敵人，而巴帝斯特能輕易造成 90 點傷害來觸發伊拉里絕招後的「日炙（Sunstruck）」爆炸效果。此外，不滅力場（Immortality Field）也有助於彌補[[__OWH_IMG_3__]]伊拉里缺乏防禦技能的弱點。",
+        "Ashe and ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari want to be doing the same thing at the same time. They also both have similar effective ranges. Creating an off-angle from the rest of your team with just Illari and Ashe can carry games and make it impossible for the enemy team to avoid the barrage of incoming damage from multiple angles. If Ashe is having to duel any other long range heroes, Illari outputs super high single target healing which will make it very difficult for your Ashe to lose the fight.",
+        "![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)Baptiste",
+        "High total healing output plus AoE healing to complement her single target healing make ![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)Baptiste + ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari an ideal duo. Their entire kits work well together. Illari deletes enemies with headshots through Amplification Matrix, and Baptiste can easily deal the 90 damage required to activate the Sunstruck explosion following Illari’s ult. Furthermore, Immortality Field helps make up for ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari's lack of defensive abilities."
       ],
-      "content_hash": "510819a4ad2a",
-      "prompt_version": "v5",
+      "content_hash": "a10d9f663fff",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:03.540509Z"
+      "timestamp": "2026-03-20T13:15:26.479679Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "當面對技術高超的伊拉里（Illari）玩家時，試著利用掩體來避開她的視野（LOS）。如果你能讓隊伍採取侵略性的打法，按住 W 鍵向前推進並壓制她的隊伍，這正是伊拉里（Illari）難以應對的情況。即使治療塔（Healing Pylon）沒有被摧毀，它也需要 6 秒的冷卻時間才能重新部署。如果你的隊伍能強迫對方離開治療塔（Healing Pylon）的範圍，這將為你們創造巨大的優勢。",
-        "盡量追蹤她次要攻擊治療光束（secondary fire healing beam）的使用狀況。如果你看到伊拉里（Illari）正在對隊友進行持續治療，你就知道她會有一小段時間無法提供任何治療，這就是你快速贏得會戰的機會。"
+        "當面對技術高超的 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里玩家時，試著利用掩體來避開她的視野（LOS）。如果你能讓隊伍採取激進的打法，向前推進並壓制對方的陣型，這正是 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里難以應對的情況。即使 ![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)治療塔（Healing Pylon）沒有被摧毀，它也需要 6 秒的冷卻時間才能重新部署。如果你的隊伍能迫使敵方離開治療塔的範圍，這將為你們創造巨大的優勢。",
+        "盡量追蹤她次要攻擊治療光束的使用狀況。如果你看到 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里正在對隊友進行持續治療，你就知道她會有一小段時間無法提供任何治療，這就是你快速贏得會戰的機會。"
       ],
-      "content_hash": "4588bc03fc32",
-      "prompt_version": "v5",
+      "content_hash": "3429be0bdb01",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:05.356623Z"
+      "timestamp": "2026-03-20T13:15:28.726805Z"
     },
     "8.1": {
       "title": "特定英雄剋制關係",
       "description": "",
       "content": [
-        "D.Va\n伊拉里整體來說很怕機動突擊。D.Va 的推進器（Booster）冷卻時間只有「太陽衝擊（Captive Sun）」的一半，這讓伊拉里幾乎不可能逃過 D.Va 的追擊。單是「防禦矩陣（Defense Matrix）」就是伊拉里最難應付的剋制手段，因為它能減免伊拉里所能造成的任何傷害。D.Va 也很容易剋制伊拉里的絕招，因為她可以飛行並利用防禦矩陣擋下伊拉里在任何地方施放的太陽衝擊。即便伊拉里成功命中太陽衝擊，防禦矩陣也能阻擋任何會觸發「日照（Sunstruck）」效果的傷害。",
-        "源氏\n一名優秀的源氏能讓伊拉里苦不堪言。他的機動性讓他能夠輕易找到位置並持續摧毀「治療塔（Healing Pylon）」。如果伊拉里像平常一樣與隊伍保持距離，源氏便能發動突擊，並憑藉高機動性與「招架（Deflect）」在 1v1 對決中佔據極大優勢；加上伊拉里的射擊頻率較慢，要擊中在他身邊跳躍的源氏更是難上加難。充能計時器也讓伊拉里的射擊變得更容易預測，進而更容易被招架。再加上他能將太陽衝擊招架回你們的隊伍，這對伊拉里來說絕對是一場硬仗。",
-        "霧子\n雖然穩定性稍差，但「苦無（Kunai）」憑藉高額爆頭傷害且沒有傷害衰減的特性，足以挑戰伊拉里的遠程輸出。如果伊拉里沒有刻意等待「保護鈴（Protection Suzu）」交出後再施放，那麼太陽衝擊將會完全無效，因為保護鈴能清除範圍內所有目標身上的減益效果。"
+        "![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va\n![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)伊拉里（Illari）整體上較為懼怕機動突擊。D.Va 的推進器（Boosters）冷卻時間僅為「太陽之擊（Captive Sun）」的一半，這使得伊拉里幾乎不可能逃過 D.Va 的追擊。單是防禦矩陣（Defense Matrix）就是對 [[__OWH_IMG_2__]]伊拉里最嚴重的剋制，因為它能減免伊拉里所能造成的任何傷害。D.Va 在反制伊拉里的絕招上也相當輕鬆，因為她可以飛行並利用防禦矩陣擋下伊拉里在任何位置施放的「太陽之擊」。即便 [[__OWH_IMG_3__]]伊拉里成功命中「太陽之擊」，防禦矩陣也能阻擋任何會觸發「日照（Sunstruck）」效果的傷害。",
+        "![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari is weak to dive in general. D.Va’s Booster cool down is half of Captive Sun making it virtually impossible to outrun D.Va. Defense Matrix alone is the hardest counter to ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari since it mitigates any damage Illari can deal. D.Va also has rather easy time countering Illari’s Ult since she can fly and Defense Matrix Captive Sun pretty much anywhere she shoots it. Even if ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari lands Captive Sun, Matrix can prevent any damage that would trigger Sunstruck.",
+        "![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)霧子\n雖然穩定性稍遜，但苦無（Kunai）憑藉高額爆頭傷害且無傷害衰減的特性，足以挑戰 ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)伊拉里的遠程輸出。如果 [[__OWH_IMG_2__]]伊拉里沒有刻意等待霧子交出保護鈴（Protection Suzu），那麼「太陽之擊」將變得毫無用處，因為保護鈴能清除範圍內所有隊友身上的負面效果。",
+        "A good Genji can ruin Illari’s day. His mobility allows him to position and consistently destroy Healing Pylon. If ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari is positioned with some distance from her team as she often will be, Genji dives her and is at a huge advantage in the 1v1 duel because of his high mobility, Deflect, and Illari’s slow rate of fire makes it even harder to hit Genji jumping all around her. The charge timer also makes Illari’s shots more predictable and thereby easier to Deflect. Top all that off with the fact that he can Deflect Captive Sun back to your team and ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari has her work cut out for her.",
+        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)Kiriko",
+        "Although not as consistent, Kunai can challenge ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari's ranged damage because of its high headshot damage and lack of fall off damage. If ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari doesn’t purposely wait for Protection Suzu to be used, Captive Sun becomes completely useless since it cleanses everyone in the AoE of the debuff."
       ],
-      "content_hash": "7380c8486e6d",
-      "prompt_version": "v5",
+      "content_hash": "0fe5148d48f0",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:09.369020Z"
+      "timestamp": "2026-03-20T13:15:32.973350Z"
     },
     "8.2": {
-      "title": "特定英雄剋星名稱",
+      "title": "特定英雄反制名稱",
       "description": "",
       "content": [
         "* D.Va",
@@ -401,14 +407,14 @@
         "* 霧子"
       ],
       "content_hash": "ae554eefde17",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:10.646682Z"
+      "timestamp": "2026-03-20T13:15:34.158581Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.491458Z"
+    "timestamp": "2026-03-20T13:14:30.414430Z"
   }
 }

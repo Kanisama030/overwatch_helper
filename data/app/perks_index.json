@@ -2073,21 +2073,6 @@
     "major": [
       {
         "id": "5.2.1",
-        "title": "Frost Arrow",
-        "content": [
-          "* AoE effect, hitting a surface also triggers the explosion and will inflict slow on nearby enemies.",
-          "* Can be used during Storm Arrow, but not with Sonic Arrow.",
-          "* Try aiming at your target's feet to either get an easy body shot or floor explosion. Then, go for a headshot while they are slowed",
-          "* * Especially effective in combination with Dragon Furty."
-        ],
-        "recommended_flag": false,
-        "recommended_reason": null,
-        "name": "Frost Arrow",
-        "description": "Press Reload to ready an explosive frost arrow that slows enemies by 35% for 3 seconds.",
-        "image": "/data/assets/perks/hanzo_major_frost-arrow.png"
-      },
-      {
-        "id": "5.2.2",
         "title": "Scatter Arrows",
         "content": [
           "* In theory, you can get some cheeky KOs against retreating enemies inside rooms or around corners, but it’s too niche to be worth taking in any scenario over Frost Arrow."
@@ -2097,6 +2082,16 @@
         "name": "Scatter Arrows",
         "description": "On first ricochet, Storm Arrows split into 5 shots dealing 33% damage and bounce 1 extra time.",
         "image": "/data/assets/perks/hanzo_major_scatter-arrows.png"
+      },
+      {
+        "id": "5.2.2",
+        "title": "Frost Arrow",
+        "content": [],
+        "recommended_flag": false,
+        "recommended_reason": null,
+        "name": "Frost Arrow",
+        "description": "Press Reload to ready an explosive frost arrow that slows enemies by 35% for 3 seconds.",
+        "image": "/data/assets/perks/hanzo_major_frost-arrow.png"
       }
     ]
   },
@@ -2394,7 +2389,7 @@
         "title": "Widow's Bite",
         "content": [
           "no guide provided",
-          "perk: Widow’s Bite"
+          "perk: Widow's Bite"
         ],
         "recommended_flag": false,
         "recommended_reason": null,

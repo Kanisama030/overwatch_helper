@@ -6,40 +6,40 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "織命利用賦予生命的療癒之光與植物物質，為隊友治療傷口。其主要治療手段具備鎖定機制，這使得織命對於新手與資深玩家來說都是一位非常容易上手的英雄。",
-        "由於擁有極具防禦性的技能組，織命從不希望成為隊伍中第一個發起進攻的人；他更傾向於待在後方，以便隨時留意隊友狀況並在需要時提供協助。花瓣平台（Petal Platform）與生命之握（Life Grip）的冷卻時間比大多數輔助技能更長，但它們在拯救戰局方面的潛力足以彌補其較低的施放頻率。",
-        "當你想專注於治療並拯救隊友時，織命是一個絕佳的選擇。他的技能組能實現獨特的站位策略，因為他能將隊伍移動到其他任何輔助英雄都無法到達的位置。"
+        "Using the power of life-giving light and plant matter, ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)Lifeweaver heals the wounds of his allies. The lock-on mechanic of his primary healing makes ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)Lifeweaver a very accessible hero for new and experienced players alike.",
+        "With a very defensive kit, Lifeweaver never wants to be the first on his team to advance, he prefers staying in the back where he can keep an eye on his allies and assist wherever needed. ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)Petal Platform and Life Grip are on longer cooldowns than most Support abilities, but their game-saving potential makes up for their low deploy frequency.",
+        "![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)Lifeweaver is an excellent choice whenever you want to focus on healing and saving your teammates. His kit enables unique positional strategies since he can move his team to places no other Support can."
       ],
-      "content_hash": "e92104f4cf51",
-      "prompt_version": "v5",
+      "content_hash": "92ca5256880d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:11.988660Z"
+      "timestamp": "2026-03-20T13:23:44.836366Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 利用掩體。癒療花（Healing Blossom）的蓄力與鎖定特性，讓織命比大多數支援角更能妥善利用掩體進行站位。蓄力時保持在掩體後方，僅在發射投射物時探頭。",
-        "* 當一般的治療無法拯救隊友時，請使用生命之握（Life Grip）。",
-        "* 使用花瓣平台（Petal Platform）讓自己以及缺乏垂直機動性的隊友能夠登上高處。"
+        "* Play corners. The charging and lock-on qualities of Healing Blossom enable ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)Lifeweaver to position near cover better than most Supports. Stay covered when charging, and peek only when firing the projectile.",
+        "* 當隊友無法透過一般治療存活時，請使用生命之握（Life Grip）將其拉回。",
+        "* Use ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)Petal Platform to give yourself and allies without vertical mobility access to high ground."
       ],
-      "content_hash": "b0c414f45fc7",
-      "prompt_version": "v5",
+      "content_hash": "d50313e04248",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:13.554446Z"
+      "timestamp": "2026-03-20T13:23:46.687892Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 將你的潛水（Dives）與側襲（Flanks）目標鎖定在織命（Lifeweaver）身上。他本身不會對你造成擊殺威脅，因此你唯一的阻礙就是他隊友提供的保護。",
-        "* 將你最強的冷卻技能留到「生命之握（Life Grip）」使用過後再施放。一旦你看到有人被拉走，你將有一段很長的空窗期可以進行攻擊，此時你的目標將無法再透過「生命之握（Life Grip）」獲得救援。",
-        "* 選擇一名具備垂直機動性的英雄。如果當織命（Lifeweaver）使用「花瓣平台（Petal Platform）」時你無法垂直追擊他，他將能輕易地避開你的攻擊。"
+        "* 將你的突襲與側襲目標集中在 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命 身上。他本身不會對你造成擊殺威脅，因此你唯一的阻礙就是他隊友提供的保護。",
+        "* 將你最強的冷卻技能留到「生命之握（Life Grip）」使用過後再施放。一旦看到有人被拉走，你將有一段很長的空窗期可以發動攻擊，此時你的目標將無法再透過「生命之握（Life Grip）」獲救。",
+        "* 選擇一名具備垂直機動性的英雄。如果無法在 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命 使用 ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)花瓣平台（Petal Platform）時進行垂直追擊，他將能輕易地避開你的攻擊。"
       ],
-      "content_hash": "d928c0c8b70f",
-      "prompt_version": "v5",
+      "content_hash": "116a40cbda57",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:15.806807Z"
+      "timestamp": "2026-03-20T13:23:48.733711Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -53,312 +53,312 @@
         "* 難以主動發起攻勢（Struggles to be proactive）"
       ],
       "content_hash": "f013861aaf7a",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:17.456601Z"
+      "timestamp": "2026-03-20T13:23:50.375597Z"
     },
     "3.1.1": {
       "title": "鎖定治療",
       "description": "",
       "content": [
-        "當隊伍中有高機動性的隊友時，織命的鎖定式主要攻擊能大幅提升隊友獲得治療的穩定性。此外，你不需要過度專注於瞄準，因此能將更多注意力放在英雄的站位與戰略規劃上。"
+        "當與高機動性的隊友一同遊玩時，![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命的鎖定式主要攻擊對於確保隊友能穩定獲得治療有著巨大的影響。此外，你不需要過於專注在瞄準上，可以將更多注意力放在英雄的站位與戰略規劃。"
       ],
-      "content_hash": "8ccc55a749f2",
-      "prompt_version": "v5",
+      "content_hash": "b69c0ba25bb0",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:18.828625Z"
+      "timestamp": "2026-03-20T13:23:52.035178Z"
     },
     "3.1.2": {
       "title": "隊伍垂直機動性",
       "description": "",
       "content": [
-        "花瓣平台（Petal Platform）擁有獨特的能力，能為那些原本無法抵達高處的英雄提供垂直移動的途徑。它可以在短時間內多次使用，因此任何有需要的隊友都能在平台放置後啟動它。甚至將敵人升起也能成為你隊伍贏得會戰所需的干擾手段。"
+        "![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)織命的「花瓣平台（Petal Platform）」擁有獨特的能力，能為那些原本無法抵達高處的英雄提供垂直移動的途徑。此技能可以連續多次使用，因此任何有需要的隊友都能在平台放置後啟動它。即使是將敵人升起，也可能成為隊伍贏得會戰所需的干擾手段。"
       ],
-      "content_hash": "552a19337834",
-      "prompt_version": "v5",
+      "content_hash": "ed4fec1d3c81",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:20.564337Z"
+      "timestamp": "2026-03-20T13:23:54.088842Z"
     },
     "3.1.3": {
       "title": "即時救援",
       "description": "",
       "content": [
-        "織命（Lifeweaver）的「生命之握（Life Grip）」是即時救援隊友最簡單的方式。在將隊友從死亡邊緣拉回這方面，沒有任何其他支援角色的技能擁有像「生命之握（Life Grip）」這樣的高易用性與穩定性。"
+        "織命（Lifeweaver）的「生命之握（Life Grip）」是即時救援隊友最簡單的方式。在將隊友從死亡邊緣拉回這方面，沒有任何其他輔助角色的技能具備像「生命之握（Life Grip）」這樣的高易用性與穩定性。"
       ],
       "content_hash": "77a0c2d5e8b4",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:22.114605Z"
+      "timestamp": "2026-03-20T13:23:55.634832Z"
     },
     "3.2.1": {
-      "title": "難以應對側襲者（Weak against dive）",
+      "title": "難以應對側襲",
       "description": "",
       "content": [
-        "當一支隊伍使用側襲者（Dive）陣容時，若發現敵方陣容中有織命（Lifeweaver），他們會將其視為每一波會戰中免費的擊殺目標。直接突擊織命並不會對敵方構成任何直接威脅，因為他主要依靠閃避與隊友的掩護（Peel）來生存。"
+        "當一支隊伍使用側襲陣容（dive comp）並發現敵方陣容中有 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命時，他們會將其視為每一場會戰中都能輕鬆擊殺的目標。直接進攻織命並不會對敵方構成直接威脅，因為他主要依賴閃避和隊友的保護（peel）來生存。"
       ],
-      "content_hash": "aa2b31e4e2d0",
-      "prompt_version": "v5",
+      "content_hash": "e81ebdae17d5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:23.989085Z"
+      "timestamp": "2026-03-20T13:23:57.261106Z"
     },
     "3.2.2": {
       "title": "單體目標技能",
       "description": "",
       "content": [
-        "除了生命之樹（Tree of Life）之外，他所有的冷卻技能皆為單體目標導向的技能。他一次只能治療一名隊友，且生命之握（Life Grip）的長冷卻時間通常意味著在每場會戰中，只能拯救一名隊友。"
+        "除了生命之樹（Tree of Life）之外，他所有的冷卻技能皆為專注於單體目標的技能。他一次只能治療一名隊友，且生命之握（Life Grip）的長冷卻時間通常意味著在每場會戰中，只能救下一名隊友。"
       ],
       "content_hash": "38ea0b3dddaa",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:25.330887Z"
+      "timestamp": "2026-03-20T13:23:58.735918Z"
     },
     "3.2.3": {
       "title": "難以採取主動",
       "description": "",
       "content": [
-        "織命（Lifeweaver）的技能組非常依賴反應。為了發揮他技能的最大價值，他必須等待對手採取行動，並試圖進行反制。雖然你可以發揮創意，但他缺乏其他輔助英雄所具備的戰術發起能力。如果你的隊伍無法主動創造優勢，織命（Lifeweaver）就很難強行帶領隊伍取得勝利。"
+        "![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命（Lifeweaver）的技能組非常偏向反應型。為了發揮他技能的最大價值，他必須等待對手採取行動並試圖進行反制。雖然你可以發揮創意，但他缺乏其他輔助型英雄所擁有的創造戰局潛力。如果你的隊伍無法主導戰局，織命（Lifeweaver）將難以強行扭轉勝負。"
       ],
-      "content_hash": "93042ca8e5f8",
-      "prompt_version": "v5",
+      "content_hash": "a1004f10893a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:26.887319Z"
+      "timestamp": "2026-03-20T13:24:00.622317Z"
     },
     "4.1": {
       "title": "主要攻擊：治療之花（Healing Blossom）",
       "description": "",
       "content": [
-        "**治療之花（Healing Blossom）的技巧**",
+        "![](/data/assets/guide/fbf6e063631b500d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-blossom.png)治療之花（Healing Blossom）的使用技巧",
         "* 盡量蓄力至全滿",
-        "* * 總體而言，讓每一發治療之花（Healing Blossom）都蓄力至全滿，會比發射更多低蓄力值的投射物能提供更多的治療量。",
+        "* * 總體而言，讓每一發 ![](/data/assets/guide/fbf6e063631b500d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-blossom.png)治療之花（Healing Blossom）都蓄力至全滿，會比發射更多低蓄力值的投射物能產生更多的治療量。",
         "* 釋放前至少達到 80% 的蓄力。",
-        "* 左右探頭（Jiggle peek）",
-        "* * 在每次蓄力之間，你應該利用轉角或其他掩體進行左右探頭（Jiggle peek）。不要只是站在空曠處，在可以安全治療隊友的情況下，避免讓自己暴露在危險之中。",
-        "* 優先照顧體型小且移動快速的盟友",
-        "* * 當與另一位需要瞄準才能進行治療的輔助英雄搭檔時，你可以透過專注於那些較難被擊中的英雄（例如源氏（Genji））來協助他們。",
+        "* 左右橫移探頭（Jiggle peek）",
+        "* * 在每次蓄力之間，你應該利用轉角或其他掩體進行左右橫移探頭。不要只是站在空曠處讓自己暴露在危險之中，而應該在安全的位置治療你的隊伍。",
+        "* 優先照顧體型嬌小且移動快速的隊友",
+        "* * 當隊伍中有另一位需要瞄準才能進行治療的輔助時，你可以透過專注於那些較難擊中的英雄（例如 ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏）來協助他們。",
         "* 設定",
-        "* * 在英雄設定中，你可以選擇將治療之花（Healing Blossom）設定為「切換」或「按住」。",
-        "* 預設為「按住」，但有些玩家不喜歡一直按著按鈕。請嘗試看看哪種方式更適合你。"
+        "* * 在英雄設定中，你可以選擇將 ![](/data/assets/guide/fbf6e063631b500d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-blossom.png)治療之花（Healing Blossom）設定為「切換」或「按住」模式。",
+        "* 預設為「按住」，但有些玩家不喜歡一直按著按鍵。建議嘗試看看哪種方式更適合你。"
       ],
-      "content_hash": "f847174ea0a6",
-      "prompt_version": "v5",
+      "content_hash": "b8d93bf93a2c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:29.548566Z"
+      "timestamp": "2026-03-20T13:24:03.527272Z"
     },
     "4.2": {
-      "title": "次要攻擊：荊棘箭雨（Thorn Volley）",
+      "title": "次要攻擊：荊棘連射（Thorn Volley）",
       "description": "",
       "content": [
-        "**荊棘箭雨（Thorn Volley）的使用技巧**",
+        "關於 ![](/data/assets/guide/268ca50e0a721b53.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fthorn-volley.png)荊棘連射（Thorn Volley）的提示",
         "* 專注於治療",
-        "* 織命（Lifeweaver）是那種你會想要當作「補血機器」來玩的輔助英雄。平均來說，你的治療所帶來的價值高於你的傷害輸出。",
+        "* * ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命（Lifeweaver）是那種你會想要以治療為主的輔助英雄。平均來說，你的治療所帶來的價值高於你的傷害。",
         "* 自我防衛",
-        "* 預期自己會經常遭到敵方側襲。在這些時刻，保持自身存活並與敵人交戰，比無視敵人而去治療隊友來得更重要。",
-        "* 遠程消耗壓力",
-        "* 荊棘箭雨（Thorn Volley）的彈道擴散與投射物速度表現並不理想，但它沒有傷害衰減。在戰鬥的消耗階段，若你的隊伍不需要你持續進行治療，你將能騰出更多時間切換為輸出模式。"
+        "* * 預期自己會經常遭到敵方側襲者（Flanker）突擊。在這些時刻，保持自身存活並與敵人交戰，比無視敵人並治療隊友更為重要。",
+        "* 消耗壓力",
+        "* * ![](/data/assets/guide/268ca50e0a721b53.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fthorn-volley.png)荊棘連射（Thorn Volley）的彈道擴散與投射物速度並不理想，但它沒有傷害衰減。在戰鬥的消耗階段，若你的隊伍不需要你持續進行治療，你將能騰出更多時間切換為輸出模式。"
       ],
-      "content_hash": "70f3bbdceacf",
-      "prompt_version": "v5",
+      "content_hash": "9f17851cad0a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:31.930937Z"
+      "timestamp": "2026-03-20T13:24:05.841199Z"
     },
     "4.3": {
       "title": "[SHIFT]：花瓣平台（Petal Platform）",
       "description": "",
       "content": [
-        "花瓣平台（Petal Platform）使用技巧",
-        "* 協助缺乏位移能力的英雄",
-        "* 像萊因哈特、安娜和卡西迪這類英雄本身沒有垂直位移能力。花瓣平台（Petal Platform）能為他們提供平時無法實現的移動路徑。",
-        "* 在防守時，這類英雄同樣可以使用花瓣平台（Petal Platform）來逃跑，或是跨越牆壁以擺脫敵人的追擊。",
+        "**![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)花瓣平台（Petal Platform）的使用技巧**",
+        "* 移動無法移動的目標",
+        "* 像萊因哈特、安娜和卡西迪這類英雄本身沒有垂直移動能力。![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)花瓣平台能為他們提供平時無法實現的路徑選擇。",
+        "* 在防守時，這類英雄同樣可以使用花瓣平台來逃跑，或是越過牆壁以避開敵人。",
         "* 干擾敵人",
-        "* 將正在施放絕招的歐瑞莎升起，這種經典的花瓣平台（Petal Platform）操作至今仍是非常有效的策略。",
-        "* 其他利用花瓣平台（Petal Platform）干擾敵方攻勢的例子，還包括將隊友從重力噴湧（Graviton Surge）中升起，或是將被擊暈或凍結的隊友從地面抬離。",
+        "* 將正在使用絕招的歐瑞莎升起，這種經典的花瓣平台操作至今仍是非常棒的策略。",
+        "* 其他利用花瓣平台干擾敵人進攻的例子，還包括將隊友從重力噴湧（Graviton Surge）中升起，或是將被暈眩或凍結在地板上的隊友升起。",
         "* 為自己留條後路",
-        "* 保持存活永遠是你的首要任務，因此如果你覺得需要保留花瓣平台（Petal Platform）來應對側襲你的閃光，那就把它留給自己用。",
-        "* 提早放置",
-        "* 花瓣平台（Petal Platform）的冷卻時間在你丟出它的瞬間就會開始計算。在防守或會戰剛開始時，你可以先在隊伍可能需要的位置放置一個，使用完畢後，下一個冷卻時間也差不多準備好了。"
+        "* 保持存活永遠是你的首要任務，所以如果你覺得需要保留花瓣平台來應對敵方閃光對你的側襲，那就把花瓣平台留給自己用。",
+        "* 提早施放",
+        "* ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)花瓣平台的冷卻時間在你丟出它的那一刻就開始計算了。在防守時或戰鬥剛開始時，你可以先在隊伍可能需要的地方放置一個，使用過後，你就能準備好下一個了。"
       ],
-      "content_hash": "a15556c8e4bf",
-      "prompt_version": "v5",
+      "content_hash": "6746ef1bbf14",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:35.071456Z"
+      "timestamp": "2026-03-20T13:24:08.604627Z"
     },
     "4.4": {
       "title": "[E]：生命之握（Life Grip）",
       "description": "",
       "content": [
-        "**生命之握（Life Grip）的使用技巧**",
+        "![](/data/assets/guide/70bdaf439d6cdcdd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flife-grip.png)生命之握（Life Grip）的使用技巧",
         "* 控場技能反制",
-        "* 生命之握（Life Grip）可以將隊友從所有硬控場與控場技能中拉出。即使是像鬥陣鐵籠（Cage Fight）、重力噴湧（Grav）和重力流（Flux）這種會將英雄鎖定在原地的絕招，也能被生命之握（Life Grip）反制。",
-        "* 每當隊友遭到暈眩且面臨死亡風險時，使用生命之握（Life Grip）來拯救他們都是值得的。",
-        "* 啟用極度侵略性",
-        "* 當你擁有生命之握（Life Grip）時，隊友可以進行極具侵略性的打法，因為他們知道若有必要，你可以將他們拉回安全位置。",
-        "* 範例：萊因哈特（Reinhardt）可以衝鋒進入敵方後排擊殺目標，並在死亡前被你拉回。",
+        "* * ![](/data/assets/guide/70bdaf439d6cdcdd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flife-grip.png)生命之握（Life Grip）可以將隊友從所有強控場與限制移動技能中拉出。即使是像「牢籠格鬥（Cage Fight）」、「重力噴湧（Graviton Surge）」和「重力流（Gravitic Flux）」這種會將英雄鎖定在原地的絕招，也能被 ![](/data/assets/guide/70bdaf439d6cdcdd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flife-grip.png)生命之握（Life Grip）反制。",
+        "* 每當隊友遭到暈眩且面臨死亡風險時，使用 ![](/data/assets/guide/70bdaf439d6cdcdd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flife-grip.png)生命之握（Life Grip）來拯救他們都是值得的。",
+        "* 啟用超激進打法",
+        "* * 當你擁有 ![](/data/assets/guide/70bdaf439d6cdcdd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flife-grip.png)生命之握（Life Grip）時，隊友可以進行極度激進的進攻，因為他們知道若有必要，你可以將他們拉回安全地帶。",
+        "* 範例：![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）可以衝鋒切入敵方後排、取得擊殺，並在陣亡前被你拉回。",
         "* 深思熟慮",
-        "* 18 秒是一個非常長的冷卻時間。你不能隨意浪費生命之握（Life Grip）僅僅是為了重新調整你認為站位過於靠前的隊友。",
-        "* 請留意隊友的資源。溫斯頓（Winston）看起來可能快要死亡，但如果他正打算使用原始暴怒（Primal），那麼在他正要大顯身手時被拉出戰鬥，他可是會變成一隻憤怒的猴子。",
-        "* 救命，我掉下去了！",
-        "* 生命之握（Life Grip）是《Overwatch》中唯一能將隊友從地圖邊緣救回的技能。當你看到有人被擊退掉落時，將他們拉回堅實的地面吧。"
+        "* * 18 秒是非常長的冷卻時間。你無法承擔為了重新定位一名你認為站位過深的隊友而浪費 ![](/data/assets/guide/70bdaf439d6cdcdd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flife-grip.png)生命之握（Life Grip）的後果。",
+        "* 請留意隊友的資源狀況。一名 ![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓（Winston）看起來可能快要陣亡，但他可能正打算使用「原始暴怒（Primal Rage）」。如果他在戰鬥中被你拉走，他會變成一隻憤怒的猩猩。",
+        "* 救救我，我掉下去了！",
+        "* * 生命之握（Life Grip）是《鬥陣特攻》中唯一能將隊友從地圖邊緣救回的能力。當你看到有人被擊飛出地圖時，請將他們拉回堅實的地面上。"
       ],
-      "content_hash": "c5d67e2cb275",
-      "prompt_version": "v5",
+      "content_hash": "adff9c230376",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:38.380679Z"
+      "timestamp": "2026-03-20T13:24:12.169030Z"
     },
     "4.5": {
       "title": "[SPACE]：回春衝刺（Rejuvenating Dash）",
       "description": "",
       "content": [
-        "回春衝刺（Rejuvenating Dash）的使用技巧",
+        "![](/data/assets/guide/2840b3ed5df016d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frejuvenating-dash.png)回春衝刺（Rejuvenating Dash）的使用技巧",
         "* 冷卻時間短",
-        "* 大多數時候，你可以隨意使用回春衝刺（Rejuvenating Dash）來進行快速治療，或是調整自己的位置。",
+        "* 大多數時候，你可以隨意使用 ![](/data/assets/guide/2840b3ed5df016d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frejuvenating-dash.png)回春衝刺（Rejuvenating Dash）來進行快速治療，或是調整自己的站位。",
         "* 留作閃避使用",
-        "* 當敵方隊伍在對戰中進行側襲（Flanker）或突擊時，試著將衝刺僅保留在閃避突擊者的特定用途上。",
-        "* 將衝刺與花瓣平台（Petal Platform）結合使用，作為上下移動的電梯，以最大化你的閃避能力。"
+        "* 當敵方隊伍在對戰中進行側襲（Flanker）或突襲（Dive）時，試著將衝刺僅保留在閃避突襲者的特定用途上。",
+        "* 將衝刺與使用 ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)花瓣平台（Petal Platform）作為上下升降梯結合使用，以最大化你的閃避能力。"
       ],
-      "content_hash": "1690e73be438",
-      "prompt_version": "v5",
+      "content_hash": "853ef7cf9b53",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:40.194428Z"
+      "timestamp": "2026-03-20T13:24:14.296259Z"
     },
     "4.6": {
       "title": "絕招：生命之樹（Tree of Life）",
       "description": "",
       "content": [
-        "**生命之樹（Tree of Life）的使用技巧**",
+        "![](/data/assets/guide/7a4677520600b458.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftree-of-life.png)生命之樹（Tree of Life）的使用技巧",
         "* 需要視線（LoS）",
-        "* 確保你放置的生命之樹（Tree of Life）在持續期間內，能與你和你的隊友保持視線（LoS）。其範圍效果（AoE）大小尚可，但並非巨大，因此請務必將其放置在隊友預計站位附近（例如：目標點或戰鬥即將發生的地點）。",
-        "* 範例：當你的隊伍想要在目標點戰鬥卻被逼退時，將生命之樹（Tree of Life）放置在隊伍前方，這樣他們就能推進並進入敵方隊伍，同時保持在治療範圍內。",
+        "* 確保你的 ![](/data/assets/guide/7a4677520600b458.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftree-of-life.png)生命之樹（Tree of Life）放置位置在持續期間內，能與你自己和隊友保持視線。其範圍效果（AoE）大小適中，但並非極大，因此請務必將其放置在隊友預計站位附近（例如：目標點或戰鬥即將發生的地點）。",
+        "* 範例：當你的隊伍想要在目標點戰鬥卻被逼退時，將 ![](/data/assets/guide/7a4677520600b458.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftree-of-life.png)生命之樹（Tree of Life）放置在隊伍前方，這樣他們就能推進至敵方隊伍面前，同時保持在治療範圍內。",
         "* 無視屏障",
-        "* 與其他需要視線（LoS）的範圍治療能力不同，生命之樹（Tree of Life）可以無視屏障，所以不必擔心敵方的護盾。",
+        "* 與其他需要視線的範圍治療技能不同，生命之樹（Tree of Life）會無視屏障，所以不必擔心敵方的護盾。",
         "* 作為牆壁使用",
-        "* 這棵巨大的樹木可以當作牆壁使用，用來封鎖隘口和門口，讓敵方隊伍無法通過。在佔領目標點且敵方隊伍正從重生點趕回時非常有效。"
+        "* 這棵巨大的樹木可以當作牆壁使用，用來阻擋咽喉點和門口，讓敵方隊伍無法通過。在佔領目標點且敵方隊伍正從重生點趕回時非常有效。"
       ],
-      "content_hash": "590ef0d1ab00",
-      "prompt_version": "v5",
+      "content_hash": "9a7cc7dddf4d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:43.052059Z"
+      "timestamp": "2026-03-20T13:24:16.810281Z"
     },
     "5.1.1": {
       "title": "花瓣防護（Petal Protection）",
-      "description": "當盟友站在花瓣平台（Petal Platform）上時，每秒可恢復 20 點生命值。",
+      "description": "當盟友站在花瓣平台（Petal Platform）上時，每秒恢復 20 點生命值。",
       "content": [
         "* 提供額外的續戰力與絕招充能。",
-        "* 織命（Lifeweaver）自己也能享受到治療效果，這在進行「花瓣舞」（petal dancing）以閃避攻擊者時特別實用。"
+        "* ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命（Lifeweaver）自己也能享受到治療效果，這在透過花瓣跳躍（petal dancing）來閃避攻擊者時特別實用。"
       ],
-      "content_hash": "9a2bff552bf2",
-      "prompt_version": "v5",
+      "content_hash": "dedc1268feae",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:44.779780Z"
+      "timestamp": "2026-03-20T13:24:18.478763Z"
     },
     "5.1.2": {
-      "title": "衝刺逃脫",
+      "title": "衝刺脫逃",
       "description": "復甦衝刺（Rejuvenating Dash）距離增加 30%。",
       "content": [
-        "* 在突襲中生存",
-        "* 織命（Lifeweaver）需要盡可能提升生存能力來應對突襲攻擊，而這項特殊能力（perk）帶來的額外距離，在面對像是宿怨（Vendetta）這類近距離突襲敵人時，往往是生與死的關鍵。",
-        "* 跟上高機動性隊伍",
-        "* 當你的隊伍由 D.Va 或溫斯頓（Winston）這類高機動性英雄組成時，這也是個不錯的選擇。"
+        "* 生存於突襲中",
+        "* ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命在面對突襲攻擊時需要盡可能提升生存能力，而此特殊能力帶來的額外距離，能讓他在對抗如 ![](/data/assets/guide/52c34367e459b0af.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fvendetta.png)宿怨（Vendetta）這類近距離突襲敵人時，成為生與死的關鍵差異。",
+        "* 跟上高機動隊伍",
+        "* 當你的隊伍由如 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 或 ![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓這類高機動性英雄組成時，選擇此項目也非常合適。"
       ],
-      "content_hash": "201c7643dee5",
-      "prompt_version": "v5",
+      "content_hash": "9bd8ae2d57e5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:46.455675Z"
+      "timestamp": "2026-03-20T13:24:20.420855Z"
     },
     "5.2.1": {
-      "title": "超級綻放（Superbloom）",
-      "description": "若在 2.5 秒內有足夠數量的荊棘命中目標，將會引爆並造成 40 點額外傷害。",
+      "title": "繁花盛開（Superbloom）",
+      "description": "若在 2.5 秒內有足夠數量的荊棘命中目標，荊棘將會引爆並造成 40 點額外傷害。",
       "content": [
         "計算方式",
-        "* 在 2.5 秒內，織命（Lifeweaver）會射出 55 發荊棘，你只需要命中其中 16 發即可觸發引爆。",
-        "* 即使你沒命中約 1/3 的射擊，依然可以觸發超級綻放（Superbloom）。",
+        "* 在 2.5 秒內，![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命會發射 55 枚荊棘，你只需要命中其中 16 枚即可觸發引爆。",
+        "* 即使你沒命中約 1/3 的射擊，依然能觸發繁花盛開（Superbloom）。",
         "自我防衛",
-        "* 織命（Lifeweaver）的攻擊壓力相當低，而這種額外的累積爆發傷害在被迫進行決鬥時非常實用。",
+        "* ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命的進攻壓力相當低，而這種額外的累積爆發傷害在被迫進行決鬥時非常實用。",
         "反坦克",
-        "* 特別是針對無法格擋你攻擊的非護盾型坦克，你可以將荊棘連射（Thorn Volley）灌入他們巨大的身軀，並不斷觸發超級綻放（Superbloom）的引爆效果。",
-        "搭配另一名高治療量的輔助",
-        "* 當你想要更專注於輸出傷害時，請與另一名高治療量的輔助搭檔。舉例來說，如果你的另一名輔助是禪亞塔（Zenyatta），你的隊伍將無法承擔你花費時間去觸發超級綻放（Superbloom）的代價。"
+        "* 特別是針對無法格擋你攻擊的非護盾型坦克，你可以將荊棘連射（Thorn Volley）傾瀉在他們巨大的身軀上，並不斷觸發繁花盛開（Superbloom）的引爆效果。",
+        "搭配另一名高治療量的支援",
+        "* 當你想要更專注於輸出傷害時，請與另一名高治療量的支援搭配。舉例來說，如果你的另一名支援是禪亞塔，你的隊伍將無法承擔你花時間去觸發繁花盛開（Superbloom）的代價。"
       ],
-      "content_hash": "45884225f8d0",
-      "prompt_version": "v5",
+      "content_hash": "a1c8ffd7b303",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:49.577568Z"
+      "timestamp": "2026-03-20T13:24:23.054952Z"
     },
     "5.2.2": {
       "title": "播種（Sow the Seed）",
-      "description": "當裝備治療之花（Healing Blossom）時，使用近戰攻擊（Quick Melee）會向前投擲一顆種子。拾取種子的隊友將獲得 75 點額外生命值，並在 5 秒內提升 25% 移動速度。",
+      "description": "在裝備治療之花（Healing Blossom）的狀態下進行近戰攻擊，會向前投擲一顆種子。隊友拾取種子後，可在 5 秒內獲得 75 點額外生命值以及 25% 的移動速度加成。",
       "content": [
-        "* 最適合衝鋒與近戰型隊友，因為他們能從移動速度加成與瞬間獲得的額外生命值中受益良多。",
-        "* 將種子投擲在隊友前進的路徑上，這樣他們在追擊敵人時就能順手拾取。"
+        "* 最適合搭配衝鋒與近戰型隊友，因為他們能從移動速度加成與瞬間獲得的額外生命值中受益良多。",
+        "* 將種子投擲在隊友前進的方向上，這樣他們在追擊敵人時就能順手拾取。"
       ],
       "content_hash": "85792811af3f",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:51.165612Z"
+      "timestamp": "2026-03-20T13:24:24.966673Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "織命（Lifeweaver）在地圖中最看重的是天然掩體。他的生存能力較低、機動性距離短，且進攻手段薄弱。因此，他必須依賴天然掩體來進行周旋，以便在閃避敵方攻擊的同時存活下來並治療隊友。",
-        "高處地形對織命（Lifeweaver）來說永遠是有利的，因為只有他能為缺乏機動性的隊友創造花瓣平台（Petal Platform）。對於那些天然掩體稀疏的開放式地圖，他會很難進行站位，因為在掩體間移動的過程會讓他暴露在危險之中，且他的技能也會因為距離限制而顯得捉襟見肘。"
+        "織命（Lifeweaver）在選擇地圖時最看重的核心要素是 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png) 天然掩體。他的生存能力較低、位移技能距離較短，且進攻手段薄弱。因此，他非常依賴天然掩體來進行走位，以便在閃避敵方攻擊的同時，維持自身生存並為隊伍提供治療。",
+        "高地優勢對 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png) 織命（Lifeweaver）來說總是很有利，因為只有他能為缺乏位移能力的隊友創造花瓣平台（Petal Platform）。對於那些天然掩體稀疏的開闊地圖，他會感到難以站位，因為在掩體間移動的過程會讓他暴露在危險之中，且其技能也會因為距離限制而顯得捉襟見肘。"
       ],
-      "content_hash": "1b9d6f11a53c",
-      "prompt_version": "v5",
+      "content_hash": "a644ce27badf",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:53.504689Z"
+      "timestamp": "2026-03-20T13:24:27.410007Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "織命能為隊伍提供穩定的遠程治療，特別是對於擁有高機動性的英雄來說更是如此。同樣重要的是他的功能性技能，例如花瓣平台（Petal Platform）可以用來幫助缺乏機動性的盟友登上高處，而花瓣平台（Petal Platform）也能讓他將瀕死的盟友從鬼門關前救回。",
-        "像萊因哈特和莫加這類坦克是織命的絕佳搭檔，因為他們的主要弱點在於缺乏垂直機動性、射程以及優秀的逃生手段，而這些正是織命所能提供的。讓他們其中之一衝入敵陣，傾瀉所有冷卻技能以擊殺目標，然後在他們陣亡前將其拉回安全地帶。",
-        "在輸出英雄方面，可以利用他的鎖定治療來輔助像源氏或閃光這類四處穿梭、且難以被其他輔助英雄持續治療的英雄。",
-        "此外，那些能利用花瓣平台（Petal Platform）進行連攜攻擊的英雄，例如使用神射手（Deadeye）或配置：突擊（Configuration: Assault）的英雄，也是基於與近戰坦克相似的原因而成為不錯的選擇。",
-        "織命的最佳輔助搭檔是碧姬，因為她能在織命為隊伍其他成員提供持續治療時，保護他免受敵方突擊與側襲。",
-        "由於他主要提供的是治療，因此其他能提供更多功能性的輔助英雄，例如能給予加速、禁療或控場（CC）效果的英雄，也是理想的搭配選擇。"
+        "![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命能為隊伍提供穩定的遠程治療，特別是對於那些高機動性的英雄陣容。同樣重要的是他的功能性技能，![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)花瓣平台（Petal Platform）可以用來幫助缺乏機動性的隊友抵達高處，而 ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)生命之握（Life Grip）則能讓他將瀕死的隊友從鬼門關前救回。",
+        "像 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特和 ![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加這類坦克是 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命的絕佳搭檔，因為他們的主要弱點在於缺乏垂直機動性、射程以及優秀的逃生手段，而這些正是織命能為他們提供的。讓他們其中一人衝入敵陣，傾瀉冷卻技能以擊殺對手，然後在他們陣亡前將其拉回。",
+        "在輸出英雄方面，可以利用他的鎖定治療來輔助像 ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏或 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光這類四處穿梭、且讓許多其他輔助英雄難以維持血量的角色。",
+        "此外，那些能利用 ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)花瓣平台（Petal Platform）進行連攜的英雄，例如使用 ![](/data/assets/guide/4c3fdbb733566161.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeadeye.png)神射手（Deadeye）的卡西迪，或是使用 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)設定：強襲（Configuration: Assault）的壁壘機兵，也是不錯的選擇，原因與上述的鬥士型坦克相似。",
+        "![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命的最佳輔助搭檔是 ![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬，因為她能在敵方進行突襲或側襲時保護他，而他則能持續為隊伍的其他成員提供治療。",
+        "由於他主要提供的是治療，因此其他能提供更多功能性（如加速、禁療或控場技能）的輔助英雄也是理想的搭配選擇。"
       ],
-      "content_hash": "30f475f30d21",
-      "prompt_version": "v5",
+      "content_hash": "b1d8f0f39e2c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:56.679817Z"
+      "timestamp": "2026-03-20T13:24:31.086615Z"
     },
     "8.1": {
       "title": "特定英雄反制策略",
       "description": "",
       "content": [
-        "所有如 D.Va、火爆鋼球、迴音、源氏、火箭貓、駭影等側襲者（Flanker），都非常擅長突襲織命，追擊他的衝刺，並利用花瓣平台（Petal Platform）進行高空壓制。",
-        "安娜：生化手榴彈（Biotic Grenade）和睡眠鏢（Sleep Dart）的冷卻時間比生命之握（Life Grip）短得多。強迫他交出生命循環（Life Cycle）的次要特殊能力（minor perks）。織命的主要功能就是治療，而生化手榴彈的禁療效果能徹底封鎖他。",
-        "將你的突襲和側襲重點放在織命身上。他本人不會對你造成致命威脅，因此你唯一的阻礙就是他隊友的保護。",
-        "將你最強的冷卻技能留到生命之握（Life Grip）使用之後再施放。一旦你看到他將隊友拉走，你就會有一段很長的空窗期可以進行攻擊，此時你的目標將無法再透過生命之握（Life Grip）獲得救援。",
-        "選擇一名具備垂直機動性的英雄。如果無法在織命使用花瓣平台（Petal Platform）時進行垂直追擊，他將能輕易地避開你的攻擊。"
+        "所有側襲者（Flanker）類型的英雄，例如 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va、![](/data/assets/guide/2d37d713fbda6bee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwrecking-ball.png)火爆鋼球、![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音、![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏、![](/data/assets/guide/5ecb2adb5abc123f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjetpack-cat.png)火箭貓、![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)駭影等，都非常擅長突襲 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命，追擊他的衝刺，並跟隨他登上 ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)花瓣平台（Petal Platform）。",
+        "![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜：生化手榴彈與 ![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢的冷卻時間比「生命之握（Life Grip）」短得多。逼迫對方交出「淨化之握（Cleansing Grasp）」次要特殊能力（minor perks）勝過於「生命循環（Life Cycle）」。織命的主要功能就是治療，而生化手榴彈的禁療效果能徹底封鎖他。",
+        "將你的突襲與側襲目標鎖定在 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命 身上。他本身不會對你造成擊殺威脅，因此你唯一的阻礙就是他隊友提供的保護。",
+        "將你最強的冷卻技能留到「生命之握（Life Grip）」使用之後再施放。一旦你看到有人被拉走，你將有一段很長的空窗期可以進行攻擊，此時你的目標將無法再透過「生命之握（Life Grip）」獲得救援。",
+        "選擇一名具備垂直機動性的英雄。如果當 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命 使用 ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)花瓣平台（Petal Platform）時你無法垂直追擊，他將能輕易地避開你的攻擊。"
       ],
-      "content_hash": "25344e48295e",
-      "prompt_version": "v5",
+      "content_hash": "7d5a3d7c883a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:59.374885Z"
+      "timestamp": "2026-03-20T13:24:35.384970Z"
     },
     "8.2": {
-      "title": "特定英雄剋星名稱",
+      "title": "特定英雄剋制名單",
       "description": "",
       "content": [
-        "D.Va",
-        "火爆鋼球",
-        "迴音",
-        "源氏",
-        "火箭貓",
-        "駭影",
-        "安娜"
+        "* D.Va",
+        "* 火爆鋼球",
+        "* 迴音",
+        "* 源氏",
+        "* 火箭貓",
+        "* 駭影",
+        "* 安娜"
       ],
       "content_hash": "22883272849e",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:42:00.610310Z"
+      "timestamp": "2026-03-20T13:24:36.683813Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:41:09.482669Z"
+    "timestamp": "2026-03-20T13:23:42.743960Z"
   }
 }

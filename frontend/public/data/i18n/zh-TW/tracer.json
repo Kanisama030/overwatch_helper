@@ -6,39 +6,39 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "作為《鬥陣特攻》最初的門面，閃光（Tracer）一直是遊戲史上最具代表性的英雄之一。她能穿梭於戰場之間、瞬間擊殺醫護兵（Medic），並透過精準的脈衝炸彈（Pulse Bomb）黏貼來達成多重擊殺，這些特色使她深受玩家喜愛。她的技能組與設計極其出色，唯一讓她跌出頂尖主流陣容的情況，只有在她的傷害被大幅削弱時才會發生。",
-        "她能跟上任何前鋒（Initiator）英雄的節奏，並在協調一致的進攻中瓦解敵方後排。即便她沒有取得單獨擊殺，光是她的存在本身就是巨大的威脅，足以打亂敵隊的戰術佈局。她大部分的時間都活躍於敵方陣線後方，憑藉一己之力生存並尋找能夠孤立的目標。"
+        "作為《鬥陣特攻》最初的門面，![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光一直是遊戲史上最具代表性的英雄之一。她能在戰鬥中穿梭自如、瞬間擊殺醫護兵（Medic），並透過精準的![](/data/assets/guide/4179aa31d749fae6.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulse-bomb.png)脈衝炸彈（Pulse Bomb）黏貼來取得多重擊殺，這些特色使她成為玩家心中的最愛。她的技能組與設計極為出色，唯一讓她跌出頂尖主流陣容的情況，只有在她的傷害被大幅削弱時才會發生。",
+        "她能跟上任何側襲者（Flanker）的節奏，並在協調進攻中瓦解敵方後排。即便她沒有取得單獨擊殺，光是她的存在本身就是巨大的威脅，足以打亂敵隊的戰術佈局。她大部分的時間都待在敵方陣線後方，依靠自身能力生存並尋找可以孤立的目標。"
       ],
-      "content_hash": "c43de7e17160",
-      "prompt_version": "v5",
+      "content_hash": "53389e3e89eb",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:09.123663Z"
+      "timestamp": "2026-03-20T13:13:29.729270Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 突襲後排。每一位閃光首要的工作就是擊殺或干擾敵方後排。即便輔助英雄沒有死亡，只要他們必須分心應付你，就無法為其他隊友提供治療。",
-        "* 避開坦克。大多數坦克都擁有護甲，這會抵銷你大量的傷害。閃光可以去騷擾坦克，但如果將重心放在他們身上，只是在浪費時間。",
-        "* 沒有閃回（Recall）或兩次閃現（Blink）時切勿進場。閃光若沒有閃避和時間回溯的能力，將無法在戰鬥中存活。多花幾秒鐘等待冷卻時間，遠比貿然進場然後被送回重生點要好得多。"
+        "* 突襲後排。閃光最重要的工作就是擊殺或干擾敵方後排。即便沒能擊殺輔助，只要他們被迫與你交戰，就無法治療其他隊友。",
+        "* 避開坦克。大多數坦克擁有護甲，這會抵銷你大量的傷害。閃光雖然可以騷擾坦克，但若將重心放在他們身上只是在浪費時間。",
+        "* 若沒有 ![](/data/assets/guide/59884f41423190cf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frecall.png)回溯（Recall）或兩次 ![](/data/assets/guide/2c47faa18b7d4066.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblink.png)閃現（Blink），切勿貿然進場。閃光若沒有閃避與倒轉時間的能力，將無法在戰鬥中存活。多花幾秒鐘等待冷卻時間，遠比衝進去然後被送回重生點要好得多。"
       ],
-      "content_hash": "4db65b378593",
-      "prompt_version": "v5",
+      "content_hash": "607d331ef855",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:11.171562Z"
+      "timestamp": "2026-03-20T13:13:31.632381Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 保持距離。閃光（Tracer）的遠程傷害能力極差，因此請嘗試站位在讓她難以觸及的地方，或是利用位移工具來閃避她的攻擊。",
-        "* 追蹤回溯（Recall）。你可以習慣回溯（Recall）的時機，藉此預判她會回到哪個位置。如果你看到她使用了回溯（Recall），那就是你追擊並擊殺閃光（Tracer）的絕佳時機。",
-        "* 如果你看到閃光（Tracer）連續使用閃現（Blink）直衝向你，請預防她施放脈衝炸彈（Pulse Bomb）。請使用屏障、暈眩技能或逃脫工具來避免被黏上炸彈。"
+        "* 保持距離。閃光（Tracer）的遠程傷害能力極差，因此請嘗試站在她難以觸及的位置，或是利用位移技能來閃避她的攻擊。",
+        "* 追蹤 ![](/data/assets/guide/59884f41423190cf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frecall.png) 回溯（Recall）。你可以習慣回溯（Recall）的時機，藉此預判她會回溯到哪個位置。如果你看到她使用了回溯（Recall），那就是你追擊並擊殺閃光（Tracer）的絕佳機會。",
+        "* 如果你看到閃光（Tracer）連續使用閃現（Blink）直衝向你，請提防她施放 ![](/data/assets/guide/4179aa31d749fae6.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulse-bomb.png) 脈衝炸彈（Pulse Bomb）。請使用屏障、控場技能或逃生工具來避免被黏上炸彈。"
       ],
-      "content_hash": "46509a97811d",
-      "prompt_version": "v5",
+      "content_hash": "e576bdd1b945",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:12.852546Z"
+      "timestamp": "2026-03-20T13:13:33.762320Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -52,100 +52,100 @@
         "* 生命值低"
       ],
       "content_hash": "ab75a37cd1d7",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:14.001250Z"
+      "timestamp": "2026-03-20T13:13:35.150625Z"
     },
     "3.1.1": {
-      "title": "自立更生",
+      "title": "自給自足",
       "description": "",
       "content": [
-        "閃光（Tracer）可以治療自己，並利用她的機動性在需要時拾取生命包。在極近距離下，她可以單彈匣擊殺敵方後排，而無需協調進場攻擊。與大多數英雄不同，她幾乎可以無視隊友的行動，執行自己的戰術計畫。"
+        "閃光（Tracer）可以治療自己，並在需要時利用她的機動性去獲取生命包。在極近距離下，她可以單彈匣擊殺敵方後排，而無需配合隊友進行突擊。與大多數英雄不同，她幾乎可以無視隊友的行動，並執行自己的遊戲策略。"
       ],
       "content_hash": "a2630216f41d",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:15.647193Z"
+      "timestamp": "2026-03-20T13:13:37.140972Z"
     },
     "3.1.2": {
       "title": "閃避與機動",
       "description": "",
       "content": [
-        "她嬌小的身軀與快速的移動使她難以被擊中。她能利用閃現（Blink）與回溯（Recall）可靠地閃避敵方的冷卻技能與絕招。在輸出角色中，她也是最擅長在延長賽拖延時間的英雄之一，因為她能迅速回到目標點，透過觸碰目標點、閃避攻擊並再次觸碰，不斷重置延長賽的計時器。"
+        "她嬌小的身軀與快速的移動使她難以被擊中。她能透過閃現（Blink）與回溯（Recall）可靠地閃避敵方的冷卻技能與絕招。在輸出（DPS）角色中，她也是最擅長延長延長賽（Overtime）時間的英雄之一，因為她能迅速回到目標點，透過觸碰目標點、閃避攻擊並再次觸碰，不斷重置延長賽計時器。"
       ],
       "content_hash": "1f62f7332513",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:17.468934Z"
+      "timestamp": "2026-03-20T13:13:38.554484Z"
     },
     "3.1.3": {
       "title": "麻煩製造者",
       "description": "",
       "content": [
-        "對付技術高超的閃光，最棘手的地方在於她總是在製造麻煩。你永遠無法完全忽視她，但想要擊殺她卻又往往感覺是不可能的任務。她可以憑一己之力牽制住敵方兩名醫護兵（Supports），同時讓她的隊伍擊殺其他人。"
+        "對付技術高超的閃光，最棘手的地方在於她總是在製造麻煩。你永遠無法完全忽視她，但想要擊殺她卻往往感覺是不可能的任務。她能憑一己之力牽制住敵方兩名醫護兵（Support），同時讓她的隊伍擊殺其他人。"
       ],
       "content_hash": "dde6c1b30fb6",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:19.196470Z"
+      "timestamp": "2026-03-20T13:13:40.144616Z"
     },
     "3.2.1": {
       "title": "僅限近距離",
       "description": "",
       "content": [
-        "閃光（Tracer）技能組的主要缺點在於脈衝手槍（Pulse Pistols）有限的有效射程。除非你能貼近目標，否則你的傷害對敵人來說幾乎不痛不癢。寬廣的子彈擴散範圍以及嚴苛的傷害衰減，使得閃光無法在中遠距離造成顯著的傷害。"
+        "閃光（Tracer）技能組的主要缺點在於脈衝手槍（Pulse Pistols）的有效射程有限。除非你能靠近目標，否則你的傷害對敵人來說幾乎不痛不癢。寬廣的彈道擴散與嚴苛的傷害衰減，使得閃光無法在中遠距離造成顯著的傷害。"
       ],
       "content_hash": "ed15cd1e6793",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:20.631436Z"
+      "timestamp": "2026-03-20T13:13:41.701241Z"
     },
     "3.2.2": {
-      "title": "操作需求高",
+      "title": "操作要求高",
       "description": "",
       "content": [
-        "閃光（Tracer）之所以能長期穩居職業賽場與前 500 名的熱門選擇，即便在一般積分對戰中表現疲軟時依然如此，原因在於她擁有極高的操作門檻與上限。追蹤目標與閃現（Blink）的機制運用，是決定一名閃光（Tracer）玩家是否優秀的關鍵。即便你執行了完美的戰術，若無法精準命中目標、在閃現（Blink）過程中迷失方向，或是脈衝炸彈（Pulse Bomb）失手，一切都將毫無意義。"
+        "閃光（Tracer）之所以能長期穩居職業賽場與前 500 強的 meta，即便在一般的積分對戰中表現較弱時依然如此，原因在於她擁有極高的操作門檻與上限。追蹤目標與閃現（Blink）的機制運用，是決定一名閃光（Tracer）玩家是否優秀的關鍵。即便你執行了完美的戰術，若無法精準命中目標、在閃現（Blink）時迷失方向，或是脈衝炸彈（Pulse Bomb）失手，一切都將徒勞無功。"
       ],
       "content_hash": "5c8e482d34c8",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:22.447473Z"
+      "timestamp": "2026-03-20T13:13:43.702157Z"
     },
     "3.2.3": {
       "title": "低生命值",
       "description": "",
       "content": [
-        "閃光擁有所有英雄中最低的生命值，因此她必須仰賴機動性來存活。許多其他英雄能夠存活下來的攻擊與連招，對她來說卻是致命的。在使用閃光時，你必須格外謹慎，因為少量的隨機傷害（spam damage）就能迅速耗盡她微薄的生命值。"
+        "閃光擁有所有英雄中最低的生命值，因此必須仰賴機動性來存活。許多其他英雄能存活下來的攻擊與連段，對她來說都是一擊必殺。在使用閃光時，你必須格外小心，因為少量的隨機傷害（spam damage）就能迅速耗盡她微薄的生命值。"
       ],
       "content_hash": "ab6f4d7230a1",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:23.903524Z"
+      "timestamp": "2026-03-20T13:13:45.454093Z"
     },
     "4.1": {
       "title": "主要攻擊：脈衝手槍（Pulse Pistols）",
       "description": "",
       "content": [
-        "**脈衝手槍（Pulse Pistols）的技巧**",
+        "![](/data/assets/guide/5d6f07498a625201.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulse-pistols.png)脈衝手槍（Pulse Pistols）技巧",
         "* 保持近距離",
-        "* 閃光（Tracer）的理想射程大約在 7 公尺或更近。在這個距離下，大部分子彈都能命中敵人的受擊判定範圍（hurtbox），且不會觸發傷害衰減。",
-        "* 你離目標越近，就越能穩定地命中所有子彈。你也能在極近距離下嘗試爆頭，並從雙倍傷害中獲益。",
+        "* 閃光（Tracer）的理想交戰距離約為 7 公尺或更近。在此距離下，大部分子彈都能命中敵人的受擊判定範圍（hurtbox），且不會受到傷害衰減影響。",
+        "* 你離目標越近，就越能穩定地命中所有子彈。在極近距離下，你也能更輕鬆地瞄準頭部，並從雙倍傷害中獲益。",
         "* 騷擾（Poke）",
         "* 造成一點騷擾傷害總比什麼都不做來得好。然而，將時間花在佈局側襲（flanks）通常會更有價值。",
-        "* 任何傷害都能重置通用的自我治療被動技能。因此，對抗支援（Supports）時，僅僅是為了造成傷害而射擊，就能阻止他們的自我治療，這能為你爭取額外時間，在拉近距離的同時讓他們的生命值維持在低點。"
+        "* 任何傷害都會重置通用的自我治療被動技能。因此，針對敵方醫護兵（Supports）進行射擊，不僅能造成傷害，還能阻止他們觸發自我治療，這能為你爭取更多時間，在拉近距離的同時讓他們的生命值維持在低點。"
       ],
-      "content_hash": "9c3bf2359eb6",
-      "prompt_version": "v5",
+      "content_hash": "504240996368",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:27.270334Z"
+      "timestamp": "2026-03-20T13:13:48.176348Z"
     },
     "4.2": {
       "title": "[SHIFT]：閃現（Blink）",
       "description": "",
       "content": [
-        "閃現（Blink）的技巧",
+        "**![](/data/assets/guide/2c47faa18b7d4066.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblink.png)閃現（Blink）的使用技巧**",
         "* 閃避",
-        "* 在進行攻擊或決鬥時，閃現（Blink）是你維持生存的主要手段。透過向左或向右閃現（Blink）、交叉閃現（Blink）以及閃現（Blink）至掩體後方，來變換你的閃現（Blink）路徑。",
+        "* 當你在進行攻擊或決鬥時，閃現（Blink）是你保命的主要手段。透過向左、向右閃現（Blink）、交叉閃現（Blink）以及閃現（Blink）至掩體後方來變換你的閃現（Blink）路徑。",
         "* 地圖移動",
         "* 你應該隨時利用閃現（Blink）來加快移動速度，直到接近敵方隊伍為止。你不希望在沒有閃現（Blink）的情況下被抓到，導致必須立刻使用回溯（Recall）來保命。",
         "* 進場與離場",
@@ -153,156 +153,156 @@
         "* 務必至少保留一次閃現（Blink）用於閃避。",
         "* 如果你沒有回溯（Recall）或是想保留回溯（Recall），閃現（Blink）是脫離戰鬥、重新評估局勢後再切入的絕佳方式。"
       ],
-      "content_hash": "10dec9ab776b",
-      "prompt_version": "v5",
+      "content_hash": "6049fbf10a17",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:29.496991Z"
+      "timestamp": "2026-03-20T13:13:50.489525Z"
     },
     "4.3": {
       "title": "[E]：回溯（Recall）",
       "description": "",
       "content": [
-        "關於回溯（Recall）的技巧",
-        "* 盡可能在最後一刻才使用",
+        "**![](/data/assets/guide/59884f41423190cf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frecall.png)回溯（Recall）的使用技巧**",
+        "* 盡可能在最後一刻使用",
         "* 專注於利用閃現（Blink）來存活，只有在絕對必要時才使用回溯（Recall）。",
-        "* 等到受到更多傷害後再使用，有助於在重置戰鬥前消耗更多敵方的資源。",
-        "* 但千萬不要太晚啟動，因為在它短暫的啟動動畫期間，你仍有可能被擊殺或受到控場效果影響。",
-        "* 絕對不要在還有回溯（Recall）的情況下死亡",
-        "* 最重要的一點是，小心駛得萬年船。如果你在回溯（Recall）尚未冷卻完畢時死亡，那百分之百是你浪費了一次死亡機會，還得從重生點漫長地跑回來。",
-        "* 安全遊玩",
-        "* 當回溯（Recall）處於冷卻狀態時，請保持距離。在沒有逃生手段時，不要過度深入戰場。"
+        "* 等到受到更多傷害後再使用，有助於在重置戰鬥前消耗敵方更多資源。",
+        "* 只是別太晚啟動，因為在回溯（Recall）短暫的啟動動畫期間，你可能會被擊殺或受到控場效果影響。",
+        "* 絕對不要在還有回溯（Recall）的情況下陣亡",
+        "* 最重要的是，小心駛得萬年船。如果你在還有回溯（Recall）的情況下陣亡，百分之百代表你浪費了一次死亡機會，還得從重生點漫長地跑回來。",
+        "* 安全打法",
+        "* 當回溯（Recall）處於冷卻時間時，請保持距離。在沒有逃生手段時，切勿過度深入戰場。"
       ],
-      "content_hash": "69ecf014585b",
-      "prompt_version": "v5",
+      "content_hash": "dd21eee29038",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:31.529525Z"
+      "timestamp": "2026-03-20T13:13:52.858420Z"
     },
     "4.4": {
       "title": "絕招：脈衝炸彈（Pulse Bomb）",
       "description": "",
       "content": [
-        "脈衝炸彈（Pulse Bomb）的使用技巧",
+        "**![](/data/assets/guide/4179aa31d749fae6.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulse-bomb.png)脈衝炸彈（Pulse Bomb）的使用技巧**",
         "* 偷襲",
-        "* * 將炸彈黏在目標身上非常困難。為了提高成功率，請務必嘗試悄悄接近敵人，這樣他們就不會試圖閃避你。",
-        "* 在牆後等待，或是從後方進攻，並確保他們沒有注意到你。",
+        "* * 黏附目標非常困難。為了提高成功率，請務必嘗試悄悄接近目標，這樣他們就不會試圖閃避你的攻擊。",
+        "* 在牆後等待，或是從後方進攻，並確保對方沒有注意到你。",
         "* 追蹤反制技能",
-        "* * 擁有如莫伊拉（Moira）的消散（Fade）、札莉雅（Zarya）的防護屏障（Bubble）、卡西迪（Cassidy）的戰術翻滾（Roll）、霧子（Kiriko）的淨化鈴（Cleanse）等技能的英雄，都能利用這些技能在被脈衝炸彈（Pulse Bomb）黏住後存活下來。",
-        "* 在嘗試使用脈衝炸彈（Pulse Bomb）之前，請務必等到看見這些技能被使用過後再行動。"
+        "* * 擁有如：莫伊拉的消散（Fade）、札莉雅的防護力場（Bubble）、卡西迪的戰術翻滾（Roll）、霧子的保護符（Cleanse）等技能的英雄，都能利用這些技能在被脈衝炸彈（Pulse Bomb）黏住後存活。",
+        "* 在嘗試使用脈衝炸彈（Pulse Bomb）之前，請務必等待並確認這些技能已被使用。"
       ],
-      "content_hash": "9fd8c8820c26",
-      "prompt_version": "v5",
+      "content_hash": "23cf8dc189f4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:33.405870Z"
+      "timestamp": "2026-03-20T13:13:55.281396Z"
     },
     "5.1.1": {
       "title": "時空衝刺（Chronal Dash）",
-      "description": "閃現距離增加 20%。",
+      "description": "閃現（Blink）距離增加 20%。",
       "content": [
-        "* 增加移動能力，對於追擊高機動性的敵人很有幫助。",
-        "* 主要問題在於你必須在對戰中途調整對閃現距離的肌肉記憶。",
-        "* 不值得為了它而放棄動能裝填（Kinetic Reload）。"
+        "* 提升移動能力，對於追擊高機動性的敵人很有幫助。",
+        "* 主要問題在於你必須在對戰中途調整對閃現（Blink）距離的肌肉記憶。",
+        "* 不值得為了這個特殊能力（perk）而放棄動能裝填（Kinetic Reload）。"
       ],
       "content_hash": "792750b03402",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:34.817108Z"
+      "timestamp": "2026-03-20T13:13:56.891973Z"
     },
     "5.1.2": {
       "title": "動能裝填（Kinetic Reload）",
       "description": "近戰攻擊命中可獲得 20 發彈藥。",
       "content": [
         "* 推薦次要特殊能力（Minor Perk）",
-        "* 非常強大的特殊能力，有助於確保擊殺。每次近戰攻擊實際上能讓你恢復 50% 的彈藥。",
-        "* 當你需要補幾發子彈來完成擊殺時，使用閃現（Blink） > 近戰攻擊（Melee），因為快速近戰比裝填彈藥更快。"
+        "* 極其強大的特殊能力（Perk），有助於確保擊殺。每次近戰攻擊實際上能讓你恢復 50% 的彈藥。",
+        "* 當你需要補幾發子彈來完成擊殺時，使用閃現（Blink）> 近戰攻擊，因為快速近戰比裝填彈藥更快。"
       ],
       "content_hash": "f942a80306b7",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:36.221567Z"
+      "timestamp": "2026-03-20T13:13:58.183218Z"
     },
     "5.2.1": {
       "title": "閃現包（Blink Packs）",
       "description": "生命包會恢復 1 次閃現（Blink）充能。",
       "content": [
-        "* 考慮到閃光（Tracer）經常會拾取生命包，這能幫助你更快地重返戰場，且在一場對戰中能多次觸發。",
-        "* 在進行決鬥並能拾取生命包時效果極佳。閃光經常處於許多 1v1 的情境中。生命包恢復閃現（Blink）能提升她的生存能力。",
-        "* 此外，她現在即使在滿血狀態下也能搶奪敵方的生命包。別讓他們拿到！"
+        "* 考慮到 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光經常需要拾取生命包，這能幫助你更快地重返戰鬥，且在單場遊戲中可多次觸發。",
+        "* 在進行決鬥並能順利拾取生命包時效果絕佳。閃光經常會陷入許多 1 對 1 的戰況。生命包能恢復閃現（Blink）充能，這提升了她的生存能力。",
+        "* 此外，她現在即使在生命值全滿的情況下，也能搶奪敵方的生命包。別讓他們拿到！"
       ],
-      "content_hash": "94fa13150871",
-      "prompt_version": "v5",
+      "content_hash": "e050d85fe056",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:37.779679Z"
+      "timestamp": "2026-03-20T13:14:00.460912Z"
     },
     "5.2.2": {
       "title": "量子糾纏（Quantum Entanglement）",
       "description": "回溯（Recall）會賦予 50 點過量生命值以及 20 發會隨時間衰減的彈藥。",
       "content": [
-        "* 有助於確保擊殺",
-        "* * 有時敵人會殘血存活。回溯（Recall）後獲得的過量生命值與額外彈藥，能幫助你在戰鬥中持續輸出，給予敵人最後一擊。",
-        "* 仍應考慮脫離戰鬥",
-        "* * 即使擁有過量生命值，如果你的閃現（Blink）皆處於冷卻中，你仍應撤出戰鬥並等待技能冷卻完畢。",
-        "* 總體而言，使用回溯（Recall）後請勿過於激進。"
+        "* 有助於確認擊殺",
+        "* * 有時敵人會殘血存活。透過回溯（Recall）取得的過量生命值和額外彈藥，能幫助你在回溯後繼續戰鬥並補上最後一擊。",
+        "* 依然應該考慮撤離",
+        "* * 即使擁有過量生命值，如果你的閃現（Blink）都處於冷卻中，你仍應脫離戰鬥並等待技能冷卻完畢。",
+        "* 總體而言，在使用 ![](/data/assets/guide/59884f41423190cf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frecall.png) 回溯（Recall）後，請勿過於激進。"
       ],
-      "content_hash": "a05e1ae913d8",
-      "prompt_version": "v5",
+      "content_hash": "b338ff8dc3c4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:39.665214Z"
+      "timestamp": "2026-03-20T13:14:02.573837Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "閃光（Tracer）的機動性讓她在幾乎每一張地圖都能發揮價值。然而，最適合閃光的還是那些平坦且擁有大量側室以供側襲的地圖。當閃光能夠利用轉角和設有生命包的側路時，她作為後排刺客的工作會變得輕鬆許多。由於她缺乏垂直機動性，在那些敵人可以利用高地來避開她的地圖上，她可能會遇到困難。在視線開闊且寬廣的地圖上，閃光會因為需要繞路以避開射程優勢的敵人而浪費大量時間。"
+        "閃光（Tracer）的機動性讓她在幾乎每一張地圖都能發揮價值。然而，最適合閃光的還是那些平坦且擁有大量側室以供進行側襲的地圖。當閃光能夠善用轉角與設有生命包的側路時，她作為後排刺客的工作會變得輕鬆許多。由於她缺乏垂直機動性，在那些敵人能利用大量高台來避開她的地圖上，她可能會遇到困難。在視野遼闊且射程極長的開闊地圖上，閃光會因為必須繞路避開擁有射程優勢的敵人而浪費大量時間。"
       ],
       "content_hash": "d7ad25a2c9ae",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:41.748570Z"
+      "timestamp": "2026-03-20T13:14:04.598806Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "閃光（Tracer）憑藉自身能力就能發揮所有應有的作用，她不需要特定的隊伍陣容也能運作。話雖如此，她在「潛水（Dive）」陣容中能發揮出最耀眼的光芒。",
-        "與另一名輸出或坦克進行協調一致的「潛水（Dive）」行動，會讓她的側襲變得極具威脅。此外，若有另一名英雄與她一同深入敵方後排，能分散敵人的注意力，讓她的行動更加安全。像溫斯頓（Winston）或 D.Va 這類「潛水（Dive）」坦克，以及像源氏（Genji）或宿怨（Vendetta）這類「潛水（Dive）」輸出都是不錯的選擇，因為他們能跟上閃光（Tracer）的機動性。",
-        "像和諧之珠（Orb of Harmony）與修復之流（Restorative Stream）這類被動治療對於閃光（Tracer）來說非常強大，因為她可以在接受治療的同時高速穿梭。她的生命值非常低，因此這種輕量治療對她而言，比治療坦克的高額生命值更具價值。"
+        "![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光（Tracer）憑藉自身能力就能發揮出應有的作用，她不需要特定的隊伍陣容也能運作。不過，在機動隊伍（dive comps）中，她能發揮出最耀眼的光芒。",
+        "與另一名輸出或坦克進行協調的機動進攻，能讓她的側襲變得極具威脅。此外，若有另一名英雄與她一同深入敵方後排，能分散敵人的注意力，讓她的行動更加安全。像 ![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓（Winston）或 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 這樣的機動坦克，以及像 ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏（Genji）或 ![](/data/assets/guide/52c34367e459b0af.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fvendetta.png)宿怨（Vendetta）這樣的機動輸出，都是很好的選擇，因為他們能與閃光（Tracer）保持同步的機動性。",
+        "像 ![](/data/assets/guide/495517d449a60604.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-harmony.png)和諧之珠（Orb of Harmony）和 ![](/data/assets/guide/e2ee1807aea9c23a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frestorative-stream.png)恢復之流（Restorative Stream）這類被動治療對於 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光（Tracer）來說非常強大，因為她可以在接受治療的同時靈活穿梭。她的生命值非常低，因此這種輕量治療在她身上所帶來的價值，遠高於治療坦克那龐大的生命值。"
       ],
-      "content_hash": "59591967bbe0",
-      "prompt_version": "v5",
+      "content_hash": "8f0425343d1b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:44.472694Z"
+      "timestamp": "2026-03-20T13:14:07.333045Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "閃光（Tracer）可以透過職業級的操作進場，將敵人逐一擊破來贏得比賽。對於大多數「凡人」玩家來說，她通常是透過偶爾的暗殺以及持續的騷擾來獲勝。如果你想贏，就必須阻止她騷擾你的醫護兵（Medic）。",
-        "最好的方法是使用暈眩技能，例如瑞稀（Mizuki）的束縛鎖鏈（Binding Chain），或是使用防禦手段，例如托比昂（Torbjörn）的部署砲塔（Deploy Turret）。",
-        "保持距離。閃光的遠程傷害極低，因此請嘗試站在她難以觸及的位置，或是利用位移工具來閃避她的攻擊。",
-        "追蹤閃回（Recall），如果你還沒看過她使用，請保留你的進攻冷卻技能直到她用過為止。你可以習慣閃回的時間點，藉此預測她會回溯到哪裡。一旦看到她使用了閃回，那就是你追擊並消滅閃光的最佳時機。",
-        "如果你看到閃光連續使用閃現（Blink）直衝向你，請預判她要施放脈衝炸彈（Pulse Bomb）。請使用屏障、暈眩技能或逃生工具來避免被黏上炸彈。"
+        "![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光（Tracer）若達到職業級水準，便能透過深入敵陣將對手逐一擊破來贏得比賽。對於大多數「凡人」玩家來說，她通常是透過偶爾的暗殺以及持續的騷擾來獲勝。如果你想贏得比賽，就必須設法阻止她騷擾你的醫護兵（Medic）。",
+        "最好的反制方式是使用暈眩技能，例如 ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）的 ![](/data/assets/guide/61a533467bf9f01d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbinding-chain.png)束縛鎖鏈（Binding Chain），或是使用防禦手段，例如 ![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)托比昂（Torbjörn）的 ![](/data/assets/guide/5a281b66a6179e54.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeploy-turret.png)部署砲塔（Deploy Turret）。",
+        "保持距離。閃光的遠程傷害能力極差，因此請嘗試站在她難以觸及的位置，或是利用位移工具來閃避她的攻擊。",
+        "追蹤閃回（Recall）的冷卻時間；如果你還沒看過她使用這項技能，請保留你的進攻冷卻技能，直到她使用過後再施放。你可以透過熟悉閃回的時機來預測她會回溯到哪裡。一旦看到她使用了閃回，那就是你追擊並消滅閃光的最佳時機。",
+        "如果你看到閃光連續使用 ![](/data/assets/guide/2c47faa18b7d4066.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblink.png)閃現（Blink）直衝向你，請預判她即將施放 ![](/data/assets/guide/4179aa31d749fae6.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulse-bomb.png)脈衝炸彈（Pulse Bomb）。請使用屏障、暈眩技能或逃脫工具來避免被黏上。"
       ],
-      "content_hash": "0f38a837712f",
-      "prompt_version": "v5",
+      "content_hash": "ccac13ec690b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:47.745399Z"
+      "timestamp": "2026-03-20T13:14:10.051990Z"
     },
     "8.2": {
-      "title": "特定英雄剋星名稱",
+      "title": "特定英雄剋制名單",
       "description": "",
       "content": [
         "* 瑞稀（Mizuki）",
         "* 托比昂（Torbjörn）"
       ],
       "content_hash": "7f4437303301",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:48.932029Z"
+      "timestamp": "2026-03-20T13:14:11.343186Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.448487Z"
+    "timestamp": "2026-03-20T13:13:27.610501Z"
   }
 }

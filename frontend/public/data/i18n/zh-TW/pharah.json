@@ -6,40 +6,40 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "作為 Overwatch 最元老的飛行英雄，法拉（Pharah）透過從天而降的火箭雨來宰制戰場。她擁有比任何其他英雄都多的移動能力，這讓她能以完全獨特的方式穿梭於地圖地形之中。",
-        "如果你是在離開幾個賽季後才回歸遊戲，你可能錯過了她的重製。這次重製讓她變得更加獨立，並降低了法拉對團隊資源的需求；而在過去，她幾乎需要像慈悲（Mercy）這樣的支援英雄全心全意的照料。現在的法拉擁有極快的機動性，這讓她能夠突襲敵方後排，並利用環境掩體來反制即時命中（hitscan）英雄與狙擊手。",
-        "面對以短程能力為主的敵方陣容時，由於火箭發射器（Rocket Launcher）沒有傷害衰減且具備優秀的範圍濺射傷害，法拉成為了最強的消耗型英雄之一。"
+        "作為《鬥陣特攻》元老級的飛行英雄，![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉（Pharah）主宰著天空，並對目標傾瀉火箭。她擁有比其他任何英雄都多的移動能力，這讓她能以獨特的方式穿梭於地圖地形中。",
+        "如果你是在離開幾個賽季後回歸的玩家，你可能錯過了她的重製。這次重製使她變得更加獨立，並降低了法拉對團隊資源的需求；而在過去，她幾乎需要像慈悲（Mercy）這樣的醫護兵（Medic）全心全意的支援。新版的法拉擁有極快的機動性，這讓她能夠突襲敵方後排，並利用環境掩體來反制即時命中（hitscan）英雄與奪命女（Widowmaker）等神射手（Sharpshooter）。",
+        "面對敵方陣容主要由短程能力組成的隊伍時，法拉會成為最強的消耗型英雄之一，因為她的![](/data/assets/guide/ce38aca322038472.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-launcher.png)火箭發射器（Rocket Launcher）沒有傷害衰減，且具備優秀的範圍（AoE）濺射傷害。"
       ],
-      "content_hash": "ff01a94ca604",
-      "prompt_version": "v5",
+      "content_hash": "22bcafba7086",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:30.525804Z"
+      "timestamp": "2026-03-20T13:23:00.036443Z"
     },
     "1.1.1": {
       "title": "操作指南",
       "description": "",
       "content": [
-        "* 利用地圖中的垂直幾何結構（如牆壁和建築物）作為天然掩體，避免讓自己暴露在神射手（Sharpshooter）的威脅下。",
-        "* 圍繞側襲路線（off-angles）和高地進行遊戲，這樣你就能與隊友形成交叉火網，對咽喉點進行火力壓制。",
-        "* 在出其不意的位置使用彈幕（Barrage），或是與隊友的防禦技能（例如投射屏障（Projected Barrier）或防禦矩陣（Defense Matrix））配合使用。"
+        "* 利用地圖中的垂直幾何結構（如牆壁和建築物）作為天然掩體，避免讓自己暴露在即時命中（hitscan）的火力壓力下。",
+        "* 圍繞側翼角度（off-angles）和高地進行遊走，以便能與隊友形成交叉火力，對咽喉點進行持續壓制。",
+        "* 在出其不意的位置使用 ![](/data/assets/guide/bdc23f8912816520.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrage.png)彈幕（Barrage），或在隊友的保護下進行配合，例如搭配 ![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投影屏障（Projected Barrier）或 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）。"
       ],
-      "content_hash": "fb7a8b74364f",
-      "prompt_version": "v5",
+      "content_hash": "7df5387b5414",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:32.332323Z"
+      "timestamp": "2026-03-20T13:23:01.874099Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 對付法拉（Pharah）的最佳方式是使用具有射程與爆發傷害的即時命中（hitscan）英雄，例如艾西（Ashe）或伊拉里（Illari）。",
-        "* 透過控制高地並迫使她進入可預測的視線範圍，來剝奪她的安全飛行空間。",
-        "* 追蹤她的火箭彈幕（Barrage），並保留防禦性冷卻技能或爆發性技能，以便在她發動攻勢時立即進行懲罰。些微的反應延遲將決定你是會陣亡，還是能成功將她擊殺。"
+        "* 對付 ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉的最佳方式是使用具備射程與爆發傷害的即時命中英雄，例如 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西或 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里。",
+        "* 透過控制高地並迫使她進入可預測的視線範圍，來剝奪她安全的空中活動空間。",
+        "* 追蹤她的「彈幕（Barrage）」技能，並保留防禦性冷卻時間或爆發性技能，以便在她發動攻勢時立即進行懲罰。些微的反應延遲將決定你是會被擊殺，還是能成功將她擊落。"
       ],
-      "content_hash": "01a0fab1b112",
-      "prompt_version": "v5",
+      "content_hash": "689ee1132a4c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:34.018548Z"
+      "timestamp": "2026-03-20T13:23:03.937135Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -47,141 +47,141 @@
       "content": [
         "* 垂直機動性",
         "* 擅長利用掩體",
-        "* 進場與離場能力",
-        "* 緩慢的投射物",
+        "* 進場與退場能力",
+        "* 緩慢的拋射物",
         "* 絕招會導致自身死亡",
-        "* 掃描射擊（Hitscans）"
+        "* 擊發判定（Hitscans）"
       ],
       "content_hash": "3a9d78fe935d",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:35.470386Z"
+      "timestamp": "2026-03-20T13:23:05.526632Z"
     },
     "3.1.1": {
       "title": "垂直機動性",
       "description": "",
       "content": [
-        "能夠升空、飛越建築物並滯留於空中的能力，讓法拉（Pharah）在控制垂直平面上獨樹一格。對於射擊法拉的敵人來說，垂直方向的瞄準調整通常被認為比水平調整更為困難。正確使用滯空噴射（Hover Jets）與跳躍噴射（Jump Jet）能從只有法拉能抵達的角度創造持續的壓力。",
-        "僅僅是分散敵隊的注意力，就足以讓擁有一名優秀法拉的隊伍感覺勢不可擋。她的垂直移動能力也讓她能開闢出大多數英雄無法通行的路徑，跨越各種地形環境。"
+        "能夠飛向天際、飛越建築物並滯留於空中，讓法拉在控制垂直平面上擁有獨一無二的優勢。對於試圖攻擊法拉的敵人來說，垂直方向的瞄準調整通常被認為比水平調整更為困難。正確使用 ![](/data/assets/guide/3ec5c760c0f9e4e4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhover-jets.png) 滯空噴射（Hover Jets）與 ![](/data/assets/guide/b259920bedbf88ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjump-jet.png) 噴射跳躍（Jump Jet），能讓法拉從只有她能抵達的角度持續施加壓力。",
+        "僅僅是分散敵隊的注意力，就足以讓擁有優秀法拉的隊伍顯得勢不可擋。她的垂直移動能力也讓她能開闢出大多數英雄無法通行的路徑，越過各種地形。"
       ],
-      "content_hash": "f5bca8d79a1d",
-      "prompt_version": "v5",
+      "content_hash": "9c2dce5d34e8",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:37.290477Z"
+      "timestamp": "2026-03-20T13:23:07.437347Z"
     },
     "3.1.2": {
       "title": "擅長利用掩體",
       "description": "",
       "content": [
-        "火箭發射器（Rocket Launcher）緩慢的射擊速度，讓法拉（Pharah）非常擅長快速進出掩體，僅在發射火箭時才暴露自己。在地面上時，她可以透過繞著牆壁進行側移來做到這一點。而在空中時，滯空噴射（Hover Jets）讓法拉能夠利用建築物和結構的頂部進行探頭、射擊，並迅速下降至安全處。"
+        "![](/data/assets/guide/ce38aca322038472.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-launcher.png)由於火箭發射器（Rocket Launcher）的射速較慢，法拉（Pharah）非常擅長快速進出掩體，僅在發射火箭時才暴露自己。在地面上時，她可以透過繞著牆壁進行側向移動來做到這一點。在空中時，懸浮噴射（Hover Jets）讓法拉能夠利用建築物和結構的頂部，從上方探頭、射擊，然後迅速降回安全處。"
       ],
-      "content_hash": "87b71214e2d5",
-      "prompt_version": "v5",
+      "content_hash": "e6c661cd8872",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:39.124492Z"
+      "timestamp": "2026-03-20T13:23:09.225418Z"
     },
     "3.1.3": {
-      "title": "快速切入與脫離戰場",
+      "title": "快速切入與撤離",
       "description": "",
       "content": [
-        "結合火箭跳躍（Rocket jumps）、噴射衝刺（Jet Dash）以及震盪爆破（Concussive Blast）的自我擊退效果，法拉（Pharah）能獲得多次爆發性的高速移動。根據地圖與戰況，她可以使用其中一項冷卻技能快速切入或突襲目標，在取得擊殺後，再利用剩餘的技能撤退至安全位置，直到所有資源恢復為止。",
-        "循環使用法拉（Pharah）的移動冷卻技能，對於最大化她的影響力與潛力至關重要。"
+        "結合火箭跳躍（Rocket jumps）、噴射衝刺（Jet Dash）以及震盪爆破（Concussive Blast）的自我擊退效果，能讓法拉獲得多次高爆發的移動速度。根據地圖與戰況，她可以利用其中一項冷卻技能快速切入或突襲目標，在取得擊殺後，再使用剩餘的技能撤退至安全位置，直到所有資源恢復為止。",
+        "循環運用法拉的移動冷卻技能，對於最大化她的影響力與潛力至關重要。"
       ],
       "content_hash": "283894235e0c",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:41.252891Z"
+      "timestamp": "2026-03-20T13:23:11.104896Z"
     },
     "3.2.1": {
       "title": "緩慢的投射物速度",
       "description": "",
       "content": [
-        "在中遠距離下，由於火箭發射器（Rocket Launcher）的投射物速度緩慢，法拉（Pharah）可能難以命中目標。在極遠距離時，擁有位移技能的敵人有充足的時間對即將到來的火箭做出反應並進行閃避。",
-        "法拉（Pharah）玩家必須非常擅長預判敵人的移動，才能將傷害輸出最大化。防禦矩陣（Defense Matrix）和屏障等減傷技能也可以用來進行反應式防禦，以防止受到任何火箭傷害。"
+        "在中遠距離下，法拉（Pharah）可能會因為 ![](/data/assets/guide/ce38aca322038472.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-launcher.png)火箭發射器（Rocket Launcher）的投射物速度緩慢，而難以命中目標。在極遠距離時，擁有位移技能的敵人有充足的時間做出反應並閃避迎面而來的火箭。",
+        "法拉（Pharah）玩家必須非常擅長預判敵人的移動，才能將傷害輸出最大化。像 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）和屏障這類傷害減免技能，也可以用來進行反應式防禦，以防止受到任何火箭傷害。"
       ],
-      "content_hash": "fda03d80fd14",
-      "prompt_version": "v5",
+      "content_hash": "5ac63e38ca3c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:43.122964Z"
+      "timestamp": "2026-03-20T13:23:12.926771Z"
     },
     "3.2.2": {
       "title": "施放絕招時經常陣亡",
       "description": "",
       "content": [
-        "「正義從天而降……呃啊！」法拉（Pharah）在施放絕招時會讓自己變成一個靜止的標靶。爆頭攻擊、控場技能（CC abilities）、傷害減免技能以及任何攻擊，都能輕易地讓敵人免於一死，並在法拉有機會再次移動前將她擊殺。",
-        "通常情況下，玩家若希望在使用彈幕（Barrage）時存活下來，就需要與隊友進行配合。像是鈴（Protection Suzu）和投影屏障（Projected Barrier）這類技能，可以讓彈幕（Barrage）從對自己致命的招式，轉變為對敵方隊伍致命的威脅。"
+        "「正義從天而……呃啊！」法拉在施放絕招時會讓自己變成一個靜止的標靶。爆頭攻擊、控場能力（CC abilities）、傷害減免能力以及任何攻擊，都能輕易地讓敵人免於一死，並在法拉有機會再次移動前將她擊殺。",
+        "通常，玩家若希望在施放 ![](/data/assets/guide/bdc23f8912816520.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrage.png)彈幕（Barrage）時存活下來，就需要與隊友進行配合。像是 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)保護鈴（Protection Suzu）和 ![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障（Projected Barrier）這類能力，可以讓彈幕從對自己致命的招式，轉變為對敵方隊伍致命的威脅。"
       ],
-      "content_hash": "9114c66503ff",
-      "prompt_version": "v5",
+      "content_hash": "0b2ee4f44189",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:45.220443Z"
+      "timestamp": "2026-03-20T13:23:14.810497Z"
     },
     "3.2.3": {
-      "title": "即時命中（Hitscans）",
+      "title": "神射手（Hitscans）",
       "description": "",
       "content": [
-        "雖然重製後的法拉（Pharah）在面對即時命中英雄時有了更多的反制手段，但如果對手擁有精準的瞄準技巧，她依然會被迅速擊殺。",
-        "法拉（Pharah）擁有機動性與無傷害衰減的優勢，但這些優點很難彌補即時命中能力對她造成的穩定且快速的傷害。法拉（Pharah）一般的滯空噴射移動速度較慢，這使她容易成為艾西（Ashe）、巴帝斯特（Baptiste）和莫加（Mauga）等英雄的目標。"
+        "雖然重製後的 ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉在面對神射手時有了更多的反制手段，但如果對手使用神射手英雄並具備精準的瞄準技巧，她依然會被迅速擊殺。",
+        "法拉擁有高機動性且傷害沒有距離衰減的優勢，但這些優點很難彌補神射手能力在造成傷害時的穩定性與速度。法拉一般的滯空噴射移動速度較慢，這使她容易成為 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西、![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特以及 ![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加等英雄的目標。"
       ],
-      "content_hash": "bca94aea63d9",
-      "prompt_version": "v5",
+      "content_hash": "0e0c783895b3",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:46.795390Z"
+      "timestamp": "2026-03-20T13:23:16.934399Z"
     },
     "4.1": {
-      "title": "站位與遊戲風格",
+      "title": "站位與遊玩風格",
       "description": "",
       "content": [
-        "雖然遊戲風格最終取決於個人玩家，但法拉（Pharah）的最佳玩法應始終根據地圖和敵方隊伍陣容進行調整。",
-        "在擁有強大垂直掩體的地圖上（例如愛西瓦德（Eichenwalde）），你應該將大部分時間花在空中，利用屋頂和建築物來將自身暴露的風險降至最低。",
-        "面對鬥毆（brawl）、衝鋒（rush）以及其他近距離陣容時，請保持距離並持續對集結的敵人施加壓力，充分利用火箭發射器（Rocket Launcher）的範圍濺射傷害。",
-        "當對陣擁有複數即時命中（hitscan）英雄的消耗（poke）陣容時，請使用噴射衝刺（Jet Dash）朝更寬廣的側襲角度移動，並花更多時間靠近地面。開闊的天空會讓你過於暴露，因此利用自然掩體和側翼角度對於生存至關重要。"
+        "雖然遊玩風格最終取決於個人玩家，但遊玩 ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉的最佳方式應始終根據地圖和敵方隊伍陣容進行調整。",
+        "在擁有強大垂直掩體的地圖上（例如愛西瓦德），你應該將大部分時間花在空中，利用屋頂和建築物來將自身暴露的風險降至最低。",
+        "面對鬥毆、衝鋒及其他近距離陣容時，請保持距離並持續對聚集的敵人施加壓力，充分利用火箭發射器（Rocket Launcher）的範圍濺射傷害。",
+        "當對上擁有複數即時命中英雄的消耗型陣容時，請使用 ![](/data/assets/guide/77fd7fe9918b2164.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjet-dash.png)噴射衝刺（Jet Dash）朝更寬廣的側襲角度移動，並花更多時間貼近地面。開闊的天空會讓你過於暴露，因此利用天然掩體和側翼角度對於生存至關重要。"
       ],
-      "content_hash": "dba9f10cdd2d",
-      "prompt_version": "v5",
+      "content_hash": "8dd9c2d8a8da",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:49.054159Z"
+      "timestamp": "2026-03-20T13:23:19.369915Z"
     },
     "4.2": {
       "title": "火箭發射器（Rocket Launcher）",
       "description": "",
       "content": [
-        "火箭發射器（Rocket Launcher）的使用技巧",
-        "要穩定命中火箭需要具備預判能力。",
-        "* 預判敵人想要移動的方向。",
-        "* 生命值較低的目標通常會撤退至掩體後方——朝掩體入口射擊，迫使他們撞上你的火箭。",
-        "* 觀察可預測的移動模式，例如跳躍、直線位移技能或墜落。",
-        "當敵人進入移動弧線（arc）時，朝他們即將落地的位置射擊。一旦敵人騰空或使用了無法中斷的技能，他們就無法改變移動軌跡。"
+        "![](/data/assets/guide/ce38aca322038472.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-launcher.png)火箭發射器（Rocket Launcher）的使用技巧",
+        "若要穩定命中火箭，需要具備預判能力。",
+        "* 預測敵人的移動意圖。",
+        "* 血量偏低的目標通常會撤退至掩體後方——朝掩體入口射擊，迫使他們撞上你的火箭。",
+        "* 觀察敵人可預測的移動模式，例如跳躍、直線位移技能或墜落時的軌跡。",
+        "當敵人進入移動弧線（arc）時，朝他們的落點射擊。一旦敵人滯空或使用了無法中斷的技能，他們就無法改變移動軌跡。"
       ],
-      "content_hash": "5e89de59f2c3",
-      "prompt_version": "v5",
+      "content_hash": "1bd7ebcd1306",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:50.886078Z"
+      "timestamp": "2026-03-20T13:23:21.512809Z"
     },
     "4.3": {
-      "title": "火箭跳躍（Rocket Jump）",
+      "title": "火箭跳（Rocket Jump）",
       "description": "",
       "content": [
-        "火箭跳躍（Rocket Jump）會使用火箭發射器（Rocket Launcher）讓法拉（Pharah）朝當前移動方向產生一小段爆發性的位移。",
-        "* 可與滯空噴射（Hover Jets）、跳躍噴射（Jump Jet）、噴射衝刺（Jet Dash）以及震盪爆破（Concussive Blast）結合使用。",
+        "火箭跳（Rocket Jump）使用 ![](/data/assets/guide/ce38aca322038472.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-launcher.png)火箭發射器（Rocket Launcher）為法拉提供一小段朝當前移動方向的推進力。",
+        "* 可與 ![](/data/assets/guide/3ec5c760c0f9e4e4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhover-jets.png)懸浮噴射（Hover Jets）、![](/data/assets/guide/b259920bedbf88ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjump-jet.png)噴射跳躍（Jump Jet）、![](/data/assets/guide/77fd7fe9918b2164.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjet-dash.png)噴射衝刺（Jet Dash）以及 ![](/data/assets/guide/ae9bcf3003d3c260.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconcussive-blast.png)震盪爆破（Concussive Blast）結合使用。",
         "* 提供額外的垂直機動性，以抵達原本無法到達的位置。",
-        "* 請參閱下方的「進階技巧（Advanced Tech）」以查看組合範例。"
+        "* 請參閱下方的「進階技術（Advanced Tech）」以獲取組合範例。"
       ],
-      "content_hash": "87a0fb414285",
-      "prompt_version": "v5",
+      "content_hash": "0ee74e3a1ca7",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:52.967422Z"
+      "timestamp": "2026-03-20T13:23:23.463050Z"
     },
     "4.4": {
-      "title": "震盪爆破（Concussive Blast）",
+      "title": "震盪衝擊（Concussive Blast）",
       "description": "",
       "content": [
-        "震盪爆破（Concussive Blast）的技巧"
+        "關於 ![](/data/assets/guide/ae9bcf3003d3c260.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconcussive-blast.png)震盪衝擊（Concussive Blast）的技巧"
       ],
-      "content_hash": "b4ba273a44b8",
-      "prompt_version": "v5",
+      "content_hash": "194f42072a55",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:54.412786Z"
+      "timestamp": "2026-03-20T13:23:24.749529Z"
     },
     "4.4.1": {
       "title": "震盪跳躍（Concussive Jump）",
@@ -189,24 +189,24 @@
       "content": [
         "利用震盪爆破（Concussive Blast）產生的自我擊退效果，將自己發射至指定方向。",
         "* 這是該技能最常見的用法。",
-        "* 主要用於水平移動，但也可以調整垂直方向。",
+        "* 主要用於水平移動，但也可以改變垂直方向。",
         "* 非常適合快速重新調整站位。"
       ],
       "content_hash": "8a26bd5a8e97",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:55.791242Z"
+      "timestamp": "2026-03-20T13:23:26.284794Z"
     },
     "4.4.2": {
       "title": "環境擊退（Environmental Boops）",
       "description": "",
       "content": [
-        "在地圖邊緣附近，震盪爆破（Concussive Blast）是確保擊殺並透過將敵人擊落場外來累積絕招能量的強力工具。"
+        "在靠近地圖邊緣時，震盪爆破（Concussive Blast）是一項強大的工具，能透過將敵人擊落場外來確保擊殺，並藉此累積絕招能量。"
       ],
       "content_hash": "35217c5e42a8",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:57.200681Z"
+      "timestamp": "2026-03-20T13:23:27.880476Z"
     },
     "4.4.3": {
       "title": "強迫敵人進入脆弱位置",
@@ -215,294 +215,294 @@
         "利用擊退效果來：",
         "* 將敵人彼此分離",
         "* 將目標從高處擊落",
-        "* 將敵人從掩體後方推至空曠地帶"
+        "* 將敵人推離掩體，使其暴露在空曠區域"
       ],
       "content_hash": "c8ed7d89c796",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:58.652819Z"
+      "timestamp": "2026-03-20T13:23:29.374617Z"
     },
     "4.4.4": {
       "title": "阻止撤退",
       "description": "",
       "content": [
-        "震盪爆破（Concussive Blast）最有價值的用途之一，就是阻止目標逃脫。",
-        "如果敵人試圖透過走位或使用位移技能來脫離戰場，請利用擊退效果將他們留在暴露的位置。這在戰鬥中段清理殘存敵人時非常有效。"
+        "震盪衝擊（Concussive Blast）最有價值的用途之一，就是阻止目標逃脫。",
+        "如果敵人試圖透過走位或使用位移技能來脫離戰鬥，請利用擊退效果讓他們持續暴露在危險之中。這在戰鬥中後期清理殘存敵人時極為有效。"
       ],
       "content_hash": "2d9b518610e4",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:00.214660Z"
+      "timestamp": "2026-03-20T13:23:31.070713Z"
     },
     "4.5": {
       "title": "懸浮噴射（Hover Jets）",
       "description": "",
       "content": [
-        "懸浮噴射（Hover Jets）的操作技巧"
+        "關於 ![](/data/assets/guide/3ec5c760c0f9e4e4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhover-jets.png)懸浮噴射（Hover Jets）的技巧"
       ],
-      "content_hash": "5f6cf79c782f",
-      "prompt_version": "v5",
+      "content_hash": "d37a23d3c84b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:01.542428Z"
+      "timestamp": "2026-03-20T13:23:32.363529Z"
     },
     "4.5.1": {
-      "title": "屋頂懸浮",
+      "title": "屋頂懸停",
       "description": "",
       "content": [
         "利用屋頂、牆壁和地圖幾何結構在空中滯留，且不會消耗燃料。",
-        "* 非常適合用於建立側襲、快速移動路線以及俯衝角度。",
-        "* 通常可以在屋頂尖端保持平衡並滑行。",
-        "* 在使用冷卻時間（cooldowns）到達屋頂後，你可以進行「屋頂懸浮」來等待技能冷卻時間（CDs）重置。",
-        "* 屋頂懸浮**不會**恢復燃料。"
+        "* 非常適合用於設置側襲、快速移動路線（rollouts）以及俯衝角度。",
+        "* 通常可以平衡地站在屋頂尖端，或是在其表面滑行。",
+        "* 在使用冷卻時間（cooldowns）技能抵達屋頂後，你可以進行「屋頂懸停」來等待技能冷卻時間恢復。",
+        "* 屋頂懸停**不會**恢復燃料。"
       ],
       "content_hash": "aecd323877b0",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:03.370647Z"
+      "timestamp": "2026-03-20T13:23:34.235046Z"
     },
     "4.6": {
       "title": "噴射衝刺（Jet Dash）",
       "description": "",
       "content": [
-        "噴射衝刺（Jet Dash）的技巧",
-        "* 法拉（Pharah）幾乎可以按任何順序連鎖使用她的移動技能。關鍵在於決定要使用哪些技能、使用的順序，以及保留哪些技能以利脫離戰場。"
+        "關於 ![](/data/assets/guide/77fd7fe9918b2164.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjet-dash.png)噴射衝刺（Jet Dash）的提示",
+        "* 法拉（Pharah）可以幾乎以任何順序串聯她的移動技能。關鍵在於決定要使用哪些技能、使用的順序，以及保留哪些技能來脫離戰鬥。"
       ],
-      "content_hash": "e8f5fd791128",
-      "prompt_version": "v5",
+      "content_hash": "0afe3a20fd11",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:04.910717Z"
+      "timestamp": "2026-03-20T13:23:35.545245Z"
     },
     "4.7": {
-      "title": "[絕招]：火箭彈幕（Barrage）",
+      "title": "[絕招]：彈幕（Barrage）",
       "description": "",
       "content": [
-        "火箭彈幕（Barrage）的使用技巧",
-        "* 法拉（Pharah）需要保持相當近的距離，才能利用絕招快速擊殺敵人。請勿在飛行至最高高度時使用火箭彈幕（Barrage）。",
-        "* 使用火箭彈幕（Barrage）會讓你變得極度脆弱。若有可能，請請求隊友提供保護，例如防禦矩陣（Defense Matrix）、投射屏障（Projected Barrier）或保護鈴（Protection Suzu）。",
-        "* 最理想的情況是從高處落下，或是沿著屋頂或邊緣滑下，藉此悄悄接近目標。法拉（Pharah）的所有噴射音效都非常大聲，會讓敵人察覺你的位置。"
+        "關於 ![](/data/assets/guide/bdc23f8912816520.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrage.png)彈幕（Barrage）的技巧",
+        "* ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉（Pharah）需要保持相當近的距離，才能利用絕招快速擊殺目標。請勿在飛行至最高高度時使用 ![](/data/assets/guide/bdc23f8912816520.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrage.png)彈幕（Barrage）。",
+        "* 使用 ![](/data/assets/guide/bdc23f8912816520.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrage.png)彈幕（Barrage）會讓你變得極度脆弱。若有可能，請請求隊友提供保護，例如 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）、![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障（Projected Barrier）或 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu）。",
+        "* 最理想的情況是透過從高處落下，或是沿著屋頂或邊緣滑下，藉此悄悄接近目標。法拉所有的噴射推進器聲音都非常大，會讓敵人察覺你的位置。"
       ],
-      "content_hash": "a4eb1c9abe2d",
-      "prompt_version": "v5",
+      "content_hash": "953225f373aa",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:06.819349Z"
+      "timestamp": "2026-03-20T13:23:38.050334Z"
     },
     "4.8.1": {
       "title": "衝刺 → 震盪跳躍",
       "description": "",
       "content": [
-        "使用噴射衝刺（Jet Dash），然後在爆炸半徑內立即接上震盪爆破（Concussive Blast）進行跳躍。",
-        "* 可以將兩項技能疊加在同一個方向，以進行長距離移動。",
-        "* 可以在連段過程中改變方向，從轉角處出其不意地發動突襲。"
+        "使用 ![](/data/assets/guide/77fd7fe9918b2164.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjet-dash.png)噴射衝刺（Jet Dash），然後在爆炸半徑內立即使用 ![](/data/assets/guide/ae9bcf3003d3c260.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconcussive-blast.png)震盪爆破（Concussive Blast）進行跳躍。",
+        "* 可以將兩種能力疊加在同一個方向，以進行長距離移動。",
+        "* 可以在連招過程中改變方向，從而意外地繞過轉角發動突襲。"
       ],
-      "content_hash": "25eaadd9dfa5",
-      "prompt_version": "v5",
+      "content_hash": "48b541108e93",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:08.636354Z"
+      "timestamp": "2026-03-20T13:23:39.820462Z"
     },
     "4.8.2": {
-      "title": "火箭跳（Rocket Jump）+ 衝刺（Dash）+ 震盪跳（Concussive Jump）",
+      "title": "火箭跳（Rocket Jump）+ 衝刺（Dash）+ 震盪衝擊（Concussive Jump）",
       "description": "",
       "content": [
         "最快速的爆發性移動方式。",
         "* 需要幾乎同時啟動。",
-        "* 同時提供水平與垂直距離。",
+        "* 同時提供水平與垂直位移距離。",
         "* 常用於突襲落單的狙擊手目標。",
         "* 常見於創造出其不意的彈幕（Barrage）攻擊角度。"
       ],
       "content_hash": "48d2c3a48d62",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:09.894537Z"
+      "timestamp": "2026-03-20T13:23:41.520035Z"
     },
     "4.8.3": {
-      "title": "樓梯衝刺（Stair Dash）",
+      "title": "階梯衝刺（Stair Dash）",
       "description": "",
       "content": [
-        "在傾斜表面（例如樓梯）上進行衝刺（Dash）。",
-        "* 法拉（Pharah）不會飛向空中，而是沿著斜坡滑行。",
+        "在傾斜表面（例如階梯）上進行衝刺。",
+        "* 法拉（Pharah）不會升至空中，而是沿著斜坡滑行。",
         "* 允許在地面進行快速的重新定位。",
-        "* 透過調整視角與方向輸入，可以瞬間轉過轉角。"
+        "* 透過調整視角與方向輸入，可以瞬間轉過角落。"
       ],
       "content_hash": "038a2c2092f6",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:11.542884Z"
+      "timestamp": "2026-03-20T13:23:43.021318Z"
     },
     "5.1.1": {
-      "title": "漂浮推進器（Drift Thrusters）",
-      "description": "法拉（Pharah）可以在施放火箭彈幕（Barrage）時進行移動。",
+      "title": "漂移推進器（Drift Thrusters）",
+      "description": "法拉（Pharah）在施放火箭彈幕（Barrage）時可以移動。",
       "content": [
-        "* 這幾乎是你想要在施放自身絕招時存活下來的唯一方法。雖然移動幅度看起來不大，但事實證明這項特殊能力（perk）在提升火箭彈幕（Barrage）的成功率方面非常有效。"
+        "* 這幾乎是你想要在施放絕招時存活下來的唯一途徑。雖然移動幅度看起來不大，但事實證明這項特殊能力（perk）能有效提升火箭彈幕（Barrage）的成功率。"
       ],
       "content_hash": "ffaf4bd81c36",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:13.039338Z"
+      "timestamp": "2026-03-20T13:23:44.648782Z"
     },
     "5.1.2": {
       "title": "螺旋護盾（Helix Shields）",
-      "description": "將 125 點生命值轉換為護盾。使用火箭發射器（Rocket Launcher）進行直接命中時，會觸發被動護盾恢復效果。",
+      "description": "將 125 點生命值轉換為護盾。火箭發射器（Rocket Launcher）的直接命中會觸發被動護盾恢復。",
       "content": [
-        "* 具備良好的自我維持能力。當你無法從支援角色那裡獲得穩定的治療時，這是最佳選擇。"
+        "* 具備良好的自我維持能力。當你無法從支援英雄那裡獲得穩定的治療時，這是最佳選擇。"
       ],
       "content_hash": "d247e8b72806",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:14.818968Z"
+      "timestamp": "2026-03-20T13:23:46.136050Z"
     },
     "5.2.1": {
       "title": "燃料儲存（Fuel Stores）",
       "description": "噴射衝刺（Jet Dash）可獲得 50% 燃料。最大超載燃料量增加 100%。",
       "content": [
-        "* 讓法拉（Pharah）能在空中停留更久。在擁有大量垂直掩體的地圖（例如捍衛者基地：直布羅陀（Watchpoint: Gibraltar））上效果最佳。"
+        "* 讓法拉（Pharah）能在空中停留更久。在像捍衛者基地：直布羅陀（Watchpoint: Gibraltar）這種擁有大量垂直掩體的地圖上效果最佳。"
       ],
       "content_hash": "679a426d732b",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:16.381916Z"
+      "timestamp": "2026-03-20T13:23:47.670537Z"
     },
     "5.2.2": {
       "title": "火箭齊射（Rocket Salvo）",
-      "description": "在使用移動技能後，下一次主要攻擊會射出兩枚螺旋小火箭，每枚造成 40 點傷害。",
+      "description": "在使用移動技能後，下一次主要攻擊會射出兩枚螺旋狀小型火箭，每枚造成 40 點傷害。",
       "content": [
-        "* 考慮到法拉擁有兩種移動技能，你可以相當頻繁地觸發這些小火箭。這對於額外傷害和提升範圍傷害（AoE）非常有幫助。",
+        "* 考慮到法拉（Pharah）擁有兩個移動技能，你可以相當頻繁地觸發這些小型火箭。這對於提升額外傷害與增強範圍傷害（AoE）效果顯著。",
         "* 直接命中的總傷害現在為 200"
       ],
       "content_hash": "7f4cb8ff4ad3",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:18.052567Z"
+      "timestamp": "2026-03-20T13:23:49.115419Z"
     },
     "6.1.1": {
       "title": "愛西瓦德",
       "description": "",
       "content": [
-        "愛西瓦德的前兩個據點為法拉提供了地圖中數一數二的機會，讓她能打出極具影響力的個人操作。無論是在防守方還是進攻方，都可以輕鬆利用各種屋頂和高牆來進行側襲，並徹底瓦解敵方的戰術佈局。控制第二據點的高地是獲勝的關鍵條件。法拉是少數能夠在該區域快速切入並撤離高地的角色之一。"
+        "愛西瓦德的前兩個據點為法拉提供了地圖中數一數二的絕佳機會，讓她能打出極具影響力的個人操作。無論是在進攻還是防守方，都可以輕鬆利用各種屋頂和高牆來進行側襲，並徹底打亂敵方的戰術佈局。控制第二據點的高地是獲勝的關鍵條件。法拉是少數能在此區域快速切入並從高地撤退的英雄之一。"
       ],
       "content_hash": "7bb9760690ab",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:19.756769Z"
+      "timestamp": "2026-03-20T13:23:50.944947Z"
     },
     "6.1.2": {
       "title": "灕江天塔",
       "description": "",
       "content": [
-        "在灕江天塔的三個地圖區域中，控制中心（Control Tower）對法拉來說表現最差，但即便如此，她依然能在此發揮強大的影響力。花園（Garden）和夜市（Night Market）則是法拉的遊樂場。她可以安全地透過窗戶和牆壁上方進行騷擾，讓敵人極難應對。若在這兩個據點有慈悲（Mercy）隨身輔助，如果你的隊伍還輸掉比賽，那絕對是藉口，因為法拉在灕江天塔這種環境架構下具有極強的統治力，且完全契合該地圖的特性。"
+        "在灕江天塔的三個地圖區域中，控制中心（Control Tower）對法拉來說表現最差，但即便如此，她仍能在此發揮強大的影響力。花園（Garden）和夜市（Night Market）則是法拉的遊樂場。她可以安全地透過窗戶和牆壁上方進行騷擾，讓敵人極難應對。若在這兩個據點有慈悲（Mercy）隨身輔助，如果你的隊伍還輸掉比賽，那將毫無藉口，因為法拉在灕江天塔這種環境架構下具有極強的統治力，且完美契合該地圖的特性。"
       ],
       "content_hash": "1ac2dd3ebc19",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:21.784475Z"
+      "timestamp": "2026-03-20T13:23:52.739660Z"
     },
     "6.1.3": {
       "title": "香巴里僧院",
       "description": "",
       "content": [
-        "香巴里僧院是另一張非常適合法拉的地圖，因為其開闊的空間周圍環繞著完美的建築掩體，非常適合飛行英雄。在進攻第一個據點時，從左側或右側的建築物上方進行側襲，對法拉來說都是絕佳的選擇，可以藉此飛越並迫使敵方將注意力從她的隊友身上移開，進而讓隊友能夠順利推進目標物。第二個據點同樣為法拉提供了多條飛行路徑可供選擇，這使得敵方隊伍難以預測並針對她的進攻做出防備。"
+        "香巴里僧院（Shambhali Monastery）是另一張非常適合法拉（Pharah）的地圖，因為這裡的開放空間周圍都有完美的結構掩體，非常適合飛行英雄。在進攻第一個據點時，從左側或右側的建築物進行側襲，對法拉來說都是絕佳的選擇，可以藉此飛越並強迫敵方將注意力從她的隊友身上移開，讓隊友能順利推進目標物。第二個據點也為法拉提供了多條飛行路徑可供選擇，使敵方隊伍難以預測並針對她的進攻做出防備。"
       ],
       "content_hash": "767e1b5ab440",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:23.428509Z"
+      "timestamp": "2026-03-20T13:23:54.829981Z"
     },
     "6.2.1": {
       "title": "薩摩亞",
       "description": "",
       "content": [
-        "薩摩亞的三個地圖區域中，沒有任何一個能提供法拉（Pharah）所需要的垂直結構來進行遊走。控制點也過於狹窄，對於飛行英雄來說，很難在不將自己完全暴露的情況下進行佈局。在這張地圖上，你很可能會發現自己只能不斷地對戰士（Bruiser）陣容進行騷擾，卻始終無法取得擊殺。"
+        "薩摩亞的三個地圖區域中，沒有任何一個能提供法拉（Pharah）所需要的垂直結構來進行戰術運用。控制點的空間也過於狹窄，對於飛行型英雄來說，很難在不讓自己過度暴露的情況下進行佈局。在這張地圖上，你很可能會發現自己只能不斷地對戰士（Bruiser）陣容進行消耗，卻始終無法取得擊殺。"
       ],
       "content_hash": "97589fc6ec56",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:25.228604Z"
+      "timestamp": "2026-03-20T13:23:56.503315Z"
     },
     "6.2.2": {
       "title": "伊利歐斯",
       "description": "",
       "content": [
-        "雖然「深井（Well）」對法拉來說是一張強勢地圖，但在「遺跡（Ruins）」和「燈塔（Lighthouse）」上，她必須完全壓制住對手才能發揮作用。遺跡地圖充斥著狙擊手，他們在這裡對法拉擁有極大的優勢。此外，由於燈塔地圖的目標點位於地圖邊緣，加上目標區域內有大量的天然掩體可供英雄利用，法拉在該地圖上難以對目標點施加壓力。"
+        "雖然「深井（Well）」對法拉來說是一張強勢地圖，但在「廢墟（Ruins）」和「燈塔（Lighthouse）」上，她必須完全壓制住對手才能發揮作用。廢墟地圖充斥著神射手（Sharpshooter），他們在這裡對法拉擁有巨大的優勢。此外，由於地圖邊緣的配置，以及目標區域內為英雄提供了大量的天然掩體，法拉在燈塔地圖上也很難對據點施加壓力。"
       ],
       "content_hash": "7d1bf90ebf83",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:26.996744Z"
+      "timestamp": "2026-03-20T13:23:58.256338Z"
     },
     "6.2.3": {
       "title": "哈瓦那",
       "description": "",
       "content": [
-        "哈瓦那擁有極為開闊的天空，在主要中心區域幾乎沒有掩體。在第一點和第三點，神射手（Sharpshooter）主宰了天空，導致法拉（Pharah）難以找到任何角度進行騷擾或進場。雖然她可以貼著牆壁並在邊緣地帶遊走，但地圖的幾何結構並無法發揮法拉（Pharah）的任何優勢。"
+        "哈瓦那擁有極為開闊的天空，主要中心區域幾乎沒有掩體。在第一點與第三點，神射手（Sharpshooter）主宰了天空，這使得法拉（Pharah）難以找到任何可以進行騷擾或進場的角度。雖然她可以貼著牆壁並在邊緣地帶遊走，但這張地圖的幾何結構完全無法發揮法拉（Pharah）的任何優勢。"
       ],
       "content_hash": "7fa80f295b1f",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:28.337512Z"
+      "timestamp": "2026-03-20T13:23:59.700187Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "法拉（Pharah）新獲得的獨立性與適應力，使她能成為任何類型隊伍陣容中的有效成員。她既能留在隊伍中進行消耗戰，也能跟上任何隊伍的速度與機動性，這意味著法拉更依賴地圖而非隊伍陣容。不過，側襲者（Flanker）陣容最適合她，能讓法拉充分發揮她技能組的每一項優勢。她可以利用火箭從遠距離支援隊伍進攻，或是透過深度的側翼角度進行側襲。在上述任一情況下，法拉都能用來製造傷害，讓隊友跟進並確認擊殺，或是由她本人負責跟進並給予最後一擊。"
+        "法拉（Pharah）新獲得的獨立性與適應力，使她能成為任何類型隊伍陣容中的有效成員。她能夠留在隊伍中進行消耗，或是跟上任何隊伍的速度與移動，這意味著法拉相較於隊伍陣容，更依賴地圖的選擇。不過，側襲者（Flanker）陣容最適合她，這能讓法拉充分發揮她技能組的每一個面向。她可以利用火箭從遠距離支援隊伍的突進，或是透過深入的側翼死角進行支援。無論在哪種情況下，法拉都能用來製造傷害，讓隊伍的其他成員跟進並確認擊殺，或者由她本人負責跟進並給予最後一擊。"
       ],
       "content_hash": "e351ba0257cf",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:30.081755Z"
+      "timestamp": "2026-03-20T13:24:01.758354Z"
     },
     "7.0.1": {
-      "title": "圍繞以下陣容的理想隊伍配置：",
+      "title": "以以下陣容為核心的理想隊伍配置：",
       "description": "",
       "content": [
-        "D.Va、法拉、閃光、慈悲、安娜"
+        "![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va, ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉, ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光, ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲, ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜"
       ],
-      "content_hash": "7edf647099b2",
-      "prompt_version": "v5",
+      "content_hash": "d6255b6db18c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:31.638975Z"
+      "timestamp": "2026-03-20T13:24:04.040633Z"
     },
     "7.1": {
-      "title": "與其他英雄的個人搭配（Synergies）",
+      "title": "與其他英雄的個人搭配",
       "description": "",
       "content": [
-        "D.Va",
-        "* D.Va 與法拉（Pharah）搭配良好，主要是因為兩者都具備飛行機動性。無論敵方目標位於何處，D.Va 與法拉總能找到縮短距離並觸及目標的方法。雖然其他英雄很難跟上這兩位英雄的移動節奏，但將她們搭配在一起會讓這種機動性變得更加致命。此外，D.Va 的防禦矩陣（Defense Matrix）絕對是確保法拉在使用彈幕（Barrage）時能存活下來的最佳手段之一。防禦矩陣可以讓法拉有時間重新調整位置、採取進攻，或是在她受到集火時提供保護。這兩位英雄之間的搭配需要一定的協調性，因此若沒有團隊語音溝通，可能難以發揮出最佳效果。",
-        "索潔恩（Sojourn）",
-        "* 雖然索潔恩無法飛行，也不是側襲者（Flanker），但她在中遠距離的壓制力，結合強力的滑行（Power Slide）機動性，使她成為第二位輸出位（DPS）的絕佳選擇。軌道砲（Rail Gun）能快速充能並輸出持續的小型壓力。索潔恩可以利用她的機動性來建立攻擊角度，捕捉那些抬頭看向法拉的敵人，並輕鬆對準目標進行副攻擊（Alt-fire）軌道砲的爆頭射擊。在幾乎每一張地圖上，這兩位英雄都能透過從相反的角度進行攻擊，有效地分散敵方隊伍的注意力；當冷卻時間就緒時，兩者皆能跟進對方的攻勢。",
-        "慈悲（Mercy）",
-        "* 法拉與慈悲（PharMercy）。這是《鬥陣特攻》整個生命週期中最具代表性的雙人組之一。新版本的法拉與慈悲與舊版有很大的不同。過去，這對組合會長時間滯空、從遠距離與側邊角度進行騷擾，並在隊伍其餘成員各自行動時執行單獨的任務。目前，法拉即使沒有慈悲也能運作，但若有慈悲隨身提供傷害增幅（Damage Boost）與治療，她仍能獲得巨大的優勢。慈悲通常可以讓法拉在戰鬥開始時保持在較低的位置或地面，並透過邊角探頭（Jiggle peeking）來消耗敵方的防禦。一旦時機成熟，對法拉的進攻進行傷害增幅，幾乎能保證在敵人反應過來之前就迅速擊殺目標。"
+        "![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va",
+        "* D.Va 與法拉（Pharah）搭配良好，主要原因在於兩者皆具備飛行機動性。無論敵方目標位於何處，D.Va 與法拉總能找到縮短距離並抵達目標的方法。雖然其他英雄難以跟上這兩位英雄的移動節奏，但將她們搭配在一起會使這種機動性變得更加致命。此外，D.Va 的防禦矩陣（Defense Matrix）絕對是確保法拉在使用火箭彈幕（Barrage）時能存活下來的最佳手段之一。防禦矩陣能為法拉爭取時間來重新定位、採取進攻，或是在她受到集火時提供保護。這兩者之間的搭配需要一定的協調，因此若沒有團隊語音，可能難以發揮出最佳效果。",
+        "![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)Sojourn",
+        "* 雖然索潔恩（Sojourn）無法飛行，也不是一名側襲者（Flanker），但她在中遠距離的壓制力，結合強力的滑行（Power Slide）機動性，使索潔恩成為第二位輸出位（DPS）的絕佳選擇。軌道砲（Rail Gun）能快速充能並輸出持續的小型壓制傷害。索潔恩可以利用她的機動性來建立角度，捕捉那些抬頭看向法拉的敵人，並輕鬆地瞄準頭部進行軌道砲（Rail Gun）的次要攻擊（Alt-fire）。在幾乎每一張地圖上，這兩位英雄都能透過從相反角度進攻來有效地分散敵隊注意力，且當冷卻時間就緒時，兩者都能跟進對方的攻勢。",
+        "![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)Mercy",
+        "* 法拉慈悲（PharMercy）。這是《鬥陣特攻》整個生命週期中最具代表性的雙人組之一。新版本的法拉慈悲與舊版大不相同。過去，這對組合會長時間飛行，從遠距離和側翼進行騷擾，並在隊伍其餘成員各自行動時執行單獨任務。現今，法拉即便沒有慈悲也能發揮作用，但若有能隨時跟隨她的專屬傷害增幅與治療，她仍能獲得巨大優勢。慈悲通常可以讓法拉在低處或地面位置開始戰鬥，並透過反覆探頭（jiggle peeking）轉角來削弱敵方防線。一旦時機成熟，對法拉的進攻進行傷害增幅，幾乎能保證在敵人反應過來之前就快速擊殺目標。"
       ],
-      "content_hash": "a8d71ed55174",
-      "prompt_version": "v5",
+      "content_hash": "228c4e839f6d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:35.736196Z"
+      "timestamp": "2026-03-20T13:24:07.815358Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "當你發現對手有一位厲害的法拉（Pharah）玩家時，你主要需要留意兩件事：她會從哪裡發動進攻，以及她試圖利用哪條視線（LoS）。如果你能預測法拉可能會利用機動性從何處發動進攻（例如越過某道牆，或是繞過某個轉角等），你就能讓她措手不及，並有很大機會在她的冷卻時間（CDs）重置並逃脫前將其擊殺。如果你能鎖定她試圖利用的視線，你就能在她探頭時抓到她，並在她暴露時給予打擊，或者將自己移動到她無法攻擊你的位置。"
+        "當你發現對手有一位厲害的法拉（Pharah）玩家時，你主要需要留意兩件事：她會從哪裡發動進攻，以及她試圖利用哪條視線（LoS）。如果你能預判法拉可能會利用機動性從何處發動進攻（例如從某道牆後或某個轉角處等），你就能讓她措手不及，並有很大的機會在她的冷卻時間（CDs）重置且她能逃脫之前將其擊殺。如果你能鎖定她試圖利用的視線，你就能在她探頭時抓住機會進行攻擊，或將自己移動到她無法攻擊你的位置。"
       ],
       "content_hash": "5e3591cb9fd5",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:37.808510Z"
+      "timestamp": "2026-03-20T13:24:09.781121Z"
     },
     "8.1": {
       "title": "特定英雄反制策略",
       "description": "",
       "content": [
-        "莫加（Mauga）",
-        "* 當你選擇坦克時，莫加是應對法拉的最佳選擇。他不僅能透過即時命中（hitscan）的主武器精準追蹤空中的法拉，一旦目標被點燃，額外 2 秒的持續傷害還能進一步延遲法拉的通用自我治療被動技能生效，從而讓法拉更長時間無法重返戰鬥。",
-        "所有即時命中（Hitscan）輸出英雄",
-        "* 哪位即時命中輸出英雄最適合反制法拉，取決於地圖與玩家偏好。在像皇家賽道（Circuit Royal）這種視野開闊的地圖，艾西與奪命女是最佳選擇。而在交戰距離較近的地圖（如北極半島），則更適合卡西迪或士兵76。最重要的是了解你所使用英雄的傷害衰減距離，並透過正確的站位來對敵方法拉輸出最大化傷害。",
-        "巴帝斯特（Baptiste）",
-        "* 巴帝斯特可以透過幾次快速的點射來迅速擊殺法拉。他的「戰靴（Exo Boots）」能讓他保持在空中，讓法拉難以命中火箭。此外，「維生力場（Immortality Field）」也是保護自己與隊友免受法拉火箭傷害的強大工具，並能提供額外的生存時間，讓隊伍有機會反應並中斷法拉的絕招「彈幕（Barrage）」。"
+        "![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加",
+        "* 當你選擇坦克時，莫加是應對法拉的最佳選擇。他不只擁有能精準追蹤飛行中法拉的即時命中（hitscan）主要攻擊，一旦目標被點燃，額外 2 秒的持續傷害還能進一步延遲法拉的通用自我治療被動效果觸發，從而讓法拉更長時間無法重返戰鬥。",
+        "**所有即時命中（Hitscan）輸出英雄**",
+        "* 哪位即時命中（Hitscan）輸出英雄最適合反制法拉，取決於地圖與玩家偏好。像皇家賽道這種長視線地圖，艾西與奪命女是最佳選擇。而像北極半島這種近距離地圖，則更適合卡西迪或士兵76。最重要的是了解你所選英雄的傷害衰減距離，並透過站位來最大化對敵方法拉的傷害輸出。",
+        "![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特",
+        "* 巴帝斯特可以透過幾次快速的點射主要攻擊來擊殺法拉。他的「戰鬥靴（Exo Boots）」能讓他離開地面，在空中移動，讓法拉難以命中火箭。而「維生力場（Immortality Field）」也是保護自己與隊友免受法拉火箭傷害的強力工具，並能提供額外的生存時間，讓隊伍有機會反應並中斷法拉的絕招。"
       ],
-      "content_hash": "c512db1e6bef",
-      "prompt_version": "v5",
+      "content_hash": "3d548bbe4da3",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:40.731826Z"
+      "timestamp": "2026-03-20T13:24:12.641145Z"
     },
     "8.2": {
       "title": "特定英雄剋星名稱",
@@ -516,14 +516,14 @@
         "* 巴帝斯特"
       ],
       "content_hash": "941d10e67d20",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:42.157648Z"
+      "timestamp": "2026-03-20T13:24:14.111447Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:40:28.058535Z"
+    "timestamp": "2026-03-20T13:22:57.523346Z"
   }
 }

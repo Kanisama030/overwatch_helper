@@ -6,39 +6,39 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "自《鬥陣特攻》推出以來，慈悲（Mercy）一直是核心輔助英雄之一。儘管她的技能組在不同的版本環境（meta）中備受爭議，但慈悲確實協助將《鬥陣特攻》塑造為今日我們所熟知的樣貌。她技能組的獨特之處在於能夠復活倒下的隊友，以及無需冷卻時間的持續傷害增幅。",
-        "對於那些真正實踐「輔助」角色的玩家來說，慈悲是一個絕佳的選擇，因為她是一位輔助者（enabler），而非單打獨鬥的戰術發起者。你很少會看到她在全場最佳鏡頭（Play of the Game）中出現，但一名優秀的慈悲玩家可以硬扛隊伍，一路攀升至最高階的競技排名。"
+        "自《鬥陣特攻》推出以來，![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲一直是代表性的支援英雄之一。儘管她的技能組在不同的版本環境中備受爭議，但慈悲確實協助將《鬥陣特攻》塑造為今日我們所熟知的樣貌。她技能組的獨特之處在於能夠復活倒下的隊友，以及無需冷卻時間的持續傷害增幅。",
+        "對於那些字面上執行支援職責的玩家來說，![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲是一個絕佳的選擇，因為她是一位輔助型角色，而非單打獨鬥的關鍵操盤手。你很少會看到她出現在全場最佳鏡頭中，但一名優秀的慈悲玩家能夠一路帶領隊伍爬升至最高階級。"
       ],
-      "content_hash": "18291519f962",
-      "prompt_version": "v5",
+      "content_hash": "bc2f43bd61f3",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:22.839827Z"
+      "timestamp": "2026-03-20T13:21:59.290447Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 支援致勝關鍵。隨時留意隊伍中誰正準備發動孤注一擲的進攻，並緊跟著他們。",
-        "* 管理光束的使用。如果所有隊友的生命值都很充足，請持續使用傷害增幅（Damage Boost），直到有人需要治療才能存活並繼續進攻為止。",
-        "* 利用你的位移來生存。慈悲無法自我防衛，因此你必須透過守護天使（Guardian Angel）的位移來閃避敵方攻擊。"
+        "* 專注於致勝關鍵。隨時留意隊伍中誰正準備發動孤注一擲的進攻，並緊跟著他們。",
+        "* 管理光束的使用。如果所有隊友的生命值都很充足，請持續使用傷害增幅，直到有人需要治療才能存活並繼續進攻為止。",
+        "* 利用你的移動能力來生存。![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲無法自我防衛，因此你必須透過守護天使的移動來閃避敵人的攻擊。"
       ],
-      "content_hash": "9e027bc017a9",
-      "prompt_version": "v5",
+      "content_hash": "a1f3b4029b5a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:24.463997Z"
+      "timestamp": "2026-03-20T13:22:00.990426Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 不要讓她輕易地完成復活。如果她的隊友陣亡，預期她會尋找機會進行復活。隨時準備好懲罰她。",
-        "* 在不使用移動技能的情況下誘出守護天使（Guardian Angel）。接著追擊她並將其擊殺。",
-        "* 鎖定慈悲（Mercy）。比起試圖透過她的治療去擊殺她的隊友，優先消滅慈悲（Mercy）會更有效率。"
+        "* 別讓她輕易地完成復活。如果她的隊友陣亡，預期她會尋找機會進行復活。隨時準備好懲罰她。",
+        "* 在不使用位移技能的情況下誘騙出守護天使（Guardian Angel）。接著追擊她並將其擊殺。",
+        "* 以 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲 為目標。優先擊殺慈悲，比起試圖透過她的治療來擊殺她的隊友，這樣做更有效率。"
       ],
-      "content_hash": "22031fab4065",
-      "prompt_version": "v5",
+      "content_hash": "843edbb7b0b9",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:26.078804Z"
+      "timestamp": "2026-03-20T13:22:02.821961Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -46,300 +46,300 @@
       "content": [
         "* 高回報操作",
         "* 人數優勢",
-        "* 良好的生存能力",
-        "* 仰賴團隊配合",
-        "* 缺乏自我防衛手段",
+        "* 優良的生存能力",
+        "* 依賴團隊",
+        "* 無自我防衛手段",
         "* 單體目標輔助"
       ],
       "content_hash": "60d3afe2232e",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:27.415389Z"
+      "timestamp": "2026-03-20T13:22:04.356050Z"
     },
     "3.1.1": {
       "title": "高回報操作",
       "description": "",
       "content": [
-        "慈悲的整體遊玩風格在於風險與回報的控管。嘗試進行復活（Rez）總是伴隨著風險，但能讓隊友瞬間重返戰場的回報極為巨大。此外，專注輔助（Pocketing）一名隊友能賦予他們執行比平時更冒險操作的能力。舉例來說，索潔恩獨自深入側襲時無法存活，但若有慈悲的專注輔助，她就有可能殲滅整支敵隊。"
+        "![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲的整體遊玩風格在於風險與回報的控管。嘗試進行復活（Rez）總是伴隨著風險，但能讓隊友瞬間重返戰場的回報極為巨大。此外，專注輔助（Pocketing）一名盟友能賦予他們執行比平時更冒險的操作。舉例來說，一名 ![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩獨自深入側襲時無法存活，但若有慈悲的專注輔助，她便有可能殲滅整個敵方隊伍。"
       ],
-      "content_hash": "868578bdad34",
-      "prompt_version": "v5",
+      "content_hash": "974c2ae29610",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:28.876144Z"
+      "timestamp": "2026-03-20T13:22:06.504141Z"
     },
     "3.1.2": {
       "title": "人數優勢",
       "description": "",
       "content": [
-        "復活（Rez）能有效地迫使敵方在每一場會戰中，必須比我方多取得一次擊殺。一次復活會完全抵銷敵方為了取得擊殺所投入的任何技能與資源。"
+        "復活（Rez）能有效地迫使敵方在每一場會戰中，必須比我方多取得一次擊殺才能獲勝。一次成功的復活會完全抵銷敵方為了取得擊殺所投入的任何技能與資源。"
       ],
       "content_hash": "f223f298763c",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:30.226975Z"
+      "timestamp": "2026-03-20T13:22:07.983832Z"
     },
     "3.1.3": {
       "title": "高生存能力",
       "description": "",
       "content": [
-        "儘管慈悲沒有任何控場技能（CC）且沒有無敵效果，但她非常難以被擊殺。守護天使（Guardian Angel）讓她具備極高的閃避能力，難以被追蹤或追擊。此外，當她治療盟友時，她也會同時治療自己，並且還擁有支援角色的被動技能來進行自我恢復。"
+        "儘管 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲沒有任何控場技能（CC）且沒有無敵效果，但她非常難以被擊殺。守護天使（Guardian Angel）讓她具備極高的閃避能力，難以被鎖定或追擊。此外，她在治療隊友時也會同時治療自己，並且還擁有支援角色的被動技能來進行自我恢復。"
       ],
-      "content_hash": "6be638033d5d",
-      "prompt_version": "v5",
+      "content_hash": "6496614b532b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:31.568739Z"
+      "timestamp": "2026-03-20T13:22:09.687930Z"
     },
     "3.2.1": {
       "title": "依賴團隊",
       "description": "",
       "content": [
-        "無論你的慈悲操作有多麼神乎其技，你依然需要隊友來完成擊殺。慈悲並不是那種能夠獨自扛起團隊低迷表現的英雄。她可以在整場遊戲中為盟友提供傷害增幅（Damage Boost），但如果隊友無法造成有效的傷害，這項能力也發揮不了太大作用。"
+        "無論你的 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲操作有多麼神乎其技，你依然需要隊友來完成擊殺。慈悲並不是那種能獨自扛起團隊低迷表現的英雄。她可以整場為盟友提供傷害增幅，但如果對方無法造成有效的傷害，這也起不了太大的作用。"
       ],
-      "content_hash": "68c3a527ca0a",
-      "prompt_version": "v5",
+      "content_hash": "24cc3d48533a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:33.507562Z"
+      "timestamp": "2026-03-20T13:22:11.278911Z"
     },
     "3.2.2": {
       "title": "防禦能力薄弱",
       "description": "",
       "content": [
-        "當慈悲受到攻擊時，她主要依賴隊友來保護她，或是必須處於能使用守護天使（Guardian Angel）進行逃脫的範圍內。如果她不幸落單，且沒有人能提供協助，她在 1v1 的決鬥中幾乎毫無勝算。"
+        "當 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲受到攻擊時，她主要依賴隊友來保護她，或是必須處於能使用守護天使（Guardian Angel）進行逃脫的範圍內。如果她落單被抓，或是沒有人協助她，她在 1 對 1 的決鬥中幾乎沒有任何勝算。"
       ],
-      "content_hash": "94de38ebc640",
-      "prompt_version": "v5",
+      "content_hash": "ad585adbf3c5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:35.291215Z"
+      "timestamp": "2026-03-20T13:22:12.946039Z"
     },
     "3.2.3": {
-      "title": "單體目標支援",
+      "title": "單體支援",
       "description": "",
       "content": [
-        "取決於隊伍中的第二位支援角色，慈悲（Mercy）的「天使手杖（Caduceus Staff）」其單體目標的特性可能會成為一大劣勢。如果隊伍中有多名成員同時需要治療，他們就必須排隊等待，因為除了絕招之外，慈悲一次只能治療一名隊友。傷害增幅也是如此，如果兩名隊友正準備同時發動攻勢，你必須從中選擇一位來進行增幅。"
+        "取決於隊伍中的第二位輔助，![](/data/assets/guide/2c81fb62b0b54490.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcaduceus-staff.png)天使之杖（Caduceus Staff）的單體特性可能會成為一項重大劣勢。如果隊伍中有多名成員同時需要治療，他們就必須排隊等待，因為除了絕招之外，![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲一次只能治療一名隊友。傷害增幅也是如此，如果兩名隊友同時發動攻勢，你必須從中選擇一位進行增幅。"
       ],
-      "content_hash": "8c40efe197d9",
-      "prompt_version": "v5",
+      "content_hash": "b9a2a0a26c9d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:37.332757Z"
+      "timestamp": "2026-03-20T13:22:14.617697Z"
     },
     "4.1": {
-      "title": "主要攻擊：天使長杖（治療）",
+      "title": "主要攻擊：天使權杖（治療）",
       "description": "",
       "content": [
-        "**關於天使長杖（治療）的技巧**",
+        "**![](/data/assets/guide/2c81fb62b0b54490.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcaduceus-staff.png)天使權杖（治療）的技巧**",
         "* 確保隊友血量充足",
-        "* 確保你沒有將治療光束鎖定在一名血量全滿的隊友身上，而忽略了另一名血量偏低的隊友。你應該頻繁切換治療目標。",
-        "* 左右橫移探頭（Jiggle peek）",
-        "* 你的光束只有在失去視野（LoS）超過一秒後才會中斷。每次重新獲得視野時，此計時器都會重置。透過左右橫移探頭可以增加你的治療覆蓋時間，同時讓慈悲更安全並減少受到的傷害。",
-        "* 治療被屏障隔開的坦克",
-        "* 敵方坦克常見的戰術是利用屏障（如席格馬的屏障或溫斯頓的防護罩）來阻斷你對己方坦克的治療。與許多其他支援英雄不同，慈悲的治療可以穿透屏障。",
+        "* 確保你沒有將治療光束鎖定在滿血的隊友身上，而忽略了其他血量較低的隊友。你應該頻繁地切換治療目標。",
+        "* 左右探頭（Jiggle peek）",
+        "* 你的光束只有在失去視野超過一秒後才會中斷。每次重新獲得視野時，這個計時器都會重置。左右探頭可以增加你的治療覆蓋時間，同時讓 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲 更安全且受到的傷害更少。",
+        "* 治療被屏障阻隔的坦克",
+        "* 敵方坦克常見的戰術是利用屏障（例如 席格馬 的屏障或 溫斯頓 的防護罩）來阻斷你對坦克隊友的治療。與許多其他輔助英雄不同，![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲 的治療可以穿透屏障。",
         "* 自我治療",
-        "* 這不再是獨有的被動技能，現在屬於她的副角色（subrole）醫護兵（Medic）被動。但值得注意的是，這項共享的治療對於慈悲的生存至關重要。",
-        "* 可與生化手榴彈（Biotic Grenade）、女武神（Valkyrie）以及在大絕期間治療多個目標時的治療增益效果疊加。"
+        "* 這不再是獨有的被動技能，現在屬於副角色 ![](/data/assets/guide/2c6092f82d0f20bc.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fmedic.svg)醫護兵 被動。但值得注意的是，這種共享的治療對於 慈悲 的生存至關重要。",
+        "* 可與生化手榴彈、![](/data/assets/guide/7df3cd0fb86c3ebf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvalkyrie.png)女武神，以及在絕招期間治療多個目標時的治療加成效果疊加。"
       ],
-      "content_hash": "6a27cdad10e4",
-      "prompt_version": "v5",
+      "content_hash": "3d8792256c35",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:44.341905Z"
+      "timestamp": "2026-03-20T13:22:17.217339Z"
     },
     "4.2": {
       "title": "次要攻擊：天使權杖（傷害增幅）",
       "description": "",
       "content": [
-        "**關於**天使權杖**（傷害增幅）的技巧**",
+        "**![](/data/assets/guide/2c81fb62b0b54490.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcaduceus-staff.png)天使權杖（傷害增幅）的技巧**",
         "* 不要只當個補血機器",
-        "* 如果你只會補血，那不如選擇其他能做得更好的輔助英雄。慈悲最重要的功能就是她的傷害增幅。",
-        "* 增幅隊伍中殺傷力最強的隊友",
-        "* 任何當下處於能打出關鍵操作位置的隊友，都應該成為你傷害增幅的目標。他們使用什麼英雄並不重要，唯一重要的是他們是否正準備發動攻勢。通常來說，位置最前方的隊友最具備創造戰局的潛力。你需要隨時觀察並做出判斷，因為獲勝條件是不斷變化的。",
-        "* 優先確保隊友不會陣亡",
-        "* 雖然你應該盡可能尋求傷害增幅的機會，但也別忘了隨時留意生命值偏低的隊友。",
-        "* 利用掩體進行左右探頭（Jiggle peek）",
-        "* 這與補血時的技巧相同，但在進行傷害增幅時更為重要。通常當你在進行傷害增幅時，站位會更激進，也更容易暴露在危險之中。",
-        "* 你的光束只有在失去視野超過一秒後才會中斷。每次重新獲得視野時，這個計時器就會重置。利用掩體進行左右探頭可以增加你的增幅時間，同時讓慈悲保持在更安全的位置並減少受到的傷害。"
+        "* * 如果你只打算補血，那你不如選擇其他補血能力更強的支援英雄。慈悲（Mercy）最重要的功能就是她的傷害增幅。",
+        "* 優先增幅最具威脅性的隊友",
+        "* * 任何當下處於能發揮最大影響力位置的隊友，都應該成為你傷害增幅的目標。他們使用的是哪位英雄並不重要，唯一重要的是他們是否正準備發動關鍵攻勢。通常，位置最前線的隊友最具備發揮潛力。你需要隨時判斷局勢，因為你們的獲勝條件會不斷改變。",
+        "* 優先確保隊友存活",
+        "* * 雖然你應該盡可能尋求傷害增幅的機會，但也別忘了隨時留意生命值偏低的隊友。",
+        "* 左右橫移探頭（Jiggle peek）",
+        "* * 這與補血的技巧相同，但在進行傷害增幅時更為重要。通常當你在進行傷害增幅時，你的站位會更激進，也更容易暴露在潛在危險中。",
+        "* 你的光束只有在失去視野（LoS）超過一秒後才會中斷。每次重新獲得視野時，這個計時器就會重置。利用牆角進行左右橫移探頭（Jiggle peek）可以增加你的增幅時間，同時讓 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲（Mercy）保持在更安全的位置並減少受到的傷害。"
       ],
-      "content_hash": "84cdcc533440",
-      "prompt_version": "v5",
+      "content_hash": "b583abeb36ee",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:49.304469Z"
+      "timestamp": "2026-03-20T13:22:20.316903Z"
     },
     "4.3": {
       "title": "[SHIFT]：守護天使（Guardian Angel）",
       "description": "",
       "content": [
-        "**守護天使（Guardian Angel）的技巧**",
+        "![](/data/assets/guide/148ecdeadcafa610.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-angel.png)守護天使（Guardian Angel）的使用技巧",
         "* 不要讓自己處於隊友和敵人之間",
-        "* 你不會想成為肉盾，所以當敵人位於隊友前方時，請小心不要飛過頭。",
-        "* 同樣地，如果敵人位於你身後，請跳過你的隊友，再次讓他們處於你與敵人之間。",
+        "* * 你不會想成為肉盾，所以當敵人位於隊友前方時，請小心不要飛過頭。",
+        "* 同樣地，如果敵人位於你身後，請跳躍至隊友身後，再次讓隊友成為你與敵人之間的屏障。",
         "* 操控移動",
-        "* 標準的守護天使（Guardian Angel）、蹲伏超級跳（crouch super jump）、向前、向後、原地、垂直向上跳躍，這些只是慈悲（Mercy）每次使用守護天使（Guardian Angel）時可用的眾多移動選項中的幾種。",
-        "* 在抵達目標位置後按下蹲伏鍵，會使慈悲（Mercy）執行超級跳（super jump）。",
-        "* 方向輸入會影響移動距離。你可以向前跳躍、抵達後再向後跳躍，以此類推。"
+        "* * 標準的![](/data/assets/guide/148ecdeadcafa610.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-angel.png)守護天使（Guardian Angel）、蹲伏超級跳、向前、向後、原地、垂直向上跳躍，這些只是![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲（Mercy）在每次使用守護天使時可運用的眾多移動選項中的幾種。",
+        "* 在抵達目標位置後按下蹲伏鍵，會使![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲（Mercy）執行超級跳。",
+        "* 方向輸入會影響移動距離。你可以向前跳躍，抵達後再向後跳躍，以此類推。"
       ],
-      "content_hash": "30789715877f",
-      "prompt_version": "v5",
+      "content_hash": "0b1583188930",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:51.268626Z"
+      "timestamp": "2026-03-20T13:22:22.442862Z"
     },
     "4.4": {
       "title": "[E]：復活（Resurrect）",
       "description": "",
       "content": [
-        "**復活（Resurrect）技巧**",
-        "* 你不需要強行復活",
-        "* 即使隊友陣亡了，也不代表你一定要去復活他們，即便他們在語音頻道中大聲疾呼。如果敵方隊伍正包圍著陣亡地點，千萬不要嘗試。",
+        "**![](/data/assets/guide/76e56d5b5359b387.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fresurrect.png)復活（Resurrect）的技巧**",
+        "* 你不需要一定要復活隊友",
+        "* 僅僅因為隊友死亡並不代表你必須去復活他們，即使他們在語音頻道中大聲呼喊也是如此。如果敵方隊伍正包圍著死亡地點，請不要嘗試復活。",
         "* 利用掩體",
-        "* 復活時應隨時尋找掩體或牆角。慈悲（Mercy）可以啟動復活，然後在施法期間移動到牆角或天花板後方，復活效果依然會持續。只要她移動的距離不超過限制，技能就不會被取消。",
+        "* 你在復活時應該隨時尋找掩體和轉角。![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲（Mercy）可以在啟動復活後，在施法期間移動到轉角或天花板後方，依然能成功復活。她只是不能移動得太遠，否則技能會被取消。",
         "* 請求保護",
-        "* 提高復活存活率的最佳方式，就是讓你的坦克（Tank）提供保護，或是由另一位輔助（Support）進行治療。坦克可以用身體或屏障來掩護你。"
+        "* 提高復活存活率的最佳方式，就是讓你的戰士（Bruiser）保護你，或是由另一位醫護兵（Medic）為你治療。戰士（Bruiser）可以用他們的身體或屏障來進行掩護。"
       ],
-      "content_hash": "31c3e9da0ecb",
-      "prompt_version": "v5",
+      "content_hash": "717a1c7d119a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:53.103433Z"
+      "timestamp": "2026-03-20T13:22:24.694734Z"
     },
     "4.5": {
       "title": "天使手槍（Caduceus Blaster）",
       "description": "",
       "content": [
-        "**天使手槍（Caduceus Blaster）的使用技巧**",
+        "**![](/data/assets/guide/de8bd3e0c6c89d9e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcaduceus-blaster.png)天使手槍（Caduceus Blaster）的使用技巧**",
         "* 自我防衛",
-        "* * 有時隊友無法保護你免受敵方攻擊。在這種情況下，試著使用守護天使（Guardian Angel）來閃避，同時用你的天使手槍（Caduceus Blaster）射擊敵人。",
+        "* 有時候，你的隊友無法保護你免受攻擊者的威脅。在這種情況下，試著使用守護天使（Guardian Angel）來閃避，同時用你的天使手槍（Blaster）射擊敵人。",
         "* 自動裝填",
-        "* * 當慈悲（Mercy）裝備法杖時，天使手槍（Caduceus Blaster）會自動裝填。在收起手槍前，無需手動進行裝填。"
+        "* 當 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲（Mercy）裝備法杖時，天使手槍（Blaster）會自動裝填。在收起天使手槍（Blaster）之前，不需要手動進行裝填。"
       ],
-      "content_hash": "745f76439feb",
-      "prompt_version": "v5",
+      "content_hash": "e0dee5a16691",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:54.832686Z"
+      "timestamp": "2026-03-20T13:22:26.978552Z"
     },
     "4.6": {
       "title": "絕招：女武神（Valkyrie）",
       "description": "",
       "content": [
-        "**女武神（Valkyrie）的技巧**",
+        "**![](/data/assets/guide/7df3cd0fb86c3ebf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvalkyrie.png)女武神（Valkyrie）的使用技巧**",
         "* 防禦型絕招",
-        "* * 在防禦時使用，女武神（Valkyrie）可以治療你的整個隊伍，讓他們存活下來，抵擋原本無法承受的敵方攻擊與絕招。移動速度提升以及自我治療堆疊效果，對於維持自身的生存也非常有幫助。",
+        "* * 當作為防禦手段使用時，![](/data/assets/guide/7df3cd0fb86c3ebf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvalkyrie.png)女武神（Valkyrie）可以治療你的整個隊伍，讓他們存活下來，抵禦原本無法承受的敵方攻擊與絕招。移動速度的提升以及自我治療的堆疊效果，對於維持自身的生存也非常有幫助。",
         "* 進攻型絕招",
-        "* * 為全隊提供 30% 的傷害加成是女武神（Valkyrie）最強大的用途。除非敵方隊伍擁有強力的防禦型絕招，否則他們通常無法承受額外增加的傷害。",
-        "* 尋找適合搭配絕招的隊友，並將女武神（Valkyrie）保留到他們準備好施放絕招時再使用。",
-        "* 你的隊伍能存活嗎？",
-        "* * 在女武神（Valkyrie）期間使用爆能槍（Blaster）進行攻擊雖然很有趣，但請先評估隊友的生命值與威脅程度，判斷你的隊伍是否能承受失去連鎖治療的風險。"
+        "* * 為全隊提供 30% 的傷害加成是 ![](/data/assets/guide/7df3cd0fb86c3ebf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvalkyrie.png)女武神（Valkyrie）最強大的用途。除非敵方隊伍擁有強大的防禦型絕招，否則他們通常無法在額外的傷害輸出下存活。",
+        "* 尋找可以搭配絕招的隊友，並將 ![](/data/assets/guide/7df3cd0fb86c3ebf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvalkyrie.png)女武神（Valkyrie）保留到他們準備使用絕招的時機。",
+        "* 你的隊伍能存活下來嗎？",
+        "* * 在 ![](/data/assets/guide/7df3cd0fb86c3ebf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvalkyrie.png)女武神（Valkyrie）期間使用卡杜賽槍（Blaster）進行攻擊雖然很有趣，但請務必先評估隊友的生命值與威脅程度，以判斷你的隊伍是否能承受失去連鎖治療的風險。"
       ],
-      "content_hash": "99596895dd77",
-      "prompt_version": "v5",
+      "content_hash": "7344ac773b1d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:56.878228Z"
+      "timestamp": "2026-03-20T13:22:29.591804Z"
     },
     "4.7": {
       "title": "（被動技能）：天使降臨（Angelic Descent）",
       "description": "",
       "content": [
-        "**關於**天使降臨（Angelic Descent）**的技巧**",
+        "**![](/data/assets/guide/3543d7d6f7ff3efe.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fangelic-descent.png)天使降臨（Angelic Descent）的技巧**",
         "* 何時該使用飄浮",
-        "* * 輔助飛行英雄",
-        "* * 當你在輔助法拉（Pharah）或迴音（Echo）時，你需要交替使用守護天使（Guardian Angel）、飄浮以及快速下墜。混合運用這些移動方式能讓你與她們一同滯空，同時也讓敵人更難鎖定你。",
-        "* 在執行守護天使（Guardian Angel）超級跳躍後，如果敵人擁有近戰或短程攻擊英雄，或者飄浮能讓你安全地躲在天花板後方，那就使用飄浮。否則，由於飄浮會導致移動速度變慢，通常不建議使用。"
+        "* * 輔助空中單位",
+        "* * 當你正在輔助 ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉 或 ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音 時，你需要交替使用守護天使（Guardian Angel）、飄浮以及快速下墜。混合運用這些移動方式能讓你與她們一同滯空，同時也讓你更難被敵人鎖定。",
+        "* 在執行 ![](/data/assets/guide/148ecdeadcafa610.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-angel.png)守護天使（Guardian Angel）超級跳躍後，如果敵方陣容擁有近戰或短程英雄，或者飄浮能讓你安全地躲在天花板後方時，請使用飄浮。否則，由於飄浮會降低移動速度，通常不建議使用。"
       ],
-      "content_hash": "2d24586a6d87",
-      "prompt_version": "v5",
+      "content_hash": "396f414baf57",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:58.905659Z"
+      "timestamp": "2026-03-20T13:22:31.612015Z"
     },
     "5.1.1": {
       "title": "天使復甦（Angelic Resurrection）",
-      "description": "慈悲在施放復甦（Resurrect）後會獲得 100 點超量生命（Overhealth）。",
+      "description": "慈悲（Mercy）在施放復甦（Resurrect）後會獲得 100 點超量生命值。",
       "content": [
-        "* 考慮到復甦（Resurrect）的影響力，以及慈悲在施放過程中變得多麼脆弱，這項超量生命（Overhealth）可能會成為決定遊戲勝負的關鍵。"
+        "* 考慮到復甦（Resurrect）的影響力，以及 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲（Mercy）在施放期間的脆弱程度，這項超量生命值（Overhealth）往往是決定勝負的關鍵。"
       ],
-      "content_hash": "f35098bc68a3",
-      "prompt_version": "v5",
+      "content_hash": "b7fe9d147e9b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:00.490781Z"
+      "timestamp": "2026-03-20T13:22:33.143349Z"
     },
     "5.1.2": {
       "title": "神聖動能（Divine Momentum）",
       "description": "取消守護天使（Guardian Angel）後，慈悲的移動速度增加 15%。",
       "content": [
         "* 反制機動（Counter dive）",
-        "* 針對那些使用機動陣容，或是有人不斷進行側襲（Flanker）並鎖定你的隊伍時，慈悲透過兔子跳（bunny hopping）或蹲跳（crouch jumping）所增加的額外移動距離，可能成為你唯一的生存手段。"
+        "* 針對那些使用機動陣容，或是有人不斷進行側襲（Flanker）並鎖定你的隊伍時，透過兔子跳或蹲跳所增加的額外移動距離 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)，可能是慈悲唯一的生存手段。"
       ],
-      "content_hash": "c64b909371a9",
-      "prompt_version": "v5",
+      "content_hash": "315e05703af8",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:01.935683Z"
+      "timestamp": "2026-03-20T13:22:35.238314Z"
     },
     "5.2.1": {
       "title": "連鎖增幅（Chain Boost）",
-      "description": "次要攻擊會連結至附近的第二名隊友。",
+      "description": "次要攻擊會連結至附近的一名額外隊友。",
       "content": [
-        "* 在消耗戰與近戰中表現優異",
-        "* 首先，你需要有兩名隊友在遊戲大部分時間裡保持靠近。其次，這兩名英雄的技能組最好都能從傷害增幅中獲益。",
+        "* 在消耗戰（poke）與混戰（brawl）中表現優異",
+        "* 首先，你需要兩名隊友在遊戲大部分時間裡保持靠近。其次，你希望這兩名英雄的技能組都能從傷害增幅中受益。",
         "* 如果你的隊伍陣容包含兩名遠程英雄，連鎖增幅（Chain Boost）非常適合用來提升他們的壓制力與威脅性。",
-        "* 當你的隊伍採取近戰陣容時，連鎖增幅（Chain Boost）能讓他們的推進陣型更具殺傷力，並幫助他們以更激進的方式輾壓敵方。"
+        "* 當你的隊伍採取混戰陣容時，連鎖增幅（Chain Boost）能讓他們的死球戰術（deathball）更具殺傷力，並協助他們以更激進的方式輾壓敵方。"
       ],
       "content_hash": "55a09b49e0f4",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:03.937615Z"
+      "timestamp": "2026-03-20T13:22:37.399911Z"
     },
     "5.2.2": {
-      "title": "瞬效治療（Flash Heal）",
-      "description": "瞬效治療（Flash Heal）可用於慈悲（Mercy）的「天使長杖（Caduceus Staff）」當前目標，恢復 50 點生命值；若目標生命值低於半數，治療量將變為三倍。",
+      "title": "瞬時治療（Flash Heal）",
+      "description": "瞬時治療（Flash Heal）可用於慈悲（Mercy）的「天使長杖（Caduceus Staff）」當前目標，恢復 50 點生命值；若目標生命值低於一半，治療量則會變為三倍。",
       "content": [
-        "* 等待目標生命值低於半數。",
-        "* 絕不要將 15 秒的冷卻時間浪費在基礎的 50 點治療上。務必等待目標生命值偏低時，以獲得三倍的治療效果。",
-        "* 爭取更多時間進行傷害增幅（Damage Boost）。",
-        "* 爆發性治療能縮短你治療低生命值隊友所需的時間，進而增加你可以進行傷害增幅（Damage Boost）的時間。"
+        "* 等待你的目標生命值低於一半。",
+        "* 切勿將 15 秒的冷卻時間浪費在基礎的 50 點治療上。務必等待目標生命值偏低時，以觸發三倍治療效果。",
+        "* 爭取更多時間進行傷害增幅（Damage Boost）",
+        "* 爆發性治療能縮短你花在治療低生命值隊友的時間，進而增加你可以用來進行傷害增幅（Damage Boost）的時間。"
       ],
       "content_hash": "b3afbb649ae3",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:06.038073Z"
+      "timestamp": "2026-03-20T13:22:39.418180Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "慈悲最適合的地圖是那些擁有寬廣空間、方便她四處移動的地圖。在狹窄或擁擠的地圖區域中，她很難躲避敵人的攻擊。她絕對不想靠近敵人，因此無論在哪張地圖，都要試著尋找能讓你保持距離的區域。由於她與艾西和索潔恩這類遠程輸出英雄搭配得非常好，慈悲在擁有長視線、且這些英雄表現強勢的地圖上也能發揮出色。"
+        "![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲最擅長的地圖擁有充足的空間讓她進行移動。在狹窄或擁擠的地圖區域，她很難躲避敵人的攻擊。她永遠不想靠近敵人，因此無論在哪張地圖，請務必試著尋找能讓妳保持距離的區域。由於她與艾西和索潔恩這類遠程輸出英雄搭配得非常好，![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲在擁有長視線且這些英雄表現強勢的地圖上也能發揮極佳的作用。"
       ],
-      "content_hash": "269541142b7e",
-      "prompt_version": "v5",
+      "content_hash": "2cefbd51ea9e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:07.737045Z"
+      "timestamp": "2026-03-20T13:22:41.724294Z"
     },
     "7": {
-      "title": "隊伍陣容搭配（Team Comp Synergies）",
+      "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "慈悲最適合的陣容通常偏向消耗型（poke-heavy），因為她可以待在後方並使用傷害增幅來為隊友取得優勢。除了在施放女武神（Valkyrie）期間外，她的治療能力僅限於單一目標，因此與近戰纏鬥型（brawly）的隊伍陣容搭配效果最差。",
-        "最適合的坦克是那些不需要持續治療也能生存，且能從短暫的傷害增幅中獲益的英雄。像席格馬這樣的坦克兩者皆備，他也是消耗型陣容中的核心角色。",
-        "對於輸出位來說，爆發傷害以及專注輔助（pocketing）隊伍中的核心輸出是慈悲真正發光發熱的地方。基本上，隊伍中任何使用即時命中（hitscan）或遠程輸出的英雄（例如：索潔恩、奪命女、伊默、士兵76、卡西迪等），只要有慈悲跟隨輔助，就能帶領整支隊伍取得勝利。",
-        "當然，必須特別提到法拉和迴音，她們能與慈悲組成空中搭檔。除非敵方隊伍派出多名反制英雄，否則這些組合極難應對。",
-        "一般來說，慈悲會希望另一位輔助英雄擁有範圍治療（AoE healing）能力，以彌補她單體治療的不足。除了禪亞塔或伊拉里之外，幾乎任何輔助都能提供足夠的續航力來與慈悲搭配。雖然搭配禪亞塔或伊拉里也能運作，但這需要隊伍採取全攻姿態，並迅速贏下團戰。"
+        "最適合 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲的陣容通常偏向消耗戰，因為她可以待在後方並使用傷害增幅來賦予隊友優勢。除了在施放 ![](/data/assets/guide/7df3cd0fb86c3ebf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvalkyrie.png)女武神（Valkyrie）期間外，她的治療能力僅限於單一目標，因此與肉搏型隊伍的契合度最差。",
+        "最適合的坦克是那些不需要持續治療也能存活，且能從短時間傷害增幅中獲益的角色。像 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬這類坦克兩者兼具，也是消耗型陣容中的核心角色。",
+        "在輸出位方面，爆發傷害以及專注輔助隊伍核心（pocketing the carry）是慈悲真正大放異彩的地方。基本上，隊伍中任何一名即時命中（hitscan）或遠程輸出角色（例如 ![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩、![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女、![](/data/assets/guide/e4d3354cf66c9e62.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Femre.png)伊默、![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76、![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪等）只要有慈悲跟隨，就能帶領整支隊伍取得勝利。",
+        "當然，必須特別提到 ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉和 ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音，她們能與慈悲組成空中搭檔。除非敵方隊伍派出多名反制角色，否則這些組合非常難以應付。",
+        "一般來說，慈悲會希望另一位輔助角色擁有範圍治療能力，以彌補她單體治療的不足。除了 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔或 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里之外，幾乎任何輔助角色都能提供足夠的續航力來與慈悲搭配。雖然這兩位也能搭配，但隊伍必須採取全攻態勢，並迅速贏得團戰。"
       ],
-      "content_hash": "908975a9a38d",
-      "prompt_version": "v5",
+      "content_hash": "469cd73684b7",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:10.550495Z"
+      "timestamp": "2026-03-20T13:22:45.286905Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "即時命中（Hitscan）英雄很適合用來射擊浮空中的慈悲，或是針對她使用守護天使（Guardian Angel）的期間進行攻擊。此外，像 D.Va 這種高機動性的英雄可以輕易地追擊她，並利用爆發傷害將其擊殺。",
-        "不要讓她輕易地完成復活。如果她的隊友陣亡，預判她會尋找機會進行復活。隨時準備好懲罰她。",
-        "在不使用自身位移技能的情況下，誘使她交出守護天使（Guardian Angel）。接著再追擊她並將其擊殺。",
-        "鎖定慈悲。比起試圖透過她的治療來擊殺她的隊友，優先消滅慈悲會更有效率。"
+        "即時命中（Hitscan）英雄很適合用來射擊飄浮中的慈悲，或是當她使用 ![](/data/assets/guide/148ecdeadcafa610.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-angel.png)守護天使（Guardian Angel）時。此外，像 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 這種高機動性的英雄，可以輕易地追擊她並利用爆發傷害將其擊殺。",
+        "不要讓她輕易地完成復活。如果她的隊友陣亡，預期她會尋找機會進行復活。隨時準備好懲罰她的行為。",
+        "在不使用自身位移技能的情況下誘出她的守護天使，接著再追擊她並將其擊殺。",
+        "鎖定 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲。優先擊殺慈悲，比試圖透過她的治療量去擊殺她的隊友來得更有效率。"
       ],
-      "content_hash": "93611bb501b7",
-      "prompt_version": "v5",
+      "content_hash": "d732014edafb",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:12.446310Z"
+      "timestamp": "2026-03-20T13:22:47.166029Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:39:20.666898Z"
+    "timestamp": "2026-03-20T13:21:57.187508Z"
   }
 }

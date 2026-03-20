@@ -6,299 +6,299 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "歐瑞莎（Orisa）被創造出來是為了守護努巴尼（Numbani），她比任何人都更擅長固守前線。她可以說是坦克中最難被擊殺的角色，且在擁有極高生存能力的同時，還具備相當不錯的傷害輸出。雖然她在機動性方面遠遠落後，但她的遠程傷害能力卻勝過其他所有坦克。優秀的歐瑞莎（Orisa）玩家會學習如何循環使用冷卻技能，並在等待強化防禦（Fortify）冷卻完畢時善用掩體。如果你想在目標點上進行持續性的進攻，歐瑞莎（Orisa）會是一個很好的選擇。"
+        "作為努巴尼（Numbani）的守護者而生，![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）比任何人都更能守住前線。她可以說是坦克中最難被擊殺的角色，且在擁有高生存能力的同時，還具備相當不錯的傷害輸出。雖然她的機動性遠遠落後，但她的遠程傷害能力在所有坦克中名列前茅。優秀的歐瑞莎玩家懂得如何循環使用冷卻技能，並在等待![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)強化防禦（Fortify）冷卻完畢時善用掩體。如果你想在目標點上持續進行攻擊，![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎會是一個很好的選擇。"
       ],
-      "content_hash": "5b8695704e47",
-      "prompt_version": "v5",
+      "content_hash": "9bcf6ed1e7e6",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:10.473930Z"
+      "timestamp": "2026-03-20T13:18:55.019520Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 進行輪轉並保持距離。歐瑞莎應該始終與隊伍一同圍繞目標移動，試圖將敵方隊伍阻擋在外。",
-        "* 不要同時使用她所有的技能。先使用旋轉標槍（Javelin Spin），待其結束後再使用堅毅（Fortify），接著才是能量標槍（Energy Javelin）。將這些技能同時使用會大幅降低她的生存能力。",
-        "* 務必在掩體附近遊玩。由於堅毅（Fortify）的使用間隔總會出現空窗期，歐瑞莎需要躲在掩體後方以維持生存。"
+        "* 旋轉並保持距離。![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎應該始終與隊伍一同圍繞目標移動，試圖將敵方隊伍阻擋在外。",
+        "* 不要將她的技能一次全部用完。先使用 ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉，待其結束後再使用 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)強化防禦，接著使用 ![](/data/assets/guide/76027704b29fb3cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fenergy-javelin.png)能量標槍。將這些技能同時使用會大幅降低她的生存能力。",
+        "* 務必在掩體附近遊玩。由於 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)強化防禦的使用間隔總會出現空窗期，![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎需要掩體來躲避傷害以維持生存。"
       ],
-      "content_hash": "3c8042d209c8",
-      "prompt_version": "v5",
+      "content_hash": "24d461899523",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:12.109665Z"
+      "timestamp": "2026-03-20T13:18:57.283370Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 忽略歐瑞莎（Orisa）。反制歐瑞莎（Orisa）的最佳方式就是避開她，並鎖定她隊伍中的其他人。她會試圖阻止你，但她無法追上你。",
-        "* 等待強健（Fortify）效果結束。如果你看到她變成金色，要麼躲起來以免受到傷害，要麼切換目標，去攻擊其他人。",
-        "* 使用光束型英雄。如果其他方法都無效，反制歐瑞莎（Orisa）最簡單的方式就是使用光束型英雄。對他們來說，歐瑞莎（Orisa）就是免費的絕招能量來源。"
+        "* 忽略 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎。對付 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎最好的方式就是避開她，並鎖定她隊伍中的其他人。她會試圖阻止你，但她無法追上你。",
+        "* 等待 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）效果結束。如果你看到她變為金色，要麼躲起來以免受到傷害，要麼切換目標去攻擊其他人。",
+        "* 使用光束武器。如果其他方法都無效，對付 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎最簡單的方式就是使用具備光束武器的英雄。對於這些英雄來說，![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎簡直是免費的絕招能量來源。"
       ],
-      "content_hash": "18e89f84da92",
-      "prompt_version": "v5",
+      "content_hash": "41c7feb90cdf",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:13.765905Z"
+      "timestamp": "2026-03-20T13:18:58.959878Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
         "* 堅毅（Fortify）",
-        "* 適合用作反制選角（counter-pick）",
+        "* 適合用來進行反制選角（counter-pick）",
         "* 遠程傷害",
-        "* 容易被光束武器克制",
-        "* 無法為隊伍減免傷害",
+        "* 容易受到光束武器（beams）的威脅",
+        "* 無法減免隊友受到的傷害",
         "* 移動緩慢且缺乏機動性"
       ],
       "content_hash": "bb208a63d015",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:15.189470Z"
+      "timestamp": "2026-03-20T13:19:00.654971Z"
     },
     "3.1.1": {
       "title": "堅毅（Fortify）",
       "description": "",
       "content": [
-        "變得無法阻擋並減少近乎一半的受到的傷害，是歐瑞莎最強大的優勢。她是唯一一位能夠在向前推進並進行攻擊的同時，保持免疫控場效果（CC immune）的坦克。"
+        "變得無法阻擋並減少近乎一半的受傷量是 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎最強大的優勢。她是唯一一位能夠在向前推進並進行攻擊的同時，保持對控場效果免疫的坦克。"
       ],
-      "content_hash": "6ace1688d79f",
-      "prompt_version": "v5",
+      "content_hash": "11f1f4bd60bb",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:16.905862Z"
+      "timestamp": "2026-03-20T13:19:02.185695Z"
     },
     "3.1.2": {
-      "title": "絕佳的針對性選擇",
+      "title": "絕佳的換角選擇",
       "description": "",
       "content": [
-        "符合劇情設定，她能透過自身的控場能力來反制毀滅拳王，且憑藉「強化防禦（Fortify）」的擊退免疫效果，歐瑞莎也是用來壓制萊因哈特、拉瑪塔、攔路豬以及災害（Hazard）的絕佳換角選擇。"
+        "符合劇情設定，她能透過自身的控場能力反制 ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)毀滅拳王，並利用 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)強化防禦（Fortify）的擊退免疫效果來應對。![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎同時也是絕佳的換角選擇，能有效壓制 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特、![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)拉瑪塔、![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬以及 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害。"
       ],
-      "content_hash": "277324bcd242",
-      "prompt_version": "v5",
+      "content_hash": "a6c107f5ebd5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:18.579553Z"
+      "timestamp": "2026-03-20T13:19:03.935985Z"
     },
     "3.1.3": {
       "title": "遠程傷害",
       "description": "",
       "content": [
-        "大多數坦克英雄的遠程傷害能力極低甚至為零。在戰鬥的消耗階段，或是處於中長距離時，歐瑞莎（Orisa）能為隊伍帶來的價值將高於任何其他坦克。"
+        "大多數坦克英雄的遠程傷害能力極低，甚至完全沒有。在戰鬥的消耗階段，或是處於中長距離時，![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎能為隊伍帶來的價值將高於任何其他坦克。"
       ],
-      "content_hash": "664206085117",
-      "prompt_version": "v5",
+      "content_hash": "4047987105d4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:20.139762Z"
+      "timestamp": "2026-03-20T13:19:05.499789Z"
     },
     "3.2.1": {
       "title": "容易受到光束攻擊",
       "description": "",
       "content": [
-        "由於標槍旋轉（Javelin Spin）無法像札莉雅（Zarya）和辛梅塔（Symmetra）的光束那樣阻擋傷害，因此只要歐瑞莎（Orisa）無法使用堅毅（Fortify），她就會變得容易受到光束攻擊。"
+        "由於 ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）無法像 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅和 ![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔那樣格擋光束傷害，因此只要 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）處於冷卻狀態，![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎就會變得非常容易受到光束攻擊。"
       ],
-      "content_hash": "6ea2bef0d4a6",
-      "prompt_version": "v5",
+      "content_hash": "580cb55a0a31",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:21.699610Z"
+      "timestamp": "2026-03-20T13:19:07.058154Z"
     },
     "3.2.2": {
       "title": "無團隊傷害減免",
       "description": "",
       "content": [
-        "與大多數其他戰士（Bruiser）不同，歐瑞莎（Orisa）無法為隊伍提供任何超量生命值或屏障。她只能利用自己的身體或標槍旋轉（Javelin Spin）來吸收攻擊，但無法直接為隊友帶來任何額外的生存能力。"
+        "與大多數其他戰士（Bruiser）不同，![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）無法為隊伍提供任何額外生命值或護盾。她只能用自己的身體或透過 ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）來吸收攻擊，但無法直接為隊友帶來任何額外的生存能力。"
       ],
-      "content_hash": "04aaef18683d",
-      "prompt_version": "v5",
+      "content_hash": "e3307ef6f680",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:23.013755Z"
+      "timestamp": "2026-03-20T13:19:08.705694Z"
     },
     "3.2.3": {
-      "title": "無法移動",
+      "title": "行動遲緩",
       "description": "",
       "content": [
-        "歐瑞莎（Orisa）最大的弱點在於開火時會被緩速，且缺乏垂直移動能力，僅能依靠標槍旋轉（Javelin Spin）獲得些微的移動速度加成。擁有高機動性的英雄可以輕易避開歐瑞莎，而她對此也無能為力。"
+        "![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）最大的弱點在於開火時會被緩速，且缺乏垂直機動性，僅能透過 ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）獲得極少量的移動速度加成。機動性高的英雄可以輕易避開 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa），而她對此也無能為力。"
       ],
-      "content_hash": "afc66ffbbcbd",
-      "prompt_version": "v5",
+      "content_hash": "853af08da03a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:24.751562Z"
+      "timestamp": "2026-03-20T13:19:10.276892Z"
     },
     "4.1": {
       "title": "主要攻擊：強化融合驅動器（Augmented Fusion Driver）",
       "description": "",
       "content": [
-        "**強化融合驅動器（Augmented Fusion Driver）的使用技巧**",
+        "**![](/data/assets/guide/945c6006c1ad69b0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faugmented-fusion-driver.png)強化融合驅動器（Augmented Fusion Driver）的使用技巧**",
         "* 保持距離並進行騷擾",
-        "* 歐瑞莎（Orisa）擁有比其他任何戰士（Bruiser）更優異的遠程傷害能力。莫加（Mauga）或許能與之一較高下，但透過強化防禦（Fortify），他的燃燒槍枝甚至無法對歐瑞莎（Orisa）造成暴擊。在敵方戰士（Bruiser）拉近距離之前，盡可能地輸出傷害。",
-        "* 避免過熱",
-        "* 在即將過熱前停止射擊，永遠比承受 3 秒的過熱懲罰來得好。"
+        "* ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）擁有比其他任何戰士（Bruiser）更優異的遠程傷害能力。![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加（Mauga）或許能與之一較高下，但透過![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)強化防禦（Fortify），他的燃燒槍枝甚至無法對![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）造成暴擊。在敵方戰士（Bruiser）靠近你之前，盡可能輸出最多的傷害。",
+        "* 不要過熱",
+        "* 在即將過熱前停止射擊，總比受到 3 秒的過熱懲罰要好。"
       ],
-      "content_hash": "9d11e3adbd3b",
-      "prompt_version": "v5",
+      "content_hash": "ddd7685cf153",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:26.644286Z"
+      "timestamp": "2026-03-20T13:19:12.571483Z"
     },
     "4.2": {
       "title": "次要攻擊：能量標槍（Energy Javelin）",
       "description": "",
       "content": [
-        "**能量標槍（Energy Javelin）的使用技巧**",
+        "![](/data/assets/guide/76027704b29fb3cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fenergy-javelin.png)能量標槍（Energy Javelin）技巧",
         "* 保持距離",
-        "* 由於歐瑞莎（Orisa）的射程通常優於其他戰士（Bruiser），她應該利用標槍旋轉（Javelin Spin）將敵人推開，並與他們保持距離。",
+        "* 由於 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）的射程通常優於其他戰士（Bruiser），她應該利用 ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）將敵人推開，與自己保持距離。",
         "* 保護後排",
-        "* 能量標槍（Energy Javelin）的擊退效果是防止敵人靠近後排的強力手段。如果你發現有敵方戰士（Bruiser）或輸出位英雄正在攻擊你身後的隊友，試著用能量標槍（Energy Javelin）擊中他們。",
+        "* ![](/data/assets/guide/76027704b29fb3cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fenergy-javelin.png)能量標槍（Energy Javelin）的擊退效果是將敵人阻擋在後排之外的強力工具。如果你發現敵方的戰士（Bruiser）或輸出位正在攻擊你身後的隊友，試著用 ![](/data/assets/guide/76027704b29fb3cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fenergy-javelin.png)能量標槍（Energy Javelin）擊中他們。",
         "* 牆面碰撞",
-        "* 當能量標槍（Energy Javelin）將敵人擊退並撞上牆壁時，會造成額外的暈眩與傷害。試著透過繞著目標移動，讓他們處於你與牆壁或建築物之間，藉此發揮這項優勢。"
+        "* 當 ![](/data/assets/guide/76027704b29fb3cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fenergy-javelin.png)能量標槍（Energy Javelin）將敵人擊退並撞上牆壁時，會造成額外的暈眩與傷害。試著透過繞著目標移動，讓他們處於你與牆壁或建築物之間，藉此發揮此技能的最大效益。"
       ],
-      "content_hash": "df659342549c",
-      "prompt_version": "v5",
+      "content_hash": "008ffb7a69b5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:28.690996Z"
+      "timestamp": "2026-03-20T13:19:14.885399Z"
     },
     "4.3": {
-      "title": "[SHIFT]：堅韌防禦（Fortify）",
+      "title": "[SHIFT]：堅毅（Fortify）",
       "description": "",
       "content": [
-        "**堅韌防禦（Fortify）使用技巧**",
-        "* 歐瑞莎（Orisa）最重要的技能",
-        "* 堅韌防禦（Fortify）能讓歐瑞莎幾乎無法被殺死，且在字面上完全無法被阻擋。使用堅韌防禦（Fortify）時，歐瑞莎可以向前推進、反制控場技能（CC），並迫使敵方隊伍撤退。",
-        "* 堅韌防禦（Fortify）的冷卻時間很長，因此切勿浪費。只有在敵方隊伍必須集火你，且你透過輸出傷害與站位構成實質威脅時，才啟動堅韌防禦（Fortify）。",
-        "* 在仍有護甲（Armor）時使用",
-        "* 在仍有護甲（Armor）時使用堅韌防禦（Fortify）可以堆疊傷害減免效果（最高可達 50%）。此外，如果你在啟動技能時還有護甲（Armor），那麼在堅韌防禦（Fortify）結束後，你更有可能還保留著部分護甲（Armor）生命值。",
-        "* 如果堅韌防禦（Fortify）結束且你沒有護甲（Armor）了，快跑！",
+        "![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）使用技巧",
+        "* ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）最重要的技能",
+        "* ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）能讓 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）幾乎無法被擊殺，且在字面上完全無法被阻擋。當使用 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）時，![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）可以向前推進、反制控場技能（CC），並迫使敵方隊伍撤退。",
+        "* ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）的冷卻時間很長，因此務必不要浪費。只有在敵方隊伍必須集火你，且你透過傷害輸出與站位構成實質威脅時，才啟動 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）。",
+        "* 在你仍擁有護甲時使用",
+        "* ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)在你仍擁有護甲時使用 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify），可以疊加傷害減免效果（最高可達 50%）。此外，如果你在啟動技能時還有護甲，那麼當 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）結束時，你更有可能還保留著部分護甲值。",
+        "* 如果 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）結束且你沒有護甲了，快跑！",
         "* 反制絕招",
-        "* 當敵方擁有如暴雪（Blizzard）、重力噴湧（Graviton Surge）、重力流（Gravitic Flux）、傾盆大雨（Downpour）等類似的暈眩絕招時，請保留堅韌防禦（Fortify）。"
+        "* ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)當敵人擁有如 ![](/data/assets/guide/7578824db04164d2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblizzard.png)暴雪（Blizzard）、![](/data/assets/guide/eacdf2c5d0a248f5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgraviton-surge.png)重力噴湧（Graviton Surge）、![](/data/assets/guide/c95892af1b952964.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgravitic-flux.png)重力流（Gravitic Flux）、![](/data/assets/guide/eeafb396dbd4850f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdownpour.png)傾盆大雨（Downpour）等類似的暈眩型絕招時，請保留 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）。"
       ],
-      "content_hash": "2ea17aaf0d48",
-      "prompt_version": "v5",
+      "content_hash": "bc43c1664709",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:31.152949Z"
+      "timestamp": "2026-03-20T13:19:21.829748Z"
     },
     "4.4": {
       "title": "[E]：標槍旋轉（Javelin Spin）",
       "description": "",
       "content": [
-        "標槍旋轉（Javelin Spin）的使用技巧",
-        "* 與堅毅（Fortify）交替使用",
-        "* * 請勿在施放堅毅（Fortify）的同時使用標槍旋轉（Javelin Spin）。你需要將這兩項生存工具分開使用，否則敵人將會有很長一段空窗期可以擊殺歐瑞莎（Orisa）。",
+        "![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）的技巧",
+        "* 與堅韌防禦（Fortify）交替使用",
+        "* * 請勿在施放![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅韌防禦（Fortify）的同時使用![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）。你需要將這兩項生存工具分開使用，否則敵人將會有很長一段空窗期可以擊殺![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎。",
         "* 確保擊殺",
-        "* * 由於標槍旋轉（Javelin Spin）不僅能阻擋敵方的治療與傷害投射物，還能對敵人造成控場效果（CC），因此在收割低生命值目標時非常有效。",
-        "* 移動到目標與其支援（Supports）之間，然後啟動標槍旋轉（Javelin Spin）將他們推向你的隊伍。",
+        "* * 由於![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）可以阻擋敵方的治療與傷害投射物，同時還能對敵人造成控場效果（CC），因此在收割低生命值目標時非常有效。",
+        "* 移動到目標與其支援英雄之間，然後啟動![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）將他們推向你的隊伍。",
         "* 標槍旋轉（Javelin Spin）無法阻擋什麼？",
-        "* * 無法阻擋光束類攻擊或濺射傷害，也無法在辛梅塔（Symmetra）的哨戒塔（Turrets）落地前將其摧毀。"
+        "* * 無法阻擋光束類攻擊或濺射傷害，也無法在![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔的哨戒塔落地前將其摧毀。"
       ],
-      "content_hash": "ff72cdd11289",
-      "prompt_version": "v5",
+      "content_hash": "1a3f099b2a82",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:33.302433Z"
+      "timestamp": "2026-03-20T13:19:24.391482Z"
     },
     "4.5": {
       "title": "絕招：大地崩擊（Terra Surge）",
       "description": "",
       "content": [
-        "**大地崩擊（Terra Surge）的使用技巧**",
-        "* 我該蓄力大地崩擊（Terra Surge）多久？",
-        "* * 你需要引導歐瑞莎（Orisa）的絕招約 3 秒，才能一擊擊殺輸出型英雄（DPS）和輔助型英雄（Supports）。",
+        "**![](/data/assets/guide/135c836b3c9c24ac.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fterra-surge.png)大地崩擊（Terra Surge）的使用技巧**",
+        "* 我該蓄力![](/data/assets/guide/135c836b3c9c24ac.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fterra-surge.png)大地崩擊（Terra Surge）多久？",
+        "* * 你需要引導![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）的絕招約 3 秒，才能一擊擊殺傷害型與支援型英雄。",
         "* 無視屏障",
-        "* * 猛擊傷害無法被萊因哈特（Reinhardt）的屏障等護盾阻擋。",
+        "* * 猛擊傷害無法被像![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）護盾這類屏障所阻擋。",
         "* 斷開視線（LoS）可停止傷害",
-        "* * 視線（LoS）可用來避免受到傷害。因此，任何環境結構，或是小美（Mei）和災害（Hazard）的牆壁都可以阻擋傷害。",
+        "* * 視線（LoS）可用來避免受到傷害。因此，任何環境結構或![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美（Mei）與![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）的牆體都可以阻擋傷害。",
         "* 取得高度優勢",
-        "* * 如果歐瑞莎（Orisa）位於敵人上方（例如使用花瓣平台、跳躍、從高處跳下等），敵人會先被拉到歐瑞莎（Orisa）所在的高度，然後必須掉回地面才能移動。",
-        "* 啟動前務必跳躍，但只要有可能，請利用運載目標或環境來獲得額外高度。"
+        "* * If ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)Orisa is above the enemy (![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)Petal Platform, jumping, jumping off high ground, etc.) the enemies will first be pulled all the way up to ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)Orisa, then have to fall way back down to the ground before being able to walk away.",
+        "* 啟動前務必跳躍，但只要可能，請利用運載目標或環境來獲得額外高度。"
       ],
-      "content_hash": "77e3a12ec6fd",
-      "prompt_version": "v5",
+      "content_hash": "264a044c1ff8",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:35.984705Z"
+      "timestamp": "2026-03-20T13:19:27.530856Z"
     },
     "5.1.1": {
       "title": "防禦協定（Defense Protocol）",
-      "description": "在充能大地崩裂（Terra Surge）期間，每秒恢復 100 點生命值。",
+      "description": "在引導大地崩裂（Terra Surge）期間，每秒恢復 100 點生命值。",
       "content": [
-        "* 讓大地崩裂（Terra Surge）成為一個還不錯的緊急保命技能。治療效果能讓你承受更多傷害，並在生命值偏低時救你一命。"
+        "* 讓 ![](/data/assets/guide/135c836b3c9c24ac.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fterra-surge.png)大地崩裂（Terra Surge）成為一個還算不錯的緊急保命技能。治療效果能讓你承受更多傷害，並在生命值偏低時救你一命。"
       ],
-      "content_hash": "a800fc956f7f",
-      "prompt_version": "v5",
+      "content_hash": "1f30a0ab34ae",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:37.538531Z"
+      "timestamp": "2026-03-20T13:19:29.131694Z"
     },
     "5.1.2": {
-      "title": "機動防禦（Mobile Fortification）",
-      "description": "當「堅毅（Fortify）」處於啟動狀態時，歐瑞莎不會受到移動速度減益影響，也不會產生熱能。",
+      "title": "機動防禦",
+      "description": "當「堅毅防禦（Fortify）」啟動時，歐瑞莎不會受到移動速度減益，也不會產生熱能。",
       "content": [
-        "* 非常強大，且能在歐瑞莎處於巔峰狀態時進一步採取侵略性的打法。會讓敵方隊伍感到難以阻擋。"
+        "* 非常強大，且能在 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎處於巔峰狀態時，進一步強化其侵略性打法。對敵方隊伍來說，這會讓她顯得勢不可擋。"
       ],
-      "content_hash": "e111d01adc3e",
-      "prompt_version": "v5",
+      "content_hash": "40b40f4bc3e7",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:38.886750Z"
+      "timestamp": "2026-03-20T13:19:30.433937Z"
     },
     "5.2.1": {
       "title": "蓄力標槍（Charged Javelin）",
       "description": "能量標槍（Energy Javelin）可以進行蓄力，以提升投射物速度與擊退效果。在完全蓄力時可穿透敵人。",
       "content": [
-        "* 整體而言，這是較佳的「主要特殊能力（major perks）」。",
-        "* 在大多數情況下，為了護盾而放棄「標槍旋轉（Javelin Spin）」並不划算。歐瑞莎（Orisa）本身已經非常耐打，且「標槍旋轉（Javelin Spin）」能阻擋所有投射物長達近 2 秒。此外，技能期間與結束後的加速效果，加上其強大的控場能力，都比擁有一個護盾更有價值。"
+        "* 整體而言，這是較佳的主要特殊能力（major perks）。",
+        "* * In most scenarios, having to give up ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)Javelin Spin is not worth the barrier. ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)Orisa is already very tanky, and ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)Javelin Spin blocks all projectiles for almost 2 seconds. Moreover, the speed boost during and after, plus the CC is stronger than having a shield."
       ],
-      "content_hash": "f87bd62679a3",
-      "prompt_version": "v5",
+      "content_hash": "c250b002cd71",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:40.749838Z"
+      "timestamp": "2026-03-20T13:19:32.535367Z"
     },
     "5.2.2": {
       "title": "防護屏障（Protective Barrier）",
-      "description": "標槍旋轉（Javelin Spin）被替換為一個屏障。",
+      "description": "標槍旋轉（Javelin Spin）將被替換為屏障。",
       "content": [
         "* 視對戰組合而定",
-        "* 針對莫加（Mauga），這可以被視為較佳的主要特殊能力（Major Perk），因為它可以用來反制心臟過載（Cardiac Overdrive）。",
-        "* 針對札莉雅（Zarya），在她使用防護泡泡時部署屏障，以阻擋她的傷害，並減輕需要擊破其屏障及充能的壓力。",
-        "* 理論上，你可以使用防護屏障（Protective Barrier）來阻擋拉瑪塔（Ramattra）絕招的視野（LoS），並試圖提早結束該絕招。然而，600 生命值的屏障可能無法存活夠久來穩定執行此技巧。",
-        "* 雙重屏障（Double Barrier）提示",
-        "* 當處於防守方或敵隊正從重生點返回時，將屏障垂直向上發射。等到它落地時，距離你下一個屏障冷卻結束只剩下 3 秒。"
+        "* 針對 ![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加（Mauga），這可能被視為較佳的「主要特殊能力（major perks）」，因為它可以用來反制 ![](/data/assets/guide/b54c199ade517940.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcardiac-overdrive.png)心臟過載（Cardiac Overdrive）。",
+        "* 針對 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅（Zarya），當她使用防護泡泡時部署屏障，以阻擋她的傷害，並減輕必須擊破她的屏障且為其充能的壓力。",
+        "* 理論上，你可以使用屏障來阻擋 ![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)拉瑪塔（Ramattra）絕招的視線（LoS），並嘗試提前結束該絕招。然而，這 600 生命值的屏障可能無法存活夠久，不建議過度依賴此技巧。",
+        "* 雙重屏障技巧",
+        "* 當處於防守方或敵方隊伍正從重生點返回時，將屏障垂直向上發射。等到它落地時，距離你下一個屏障的冷卻時間僅剩 3 秒。"
       ],
-      "content_hash": "d341523155c4",
-      "prompt_version": "v5",
+      "content_hash": "43687e7aa181",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:43.399367Z"
+      "timestamp": "2026-03-20T13:19:34.923101Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "在偏好消耗型陣容的地圖上，歐瑞莎（Orisa）總是不錯的選擇。擁有寬闊空間的目標區域，以及筆直且漫長的護送（Escort）路線，都能發揮她的優勢。由於她非常耐打，在小型地圖上的表現也不差，但這會讓她難以執行「保持距離」的戰術規劃。她可以利用遠程傷害來爭奪高地，但她自己無法登上高地，因此在那些有利於機動型陣容、且擁有大量高地的地圖上，她會處於劣勢。"
+        "![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)在偏好消耗陣容的地圖上，歐瑞莎（Orisa）總是不錯的選擇。擁有開闊空間與長直護送路線的目標區域能發揮她的優勢。由於她非常耐打，在小型地圖上表現也不差，但這會讓她難以執行拉開距離的戰術計畫。她可以利用遠程傷害來爭奪高地，但她自己無法登上高地，因此在那些有利於機動陣容、且擁有大量高地的地圖上，她會處於劣勢。"
       ],
-      "content_hash": "d6d6eddaf7ac",
-      "prompt_version": "v5",
+      "content_hash": "009e478b6a79",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:45.269053Z"
+      "timestamp": "2026-03-20T13:19:36.842528Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "將歐瑞莎（Orisa）與其他遠程消耗型英雄搭配，在敵方隊伍靠近你們之前就將其擊潰。她同時也是一名優秀的守護者，因此當敵方隊伍採取機動或強攻戰術時，她能成為對方的眼中釘，阻擋所有控場（CC）效果、將敵人擊退，並確保隊友能安全地進行攻擊。",
-        "由於她的機動性較低，像巴帝斯特（Baptiste）和伊拉里（Illari）這類支援型英雄能輕易地將她的生命值維持在健康狀態。"
+        "將 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎與其他 Poke（遠程消耗）英雄搭配，在敵方隊伍靠近你們之前就將其擊潰。她也是一名出色的保護者，因此當敵方隊伍使用 Dive（機動突擊）或 Rush（強攻）陣容時，她能成為對手的夢魘，阻擋所有 CC（控場技能）、將敵人擊退，並確保隊友能安全地進行輸出。",
+        "由於她的機動性較低，像 ![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特和 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里這類支援型英雄能很輕易地將她的生命值維持在健康狀態。"
       ],
-      "content_hash": "df2c5b1e1ed3",
-      "prompt_version": "v5",
+      "content_hash": "482382efcbc6",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:47.158091Z"
+      "timestamp": "2026-03-20T13:19:38.463739Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "若要反制歐瑞莎（Orisa），你需要利用她冷卻時間的空窗期。如果她的「堅毅（Fortify）」和「標槍旋轉（Javelin Spin）」都在冷卻完畢的狀態下，她幾乎是殺不死的。如果你看到她同時使用了這兩個技能，她會有一小段時間處於脆弱狀態。在「堅毅（Fortify）」的冷卻時間結束前，迅速發動攻勢。",
-        "為了成功做到這一點，你必須確保在對方使用技能後，自己手中仍保有資源。因此，當你看到她啟動「堅毅（Fortify）」時，請專注於防守、後撤並保留你的技能冷卻。這樣一來，你就能擁有足夠的手段來懲罰她並贏得會戰。"
+        "若要反制歐瑞莎（Orisa），你需要利用她冷卻時間的空檔。如果她還有 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）和 ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）可以使用，她幾乎是殺不死的。如果你看到她用掉了這兩個技能，她會有短暫的脆弱期。在堅毅（Fortify）冷卻時間結束前，請迅速採取進攻。",
+        "為了達成這個目標，你必須確保在對方使用技能後，自己手中仍有剩餘的資源。因此，當你看到她啟動 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）時，請專注於防守、後撤並保留你的冷卻技能。如此一來，你就能擁有足夠的手段來懲罰她並贏得會戰。"
       ],
-      "content_hash": "e10d9988419e",
-      "prompt_version": "v5",
+      "content_hash": "b577ee704a62",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:35:49.015014Z"
+      "timestamp": "2026-03-20T13:19:40.400146Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.682430Z"
+    "timestamp": "2026-03-20T13:18:52.962351Z"
   }
 }

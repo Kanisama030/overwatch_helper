@@ -3,43 +3,43 @@
   "locale": "zh-TW",
   "sections": {
     "1": {
-      "title": "概述",
+      "title": "概覽",
       "description": "",
       "content": [
-        "一隻在捍衛者基地：直布羅陀被發現，並由碧姬收養的流浪貓。牠駕駛著噴射背包，隨時準備犧牲九條命來保護隊伍。",
-        "火箭貓（Jetpack Cat）能帶著自己與隊友在地圖上飛行，擁有無與倫比的機動性。牠的技能組受益於團隊協調、隱蔽的載運以及充滿創意的戰術操作。生命線運輸（Lifeline transportation）開啟了前所未有的獨特站位策略，這在《鬥陣特攻》的歷史上是從未有過的！",
-        "憑藉著高機動性、範圍效果（AoE）光環治療，以及有限的主要攻擊傷害與治療距離，火箭貓適合盤旋在戰場上方。保持適當距離，不要靠得太近，並頻繁變換位置讓敵人捉摸不定，藉此將噴射背包的價值最大化。"
+        "一隻在捍衛者基地：直布羅陀被發現並由碧姬收養的流浪貓。牠駕駛著噴射背包，隨時準備為了保護隊伍而犧牲牠的九條命。",
+        "火箭貓（Jetpack Cat）能利用其無與倫比的機動性，帶著自己與隊友在戰場上飛行。牠的技能組非常依賴隊伍協調、隱蔽的載運以及充滿創意的戰術操作。生命線運輸（Lifeline transportation）功能實現了前所未有的獨特站位策略，這在《鬥陣特攻》的歷史上是從未出現過的！",
+        "憑藉著高機動性、範圍性（AoE）光環治療，以及有限的主要攻擊傷害與治療範圍，火箭貓適合盤旋在戰場上方。保持適當距離（不要太近），並頻繁變換位置來讓敵人摸不著頭緒，藉此將你噴射背包的價值最大化。"
       ],
       "content_hash": "61e6f1d08f01",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:08.838239Z"
+      "timestamp": "2026-03-20T13:17:18.519326Z"
     },
     "1.1.1": {
       "title": "遊玩建議",
       "description": "",
       "content": [
-        "* 當面對宿怨（Vendetta）這類近戰與近距離交戰的敵人時，請飛到他們的攻擊範圍之外。",
-        "* 持續利用垂直掩體、牆壁與建築物進行走位，避免自己暴露在敵方即時命中（hitscan）英雄的視野（LoS）中。",
-        "* 當你打算使用絕招進行地形殺（environmental KOs）時，請將坦克作為目標。若周圍沒有懸崖，則等待隊友使用如死亡綻放（Death Blossom）這類高傷害絕招時再配合進攻。"
+        "* 當面對如宿怨（Vendetta）這類近戰與近距離作戰的敵人時，請飛到他們的攻擊範圍之外。",
+        "* 持續利用垂直掩體、牆壁和建築物變換位置，以避免暴露在敵方即時命中（hitscan）英雄的視線（LoS）中。",
+        "* 當準備使用絕招進行環境擊殺（environmental KOs）時，請將坦克作為目標。若附近沒有邊緣地形，請等待隊友使用如死亡綻放（Death Blossom）這類高傷害絕招時再配合進攻。"
       ],
       "content_hash": "8cc07de444c5",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:10.799017Z"
+      "timestamp": "2026-03-20T13:17:20.667053Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 命中掃描（Hitscan）英雄對抗火箭貓（Jetpack Cat）時表現強勢。如果他們造成了困擾，請考慮更換英雄。",
-        "* 火箭貓（Jetpack Cat）無法為隊伍提供大量的續航能力。如果你的隊伍擁有較高的治療量（例如霧子（Kiriko）和莫伊拉（Moira）這類支援角色），你可以透過緩慢消耗對方的生命值，同時保持己方隊伍存活來贏得團戰。",
-        "* 當火箭貓（Jetpack Cat）捕捉到你或隊友時，請立即開始攻擊他們，以阻止其達成環境擊殺（environmental KO）。"
+        "* 彈道即時命中（Hitscan）英雄對付火箭貓（Jetpack Cat）非常有效。如果他們造成了麻煩，請考慮更換英雄。",
+        "* 火箭貓（Jetpack Cat）無法為隊伍提供大量的持續生存能力。如果你的隊伍擁有較高的治療量（例如霧子（Kiriko）和莫伊拉（Moira）這類輔助），你可以透過緩慢消耗對方的生命值，同時確保己方隊員存活來贏得團戰。",
+        "* 當火箭貓（Jetpack Cat）試圖抓取你或你的隊友時，請立即對其開火，以阻止他們達成地形擊殺（Environmental KO）。"
       ],
       "content_hash": "5b0b7027d29f",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:12.838768Z"
+      "timestamp": "2026-03-20T13:17:22.641706Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -53,232 +53,232 @@
         "* 缺乏防禦型絕招"
       ],
       "content_hash": "03703870841a",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:14.391425Z"
+      "timestamp": "2026-03-20T13:17:24.208871Z"
     },
     "3.1.1": {
-      "title": "極高機動性",
+      "title": "高機動性",
       "description": "",
       "content": [
-        "擁有極高的機動性。是唯一具備永久飛行能力的英雄，且其推進（Boost）速度非常快，冷卻時間也恢復得很快。這使她能夠隨時跟上隊友的腳步，或是在防守時進行撤退。"
+        "具備極高的機動性。是唯一擁有永久飛行能力的英雄，且其推進（Boost）速度極快，冷卻時間恢復迅速。這使她能隨時跟上隊友的腳步，或是在防守時進行撤退。"
       ],
       "content_hash": "a72d7f3a9486",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:15.993669Z"
+      "timestamp": "2026-03-20T13:17:25.754727Z"
     },
     "3.1.2": {
-      "title": "傳送",
+      "title": "運輸",
       "description": "",
       "content": [
-        "透過將隊友傳送至地圖各處，創造出獨特的戰術機會。飛行神射手（Flying Deadeye）、B.O.B. 以及戰術鎖定（Tactical Visor）僅是幾種將隊友技能與織命（Lifeweaver）進行搭配的熱門方式。"
+        "透過在地圖上運輸隊友來創造獨特的戰術機會。飛行 ![](/data/assets/guide/4c3fdbb733566161.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeadeye.png)神射手（Deadeye）、![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）以及 ![](/data/assets/guide/5a0bd28ab2154772.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftactical-visor.png)戰術鎖定（Tactical Visor）只是將隊友技能與 ![](/data/assets/guide/7a678ebc365ae830.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flifeline.png)生命線（Lifeline）進行連攜的幾種熱門方式。"
       ],
-      "content_hash": "5d353bc24ec8",
-      "prompt_version": "v5",
+      "content_hash": "b6430fd81da8",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:17.234592Z"
+      "timestamp": "2026-03-20T13:17:27.289855Z"
     },
     "3.1.3": {
       "title": "多功能性",
       "description": "",
       "content": [
-        "具備多功能性，能同時勝任防守與進攻的遊玩風格。當她以醫護兵（Support）的身分遊玩時，治療輸出表現優異，但她同時也是遊戲中最頂尖的單殺刺客之一。即便在削弱之後，透過爪擊而出（Claws Out）加上領地意識（Territorial）的組合，甚至無需開槍就能擊殺閃光（Tracer）。"
+        "具備多功能性，能夠同時勝任防守與進攻的遊玩風格。當她以醫護兵（Support）的定位遊玩時，治療輸出表現優異，但她同時也是遊戲中最強的單殺刺客之一。即便在削弱之後，一套「利爪出擊（Claws Out）」加上「領地意識（Territorial）」依然能在不發一槍的情況下擊殺 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光（Tracer）。"
       ],
-      "content_hash": "f659445b4476",
-      "prompt_version": "v5",
+      "content_hash": "94026c1e1823",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:18.963359Z"
+      "timestamp": "2026-03-20T13:17:29.050380Z"
     },
     "3.2.1": {
       "title": "弱點與射程",
       "description": "",
       "content": [
-        "對抗即時命中（hitscan）與長射程英雄時較為弱勢。任何能將火箭貓（Jetpack Cat）從空中擊落的對手，都會讓她難以發揮其最強大的特殊能力（ability）。"
+        "對抗神射手（hitscans）與長距離英雄時較為弱勢。任何能將火箭貓（Jetpack Cat）從空中擊落的對手，都會讓她難以發揮其最強大的能力。"
       ],
       "content_hash": "fc61cda4e773",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:20.105713Z"
+      "timestamp": "2026-03-20T13:17:30.755609Z"
     },
     "3.2.2": {
       "title": "絕招使用風險",
       "description": "",
       "content": [
-        "使用絕招會讓你面臨被未擊倒的敵人擊殺（KO）的風險。即使是你抓取的目標，在暈眩效果結束後也能夠開火將你擊殺。"
+        "使用絕招會讓你面臨被未擊倒的敵人擊殺（KO）的風險。即使是你抓取的敵人，在暈眩效果結束後，依然可以開火將你擊殺。"
       ],
       "content_hash": "08c8fb92287b",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:21.680957Z"
+      "timestamp": "2026-03-20T13:17:32.649857Z"
     },
     "3.2.3": {
       "title": "缺乏防禦型絕招",
       "description": "",
       "content": [
-        "大多數的輔助英雄都擁有能拯救隊友免於死亡的絕招，但貓賊（Catnapper）的絕招只能用於進攻。理論上，她可以用來暈眩像正在施放絕招的源氏（Genji）這種單獨進攻的敵人，但總體而言，她並沒有能夠保護隊友免受敵方絕招影響的手段。"
+        "大多數的輔助英雄都擁有能拯救隊友免於死亡的絕招，然而 ![](/data/assets/guide/41958b3505632e51.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcatnapper.png) 貓抓手（Catnapper）只能用於進攻。理論上，她可以利用此技能來暈眩像是在施放絕招的 ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png) 源氏這類單獨進攻的敵人，但整體而言，她並沒有能夠保護隊友免受敵方絕招影響的手段。"
       ],
-      "content_hash": "5fb640627cb4",
-      "prompt_version": "v5",
+      "content_hash": "4b865cc3b5ee",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:23.602416Z"
+      "timestamp": "2026-03-20T13:17:34.638435Z"
     },
     "4.1": {
-      "title": "主要攻擊：生化貓爪彈（Biotic Pawjecticles）",
+      "title": "主要攻擊：生化貓爪彈（Biotic Pawjectiles）",
       "description": "",
       "content": [
-        "**生化貓爪彈（Biotic Pawjectiles）使用技巧**",
+        "**![](/data/assets/guide/b8ec4b6b8f9a2f9e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-pawjectiles.png)生化貓爪彈（Biotic Pawjectiles）使用技巧**",
         "* 沒有距離衰減傷害，但拋射物飛行 40 公尺後會消失。",
-        "* 貓爪彈屬於散彈槍類型的擴散彈丸。每次射擊的形狀為貓爪樣式。爪子部分可以造成暴擊，但中間的肉墊無法造成暴擊。",
+        "* 生化貓爪彈屬於散彈槍類型的彈丸。每次射擊的形狀皆為貓爪。爪子部分可以造成暴擊，但中間的肉墊無法造成暴擊。",
         "* 瞄準敵人的頸部與上胸部，以最大化彈丸命中率與爆頭暴擊傷害。",
         "* 這是主要的治療與傷害來源。請優先進行治療，只有在隊友生命值接近全滿時才專注於輸出傷害。"
       ],
-      "content_hash": "dd8f73effb52",
-      "prompt_version": "v5",
+      "content_hash": "01f59ce2813e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:25.717127Z"
+      "timestamp": "2026-03-20T13:17:36.781774Z"
     },
     "4.2": {
       "title": "次要攻擊：狂熱飛行（Frenetic Flight）",
       "description": "",
       "content": [
-        "**狂熱飛行（Frenetic Flight）的使用技巧**",
-        "* 利用推進來控制空間與站位。最佳距離是將敵人保持在主要攻擊範圍內（40公尺），並在使用呼嚕（Purr）時將隊友保持在治療光環範圍內。",
-        "* 屬於資源型技能。經過短暫的冷卻後，只要還有剩餘燃料，即可重新啟動飛行。",
+        "**![](/data/assets/guide/5232ea25e34d2656.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffrenetic-flight.png)狂熱飛行（Frenetic Flight）的使用技巧**",
+        "* 利用推進來控制空間與站位。最佳距離是將敵人保持在主要攻擊範圍內（40公尺），並在施展呼嚕（Purr）時將盟友維持在治療光環範圍內。",
+        "* 屬於資源消耗型技能。經過短暫的冷卻時間後，只要你還有剩餘燃料，就可以再次啟動飛行。",
         "* 火箭貓（Jetpack Cat）極具閃避能力，擁有《Overwatch》中數一數二的機動性。",
-        "* * 頻繁地進行推進。基礎飛行速度較慢，若只是在空中飄浮，會讓火箭貓（Jetpack Cat）成為容易被鎖定的目標。",
-        "* 推進期間可以進行射擊。"
+        "* * 頻繁地進行推進。你的基礎飛行速度緩慢，若只是在空中漂浮，會讓火箭貓（Jetpack Cat）成為容易被擊中的目標。",
+        "* 在推進期間可以進行射擊。"
       ],
-      "content_hash": "af08c9a250e3",
-      "prompt_version": "v5",
+      "content_hash": "5bd335f67960",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:27.925357Z"
+      "timestamp": "2026-03-20T13:17:38.927552Z"
     },
     "4.3": {
       "title": "[SHIFT]：生命線（Lifeline）",
       "description": "",
       "content": [
-        "**生命線（Lifeline）的使用技巧**",
+        "**![](/data/assets/guide/7a678ebc365ae830.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flifeline.png)生命線（Lifeline）的使用技巧**",
         "* 傳送並治療隊友。",
-        "* 在卡西迪（Cassidy）施放「彈無虛發（Deadeye）」時使用彈射，能製造出致命的突襲大絕！",
-        "* 隊友必須按下「互動」鍵來確認。（這與織命（Lifeweaver）的「生命之握（Life Grip）」不同）",
-        "* 給予隊友足夠的時間進行確認。如果隊友生命值已經很低，想要快速將他們從戰鬥中拉出來會有難度，但這仍是一個絕佳的救援工具。",
+        "* 在卡西迪（Cassidy）施放「神射手（Deadeye）」時將他彈射出去，製造致命的驚喜大絕！",
+        "* 隊友必須按下「互動（Interact）」鍵來確認。（這與織命（Lifeweaver）的「生命之握（Life Grip）」不同）",
+        "* 給予隊友確認的時間。如果隊友生命值已經很低，要將他們迅速拉出戰鬥會比較困難，但這仍是一個很棒的救援工具。",
         "* 在使用生命線（Lifeline）期間無法進行射擊。",
-        "* 沒有時間限制。如果你願意，可以將隊友傳送到地圖上的任何位置。",
+        "* 沒有時間限制。如果你願意，你可以將隊友傳送到地圖上的任何位置。",
         "* 隊友在被傳送的過程中仍然可以進行射擊並使用技能。"
       ],
-      "content_hash": "4bfb2b7a26ee",
-      "prompt_version": "v5",
+      "content_hash": "d8726dbd1903",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:29.956312Z"
+      "timestamp": "2026-03-20T13:17:41.408792Z"
     },
     "4.4": {
       "title": "[E]：呼嚕（Purr）",
       "description": "",
       "content": [
-        "**呼嚕（Purr）的使用技巧**",
+        "![](/data/assets/guide/f538962b42c61721.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpurr.png)呼嚕（Purr）的使用技巧：",
         "* 啟動時會產生擊退效果。",
         "* 治療量會隨著持續時間接近尾聲而增加，因此在技能持續時間的後半段待在隊友身邊更為重要。",
-        "* 可以在飛行（Flight）和生命線（Lifeline）期間使用，以便在閃避攻擊、重新走位或逃脫時保持自身存活。"
+        "* 可以在飛行（Flight）與生命線（Lifeline）期間使用，讓你在閃避攻擊、重新定位與逃脫時保持生存。"
       ],
-      "content_hash": "0a962a204488",
-      "prompt_version": "v5",
+      "content_hash": "8ccbda9cc6ea",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:31.473611Z"
+      "timestamp": "2026-03-20T13:17:43.190389Z"
     },
     "4.5": {
       "title": "絕招：貓咪綁架者（Catnapper）",
       "description": "",
       "content": [
-        "**貓咪綁架者（Catnapper）的使用技巧**",
-        "* 在目標點附近有邊緣的地圖上，請保留你的絕招，等到有機會造成環境擊殺時再使用。",
-        "* 由於傷害較低，單獨使用無法造成致命威脅。請嘗試與隊友的高爆發絕招進行連攜，例如安燃（Anran）的飛升（Ascent）。",
-        "* 請記住，即使你猛擊並擊倒了多名敵人，如果敵方隊伍在地圖其他位置有像安娜（Ana）和伊默（Emre）這樣的即時命中英雄，當你抓起並搬運他們的隊友時，他們可以輕易地將你擊殺。",
-        "* * 在施放絕招後立即使用呼嚕（Purr）和飛行（Flight）以保持生存。",
-        "* 額外技巧：針對像 D.Va 這種在被丟下後會飛行的坦克，不要急著脫離。相反地，請使用降落（Descend）將他們壓低至邊緣的環境擊殺門檻以下，然後立即飛離。"
+        "![](/data/assets/guide/41958b3505632e51.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcatnapper.png)貓咪綁架者（Catnapper）的使用技巧",
+        "* 在目標附近有邊緣的地圖上，請保留你的絕招，以便在有機會造成環境擊殺（environmental KO）時使用。",
+        "* 由於傷害較低，單獨使用無法致命。試著與隊友的高爆發絕招進行連攜，例如 Anran 的飛升（Ascent）。",
+        "* 請記住，即使你猛擊並擊倒了多名敵人，如果敵隊在地圖其他位置有像安娜（Ana）和伊默（Emre）這樣的即時命中（hitscan）英雄，當你抓起並帶走他們的隊友時，他們可以輕易地將你擊殺。",
+        "* * 在施放絕招後立即使用呼嚕（Purr）和飛行（Flight）以維持生存。",
+        "* 額外技巧：面對像 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 這種在被丟下後會飛行的坦克時，不要急著鬆手。相反地，請使用降落（Descend）將他們帶到邊緣的環境擊殺門檻下方，然後立即飛離。"
       ],
-      "content_hash": "a38ef3a7a96a",
-      "prompt_version": "v5",
+      "content_hash": "8d8c38345309",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:33.709254Z"
+      "timestamp": "2026-03-20T13:17:45.637540Z"
     },
     "4.6": {
       "title": "被動技能：火箭背包（Jetpack）",
       "description": "",
       "content": [
-        "關於火箭背包（Jetpack）的提示：",
-        "* 雖然你可以一直飛行在天花板頂端，但這並不代表你應該這麼做。",
+        "![](/data/assets/guide/766a854bf2f54c93.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjetpack.png)火箭背包（Jetpack）的使用技巧：",
+        "* 雖然你可以一直飛在天花板頂端，但這並不代表你應該這麼做。",
         "* 請確保你保持在自身技能的有效範圍內。",
-        "* 飛得太高且缺乏環境掩體作為遮蔽，會讓你成為容易被攻擊的目標，並導致你迅速陣亡。"
+        "* 飛得太高且缺乏環境掩體遮蔽會讓你成為顯眼的目標，並導致你迅速陣亡。"
       ],
-      "content_hash": "3f221ecc7eff",
-      "prompt_version": "v5",
+      "content_hash": "aa4cf3d22a61",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:35.550106Z"
+      "timestamp": "2026-03-20T13:17:47.251108Z"
     },
     "5.1.1": {
-      "title": "隱藏動機（Ulterior Motive）",
+      "title": "不可告人的動機（Ulterior Motive）",
       "description": "15% 的生化爪彈（Biotic Pawjectiles）治療量會轉化為燃料。",
       "content": [
-        "* 即使在狂亂飛行（Frenetic Flight）期間也能補充燃料。",
+        "* 即使在 ![](/data/assets/guide/5232ea25e34d2656.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffrenetic-flight.png)狂亂飛行（Frenetic Flight）期間也能補充燃料。",
         "* 當你進行治療時，能顯著提升機動性與飛行持續時間。",
         "* 造成傷害不會轉化為燃料。",
-        "* 推薦預設次要特殊能力（Minor Perk）"
+        "* 推薦作為預設次要特殊能力（Minor Perk）"
       ],
-      "content_hash": "63cf48231326",
-      "prompt_version": "v5",
+      "content_hash": "8b4bd51d35f4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:36.692524Z"
+      "timestamp": "2026-03-20T13:17:48.929169Z"
     },
     "5.1.2": {
       "title": "運輸護盾（Transport Shielding）",
-      "description": "在攜帶另一名英雄時，最多可獲得 75 點護盾生命值。",
+      "description": "攜帶另一名英雄時，最多可獲得 75 點護盾生命值。",
       "content": [
-        "* 最適合戰略性的操作。讓你在運送盟友進行側襲（Flanker）時能承受更多傷害。在施放絕招後，進行環境擊殺（environmental KOs）也會變得更安全。",
-        "* 建議在有語音溝通或頻繁協調運輸操作時使用。"
+        "* 最適合戰略性打法。讓你在運輸盟友進行側襲（Flanker）時能承受更多傷害。此外，在施放絕招後進行環境擊殺（environmental KOs）時也更加安全。",
+        "* 建議在有語音溝通或頻繁協調運輸戰術時使用。"
       ],
       "content_hash": "3b944b2b6f12",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:38.250045Z"
+      "timestamp": "2026-03-20T13:17:51.187091Z"
     },
     "5.2.1": {
       "title": "頭槌（Headbutt）",
       "description": "當狂亂飛行（Frenetic Flight）以足夠快的速度飛行時，撞擊敵人可造成擊退效果。",
       "content": [
-        "* 需要消耗近一半的燃料並移動約 8 公尺才能累積足夠的動能來觸發擊退效果。（螢幕周圍會顯示視覺特效）",
+        "* 需要擁有近乎一半的燃料，並移動約 8 公尺以累積足夠的動能來觸發擊退效果。（螢幕周圍會顯示視覺特效）",
         "* 在運輸模式（transport mode）下亦可運作。",
-        "* 可搭配隱藏動機（Ulterior Motive）以更頻繁地使用。"
+        "* 建議搭配隱藏動機（Ulterior Motive）以更頻繁地使用。"
       ],
       "content_hash": "88cbf462f124",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:40.050259Z"
+      "timestamp": "2026-03-20T13:17:52.854842Z"
     },
     "5.2.2": {
       "title": "利爪出擊（Claws Out）",
-      "description": "近戰攻擊（Quick Melee）每 6 秒獲得強化，對敵人造成 40 點傷害並使其緩速 30%，持續 1 秒。",
+      "description": "近戰攻擊（Quick Melee）每 6 秒會獲得強化，對敵人造成 40 點傷害並使其緩速 30%，持續 1 秒。",
       "content": [
-        "* 最適合持續性的侵略型打法。如果你的隊伍採用的是近距離作戰策略，例如鬥陣（brawl）、衝鋒（rush）或機動（dive），那麼每 6 秒一次的額外近戰傷害將會非常強大。",
-        "* 當你的隊伍採取遠距離或消耗型（poke）打法時，你將沒有太多機會使用利爪出擊（Claws Out）。",
+        "* 最適合持續性的侵略型打法。如果你的隊伍採用近距離戰鬥策略，例如鬥陣（brawl）、衝鋒（rush）或機動（dive），那麼每 6 秒一次的額外近戰傷害將會非常強大。",
+        "* 當你的隊伍採取遠距離或消耗型（poke）打法時，你將不會有太多機會使用利爪出擊（Claws Out）。",
         "* 推薦主要特殊能力（major perks）"
       ],
       "content_hash": "7b0160e242b9",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:41.722923Z"
+      "timestamp": "2026-03-20T13:17:54.674345Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "最適合火箭貓（Jetpack Cat）的地圖擁有大量垂直結構，讓她能四處飛行。高地優勢尤其強大，因為她可以進行永久飛行。例如努巴尼（Numbani）、捍衛者基地：直布羅陀（Watchpoint: Gibraltar）以及帕拉伊索（Paraíso），這些地圖的結構配置都能讓她持續安全地變換位置。",
-        "較為平坦的地圖，或是目標區域過於空曠的地圖（例如薩摩亞（Samoa）、哈瓦那（Havana）和新皇后街（New Queen Street）），則無法提供足夠的發揮空間。在這些地圖上，你通常需要更靠近隊友，並利用他們來確保自身安全。"
+        "最適合 ![](/data/assets/guide/5ecb2adb5abc123f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjetpack-cat.png)火箭貓（Jetpack Cat）的地圖擁有大量垂直結構，供她四處飛行。高處地形特別強勢，因為她可以進行永久飛行。例如努巴尼（Numbani）、捍衛者基地：直布羅陀（Watchpoint: Gibraltar）以及帕拉伊索（Paraíso），這些地圖的結構配置都能讓她持續安全地變換位置。",
+        "地形較平坦或目標區域過於空曠的地圖，例如薩摩亞（Samoa）、哈瓦那（Havana）和新皇后街（New Queen Street），則無法提供足夠的發揮空間。在這些地圖上，你通常需要更靠近隊伍，並利用隊友來確保自身安全。"
       ],
-      "content_hash": "a61261c392e3",
-      "prompt_version": "v5",
+      "content_hash": "d369377b8849",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:43.413307Z"
+      "timestamp": "2026-03-20T13:17:56.820660Z"
     },
     "6.1.1": {
       "title": "努巴尼",
@@ -287,9 +287,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:44.662444Z"
+      "timestamp": "2026-03-20T13:17:58.029389Z"
     },
     "6.1.2": {
       "title": "捍衛者基地：直布羅陀",
@@ -298,9 +298,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:46.022608Z"
+      "timestamp": "2026-03-20T13:17:59.203447Z"
     },
     "6.1.3": {
       "title": "帕拉伊索",
@@ -309,9 +309,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:47.474575Z"
+      "timestamp": "2026-03-20T13:18:00.571603Z"
     },
     "6.2.1": {
       "title": "薩摩亞",
@@ -320,9 +320,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:48.854437Z"
+      "timestamp": "2026-03-20T13:18:01.702016Z"
     },
     "6.2.2": {
       "title": "哈瓦那",
@@ -331,9 +331,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:50.321362Z"
+      "timestamp": "2026-03-20T13:18:03.168309Z"
     },
     "6.2.3": {
       "title": "新皇后街",
@@ -342,54 +342,54 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:51.616030Z"
+      "timestamp": "2026-03-20T13:18:04.063335Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "火箭貓（Jetpack Cat）由於具備戰鬥能力、機動性以及自我維持能力，因此極為獨立。正因如此，她不需要隊友隨時守在身旁保護她。",
-        "對於能夠飛行或快速移動的英雄，火箭貓完全能跟上他們的節奏，因此請尋找像 D.Va、迴音（Echo）和閃光（Tracer）這樣的隊友，並隨時準備好施展瘋狂飛行（Frenetic Flight）來協助他們的進攻。",
-        "至於第二位輔助角色的選擇，比起特定的搭配，更取決於隊伍的其他成員。如果隊伍中有像莫加（Mauga）或萊因哈特（Reinhardt）這種需要大量治療資源的坦克，最好搭配像安娜（Ana）或巴帝斯特（Baptiste）這樣的英雄。",
-        "然而，如果你的隊伍採取全體突進戰術，或是選用了具備自我維持能力的英雄，那麼搭配治療輸出較低的輔助角色，例如路西歐（Lúcio）或碧姬（Brigitte），也是可行的。"
+        "火箭貓（Jetpack Cat）憑藉其戰鬥能力、機動性與自我維持能力，擁有極高的獨立性。正因如此，她不需要隊友隨時待在身邊保護她。",
+        "對於能夠飛行或快速移動的英雄，火箭貓都能輕鬆跟上，因此請尋找像是 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va、![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)Echo 與 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)Tracer 這樣的隊友，並隨時準備好使用 ![](/data/assets/guide/5232ea25e34d2656.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffrenetic-flight.png)狂亂飛行（Frenetic Flight）加入他們的攻勢。",
+        "至於第二位輔助角色的選擇，比起特定的搭配，更多取決於隊伍的其他成員。如果隊伍中有像 ![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)Mauga 或 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)Reinhardt 這種需要大量治療資源的坦克，最好搭配像 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana 或 ![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)Baptiste 這樣的角色。",
+        "然而，如果隊伍採取全體突進戰術，或是選用了具備自我維持能力的英雄，那麼搭配治療輸出較低的輔助角色，例如 ![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)Lúcio 或 ![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)Brigitte，也是可行的。"
       ],
-      "content_hash": "4f5155cd9d7d",
-      "prompt_version": "v5",
+      "content_hash": "4b358c096ab0",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:54.525794Z"
+      "timestamp": "2026-03-20T13:18:06.833368Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "若要反制火箭貓（Jetpack Cat），你必須在她現身時給予壓力。即使只是造成一點傷害也能迫使她撤退，這在她使用呼嚕（Purr）時特別有效。",
-        "隨時提防側襲，因為她能以極快的速度飛行並從側面攻擊你。不要過度專注於眼前的目標，如果你擁有任何控制技能（CC），且發現對方火箭貓（Jetpack Cat）玩家頻繁進行側襲，請務必保留這些技能。",
-        "此外，你也可以在你的副角色（subrole）中進行英雄更換，選擇像是 D.Va、艾西（Ashe）或伊拉里（Illari）這類英雄，這樣能更輕鬆地將火箭貓（Jetpack Cat）從空中擊落、閃避她的大絕，並封鎖她的側襲路線。"
+        "若要反制 ![](/data/assets/guide/5ecb2adb5abc123f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjetpack-cat.png)火箭貓（Jetpack Cat），你需要在她每次現身時給予壓力。即使是少量的傷害也能迫使她撤退，這在當她使用 ![](/data/assets/guide/f538962b42c61721.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpurr.png)呼嚕（Purr）時特別有效。",
+        "隨時提防側襲攻擊，因為她能以極快的速度飛入並從側面射擊你。不要過度專注於單一目標，如果你擁有任何控場技能（CC），且發現對方玩家頻繁進行側襲，可以將這些技能留給她。",
+        "此外，你也可以在你的副角色（subrole）中進行英雄更換，選擇像是 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va、![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）或 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里（Illari）這類英雄，這樣能更輕鬆地將 ![](/data/assets/guide/5ecb2adb5abc123f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjetpack-cat.png)火箭貓（Jetpack Cat）從空中擊落、閃避她的大絕，並封鎖她的側襲路線。"
       ],
-      "content_hash": "2cfed3c0a00a",
-      "prompt_version": "v5",
+      "content_hash": "feb8d65d4bef",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:56.762670Z"
+      "timestamp": "2026-03-20T13:18:09.522420Z"
     },
     "8.2": {
-      "title": "特定英雄剋制名稱",
+      "title": "特定英雄剋制對象名稱",
       "description": "",
       "content": [
-        "* D.Va",
-        "* 艾西",
-        "* 伊拉里"
+        "D.Va",
+        "艾西",
+        "伊拉里"
       ],
       "content_hash": "1393ac195679",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:26:57.879128Z"
+      "timestamp": "2026-03-20T13:18:10.935614Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.597984Z"
+    "timestamp": "2026-03-20T13:17:15.810648Z"
   }
 }

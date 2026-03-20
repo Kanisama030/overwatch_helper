@@ -1893,8 +1893,7 @@
           "content": [
             "winston",
             "genji",
-            "tracer",
-            "sombra"
+            "tracer"
           ]
         }
       ]
@@ -3539,7 +3538,6 @@
           "title": "Specific Hero Counters names",
           "content": [
             "doomfist",
-            "ramattra",
             "ana"
           ]
         }
@@ -3867,9 +3865,9 @@
           "title": "Specific Hero Counters names",
           "content": [
             "ana",
+            "dva",
             "orisa",
-            "lifeweaver",
-            "dva"
+            "lifeweaver"
           ]
         }
       ]
@@ -5445,12 +5443,11 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "pharah",
             "widowmaker",
-            "ashe",
             "hanzo",
+            "ashe",
             "soldier-76",
-            "winston"
+            "sojourn"
           ]
         }
       ]
@@ -7968,7 +7965,8 @@
             "lucio",
             "pharah",
             "sojourn",
-            "orisa"
+            "orisa",
+            "ana"
           ]
         },
         {
@@ -9619,104 +9617,6 @@
           ]
         },
         {
-          "id": "6.1.13",
-          "title": "Route 66",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.14",
-          "title": "Havana",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.15",
-          "title": "Junkertown",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.16",
-          "title": "Watchpoint: Gibraltar",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.17",
-          "title": "Rialto",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.18",
-          "title": "Shambali Monastery",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.19",
-          "title": "Numbani",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.20",
-          "title": "King's Row",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.21",
-          "title": "Hollywood",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.22",
-          "title": "Paraíso",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.23",
-          "title": "Eichenwalde",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.24",
-          "title": "Blizzard World",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.25",
-          "title": "Esperança",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.1.26",
-          "title": "Runasapi",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
           "id": "6.2",
           "title": "Worst Maps"
         },
@@ -10594,20 +10494,15 @@
         },
         {
           "id": "5.2.1",
-          "title": "Frost Arrow",
-          "content": [
-            "* AoE effect, hitting a surface also triggers the explosion and will inflict slow on nearby enemies.",
-            "* Can be used during Storm Arrow, but not with Sonic Arrow.",
-            "* Try aiming at your target's feet to either get an easy body shot or floor explosion. Then, go for a headshot while they are slowed",
-            "* * Especially effective in combination with Dragon Furty."
-          ]
-        },
-        {
-          "id": "5.2.2",
           "title": "Scatter Arrows",
           "content": [
             "* In theory, you can get some cheeky KOs against retreating enemies inside rooms or around corners, but it’s too niche to be worth taking in any scenario over Frost Arrow."
           ]
+        },
+        {
+          "id": "5.2.2",
+          "title": "",
+          "content": []
         },
         {
           "id": "6",
@@ -12089,10 +11984,10 @@
         },
         {
           "id": "5.2.1",
-          "title": "Widow’s Bite",
+          "title": "Widow's Bite",
           "content": [
             "no guide provided",
-            "perk: Widow’s Bite"
+            "perk: Widow's Bite"
           ]
         },
         {
@@ -12498,8 +12393,8 @@
             "widowmaker",
             "hanzo",
             "ashe",
-            "soldier-76",
-            "sojourn"
+            "sojourn",
+            "soldier-76"
           ]
         }
       ]

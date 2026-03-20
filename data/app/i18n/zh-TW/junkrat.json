@@ -6,40 +6,40 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "炸彈鼠（Junkrat）利用他的爆裂物來佔領狹窄空間、懲罰可預測的走位，並透過源源不絕的爆裂物轟炸來壓制敵人。炸彈鼠不追求精準度，而是以混亂為樂，將狹窄通道和目標點變成死亡陷阱。",
-        "他的價值很大一部分來自於讓敵方坦克（Tank）難以正常發揮。坦克很難在他的高傷害輸出下生存，也難以應對他的控場能力（crowd control abilities）。",
-        "在隊伍陣容中，炸彈鼠擅長利用彈跳的拋射物來控制空間，並用他的捕獸夾（Steel Trap）封鎖側襲路線。當戰鬥集中在狹窄通道或目標點時，他表現最強勢，可以讓榴彈在牆壁上反彈，從而達成出其不意的擊殺。雖然他在開闊地圖區域的效果較差，但炸彈鼠專家（Junkrat specialists）已經掌握了利用震盪地雷（Concussion Mine）跳躍的技巧，能快速穿越開闊區域，或是升空與飛行單位交戰。"
+        "![](/data/assets/guide/2b23a0f925f80146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunkrat.png)炸彈鼠（Junkrat）利用他的爆裂物來佔據狹窄空間、懲罰可預測的走位，並透過無情的爆裂物轟炸來壓制敵人。炸彈鼠熱衷於混亂而非精準度，他能將咽喉點和目標區域變成死亡陷阱。",
+        "他的價值很大一部分來自於讓敵方坦克無法正常進行遊戲。坦克很難在他高額的傷害輸出下存活，也難以應對他的控場能力（crowd control abilities）。",
+        "在隊伍陣容中，![](/data/assets/guide/2b23a0f925f80146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunkrat.png)炸彈鼠擅長利用彈跳的拋射物來控制空間，並以他的陷阱（trap）封鎖側襲路線。當戰鬥集中在咽喉點或目標區域時，他表現最強勢，因為他可以讓榴彈從牆壁反彈，造成出其不意的擊殺。雖然他在開放地圖區域的效果較差，但炸彈鼠專家（Junkrat specialists）已經精通了使用 ![](/data/assets/guide/ba859132aa8f14c2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconcussion-mine.png)震盪地雷（Concussion Mine）跳躍的技巧，能快速穿越開放區域，或是升空與飛行單位進行戰鬥。"
       ],
-      "content_hash": "12076dca6e7d",
-      "prompt_version": "v5",
+      "content_hash": "1ac6b1ca62bc",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:54.249572Z"
+      "timestamp": "2026-03-20T13:20:29.179183Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 不間斷地對隘口進行火力壓制。尋找可以讓炸彈鼠（Junkrat）的爆裂槍（Frag Launchers）進行反彈的牆壁，藉此攻擊那些沒有視野（LoS）的敵人。",
-        "* 利用陷阱與地雷控制空間。你應該隨時放置一個鋼鐵陷阱（Steel Trap）來封鎖敵人的推進路線，或是保護你的側襲者（Flanker）路徑。",
-        "* 優先鎖定像坦克（Tanks）這類體型龐大且移動緩慢的敵人，而不是嘗試對那些小型且靈活的英雄進行高難度射擊（skill-shot）。"
+        "* 不斷地對咽喉點進行轟炸。尋找可以讓 ![](/data/assets/guide/72f7df04b6d0f995.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffrag-launcher.png)榴彈發射器（Frag Launchers）反彈的牆壁，藉此攻擊那些沒有視野（LoS）對準你的敵人。",
+        "* 利用陷阱和地雷來控制空間。你應該隨時放置一個 ![](/data/assets/guide/bcd737fdd37e006d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsteel-trap.png)鋼鐵陷阱（Steel Trap）來封鎖敵人的推進路線或保護你的側翼。",
+        "* 優先鎖定體型龐大且移動緩慢的敵人（例如坦克），而不是嘗試對小型且靈活的英雄進行高難度射擊。"
       ],
-      "content_hash": "a8d382e2848a",
-      "prompt_version": "v5",
+      "content_hash": "5069a9f1f7ea",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:56.202492Z"
+      "timestamp": "2026-03-20T13:20:31.147800Z"
     },
     "1.1.2": {
-      "title": "對戰策略",
+      "title": "對戰建議",
       "description": "",
       "content": [
-        "* 避免進入狹窄的走廊、房間、通道以及低窪地區。這些地方是炸彈鼠（Junkrat）的榴彈用來收割你們隊伍的絕佳場所。",
-        "* 隨時留意地面。為你的隊友摧毀陷阱，以免他們誤觸而喪命。",
-        "* 具備遠程攻擊能力的英雄，或是體型嬌小且高機動性的角色，在對抗炸彈鼠（Junkrat）時會佔有優勢。"
+        "* 避免進入狹窄的走廊、房間、通道以及低窪區域。這些地方是炸彈鼠（Junkrat）的榴彈（frags）收割你們隊伍的最佳場所。",
+        "* 留意地面。為你的隊友摧毀陷阱（traps），以免他們誤觸而喪命。",
+        "* 具備長程攻擊能力的英雄，或是體型小、高機動性的角色，在對抗炸彈鼠（Junkrat）時會佔有優勢。"
       ],
       "content_hash": "53cc8cbaa0a0",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:57.889731Z"
+      "timestamp": "2026-03-20T13:20:32.981553Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -48,226 +48,226 @@
         "* 爆發傷害（Burst）",
         "* 控場（CC）",
         "* 隨機擊殺（Random eliminations）",
-        "* 低射程（Low-ranged）",
-        "* 絕招期間易受攻擊（Vulnerable during ultimate）",
-        "* 對抗飛行單位較為吃力（Struggles vs Fliers）"
+        "* 近距離作戰（Low-ranged）",
+        "* 使用絕招期間易受攻擊（Vulnerable during ultimate）",
+        "* 對抗飛行英雄較為吃力（Struggles vs Fliers）"
       ],
       "content_hash": "2c0b3868c4df",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:59.433813Z"
+      "timestamp": "2026-03-20T13:20:34.539021Z"
     },
     "3.1.1": {
       "title": "爆發傷害",
       "description": "",
       "content": [
-        "炸彈鼠（Junkrat）的震盪地雷（Concussion Mine）連段能讓他瞬間消滅脆弱的目標，或對坦克造成重創。若操作精準，他的爆發傷害潛力在遊戲中名列前茅。"
+        "![](/data/assets/guide/ba859132aa8f14c2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconcussion-mine.png)炸彈鼠（Junkrat）的震盪地雷（Concussion Mine）連技可以讓他瞬間擊殺脆弱的目標，或是對坦克造成重創。當操作精準時，他的爆發傷害潛力在遊戲中名列前茅。"
       ],
-      "content_hash": "0bf94f1e180f",
-      "prompt_version": "v5",
+      "content_hash": "e3a704e5f0a6",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:00.795275Z"
+      "timestamp": "2026-03-20T13:20:35.936103Z"
     },
     "3.1.2": {
       "title": "頻繁的控場",
       "description": "",
       "content": [
-        "炸彈鼠（Junkrat）擁有兩發震盪地雷（Concussion Mine）充能、一個鋼鐵陷阱（Steel Trap），甚至連他的爆裂彈（Frag Launcher）都帶有少許擊退效果。總體而言，炸彈鼠讓敵人難以向前推進，他能比敵人更好地控制其移動路徑。"
+        "炸彈鼠（Junkrat）擁有兩發震盪地雷（Concussion Mine）充能、一個鋼鐵陷阱（Steel Trap），甚至連他的爆裂彈（Frag Launcher）都帶有少許擊退效果。總體而言，炸彈鼠讓敵人難以向前推進，他能比對手更好地控制敵方的移動。"
       ],
       "content_hash": "722c57333bf7",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:02.453108Z"
+      "timestamp": "2026-03-20T13:20:37.716320Z"
     },
     "3.1.3": {
       "title": "隨機擊殺",
       "description": "",
       "content": [
-        "封鎖路口進行火力壓制確實是炸彈鼠（Junkrat）的拿手好戲。這部分歸功於他的爆裂彈（Frags）會四處彈跳，進而擊中他完全沒瞄準、甚至根本不知道站在那裡的目標。如果他能越過建築物進行射擊，或是讓砲彈從牆壁反彈，效果甚至會更好。"
+        "在隘口進行火力壓制確實是炸彈鼠（Junkrat）的專長。這部分歸功於他的爆裂彈（Frags）會四處彈跳，並擊中那些他完全沒瞄準、甚至根本不知道站在那裡的目標。如果他能越過建築物進行射擊，或是利用牆壁反彈射擊，效果甚至會更好。"
       ],
       "content_hash": "d6c107262506",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:03.934450Z"
+      "timestamp": "2026-03-20T13:20:39.544126Z"
     },
     "3.2.1": {
       "title": "遠距離效能受限",
       "description": "",
       "content": [
-        "炸彈鼠（Junkrat）在開闊地圖中會面臨困境，因為敵人可以利用射程優勢並閃避他的拋射物。聰明的對手會利用距離優勢來保持戰局主導權。此外，由於拋射物速度緩慢，隨著距離增加，他的輸出穩定性也會隨之下降。"
+        "炸彈鼠（Junkrat）在開闊地圖中會面臨挑戰，因為敵人可以利用射程優勢並閃避他的拋射物。聰明的對手會利用距離優勢來維持戰局的主導權。此外，由於拋射物飛行速度較慢，隨著距離增加，攻擊的穩定性也會隨之下降。"
       ],
       "content_hash": "9b1b21c92011",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:05.738291Z"
+      "timestamp": "2026-03-20T13:20:41.243997Z"
     },
     "3.2.2": {
-      "title": "絕招期間的脆弱狀態",
+      "title": "絕招期間的脆弱性",
       "description": "",
       "content": [
-        "炸彈鼠是少數在施放絕招時無法保護自己的英雄之一。如果敵人發現了你的位置，你將會輕易被擊殺。此外，如果你直接將地獄飛輪（RIP-Tire）朝敵人衝去，他們可以很輕鬆地將其摧毀。"
+        "炸彈鼠是少數在施放絕招時無法保護自己的英雄之一。如果敵人發現了你，你就會成為免費的擊殺目標。此外，如果你將 ![](/data/assets/guide/e30d6cf12db48904.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frip-tire.png)地獄飛輪（RIP-Tire）直接衝向敵人，他們可以輕易地將其摧毀。"
       ],
-      "content_hash": "cab0920f2bb6",
-      "prompt_version": "v5",
+      "content_hash": "860cc4b1fbe9",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:07.225471Z"
+      "timestamp": "2026-03-20T13:20:42.879970Z"
     },
     "3.2.3": {
       "title": "對抗飛行英雄的手段極其有限",
       "description": "",
       "content": [
-        "儘管我們偶爾會看到頂尖 500 強玩家使用炸彈鼠（Junkrat）進行飛行操作的精彩片段，但現實情況是，飛行英雄對炸彈鼠來說是毀滅性的存在。如果你在對戰中表現得非常出色，請預期對手會換出法拉（Pharah）和火箭貓（Jetpack Cat）來進行針對性反制。"
+        "儘管我們偶爾會看到炸彈鼠（Junkrat）高手在頂尖 500 強對局中做出令人驚嘆的飛行操作，但現實情況是，飛行英雄對炸彈鼠來說是毀滅性的存在。如果你在對局中表現得太好，請預期對手會換出 ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉（Pharah）和 ![](/data/assets/guide/5ecb2adb5abc123f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjetpack-cat.png)火箭貓（Jetpack Cat）來針對你。"
       ],
-      "content_hash": "f8d18409e5a7",
-      "prompt_version": "v5",
+      "content_hash": "1a0613b8527c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:08.876928Z"
+      "timestamp": "2026-03-20T13:20:44.561580Z"
     },
     "4.1": {
-      "title": "主要攻擊：榴彈發射器（Frag Launcher）",
+      "title": "主要攻擊：爆裂槍（Frag Launcher）",
       "description": "",
       "content": [
-        "**炸彈鼠（Junkrat）**的榴彈發射器（Frag Launcher）使用技巧：",
-        "* 選擇敵人無法看見你的位置。瞄準榴彈使其從表面反彈並繞過轉角，而不是直接射擊目標。",
-        "* 在遊戲前期對著咽喉點（chokes）進行洗地射擊，藉此對敵方隊伍施壓並累積絕招充能。當敵人推進並佔領空間時，請重新調整位置以維持最佳距離。",
-        "* 聚集在一起的敵人是榴彈（Frags）和地雷（Mines）的最佳目標。由於範圍傷害（AoE）的特性，你將能輸出更多傷害；即便沒擊中其中一人，也可能命中另一名敵人。"
+        "**![](/data/assets/guide/72f7df04b6d0f995.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffrag-launcher.png)爆裂槍（Frag Launcher）的使用技巧**",
+        "* 站在敵人無法看見你的位置。瞄準榴彈使其從表面反彈並繞過轉角，而不是直接射擊目標。",
+        "* 在遊戲前期對著咽喉點（choke）進行洗地射擊，以對敵方隊伍施加壓力並累積絕招能量。隨著敵人佔領空間並向前推進，請重新調整位置以保持最佳距離。",
+        "* 聚集在一起的敵人是爆裂槍（Frags）和地雷（Mines）的最佳目標。由於具有範圍傷害（AoE），你將能輸出更多傷害，即便沒擊中其中一人，也可能命中另一名敵人。"
       ],
-      "content_hash": "d3d558024ebb",
-      "prompt_version": "v5",
+      "content_hash": "a11cfe3b8fcf",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:11.024992Z"
+      "timestamp": "2026-03-20T13:20:46.645742Z"
     },
     "4.2": {
       "title": "[SHIFT]：震盪地雷（Concussion Mine）",
       "description": "",
       "content": [
-        "**震盪地雷（Concussion Mine）的使用技巧**",
-        "* 將地雷用於進攻以進行爆發連段。榴彈發射器（Frag）接震盪地雷（Mine）可以瞬間擊殺像朱諾（Juno）這類擁有 225 點生命值的英雄。",
-        "* 利用地雷跳躍（Mine jumps）快速移動至高處，以取得更好的射擊角度或發動突襲。",
-        "* 當被敵人包圍時，使用地雷跳躍（Mine jump）遠離戰場以進行逃脫。"
+        "![](/data/assets/guide/ba859132aa8f14c2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconcussion-mine.png)震盪地雷（Concussion Mine）的使用技巧",
+        "* 將地雷用於進攻以進行爆發連招。榴彈發射器（Frag）接震盪地雷（Mine）可以瞬間擊殺像朱諾（Juno）這樣擁有 225 點生命值的英雄。",
+        "* 利用地雷跳躍（Mine jump）快速移動到高處，以取得更好的射擊角度或進行突襲。",
+        "* 當被敵人包圍時，利用地雷跳躍（Mine jump）逃離現場。"
       ],
-      "content_hash": "a643bc75c689",
-      "prompt_version": "v5",
+      "content_hash": "eaa3ac8395e1",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:13.014889Z"
+      "timestamp": "2026-03-20T13:20:48.817432Z"
     },
     "4.3": {
       "title": "[E]：鋼鐵陷阱（Steel Trap）",
       "description": "",
       "content": [
-        "鋼鐵陷阱（Steel Trap）使用技巧：",
-        "* 將陷阱放置在視線死角，例如轉角處、門口前方、樓梯上或高流量路徑上。",
+        "![](/data/assets/guide/bcd737fdd37e006d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsteel-trap.png)鋼鐵陷阱（Steel Trap）的使用技巧",
+        "* 將陷阱放置在視線死角處，例如轉角後、門口前方、樓梯上，或是人流密集的路徑上。",
         "* 將震盪地雷（Concussion Mine）放置在鋼鐵陷阱（Steel Trap）內，一旦發現陷阱觸發，立即引爆。",
-        "* 將陷阱投擲在撤退的敵人身後，以阻止他們逃跑並確保擊殺。"
+        "* 將陷阱丟在撤退敵人的後方，阻止他們繼續移動並確保擊殺。"
       ],
-      "content_hash": "2bb8a594e081",
-      "prompt_version": "v5",
+      "content_hash": "b4515632feae",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:14.485694Z"
+      "timestamp": "2026-03-20T13:20:50.586347Z"
     },
     "4.4": {
       "title": "（被動技能）：全面混亂（Total Mayhem）",
       "description": "",
       "content": [
-        "**全面混亂（Total Mayhem）的技巧**",
-        "* 永遠不要在明明可以存活的情況下，為了觸發全面混亂（Total Mayhem）而故意送死。",
-        "* 有時候，死後能額外帶走敵人是不錯的獎勵，所以如果你確定自己必死無疑，可以嘗試死在敵人正上方。",
-        "* 技術上來說，這招在敵人難以閃避的狹窄空間內最為有效。"
+        "![](/data/assets/guide/6b597825c4f622cd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftotal-mayhem.png)全面混亂（Total Mayhem）的技巧",
+        "* 若有機會存活，絕對不要為了觸發全面混亂（Total Mayhem）而刻意送死。",
+        "* 有時候死後能額外獲得免費擊殺作為獎勵，所以如果你確定自己必死無疑，可以嘗試死在敵人正上方。",
+        "* 技術上來說，此技能在敵人難以閃避的狹窄空間內最為有效。"
       ],
-      "content_hash": "ade054364c28",
-      "prompt_version": "v5",
+      "content_hash": "33020b96a45d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:16.152356Z"
+      "timestamp": "2026-03-20T13:20:52.532291Z"
     },
     "4.5": {
-      "title": "絕招：炸彈輪胎（RIP-Tire）",
+      "title": "絕招：地獄飛輪（RIP-Tire）",
       "description": "",
       "content": [
-        "**炸彈輪胎（RIP-Tire）使用技巧**",
-        "* 在安全的位置使用炸彈輪胎（RIP-Tire），避免在操控輪胎於地圖上移動時被敵人擊殺。",
-        "* 採取意想不到的路線、攀爬牆壁、翻越建築物，並以之字形移動來避免輪胎被摧毀。",
-        "* 通常情況下，應避免將目標鎖定為坦克，因為除非他們已經受傷，否則大多數坦克都能在爆炸中存活。",
-        "* 追蹤敵人的逃生技能，例如莫伊拉（Moira）的消散（Fade）。如果他們尚未施放，試著駕駛輪胎衝向他們但不引爆，藉此誘出這些技能。隨後再進行追擊，以智取對手並取得擊殺。"
+        "![](/data/assets/guide/e30d6cf12db48904.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frip-tire.png)地獄飛輪（RIP-Tire）使用技巧",
+        "* 在安全的位置使用地獄飛輪（RIP-Tire），避免在操控飛輪繞行地圖時被敵人擊殺。",
+        "* 採取意想不到的路線，利用爬牆、翻越建築物以及走位迂迴來避免飛輪被摧毀。",
+        "* 通常情況下，應避免將目標鎖定在坦克身上，因為除非他們已經受傷，否則大多數坦克都能在爆炸中存活。",
+        "* 追蹤敵人的逃生技能，例如莫伊拉（Moira）的消散（Fade）。如果他們尚未交出技能，試著在不引爆的情況下駕駛飛輪靠近他們以進行誘騙。接著在他們交出技能後再進行追擊，藉此智取對手並取得擊殺。"
       ],
-      "content_hash": "d2646b49c5c7",
-      "prompt_version": "v5",
+      "content_hash": "78617ff6869d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:18.368052Z"
+      "timestamp": "2026-03-20T13:20:54.576936Z"
     },
     "5.1.1": {
       "title": "地雷回收（Mine Recycling）",
-      "description": "使用震盪地雷（Concussion Mine）造成擊殺可恢復一次充能。",
+      "description": "使用震盪地雷（Concussion Mine）擊殺敵人可恢復一次充能。",
       "content": [
-        "* 獎勵高效率的地雷使用方式。試著刻意保留一顆地雷來進行最後一擊。",
-        "* 非常強大且能實現極具侵略性的打法。你可以使用一顆地雷跳入戰場，再用另一顆地雷配合榴彈進行擊殺，接著透過刷新獲得的第三顆地雷跳回安全位置。",
-        "* 推薦次要特殊能力（Minor Perk）"
+        "* 獎勵高效的地雷使用方式。試著刻意保留一顆地雷來進行最後一擊。",
+        "* 非常強大且能實現極具侵略性的打法。你可以使用一顆地雷跳入戰場，再用另一顆地雷配合榴彈進行擊殺，接著利用重置後的第三顆地雷跳回安全位置。",
+        "* 推薦次要特殊能力（minor perks）"
       ],
       "content_hash": "27db7e6e28a4",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:20.357405Z"
+      "timestamp": "2026-03-20T13:20:56.203279Z"
     },
     "5.1.2": {
       "title": "氮氣加速（Nitro Boost）",
-      "description": "在施放地獄飛輪（RIP-Tire）期間，使用（LSHIFT）來獲得短暫的速度提升。此舉會使地獄飛輪（RIP-Tire）的傷害降低 50%。",
+      "description": "在施放「地獄飛輪（RIP-Tire）」期間，按下 (LSHIFT) 可獲得短暫的速度提升。此舉會使「地獄飛輪（RIP-Tire）」的傷害降低 50%。",
       "content": [
-        "* 讓敵人更難預測地獄飛輪（RIP-Tire）的移動路徑並將其摧毀。",
-        "* 在垂直地形或開闊地圖上特別有價值。"
+        "* 讓敵人更難預測飛輪的移動路徑並將其摧毀。",
+        "* 在垂直地形或開闊地圖上特別實用。"
       ],
       "content_hash": "a17496e19242",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:21.876801Z"
+      "timestamp": "2026-03-20T13:20:57.800543Z"
     },
     "5.2.1": {
       "title": "破片加農砲（Frag Cannon）",
       "description": "炸彈鼠（Junkrat）的爆裂槍（Frag Launcher）投射物速度提升 25%",
       "content": [
         "* 提升投射物速度能讓直接命中的穩定性更高。",
-        "* 在視野較長的地圖上效果最佳，但這項能力在任何情況下都不會是壞選擇。",
-        "* 速度提升可能會影響部分玩家的肌肉記憶，但大多數人會發現這種調整非常有幫助。",
-        "* 當你專注於遠距離騷擾（spam）時，請選擇此能力。"
+        "* 在視野較長的地圖上效果最佳，但這永遠是不錯的選擇。",
+        "* 增加的速度可能會影響部分玩家的肌肉記憶，但大多數人認為這種調整非常有幫助。",
+        "* 當你專注於遠距離騷擾（spam）時，請選擇此項。"
       ],
       "content_hash": "cedaec097b02",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:23.791309Z"
+      "timestamp": "2026-03-20T13:20:59.889740Z"
     },
     "5.2.2": {
       "title": "炸彈遠航（Bomb Voyage）",
       "description": "在使用震盪地雷（Concussion Mine）發射後，炸彈鼠（Junkrat）會獲得 35% 的攻擊速度加成，持續 3 秒。",
       "content": [
-        "* 讓你的地雷跳躍更具殺傷力。特別是在搭配地雷回收（Mine Recycling）並使用上述的三重地雷跳躍-擊殺-跳躍（Mine jump-kill-jump）技巧時效果更佳。",
-        "* 最適合在進行側襲（Flanker）或透過跳過牆壁突襲敵人，並迅速向他們傾瀉爆彈（Frags）時使用。",
+        "* 讓你的地雷跳躍更具殺傷力。特別是在搭配地雷回收（Mine Recycling）並使用上述的三重地雷跳躍-擊殺-跳躍方法時效果更佳。",
+        "* 最適合在進行側襲（Flanker）或透過跳過牆壁突襲敵人，並迅速向他們傾瀉爆裂彈（Frags）時使用。",
         "* 當你想要採取更具侵略性的站位時，請選擇炸彈遠航（Bomb Voyage）。"
       ],
       "content_hash": "e1b271dbd7d2",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:25.308822Z"
+      "timestamp": "2026-03-20T13:21:01.689569Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "最適合炸彈鼠的地圖通常具備狹窄的走廊、較小的目標區域，以及一些可供利用的高地。灕江天塔的控制中心以及新垃圾城，都是這類地圖配置的絕佳範例，讓炸彈鼠能將一連串的榴彈轟炸至目標點、利用牆壁反彈，或是精準投入狹小的房間內。",
-        "他在長視線與空曠區域的地圖上會顯得較為吃力，例如垃圾鎮和哈瓦那。由於榴彈發射器（Frag Launcher）的飛行速度較慢，加上震盪地雷（Concussion Mine）的射程較短，使得擅長遠程投射物與即時命中（hitscan）的英雄在這些地圖上能輕易壓制他。"
+        "最適合 ![](/data/assets/guide/2b23a0f925f80146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunkrat.png)炸彈鼠的地圖通常具備狹窄的走廊、較小的目標區域以及可供利用的高地。灕江天塔的控制中心以及新垃圾城就是這類地圖配置的絕佳範例，讓炸彈鼠能將一連串的榴彈轟炸至目標點、利用牆壁反彈，並精準投入狹小的房間內。",
+        "他在視野遼闊且開闊的地圖上會顯得較為吃力，例如垃圾鎮和哈瓦那。由於 ![](/data/assets/guide/72f7df04b6d0f995.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffrag-launcher.png)榴彈發射器（Frag Launcher）的飛行速度緩慢，加上 ![](/data/assets/guide/ba859132aa8f14c2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconcussion-mine.png)震盪地雷（Concussion Mine）的射程較短，使得擅長遠程投射物與即時命中（hitscan）的英雄在這些地圖上能輕易壓制他。"
       ],
-      "content_hash": "cff1d3477bee",
-      "prompt_version": "v5",
+      "content_hash": "d1614f02c069",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:27.467160Z"
+      "timestamp": "2026-03-20T13:21:04.019591Z"
     },
     "6.1.1": {
       "title": "灕江天塔",
       "description": "",
       "content": [
-        "AI 生成"
+        "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:28.716178Z"
+      "timestamp": "2026-03-20T13:21:05.211330Z"
     },
     "6.1.2": {
       "title": "新垃圾城",
@@ -276,20 +276,20 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:29.998721Z"
+      "timestamp": "2026-03-20T13:21:06.564057Z"
     },
     "6.2.1": {
       "title": "垃圾鎮",
       "description": "",
       "content": [
-        "人工智慧生成"
+        "由人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:31.067548Z"
+      "timestamp": "2026-03-20T13:21:07.712249Z"
     },
     "6.2.2": {
       "title": "哈瓦那",
@@ -298,42 +298,42 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:32.321225Z"
+      "timestamp": "2026-03-20T13:21:08.997672Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "炸彈鼠（Junkrat）主要會佔據側邊死角，位置靠近隊伍但保持距離。正因如此，他在搭配坦克時擁有很高的靈活性。當隊伍中有護盾型坦克時，他可以更貼近隊友，並在護盾保護下進行火力壓制。若搭配機動性較高的坦克，他則能利用地雷進行位移，以跟進坦克的攻勢。",
-        "至於第二位輸出位，搭配像艾西（Ashe）這類即時命中型英雄非常有幫助，能彌補他對抗法拉（Pharah）等飛行英雄時的弱勢。",
-        "具備功能性的輔助英雄，例如擁有「紛亂之珠（Orb of Discord）」的禪亞塔（Zenyatta）或擁有「生化手榴彈（Biotic Grenade）」的安娜（Ana），都能利用他極高的爆發傷害來迅速擊潰敵方英雄，並取得快速擊殺。",
-        "你也可以發揮創意，搭配無漾（Wuyang）及其可控的「主要攻擊（primary fire）」，對躲在掩體後的敵人進行轟炸，這些位置通常只有他和炸彈鼠（Junkrat）能持續進行攻擊。利用「潮汐爆破（Tidal Blast）」進行突襲，只要你能命中目標並將其擊倒，幾乎可以保證穩拿擊殺。"
+        "![](/data/assets/guide/2b23a0f925f80146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunkrat.png)炸彈鼠主要會站在側邊角度，位置靠近隊伍但保持距離。正因如此，他在搭配坦克時具有很高的靈活性。當隊伍中有護盾坦克時，他可以更常與隊友待在一起，並在護盾保護下進行火力壓制。若搭配機動性較高的坦克，他則能利用地雷進行位移，並跟進坦克的攻勢。",
+        "至於第二位輸出角色，搭配像 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西 這樣的即時命中（hitscan）英雄非常有幫助，能彌補他對抗像 ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉 這類飛行英雄時的弱勢。",
+        "具備功能性的輔助英雄，例如擁有 ![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)紛亂之珠（Orb of Discord）的 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔，或是擁有 ![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)生物手榴彈（Biotic Grenade）的 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜，都能利用他極高的爆發傷害來瞬間擊潰敵方英雄，並快速取得擊殺。",
+        "你也可以發揮創意，利用 ![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾 及其可控的主武器攻擊，對躲在掩體後的敵人進行轟炸，這些位置通常只有他和炸彈鼠能夠持續進行攻擊。配合 ![](/data/assets/guide/91b2239520de7052.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftidal-blast.png)潮汐爆破（Tidal Blast）進行突入，只要你能命中目標並將其擊倒，幾乎可以保證穩拿擊殺。"
       ],
-      "content_hash": "85cca3042aa8",
-      "prompt_version": "v5",
+      "content_hash": "561acaa111f8",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:35.463644Z"
+      "timestamp": "2026-03-20T13:21:12.216496Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "不要讓背後緊貼牆壁，也不要站在建築物旁邊。這些都是炸彈鼠（Junkrat）用來反彈榴彈的目標區域。如果你避開狹窄的走廊、房間、通道和低窪地帶，被隨機榴彈擊中的機率就會降低。",
-        "樓梯和門口是鋼鐵陷阱（Steel Trap）的常見放置點，所以要隨時留意地面。幫你的隊友摧毀陷阱，以免他們誤踩而送命。",
-        "在近距離側襲他非常危險，因為這會讓你進入他的榴彈與震盪地雷（Concussion Mine）連技範圍內。盡可能在超出他最佳攻擊範圍的地方進行交戰。",
-        "在開闊區域和長視線的地圖中，即時命中（Hitscan）英雄和長距離英雄對抗炸彈鼠（Junkrat）時具有優勢。"
+        "不要讓背後緊貼牆壁，也不要站在建築物旁邊。這些區域是 ![](/data/assets/guide/2b23a0f925f80146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunkrat.png)炸彈鼠會利用來反彈榴彈的地方。如果你能避開狹窄的走廊、房間、通道和低窪區域，被隨機榴彈擊中的機率就會降低。",
+        "* 樓梯和門口是 ![](/data/assets/guide/bcd737fdd37e006d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsteel-trap.png)鋼鐵陷阱常見的放置地點，所以請隨時留意地面。記得為隊友摧毀陷阱，以免他們誤觸而喪命。",
+        "近距離側襲他非常危險，因為這會讓你進入他的榴彈與地雷連招範圍內。盡可能在遠離他最佳輸出距離的位置進行戰鬥。",
+        "在開闊區域和視野遼闊的地方，即時命中（hitscan）英雄與遠程英雄在對抗炸彈鼠時會佔有優勢。"
       ],
-      "content_hash": "a1eb301200a8",
-      "prompt_version": "v5",
+      "content_hash": "6d25469ed77b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:37.334787Z"
+      "timestamp": "2026-03-20T13:21:14.347355Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:51.869150Z"
+    "timestamp": "2026-03-20T13:20:26.755214Z"
   }
 }

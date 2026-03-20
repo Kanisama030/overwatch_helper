@@ -6,40 +6,40 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "萊因哈特（Reinhardt）很可能是《鬥陣特攻》中唯一受到大眾喜愛的英雄。每當出現萊因哈特強勢的版本時，社群通常都會對平衡狀態感到滿意。作為最初的英雄之一，他以第一人稱射擊遊戲中少見的護盾與近戰英雄定位，定義了這款遊戲的特色。他所有的戰術規劃都圍繞著他的護盾與戰鎚展開，其餘的技能組則是用來輔助這兩項核心能力。",
-        "如果你是回歸的玩家或是剛接觸《鬥陣特攻》的新手，在主要的 5v5 模式中，隊伍僅配置一名坦克，這大幅改變了萊因哈特的遊玩風格。在遊戲早期，人們常使用「主坦（main tank）」與「副坦（off tank）」這類術語。基本上，擁有護盾的坦克英雄被視為「主坦」，而像攔路豬（Roadhog）這種沒有護盾的則被視為「副坦」。",
-        "時至今日，萊因哈特的職責已不再只是站在前線抵擋傷害。現在，他必須身兼前線、據點壓制、突擊敵方後排等多重角色，並且經常在傷害輸出上引領全隊。"
+        "![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）很可能是《鬥陣特攻》中唯一受到大眾喜愛的英雄。每當出現萊因哈特強勢的版本時，社群通常都會對平衡狀態感到滿意。作為最初的英雄之一，他以第一人稱射擊遊戲中少見的護盾與近戰英雄定位，定義了這款遊戲的特色。他所有的戰術規劃都圍繞著護盾與戰鎚展開，其餘技能組則是為了輔助這兩項核心能力。",
+        "如果你是回歸《鬥陣特攻》的玩家或是新手，在 5v5 的主要模式中，每隊僅限一名坦克，這極大地改變了![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特的遊玩風格。在遊戲初期，常見的術語是「主坦」與「副坦」。基本上，擁有護盾的![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克英雄被視為「主坦」，而像![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬這類沒有護盾的英雄則被視為「副坦」。",
+        "時至今日，![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特的職責已不再只是站在前線抵擋傷害。現在，他的功能包括前線作戰、佔點壓制、突襲敵方後排，並且經常在隊伍中擔任傷害輸出領頭羊的角色。"
       ],
-      "content_hash": "aa111ab0d118",
-      "prompt_version": "v5",
+      "content_hash": "d82cac2e7f1f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:18.693776Z"
+      "timestamp": "2026-03-20T13:18:07.775243Z"
     },
     "1.1.1": {
       "title": "操作指南",
       "description": "",
       "content": [
-        "* 將「屏障力場（Barrier Shield）」與「衝鋒（Charge）」作為重新定位的工具。利用這兩項技能來爭奪空間，並讓自己進入近戰範圍。",
-        "* 在掩體後方啟動「烈焰擊（Fire Strike）」，並在技能發射的瞬間探頭，以將受到的傷害降至最低。",
-        "* 在使用「地裂擊（Earthshatter）」之前，請先確認你的「烈焰擊（Fire Strike）」充能次數以及隊友的位置，以免擊倒敵方隊伍後，卻沒有後續輸出能確實擊殺任何目標。"
+        "* 將 ![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)屏障力場（Barrier Shield）與 ![](/data/assets/guide/acd524155a25802e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcharge.png)衝鋒（Charge）作為重新定位的工具。同時運用這兩項技能來佔據空間，並讓自己進入近戰範圍。",
+        "* 在掩體後方發動 ![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike），並在技能施放的瞬間探頭，以將受到的傷害降至最低。",
+        "* 在使用 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)地裂擊（Earthshatter）之前，請先確認你的 ![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike）充能次數以及隊友的位置，以免擊倒敵方隊伍後，卻因為缺乏後續輸出而無法成功擊殺任何目標。"
       ],
-      "content_hash": "53f390f3dbf8",
-      "prompt_version": "v5",
+      "content_hash": "5da42fea8f87",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:20.227770Z"
+      "timestamp": "2026-03-20T13:18:10.056865Z"
     },
     "1.1.2": {
-      "title": "對抗策略",
+      "title": "對戰策略",
       "description": "",
       "content": [
-        "* 使用昏迷與擊退效果來阻斷他的進攻。如果他無法進入火箭槌（Rocket Hammer）的攻擊範圍，他的威脅性將大幅降低。",
-        "* 從側邊角度消耗他的屏障，而不是直接堆疊在他屏障的正前方，那樣只會讓他的隊友能安全地攻擊你們。",
-        "* 當你看到敵方萊因哈特（Reinhardt）走位異常靠前時，請提防地裂擊（Earthshatter）。一旦看到他放下屏障並開始蓄力，立即使用你的屏障或位移技能進行防禦或逃脫。"
+        "* 使用暈眩和擊退效果來阻止他的進攻。如果他無法進入 ![](/data/assets/guide/0bdc6b49a56a3be7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-hammer.png)火箭鎚（Rocket Hammer）的攻擊範圍，他的威脅性會大幅降低。",
+        "* 從側邊角度消耗他的屏障，而不是聚集在他屏障的正前方，那樣會讓他的隊伍能安全地攻擊你們。",
+        "* 當你看到敵方萊因哈特（Reinhardt）走位異常靠前時，要提防 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊（Earthshatter）。當你看到他放下屏障並開始蓄力時，請立即使用你的屏障或逃脫技能。"
       ],
-      "content_hash": "055bc716b1f8",
-      "prompt_version": "v5",
+      "content_hash": "5b262bb8f5bd",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:22.139358Z"
+      "timestamp": "2026-03-20T13:18:11.757500Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -48,410 +48,411 @@
         "* 佔據空間",
         "* 範圍傷害（AoE damage）",
         "* 傷害減免（Damage mitigation）",
-        "* 必須在輸出傷害或減免傷害之間做出選擇",
-        "* 射程較差",
-        "* 無垂直機動性"
+        "* 必須在造成傷害或減免傷害之間做出選擇",
+        "* 射程較短",
+        "* 缺乏垂直機動性"
       ],
       "content_hash": "5b34992d1bc0",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:23.600637Z"
+      "timestamp": "2026-03-20T13:18:13.250522Z"
     },
     "3.1.1": {
-      "title": "佔領空間",
+      "title": "佔據空間",
       "description": "",
       "content": [
-        "佔領並控制空間是坦克的主要職責之一，而這正是萊因哈特（Reinhardt）最擅長的地方。當這位揮舞著巨型戰鎚的力量型角色帶著隊伍走在他巨大的屏障後方時，敵方將會發現極難阻擋他的推進。敵隊並不希望萊因哈特（Reinhardt）靠近，因此當他向前推進時，他們只能被迫後退。當他在防守時，任何想要向前推進的敵方英雄，都必須自願進入萊因哈特（Reinhardt）的最佳攻擊範圍，也就是他能夠揮動火箭戰鎚（Rocket Hammer）擊中目標的距離。"
+        "佔據並控制空間是坦克的主要職責之一，而這正是 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特最擅長的地方。當這位揮舞著巨型戰錘的強大戰士帶著隊伍躲在他巨大的屏障後方推進時，敵方將會非常難以阻擋。敵隊並不希望萊因哈特靠近，因此當他向前推進時，他們只能被迫後退。而在防守時，任何想要向前推進的敵方英雄，都必須主動進入萊因哈特的最佳攻擊範圍，讓他能夠揮舞 ![](/data/assets/guide/0bdc6b49a56a3be7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-hammer.png)火箭戰錘（Rocket Hammer）進行攻擊。"
       ],
-      "content_hash": "04e052556e32",
-      "prompt_version": "v5",
+      "content_hash": "87b786095b8f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:25.429566Z"
+      "timestamp": "2026-03-20T13:18:15.743293Z"
     },
     "3.1.2": {
-      "title": "範圍傷害（AoE damage）",
+      "title": "範圍傷害",
       "description": "",
       "content": [
-        "面對喜歡將多名隊員聚集在一起的敵方隊伍時，萊因哈特（Reinhardt）鐵鎚巨大的範圍傷害（AoE）判定能造成毀滅性的橫掃傷害。每次揮擊命中三名敵人並不罕見，這能帶來每秒約 300 點的傷害！此外，火擊（Fire Strike）投射物的判定範圍很長且具有穿透效果，進一步提升了萊因哈特（Reinhardt）在面對密集敵軍時的威脅力。"
+        "面對喜歡將多名隊員聚集在一起的敵方隊伍時，萊因哈特（Reinhardt）的錘子擁有巨大的範圍傷害判定，能造成極高的橫掃傷害。每一揮擊中三名敵人並不罕見，這意味著每秒能造成約 300 點傷害！此外，![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)火炎擊（Fire Strike）投射物擁有很長的判定範圍且能穿透敵人，進一步提升了萊因哈特（Reinhardt）在面對聚集敵人時的威力。"
       ],
-      "content_hash": "e1f5e4865f60",
-      "prompt_version": "v5",
+      "content_hash": "a45be9eade0d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:27.396596Z"
+      "timestamp": "2026-03-20T13:18:17.563480Z"
     },
     "3.1.3": {
       "title": "傷害減免",
       "description": "",
       "content": [
-        "傷害減免在《鬥陣特攻》中至關重要，甚至在遊戲內的計分板上有專屬的欄位。沒有其他坦克能與萊因哈特（Reinhardt）所提供的龐大傷害減免量相提並論。擁有一個沒有冷卻時間的護盾，使他能夠針對敵方的核心冷卻技能與絕招進行反應式格擋。屏障力場（Barrier Field）在每一次的交鋒中都對萊因哈特（Reinhardt）有利。他所付出的代價僅僅是一點護盾生命值，卻能完全抵銷敵方冷卻時間長達 10 秒以上的技能。",
-        "他的護盾同時也擁有目前所有護盾中最高的生命值，且在未部署幾秒後會自動恢復生命值。萊因哈特（Reinhardt）的高額護盾生命值，讓他能在戰鬥中生命值偏低時，透過不放下護盾的方式來觸發被動技能。"
+        "傷害減免在《鬥陣特攻》中至關重要，因此在遊戲內的計分板上擁有專屬的欄位。沒有其他坦克能比得上萊因哈特（Reinhardt）所能提供的驚人傷害減免量 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)。擁有一面沒有冷卻時間的護盾，使他能夠針對敵方的核心冷卻技能與絕招進行反應式防禦。![](/data/assets/guide/e2b61a19c451876c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-field.png)屏障力場（Barrier Field）在每一次交戰中都對萊因哈特（Reinhardt）有利。他只需要犧牲一點護盾生命值，就能完全抵銷敵方冷卻時間長達 10 秒以上的技能。",
+        "他的護盾不僅擁有所有護盾中最大的生命值，且在未部署幾秒後還會自動恢復生命值。![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）的高額護盾生命值讓他能在戰鬥中生命值偏低時，只需保持護盾開啟狀態，即可觸發被動技能。"
       ],
-      "content_hash": "088976dc7e9a",
-      "prompt_version": "v5",
+      "content_hash": "0e088e17585a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:29.493635Z"
+      "timestamp": "2026-03-20T13:18:19.929172Z"
     },
     "3.2.1": {
       "title": "必須在造成傷害與減輕傷害之間做出抉擇",
       "description": "",
       "content": [
-        "一手持盾、一手拿錘最大的弱點，就是無法同時進行這兩項動作。萊因哈特（Reinhardt）實際上是唯一一位無法同時進行減傷與輸出傷害的護盾型坦克。因此，當面對像席格馬（Sigma）或歐瑞莎（Orisa）這樣的坦克時，他們在能夠對萊因哈特造成傷害的同時，自己卻不會受到任何傷害，這便成了他們的優勢。即便是 D.Va 也能同時使用防禦矩陣（Defense Matrix）與微型飛彈（Micro Missiles），而莫加（Mauga）的心臟過載（Cardiac Overdrive）與絕招也都能讓他同時進行傷害輸出與減傷。萊因哈特必須不斷地在 100% 防禦或 100% 進攻之間做出抉擇。"
+        "一手持盾、一手拿錘最大的弱點，就是無法同時使用兩者。![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）實際上是唯一一位無法同時進行減傷與輸出傷害的護盾型坦克。因此，當面對像 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）或 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）這類坦克時，他們會佔有優勢，因為他們能在對 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）造成傷害的同時，自己卻不會受到任何傷害。即便是 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 也能同時使用 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）與 ![](/data/assets/guide/cb85107f12591c3b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmicro-missiles.png)微型飛彈（Micro Missiles），而 ![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加（Mauga）的 ![](/data/assets/guide/b54c199ade517940.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcardiac-overdrive.png)心臟過載（Cardiac Overdrive）與絕招都能讓他同時進行傷害輸出與減傷。![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）必須不斷在 100% 防禦或 100% 進攻之間做出抉擇。"
       ],
-      "content_hash": "7b347d4f7011",
-      "prompt_version": "v5",
+      "content_hash": "48130237a121",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:31.617500Z"
+      "timestamp": "2026-03-20T13:18:22.240894Z"
     },
     "3.2.2": {
-      "title": "遠程傷害不足",
+      "title": "貧弱的遠程傷害",
       "description": "",
       "content": [
-        "最後兩個最嚴重的弱點是身為近戰英雄，且缺乏任何垂直移動能力。雖然烈焰擊（Fire Strike）確實算是一種遠程技能，但其漫長的冷卻時間與緩慢的飛行速度，使其在實際進行遠程交戰時顯得不可靠。在擁有長視線的地圖區域中，萊因哈特（Reinhardt）往往必須耗盡所有護盾生命值，同時緩慢地嘗試進入近戰範圍，這導致他在進行侵略性打法時，或是當生命值偏低需要自保時，幾乎沒有剩餘的護盾可用。鬥陣特攻（Overwatch）中的大多數英雄都能在萊因哈特（Reinhardt）的近戰範圍外進行轉位，並持續輸出傷害，而無需擔心遭到反擊。"
+        "最後兩個最嚴重的弱點在於他是一名近戰英雄，且缺乏任何垂直移動能力。雖然 ![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike）確實算是一種遠程技能，但其較長的冷卻時間與緩慢的飛行速度，使其在實際遠程交戰時顯得不可靠。在地圖中視野開闊的區域，萊因哈特往往必須耗盡所有護盾生命值，同時緩慢地嘗試進入近戰範圍，這導致他在進行侵略性打法時幾乎沒有剩餘護盾，也無法在生命值偏低時保護自己。鬥陣特攻中的大多數英雄都能在萊因哈特的近戰範圍外進行轉位，並持續輸出傷害，而無需擔心遭到反擊。"
       ],
-      "content_hash": "0a421ca1da7f",
-      "prompt_version": "v5",
+      "content_hash": "59f0ef27efbe",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:33.878057Z"
+      "timestamp": "2026-03-20T13:18:24.110483Z"
     },
     "3.2.3": {
       "title": "缺乏垂直機動性",
       "description": "",
       "content": [
-        "在擁有大量高地地形的地圖或目標點上，萊因哈特（Reinhardt）會顯得相當無用，因為他沒有任何方式可以爭奪高地或進行垂直移動。在這些情況下，最好的做法通常是單純為隊友舉盾，並祈禱他們能取得擊殺。唯一的其他選擇是繞遠路前往高地區域，或是利用隊友的技能（例如織命（Lifeweaver）的花瓣平台（Petal Platform））來移動。無論如何，萊因哈特（Reinhardt）都沒有辦法在高地與低地之間來回穿梭，這使得擁有機動性的敵人可以輕易地避開他。"
+        "在擁有大量高台的地圖或目標點上，萊因哈特（Reinhardt）可能會顯得相當無用，因為他沒有任何方式可以爭奪高地或進行垂直移動。在這些情況下，最好的做法通常只是為隊友舉盾，並祈禱他們能擊殺敵人。唯一的其他選擇就是繞遠路前往高地，或是利用隊友的技能，例如 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命（Lifeweaver）的 ![](/data/assets/guide/d747d16d3747ce4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpetal-platform.png)花瓣平台（Petal Platform）來移動。無論如何，萊因哈特（Reinhardt）都沒有辦法在高地與低地之間來回穿梭，這讓擁有機動性的敵人可以輕易地避開他。"
       ],
-      "content_hash": "c31601d12e44",
-      "prompt_version": "v5",
+      "content_hash": "64493cb580b3",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:35.712355Z"
+      "timestamp": "2026-03-20T13:18:26.236797Z"
     },
     "4.1": {
-      "title": "主要攻擊：火箭鎚（Rocket Hammer）",
+      "title": "主要攻擊：火箭槌（Rocket Hammer）",
       "description": "",
       "content": [
-        "揮舞巨大的鎚子進行水平弧線攻擊。",
-        "**火箭鎚（Rocket Hammer）的使用技巧**",
+        "揮舞巨大的火箭槌（Rocket Hammer），進行水平弧線攻擊。",
+        "**![](/data/assets/guide/0bdc6b49a56a3be7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-hammer.png)火箭槌（Rocket Hammer）使用技巧**",
         "* 造成傷害並可穿透護盾技能。",
-        "* 第一次揮擊永遠是由右向左，之後會持續來回揮動，直到放開主要攻擊鍵為止。",
-        "* 判定框（Hitbox）為長方形。最遠攻擊距離位於兩側 45 度的角落。",
-        "* 揮動時可以歪斜角度，或快速左右甩動準心，以將火箭鎚（Rocket Hammer）的傷害判定範圍向前延伸。",
-        "* 盡可能嘗試在單次揮擊中同時擊中多名敵人。",
-        "* 在掩體後方開始揮擊動畫，並在判定框即將接觸敵人時再踏入空曠處，以將攻擊時受到的傷害降至最低。"
+        "* 第一次揮舞永遠是由右至左，之後會持續來回揮舞，直到放開主要攻擊鍵為止。",
+        "* 命中判定範圍（Hitbox）為矩形。最遠攻擊距離位於兩側 45 度的角落。",
+        "* 揮舞時可稍微傾斜，或快速左右甩動準心，以將![](/data/assets/guide/0bdc6b49a56a3be7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-hammer.png)火箭槌（Rocket Hammer）的傷害判定範圍向前延伸。",
+        "* 盡可能嘗試在單次揮舞中同時擊中多名敵人。",
+        "* 在掩體後方開始揮舞動作，當命中判定範圍即將接觸到敵人時再踏入空曠處，以減少攻擊時受到的傷害。"
       ],
-      "content_hash": "a8abf49c69ec",
-      "prompt_version": "v5",
+      "content_hash": "bd4d306fd887",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:37.896720Z"
+      "timestamp": "2026-03-20T13:18:29.259060Z"
     },
     "4.2": {
       "title": "次要攻擊：屏障力場（Barrier Field）",
       "description": "",
       "content": [
-        "萊因哈特會在身前舉起一面大型長方形護盾，可吸收所有投射物與爆炸傷害。",
-        "**屏障力場（Barrier Field）的使用技巧**",
-        "* 護盾在停止使用 2 秒後會自動恢復生命值。",
+        "![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特會在身前舉起一面大型長方形護盾，用以吸收所有投射物與爆炸傷害。",
+        "**關於** ![](/data/assets/guide/e2b61a19c451876c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-field.png)屏障力場（Barrier Field）**的提示**",
+        "* 護盾在停止使用 2 秒後會開始恢復生命值。",
         "* 當護盾生命值偏低時，請利用掩體或隊友的治療來爭取護盾恢復的時間。",
-        "* 當屏障力場（Barrier Field）部署時，萊因哈特的移動速度會降低 30%。",
-        "* 「護盾跳躍（Shield Hopping）」是指在全速移動時跳躍，在空中開啟護盾，落地時收起護盾，這樣能以 100% 的速度移動，同時穿插進行傷害減免。",
-        "* 一般來說，當護盾破損（低於 700 生命值）時進行激進的操作是不安全的。",
-        "* 最顯而易見的用途是抵擋隨機傷害與消耗戰傷害。",
-        "* 最好的用法是透過「閃盾」來直接阻擋敵方隊伍的高價值冷卻技能。",
-        "* 例如：透過走位、站位與時機誘騙攔路豬的「鎖鏈鉤（Chain Hook）」，並在敵方出鉤的瞬間舉盾阻擋。萊因哈特隨後將有 6 秒的時間能更安全地進行攻擊。",
-        "* 護盾底部必須接觸地面，才能阻擋像是「地裂擊（Earthshatter）」這類技能。",
-        "* 同時按住屏障力場（Barrier Field）與火箭錘（Rocket Hammer）可以在舉盾時進行第三人稱自由視角觀察。",
-        "* 這對於確認身後隊友的位置非常有用。",
-        "* 可以用來探查轉角處的情況。"
+        "* 當 ![](/data/assets/guide/e2b61a19c451876c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-field.png)屏障力場（Barrier Field）部署時，萊因哈特的移動速度會降低 30%。",
+        "* 「護盾跳躍（Shield Hopping）」是指在全速移動時跳起，在空中舉起護盾，落地時收起護盾，這樣就能以 100% 的速度移動，同時穿插進行傷害減免。",
+        "* 一般來說，當護盾破損（低於 700 生命值）時進行激進的打法是不安全的。",
+        "* 最顯而易見的用途是抵擋隨機傷害與遠程消耗。",
+        "* 最好的用法是透過閃現護盾來直接阻擋敵方隊伍的高價值冷卻技能。",
+        "* 例如：透過走位、站位與時機誘騙 ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬的「肉鉤（Hook）」，然後在敵方出鉤的瞬間舉盾阻擋。萊因哈特隨後便能有 6 秒的時間更安全地進行攻擊。",
+        "* 護盾底部必須接觸地面，才能阻擋像是 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊（Earthshatter）之類的技能。",
+        "* 同時按住 ![](/data/assets/guide/e2b61a19c451876c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-field.png)屏障力場（Barrier Field）與 ![](/data/assets/guide/0bdc6b49a56a3be7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-hammer.png)火箭鎚（Rocket Hammer）可以在舉盾時切換至第三人稱視角自由觀察。",
+        "* 這對於確認身後隊友的站位很有幫助。",
+        "* 適合用來探查轉角處的情況。"
       ],
-      "content_hash": "954674dfe4f2",
-      "prompt_version": "v5",
+      "content_hash": "830a980b456c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:41.297053Z"
+      "timestamp": "2026-03-20T13:18:32.953601Z"
     },
     "4.3": {
       "title": "[E]：烈焰擊（Fire Strike）",
       "description": "",
       "content": [
-        "蓄力後揮動錘子，射出一道會穿透敵人與護盾的烈焰投射物。",
-        "**烈焰擊（Fire Strike）的使用技巧**",
-        "* 可以透過動畫取消（animation cancel）將錘子揮擊轉為烈焰擊（Fire Strike），以造成爆發傷害。",
-        "* 緩慢的起手與收招動畫會讓萊因哈特（Reinhardt）容易受到傷害與控場技能（crowd control abilities）的影響。",
-        "* 最好在掩體後方開始動作，在射出烈焰擊（Fire Strike）的瞬間跨出掩體，並在收招動畫期間退回掩體後方。",
+        "蓄力後揮動錘子，射出一道能穿透敵人與護盾的烈焰投射物。",
+        "**![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike）的使用技巧**",
+        "* 可以透過動畫取消（animation cancel）將錘子揮擊銜接至 ![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike），以造成爆發傷害。",
+        "* 緩慢的啟動與恢復動畫會使 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）容易受到傷害與控場技能的影響。",
+        "* 建議在掩體後方開始動作，在射出 ![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike）的瞬間側身走出掩體，並在恢復動畫期間退回掩體後方。",
         "* 盡量嘗試單次使用就擊中多個目標。",
         "* 非常適合用來收掉試圖逃跑或退回掩體後方的敵人。"
       ],
-      "content_hash": "2a73b289bbee",
-      "prompt_version": "v5",
+      "content_hash": "6c9bc858089e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:43.357332Z"
+      "timestamp": "2026-03-20T13:18:34.778642Z"
     },
     "4.4": {
       "title": "[SHIFT]：衝鋒（Charge）",
       "description": "",
       "content": [
         "在地面上以高速直線向前衝鋒 3 秒。",
-        "衝鋒（Charge）的技巧：",
+        "![](/data/assets/guide/acd524155a25802e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcharge.png)衝鋒（Charge）的使用技巧",
         "* 可以進行小幅度的左右移動控制。",
         "* 隨時按下 SHIFT 即可取消。",
-        "* 將敵人帶到地圖邊緣，然後取消衝鋒，將他們撞出地圖外。",
-        "* 取消衝鋒並按住跳躍鍵，可以將慣性帶入空中。",
-        "* 透過跳躍取消並按住揮擊（Swing），可以在衝鋒結束後快速發動攻擊。",
-        "* 與其說是為了釘住目標，更多時候是用於機動性或拉近與敵人的距離。"
+        "* 將敵人帶到邊緣後取消，可將他們撞飛出地圖外。",
+        "* 取消並按住跳躍鍵，可將衝鋒的慣性帶入空中。",
+        "* 跳躍取消後按住揮擊（Swing），可從衝鋒狀態快速發動攻擊。",
+        "* 與其說是為了釘住目標，更多時候是用於機動位移或拉近與敵人的距離。"
       ],
-      "content_hash": "b0fb7ab5ec84",
-      "prompt_version": "v5",
+      "content_hash": "4bcb313526ed",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:45.199400Z"
+      "timestamp": "2026-03-20T13:18:36.840212Z"
     },
     "4.5": {
-      "title": "[Q]：（絕招）裂地重擊（Earthshatter）",
+      "title": "[Q]：（絕招）裂地重擊",
       "description": "",
       "content": [
-        "關於裂地重擊（Earthshatter）的提示：",
-        "* 大多數坦克英雄都有能阻擋裂地重擊的技能，例如堅毅（Fortify）、屏障力場（Barrier Array）和粒子屏障（Particle Barrier），或是透過升空來避開，例如推進器（Boosters）和噴射跳躍（Jump Pack）。",
-        "* 身為萊因哈特，你的職責是追蹤敵方坦克何時擁有這些技能，以及它們何時處於冷卻狀態。",
-        "* 一般來說，你應該保留絕招，直到看到對方使用過這些技能後再施放，以提高裂地重擊成功的機率。",
-        "* 單殺裂地重擊（Solo-shatter）也能帶來極高的價值。",
-        "* 你不需要每次都擊倒 5 個人才能用絕招贏得會戰。",
-        "* 與其擊倒對方的 4 名隊友卻讓敵方禪亞塔使用聖（Transcendence）來保住所有人，不如選擇單殺裂地重擊並先擊殺禪亞塔會是更好的選擇。"
+        "關於 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊的提示",
+        "* 大多數坦克英雄都擁有可以阻擋裂地重擊的能力，例如 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）、![](/data/assets/guide/921f50ca3ecba070.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-array.png)屏障陣列（Barrier Array）和 ![](/data/assets/guide/81b1062b5b25f966.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fparticle-barrier.png)粒子屏障（Particle Barrier），或是透過像 ![](/data/assets/guide/390fb173c801c718.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fboosters.png)推進器（Boosters）和 ![](/data/assets/guide/71e72edd3dddab12.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjump-pack.png)噴射背包（Jump Pack）這類升空技能來避開重擊。",
+        "* 身為 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特，你的職責是追蹤敵方坦克這些技能的可用狀態，以及它們何時處於冷卻時間。",
+        "* 一般來說，你應該等到看見敵方使用過這些技能後再施放絕招，以提高裂地重擊成功的機率。",
+        "* 單殺重擊（Solo-shatter）也能帶來極高的價值。",
+        "* 你不需要每次都擊倒 5 個人才能靠絕招贏得會戰。",
+        "* 與其擊倒對方的 4 名隊友卻讓他使用 ![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)超凡入聖（Transcendence）保住所有人，不如直接單殺重擊並消滅敵方的 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔來得更好。"
       ],
-      "content_hash": "8b62b2ae0477",
-      "prompt_version": "v5",
+      "content_hash": "e75c913d73b4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:47.657650Z"
+      "timestamp": "2026-03-20T13:18:40.374768Z"
     },
     "5.1.1": {
       "title": "十字軍之火（Crusader's Fire）",
-      "description": "當你擊暈敵人時，返還一次烈焰擊（Fire Strike）的使用次數，最多可累積 3 次。",
+      "description": "當你擊暈敵人時，返還一次烈焰擊（Fire Strike）的使用次數，最多可累積至 3 次。",
       "content": [
-        "* 確保你在使用裂地重擊（Earthshatter）後，有足夠的烈焰擊（Fire Strike）進行後續追擊。",
-        "* 標準 250 生命值的英雄可以被「裂地重擊（Earthshatter） > 烈焰擊（Fire Strike）(x2)」的連招擊殺，因此這項特殊能力（perk）能讓你的裂地重擊（Earthshatter）更具致命性。"
+        "* 確保你在使用 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊（Earthshatter）後，有足夠的 ![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike）可以進行後續追擊。",
+        "* 標準 250 生命值的英雄可以被「裂地重擊（Earthshatter）> 烈焰擊（Fire Strike）(x2)」的連段擊殺，因此這項特殊能力（perk）能讓你的裂地重擊（Earthshatter）更穩定地造成擊殺。"
       ],
-      "content_hash": "24cde665a9f9",
-      "prompt_version": "v5",
+      "content_hash": "e57d186fc1cc",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:49.142048Z"
+      "timestamp": "2026-03-20T13:18:43.084053Z"
     },
     "5.1.2": {
-      "title": "十字軍決心（Crusader's Resolve）",
-      "description": "在使用屏障力場（Barrier Field）時，你的被動生命恢復觸發速度加快 75%。",
+      "title": "十字軍的決心（Crusader's Resolve）",
+      "description": "當你使用屏障力場（Barrier Field）時，你的被動生命恢復觸發速度加快 75%。",
       "content": [
-        "* 在被迫採取較為被動的打法時表現良好，例如面對歐瑞莎（Orisa）或莫加（Mauga）時。",
+        "* 在被迫採取較被動打法的對戰中表現良好，例如面對 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎 或 ![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加 時。",
         "* 如果你的支援角色的治療輸出較低，這也是一個不錯的選擇。"
       ],
-      "content_hash": "4f19a7f6c9c7",
-      "prompt_version": "v5",
+      "content_hash": "ea3859e98d92",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:50.845414Z"
+      "timestamp": "2026-03-20T13:18:44.752892Z"
     },
     "5.2.1": {
-      "title": "盾擊（Shield Slam）",
-      "description": "當屏障力場（Barrier Field）啟動時，使用主要攻擊來對敵人造成傷害並擊退他們。",
+      "title": "盾牌衝鋒（Shield Slam）",
+      "description": "當屏障力場（Barrier Field）啟動時，使用主要攻擊對敵人造成傷害並擊退他們。",
       "content": [
-        "* 失去按住次要攻擊並在不旋轉視角的情況下環顧四周的能力。",
-        "* 盾擊本身尚可，但通常不值得為了它而放棄增加攻擊速度的選擇。"
+        "* 會失去按住次要攻擊並在不旋轉視角的情況下環顧四周的能力。",
+        "* 衝鋒本身還行，但通常不值得為了它而放棄增加攻擊速度的選項。"
       ],
       "content_hash": "938f4843451c",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:52.764912Z"
+      "timestamp": "2026-03-20T13:18:46.545316Z"
     },
     "5.2.2": {
-      "title": "烈焰狂怒（Ignited Fury）",
-      "description": "每當你以火擊（Fire Strike）擊中一名敵人，即可獲得 2 秒的 25% 攻擊速度加成。",
+      "title": "烈焰之怒（Ignited Fury）",
+      "description": "每命中一名敵人，烈焰擊（Fire Strike）便會使你的攻擊速度提升 25%，持續 2 秒。",
       "content": [
-        "* 請至少保留一次火擊（Fire Strike）以備進入近戰範圍時使用。攻擊速度加成在混戰中非常強大，將有助於你贏得坦克對決。"
+        "* 至少保留一個 ![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike），以便在進入近戰範圍時使用。提升的攻擊速度在混戰中非常強大，將有助於你贏得 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）對決。"
       ],
-      "content_hash": "f3c9c0ad0b13",
-      "prompt_version": "v5",
+      "content_hash": "a7b30c2d592e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:54.268400Z"
+      "timestamp": "2026-03-20T13:18:48.171326Z"
     },
     "6.1.1": {
       "title": "國王大道",
       "description": "",
       "content": [
-        "* 國王大道的第一場會戰幾乎總是發生在佔領點與攻擊方重生點之間的隘口。通常會選擇一名護盾坦克來防守此區域。護盾可以阻擋《鬥陣特攻》中幾乎所有類型的傷害，但萊因哈特的火箭鎚（Rocket Hammer）與烈焰擊（Fire Strike）可以穿透護盾造成傷害。隊伍會戰通常會被迫在運載目標上進行，萊因哈特可以在地圖各處利用運載目標作為掩體，甚至能安全地從運載目標後方施放地裂擊（Earthshatter）。"
+        "* 國王大道的首場會戰幾乎總是發生在佔領點與攻擊方重生點之間狹窄的咽喉點。防守此區域時，通常會選擇一名護盾坦克。護盾幾乎可以阻擋《鬥陣特攻》中所有類型的傷害，但 ![](/data/assets/guide/0bdc6b49a56a3be7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-hammer.png)火箭槌與 ![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊能讓萊因哈特穿透護盾造成傷害。團隊會戰通常會被迫在運載目標上進行，萊因哈特可以利用運載目標作為整張地圖的掩體，甚至能安全地從運載目標後方施放 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊。"
       ],
-      "content_hash": "5a7201797121",
-      "prompt_version": "v5",
+      "content_hash": "a1cb6ac17916",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:56.227238Z"
+      "timestamp": "2026-03-20T13:18:50.464918Z"
     },
     "6.1.2": {
       "title": "愛西瓦德",
       "description": "",
       "content": [
-        "* 萊因哈特在愛西瓦德的第一個和第三個據點強得離譜，在第二個據點也能找到發揮作用的創意打法。在防守時，他的錘子、烈焰擊（Fire Strike）和屏障力場（Barrier Field）能完全主宰隘口，並決定進攻隊伍能做什麼。基本上，只要在第一個據點別死，就算敵方隊伍擊殺了你的其他隊友，他們也無法贏得會戰。"
+        "* 萊因哈特在愛西瓦德的第一個和第三個據點強得離譜，在第二個據點也能找到發揮作用的創意打法。在防守時，利用錘子、![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike）和 ![](/data/assets/guide/e2b61a19c451876c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-field.png)屏障力場（Barrier Field）可以完全掌控咽喉點，並主導進攻隊伍的行動。基本上，只要在第一個據點不陣亡，即便敵方隊伍擊殺了其他隊友，他們也無法贏得會戰。"
       ],
-      "content_hash": "83eb7061aca0",
-      "prompt_version": "v5",
+      "content_hash": "bbf72c1e3477",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:57.762313Z"
+      "timestamp": "2026-03-20T13:18:52.240220Z"
     },
     "6.1.3": {
       "title": "灕江天塔",
       "description": "",
       "content": [
-        "* 水平移動能力與平坦地形的控制力是萊因哈特最強大的兩項優勢。灕江天塔的三個據點幾乎完全平坦。萊因哈特可以走遍所有區域，或是利用衝鋒（Charge）快速橫越控制（Control）區域。敵方隊伍至少會有一名英雄待在據點內，這意味著鐵鎚永遠都有目標可以揮舞！"
+        "* 水平移動能力與平地控制是 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特最大的優勢。灕江天塔的三個據點幾乎完全平坦。萊因哈特可以步行前往任何地方，或是使用 ![](/data/assets/guide/acd524155a25802e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcharge.png)衝鋒（Charge）快速橫越控制區域。敵方隊伍至少會有一名英雄在據點內，這意味著戰鎚永遠都有目標可以揮舞！"
       ],
-      "content_hash": "6ad53ceb1d5a",
-      "prompt_version": "v5",
+      "content_hash": "630fe8fca08c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:59.439663Z"
+      "timestamp": "2026-03-20T13:18:54.387611Z"
     },
     "6.2.1": {
       "title": "多拉多",
       "description": "",
       "content": [
-        "* 在多拉多進行遊戲時，萊因哈特除了待在護送目標（payload）上之外，幾乎無計可施。防守方會很樂意讓他待在那裡，同時對他的整支隊伍傾瀉火力，最終贏得團戰，並看著護送目標緩慢地退回起點。在防守時，你要麼與隊友一起在高處擔任護盾機器人（shield bot），要麼就將自己置於非常危險的位置，試圖強行發起正面交戰。"
+        "* 在多拉多進行遊戲時，萊因哈特除了待在護送目標（payload）旁之外，其實做不了什麼事。防守方會很樂意讓他待在那裡，同時對他的整個隊伍傾瀉傷害，最終贏得會戰，並看著護送目標緩慢地退回起點。在防守時，你要麼與隊伍一起在高處擔任護盾機器人（shield bot），要麼就將自己置於非常危險的位置，試圖強行發起正面對決。"
       ],
       "content_hash": "97988dc994d3",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:33:08.144616Z"
+      "timestamp": "2026-03-20T13:18:56.357922Z"
     },
     "6.2.2": {
       "title": "皇家賽道",
       "description": "",
       "content": [
-        "* 席格馬（Sigma）。萊因哈特在皇家賽道（Circuit Royal）表現掙扎的主要原因，在於席格馬的技能組與這張地圖的契合度極高。在進入揮錘攻擊範圍之前，你的護盾幾乎肯定會先被打破。如果你成功推進到最終點，由於敵方陣型過於分散，萊因哈特只要試圖採取任何進攻行動，就會遭到來自四面八方的猛烈攻擊。"
+        "* ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬。萊因哈特在皇家賽道表現掙扎的主要原因，在於![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的技能組與這張地圖的契合度實在太完美了。基本上，在你進入揮槌攻擊範圍之前，你的護盾肯定早就碎了。如果你好不容易推進到最後一個據點，由於敵方陣型過於分散，萊因哈特只要試圖採取行動，就會從四面八方遭到猛烈轟炸。"
       ],
-      "content_hash": "f869eed00bb1",
-      "prompt_version": "v5",
+      "content_hash": "19911f6fac1c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:33:09.695528Z"
+      "timestamp": "2026-03-20T13:18:58.276973Z"
     },
     "6.2.3": {
       "title": "伊利歐斯：深井（Ilios Well）",
       "description": "",
       "content": [
-        "* 在地圖中央設置一個巨大的深坑，將兩側區域隔開，這正是身穿重甲的騎士的致命弱點。這口深井是敵人用來進行「繞圈圈」戰術的絕佳工具，讓他們能始終保持在近戰範圍之外。此外，萊因哈特（Reinhardt）極易受到擊退能力（boop abilities）的影響，導致他被擊落至深井之中。"
+        "* 在地圖中央設置一個巨大的深坑，將兩側區域隔開，這正是身披重甲的騎士的致命弱點。對於敵人來說，這口深井是讓萊因哈特（Reinhardt）永遠保持在近戰範圍之外的絕佳「繞圈圈」工具。此外，萊因哈特（Reinhardt）也非常容易受到擊退技能（boop abilities）的影響，被推入深井之中。"
       ],
       "content_hash": "5f48bc36d355",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:33:11.524847Z"
+      "timestamp": "2026-03-20T13:18:59.960905Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "萊因哈特（Reinhardt）在全隊共同行動的「衝鋒（Rush）」風格隊伍陣容中表現最佳。其他如小美（Mei）和死神（Reaper）等鬥士型與近距離傷害英雄與萊因哈特（Reinhardt）搭配效果極佳，不過他也能透過隊伍中的遠程英雄與側襲者（Flanker）來彌補自身的弱點。",
-        "**兩種以萊因哈特（Reinhardt）為核心的隊伍陣容：**",
-        "* 所有人緊密聚集在他身邊，並輾壓敵方隊伍。",
-        "**範例**：萊因哈特（Reinhardt）、小美（Mei）、卡西迪（Cassidy）、路西歐（Lúcio）、莫伊拉（Moira）",
-        "* 隊友透過行動來彌補萊因哈特（Reinhardt）在射程與高地壓制力上的弱點。",
-        "**範例**：萊因哈特（Reinhardt）、艾西（Ashe）、閃光（Tracer）、安娜（Ana）、霧子（Kiriko）"
+        "萊因哈特（Reinhardt）在全隊共同行動的「衝鋒（Rush）」風格隊伍中表現最佳。其他如 ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美（Mei）和 ![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)死神（Reaper）這類擅長近戰的傷害型英雄與萊因哈特搭配效果極佳，不過他也能透過隊伍中的遠程英雄與側襲者（Flanker）來彌補自身的弱點。",
+        "**兩種基於萊因哈特的隊伍陣容：**",
+        "* 所有人緊密圍繞在他身邊，並強行突破敵方隊伍。",
+        "**範例**：![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）、![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美（Mei）、![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪（Cassidy）、![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐（Lúcio）、![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉（Moira）",
+        "* 隊友透過行動來彌補萊因哈特的弱點，例如射程不足以及對高處的壓制力。",
+        "**範例**：![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）、![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）、![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光（Tracer）、![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜（Ana）、![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）"
       ],
-      "content_hash": "16d6511842ba",
-      "prompt_version": "v5",
+      "content_hash": "14816b096b0b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:33:14.196534Z"
+      "timestamp": "2026-03-20T13:19:02.462484Z"
     },
     "7.1.1": {
       "title": "輸出傷害（DPS）",
       "description": "",
       "content": [
-        "小美",
-        "* 小美與萊因哈特的技能組是絕佳的前線組合。冰牆（Ice Wall）可以用於進攻，將敵方前線與其隊伍隔開，讓萊因哈特能自由揮動鐵鎚，而不受敵方後排遠程技能的威脅。小美也能將冰牆用於防守，以保護萊因哈特或讓隊伍安全通過空曠區域。",
-        "辛梅塔",
-        "* 光子投射器（Photon Projector）需要時間充能才能達到最大傷害，且射程也相當短。這兩項特性都極度依賴萊因哈特的護盾，使其能持續貼近敵方隊伍。辛梅塔與萊因哈特同時攻擊同一目標時，具有極高的傷害潛力。此外，利用傳送器（Teleporter）將萊因哈特傳送到高處或敵方後方，往往能迅速贏得戰鬥。"
+        "![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美",
+        "* ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美與萊因哈特的技能組是完美的正面戰場組合。![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）可以用於進攻，將敵方前線與其隊伍隔開，讓萊因哈特能自由揮舞武器，而不必擔心敵方後排的遠程技能威脅。![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美也可以使用![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）來進行防守，以保護她的萊因哈特，或是在通過開闊區域時提供安全的掩護。",
+        "![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔",
+        "* ![](/data/assets/guide/dfca9f5b755d9b41.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fphoton-projector.png)光子投射器（Photon Projector）需要時間來充能以達到最大傷害，且射程也相當短。這兩項特性都極度依賴萊因哈特的護盾，使其能持續貼近敵方隊伍。辛梅塔與萊因哈特同時攻擊同一個目標時，具有極高的傷害潛力。此外，將![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特傳送至高處或敵方陣線後方，往往能迅速贏得會戰。"
       ],
-      "content_hash": "690fe1c1143e",
-      "prompt_version": "v5",
+      "content_hash": "28e3d13711f0",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:33:16.272882Z"
+      "timestamp": "2026-03-20T13:19:05.058543Z"
     },
     "7.1.2": {
       "title": "支援",
       "description": "",
       "content": [
-        "**路西歐（Lúcio）**",
-        "* 速度增益（Speed Boost）是萊因哈特（Reinhardt）能獲得的最強能力。路西歐（Lúcio）的速度基本上彌補了萊因哈特（Reinhardt）的所有弱點。如果敵方沒有路西歐（Lúcio）來加速逃離，那麼在路西歐（Lúcio）與萊因哈特（Reinhardt）的組合面前，那些缺乏強大位移能力的敵人將會被徹底輾壓。萊因哈特（Reinhardt）只需要更好地管理護盾與生命值，就能把握機會衝鋒並擊潰脆弱的敵人。",
-        "**非碧姬（Brigitte）**",
-        "* 專業建議：與許多玩家所認為的相反，碧姬（Brigitte）是與萊因哈特（Reinhardt）搭配或對抗時最糟糕的支援英雄之一。她無法提供足夠的治療量讓萊因哈特（Reinhardt）進行激進的打法，且流星飛錘（Whip Shot）會將敵人擊退，這與萊因哈特（Reinhardt）的需求背道而馳。此外，《鬥陣特攻》當前版本的碧姬（Brigitte）不夠坦，無法與她的坦克一同站在前線。",
-        "* 額外建議：她對抗萊因哈特（Reinhardt）時也很爛，因為一旦她進入近戰攻擊範圍，就會瞬間被秒殺。"
+        "**路西歐**",
+        "* 速度增益（Speed Boost），這是萊因哈特所能獲得最棒的能力。![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐的速度基本上彌補了![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特所有的弱點。如果敵方沒有強力的位移能力，且沒有自己的![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐來加速逃離，他們絕對會被![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐與萊因哈特的組合輾壓。萊因哈特只需要更好地管理他的屏障與生命值，就能把握機會衝鋒並擊潰脆弱的敵人。",
+        "**不要選** ![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬",
+        "* 專業提示：與許多玩家所認為的相反，碧姬是與![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特搭配時（或對抗他時）最糟糕的支援角色之一。她無法提供足夠的治療量讓萊因哈特打得激進，而且![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘（Whip Shot）會將敵人擊退，這並非萊因哈特想要的；此外，鬥陣特攻版本的碧姬也沒有足夠的坦度能與她的坦克並肩站在前線。",
+        "* 額外提示：她對抗萊因哈特時也很爛，因為只要她進入近戰範圍，就會瞬間被秒殺。"
       ],
-      "content_hash": "a8547bb5397d",
-      "prompt_version": "v5",
+      "content_hash": "07556d24780f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:33:18.431023Z"
+      "timestamp": "2026-03-20T13:19:08.548104Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "要防止萊因哈特（Reinhardt）摧毀你的隊伍，最好的方法就是保持在他的近戰攻擊範圍之外。像路西歐（Lúcio）這類英雄能為全隊提供額外的移動速度，讓敵方的萊因哈特極難維持在他理想的攻擊距離。結合機動性與遠程傷害，使得像法拉（Pharah）和索潔恩（Sojourn）這樣的選擇，讓萊因哈特單憑一己之力完全無法應對。歐瑞莎（Orisa）作為反制英雄，在某種程度上取決於這兩位英雄當前的強度水平。總體而言，歐瑞莎能輕易阻止萊因哈特執行任何他想做的動作。標槍旋轉（Javelin Spin）可以格擋錘擊與烈焰擊（Fire Strike），堅毅（Fortify）能讓萊因哈特的所有傷害變得微不足道，且對地裂擊（Earthshatter）免疫。",
+        "要防止 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特 摧毀你的隊伍，最好的方法就是保持在他近戰範圍之外。像 ![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐 這類英雄能為全隊提供額外的移動速度，讓敵方的萊因哈特極難維持在他理想的攻擊距離內。結合機動性與長程傷害，使得像 ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉 和 ![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩 這樣的選擇讓萊因哈特難以獨自應對。作為反制角色的 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎，其效果在某種程度上取決於這兩位英雄當前的強度水準。總體而言，![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎 可以輕易阻止萊因哈特執行任何他想做的戰術。![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）可以格擋錘擊與 ![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike），而 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)強化防禦（Fortify）能讓萊因哈特的所有傷害變得微不足道，且對 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)地裂擊（Earthshatter）免疫。",
         "**鏡像對決**",
-        "大多數的鏡像對決都會演變成自我意識的較量。決定採取更聰明打法的萊因哈特將會勝出：",
-        "* 追蹤敵方地裂擊（Earthshatter）絕招充能進度非常重要。",
-        "* 當地裂擊準備就緒時，玩家通常會停止使用烈焰擊並更靠前站位。利用這些跡象來提醒自己對方即將施放地裂擊並進行格擋！",
-        "* 比起透過揮錘造成更多傷害，烈焰擊的使用對於絕招充能的累積有著巨大的影響。",
-        "* 專注於利用護盾來格擋敵方對隊伍造成高威脅的冷卻技能。",
-        "* 如果雙方隊伍都有安娜（Ana），能夠格擋睡眠鏢（Sleep Dart）的萊因哈特將會贏得這場鏡像對決。"
+        "大多數的鏡像對決最終都會變成自尊心的較量。決定採取更聰明打法的萊因哈特將會勝出。",
+        "* 追蹤敵方 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)地裂擊（Earthshatter）的絕招充能進度非常重要。",
+        "* 當 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)地裂擊（Earthshatter）準備就緒時，玩家通常會停止使用烈焰擊並更靠前站位。利用這些跡象來提醒自己即將到來的地裂擊並進行格擋！",
+        "* 比起透過揮錘造成更多傷害，![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike）的使用方式對於絕招充能速度的影響巨大。",
+        "* 專注於使用護盾來阻擋敵方高價值的冷卻技能命中隊友。",
+        "* 如果雙方隊伍都有 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜，能夠格擋 ![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢（Sleep Dart）的萊因哈特將會贏得這場鏡像對決。"
       ],
-      "content_hash": "2c787fc38fb7",
-      "prompt_version": "v5",
+      "content_hash": "430be0457f85",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:33:21.194794Z"
+      "timestamp": "2026-03-20T13:19:12.587111Z"
     },
     "8.2": {
-      "title": "特定英雄剋制對象名稱",
+      "title": "特定英雄剋制名單",
       "description": "",
       "content": [
         "* 路西歐",
         "* 法拉",
         "* 索潔恩",
-        "* 歐瑞莎"
+        "* 歐瑞莎",
+        "* 安娜"
       ],
-      "content_hash": "352e06989fcd",
-      "prompt_version": "v5",
+      "content_hash": "631d448d9259",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:33:22.357687Z"
+      "timestamp": "2026-03-20T13:19:13.680982Z"
     },
     "8.0.2": {
       "title": "坦克",
       "description": "",
       "content": [
-        "歐瑞莎",
-        "* 標槍旋轉（Javelin Spin）、標槍投擲（Energy Javelin）與堅毅堡壘（Fortify）看起來就像是專門為了反制萊因哈特的技能組而設計的。萊因哈特永遠無法越過歐瑞莎，因為她可以隨意將他推移到任何她想去的地方。他無法在正面戰場與她對抗，因為堅毅堡壘能減免過多傷害，同時還能對萊因哈特巨大的頭部判定點造成暴擊。如果歐瑞莎夠聰明，她幾乎不會進入火箭槌（Rocket Hammer）的攻擊範圍，這讓戰鬥呈現一面倒的局勢。",
-        "攔路豬",
-        "* 裝甲重製讓萊因哈特在面對這個對局時變得比較好處理。儘管如此，攔路豬要贏得戰鬥只需對萊因哈特成功勾中一次，並將他拉到轉角處落入陷阱。萊因哈特必須格擋住每一發肉鉤，並寄望能利用敵人缺乏護盾的弱點，透過消耗戰慢慢贏得勝利。"
+        "![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎",
+        "* ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）、標槍投擲（Javelin Throw）以及 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)強固防禦（Fortify）看起來就像是專門為了反制萊因哈特的技能組而設計的。萊因哈特永遠無法越過 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎，因為她可以隨意將他推向任何她想去的地方。他無法與她進行正面交鋒，因為 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)強固防禦（Fortify）減免了太多傷害，同時還能對萊因哈特巨大的頭部判定框造成暴擊。如果 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎夠聰明，她幾乎永遠不會進入 ![](/data/assets/guide/0bdc6b49a56a3be7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-hammer.png)火箭鎚（Rocket Hammer）的攻擊範圍，這讓戰鬥呈現一面倒的局勢。",
+        "![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬",
+        "* 護甲重製讓這個對戰組合對 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特來說變得比較好應付了。儘管如此，攔路豬只要成功勾中萊因哈特一次，並將他拉到轉角處的陷阱中，就能贏得戰鬥。萊因哈特必須擋下每一發勾子，並寄望能利用敵人缺乏護盾的弱點，慢慢取得戰鬥優勢。"
       ],
-      "content_hash": "d57bf8ea0bb4",
-      "prompt_version": "v5",
+      "content_hash": "712271fb09fa",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:33:25.228366Z"
+      "timestamp": "2026-03-20T13:19:17.165795Z"
     },
     "8.0.3": {
       "title": "輸出傷害（DPS）",
       "description": "",
       "content": [
-        "法拉（Pharah）",
-        "* 簡單來說，你幾乎無法對抗法拉的飛行。你偶爾能對空中的目標精準命中一發烈焰擊（Firestrike），但這無濟於事，因為那甚至不到她生命值的一半。盡可能格擋掉更多的火箭，並祈禱你的隊友能將她擊落。萊因哈特（Reinhardt）能做的最好策略，就是對敵方隊伍的其他成員施加足夠的壓力和傷害，讓敵方輔助無法將資源分配給法拉，這樣你的隊伍就能更容易地解決她。",
-        "小美（Mei）",
-        "* 正如小美的冰牆（Ice Wall）是協助萊因哈特的絕佳工具，它同時也是讓萊因哈特徹底淪為廢物的完美手段。當被冰牆隔開時，即便萊因哈特有滿額的護盾生命值，也幾乎難逃一死。應對策略是嘗試透過你的時機掌握與走位來誘騙小美，讓她浪費掉冰牆，接著在她技能冷卻期間發動猛烈攻勢。"
+        "![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉",
+        "* 簡單來說，你對抗![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉的飛行能力幾乎束手無策。雖然偶爾能用火擊（Firestrike）精準命中空中的目標，但這對她來說根本不痛不癢，因為那甚至不到她總生命值的一半。盡可能格擋掉更多的火箭，並祈禱你的隊友能將她擊落。萊因哈特能做的最好策略，就是對敵方剩餘隊伍施加足夠的壓力和傷害，讓敵方支援無法將資源投注在![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉身上，這樣你的隊友就能更輕鬆地解決她。",
+        "![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美",
+        "* 正如![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美的![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）是輔助萊因哈特的絕佳工具，它同樣也是讓萊因哈特徹底淪為廢物的完美手段。一旦被冰牆隔開，即便護盾生命值全滿，萊因哈特也很難存活。應對之道在於透過你的時機掌握與進場方式來誘騙![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美，讓她浪費掉冰牆，接著在她技能冷卻期間發動攻勢。"
       ],
-      "content_hash": "88b68297cb8a",
-      "prompt_version": "v5",
+      "content_hash": "d2bf87dda9a3",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:33:27.586378Z"
+      "timestamp": "2026-03-20T13:19:20.360097Z"
     },
     "8.0.4": {
       "title": "支援",
       "description": "",
       "content": [
-        "路西歐",
-        "* 無論萊因哈特多麼努力地想要追擊敵人，路西歐都能透過加速增幅（Speed Boost）讓所有人逃出他的攻擊範圍。路西歐的擊退效果也能在萊因哈特逼近時保護隊友，或是干擾衝鋒（Charge）的行進軌跡。他所具備的遠程傷害對於消耗屏障力場（Barrier Field）也相當有價值。"
+        "![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐",
+        "* 無論萊因哈特多麼努力想要追擊敵人，![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐都能透過加速增益讓所有人脫離他的攻擊範圍。![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐的音波槍（Boop）也能在萊因哈特逼近時拯救隊友，或是干擾![](/data/assets/guide/acd524155a25802e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcharge.png)衝鋒的軌跡。他的遠程傷害對於消耗![](/data/assets/guide/e2b61a19c451876c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-field.png)屏障力場也相當有價值。"
       ],
-      "content_hash": "fb87406fa00f",
-      "prompt_version": "v5",
+      "content_hash": "99dea7ae8918",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:33:29.142585Z"
+      "timestamp": "2026-03-20T13:19:22.332748Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.633240Z"
+    "timestamp": "2026-03-20T13:18:04.656912Z"
   }
 }

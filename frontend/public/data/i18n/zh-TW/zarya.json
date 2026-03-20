@@ -6,39 +6,39 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "俄羅斯女力士亞歷山卓拉・札莉雅諾娃（Aleksandra Zaryanova）完美結合了單打獨鬥與團隊合作的風格。她簡稱為札莉雅，能運用自身力量扛起整個隊伍。透過配備給自己與隊友的防護力場（bubbles），玩家可以選擇偏向團隊導向的玩法，或是「靠我一人就夠」的自私打法。",
-        "札莉雅的高傷害潛力讓她能彌補隊伍中輸出表現不佳的情況。另一方面，札莉雅也能將防護力場全數用在脆弱的隊友身上，阻擋敵方攻勢並協助隊友打出精彩操作。身為一名坦克，札莉雅的傷害減免能力處於中等水準，且根據能量累積的多寡，她可能擁有所有坦克中最高或最低的每秒傷害（DPS）。"
+        "俄羅斯女強人亞歷珊卓拉・札莉雅諾娃完美結合了單打獨鬥與團隊合作。簡稱為 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的她，能運用自身力量扛起整個隊伍。玩家可以選擇配備自我防護與隊友防護的屏障，在團隊導向的玩法與「獨自一人」的自私打法之間進行切換。",
+        "![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的高傷害潛力使她能夠彌補隊伍中輸出表現不佳的情況。另一方面，![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅可以將每個屏障都用在脆弱的隊友身上，藉此阻擋敵方攻勢並讓隊友創造出精彩表現。身為一名 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克，![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅擁有中等水準的傷害減免能力，且根據能量累積的狀況，她的輸出能力可能會成為所有 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克中最高或最低的。"
       ],
-      "content_hash": "dc9ad8658dc6",
-      "prompt_version": "v5",
+      "content_hash": "28bd5d838351",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:05:42.026240Z"
+      "timestamp": "2026-03-20T13:13:29.713053Z"
     },
     "1.1.1": {
       "title": "操作指南",
       "description": "",
       "content": [
-        "* 僅在近距離主動攻擊敵人時對自己使用屏障（Barriers），藉此建立並維持高能量。",
-        "* 使用你的氣泡（bubbles）來保護隊友時應採取反應式而非預判式，優先選擇隊友明顯受到攻擊的時刻，以最大化能量獲取與影響力。",
-        "* 與隊友的後續絕招或爆發傷害配合施放重力噴湧（Graviton Surge）。即使只捕捉到一或兩名敵人，也足以贏得會戰。"
+        "* 僅在近距離主動攻擊敵人時對自己使用屏障，以建立並維持高能量。",
+        "* 應對性地使用你的防護力場來保護隊友，而非預先使用；優先選擇隊友明顯遭受攻擊的時刻，以最大化能量獲取與影響力。",
+        "* 配合隊友的後續絕招或爆發傷害來施放 ![](/data/assets/guide/eacdf2c5d0a248f5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgraviton-surge.png)重力噴湧（Graviton Surge）。即使只捕捉到一或兩名敵人，也足以贏得會戰。"
       ],
-      "content_hash": "790d53ed12f6",
-      "prompt_version": "v5",
+      "content_hash": "10fb1af6aae2",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:05:43.834659Z"
+      "timestamp": "2026-03-20T13:13:31.360267Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 透過威脅爆發傷害或進行突擊，迫使她提早交出或無效化使用防護力場（Particle Barrier/Projected Barrier），隨後暫時脫離戰鬥。",
-        "* 留意她的能量等級。高能量的札莉雅威脅性極高，因此在戰鬥中務必尊重她的威脅，並避免在她能量全滿時進行持久的單挑。",
-        "* 當她擁有重力噴湧（Graviton Surge）時，避免聚在一起。站位時要讓她難以鎖定目標，或保留防禦性技能來保全自己與隊友。"
+        "* 透過威脅性的爆發傷害或突襲，迫使她提早或在無效的情況下交出防護力場，隨後暫時脫離戰鬥。",
+        "* 留意她的能量等級。高能量的 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅（Zarya）威脅性極高，因此在戰鬥中務必謹慎應對，並避免在她能量全滿時與她進行長時間的單挑。",
+        "* 當她擁有重力噴湧（Graviton Surge）時，避免隊友聚集在一起。選擇讓她難以鎖定你的位置，或保留防禦性技能來保護自己與隊友。"
       ],
-      "content_hash": "c4d82e1d0c83",
-      "prompt_version": "v5",
+      "content_hash": "33dd6835d013",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:10.283346Z"
+      "timestamp": "2026-03-20T13:13:33.173769Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -48,353 +48,353 @@
         "* 中距離英雄",
         "* 生存能力",
         "* 需要高能量（High energy）",
-        "* 無機動性",
-        "* 糟糕的防護力場（Bubbles）會導致戰鬥失敗"
+        "* 無位移能力",
+        "* 糟糕的防護屏障（Bubbles）會導致團戰失敗"
       ],
       "content_hash": "ef7b1370aaf7",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:12.027516Z"
+      "timestamp": "2026-03-20T13:13:34.760502Z"
     },
     "3.1.1": {
       "title": "單人凱瑞潛力",
       "description": "",
       "content": [
-        "自私地使用粒子屏障（Particle Barrier）來累積高能量，並確保自己存活，直到你在 100% 能量時達到每秒 175 點傷害。滿能量的札莉雅可以在 1.5 秒內融化任何 250 生命值的英雄！擁有這種傷害潛力，札莉雅總能找到獲勝的方法。此外，札莉雅可以透過投射屏障（Projected Barrier）拯救遠處的隊友，而無需放棄自己的位置或進攻節奏。"
+        "自私地使用防護罩來累積高能量，並確保自己存活，直到你在 100% 能量時達到每秒 175 點傷害。能量全滿的 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅可以在 1.5 秒內融化任何 250 生命值的英雄！憑藉這種傷害潛力，![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅總能找到獲勝的方法。此外，![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅可以透過 ![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障（Projected Barrier）拯救遠處的隊友，而無需放棄自己的站位或進攻節奏。"
       ],
-      "content_hash": "bb3e6f7a08e0",
-      "prompt_version": "v5",
+      "content_hash": "04441dbba2d7",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:13.740504Z"
+      "timestamp": "2026-03-20T13:13:36.566323Z"
     },
     "3.1.2": {
       "title": "中距離傷害",
       "description": "",
       "content": [
-        "札莉雅（Zarya）擅長中距離交戰（10 - 20 公尺）。當面對近距離英雄（萊因哈特、死神等）時，她可以在對手最佳射程之外，保持在自己的最大射程進行戰鬥。札莉雅不需要過度推進，就能對位於敵方坦克後方的敵人施加壓力。次要攻擊（Secondary fire）也非常適合用來收割撤退的敵人，且其拋射物速度在中距離表現相當穩定。"
+        "![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)Zarya excels in mid-range engagements (10 - 20m). When facing off against a close range heroes (![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)Reinhardt, ![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)Reaper, etc), she can play at her maximum range just outside of their optimal ranges. ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)Zarya doesn’t have to push up too far to put herself in range of pressuring enemies positioned behind their ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tank. Secondary fire is also great for finishing off retreating enemies and its projectile speed is reliable at mid-range."
       ],
-      "content_hash": "83c37c5275b2",
-      "prompt_version": "v5",
+      "content_hash": "0bfebbe750e1",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:15.457915Z"
+      "timestamp": "2026-03-20T13:13:38.353971Z"
     },
     "3.1.3": {
       "title": "生存能力",
       "description": "",
       "content": [
-        "札莉雅的屏障能量機制迫使敵方隊伍必須做出快速決策：是要嘗試摧毀屏障，進而給予札莉雅更多能量，還是要等待屏障持續的 2 秒結束，讓她能自由地進攻或撤退。這些互動使得札莉雅非常難以被擊殺。此外，護盾生命值與自我治療被動技能的結合，讓札莉雅能夠短暫躲在掩體後方，並在沒有支援的情況下快速恢復生命值。"
+        "![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的屏障能量機制迫使敵方隊伍必須迅速做出決策：是要嘗試摧毀屏障，進而給予 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅更多能量，還是要等待 2 秒屏障時間結束，讓她能自由地推進或撤退。這些互動使得要擊殺 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅變得非常困難。此外，護盾生命值與自我治療被動技能的結合，讓 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅能夠在掩體後方短暫躲避，並在沒有 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援角色的協助下快速恢復生命值。"
       ],
-      "content_hash": "854f0311eb4a",
-      "prompt_version": "v5",
+      "content_hash": "084ecfd4c87e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:17.238664Z"
+      "timestamp": "2026-03-20T13:13:40.159721Z"
     },
     "3.2.1": {
-      "title": "極度仰賴維持高能量",
+      "title": "高度依賴維持高能量",
       "description": "",
       "content": [
-        "低能量狀態的札莉雅（Zarya）無法威脅任何人，也幾乎無法施加壓力。當敵方隊伍刻意避開攻擊你的防護屏障（Particle Barrier），導致你陷入低能量且沒有冷卻技能可用的窘境時，在兩個防護屏障冷卻完畢前，你對隊伍幾乎沒有貢獻。坦克英雄若遭到低能量札莉雅（Zarya）的攻擊，可以安全地直接無視她並摧毀她的隊友。"
+        "低能量的 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅無法對任何人造成威脅，也幾乎無法施加壓力。當敵方隊伍避免攻擊你的屏障，導致你陷入低能量且沒有冷卻技能可用的狀態時，在屏障冷卻完畢前，你對隊伍幾乎沒有任何貢獻。一個被低能量 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅攻擊的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)戰士，可以安全地直接無視她並摧毀她的隊友。"
       ],
-      "content_hash": "06d2e6a5d912",
-      "prompt_version": "v5",
+      "content_hash": "6c112a50b50a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:18.927727Z"
+      "timestamp": "2026-03-20T13:13:42.175478Z"
     },
     "3.2.2": {
       "title": "缺乏機動性且難以應對遠程英雄",
       "description": "",
       "content": [
-        "對於位於據點外圍或高處的敵人，札莉雅（Zarya）處理起來極為困難。她可以對正在攻擊這些敵人的隊友施放投射屏障（Projected Barrier），但除此之外便無能為力。雖然次要攻擊跳躍（secondary fire jump）能提供些許額外的垂直位移，但距離太短，無法讓她登上大多數的高處區域。"
+        "位於據點外圍或高處的敵人對 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅 來說極難處理。她可以對攻擊這些敵人的隊友施放 ![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障（Projected Barrier），但除此之外能做的非常有限。雖然次要攻擊跳躍可以提供些許額外的垂直位移，但距離太短，不足以讓她抵達大多數的高處區域。"
       ],
-      "content_hash": "a1455cb8d31d",
-      "prompt_version": "v5",
+      "content_hash": "5486604622f8",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:20.720141Z"
+      "timestamp": "2026-03-20T13:13:44.003990Z"
     },
     "3.2.3": {
-      "title": "幾個糟糕的屏障使用會導致團戰失利",
+      "title": "幾個糟糕的防護力場（Particle Barrier/Projected Barrier）會導致團戰失利",
       "description": "",
       "content": [
-        "屏障（Bubble）的最佳使用方式相當複雜，關於對什麼目標、何時、何地以及由誰來施放屏障的選擇，在整場比賽中都在不斷變化。對一名你以為身處險境但實際上並非如此的隊友使用屏障，會讓其他隊友完全暴露在危險之中。將屏障用於抵擋一項敵方技能，會使札莉雅（Zarya）容易受到另一項敵方技能的攻擊。若連續浪費兩次屏障，通常意味著該場團戰已經失敗，且你的隊伍需要重新調整節奏。"
+        "防護力場的最佳使用方式相當複雜，關於對誰、何時、何地以及如何使用防護力場的選擇，在整場比賽中會不斷變化。對一名你以為身陷險境但其實不然的隊友使用防護力場，會讓其他隊友完全暴露在危險之中。將防護力場用在抵擋一項敵方技能上，會使 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅容易受到另一項敵方技能的攻擊。若連續浪費兩次防護力場，通常意味著該場團戰已經失敗，你的隊伍必須重新調整節奏。"
       ],
-      "content_hash": "f211ae8abdac",
-      "prompt_version": "v5",
+      "content_hash": "a9fbb1e923c7",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:22.533410Z"
+      "timestamp": "2026-03-20T13:13:46.091881Z"
     },
     "4.1": {
-      "title": "主要攻擊：粒子砲（Particle Cannon）",
+      "title": "主要攻擊：粒子砲",
       "description": "",
       "content": [
-        "粒子砲（Particle Cannon）使用技巧",
-        "* 當輸出（DPS）和輔助（Supports）進入射程時，優先對他們使用光束，除非沒有更高價值的目標，否則不要輕易將火力集中在敵方坦克身上。",
-        "* 在光束射程的最外緣進行交戰，以在維持壓力的同時將受到的傷害降至最低。",
-        "* 該光束無法被「閃避（Deflect）」、防禦矩陣（Defense Matrix）或動能掌握（Kinetic Grasp）吸收，這使其在面對這些英雄時非常可靠。"
+        "![](/data/assets/guide/319945fa8ef79cf6.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fparticle-cannon.png)粒子砲使用技巧",
+        "* 當輸出型英雄與![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援型英雄進入射程範圍內時，請優先以光束攻擊他們；除非沒有更高價值的目標，否則不要輕易與敵方坦克交戰。",
+        "* 在光束射程的最外緣進行遊走，在維持壓力的同時將受到的傷害降至最低。",
+        "* 該光束無法被![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png)招架，也無法被![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣或![](/data/assets/guide/7486123dd5edc842.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkinetic-grasp.png)動能掌握吸收，這使其在面對這些英雄時相當可靠。"
       ],
-      "content_hash": "e8c3251963da",
-      "prompt_version": "v5",
+      "content_hash": "d564c55ba4c1",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:24.714751Z"
+      "timestamp": "2026-03-20T13:13:47.869013Z"
     },
     "4.2": {
       "title": "次要攻擊：能量榴彈（Energy Grenades）",
       "description": "",
       "content": [
         "**能量榴彈（Energy Grenades）使用技巧**",
-        "* 當目標超出光束射程時，使用次要攻擊來壓制聚集的敵人並累積絕招充能。",
-        "* 將次要攻擊穿插在彈藥循環中以最大化總體傷害輸出，特別是在彈匣即將耗盡時。",
-        "* 在近距離下，將次要攻擊與近戰攻擊結合，能提供札莉雅（Zarya）最高的爆發連段傷害。",
-        "* 即使彈藥所剩無幾，你仍然可以發射一枚次要攻擊拋射物。"
+        "* 當目標超出光束射程時，請使用次要攻擊來壓制聚集的敵人並累積絕招能量。",
+        "* 將次要攻擊穿插在彈藥循環中以最大化整體傷害輸出，特別是在彈匣即將耗盡時。",
+        "* 在近距離下，次要攻擊接近戰攻擊是 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅傷害最高的爆發連段。",
+        "* 即使剩餘彈藥極少，你仍然可以發射一枚次要投射物。"
       ],
-      "content_hash": "5156beb5983a",
-      "prompt_version": "v5",
+      "content_hash": "d677dd29d97d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:26.339484Z"
+      "timestamp": "2026-03-20T13:13:49.873755Z"
     },
     "4.3": {
-      "title": "[SHIFT]：粒子屏障（自我護盾）",
+      "title": "[SHIFT]：粒子屏障（自我防護罩）",
       "description": "",
       "content": [
-        "粒子屏障（Particle Barrier）的使用技巧：",
-        "* 在你正受到傷害或準備佔領空間時，採取反應式地使用自我護盾，而不是預判性地使用。",
-        "* 試著在明顯的進攻時刻使用護盾——例如當你成為敵方特殊能力（abilities）的目標，或是向前推進施加壓力時。",
-        "* 避免在對峙階段太早使用自我護盾，因為這會導致護盾進入冷卻時間，若此時敵人發動二次進攻，你會變得非常脆弱。"
+        "![](/data/assets/guide/81b1062b5b25f966.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fparticle-barrier.png)粒子屏障（Particle Barrier）的使用技巧",
+        "* 當你正在承受傷害或準備強勢推進時，請以反應式的方式使用自我防護罩，而不是預先施放。",
+        "* 試著在明顯的進攻時刻使用防護罩——例如當你成為敵方技能的目標，或是向前壓制對手時。",
+        "* 避免在對峙階段過早使用自我防護罩，否則當防護罩進入冷卻時間而敵人再次發動攻勢時，你會變得非常脆弱。"
       ],
-      "content_hash": "2e91a5f977bf",
-      "prompt_version": "v5",
+      "content_hash": "50b2846f86b0",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:28.528486Z"
+      "timestamp": "2026-03-20T13:13:51.684249Z"
     },
     "4.4": {
-      "title": "[E]：投影屏障（盟友護盾）",
+      "title": "[E]：投射屏障（隊友護盾）",
       "description": "",
       "content": [
-        "**投影屏障（Projected Barrier）使用技巧**",
+        "**![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障的技巧**",
         "* 對承受巨大壓力或正準備採取激進攻勢的隊友施放護盾。",
-        "* 利用投影屏障來輔助隊伍進行繞後（dive）、側襲（flank）或前線推進（frontline push），否則這些行動很容易遭到懲罰。",
-        "* 優先保護遭到敵方包夾的盟友，因為一個時機精準的護盾完全可以扭轉戰局。"
+        "* 使用 ![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障來協助隊伍進行潛水（dive）、側襲（flank）或前線推進（frontline push），否則這些行動很容易遭到懲罰。",
+        "* 優先保護被敵方包夾的隊友，因為一個時機精準的護盾完全可以扭轉戰局。"
       ],
-      "content_hash": "1707b30debde",
-      "prompt_version": "v5",
+      "content_hash": "dfe4914144ef",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:30.221788Z"
+      "timestamp": "2026-03-20T13:13:53.520065Z"
     },
     "4.4.1": {
       "title": "防護力場管理哲學",
       "description": "",
       "content": [
-        "* 優先使用反應式防護力場（reactive bubbles）而非預判式防護力場（predictive ones），因為針對已確認的傷害進行應對，比猜測敵方的時機更為穩定。",
-        "* 根據節奏決定是要提早累積能量，還是採取嚴謹的冷卻時間循環——提早使用防護力場（bubbles）可以累積能量但會拖慢戰鬥節奏，而保留防護力場則能在戰鬥中期提供更強的應對能力。",
-        "* 請注意，兩個防護力場共用冷卻時間，因此若其中一個使用效率不佳，將會限制你整體的防禦靈活性。"
+        "* 優先使用反應式防護力場而非預判式，因為針對已確認的傷害進行應對，比猜測敵方的時機點更為穩定。",
+        "* 根據戰鬥節奏決定是要提早累積能量，還是採取嚴謹的冷卻時間循環——提早使用防護力場可以累積能量，但會拖慢戰鬥節奏；而保留防護力場則能在戰鬥中期提供更強的應對能力。",
+        "* 請務必留意，兩個防護力場共用冷卻時間，因此若其中一個使用效率不佳，將會限制你整體的防禦靈活性。"
       ],
       "content_hash": "b4926d25baa3",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:32.049478Z"
+      "timestamp": "2026-03-20T13:13:54.981201Z"
     },
     "4.5": {
       "title": "[Q] 重力噴湧（Graviton Surge）",
       "description": "",
       "content": [
-        "重力噴湧（Graviton Surge）的使用技巧",
-        "* 你不需要非得靠一次大型的多目標絕招才能贏得會戰；確保擊殺一名高價值目標通常就足夠了。",
-        "* 在施放絕招前，請先追蹤敵方的反制絕招與減傷手段，例如防禦矩陣（Defense Matrix）、冰牆（Ice Wall）、聖（Transcendence）以及音波屏障（Sound Barrier）。",
-        "* 在進行長距離投擲重力噴湧（Graviton Surge）之前，請先使用次要攻擊來測量拋物線軌跡與射程。",
-        "* 重力噴湧（Graviton Surge）可以附著在任何表面上，將敵人懸浮在離地面些許高度的位置，可以讓你的隊伍更容易進行後續的傷害輸出。"
+        "**![](/data/assets/guide/eacdf2c5d0a248f5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgraviton-surge.png)重力噴湧（Graviton Surge）的技巧**",
+        "* 你不需要一次命中多個目標的絕招也能贏得會戰；確保擊殺一名高價值目標通常就已足夠。",
+        "* 在施放絕招前，請先追蹤敵方的反制絕招與減傷手段，例如 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）、![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）、![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)超凡入聖（Transcendence）以及 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障（Sound Barrier）。",
+        "* 在進行長距離投擲重力噴湧（Graviton Surge）之前，請先使用次要攻擊來測量投射物的拋物線與射程。",
+        "* 重力噴湧（Graviton Surge）可以附著在任何表面上，將敵人懸浮在離地面些許的高度，可以讓你的隊友更容易進行後續的傷害輸出。"
       ],
-      "content_hash": "cfd00246eebf",
-      "prompt_version": "v5",
+      "content_hash": "3cf486ab6bf3",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:33.978557Z"
+      "timestamp": "2026-03-20T13:13:57.607853Z"
     },
     "4.6": {
       "title": "能量（被動機制）",
       "description": "",
       "content": [
-        "關於能量（Energy）的提示：",
-        "* 吸收屏障（Barriers）所受到的傷害會提升主要攻擊與次要攻擊的傷害。",
-        "* 若你沒有在減免傷害，能量便會衰退，因此請維持戰鬥節奏以保持高充能狀態。",
-        "* 高能量會大幅提升你的威脅等級，因此站位與屏障（Bubble）的施放時機應圍繞在維持有效充能，同時避免過度深入敵陣。"
+        "**![](/data/assets/guide/385129e8606db3b6.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fenergy.png)能量的使用技巧**",
+        "* 你的屏障所吸收的傷害會提高主要攻擊與次要攻擊的傷害。",
+        "* 若你沒有在減免傷害，能量便會衰減，因此請維持戰鬥節奏以保持高充能狀態。",
+        "* 高能量會大幅提升你的威脅等級，因此站位與屏障的使用時機應圍繞在維持有效充能，同時避免過度深入戰場。"
       ],
-      "content_hash": "502b083bfc7b",
-      "prompt_version": "v5",
+      "content_hash": "33ff0310515e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:35.614293Z"
+      "timestamp": "2026-03-20T13:13:59.506887Z"
     },
     "5.1.1": {
       "title": "偵查者（Spotter）",
-      "description": "投射屏障（Projected Barrier）會啟動盟友的生命恢復，並提高他們 20% 的移動速度。",
+      "description": "投射屏障（Projected Barrier）會啟動盟友的生命恢復效果，並使其移動速度提升 20%。",
       "content": [
-        "* 對於支援盟友來說極其強大。治療並給予速度加成可以讓你的隊友成為 Carry 全場的關鍵。"
+        "* 對於強化盟友而言極其強大。提供治療並給予速度加成，能讓你的隊友成為主宰戰局的關鍵。"
       ],
       "content_hash": "36776c8a980c",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:37.024572Z"
+      "timestamp": "2026-03-20T13:14:00.842018Z"
     },
     "5.1.2": {
       "title": "跳躍強化（Jump-Ups）",
       "description": "次要攻擊的自我擊退效果提升 75%。",
       "content": [
-        "* 在擁有大量高處地形的地圖上效果最佳。札莉雅通常在這些地圖上較為吃力，但額外的跳躍高度為她提供了更多的機動性選擇。"
+        "* 最適合在高地地形豐富的地圖使用。![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅（Zarya）通常在這些地圖上會感到吃力，但額外的跳躍高度為她提供了更多的機動性選擇。"
       ],
-      "content_hash": "41da59947fda",
-      "prompt_version": "v5",
+      "content_hash": "6f254bc85932",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:38.601956Z"
+      "timestamp": "2026-03-20T13:14:02.093520Z"
     },
     "5.2.1": {
       "title": "能量長槍（Energy Lance）",
-      "description": "粒子砲（Particle Cannon）的光束會穿透敵人。",
+      "description": "粒子砲（Particle Cannon）的光束可以穿透敵人。",
       "content": [
-        "* 最適合對抗喜歡聚在一起的鬥毆型陣容。鎖定後方的敵人，並調整角度，讓最前方的敵人也保持在光束的路徑上。"
+        "* 最適合用來對付喜歡聚在一起的戰鬥型陣容。瞄準後方的敵人，並調整角度，讓最前方的敵人也保持在光束的路徑上。"
       ],
       "content_hash": "2c0340524c8e",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:39.806489Z"
+      "timestamp": "2026-03-20T13:14:03.562206Z"
     },
     "5.2.2": {
       "title": "額外衝擊（Extra Oomph）",
-      "description": "當屏障處於作用狀態時，使用粒子砲（Particle Cannon）的射束造成傷害可產生能量。",
+      "description": "當屏障（Barrier）啟動時，使用粒子砲（Particle Cannon）的射束造成傷害可產生能量。",
       "content": [
-        "* 停止能量衰減，且比起單純承受傷害能累積更多總能量。當敵方隊伍很聰明、試圖避免為你充能時，這項能力非常實用。"
+        "* 停止能量衰減，且比單純承受傷害能累積更多的總能量。當敵方隊伍很聰明、試圖不讓你充能時，這項能力非常實用。"
       ],
       "content_hash": "5bca87ce67ea",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:41.582504Z"
+      "timestamp": "2026-03-20T13:14:05.476919Z"
     },
     "6.1.1": {
       "title": "南極半島",
       "description": "",
       "content": [
-        "札莉雅（Zarya）在控制（Control）地圖上通常表現優異，因為大多數這類地圖並不適合長距離交戰。在南極半島（Antarctic Peninsula）上，札莉雅缺乏機動性的弱點並不會妨礙她發揮價值。在三個目標點的每一處，札莉雅幾乎總能強迫戰鬥發生在她最有利的射程範圍內。此外，這張地圖上的高處區域也都在札莉雅的有效射程之內，這使她成為一個絕佳的選擇。"
+        "![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅在控制（Control）地圖上通常表現優異，因為大多數這類地圖並不適合長距離交戰。在南極半島上，![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅缺乏機動性的弱點並不會妨礙她發揮價值。![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅幾乎總能在三個目標點的每一個點位中，強迫戰鬥發生在她的最佳射程範圍內。此外，這張地圖上的高處區域也都在![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的有效射程內，使她成為絕佳的選擇。"
       ],
-      "content_hash": "ea90b43f6f1b",
-      "prompt_version": "v5",
+      "content_hash": "b42a24893a4c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:42.979548Z"
+      "timestamp": "2026-03-20T13:14:07.317419Z"
     },
     "6.1.2": {
       "title": "里亞爾托",
       "description": "",
       "content": [
-        "* 雖然里亞爾托有少數視野較長的區域，但這裡也有大量的掩體可供札莉雅運用。在進攻時，札莉雅可以在掩體之間移動時利用粒子屏障（Particle Barrier）進行推進。同樣地，在防守時，當受到壓力或屏障冷卻中，大多數區域附近都有掩體可以躲避，待狀態恢復後再出來爭奪空間。"
+        "* 雖然里亞爾托有幾個視野較長的區域，但也有大量的掩體供 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅 使用。在防守推進時，![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅 可以利用 ![](/data/assets/guide/81b1062b5b25f966.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fparticle-barrier.png)粒子屏障（Particle Barrier）在掩體間推進。同樣地，在防守時，當面臨壓力或屏障冷卻中，大多數區域都有附近的掩體可以躲避，待狀態恢復後再出來爭奪空間。"
       ],
-      "content_hash": "e3af590ae10a",
-      "prompt_version": "v5",
+      "content_hash": "20c293595a2c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:44.640619Z"
+      "timestamp": "2026-03-20T13:14:09.127780Z"
     },
     "6.1.3": {
       "title": "灕江天塔",
       "description": "",
       "content": [
-        "* 與南極半島類似，這張地圖的建築結構與札莉雅的技能組非常契合。戰鬥焦點被迫集中在控制點上，而這正是札莉雅最強勢的區域。考量到多名敵人在爭奪控制點時往往會聚集在同一區域，重力噴湧（Graviton Surge）是清理控制點的最佳絕招之一。"
+        "* 與南極半島類似，這張地圖的架構與 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的技能組非常契合。戰鬥焦點被迫集中在據點上，而這正是 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅最強勢的地方。![](/data/assets/guide/eacdf2c5d0a248f5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgraviton-surge.png)重力噴湧（Graviton Surge）是清空控制據點的最佳絕招之一，因為多名敵人在爭奪據點時往往會聚集在同一個區域。"
       ],
-      "content_hash": "3a13e77041de",
-      "prompt_version": "v5",
+      "content_hash": "c6b1847a608f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:46.367609Z"
+      "timestamp": "2026-03-20T13:14:10.804626Z"
     },
     "6.2.1": {
       "title": "好萊塢",
       "description": "",
       "content": [
-        "* 好萊塢的每個據點都有太多長距離的視線範圍以及高台掩體，導致札莉雅很難發揮穩定的作用。如果敵方有艾西在後方壓制你們全隊該怎麼辦？札莉雅基本上只能眼睜睜看著這一切發生，並試圖在對抗敵方前線時打出更好的表現。"
+        "* 好萊塢的每個據點都有太多長距離的視線範圍和高台，導致 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅很難持續發揮作用。如果敵方有 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西待在後方壓制你們全隊，那 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅基本上只能眼睜睜看著這一切發生，並試圖在正面戰場上智取對手。"
       ],
-      "content_hash": "3dd585f2019d",
-      "prompt_version": "v5",
+      "content_hash": "8e3963ad985a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:48.139699Z"
+      "timestamp": "2026-03-20T13:14:12.264994Z"
     },
     "6.2.2": {
       "title": "新皇后街",
       "description": "",
       "content": [
-        "* 為了讓札莉雅發揮成效，她基本上不能一直待在機器人身上。新皇后街是《鬥陣特攻2》中最開闊的地圖之一。在地圖的幾乎每個區域，敵方隊伍全體都能站位在札莉雅的攻擊範圍之外。如果她過於深入敵陣，就會導致後排在目標點上暴露無遺。戰鬥最終會演變成兩條戰線，這要求你的隊伍必須同時贏下兩場戰鬥。"
+        "* 為了讓 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅發揮成效，她基本上不能一直待在機器人旁邊。新皇后街是《鬥陣特攻2》中最開闊的地圖之一。在地圖的幾乎每個區域，敵方隊伍全體都能站位在 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的攻擊範圍之外。如果她過度前壓去對付敵人，就會讓後排隊友在目標點上暴露無遺。這會導致戰鬥在兩個不同的戰線同時展開，並要求你的隊伍必須同時贏下兩場戰鬥。"
       ],
-      "content_hash": "d199035f8e78",
-      "prompt_version": "v5",
+      "content_hash": "097bbbc18164",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:49.807258Z"
+      "timestamp": "2026-03-20T13:14:14.102144Z"
     },
     "6.2.3": {
-      "title": "蘇拉瓦薩（Suravasa）",
+      "title": "蘇拉瓦薩",
       "description": "",
       "content": [
-        "* 在閃擊點（Flashpoint）地圖蘇拉瓦薩（Suravasa）中，札莉雅（Zarya）需要移動的距離實在太長。地圖上的據點分布過於分散，導致敵方隊伍幾乎總能在札莉雅（Zarya）抵達前就取得優勢位置。此外，目標點的視野過於開闊，迫使札莉雅（Zarya）必須依賴自身的防護屏障（Particle Barrier）來維持生存，在受到壓力時也難以利用掩體進行防守。"
+        "* 閃擊點地圖蘇拉瓦薩（Suravasa）的涵蓋範圍對 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅 來說太過廣大。目標點之間的距離非常分散，導致敵隊幾乎總能在 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅 抵達前就佔據有利位置。此外，目標點的視野非常開闊，這使得 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅 必須依賴自身的防護屏障來維持生存，且在受到壓力時難以利用掩體進行防守。"
       ],
-      "content_hash": "bde8928293c2",
-      "prompt_version": "v5",
+      "content_hash": "7b2d96f76dc8",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:51.882598Z"
+      "timestamp": "2026-03-20T13:14:16.097389Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "札莉雅在鬥陣（Brawl）陣容與機動（Dive）陣容中都能有不錯的表現，但在面對或搭配消耗（Poke）陣容時則較為吃力。",
-        "以札莉雅為核心構建的鬥陣陣容，主要由近距離英雄組成，他們會集體行動，試圖在承受消耗傷害的同時存活下來，並設法強迫對手進行近距離交戰。",
-        "**札莉雅強勢鬥陣陣容範例**",
-        "札莉雅、小美、死神、路西歐、莫伊拉",
-        "搭配札莉雅的機動陣容，會有數名輸出或輔助隊友對敵方後排發動激進的攻勢。札莉雅在機動陣容中扮演兩種角色之一。主要任務是為激進的隊友施放防護屏障（Bubble），保護他們免受控場技能（Crowd Control Abilities）的影響，並提供額外的 225 點生命值。另一種協助機動隊友的方式是維持自身的生存能力。利用掩體和自我防護屏障，讓隊伍其餘成員的資源能專注於機動交戰，而不必分心維持札莉雅的生存。",
-        "**札莉雅強勢機動陣容範例**",
-        "札莉雅、源氏、閃光、霧子、安娜"
+        "![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅在鬥陣（brawl）陣容與機動（dive）陣容中都能有不錯的表現，但在面對消耗（poke）陣容或與其搭配時則較為吃力。",
+        "以 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅為核心的鬥陣陣容，主要由近距離英雄組成，他們會集體行動，試圖在承受消耗傷害的同時存活下來，並設法強迫敵人進行近距離交戰。",
+        "**強勢的札莉雅鬥陣陣容範例**",
+        "![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅、![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美、![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)死神、![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐、![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉",
+        "搭配 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的機動陣容，會有數名輸出（DPS）或 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援（Support）隊友對敵方後排發動激進的攻勢。![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅在機動陣容中扮演兩種角色之一。主要任務是為激進的隊友施放屏障（bubble），保護他們免受控場技能（crowd control abilities）的影響，並為他們提供額外的 225 點生命值。另一種協助機動隊友的方式是維持自身的生存能力。利用掩體和自我屏障，讓隊伍的其他資源能專注於機動交戰，而不必分心去維持 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的生命值。",
+        "**強勢的札莉雅機動陣容範例**",
+        "![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅、![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏、![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光、![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子、![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜"
       ],
-      "content_hash": "4f2c38d556a5",
-      "prompt_version": "v5",
+      "content_hash": "e56cf033c5d0",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:54.426884Z"
+      "timestamp": "2026-03-20T13:14:18.772030Z"
     },
     "7.1": {
-      "title": "與其他英雄的個人搭配",
+      "title": "與其他英雄的個人協同效應",
       "description": "",
       "content": [
-        "源氏",
-        "* 除了奈米強化（Nano Boost）之外，投射屏障（Projected Barrier）是源氏玩家能獲得的最佳技能。源氏需要深入敵陣後方大肆破壞。他很怕控場技能，一旦被任何一種控場技能命中，通常就意味著死亡。投射屏障能提供短暫的控場免疫，讓敵人難以應對源氏。在龍一文字（Dragonblade）期間給予屏障，幾乎保證能至少擊殺一人。",
-        "半藏",
-        "* 經典的「重力龍」組合至今仍是最佳的絕招搭配之一。唯一能真正反制重力龍的方法是禪亞塔的超凡入聖（Transcendence），但這個反制手段本身也能被反制。如果札莉雅的重力噴湧（Graviton Surge）吸到了兩名或以上的敵人，這個組合幾乎就宣告了勝利。",
-        "安娜",
-        "* 安娜的治療能力讓札莉雅能夠打得極度激進。生化手榴彈（Anti-Nade）的禁療效果也有助於擊殺那些札莉雅在沒有禁療狀態下難以處理的坦克。在高能量狀態下對札莉雅施放奈米強化，簡直能摧毀敵方隊伍。大多數英雄即便看到發光的札莉雅衝過來，也無法及時逃脫。此外，札莉雅可以透過時機精準的投射屏障，從敵方側襲者（安娜的弱點）手中救下安娜。"
+        "![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏",
+        "* 除了![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png)奈米強化（Nano Boost）之外，![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障（Projected Barrier）是給予![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏玩家最好的技能。![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏需要深入敵陣後方大肆破壞。他很怕控場技能，任何控場技能命中![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏通常都意味著他的死亡。![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障能提供暫時的控場免疫，讓敵人難以應對![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏。在![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字（Dragonblade）期間施放屏障幾乎保證能至少擊殺一名敵人。",
+        "![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏",
+        "* 經典的「重力龍」組合至今仍是最佳的絕招連技之一。唯一能真正反制重力龍的方法是![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔的![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)超凡入聖（Transcendence），但這個反制手段本身也能被反制。如果![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅能用![](/data/assets/guide/eacdf2c5d0a248f5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgraviton-surge.png)重力噴湧（Graviton Surge）吸住兩名或以上的敵人，這個連技幾乎就宣告了勝利。",
+        "![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜",
+        "* ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜的治療能讓![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅進行極度激進的打法。生化手榴彈（Anti-Nade）的禁療效果也能幫助擊殺那些沒有禁療效果時![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)札莉雅難以擊敗的![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)坦克。對高能量的![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png)札莉雅施放![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)奈米強化（Nano Boost）簡直能摧毀敵方隊伍。大多數英雄即使看到發光的![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅衝過來，也無法跑得夠快。此外，![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅可以透過時機精準的![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)投射屏障，從敵方![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)側襲者（Flanker）手中救下![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)安娜（安娜對這類英雄較為弱勢）。"
       ],
-      "content_hash": "f9d51deec37d",
-      "prompt_version": "v5",
+      "content_hash": "f153b0853748",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:56.965448Z"
+      "timestamp": "2026-03-20T13:14:22.344220Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "無論使用哪種副角色（subrole），反制札莉雅（Zarya）的主要方式就是避免讓她獲得能量，並找出她使用防護力場（bubble）的規律。如果她總是過早使用防護力場，那就等效果結束後再發動攻勢。如果札莉雅在你看向她的隊友時會驚慌地給予他們防護力場，那就趁現在她身上沒有防護力場時直接攻擊札莉雅本人。有時進行短暫的撤退並重新調整位置，可以讓她的能量開始衰減，這能讓你的坦克在重新爭奪目標時承受較少的傷害。"
+        "無論身處哪個副角色（subrole），反制 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的主要方式就是避免讓她獲得能量，並找出她使用防護罩的規律。如果她總是提早使用防護罩，那就等效果結束後再發動攻勢。如果 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅一看到隊友被盯上就驚慌地給予防護罩，那就轉而攻擊 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅本人，因為她現在已經沒有防護罩可以保護自己了。有時候，短暫撤退並重新調整位置可以讓 ![](/data/assets/guide/385129e8606db3b6.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fenergy.png)能量（Energy）開始衰退，這能讓你的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）在重新爭奪目標時承受較少的傷害。"
       ],
-      "content_hash": "74b341c85e5d",
-      "prompt_version": "v5",
+      "content_hash": "436d83fdb6b5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:09:58.795830Z"
+      "timestamp": "2026-03-20T13:14:24.581885Z"
     },
     "8.1": {
       "title": "特定英雄剋制關係",
       "description": "",
       "content": [
-        "Ramattra",
-        "* 無論札莉雅（Zarya）的能量有多高，只要有輔助在治療，拉瑪塔（Ramattra）在格擋（Block）期間就不會被擊殺。札莉雅也很難從拉瑪塔身上獲取能量，因為他可以輕易地利用護盾或格擋來應對粒子屏障（Particle Barrier）。憑藉復仇女神型態（Nemesis Form）的加速效果以及虛無之球（Ravenous Vortex）的緩速效果，當札莉雅試圖在屏障冷卻期間撤退到掩體後方時，拉瑪塔能輕易地追擊她。",
-        "Widowmaker",
-        "* 札莉雅對於高水準的奪命女（Widowmaker）幾乎沒有任何反制手段。顯然，札莉雅無法在遠距離擊殺奪命女，且在面對奪命女的威脅時，札莉雅也無法可靠地協助隊友存活。",
-        "Mei",
-        "* 小美（Mei）對札莉雅的剋制取決於雙方的操作。如果冰牆（Ice Wall）將札莉雅與她的隊伍隔開，這幾乎保證能完成擊殺，或者至少能用一個冷卻技能換掉札莉雅的兩個屏障以及大量輔助的技能。冰霜噴射器（Endothermic Blaster）的緩速效果對於沒有屏障可用的札莉雅來說是極大的懲罰。對小美而言的風險在於，如果冰牆施放失誤，札莉雅的近距離傷害將遠超小美的近距離主要攻擊。",
-        "Baptiste",
-        "* 面對札莉雅足以扭轉戰局的絕招，巴帝斯特（Baptiste）只需將維生力場（Immortality Field）放置在轉角處，就能保住全隊的性命。巴帝斯特的遠程消耗傷害也足以逼出札莉雅的屏障。當你為試圖進攻巴帝斯特的隊友施放屏障時，由於他擁有眾多生存工具，他很可能不會被擊敗，而你則會損失一個屏障。"
+        "![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)拉瑪塔",
+        "* 無論 ![](/data/assets/guide/acd524155a25802e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcharge.png)札莉雅的 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)能量（Charge）有多高，只要有 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援（Supports）在治療拉瑪塔，他在格擋時就不會被擊殺。![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅也很難從拉瑪塔身上獲取能量，因為他可以輕易地在屏障（bubbles）期間使用護盾或格擋。憑藉 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）的速度加成以及渦流（Vortex）的緩速效果，當 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅試圖在屏障冷卻間隙撤退到掩體後方時，拉瑪塔可以輕鬆追擊。",
+        "![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女",
+        "* ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅對於厲害的 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女完全沒有反制手段。顯然，![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅無法在遠距離擊殺奪命女，且 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅也無法可靠地協助隊友在奪命女的威脅下存活。",
+        "![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美",
+        "* ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美對 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的剋制取決於誰的操作更勝一籌。如果 ![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）將 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅與她的隊伍隔開，這幾乎保證能完成擊殺，或者至少能用你的一個冷卻技能換掉對方的兩個屏障，以及 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援（Supports）大量技能。![](/data/assets/guide/6f0829d84c10e9e2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fendothermic-blaster.png)吸熱噴射槍（Endothermic Blaster）的緩速效果對於沒有自我屏障可用的 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅來說是極強的懲罰。對 ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美而言，危險在於如果她的 ![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）施放失誤，![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的近距離傷害將遠超 ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美的近距離主要攻擊。",
+        "![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特",
+        "* 面對 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅足以贏下會戰的絕招，只需在轉角處放置一個 ![](/data/assets/guide/3adb743da6c064fe.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fimmortality-field.png)維生力場（Immortality Field）就能保住全隊性命。![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特的遠程消耗傷害也高到足以逼出屏障。當你對試圖進攻敵方 ![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特的隊友施放屏障時，他擁有太多的生存工具，很可能不會被擊敗，而你則會損失一個屏障。"
       ],
-      "content_hash": "cce73569db40",
-      "prompt_version": "v5",
+      "content_hash": "7ed0323519db",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:02.031643Z"
+      "timestamp": "2026-03-20T13:14:29.279118Z"
     },
     "8.2": {
-      "title": "特定英雄反制名稱",
+      "title": "特定英雄剋制名單",
       "description": "",
       "content": [
         "拉瑪塔",
@@ -403,14 +403,14 @@
         "巴帝斯特"
       ],
       "content_hash": "8e36c78e088c",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:03.027191Z"
+      "timestamp": "2026-03-20T13:14:30.409937Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.425638Z"
+    "timestamp": "2026-03-20T13:13:27.562953Z"
   }
 }

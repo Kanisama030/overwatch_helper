@@ -527,8 +527,7 @@
     "specific_counters_82": [
       "winston",
       "genji",
-      "tracer",
-      "sombra"
+      "tracer"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)Sojourn DPS heroes in _Overwatch_. No matter what team composition she is paired with, she can find a way to provide value. There isn't really a team archetype that Sojourn simply will not work with."
@@ -1021,7 +1020,6 @@
     "specific_counters_81": [],
     "specific_counters_82": [
       "doomfist",
-      "ramattra",
       "ana"
     ],
     "team_comp_synergies": [
@@ -1121,9 +1119,9 @@
     "specific_counters_81": [],
     "specific_counters_82": [
       "ana",
+      "dva",
       "orisa",
-      "lifeweaver",
-      "dva"
+      "lifeweaver"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)Roadhog doesn't need much healing since he can heal himself more than any other hero. What he needs is allies who can fill the gaps in his kit. Heroes with long-range damage and those who can contest high ground for him make his life much easier.",
@@ -1626,12 +1624,11 @@
     ],
     "specific_counters_81": [],
     "specific_counters_82": [
-      "pharah",
       "widowmaker",
-      "ashe",
       "hanzo",
+      "ashe",
       "soldier-76",
-      "winston"
+      "sojourn"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)Symmetra has two playstyles. One is to use ![](/data/assets/guide/442047e29c6772ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fteleporter.png)Teleporter to flank and turret bomb the backline. The other is to play with the Tank, build charge, then melt everyone. To maximize the safety and consistency of the dive style, she needs at least one other hero who can dive with her (on their own or by using the TP).",
@@ -2434,7 +2431,8 @@
       "lucio",
       "pharah",
       "sojourn",
-      "orisa"
+      "orisa",
+      "ana"
     ],
     "team_comp_synergies": [
       "Rein plays best in Rush style team comps where the entire team moves together. Other brawl and close range damage heroes like ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)Mei and ![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)Reaper pair strongly with Rein, though he can also benefit from having ranged heroes and flankers on his team to make up for his weaknesses.",
@@ -3815,8 +3813,8 @@
       "widowmaker",
       "hanzo",
       "ashe",
-      "soldier-76",
-      "sojourn"
+      "sojourn",
+      "soldier-76"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)Torbjörn is a great backline protector when he sets up ![](/data/assets/guide/5a281b66a6179e54.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeploy-turret.png)Deploy Turret behind his Supports. Supports like ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana, ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)Zenyatta and ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)Mizuki who bring high value to your team, but also struggle against flankers are good choices.",

@@ -6,279 +6,279 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "身為橋本組的年輕成員，瑞稀（Mizuki）加入了英雄陣容，協助「黑爪」滲透位於坎澤卡的「妖怪」。雖然外界擔心他可能會在忠誠度之間陷入兩難，但他那不容忽視的實力卻是有目共睹的。",
-        "與其他支援型英雄相比，瑞稀（Mizuki）傾向於採取積極的打法與站位。保持在主戰場的近距離位置能讓他造成更多傷害，進而為他的治療能力充能。",
-        "當戰況變得過於危險時，他可以使用束縛鎖鏈（Binding Chain）來阻擋攻擊者，利用傳送（teleport）逃脫，並啟動自我治療（self-healing）。瑞稀（Mizuki）具備了英雄掌控戰局、發揮關鍵影響力並帶領隊伍獲勝所需的一切手段。"
+        "作為橋本組的年輕成員，![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）加入了英雄陣容，他協助「利爪」組織滲透位於鐘坂的「妖鬼」。儘管外界擔心他可能會陷入忠誠兩難的困境，但他的實力絕對不容小覷。",
+        "與其他輔助英雄相比，![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）傾向於採取激進的玩法與站位。保持在主戰場附近能讓他造成更多傷害，進而為他的治療能力充能。",
+        "當戰況變得過於危險時，他可以使用 ![](/data/assets/guide/61a533467bf9f01d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbinding-chain.png)束縛之鏈（Binding Chain）來牽制攻擊者，並透過傳送技能脫身，同時啟動自我治療。瑞稀（Mizuki）具備了英雄掌控比賽局勢、創造關鍵表現並帶領隊伍獲勝所需的一切工具。"
       ],
-      "content_hash": "c3aa73d2aed6",
-      "prompt_version": "v5",
+      "content_hash": "81f54d073b7d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:00.423393Z"
+      "timestamp": "2026-03-20T13:01:58.857887Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
         "* 優先採取進攻。你造成的傷害越高，治療量就越高。",
-        "* 保留束縛鎖鏈（Binding Chain）來對付繞過你方坦克的敵人。將他們困住並確保擊殺。",
-        "* 使用結界聖域（Kekkai Sanctuary）來保護並治療你的隊伍，同時反制如索潔恩（Sojourn）的超頻（Overclock）這類投射物絕招。"
+        "* 保留 ![](/data/assets/guide/61a533467bf9f01d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbinding-chain.png)束縛之鏈（Binding Chain）來對付繞過你方坦克的敵人。將他們困住並確保擊殺。",
+        "* 使用 ![](/data/assets/guide/d94973157497aac1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkekkai-sanctuary.png)結界聖域（Kekkai Sanctuary）來保護並治療你的隊伍，並用來反制如索潔恩的超頻（Overclock）這類投射物絕招。"
       ],
-      "content_hash": "f69f792a3c31",
-      "prompt_version": "v5",
+      "content_hash": "1f1da67b84d5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:02.635820Z"
+      "timestamp": "2026-03-20T13:02:00.657347Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 保持在他的有效射程之外。他的技能屬於近至中距離，因此請在讓他無法反擊的距離進行攻擊。",
-        "* 他的單體治療量較低；即使他在嘗試治療隊友，你依然可以透過爆發傷害擊殺目標。",
+        "* 保持在他的有效射程之外。他的技能屬於近至中距離，因此請在無法讓他反擊的距離進行攻擊。",
+        "* 他的單體治療量較低；即使他試圖治療隊友，你依然可以透過爆發傷害將其擊殺。",
         "* 進入他的絕招範圍內並強迫敵方隊伍離開。如果你擁有近戰或光束類技能，你可以穿透聖域（Sanctuary）的牆壁。"
       ],
       "content_hash": "e0d815b110dd",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:04.603401Z"
+      "timestamp": "2026-03-20T13:02:02.258837Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
         "* 被動治療（Passive healing）",
-        "* 強大的控場（Good CC）",
+        "* 優秀的控場（Good CC）",
         "* 進攻型工具（Aggressive Tools）",
         "* 絕招限制（Ultimate limitations）",
-        "* 需要集結（Needs to group）",
+        "* 需要集結隊友（Needs to group）",
         "* 射程有限（Limited range）"
       ],
       "content_hash": "5ff4cde85fe5",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:05.670376Z"
+      "timestamp": "2026-03-20T13:02:04.034642Z"
     },
     "3.1.1": {
       "title": "被動治療",
       "description": "",
       "content": [
-        "被動治療（Passive healing）讓瑞稀（Mizuki）能夠專注於造成傷害並確保擊殺。在每一場比賽中，他都應該成為隊伍強大的傷害來源。"
+        "被動治療讓 ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀能夠專注於造成傷害並確保擊殺。在每一場比賽中，他都應該成為隊伍強大的傷害輸出來源。"
       ],
-      "content_hash": "170cfb2858f1",
-      "prompt_version": "v5",
+      "content_hash": "c9893a33c84b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:07.255115Z"
+      "timestamp": "2026-03-20T13:02:05.413912Z"
     },
     "3.1.2": {
       "title": "優秀的控場能力",
       "description": "",
       "content": [
-        "束縛鎖鏈（Binding Chain）擁有強大的控場能力。這項技能就像是閃光彈（Flashbang）與鞭擊（Whip Shot）的結合體。只要成功束縛住任何側襲者（Flanker），你的隊伍就能順利擊殺目標，除非敵方隊伍使用了高價值的防禦性輔助技能，例如生命之握（Life Grip）或屏障產生器（Barrier Projector）。"
+        "具備強大的控場能力，如 ![](/data/assets/guide/61a533467bf9f01d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbinding-chain.png)束縛鎖鏈（Binding Chain）。這就像是將 ![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang）與 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星擊（Whip Shot）結合在一起的技能。只要成功牽制住任何側襲者（Flanker），就能讓隊伍順利擊殺目標，除非敵方隊伍使用了高價值的防禦性輔助技能，例如 ![](/data/assets/guide/70bdaf439d6cdcdd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flife-grip.png)生命之握（Life Grip）或 ![](/data/assets/guide/3320e3b9cbd5d84c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-projector.png)屏障力場（Barrier Projector）。"
       ],
-      "content_hash": "f20a529537c0",
-      "prompt_version": "v5",
+      "content_hash": "a88e0a42c4b7",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:09.138802Z"
+      "timestamp": "2026-03-20T13:02:07.277896Z"
     },
     "3.1.3": {
       "title": "侵略性本質",
       "description": "",
       "content": [
-        "能夠以侵略性的方式進行遊玩與站位，並擁有足以進行決鬥以及維持自身生存的手段。紙代歸還（Katashiro Return）的設計初衷正是為了讓玩家能夠切入戰場、發動攻擊，並全身而退。"
+        "能夠以侵略性的方式進行遊玩與站位，並擁有足以進行決鬥以及維持自身生存的手段。![](/data/assets/guide/7117e6d46ab75604.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkatashiro-return.png)紙代回歸（Katashiro Return）的設計初衷，就是為了能讓玩家切入戰場、發動攻擊，並能全身而退。"
       ],
-      "content_hash": "ce492c3f2001",
-      "prompt_version": "v5",
+      "content_hash": "3a5f88bf4c3d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:10.836832Z"
+      "timestamp": "2026-03-20T13:02:08.739098Z"
     },
     "3.2.1": {
       "title": "絕招僅對投射物有效",
       "description": "",
       "content": [
-        "結界聖域（Kekkai Sanctuary）僅對投射物消耗型陣容有效。面對側襲者（Flanker）和近戰英雄時較為弱勢。此外，與其他類似的防禦型絕招相比，它提供的續航能力也較低。"
+        "![](/data/assets/guide/d94973157497aac1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkekkai-sanctuary.png)結界聖域（Kekkai Sanctuary）僅對投射物消耗型隊伍有效。面對側襲者（Flanker）與近戰英雄時較為弱勢。此外，與其他類似的防禦型絕招相比，它所提供的續航能力也較低。"
       ],
-      "content_hash": "dad622faf61e",
-      "prompt_version": "v5",
+      "content_hash": "5fd834401f4d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:12.682711Z"
+      "timestamp": "2026-03-20T13:02:10.358205Z"
     },
     "3.2.2": {
-      "title": "需要與隊伍保持緊密配合",
+      "title": "需要與隊伍保持緊密",
       "description": "",
       "content": [
-        "必須保持在隊友附近，才能受惠於範圍治療（AoE healing）。然而，有限的移動能力使得他難以跟上高機動性的隊友。",
-        "如果附近沒有隊友或隊友不在他的視線範圍（LoS）內，他就無法使用治療傘（Healing Kasa）來治療自己。"
+        "必須保持在盟友附近的位置，才能受惠於範圍治療（AoE healing）。然而，有限的移動能力使得他難以跟上高機動性的盟友。",
+        "如果附近沒有盟友或不在他的視野（LoS）內，他就無法使用 ![](/data/assets/guide/215ca01bdeb99fbb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-kasa.png) 治療傘（Healing Kasa）來治療自己。"
       ],
-      "content_hash": "3ec081e9c789",
-      "prompt_version": "v5",
+      "content_hash": "eb171686c61d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:14.263569Z"
+      "timestamp": "2026-03-20T13:02:12.117250Z"
     },
     "3.2.3": {
       "title": "有限射程",
       "description": "",
       "content": [
-        "有限的射程加上低機動性，意味著他隨時都可能暴露在敵隊的激進攻勢之下。此外，他對於飛行單位的反制手段也相當有限。"
+        "有限的射程加上低機動性，意味著他隨時都容易受到敵方隊伍激進攻勢的威脅。此外，他對於飛行單位的反制手段也相當有限。"
       ],
       "content_hash": "cc7915792d3f",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:15.819255Z"
+      "timestamp": "2026-03-20T13:02:13.366733Z"
     },
     "4.1": {
-      "title": "主要攻擊：靈魂戰刃（Spirit Glaive）",
+      "title": "主要攻擊：靈魂飛刃（Spirit Glaive）",
       "description": "",
       "content": [
-        "關於靈魂戰刃（Spirit Glaive）的技巧：",
-        "* 射程有限，但沒有反彈次數限制。利用反彈攻擊房間內或轉角後的敵人。能打到敵人但敵人打不到你的位置，是使用靈魂戰刃（Spirit Glaive）的理想位置。",
-        "* 所有命中皆會造成衝擊傷害與持續性傷害。",
-        "* 衝擊傷害可以造成暴擊。"
+        "![](/data/assets/guide/59870a8e73620945.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspirit-glaive.png)靈魂飛刃（Spirit Glaive）的使用技巧",
+        "* 射程有限，但沒有反彈次數限制。利用反彈攻擊房間內或轉角處的敵人。能夠擊中敵人但敵人無法反擊的位置，是使用 ![](/data/assets/guide/59870a8e73620945.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspirit-glaive.png)靈魂飛刃（Spirit Glaive）的最佳地點。",
+        "* 所有命中皆會造成衝擊傷害與持續傷害。",
+        "* 衝擊傷害可以觸發暴擊。"
       ],
-      "content_hash": "ee148d7fa87a",
-      "prompt_version": "v5",
+      "content_hash": "f9aa5ca71948",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:17.514013Z"
+      "timestamp": "2026-03-20T13:02:15.174975Z"
     },
     "4.2": {
       "title": "次要攻擊：治療笠帽（Healing Kasa）",
       "description": "",
       "content": [
-        "**治療笠帽（Healing Kasa）的使用技巧**",
-        "* **必須選定目標才能使用**。無法單獨使用治療笠帽（Healing Kasa）來進行自我治療。",
-        "* 每次彈跳會遞減治療量。請優先鎖定最需要治療的隊友，並讓你的帽子自動彈跳至附近的隊友身上。",
-        "* 彈跳需要視線（LoS）才能追蹤額外的隊友。如果有牆壁或建築物阻擋路徑，帽子會在未用盡 3 次彈跳的情況下返回瑞稀（Mizuki）身邊。",
-        "* 頻繁使用治療笠帽（Healing Kasa）。盡量讓多名隊友保持在附近，但若只有一名隊友需要治療，也請毫不猶豫地使用。擁有兩次充能且冷卻時間短，不使用它比浪費一次充能更糟糕。",
-        "* 理想情況下，你隨時都希望有一名隊友在你的前方，這樣當你需要使用治療笠帽（Healing Kasa）時，就不必轉身尋找目標。"
+        "**![](/data/assets/guide/215ca01bdeb99fbb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-kasa.png)治療笠帽（Healing Kasa）的使用技巧**",
+        "* **使用時必須選定目標**。無法僅對自己使用治療笠帽（Healing Kasa）來進行自我治療。",
+        "* 每次彈跳的治療量會遞減。請將目標鎖定在最需要治療的隊友身上，讓你的帽子自動彈跳至附近的隊友。",
+        "* 彈跳需要視線（LoS）才能追蹤額外的隊友。如果有牆壁或建築物阻擋路徑，帽子會回到 ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）身邊，而不會消耗完 3 次彈跳次數。",
+        "* 頻繁使用 ![](/data/assets/guide/215ca01bdeb99fbb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-kasa.png)治療笠帽（Healing Kasa）。盡量讓多名隊友保持在附近，但即使只有一名隊友需要治療，也不要猶豫，直接使用它。擁有兩次充能且冷卻時間短，不使用它比浪費一次充能更糟糕。",
+        "* 理想情況下，你應該隨時讓一名隊友保持在你的前方，這樣當你需要使用 ![](/data/assets/guide/215ca01bdeb99fbb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-kasa.png)治療笠帽（Healing Kasa）時，就不必轉身尋找目標。"
       ],
-      "content_hash": "0d5a62a9ca4b",
-      "prompt_version": "v5",
+      "content_hash": "ef13e932ca88",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:19.874669Z"
+      "timestamp": "2026-03-20T13:02:17.997314Z"
     },
     "4.3": {
-      "title": "[SHIFT]：片代回歸（Katashiro Return）",
+      "title": "[SHIFT]：形代回歸（Katashiro Return）",
       "description": "",
       "content": [
-        "**片代回歸（Katashiro Return）的使用技巧**",
-        "* 進出式突襲。片代回歸（Katashiro Return）的主要用途是與隊友發起激進的進攻，然後在計時結束前傳送回安全位置。",
-        "* 擁有 4.5 秒的時間可以進行傳送，在啟動回歸傳送時會進入無敵狀態。",
-        "* 請記住，敵人可以看到人偶，他們可能會守株待兔，等你傳送回來時將你擊殺。如果你將人偶留在敵人附近，請不要啟動回歸。",
-        "* 如果你利用速度加成進行激進進攻，但隨後遭到暈眩或錯過了回歸傳送的時機，請做好陣亡的心理準備。與其等到最後一秒才行動導致被淘汰，不如提早使用以確保生存。"
+        "![](/data/assets/guide/7117e6d46ab75604.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkatashiro-return.png)形代回歸（Katashiro Return）的技巧",
+        "* 進出式突襲。![](/data/assets/guide/7117e6d46ab75604.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkatashiro-return.png)形代回歸（Katashiro Return）的主要用途是與盟友發動激進的攻擊，接著在計時結束前傳送回安全地點。",
+        "* 擁有 4.5 秒的時間可以傳送回來，在啟動回歸傳送時會進入無敵狀態。",
+        "* 請記住，敵人可以看到那個玩偶，並可能守株待兔，等你傳送回來時將你擊殺。如果你將玩偶留在敵人附近，請不要啟動回歸。",
+        "* 如果你利用速度加成進行激進攻勢，卻遭到暈眩或錯過了回歸傳送的時機，請做好死亡的心理準備。與其等到最後一秒才傳送卻被擊殺，不如提早使用以確保生存。"
       ],
-      "content_hash": "84b340b48f42",
-      "prompt_version": "v5",
+      "content_hash": "38b90a79b5f4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:22.599325Z"
+      "timestamp": "2026-03-20T13:02:20.132919Z"
     },
     "4.4": {
-      "title": "[E]：束縛鎖鏈（Binding Chain）",
+      "title": "[E]：束縛之鏈（Binding Chain）",
       "description": "",
       "content": [
-        "**束縛鎖鏈（Binding Chain）的使用技巧**",
-        "* 瑞稀（Mizuki）最重要的決鬥工具。請將此技能留給靠近你且執意要擊殺你的敵人。將他們束縛住，你將很有機會贏得決鬥。",
-        "* 此技能會造成妨礙（Hinder）並限制移動技能（例如卡西迪（Cassidy）的榴彈），並透過束縛來限制行動（類似莫加（Mauga）的絕招）。這並非硬控場（Hard stun）；敵人在被束縛時仍可進行攻擊。",
-        "* 會被屏障與格擋技能阻擋。當對上像源氏（Genji）這類能格擋鎖鏈的英雄時，請等到看見他們使用「招架（Deflect）」後再嘗試束縛他們。",
-        "* 與碧姬（Brigitte）的「流星錘（Flail）」類似，這是一種遠程近戰攻擊。這意味著它能穿透防禦矩陣（Defense Matrix）等吸收類技能。",
-        "* 會立即束縛目標下方的地面。",
-        "* 範例：瑞稀（Mizuki）可以對飛越伊利歐斯（Ilios）深井上方的火箭貓（Jetpack Cat）使用束縛鎖鏈（Binding Chain），火箭貓（Jetpack Cat）將會被拉入井中。瑞稀（Mizuki）即可獲得一次地形擊殺。"
+        "**![](/data/assets/guide/61a533467bf9f01d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbinding-chain.png)束縛之鏈（Binding Chain）的使用技巧**",
+        "* ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）最重要的決鬥工具。請將此技能留給那些靠近你並執意要擊殺你的敵人。將他們束縛住，你將更有可能贏得決鬥。",
+        "* 此技能會造成妨礙並阻止位移技能（例如![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪（Cassidy）的手榴彈），並透過束縛限制行動（例如![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加（Mauga）的絕招）。這並非硬控場；敵人被束縛時仍可進行攻擊。",
+        "* 會被屏障和反彈技能阻擋。當面對像![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏（Genji）這類能格擋鏈條的英雄時，請等到看見他們使用「閃」之後，再嘗試將其束縛。",
+        "* * 與碧姬（Brigitte）的流星錘類似，這是一種遠程近戰攻擊。這意味著它能穿透防禦矩陣（Defense Matrix）等吸收類技能。",
+        "* 會立即將目標束縛至其腳下的地面。",
+        "* * 範例：![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）可以對飛越伊利歐斯（Ilios）水井的火箭貓（Jetpack Cat）使用束縛之鏈，火箭貓（Jetpack Cat）將會被拉入井中。![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）即可獲得一次地形擊殺。"
       ],
-      "content_hash": "31956e78cb87",
-      "prompt_version": "v5",
+      "content_hash": "ee091f05ad82",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:24.639722Z"
+      "timestamp": "2026-03-20T13:02:23.239419Z"
     },
     "4.5": {
       "title": "絕招：結界聖域（Kekkai Sanctuary）",
       "description": "",
       "content": [
-        "關於結界聖域（Kekkai Sanctuary）的提示：",
-        "* 這不是一道屏障。這些牆壁的功能與 D.Va 的防禦矩陣（Defense Matrix）相同，可以阻擋所有投射物。",
-        "* 無法阻擋以下內容：",
-        "* 射線（Beams）",
+        "**![](/data/assets/guide/d94973157497aac1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkekkai-sanctuary.png)結界聖域（Kekkai Sanctuary）使用技巧**",
+        "* 這不是屏障。牆壁的功能與 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 的 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）相同。會阻擋所有投射物。",
+        "* 不會阻擋：",
+        "* * 光束（Beams）",
         "* 近戰攻擊（Melee）",
-        "* 衝擊波（Shockwaves）（如地裂擊（Earth Shatter）、D.Va 自爆（D.Va Bomb）等）",
-        "* 只有牆壁可以吸收投射物。如果敵人進入結界聖域（Kekkai Sanctuary）內部，他們可以攻擊位於內部的隊友。",
-        "* 在近距離使用時，請保持在邊緣附近以便進行「護盾舞（shield dance）」，並將敵人保持在屏障的另一側，這樣他們就無法攻擊到你。"
+        "* 衝擊波（Shockwaves）（例如：地裂擊（Earth Shatter）、D.Va 自爆（D.Va Bomb）等）",
+        "* 只有牆壁能吸收投射物。如果敵人進入 ![](/data/assets/guide/d94973157497aac1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkekkai-sanctuary.png)結界聖域（Kekkai Sanctuary）內部，他們可以攻擊位於內部的隊友。",
+        "* 在近距離使用時，請待在邊緣附近以便進行「護盾舞步（shield dance）」，並將敵人保持在屏障與你相對的另一側，這樣他們就無法攻擊到你。"
       ],
-      "content_hash": "3295f7da9a41",
-      "prompt_version": "v5",
+      "content_hash": "fce980fb12c6",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:26.488806Z"
+      "timestamp": "2026-03-20T13:02:25.706079Z"
     },
     "4.6": {
       "title": "被動技能：療癒光環（Remedy Aura）",
       "description": "",
       "content": [
-        "關於療癒光環（Remedy Aura）的技巧：",
-        "* 基礎範圍治療量極低，自身僅有 3.5，隊友則為 5。造成傷害是獲取光環充能最快的方式（包括對部署物造成傷害）。治療技能也能為光環充能。",
-        "* 保持高充能對於累積絕招能量至關重要。儘管每秒最大治療量為 20，但當你與隊伍集結並同時治療多名隊友時，治療量會迅速累積。",
-        "* 這也是為什麼瑞稀（Mizuki）需要採取進攻性打法的原因。他造成的傷害越多，就能越頻繁地被動治療隊友。"
+        "關於 ![](/data/assets/guide/097b3464b14cd331.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fremedy-aura.png)療癒光環（Remedy Aura）的提示",
+        "* 基礎範圍治療量極低，自身為 3.5，隊友為 5。造成傷害是獲取光環充能最快的方式（包含對部署物造成傷害）。治療技能也會為光環充能。",
+        "* 保持高充能對於累積絕招能量至關重要。雖然每秒最高治療量為 20，但當你與隊伍集結並同時治療多名隊友時，治療量會迅速累積。",
+        "* 這也是為什麼 ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）需要採取進攻性打法的原因。他造成的傷害越多，就能為隊伍提供越多的被動治療。"
       ],
-      "content_hash": "e24979aa690c",
-      "prompt_version": "v5",
+      "content_hash": "f0e1a90128a5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:28.079952Z"
+      "timestamp": "2026-03-20T13:02:27.889429Z"
     },
     "5.1.1": {
       "title": "湧泉（Wellspring）",
-      "description": "治療光環（Remedy Aura）資源產生速度增加 25%。",
+      "description": "治療光環（Remedy Aura）資源產生速度提升 25%。",
       "content": [
         "* 有助於維持更高的範圍治療量，並在戰鬥中更快地累積資源。",
-        "* 當你的另一位醫護兵（Medic）缺乏範圍治療能力時非常實用。"
+        "* 當你的另一位支援位隊友缺乏範圍治療能力時，此能力非常實用。"
       ],
       "content_hash": "1177561c9294",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:29.562154Z"
+      "timestamp": "2026-03-20T13:02:29.662760Z"
     },
     "5.1.2": {
       "title": "暴露靈魂（Exposed Soul）",
-      "description": "以束縛之鏈（Binding Chain）擊中敵人後，你對該目標造成的傷害會提高 30%，持續 2 秒。",
+      "description": "以束縛之鏈（Binding Chain）擊中敵人後，你在 2 秒內對該目標造成的傷害提高 30%。",
       "content": [
-        "* 考慮到被束縛之鏈（Binding Chain）牽制的敵人仍能對你發動攻擊，盡快將其擊殺至關重要。暴露靈魂（Exposed Soul）有助於將每一次成功的鎖鏈牽制轉化為擊殺。",
+        "* 考慮到被 ![](/data/assets/guide/61a533467bf9f01d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbinding-chain.png)束縛之鏈（Binding Chain）牽制的敵人仍能對你發動攻擊，盡快將其擊殺至關重要。暴露靈魂（Exposed Soul）能協助你將每一次成功的連鎖轉化為擊殺（KO）。",
         "* 最適合用於單挑以及反制敵方的側襲者（Flanker）突擊。"
       ],
-      "content_hash": "eaff74bd07ac",
-      "prompt_version": "v5",
+      "content_hash": "1b2c74164be7",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:31.254953Z"
+      "timestamp": "2026-03-20T13:02:31.378922Z"
     },
     "5.2.1": {
       "title": "共鳴回歸（Resonant Return）",
       "description": "治療卡薩（Healing Kasa）會額外彈跳一次。每次彈跳會使其治療量增加 10。",
       "content": [
-        "* 為了最大化額外彈跳的效益，請嘗試在隊友站位緊密時使用治療卡薩（Healing Kasa）。",
-        "* 非常適合用於提升防禦能力。",
+        "* 為了最大化額外彈跳的效益，請嘗試在隊友站位較為密集時使用治療卡薩（Healing Kasa）。",
+        "* 對於提升防禦能力很有幫助。",
         "* 當你需要擔任隊伍的主要續戰力來源時效果最佳。"
       ],
       "content_hash": "e3f0ff5f8802",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:33.159506Z"
+      "timestamp": "2026-03-20T13:02:33.080646Z"
     },
     "5.2.2": {
-      "title": "迅捷步伐（Quickstep）",
-      "description": "當「紙代回歸（Katashiro Return）」啟動時，位於「治療光環（Remedy Aura）」範圍內的盟友移動速度提升 25%。",
+      "title": "迅步（Quickstep）",
+      "description": "當式神回歸（Katashiro Return）啟動時，治療光環（Remedy Aura）範圍內的盟友移動速度提升 25%。",
       "content": [
-        "* 最適合用於衝鋒與機動陣容，因為它能讓隊伍進行極具侵略性的開戰。",
-        "* 這與路西歐的速度光環類似，透過語音聊天（VC）、標記系統或像是「3-2-1」這樣的語音指令與隊友溝通，對於協調特殊能力（ability）的施放時機至關重要。",
-        "* 加速效果的持續時間很短，因此如果隊友能提前做好準備，而非等到發現速度光環啟動後才做出反應，將能獲得更大的效益。"
+        "* 最適合用於衝鋒與機動陣容，因為它能讓隊伍進行超侵略性的前鋒（Initiator）開戰。",
+        "* 與路西歐（Lúcio）的速度光環類似，透過語音聊天（VC）、標記系統或像是「3-2-1」之類的語音指令與隊伍溝通，對於協調特殊能力（perks）的施放時機至關重要。",
+        "* 加速效果的持續時間很短，因此如果隊伍能提前做好準備，而不是等到發現速度光環啟動後才做出反應，將能獲得更大的效益。"
       ],
       "content_hash": "c4b00ac7e427",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:35.281749Z"
+      "timestamp": "2026-03-20T13:02:35.248469Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "鼓勵近距離或混戰的地圖最適合瑞稀（Mizuki）發揮其技能組的全部潛力（例如：綠洲城、薩摩亞、國王大道）。這些地圖不僅有利於與他搭配良好的隊伍陣容，還能讓他透過範圍治療（AoE healing）和彈跳投射物（bouncing projectiles）獲得極大價值。",
-        "長距離地圖（例如：皇家賽道）以及高地地圖（例如：努巴尼）是瑞稀（Mizuki）最難發揮的兩類地圖。只要他能與隊伍保持在一起，他依然能有所貢獻，但與其他英雄相比，他往往會感到處於劣勢。"
+        "鼓勵近距離或混戰的地圖最適合瑞稀（Mizuki）發揮其技能組的全部潛力（例如：綠洲城、薩摩亞、國王大道）。這些地圖不僅有利於他所擅長的隊伍陣容，還能讓他從範圍治療與彈跳拋射物中獲得極大價值。",
+        "長距離地圖（如皇家賽道）以及高地地圖（如努巴尼）是 ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）最難發揮的兩類地圖。只要他能與隊伍保持在一起，他仍能有所表現，但與其他英雄相比，他往往會處於劣勢。"
       ],
-      "content_hash": "df2556955998",
-      "prompt_version": "v5",
+      "content_hash": "b3e4435be394",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:37.557426Z"
+      "timestamp": "2026-03-20T13:02:37.611706Z"
     },
     "6.1.1": {
       "title": "綠洲城",
@@ -287,9 +287,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:38.831872Z"
+      "timestamp": "2026-03-20T13:02:38.869405Z"
     },
     "6.1.2": {
       "title": "薩摩亞",
@@ -298,9 +298,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:40.148884Z"
+      "timestamp": "2026-03-20T13:02:40.248389Z"
     },
     "6.1.3": {
       "title": "國王大道",
@@ -309,20 +309,20 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:41.074441Z"
+      "timestamp": "2026-03-20T13:02:41.618475Z"
     },
     "6.2.1": {
       "title": "皇家賽道",
       "description": "",
       "content": [
-        "人工智慧生成"
+        "AI 生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:42.224818Z"
+      "timestamp": "2026-03-20T13:02:42.862006Z"
     },
     "6.2.2": {
       "title": "努巴尼",
@@ -331,39 +331,39 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:43.639248Z"
+      "timestamp": "2026-03-20T13:02:44.323164Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "瑞稀（Mizuki）擁有混合型的技能組，能夠適應多種隊伍陣容風格。理想情況下，他適合搭配衝鋒陣容，利用「片代回歸（Katashiro Return）」與像垃圾鎮女王（Junker Queen）這樣的坦克一同激進推進，隨後再傳送回安全位置。",
-        "將他與擁有高爆發治療能力的支援型英雄（如安娜（Ana））搭配，能組成強大的後排。他們可以利用「束縛之鏈（Binding Chain）」和「睡眠鏢（Sleep Dart）」來保護彼此，同時安娜（Ana）的爆發治療與「生化手榴彈（Biotic Grenade）」能確保隊伍其餘成員的生存。"
+        "![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）擁有混合型的技能組，能夠適應多種隊伍陣容風格。理想情況下，他適合搭配衝鋒陣容，利用 ![](/data/assets/guide/7117e6d46ab75604.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkatashiro-return.png)紙代歸還（Katashiro Return）與像 ![](/data/assets/guide/452c9a51fb58d39d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunker-queen.png)垃圾鎮女王（Junker Queen）這樣的坦克一同激進推進，隨後傳送回安全位置。",
+        "將他與具備高爆發治療能力的輔助搭配，例如 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜（Ana），能組成強大的後排。他們可以使用 ![](/data/assets/guide/61a533467bf9f01d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbinding-chain.png)束縛之鏈（Binding Chain）與 ![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢（Sleep Dart）來保護自己，同時安娜的爆發治療與 ![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)生化手榴彈（Biotic Grenade）能確保隊伍其餘成員的生存。"
       ],
-      "content_hash": "22a3cca35b02",
-      "prompt_version": "v5",
+      "content_hash": "3dff927b8920",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:46.217153Z"
+      "timestamp": "2026-03-20T13:02:46.582546Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "反制瑞稀（Mizuki）的最佳方式是留意他的「紙代歸還（Katashiro Return）」動畫，迅速從他身邊繞過並找出他的玩偶。如果他傳送回玩偶處，你就能將其擊殺。如果他知道自己無法傳送回去，那麼他很可能已經過度深入，此時他對你的隊伍來說將非常脆弱。",
-        "作為通用策略，請記住他的治療效果在造成傷害時最為顯著。如果可能的話，請在他主要攻擊範圍外進行交戰，並在他難以維持隊友生命值時，逐步削減敵方隊伍的生命值。",
-        "在他施放絕招期間，要麼全力進攻，要麼撤退。當你的隊伍擁有近戰英雄時，可以採取侵略性打法，直接在治療效果下將其擊殺。如果你的隊伍主要以投射物英雄為主，最好等待 7 秒的持續時間結束後，再重新投入戰鬥。"
+        "反制 ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）的最佳方式，就是留意他的 ![](/data/assets/guide/7117e6d46ab75604.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkatashiro-return.png)紙代歸還（Katashiro Return）動畫，從他身邊快速通過並找出他的玩偶。如果他傳送回玩偶處，你就能將其擊殺。如果他知道自己無法傳送回去，那他很可能已經過度深入，這時他對你的隊伍其餘成員來說將非常脆弱。",
+        "作為通用策略，請記住他的治療效果在造成傷害時最為顯著。如果可能的話，請在他的主要攻擊範圍外進行交戰，並在他難以維持隊友生命值時，逐步削減敵方隊伍的生命值。",
+        "在他施放絕招期間，要嘛全力進攻，要嘛撤退。當你的隊伍擁有近戰英雄時，請採取侵略性打法，這樣你們就能在治療效果下完成擊殺。如果你的隊伍主要以投射物英雄為主，最好等待 7 秒的持續時間結束後，再重新投入戰鬥。"
       ],
-      "content_hash": "24265cfc65c1",
-      "prompt_version": "v5",
+      "content_hash": "6cce8f30051d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:27:49.275508Z"
+      "timestamp": "2026-03-20T13:02:49.529897Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.606720Z"
+    "timestamp": "2026-03-20T13:17:39.249167Z"
   }
 }

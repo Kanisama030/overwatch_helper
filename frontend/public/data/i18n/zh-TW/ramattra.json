@@ -6,359 +6,359 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "拉瑪塔（Ramattra）擁有兩套截然不同的技能組，這使他具備極高的適應力，能有效應對幾乎任何隊伍陣容。在智械型態（Omnic Form）下，拉瑪塔的射程優於大多數戰士（Bruiser），而透過虛空加速器（Void Accelerator）（智械型態），他的遠程傷害對敵方後排構成了巨大威脅。",
-        "他力量的核心在於復仇型態（Nemesis Form），在此型態下他會獲得額外護甲，並能使用重拳（Pummel）（復仇型態）——這是一種能穿透屏障且威力強大的近戰投射物。他的玩法核心在於利用智械型態削減敵人的生命值與資源，接著在敵人最脆弱時切換至復仇型態進行衝鋒。如果敵方隊伍缺乏暈眩或擊退技能，殲滅（Annihilation）往往能成為扭轉戰局的絕招。"
+        "擁有一名英雄同時具備兩套獨立的技能組，使 ![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)拉瑪塔（Ramattra）具備高度的適應性，能有效應對幾乎任何隊伍陣容。在智械型態（Omnic Form）下，拉瑪塔能以射程優勢壓制多數 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)戰士（Tanks），且透過 ![](/data/assets/guide/247e18e131793da8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvoid-accelerator-omnic-form.png)虛空加速器（Void Accelerator）（智械型態），他的遠程傷害對敵方後排構成極大威脅。",
+        "他力量的核心在於 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form），在此型態下他會獲得額外護甲，並能使用 ![](/data/assets/guide/c1e40f427ae57001.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpummel-nemesis-form.png)重拳（Pummel）（復仇型態）——這是一種能穿透屏障的高傷害近戰投射物。他的遊玩風格圍繞在於智械型態下消耗敵方的生命值與資源，接著在敵方最脆弱時變身為復仇型態發動突擊。如果敵方隊伍缺乏暈眩或擊退技能，![](/data/assets/guide/de397de5fd8f936e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fannihilation.png)殲滅（Annihilation）往往是能左右戰局的絕招。"
       ],
-      "content_hash": "90f90fcb505e",
-      "prompt_version": "v5",
+      "content_hash": "ae386403d2f1",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:14.540953Z"
+      "timestamp": "2026-03-20T13:22:50.035547Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 復仇型態（Nemesis Form）是你的核心力量來源。它能賦予你侵略性與生存能力。請務必在敵人進入重擊（Pummel）（復仇型態）的攻擊範圍內時再開啟。",
-        "* 將飢餓漩渦（Ravenous Vortex）保留給復仇型態使用，以緩速敵人並防止他們逃脫。",
-        "* 在復仇型態結束後立即開啟殲滅（Annihilation），以最大化你的生存能力以及復仇型態的持續時間。"
+        "* ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）是你的核心力量，它能強化你的進攻能力與生存力。請務必等到敵人進入 ![](/data/assets/guide/c1e40f427ae57001.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpummel-nemesis-form.png)重擊（Pummel，復仇型態）的攻擊範圍內再開啟。",
+        "* 請保留 ![](/data/assets/guide/4430a4dc25f88f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fravenous-vortex.png)飢餓漩渦（Ravenous Vortex）配合 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）使用，以緩速敵人並防止他們逃脫。",
+        "* 在復仇型態結束後立即啟動 ![](/data/assets/guide/de397de5fd8f936e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fannihilation.png)殲滅（Annihilation），以最大化你的生存能力並延長復仇型態的持續時間。"
       ],
-      "content_hash": "97e0e2e9aa18",
-      "prompt_version": "v5",
+      "content_hash": "cecccd25b67e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:16.204029Z"
+      "timestamp": "2026-03-20T13:22:51.948599Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 拉瑪塔（Ramattra）在智械型態下坦度較低，威脅性也較小。當「復仇心切（Nemesis Form）」結束後，就是你發動攻勢的絕佳時機。",
-        "* 避開他的絕招視線（LoS）可以快速終結該技能。只要中斷「殲滅（Annihilation）」的範圍效果（AoE）累計達 3 秒，該技能就會立即取消。",
-        "* 如果拉瑪塔正朝你走來，請提防他使用「能量漩渦（Ravenous Vortex）」。在他投擲該技能前，請先利用位移技能或掩體進行防備。"
+        "* ![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)拉瑪塔在智械型態下較不耐打，威脅性也較低。當復仇型態結束後，就是你發動攻勢的最佳時機。",
+        "* 阻斷他的絕招視野（LoS）可以快速終結該技能。只要讓 ![](/data/assets/guide/de397de5fd8f936e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fannihilation.png)殲滅（Annihilation）的範圍傷害效果中斷累計 3 秒，該技能就會立即取消。",
+        "* 如果拉瑪塔正朝你走來，請提防他的渦流（Vortex）。在他投擲該技能前，請利用位移技能或掩體進行防備。"
       ],
-      "content_hash": "cf5f02b9eb43",
-      "prompt_version": "v5",
+      "content_hash": "b966358c4434",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:19.498672Z"
+      "timestamp": "2026-03-20T13:22:53.924323Z"
     },
     "2": {
-      "title": "優勢與劣勢總結",
+      "title": "優缺點總結",
       "description": "",
       "content": [
         "* 高生存率",
-        "* 優秀的衝鋒能力（Good rush）",
+        "* 優異的衝鋒能力",
         "* 混合（Hybrid）英雄",
-        "* 明顯的冷卻時間循環（Cooldown rotation）",
-        "* 被控場技能（CC）克制",
-        "* 巨大的受擊判定範圍（Huge Hurtbox）"
+        "* 明顯的冷卻時間循環",
+        "* 被控場（CC）技能剋制",
+        "* 巨大的受擊判定範圍（Hurtbox）"
       ],
       "content_hash": "469ba7296b9b",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:21.216905Z"
+      "timestamp": "2026-03-20T13:22:55.375300Z"
     },
     "3.1.1": {
       "title": "高生存能力",
       "description": "",
       "content": [
-        "拉瑪塔（Ramattra）在啟動復仇型態（Nemesis Form）時會獲得 300 點額外護甲，這也包含在他的絕招期間。他可以在整個復仇型態持續期間進行格擋，並在智械型態（Omnic Form）下部署一個高生命值的屏障。綜合這些能力，使他具備卓越的耐戰力與強大的拖延潛力。"
+        "![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)拉瑪塔（Ramattra）在啟動 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）時會獲得 300 點額外護甲，這也包含在他的絕招期間。他可以在整個復仇型態持續期間進行格擋，並在智械型態（Omnic Form）下部署一個高生命值的屏障。綜合這些能力，使他具備卓越的耐戰力與強大的拖延潛力。"
       ],
-      "content_hash": "5948f526f6c9",
-      "prompt_version": "v5",
+      "content_hash": "d94cb717078a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:25.273615Z"
+      "timestamp": "2026-03-20T13:22:57.303866Z"
     },
     "3.1.2": {
-      "title": "擅長強攻",
+      "title": "擅長突進壓制",
       "description": "",
       "content": [
-        "復仇型態（Nemesis Form）會賦予額外的移動速度，而貪婪漩渦（Ravenous Vortex）則能施加緩速效果，讓拉瑪塔（Ramattra）能夠有效地強攻目標。一旦拉近距離，重拳（Pummel）的穿透護盾傷害便能確保擊殺。"
+        "![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）會賦予額外移動速度，而 ![](/data/assets/guide/4430a4dc25f88f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fravenous-vortex.png)飢餓漩渦（Ravenous Vortex）則能施加緩速效果，讓拉瑪塔（Ramattra）能夠有效地突進並壓制目標。當他拉近距離後，重拳（Pummel）的穿透護盾傷害能確保擊殺。"
       ],
-      "content_hash": "021ecff073ad",
-      "prompt_version": "v5",
+      "content_hash": "590397e82523",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:26.706776Z"
+      "timestamp": "2026-03-20T13:22:59.239947Z"
     },
     "3.1.3": {
-      "title": "多功能混合型配置",
+      "title": "多功能的混合型配置",
       "description": "",
       "content": [
-        "拉瑪塔（Ramattra）可以在鬥陣（brawl）、衝鋒（rush）以及消耗（poke）陣容中發揮作用。智械型態（Omnic Form）能透過遠程傷害對高台和後排造成壓力，而復仇型態（Nemesis Form）則能勝任前線的近身肉搏。"
+        "![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)拉瑪塔（Ramattra）可以在鬥毆（brawl）、衝鋒（rush）和消耗（poke）陣容中發揮作用。智械型態（Omnic Form）能以遠程傷害對高台和後排造成壓力，而 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）則能進行前線鬥毆。"
       ],
-      "content_hash": "2f7957778854",
-      "prompt_version": "v5",
+      "content_hash": "418f98a36ff2",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:28.382947Z"
+      "timestamp": "2026-03-20T13:23:01.093436Z"
     },
     "3.2.1": {
       "title": "明顯的冷卻時間循環",
       "description": "",
       "content": [
-        "拉瑪塔（Ramattra）使用復仇型態（Nemesis Form）的時機往往顯得非常可預測，且容易被對手針對。當敵方擁有足夠的機動性來風箏復仇型態時，拉瑪塔將難以替隊伍創造價值。"
+        "拉瑪塔（Ramattra）使用 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png) 復仇型態（Nemesis Form）的時機往往顯得非常可預測，且容易被對手針對。當敵方擁有足夠的機動性來風箏復仇型態時，拉瑪塔將難以替隊伍創造價值。"
       ],
-      "content_hash": "2fc0af5a8e6a",
-      "prompt_version": "v5",
+      "content_hash": "563500e9aaec",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:29.746237Z"
+      "timestamp": "2026-03-20T13:23:02.731300Z"
     },
     "3.2.2": {
       "title": "被控場技能反制",
       "description": "",
       "content": [
-        "每當拉瑪塔（Ramattra）發動復仇型態（Nemesis Form）時，就像是在身上掛了一個巨大的「快來暈我」招牌。他沒有任何手段可以阻擋像是睡眠鏢（Sleep Dart）或裂地重擊（Shatter）這類暈眩技能。此外，由於重拳（Pummel）（復仇型態）的攻擊距離很短，擊退技能也能同樣有效地壓制復仇型態。"
+        "每當拉瑪塔（Ramattra）開啟復仇型態（Nemesis Form）時，就像是在身上掛了一個巨大的「快來暈我」招牌。他沒有任何手段能阻擋像是 ![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢（Sleep Dart）或裂地重擊（Shatter）這類暈眩效果。此外，由於 ![](/data/assets/guide/c1e40f427ae57001.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpummel-nemesis-form.png)重拳（Pummel）（復仇型態）的攻擊距離很短，擊退技能也能同樣有效地壓制復仇型態。"
       ],
-      "content_hash": "3157bf8cb7f9",
-      "prompt_version": "v5",
+      "content_hash": "0e0bf644a6d2",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:31.535831Z"
+      "timestamp": "2026-03-20T13:23:04.399059Z"
     },
     "3.2.3": {
-      "title": "巨大的受擊判定範圍且防護能力有限",
+      "title": "巨大的受擊判定與極少的護盾",
       "description": "",
       "content": [
-        "雖然拉瑪塔（Ramattra）憑藉著他的格擋（Block）和護甲擁有很高的生存能力，但他也很容易變成敵方的絕招充能包。他龐大的身軀讓弗蕾亞（Freja）和索潔恩（Sojourn）這類英雄能輕易利用他來為自己的武器補充彈藥。其他英雄也能利用他來累積絕招能量。在復仇型態（Nemesis Form）期間，他會成為遠程英雄的活靶子，而智械型態（Omnic Form）則很容易遭到近戰英雄的猛烈攻擊。"
+        "雖然拉瑪塔（Ramattra）憑藉著「格擋（Block）」和護甲擁有極高的生存能力，但他也很容易變成對手的「絕招充能包」。他龐大的身軀讓像是 ![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞（Freja）和 ![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩（Sojourn）這類英雄，能夠利用拉瑪塔來為他們的武器補充彈藥。其他人則可以利用他來快速累積絕招能量。在「復仇女神（Nemesis）」型態下，他會成為遠程英雄的活靶子；而「智械型態（Omnic Form）」則很容易讓近戰英雄發動猛烈攻勢。"
       ],
-      "content_hash": "496c7c5350de",
-      "prompt_version": "v5",
+      "content_hash": "13b3926ad18f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:35.233504Z"
+      "timestamp": "2026-03-20T13:23:06.635486Z"
     },
     "4.1": {
       "title": "主要攻擊：虛空加速器（Void Accelerator）",
       "description": "",
       "content": [
-        "虛空加速器（Omnic Form）的使用技巧",
-        "* 消耗壓力",
-        "* 在進入重拳（Pummel）的攻擊範圍前，你應該盡可能地使用主要攻擊進行消耗。",
-        "* 虛空加速器（Omnic Form）也適合用來爭奪高地，因為你本身沒有任何垂直移動能力。",
-        "* 誘敵",
-        "* 將智械型態當作誘餌來引誘敵人，同時保留復仇型態（Nemesis Form）。一旦敵人靠近，如果他們投入了大量資源（例如使用絕招），請使用渦流（Vortex）和屏障來保護自己，隨後再切換至復仇型態（Nemesis Form）。"
+        "![](/data/assets/guide/247e18e131793da8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvoid-accelerator-omnic-form.png)虛空加速器（Omnic Form）的使用技巧",
+        "* 遠程消耗",
+        "* * 在進入 ![](/data/assets/guide/c1e40f427ae57001.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpummel-nemesis-form.png)重拳（Nemesis Form）的攻擊範圍之前，你應該始終盡可能地使用主要攻擊進行消耗。",
+        "* ![](/data/assets/guide/247e18e131793da8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvoid-accelerator-omnic-form.png)虛空加速器（Omnic Form）也非常適合用來爭奪高地，因為你本身沒有任何垂直位移能力。",
+        "* 誘餌",
+        "* * 利用智械型態作為誘餌來引誘敵人，同時保留 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)重拳（Nemesis Form）。一旦敵人靠近，如果他們投入了大量資源（例如使用絕招），請使用渦流（Vortex）和護盾來保護自己，然後再切換至重拳（Nemesis Form）。"
       ],
-      "content_hash": "575ee5dab034",
-      "prompt_version": "v5",
+      "content_hash": "4236c06b6fc3",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:37.404841Z"
+      "timestamp": "2026-03-20T13:23:08.803958Z"
     },
     "4.2": {
       "title": "次要攻擊：虛空屏障（Void Barrier）",
       "description": "",
       "content": [
-        "虛空屏障（Void Barrier）（智械型態）的使用技巧",
-        "* 支援隊伍消耗戰",
-        "* 不要只為了自保而使用屏障；尋找能為隊友創造機會的時刻，讓他們能躲在你的屏障保護下進行探頭並擊殺敵人。",
-        "* 切斷敵方坦克",
-        "* 每當敵方坦克衝在隊伍前方時，就在他們身後部署屏障。這樣他們就會與治療來源斷開，且無法獲得隊友的火力支援來對我方隊伍施壓。"
+        "![](/data/assets/guide/18b39bbccad34011.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvoid-barrier-omnic-form.png)虛空屏障（Void Barrier）（智械型態）的使用技巧",
+        "* 協助隊伍進行消耗戰",
+        "* * 不要只為了自保而使用屏障；尋找機會，在屏障的保護下為隊友創造探頭並進行擊殺的契機。",
+        "* 切斷敵方坦克（Tank）的連結",
+        "* * 每當敵方![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）衝在隊伍前方時，就在他們身後部署屏障。這樣他們將無法獲得治療，也無法得到隊友的火力支援來對我方隊伍施壓。"
       ],
-      "content_hash": "8d1a10f1821d",
-      "prompt_version": "v5",
+      "content_hash": "4e6ed71b1c58",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:39.567589Z"
+      "timestamp": "2026-03-20T13:23:10.704867Z"
     },
     "4.3": {
       "title": "[SHIFT]：復仇型態（Nemesis Form）",
       "description": "",
       "content": [
-        "**復仇型態（Nemesis Form）的使用技巧**",
+        "**![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）的使用技巧**",
         "* 應對敵方的進攻手段",
-        "* 除非你擁有復仇型態（Nemesis Form），否則你無法在敵方激進的攻擊與突襲中存活。當你預判到敵方試圖快速推進時，請保留復仇型態（Nemesis Form），直到他們將關鍵技能（cooldowns）投入戰鬥中為止。",
+        "* 若沒有 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form），你將無法在敵方激進的攻勢與突襲下存活。當你預判敵方試圖快速推進時，請保留 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form），直到他們將關鍵技能投入戰鬥中。",
         "* 強化你的進攻能力",
-        "復仇型態（Nemesis Form）會將拉瑪塔（Ramattra）轉變為一個巨大的移動威脅。你可以交替使用重拳（Pummel）與格擋（Block）來承受傷害，同時利用增加的移動速度來佔據空間並攻擊敵方的後排。"
+        "![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）會將拉瑪塔轉變為巨大的威脅。你可以交替使用 ![](/data/assets/guide/c1e40f427ae57001.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpummel-nemesis-form.png)重拳（Pummel）與格擋（Block）來承受傷害，同時利用提升後的移動速度來佔據空間並攻擊敵方後排。"
       ],
-      "content_hash": "f220921f1d45",
-      "prompt_version": "v5",
+      "content_hash": "0663bb5be645",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:41.582297Z"
+      "timestamp": "2026-03-20T13:23:13.075691Z"
     },
     "4.4": {
-      "title": "（復仇型態期間）主要攻擊：重擊（Pummel）",
+      "title": "（在復仇型態期間）主要攻擊：重拳（Pummel）",
       "description": "",
       "content": [
-        "重擊（Pummel）（復仇型態）的技巧",
+        "**![](/data/assets/guide/c1e40f427ae57001.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpummel-nemesis-form.png)重拳（Pummel）（復仇型態）的技巧**",
         "* 反制傷害減免",
-        "* 重擊（Pummel）（復仇型態）可以穿透屏障以及防禦矩陣（Defense Matrix）和動能補捉（Kinetic Grasp）等傷害吸收技能。",
-        "* 當坦克英雄使用這些技能來保命時，請先等待他們受到一些傷害，接著再使用重擊（Pummel）（復仇型態）在他們試圖保護自己時持續施加壓力。",
+        "* * ![](/data/assets/guide/c1e40f427ae57001.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpummel-nemesis-form.png)重拳（Pummel）（復仇型態）可以穿透屏障以及傷害吸收技能，例如 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）和 ![](/data/assets/guide/7486123dd5edc842.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkinetic-grasp.png)動能補捉（Kinetic Grasp）。",
+        "* 針對那些使用這些技能來保命的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank），請等到他們已經受到一些傷害後，再使用復仇型態的 ![](/data/assets/guide/c1e40f427ae57001.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpummel-nemesis-form.png)重拳（Pummel）（復仇型態）來持續施壓，同時他們正試圖保護自己。",
         "* 近戰纏鬥",
-        "* 無論你是與坦克、輸出還是輔助進行單挑，重擊（Pummel）（復仇型態）都是你與目標纏鬥時的首選方式。每一次揮擊所帶來的連續爆發傷害，能在敵人削減你龐大的生命值之前，就先將他們擊殺。"
+        "* * 無論你是在與 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）、輸出（DPS）還是 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援（Support）單挑，![](/data/assets/guide/c1e40f427ae57001.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpummel-nemesis-form.png)重拳（Pummel）（復仇型態）都是你與目標近戰纏鬥時的首選方式。每次攻擊帶來的連續爆發傷害，能在大多數敵人對你龐大的生命值造成顯著消耗前，就將他們擊殺。"
       ],
-      "content_hash": "d20736c4b556",
-      "prompt_version": "v5",
+      "content_hash": "ee71d70a659b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:44.194323Z"
+      "timestamp": "2026-03-20T13:23:15.916760Z"
     },
     "4.5": {
-      "title": "（復仇型態期間）次要攻擊：格擋（Block）",
+      "title": "（復仇型態期間）次要攻擊：格擋",
       "description": "",
       "content": [
-        "格擋（Block）（復仇型態）的技巧",
+        "**![](/data/assets/guide/a6b525622400ef12.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblock-nemesis-form.png)格擋（復仇型態）的技巧**",
         "* 拖延時間",
-        "* * 利用你的護甲與傷害減免來承擔敵方傷害並拖延目標點。在延長賽時，你可以為隊友爭取從重生點趕回來的時間。在戰鬥中，你可以吸收敵方傷害並延長戰鬥時間。",
-        "* 抓準敵方攻擊時機",
-        "* * 拉瑪塔（Ramattra）可以在面對席格馬（Sigma）和萊因哈特（Reinhardt）等攻擊速度較慢的敵人時，在重擊（Pummel）（復仇型態）之間穿插格擋（Block）。格擋（Block）每一次的主要攻擊，然後重擊（Pummel）（復仇型態）一到兩次，以在造成傷害的同時將受到的傷害降至最低。",
-        "* 身體阻擋（Body Block）",
-        "* * 由於你的屏障（Barrier）只有一次使用機會，拉瑪塔（Ramattra）保護隊友的另一種方式就是在格擋（Block）時站在他們面前。",
-        "* 在輸出（DPS）施放絕招時保護他們，或是當輔助（Supports）遭到集火時保護他們。"
+        "* * 利用你的護甲與傷害減免來![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克敵方傷害並拖延目標點。在延長賽中，你可以為隊友爭取從重生點趕回來的時間。在戰鬥過程中，你可以吸收敵方傷害並延長戰鬥時間。",
+        "* 掌握敵方攻擊時機",
+        "* * 拉瑪塔可以在面對攻擊速度較慢的敵人（如![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬與![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特）時，在重擊（Nemesis Form）之間穿插格擋。在對方每次主要攻擊時進行格擋，然後使用![](/data/assets/guide/c1e40f427ae57001.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpummel-nemesis-form.png)重擊（復仇型態）一到兩次，以在造成傷害的同時將自身受到的傷害降至最低。",
+        "* 身體阻擋",
+        "* * 由於你的屏障只有一次使用機會，拉瑪塔保護隊友的另一種方式就是站在他們面前並保持格擋。",
+        "* 在輸出型英雄施放絕招時保護他們，或是當![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援型英雄遭到集火時保護他們。"
       ],
-      "content_hash": "9564756d7bae",
-      "prompt_version": "v5",
+      "content_hash": "166d86faffe2",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:46.341152Z"
+      "timestamp": "2026-03-20T13:23:18.686290Z"
     },
     "4.6": {
       "title": "[E]：飢餓漩渦（Ravenous Vortex）",
       "description": "",
       "content": [
-        "飢餓漩渦（Ravenous Vortex）的使用技巧",
+        "![](/data/assets/guide/4430a4dc25f88f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fravenous-vortex.png)飢餓漩渦（Ravenous Vortex）的使用技巧",
         "* 緩速敵人",
-        "* 當敵人試圖向你推進時，利用漩渦（Vortex）減緩他們的攻勢。為自己爭取時間，以等待敵方持續性技能（例如引導型絕招）的效果結束。",
+        "* 當敵人試圖向你推進時，使用飢餓漩渦（Ravenous Vortex）來減緩他們的進攻。為自己爭取時間，以避開敵方持續性技能（例如引導型絕招）的影響時間。",
         "* 衝鋒陷陣",
         "* 利用復仇型態（Nemesis）的移動速度加成來追擊目標。",
-        "* 將漩渦（Vortex）保留給復仇型態（Nemesis）使用，因為大多數英雄無法透過位移技能逃離漩渦（Vortex），飛行單位會被拉向地面，且緩速效果能讓他們持續留在你的重拳（Pummels）攻擊範圍內。"
+        "* 將飢餓漩渦（Ravenous Vortex）留給復仇型態（Nemesis）使用，因為大多數英雄無法透過位移技能逃離漩渦，飛行單位會被拉向地面，且緩速效果能讓他們持續處於你的重拳（Pummel）攻擊範圍內。"
       ],
-      "content_hash": "f6172532d72e",
-      "prompt_version": "v5",
+      "content_hash": "9c29eda72cba",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:48.831570Z"
+      "timestamp": "2026-03-20T13:23:20.731714Z"
     },
     "4.7": {
       "title": "絕招：殲滅（Annihilation）",
       "description": "",
       "content": [
-        "**殲滅（Annihilation）的使用技巧**",
+        "**![](/data/assets/guide/de397de5fd8f936e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fannihilation.png)殲滅（Annihilation）的使用技巧**",
         "* 小心控場技能",
-        "* * 在發動殲滅（Annihilation）期間，敵人知道拉瑪塔（Ramattra）無法使用屏障，因此很容易受到控場技能（CC）影響。如果你被擊退或昏迷太久，你的絕招會迅速結束。",
-        "* 如果敵方有像睡眠鏢（Sleep Dart）這種會中斷你絕招的技能，請先使用復仇型態（Nemesis Form）將該技能騙出來，然後再立即使用絕招。",
+        "* * 在發動 ![](/data/assets/guide/de397de5fd8f936e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fannihilation.png)殲滅（Annihilation）期間，敵方知道拉瑪塔無法使用屏障，且很容易受到控場技能（CC）影響。如果你被擊退或受到長時間的暈眩，你的絕招會迅速結束。",
+        "* 如果敵方有像是 ![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢（Sleep Dart）這類會中斷你絕招的技能，請先使用 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）來逼出該技能，隨後再立即施放絕招。",
         "* 延長持續時間",
-        "* * 只要至少有一名敵人在殲滅（Annihilation）的範圍效果（AoE）內，絕招就不會結束（最長可達 20 秒）。重點在於利用格擋（Block）保持存活，並將敵人留在範圍內。",
-        "* 你也可以在敵方隊伍中間發動絕招，強迫他們四散奔逃。接著，集中火力攻擊離你隊伍最近的目標，快速將其擊殺。"
+        "* * 只要至少有一名敵人在 ![](/data/assets/guide/de397de5fd8f936e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fannihilation.png)殲滅（Annihilation）的範圍效果（AoE）內，絕招就不會結束（最長可達 20 秒）。重點在於利用格擋（Block）保持生存，並將敵人留在範圍內。",
+        "* 你也可以在敵方隊伍中間發動絕招，迫使他們為了逃跑而向四面八方散開。接著，鎖定離你隊伍最近的那名敵人進行快速擊殺。"
       ],
-      "content_hash": "063df9f4ec2d",
-      "prompt_version": "v5",
+      "content_hash": "d7321b3c37a4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:51.295833Z"
+      "timestamp": "2026-03-20T13:23:23.171315Z"
     },
     "5.1.1": {
       "title": "虛空湧動（Void Surge）",
-      "description": "虛空加速器（Void Accelerator）在持續射擊期間，會週期性地額外發射 6 發拋射物。",
+      "description": "虛空加速器（Void Accelerator）在持續射擊期間，會週期性地額外發射 6 發投射物。",
       "content": [
         "* 強化拉瑪塔（Ramattra）的弱點",
-        "* 額外爆發傷害的影響力比帳面數據看起來更大。此外，與延長屏障（Prolonged Barrier）相比，虛空屏障（Void Barrier）（智械型態）永遠不會破碎，因此多出一秒鐘的時間通常無法帶來決定性的改變。",
-        "* 在智械型態下擁有更好的傷害，讓拉瑪塔在等待復仇型態（Nemesis Form）冷卻時能更具威脅性。"
+        "* 額外爆發傷害的影響力比帳面數據看起來更大。此外，與延長屏障（Prolonged Barrier）相比，![](/data/assets/guide/18b39bbccad34011.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvoid-barrier-omnic-form.png)虛空屏障（Void Barrier）（智械型態）永遠不會破碎，多出一秒的時間也很難造成改變戰局的差異。",
+        "* 在智械型態（Omnic Form）下擁有更好的傷害，讓拉瑪塔在等待![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）冷卻時能更具威脅性。"
       ],
-      "content_hash": "1708cf54b3d1",
-      "prompt_version": "v5",
+      "content_hash": "c80fba8d10db",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:53.298809Z"
+      "timestamp": "2026-03-20T13:23:25.104230Z"
     },
     "5.1.2": {
-      "title": "無情型態（Relentless Form）",
-      "description": "當復仇型態（Nemesis Form）啟動時，擊殺敵人可延長 1 秒持續時間。",
+      "title": "無情型態",
+      "description": "當拉瑪塔處於復仇型態（Nemesis Form）時，擊殺敵人可延長該型態持續時間 1 秒。",
       "content": [
-        "* 拉瑪塔（Ramattra）的大部分價值都是在復仇型態（Nemesis Form）期間產生的。能夠延長持續時間是非常好的效果。雖然你無法保證每次都能獲得擊殺，但一旦成功，這將會是一個非常有影響力的增益效果。"
+        "* 拉瑪塔的大部分價值皆來自於 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）。能夠延長持續時間是非常強大的效果。雖然你無法保證每次都能擊殺敵人，但一旦成功觸發，這將會是一個影響力極大的增益效果。"
       ],
-      "content_hash": "03109b22af18",
-      "prompt_version": "v5",
+      "content_hash": "d969e48bd15b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:55.018512Z"
+      "timestamp": "2026-03-20T13:23:26.609933Z"
     },
     "5.2.1": {
       "title": "奈米修復（Nanite Repair）",
       "description": "當拉瑪塔（Ramattra）處於貪婪漩渦（Ravenous Vortex）範圍內時，每秒可恢復 75 點生命值。",
       "content": [
-        "* 提供額外的續戰力",
+        "* 提供額外的續航力",
         "* 當拉瑪塔（Ramattra）在貪婪漩渦（Ravenous Vortex）內待滿完整持續時間，總共可恢復 150 點生命值。",
-        "* 在近戰纏鬥時非常實用，因為你可以將貪婪漩渦（Ravenous Vortex）丟在自己腳下，並在留在範圍內攻擊敵方戰士（Bruiser）的同時進行重拳（Pummel）。"
+        "* 在近距離纏鬥時非常實用，因為你可以將貪婪漩渦（Ravenous Vortex）丟在腳下，並在留在範圍內的同時使用重拳（Pummel）攻擊敵人 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)戰士（Bruiser）。"
       ],
-      "content_hash": "5d404e3babfd",
-      "prompt_version": "v5",
+      "content_hash": "190edf657a5c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:56.870811Z"
+      "timestamp": "2026-03-20T13:23:28.467564Z"
     },
     "5.2.2": {
       "title": "宿怨漩渦（Vengeful Vortex）",
       "description": "當飢餓漩渦（Ravenous Vortex）在空中時，再次按下 E 鍵即可引爆，造成 50 點傷害並將敵人向下拉扯。",
       "content": [
         "* 更適合消耗戰",
-        "* 能夠在空中引爆漩渦，讓你可以輕鬆捕捉遠處的敵人，而不需要追求完美的落點。50 點的引爆傷害也有助於提升你的消耗擊殺能力。",
-        "* 更適合強攻",
-        "* 當追擊敵人時，將漩渦射在他們前方並引爆，迫使他們必須穿過該區域。這讓強攻目標變得顯著容易許多。"
+        "* 能夠在空中引爆漩渦，讓你可以輕鬆捕捉遠處的敵人，而無需追求完美的落點。50 點的引爆傷害也有助於提升你的消耗戰殺傷力。",
+        "* 更強的突擊能力",
+        "* 當追擊敵人時，將漩渦射在他們前方並引爆，強迫他們穿過漩渦。這使得突擊目標變得顯著容易。"
       ],
       "content_hash": "e4502ac43a61",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:40:58.662338Z"
+      "timestamp": "2026-03-20T13:23:30.478902Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "有利於近距離交戰、目標區域較小，且幾乎沒有高台的地圖最適合拉瑪塔。他希望敵人能保持足夠近的距離，以便隨時利用「復仇型態（Nemesis Form）」發動突擊。此外，由於他具備良好的水平移動速度，卻缺乏垂直機動性，因此平坦的地形最能發揮拉瑪塔的遊玩風格。對於拉瑪塔而言，擁有寬闊開放空間與長視線的地圖在特定對局中會較為吃力。",
-        "如果敵方陣容偏向短程英雄與戰士，他便佔有優勢；但若敵方使用長程或高機動性的英雄，他則處於劣勢。他不希望浪費時間在試圖接近敵人上，且高台能讓敵人輕易躲避他的「復仇型態」與絕招。"
+        "適合近距離交戰、目標區域較小，且幾乎沒有高台的地圖最適合拉瑪塔。他希望敵人能保持足夠近的距離，以便隨時能使用 ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)復仇型態（Nemesis Form）發動突擊。此外，由於他具備良好的水平移動速度，但缺乏垂直機動性，因此平坦的地形最能發揮拉瑪塔的遊玩風格。對於拉瑪塔而言，視野開闊且視線距離長的地圖在某些對戰組合下會顯得較為吃力。",
+        "如果敵方陣容多為短程英雄與 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank），他便佔有優勢；但若敵方使用長程或高機動性英雄，他則處於劣勢。他不希望浪費時間試圖接近敵人，而高台也讓敵人能輕易逃離他的復仇型態與絕招。"
       ],
-      "content_hash": "f266ed9a5235",
-      "prompt_version": "v5",
+      "content_hash": "5c21f3c4a540",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:00.768810Z"
+      "timestamp": "2026-03-20T13:23:32.574954Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "圍繞拉瑪塔（Ramattra）建立的隊伍陣容，可以在他於「天罰降臨（Annihilation）」期間全力進攻時進行跟隨與支援。由於拉瑪塔會獲得移動速度加成，並立即成為敵方隊伍的集火目標，他將會承受敵方隊伍大量的傷害與冷卻技能。",
-        "他的護甲與格擋（Block）能幫助他在攻擊中存活，但若想發揮最大價值，他需要隊友協助治療，這樣他才能使用重拳（Pummel）（復仇型態（Nemesis Form））並對敵人造成傷害，進而取得擊殺。他的屏障（Barrier）能為狙擊手與遠程盟友提供短暫的保護窗口，但由於冷卻時間較長，無法完全依賴此技能。",
-        "任何能為他提供額外速度加成的隊友，都能極大程度地幫助他繞過前線並快速擊殺脆皮目標。",
-        "**圍繞拉瑪塔（Ramattra）建立的隊伍陣容範例：**",
-        "* 拉瑪塔（Ramattra）、災害（Hazard）、士兵76（Soldier: 76）、閃光（Tracer）、朱諾（Juno）、霧子（Kiriko）"
+        "圍繞 ![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)拉瑪塔（Ramattra）建立的隊伍陣容，可以在他全力進攻時進行跟隨與協助。由於拉瑪塔會獲得移動速度加成，並立即成為敵方隊伍的集火目標，他將會承受敵方大量的傷害與冷卻技能。",
+        "他的護甲與格擋（Block）能幫助他存活下來，但若想發揮最大價值，他需要隊友協助治療，這樣他才能使用 ![](/data/assets/guide/c1e40f427ae57001.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpummel-nemesis-form.png)重拳（Pummel）（復仇型態（Nemesis Form））來攻擊敵人並取得擊殺。他的屏障（Barrier）能為狙擊手與遠程盟友提供短暫的保護，但由於冷卻時間較長，無法作為長期依賴的手段。",
+        "任何能為他提供額外速度加成的隊友，都能極大程度地幫助他繞過前線並快速擊殺脆皮英雄。",
+        "**圍繞拉瑪塔建立的隊伍陣容範例：**",
+        "![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)拉瑪塔、![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）、![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76、![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光、![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾、![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子"
       ],
-      "content_hash": "dbf55208b238",
-      "prompt_version": "v5",
+      "content_hash": "120f5e186b92",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:03.362399Z"
+      "timestamp": "2026-03-20T13:23:35.450644Z"
     },
     "7.1": {
-      "title": "與其他英雄的個人搭配",
+      "title": "與其他英雄的個人協同效應",
       "description": "",
       "content": [
-        "閃光",
-        "* 當閃光與拉瑪塔組隊時，她的目標是處理掉拉瑪塔最強的剋星：安娜。閃光會讓安娜非常頭痛，因為安娜唯一能應對閃光的方法就是命中高難度的睡眠鏢（Sleep Dart）。如果安娜成功命中，那就是拉瑪塔開啟復仇型態（Nemesis Form）與殲滅（Annihilation）的訊號，因為他知道自己可以大膽向前推進，不用擔心被睡。大多數情況下，閃光都能對安娜造成足夠的騷擾，讓她無法對拉瑪塔構成威脅。當兩者配合得當時，拉瑪塔的能量漩渦（Ravenous Vortex）能讓閃光更容易打出單彈匣擊殺與脈衝炸彈（Pulse Bomb）。",
-        "朱諾",
-        "* 超級加速環（Hyper Ring）是拉瑪塔希望隊伍中有朱諾的主要原因。拉瑪塔不需要持續性的加速，他只需要在嘗試衝鋒的精確瞬間獲得額外速度。朱諾可以將超級加速環留給拉瑪塔每次衝鋒時使用，這樣他就能橫掃所有人。與路西歐相比，朱諾在治療並維持拉瑪塔生存方面也更加輕鬆。",
-        "霧子",
-        "* 拉瑪塔容易受到負面效果、擊退與暈眩的影響。鈴（Protection Suzu）可以反制所有這些效果，並讓拉瑪塔能成功對抗他的剋星。在狐步（Kitsune Rush）內的復仇型態感覺就像是拉瑪塔擁有了第二個絕招。更快的移動與攻擊速度意味著敵人被迫嘗試逃跑，因此當雙方隊伍都需要爭奪目標區域時，這是一個致命的組合。"
+        "![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光",
+        "* ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光與拉瑪塔組隊時的目標，是負責處理他最強大的剋星：![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜。![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光會讓![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜的日子非常難過，因為她唯一能對付![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光的希望，就是命中那發高難度的![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢（Sleep Dart）。如果她真的命中了，那就是拉瑪塔發動「復仇型態」與![](/data/assets/guide/de397de5fd8f936e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fannihilation.png)絕滅（Annihilation）的訊號，因為他知道自己可以放心向前衝鋒，不必擔心被睡。大多數時候，![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光都能對![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜造成足夠的干擾，使她無法對拉瑪塔構成威脅。當兩人配合默契時，拉瑪塔的「貪婪漩渦」（Vortex）能讓![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光更容易完成彈匣清空擊殺以及命中![](/data/assets/guide/4179aa31d749fae6.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulse-bomb.png)脈衝炸彈（Pulse Bomb）。",
+        "![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾",
+        "* ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環（Hyper Ring）是拉瑪塔希望隊伍中有![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾的主要原因。拉瑪塔不需要持續性的加速，他只需要在準備衝鋒的精確瞬間獲得額外速度。![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾可以將![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環留給拉瑪塔每次衝鋒時使用，這樣他就能橫掃所有人。與路西歐相比，她也能更輕鬆地治療並維持拉瑪塔的生存。",
+        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子",
+        "* 拉瑪塔容易受到負面效果、擊退和昏迷的影響。保護鈴（Suzu）可以反制所有這些效果，並讓拉瑪塔能成功對抗他的剋星。在![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)狐狸衝刺（Kitsune Rush）期間的復仇型態，對拉瑪塔來說簡直就像擁有第二個絕招。更快的移動和攻擊速度意味著敵人被迫嘗試逃跑，因此當雙方都需要爭奪目標區域時，這是一個致命的組合。"
       ],
-      "content_hash": "1fff5db9d119",
-      "prompt_version": "v5",
+      "content_hash": "553d04b0a344",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:06.262768Z"
+      "timestamp": "2026-03-20T13:23:39.113460Z"
     },
     "8.1": {
       "title": "對抗拉瑪塔（Ramattra）的通用心態",
       "description": "",
       "content": [
-        "* 追蹤拉瑪塔（Ramattra）的「復仇女神型態（Nemesis Form）」冷卻時間，並在他威脅性較低的「智械型態（Omnic Form）」期間進行懲罰。",
-        "* 保留位移技能以閃避「虛無屏障（Vortex）」。如果你已經被困在「虛無屏障（Vortex）」中，請在脫離範圍前不要使用位移技能。",
-        "* 在「殲滅（Annihilation）」期間切斷視野（LoS）。如果你無法逃脫，護盾也算作切斷視野的一種方式，因此請撐住護盾直到技能持續時間結束。"
+        "* 追蹤拉瑪塔（Ramattra）的「復仇女神型態（Nemesis Form）」冷卻時間，並在他較無威脅的「智械型態（Omnic Form）」期間進行懲罰。",
+        "* 保留位移技能以閃避「虛無（Vortex）」。如果你已經被困在「虛無（Vortex）」中，請在脫離範圍前不要使用位移技能。",
+        "* Break LoS during ![](/data/assets/guide/de397de5fd8f936e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fannihilation.png)Annihilation. If you can't escape, barriers also count as breaking LoS so hold the barrier until the duration expires."
       ],
-      "content_hash": "9d8bc0735801",
-      "prompt_version": "v5",
+      "content_hash": "2f31ac911ab9",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:08.000828Z"
+      "timestamp": "2026-03-20T13:23:41.056541Z"
     },
     "8.0.2": {
       "title": "反制英雄（Counter Picks）",
       "description": "",
       "content": [
-        "* 坦克（Tank）：歐瑞莎（Orisa）、莫加（Mauga）",
-        "* 輸出（DPS）：索潔恩（Sojourn）、迴音（Echo）",
-        "* 輔助（Support）：安娜（Ana）、路西歐（Lúcio）"
+        "* 坦克：![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎、![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加",
+        "* 輸出：![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩、![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音",
+        "* 輔助：![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜、![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐"
       ],
-      "content_hash": "35b4e85474d2",
-      "prompt_version": "v5",
+      "content_hash": "4ad8dff69f64",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:41:09.476599Z"
+      "timestamp": "2026-03-20T13:23:42.735991Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:40:12.449310Z"
+    "timestamp": "2026-03-20T13:22:47.169099Z"
   }
 }

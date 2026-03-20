@@ -6,39 +6,39 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "弗蕾亞（Freja）是一位混合型神射手（Sharpshooter）英雄，擅長遠程消耗戰與快速爆發的進攻。她喜歡定位在己方前線戰士（Bruiser）身後，或是採取側襲者（Flanker）的軟切入角度。特別是在目標區域附近有高地時，弗蕾亞會尋求使用上升氣流（Updraft）來取得對敵隊的優勢位置。",
-        "多虧了快速衝刺（Quick Dash）的短冷卻時間，她在近距離戰鬥中也能獨當一面。當你的隊伍需要結合消耗壓力與爆發傷害時，弗蕾亞是勝任此工作的最佳輸出英雄選擇之一。"
+        "![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞（Freja）是一位混合型神射手（Sharpshooter）英雄，擅長在消耗戰中發揮作用，並能迅速發動爆發性的攻勢。她喜歡定位在己方前線坦克後方，或是選擇側翼的軟切入角度。特別是在目標區域附近有高地時，弗蕾亞會尋求使用湧升氣流（Updraft）來佔據優於敵隊的位置。",
+        "多虧了短冷卻時間的 ![](/data/assets/guide/5a9b60679667ad2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fquick-dash.png)快速衝刺（Quick Dash），她在近距離戰鬥中也能獨當一面。當你的隊伍需要結合消耗壓制與爆發傷害時，弗蕾亞是勝任此職的最佳輸出（DPS）選擇之一。"
       ],
-      "content_hash": "aa5a701da149",
-      "prompt_version": "v5",
+      "content_hash": "8390a40e793c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:09.712727Z"
+      "timestamp": "2026-03-20T13:19:42.370685Z"
     },
     "1.1.1": {
-      "title": "遊玩方式",
+      "title": "遊玩風格",
       "description": "",
       "content": [
-        "* 使用上升氣流（Updraft）越過牆壁與屏障，讓你能夠攻擊隊伍中其他人無法觸及的敵人。",
-        "* 至少保留一次快速衝刺（Quick Dash）的充能，以閃避敵方的側襲者（Flanker）與突擊。",
-        "* 專注於使用流星彈（Bola Shot）進行直接命中，以獲得阻礙（Hindered）與拉扯效果。"
+        "* 使用湧泉（Updraft）越過牆壁與屏障，讓你能夠攻擊隊伍中其他人無法觸及的敵人。",
+        "* 至少保留一次快速衝刺（Quick Dash）的充能，以閃避敵方的側襲（Flanker）與突擊。",
+        "* 專注於使用流星彈（Bola Shot）進行直接命中，以獲得阻礙（Hindered）與拉近效果。"
       ],
       "content_hash": "6a4cfb0b2c1e",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:11.547298Z"
+      "timestamp": "2026-03-20T13:19:43.990115Z"
     },
     "1.1.2": {
-      "title": "對戰策略",
+      "title": "對抗方式",
       "description": "",
       "content": [
-        "* 弗蕾亞（Freja）擅長集火單一目標，但面對多名敵人時會顯得無力。請保持在隊友附近，避免陷入 1 對 1 的單挑局面。",
-        "* 如果你看到她使用了上升氣流（Updraft），請記住她會有 10 秒的空窗期，這段時間內她無法在掩體後鎖定你，也無法逃往高處（除非她使用了乘風（Rising Winds））。",
-        "* 透過使用具有即時命中（hitscan）能力的狙擊手在遠距離壓制，或是使用近距離、高機動性的英雄來圍攻她，皆能有效反制弗蕾亞（Freja）。"
+        "* 弗蕾亞（Freja）擅長集中火力攻擊單一目標，但面對多名敵人時會顯得無力。請保持在隊友附近，避免陷入 1 對 1 的局面。",
+        "* 如果你看到她使用了上升氣流（Updraft），請記住接下來的 10 秒內，她將無法在掩體後方鎖定你，也無法逃往高處（除非她使用了乘風（Rising Winds））。",
+        "* 若要反制弗蕾亞（Freja），可以使用具備遠程射程的即時命中狙擊手，或是利用近距離、高機動性的英雄來壓制她。"
       ],
       "content_hash": "03f7c213a3df",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:13.368924Z"
+      "timestamp": "2026-03-20T13:19:45.949825Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -46,287 +46,287 @@
       "content": [
         "* 高機動性（Mobile）",
         "* 爆發傷害（Burst）",
-        "* 減益效果能力（Debuff abilities）",
-        "* 神射手（Sniper）",
-        "* 情境式絕招（Situational Ultimate）",
+        "* 減益能力（Debuff abilities）",
+        "* 神射手（Sharpshooter）",
+        "* 特定情境下才有效的絕招（Situational Ultimate）",
         "* 容易被反制（Easy to counter）"
       ],
       "content_hash": "8e482503821b",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:14.824792Z"
+      "timestamp": "2026-03-20T13:19:47.602919Z"
     },
     "3.1.1": {
       "title": "高機動性",
       "description": "",
       "content": [
-        "擁有最多三次充能的快速衝刺（Quick Dash）、垂直跳躍，以及來自瞄準（Take Aim）的浮空效果，使弗蕾亞（Freja）具備了同類型角色中最頂尖的機動性。衝刺、浮空與跳躍的能力與她的十字弓套件相輔相成，讓她能夠佔據側翼角度、越過屏障進行射擊，並能迅速脫離戰場。"
+        "最多可累積三次的快速衝刺（Quick Dash）、垂直跳躍，以及來自瞄準（Take Aim）的浮空效果，使弗蕾亞（Freja）擁有同類型角色中最頂尖的機動性。衝刺、浮空與跳躍的能力與她的十字弓套件相輔相成，讓她能夠佔據側翼角度、越過屏障進行射擊，並能迅速脫離戰場。"
       ],
       "content_hash": "5486d435ad99",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:16.510160Z"
+      "timestamp": "2026-03-20T13:19:49.356845Z"
     },
     "3.1.2": {
       "title": "爆發傷害",
       "description": "",
       "content": [
-        "來自「瞄準（Take Aim）」的爆炸箭矢在直接命中時會造成 130 點傷害，即便沒有任何特殊能力（perks），弗蕾亞（Freja）也能透過衝刺（Dash）重置冷卻來連續發射三發。雖然她的傷害輸出不見得總是那麼穩定，但在最關鍵的時刻，她能夠非常迅速地擊殺單一敵人。"
+        "來自瞄準（Take Aim）的爆裂箭矢在直接命中時可造成 130 點傷害，即便沒有任何特殊能力（perks），弗蕾亞（Freja）也能透過衝刺（Dash）重置冷卻來連續發射三發。雖然她的傷害輸出不一定最穩定，但在關鍵時刻，她能非常迅速地擊殺單一敵人。"
       ],
       "content_hash": "adc49e349573",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:18.363400Z"
+      "timestamp": "2026-03-20T13:19:50.895425Z"
     },
     "3.1.3": {
-      "title": "減益能力（Debuff Abilities）",
+      "title": "減益能力",
       "description": "",
       "content": [
-        "她的次要特殊能力（Minor Perk），冰霜箭矢（Frost Bolts），會對目標施加 20% 的緩速減益效果，這對於對抗高機動性的敵人非常有幫助。此外，雖然能力說明中沒有明確指出，但流星索射擊（Bola Shot）若直接命中敵人，會施加阻礙（Hindered）減益效果。弗蕾亞（Freja）可以使用她的大絕招來鎖定敵人的移動，或是取消敵人的引導型能力，進而扭轉戰局，為隊伍創造優勢。"
+        "她的次要特殊能力（Minor Perk），霜凍箭矢（Frost Bolts），會對目標施加 20% 的緩速減益效果，這對於平衡對抗高機動性敵人時的劣勢非常有幫助。此外，雖然能力說明中並未明確指出，但流星索射擊（Bola Shot）若直接命中目標，會對敵人施加阻礙（Hindered）減益效果。弗蕾亞（Freja）可以使用她的大絕招來限制敵人的移動，或中斷敵人的引導型能力，進而扭轉戰局，為隊伍創造優勢。"
       ],
       "content_hash": "cb0b4fad9b43",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:20.446549Z"
+      "timestamp": "2026-03-20T13:19:52.500303Z"
     },
     "3.2.1": {
-      "title": "飛行彈道神射手",
+      "title": "彈道狙擊手",
       "description": "",
       "content": [
-        "弗蕾亞（Freja）的技能組最適合中遠距離戰鬥。由於飛行速度的關係，在這些較遠距離使用主要和次要攻擊命中目標會變得更加困難。她與半藏（Hanzo）有著相似的弱點，但她犧牲了一擊必殺的能力，換取了更穩定的傷害輸出。"
+        "弗蕾亞（Freja）的技能組最適合中長距離作戰。由於彈道速度的關係，在這些較遠的距離使用主要和次要攻擊命中目標會變得更加困難。她與半藏（Hanzo）有著相似的弱點，但她犧牲了一擊必殺的能力，換取了更穩定的傷害輸出。"
       ],
       "content_hash": "3698b2273de6",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:22.118598Z"
+      "timestamp": "2026-03-20T13:19:54.043298Z"
     },
     "3.2.2": {
       "title": "情境式絕招",
       "description": "",
       "content": [
-        "與許多其他輸出英雄不同，弗蕾亞（Freja）的絕招通常無法單憑一己之力扭轉戰局。流星索射擊（Bola Shot）在特定情境下具有不錯的威力，能為隊友創造後續的控場（CC）機會，但大多數情況下，她使用此技能只是希望能藉此擊殺一名敵人。"
+        "與其他許多輸出型英雄不同，弗蕾亞（Freja）的絕招通常無法單憑一己之力扭轉戰局。流星索射擊（Bola Shot）在特定情境下具有不錯的威力，並能為隊友提供後續的控場（CC）銜接，但大多數時候，她僅希望能透過每一次施放來擊殺一名敵人。"
       ],
       "content_hash": "41b1701eed71",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:23.900481Z"
+      "timestamp": "2026-03-20T13:19:55.824949Z"
     },
     "3.2.3": {
       "title": "多種反制手段",
       "description": "",
       "content": [
-        "弗蕾亞（Freja）在遠近距離的兩端都有弱點。近距離的機動型英雄以及遠距離的即時命中（hitscan）英雄在對戰中都佔有優勢。大多數英雄通常只有一個容易被利用的距離弱點，但弗蕾亞（Freja）卻會同時被這兩類英雄反制，因此請做好隨時都要面對多種反制手段的心理準備。"
+        "弗蕾亞（Freja）在遠程與近戰兩端都存在弱點。近距離機動型英雄以及長距離即時命中（hitscan）英雄在對陣她時都佔有優勢。大多數英雄通常只有一個容易被利用的射程弱點，但弗蕾亞卻會同時被這兩種類型的英雄反制，因此請做好隨時都要面對多重反制手段的心理準備。"
       ],
       "content_hash": "aef82d52a7ae",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:25.404841Z"
+      "timestamp": "2026-03-20T13:19:57.484331Z"
     },
     "4.1": {
-      "title": "主要攻擊：反抽十字弓（Revdraw Crossbow）",
+      "title": "主要攻擊：復仇弩（Revdraw Crossbow）",
       "description": "",
       "content": [
-        "**反抽十字弓（Revdraw Crossbow）使用技巧**",
-        "* 最大擴散範圍直到連續射擊第 12 發後才會觸發。",
-        "* 即使在使用無情彈幕（Relentless Barrage）時，你也可以按住主要攻擊鍵，直到發射完第 3 發瞄準（Take Aim）弩箭後，才需要暫停並重置她的子彈擴散。",
+        "關於 ![](/data/assets/guide/6059ee4843491111.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frevdraw-crossbow.png) 復仇弩（Revdraw Crossbow）的提示",
+        "* 最大擴散度直到連續射擊第 12 發後才會觸發。",
+        "* 即使在使用無情彈幕（Relentless Barrage）時，你也可以按住主要攻擊鍵，直到射出第 3 發瞄準（Take Aim）弩箭後，才需要停頓並重置她的子彈擴散度。",
         "* 預判射擊",
-        "* 使用反抽十字弓（Revdraw Crossbow）的弩箭來進行預判射擊，並藉此衡量爆炸弩箭（explosive bolts）所需的預判距離。"
+        "* 使用復仇弩（Revdraw Crossbow）的弩箭來進行預判射擊，並藉此測量你需要對爆炸弩箭進行多少程度的預判。"
       ],
-      "content_hash": "cf4f5f4f1c71",
-      "prompt_version": "v5",
+      "content_hash": "233a1fd394e3",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:27.328445Z"
+      "timestamp": "2026-03-20T13:19:59.490404Z"
     },
     "4.2": {
       "title": "次要攻擊：瞄準（Take Aim）",
       "description": "",
       "content": [
-        "**瞄準（Take Aim）的技巧（弗蕾亞（Freja））**",
+        "**![](/data/assets/guide/3e91f745133fcd75.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-aim-freja.png)瞄準（Take Aim）（弗蕾亞）的技巧**",
         "* 1 發爆炸箭矢，6 發標準箭矢",
-        "* 發射瞄準（Take Aim）的爆炸箭矢，接著連續發射 6 發主要攻擊，再補上 1 發爆炸箭矢，重複此循環以最大化輸出時間。",
+        "* 發射瞄準（Take Aim）爆炸箭矢，接著連續發射 6 發主要攻擊，再接 1 發爆炸箭矢，以此循環來最大化輸出時間。",
         "浮空效果（Float Effect）",
-        "* 在空中短暫停滯非常適合越過牆壁與屏障進行射擊，同時也能讓你爭取時間瞄準目標。但請小心不要過度使用浮空效果而變得容易預測，因為弗蕾亞（Freja）在浮空時非常脆弱，很容易被擊殺。"
+        "* 在空中短暫停滯非常適合越過牆壁和屏障進行射擊，同時也能讓你爭取時間來瞄準目標。但請小心不要過度使用浮空效果而變得容易預測，因為弗蕾亞在浮空時非常容易被擊殺。"
       ],
-      "content_hash": "9745a107d68c",
-      "prompt_version": "v5",
+      "content_hash": "c1004bae57c4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:29.299706Z"
+      "timestamp": "2026-03-20T13:20:02.095691Z"
     },
     "4.3": {
       "title": "[SHIFT]：快速衝刺（Quick Dash）",
       "description": "",
       "content": [
-        "**快速衝刺（Quick Dash）的使用技巧**",
-        "* 連發爆炸弩箭（Explosive Bolts）",
-        "* 弗蕾亞（Freja）確認單體擊殺的最佳方式，就是利用快速衝刺（Quick Dash）追擊敵人，並向他們發射多枚爆炸弩箭（Explosive Bolts）。",
-        "* 如果目標沒有受到任何治療，兩發直接命中即可擊殺一名標準 250 生命值的英雄。",
+        "![](/data/assets/guide/5a9b60679667ad2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fquick-dash.png)快速衝刺（Quick Dash）的使用技巧",
+        "* 瘋狂發射爆炸弩箭",
+        "* 弗蕾亞（Freja）要確保擊殺單一目標的最佳方式，就是利用快速衝刺（Quick Dash）追擊敵人，並向他們發射多發爆炸弩箭。",
+        "* 如果你的目標沒有受到任何治療，兩發直接命中就能擊殺一名標準 250 生命值的英雄。",
         "* 閃避",
-        "* 當面對任何試圖針對你的側襲者（Flanker）時，請務必保留至少一次快速衝刺（Quick Dash）來閃避對方的攻擊，並趁機多發射一枚爆炸弩箭（Explosive Bolts）。",
-        "* 如果弗蕾亞（Freja）在沒有快速衝刺（Quick Dash）的情況下被抓到，那她就必死無疑了。"
+        "* 當面對任何針對你的側襲者（Flanker）時，請務必保留至少一次快速衝刺（Quick Dash）來閃避他們的攻擊，並趁機多發射一發爆炸弩箭。",
+        "* 如果弗蕾亞（Freja）在沒有快速衝刺（Quick Dash）的情況下被逮住，那她就死定了。"
       ],
-      "content_hash": "0ae97e68f77d",
-      "prompt_version": "v5",
+      "content_hash": "e91ccd413636",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:31.341414Z"
+      "timestamp": "2026-03-20T13:20:04.395677Z"
     },
     "4.4": {
       "title": "[E]：上升氣流（Updraft）",
       "description": "",
       "content": [
-        "上升氣流（Updraft）的使用技巧",
+        "![](/data/assets/guide/af11f739171075dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fupdraft.png)上升氣流（Updraft）的使用技巧",
         "* 佔據高處",
         "* 在戰鬥前或戰鬥初期，試著使用上升氣流（Updraft）來佔據高處。當弗蕾亞（Freja）能夠控制俯瞰位置時，她的射程優勢會變得更加強大。",
         "* 跳躍以越過屏障進行射擊",
         "* 無論是坦克的部署型屏障還是牆壁，上升氣流（Updraft）的最佳用途就是躍過掩體，並鎖定那些自以為處於安全位置的敵人。",
-        "* 利用幾發快速的爆炸弩箭對後排施加壓力，可以迫使他們撤退，進而放棄支援隊友。"
+        "* 利用幾發快速的爆炸弩箭對後排施加壓力，可以迫使他們撤退並放棄支援隊友。"
       ],
-      "content_hash": "73343b81beea",
-      "prompt_version": "v5",
+      "content_hash": "1c2e4bb24403",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:33.428768Z"
+      "timestamp": "2026-03-20T13:20:06.353762Z"
     },
     "4.5": {
       "title": "絕招：流星索（Bola Shot）",
       "description": "",
       "content": [
-        "**流星索（Bola Shot）的技巧**",
+        "**![](/data/assets/guide/b1ce1291520986df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbola-shot.png)流星索（Bola Shot）的使用技巧**",
         "務必追求直接命中",
-        "* 雖然範圍傷害（AoE damage）在對付一群敵人時很有用，但你應該始終專注於直接命中。妨礙（Hindered）效果與拉扯效果都只會在直接命中時觸發。",
+        "* 雖然範圍傷害（AoE damage）對敵方群體很有用，但你應該始終專注於直接命中目標。只有在直接命中時，才會觸發「妨礙（Hindered）」狀態與拉扯效果。",
         "防止敵人脫離戰鬥",
-        "* 依賴機動性工具進場與撤場的側襲者（Flanker）英雄，是流星索（Bola Shot）的完美目標。如果你將流星索（Bola Shot）留到溫斯頓（Winston）、毀滅拳王（Doomfist）和火爆鋼球（Wrecking Ball）等坦克嘗試跳離隊伍前夕再使用，就能輕易將他們擊殺。",
-        "建立連段",
-        "* 直接命中產生的類似重力效果的拉扯，可以成為強大的連段起手式。無論後續接的是隊友的絕招還是標準技能，都能輕鬆取得勝利。與重力噴湧（Graviton Surge）不同，拉扯效果持續時間太短，無法等待確認後再反應，因此你必須先進行語音溝通，並預判你的射擊將會命中。"
+        "* 那些依賴機動性技能進場與撤退的側襲者（Flanker）是流星索（Bola Shot）的完美目標。如果你將流星索（Bola Shot）留到溫斯頓（Winston）、毀滅拳王（Doomfist）和火爆鋼球（Wrecking Ball）等坦克試圖跳離你的隊伍前夕再使用，就能輕鬆將他們擊殺。",
+        "建立連招組合",
+        "* 直接命中後產生的類重力拉扯效果，是強大的連招起手式。無論後續接的是隊友的絕招還是標準技能，都能輕鬆獲勝。與重力噴湧（Graviton Surge）不同，拉扯效果持續時間太短，無法等待確認命中後再反應，因此你必須先進行溝通，並預判你的射擊將會命中。"
       ],
-      "content_hash": "e6a1a398ff14",
-      "prompt_version": "v5",
+      "content_hash": "c15af25d2b37",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:36.328757Z"
+      "timestamp": "2026-03-20T13:20:08.964122Z"
     },
     "4.6": {
       "title": "被動技能：賞金獵人（Bounty Hunting）",
       "description": "",
       "content": [
-        "**賞金獵人（Bounty Hunting）的技巧**",
-        "* 最終一擊（Final Blow）的累積次數在死亡後會保留",
-        "* 你不需要感到恐慌，也不用急著在死亡前取得第 3 次最終一擊。請放慢節奏，不要為了嘗試取得最終一擊而進行不必要的冒險。",
-        "* 絕招充能加成會儲存",
-        "* 如果弗蕾亞（Freja）已經擁有絕招，額外的充能將會被儲存起來。若你的絕招充能右側顯示為 3/3，弗蕾亞在使用絕招後會立即獲得 25% 的絕招充能。",
-        "* 此外，如果她在絕招期間取得最終一擊，這些擊殺也會計入下一次的加成中，因此如果你取得三連殺，是有可能在絕招結束後立即獲得 50% 絕招充能的。"
+        "**![](/data/assets/guide/58f847da37478046.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbounty-hunting.png)賞金獵人（Bounty Hunting）的技巧**",
+        "* 最終一擊（Final Blow）的累積次數不會因為死亡而重置",
+        "* 你不需要驚慌失措，試圖在死亡前硬湊出第 3 次最終一擊。請保持耐心，不要為了嘗試取得最終一擊而做出不必要的冒險。",
+        "* 絕招充能加成會進行儲存",
+        "* 如果弗蕾亞（Freja）已經擁有絕招，額外的充能將會被儲存起來。如果你在絕招充能條右側顯示的計數達到 3/3，弗蕾亞（Freja）在使用絕招後會立即獲得 25% 的充能。",
+        "* 此外，如果她在絕招期間取得最終一擊（Final Blow），這些擊殺也會計入下一次的加成，因此如果你達成三連殺，是有可能在絕招結束後立即獲得 50% 絕招充能的。"
       ],
-      "content_hash": "ae2e76c6cd50",
-      "prompt_version": "v5",
+      "content_hash": "7d5e1e0301fe",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:38.583510Z"
+      "timestamp": "2026-03-20T13:20:11.102449Z"
     },
     "5.1.1": {
       "title": "無情彈幕（Relentless Barrage）",
-      "description": "使用瞄準（Take Aim）直接命中目標可返還 8 發自動弩箭彈藥。",
+      "description": "以瞄準（Take Aim）進行直接命中可返還 8 發自動弩箭彈藥。",
       "content": [
         "* 推薦次要特殊能力（Recommended Minor Perk）",
-        "* 顯著提升了持續輸出的時間。如果你能在使用弗蕾亞（Freja）的瞄準（Take Aim）技巧章節中所列出的標準連招（6 發主武器射擊 > 1 次瞄準（Take Aim） > 重複）時，連續多次直接命中目標，你將獲得無限彈藥，且永遠不需要停下來裝填。"
+        "* 顯著提升連續攻擊的持續時間。若你使用 ![](/data/assets/guide/3e91f745133fcd75.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-aim-freja.png) 弗蕾亞（Freja）的瞄準（Take Aim）技巧中所列出的標準連段（6 次主要攻擊 > 1 次瞄準（Take Aim） > 重複）並連續命中目標，你將擁有無限彈藥，且無需停下來裝填。"
       ],
-      "content_hash": "d8fb5a59ac0b",
-      "prompt_version": "v5",
+      "content_hash": "0bf6d19418c3",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:40.418560Z"
+      "timestamp": "2026-03-20T13:20:13.203993Z"
     },
     "5.1.2": {
       "title": "動能增幅（Momentum Boost）",
-      "description": "快速衝刺（Quick Dash）距離增加 20%。",
+      "description": "快速衝刺（Quick Dash）的距離增加 20%。",
       "content": [
-        "* 作為反制側襲者（Flanker）與近戰英雄的選擇非常有效。額外的衝刺距離能為你提供閃避攻擊所需的空間。",
-        "* 在半空中啟動瞄準（Take Aim）（弗蕾亞（Freja））仍會使弗蕾亞（Freja）進入凍結狀態，這會將此特殊能力（Perk）的效益降至最低。"
+        "* 適合用來反制側襲者（Flanker）和近戰英雄。額外的衝刺距離能提供你閃避攻擊所需的空間。",
+        "* 在半空中啟動 ![](/data/assets/guide/3e91f745133fcd75.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-aim-freja.png)瞄準（Take Aim）（弗蕾亞（Freja））仍會使弗蕾亞（Freja）凍結，這會降低此特殊能力（Perk）的效益。"
       ],
-      "content_hash": "71185656872c",
-      "prompt_version": "v5",
+      "content_hash": "d56970a31094",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:41.970255Z"
+      "timestamp": "2026-03-20T13:20:14.470769Z"
     },
     "5.2.1": {
-      "title": "空中恢復（Aerial Recovery）",
-      "description": "在使用上升氣流（Updraft）後，每秒恢復 30 點生命值，直到弗蕾亞（Freja）觸地為止。",
+      "title": "空中恢復",
+      "description": "使用上升氣流（Updraft）後，每秒恢復 30 點生命值，直到弗蕾亞（Freja）觸地為止。",
       "content": [
-        "* 推薦的次要特殊能力（minor perks）。",
-        "* 每次跳躍並使用上升氣流（Updraft）+ 瞄準（Take Aim）減速時，你將恢復超過 75 點生命值。若從高處邊緣使用，恢復量會更多。"
+        "* 推薦次要特殊能力（minor perks）。",
+        "* 每次跳躍並使用 ![](/data/assets/guide/af11f739171075dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fupdraft.png)上升氣流（Updraft）+ ![](/data/assets/guide/3e91f745133fcd75.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-aim-freja.png)瞄準（Take Aim）緩速時，你將恢復超過 75 點生命值。若從高處邊緣使用，恢復量甚至更高。"
       ],
-      "content_hash": "1c5aeb110e5c",
-      "prompt_version": "v5",
+      "content_hash": "11852a42d542",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:43.339428Z"
+      "timestamp": "2026-03-20T13:20:16.283132Z"
     },
     "5.2.2": {
       "title": "上升氣流（Rising Winds）",
-      "description": "上升氣流（Updraft）獲得額外一次充能，但高度降低 20%。",
+      "description": "上升氣流（Updraft）獲得額外充能次數，但高度降低 20%。",
       "content": [
-        "* 考慮到上升氣流（Updraft）的冷卻時間較長，將其可用次數加倍是一項相當顯著的增強。",
-        "* 在有牆壁可以跳躍並進行射擊的地圖上效果最佳。",
-        "* 同時也是對抗近戰及極近距離英雄時不錯的針對性選擇（counterpick）。"
+        "* 考慮到 ![](/data/assets/guide/af11f739171075dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fupdraft.png) 上升氣流（Updraft）的冷卻時間較長，將其運作時間翻倍是一項相當顯著的增強。",
+        "* * 最適合在擁有牆壁的地圖上使用，以便跳躍並從上方進行射擊。",
+        "* 同時也適合作為對抗近戰及極近距離英雄的針對性選擇（counterpick）。"
       ],
-      "content_hash": "6d5314716eda",
-      "prompt_version": "v5",
+      "content_hash": "118126213657",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:44.784009Z"
+      "timestamp": "2026-03-20T13:20:18.258419Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "最適合弗蕾亞（Freja）的地圖，是那些能發揮她中長距離站位優勢的地圖。她在空間狹窄且地形平坦的地圖區域中會顯得相當吃力。尋找更長的視野與高地來進行佈署，是弗蕾亞（Freja）在任何地圖上最主要的站位策略。"
+        "最適合弗蕾亞（Freja）的地圖是那些能發揮她中長距離站位優勢的地圖。她在空間狹窄且平坦地面較多的地圖區域中會顯得相當吃力。尋找更長的視野與高地進行架設，是弗蕾亞（Freja）在任何地圖上主要的站位策略。"
       ],
       "content_hash": "27644a25e332",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:46.338009Z"
+      "timestamp": "2026-03-20T13:20:20.059634Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "弗蕾亞（Freja）是一名混合型角色，具備短程到長程的作戰能力以及良好的機動性，這使她能夠適應大多數的隊伍陣容。",
-        "理想情況下，她需要像席格馬（Sigma）或多米娜（Domina）這類坦克提供強大的前線壓制力，讓她能站在他們身後進行遠程消耗。這些坦克也讓敵人難以繞過，因此弗蕾亞不必太擔心被對手強行突進。",
-        "在輔助方面，她最喜歡慈悲（Mercy）的專屬支援，但她與幾乎所有的輔助都能完美搭配。當使用空中復原（Aerial Recovery）時，她對隊伍治療的依賴度較低，因此能從生化手榴彈（Biotic Grenade）、紛亂之珠（Orb of Discord）和束縛鎖鏈（Binding Chain）等輔助功能性技能中獲得極大效益。"
+        "![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞（Freja）是一名混合型角色，具備短至長程的作戰能力以及優秀的機動性，這使她能夠適應大多數的隊伍陣容。",
+        "理想情況下，她需要像 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）或 ![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)多米娜（Domina）這類坦克提供強大的前線壓制力，讓她能站在他們身後進行遠程消耗。這些坦克也讓敵人難以繞過防線，因此 ![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞（Freja）不必太擔心被敵方突襲。",
+        "在輔助方面，她最喜歡的是由 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲（Mercy）進行單獨支援，但她與幾乎所有的輔助角色都能完美搭配。當使用空中復原（Aerial Recovery）時，她對隊伍續航力的依賴較低，因此能從像是 ![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)生化手榴彈（Biotic Grenade）、![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)紛亂之珠（Orb of Discord）以及 ![](/data/assets/guide/61a533467bf9f01d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbinding-chain.png)束縛之鏈（Binding Chain）這類輔助功能中獲得極大效益。"
       ],
-      "content_hash": "cc40f680df49",
-      "prompt_version": "v5",
+      "content_hash": "d64b3c146ab3",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:48.235763Z"
+      "timestamp": "2026-03-20T13:20:22.418044Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "反制弗蕾亞（Freja）的方法之一是擁有比她更優異的機動性，並能夠追擊她，在近距離將其擊殺。像是 D.Va、毀滅拳王（Doomfist）、源氏（Genji）和路西歐（Lúcio）等英雄都能做到這一點。",
-        "另一種方法是利用遠程狙擊壓制她。她經常處於空中，因此像是奪命女（Widowmaker）、艾西（Ashe）和禪亞塔（Zenyatta）等英雄，只要做好準備並等待她使用上升氣流（Updraft）> 瞄準（Take Aim）（弗蕾亞）的時機，就能將其迅速擊殺。",
-        "如果你的英雄不屬於上述任何一類，請記住弗蕾亞（Freja）擅長集火單一目標，但在面對多名敵人時會顯得脆弱。保持在隊友附近，避免陷入 1 對 1 的單挑局面。",
-        "此外，當你看到她使用上升氣流（Updraft）時，請記住你有 10 秒的空窗期，這段時間內她無法在掩體後方鎖定你，也無法逃往高處（除非她正在使用乘風（Rising Winds））。",
-        "擁有傷害減免能力的玩家，在聽到她的絕招語音時，應設法格擋流星索射擊（Bola Shot）。"
+        "反制 ![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞（Freja）的方法之一，是擁有比她更優異的機動性，並能夠追擊她，在近距離將其擊殺。像是 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va、![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)毀滅拳王（Doomfist）、![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏（Genji）以及 ![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐（Lúcio）等英雄都能做到這一點。",
+        "另一種方法則是利用遠程狙擊壓制她。她經常處於空中，因此像是 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女（Widowmaker）、![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）和 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）等英雄，只要做好準備並等待她使用 ![](/data/assets/guide/af11f739171075dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fupdraft.png)上升氣流（Updraft）> ![](/data/assets/guide/3e91f745133fcd75.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-aim-freja.png)瞄準（Take Aim），就能將她迅速擊殺。",
+        "如果你的英雄不屬於上述任何類別，請記住弗蕾亞擅長集火單一目標，但在面對多名敵人時會顯得脆弱。請站在隊友附近，避免讓自己陷入一對一的局面。",
+        "此外，當你看到她使用上升氣流（Updraft）時，請注意你有 10 秒的空窗期，這段時間內她無法在掩體後方鎖定你，也無法逃往高處（除非她正在使用乘風（Rising Winds））。",
+        "擁有傷害減免能力的英雄，在聽到她的絕招語音時，應設法格擋 ![](/data/assets/guide/b1ce1291520986df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbola-shot.png)流星索（Bola Shot）。"
       ],
-      "content_hash": "b606181f4634",
-      "prompt_version": "v5",
+      "content_hash": "727c2d58bc1e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:50.583588Z"
+      "timestamp": "2026-03-20T13:20:25.710047Z"
     },
     "8.2": {
-      "title": "特定英雄剋制名稱",
+      "title": "特定英雄剋制對象名稱",
       "description": "",
       "content": [
-        "D.Va",
-        "毀滅拳王",
-        "源氏",
-        "路西歐",
-        "奪命女",
-        "艾西",
-        "禪亞塔"
+        "* D.Va",
+        "* 毀滅拳王",
+        "* 源氏",
+        "* 路西歐",
+        "* 奪命女",
+        "* 艾西",
+        "* 禪亞塔"
       ],
       "content_hash": "738f5a1c77ad",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:37:51.864637Z"
+      "timestamp": "2026-03-20T13:20:27.071710Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.741544Z"
+    "timestamp": "2026-03-20T13:19:40.415762Z"
   }
 }

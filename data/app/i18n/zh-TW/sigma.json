@@ -6,40 +6,40 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "席格馬（Sigma）擁有控制重力的能力，能粉碎路徑上的所有敵人。席格馬在控制團戰節奏與站位方面的能力，在坦克類別中幾乎無人能及。由於能夠同時減免敵方投射物並造成大量傷害，席格馬在各種不同的版本環境中始終表現穩定。除非他被大幅削弱，否則席格馬在任何情況下都不會顯得毫無用處。",
-        "席格馬的範圍傷害（AoE poke damage）能快速累積他的絕招充能，並讓敵方隊伍的生命值持續處於低點，這為他的隊伍創造了大量發動攻勢的機會。他爭奪空間的方式並非直接擋在敵人面前，而是透過輸出高額傷害的同時，讓自己承受極低的傷害。",
-        "席格馬的理想交戰距離由他的主要攻擊方式決定，因此他總是設法轉位並保持完美的距離。當面對擁有大量遠程消耗傷害的隊伍時，沒有其他坦克能比這位天體物理學家更能應對這種遠程猛攻。"
+        "憑藉著控制重力的能力，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬能粉碎路徑上的每一名敵人。![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬在控制團隊戰鬥節奏與站位方面的能力，在![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克類別中幾乎無人能及。能夠同時減免敵方投射物傷害並造成大量輸出，使得![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬在各種不同的版本環境中始終保持穩定表現。除非他被大幅削弱，否則在任何情況下，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬都不會顯得毫無用處。",
+        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的範圍性（AoE）消耗傷害能快速累積他的絕招充能，並讓敵方隊伍的生命值持續處於低點，這為他的隊伍創造了大量發動攻勢的機會。他爭奪空間的方式並非直接擋在敵人面前，而是透過輸出高額傷害的同時，讓自己承受極低的傷害。",
+        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的理想作戰距離由他的主要攻擊方式決定，因此他總是尋求轉位並維持最佳距離的方法。當面對擁有強大消耗能力的隊伍時，沒有其他坦克能比這位天體物理學家更擅長應對遠程猛攻。"
       ],
-      "content_hash": "61be86221f9f",
-      "prompt_version": "v5",
+      "content_hash": "29e5d55b4783",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:05.132014Z"
+      "timestamp": "2026-03-20T13:01:59.106343Z"
     },
     "1.1.1": {
-      "title": "操作技巧",
+      "title": "操作指南",
       "description": "",
       "content": [
-        "* 保持在中距離的騷擾位置，以最大化超球體（Hyperspheres）的傷害，同時讓自己處於敵方的最佳攻擊範圍之外。",
-        "* 使用實驗屏障（Experimental Barrier）來阻擋敵方醫護兵（Medic）對其坦克（Tank）或我方隊伍造成的傷害與治療。",
-        "* 在發動重力流（Gravitic Flux）之前，請先追蹤敵方的逃生技能（例如消散（Fade）），否則敵方將能輕易避開其範圍傷害（AoE）。"
+        "* 保持在中距離的騷擾位置，以最大化 ![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）的傷害，同時讓自己處於敵方的最佳射程之外。",
+        "* 使用 ![](/data/assets/guide/17f84ecf06b49c68.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fexperimental-barrier.png)實驗屏障（Experimental Barrier）來阻擋敵方 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)醫護兵（Supports）對其 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)戰士（Tank）或我方隊伍造成的傷害與治療。",
+        "* 在發動 ![](/data/assets/guide/c95892af1b952964.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgravitic-flux.png)重力流（Gravitic Flux）之前，務必先確認敵方是否已使用過如 ![](/data/assets/guide/3645240b7a0b07c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffade.png)消散（Fade）之類的逃脫技能，否則敵方將能輕易避開其範圍傷害（AoE）。"
       ],
-      "content_hash": "7d383b328964",
-      "prompt_version": "v5",
+      "content_hash": "bab113842bb5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:06.902213Z"
+      "timestamp": "2026-03-20T13:02:01.089240Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 利用潛水（dive）或側襲者（flanker）威脅來迫使席格馬（Sigma）離開他最理想的中距離騷擾位置，並利用他缺乏機動性的弱點進行壓制。",
-        "* 光束型英雄對抗席格馬（Sigma）時表現強勢，因為他們能直接穿透他的屏障，且動能掌握（Kinetic Grasp）無法吸收光束攻擊。",
-        "* 在席格馬（Sigma）施放重力流（Gravitic Flux）時使用暈眩技能，在他有機會發動大絕招之前將其強制中斷。"
+        "* 利用潛水（dive）或側襲者（flanker）威脅來逼迫 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬離開他最理想的中距離騷擾位置，藉此利用他缺乏機動性的弱點。",
+        "* 光束型英雄對抗 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬時表現強勢，因為他們能快速消耗他的護盾，且 ![](/data/assets/guide/7486123dd5edc842.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkinetic-grasp.png)動能掌握（Kinetic Grasp）無法吸收光束攻擊。",
+        "* 在他施放 ![](/data/assets/guide/c95892af1b952964.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgravitic-flux.png)重力流（Gravitic Flux）時使用暈眩技能，可以在他發動絕招前立即將其中斷。"
       ],
-      "content_hash": "6e9ff5eae8c0",
-      "prompt_version": "v5",
+      "content_hash": "4ad7696ff7c9",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:08.842712Z"
+      "timestamp": "2026-03-20T13:02:03.014722Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -48,349 +48,349 @@
         "* 高範圍傷害（AoE damage）",
         "* 可移動護盾（Movable shield）",
         "* 生存能力（Survivability）",
-        "* 無位移技能（No mobility spells）",
+        "* 沒有位移技能（No mobility spells）",
         "* 無法獨自擊殺（Can't get solo elims）",
         "* 投射物速度緩慢（Slow projectiles）"
       ],
       "content_hash": "7016df23acf2",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:10.183854Z"
+      "timestamp": "2026-03-20T13:02:04.485473Z"
     },
     "3.1.1": {
       "title": "高範圍傷害輸出",
       "description": "",
       "content": [
-        "在遊戲結束時，席格馬（Sigma）通常會在總傷害量排行榜上名列前茅。特別是在面對那些聚集在坦克附近的隊伍時，席格馬（Sigma）對單一敵人的直接衝擊傷害，加上對多名敵人造成的濺射傷害，能讓傷害數值迅速累積。此外，超能球（Hyperspheres）的彈跳效果，使席格馬（Sigma）在控制走廊和咽喉點等狹窄空間時顯得極為強大。"
+        "在遊戲結束時，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）通常會在總傷害量上領先計分板。特別是在面對那些聚集在坦克附近的隊伍時，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）對單一敵人造成的直接衝擊傷害，加上對多名敵人造成的濺射傷害，能迅速累積數據。此外，![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）的彈跳效果，使![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）在控制狹窄空間（如走廊和咽喉點）時顯得極為強大。"
       ],
-      "content_hash": "ccd42886b5ed",
-      "prompt_version": "v5",
+      "content_hash": "864b970cb652",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:12.156521Z"
+      "timestamp": "2026-03-20T13:02:06.385123Z"
     },
     "3.1.2": {
       "title": "可移動護盾",
       "description": "",
       "content": [
-        "在《鬥陣特攻2》中有許多護盾技能，但唯有席格馬（Sigma）擁有能持續重新部署護盾並將其放置在任何位置的能力。沒有其他護盾能像這樣懸浮在半空中，完美阻擋敵方英雄的視野（LoS）。節省護盾生命值並利用它來應對特定的技能施放、將目標與其隊伍隔開，或是單純吸收完整的 700 點傷害，這些都是他護盾的絕佳用途。"
+        "在《鬥陣特攻2》中有許多護盾技能，但唯獨 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）擁有能夠持續重新部署護盾，並將其放置在任何他想要位置的能力。沒有其他護盾可以懸浮在半空中，完美地阻擋敵方英雄的視線（LoS）。保留護盾生命值並利用它來應對特定的技能使用、將目標與其隊伍其餘成員隔開，或是單純吸收完整的 700 點傷害，這些都是他護盾的絕佳用途。"
       ],
-      "content_hash": "bd9a5b433903",
-      "prompt_version": "v5",
+      "content_hash": "1b158fb47f34",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:14.202410Z"
+      "timestamp": "2026-03-20T13:02:08.425124Z"
     },
     "3.1.3": {
       "title": "生存能力",
       "description": "",
       "content": [
-        "即使席格馬的隊伍在團戰中損失了英雄，只要他還活著，戰鬥就永遠還沒結束。透過在發射「超能球（Hyperspheres）」的空檔妥善利用掩體，「實驗屏障（Barrier）」與「動能轉化（Grasp）」的結合，讓席格馬能將受到的傷害降至最低，並幾乎不需要隊伍中的支援角色投入資源來維持他的生命。「質量吸積（Accretion）」也是極佳的防突襲控場工具，能用來中斷敵人的位移技能，或是為席格馬及其隊友爭取逃脫的時間。"
+        "即使 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的隊伍在團戰中損失了英雄，只要他還活著，戰局就尚未結束。透過在發射 ![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）的間隙妥善利用掩體，並結合「實驗護盾（Barrier）」與「動能轉化（Grasp）」，能讓 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬在承受極低傷害的同時，幾乎不需要隊伍中的醫護兵（Medic）消耗資源來維持他的生命。![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)質量吸附（Accretion）也是絕佳的反側襲者（Flanker）控場工具，能用來中斷敵方的位移技能，或是為 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬及其隊友爭取撤退的時間。"
       ],
-      "content_hash": "c24e6212b6f5",
-      "prompt_version": "v5",
+      "content_hash": "78a8b3837ff4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:16.394286Z"
+      "timestamp": "2026-03-20T13:02:10.553260Z"
     },
     "3.2.1": {
       "title": "無位移能力",
       "description": "",
       "content": [
-        "席格馬（Sigma）最大且最容易被利用的弱點，在於他完全缺乏位移工具。除了施放絕招期間外，席格馬沒有任何方式可以提升自身速度或進行垂直移動，嚴格來說，他是唯一沒有任何位移手段的坦克。對於席格馬而言，站位極其重要，因為他基本上會被困在當前所處的位置。這種低機動性也使他在面對高機動性與突襲陣容時顯得相當脆弱。"
+        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）最大且最容易被利用的弱點，在於他完全缺乏位移工具。除了施放絕招期間外，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）沒有任何方法可以提升自身速度或進行垂直移動，嚴格來說，他是唯一沒有這類能力的![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）。對於![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）而言，站位極其重要，因為他基本上會被困在當前所處的位置。這種低機動性也使他在面對高機動性與突襲陣容時顯得相當脆弱。"
       ],
-      "content_hash": "111ae99b8f1a",
-      "prompt_version": "v5",
+      "content_hash": "8b46aeb2ec09",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:18.081265Z"
+      "timestamp": "2026-03-20T13:02:12.797419Z"
     },
     "3.2.2": {
       "title": "難以獨自完成擊殺",
       "description": "",
       "content": [
-        "席格馬（Sigma）最高的爆發連技（吸積（Accretion）→ 超球（Hyperspheres）→ 近戰攻擊）僅能造成 230 點傷害，這讓標準 250 生命值的英雄有機會存活、逃脫並繼續戰鬥。儘管他的絕招連技（重力流（Flux）→ 超球（Hyperspheres）→ 墜地傷害）可以擊殺單一目標，但仍有許多技能可以反制重力流（Gravitic Flux），讓敵人得以在連技中存活。雖然他整體的傷害輸出很高，但傷害往往過於緩慢或不穩定，若沒有隊友協助，很難穩定地完成擊殺。"
+        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）最高的爆發連段（![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)吸積（Accretion）→ ![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）→ 近戰攻擊）僅能造成 230 點傷害，這讓標準 250 生命值的英雄有機會存活、逃脫並繼續戰鬥。儘管他的絕招連段（重力流（Flux）→ ![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）→ 落地衝擊）可以擊殺單一目標，但仍有許多技能可以反制 ![](/data/assets/guide/c95892af1b952964.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgravitic-flux.png)重力流（Gravitic Flux），使敵人得以在連段中存活。雖然他整體的傷害輸出很高，但傷害往往過於緩慢或不穩定，若沒有隊友協助，難以穩定地完成擊殺。"
       ],
-      "content_hash": "afe8b23eeddc",
-      "prompt_version": "v5",
+      "content_hash": "d2e282eea968",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:19.741669Z"
+      "timestamp": "2026-03-20T13:02:14.986342Z"
     },
     "3.2.3": {
-      "title": "降低主要攻擊的彈道速度與射速",
+      "title": "緩慢的主要攻擊投射物速度與射速",
       "description": "",
       "content": [
-        "席格馬（Sigma）的超球體（Hyperspheres）飛行速度緩慢，需要玩家具備良好的預判能力才能精準命中目標。此外，雙發射擊中兩顆球體之間的間隔時間，也剛好足以讓玩家難以同時命中兩顆球體。再加上緩慢的射速，對於席格馬（Sigma）玩家來說，想要穩定擊中像閃光（Tracer）和霧子（Kiriko）這種受擊判定較小的英雄，將會變得非常困難。"
+        "![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）的速度緩慢，需要大量的預判射擊才能命中目標。雙發射擊中兩顆球體之間的小間隔也剛好大到讓人難以讓兩顆球都直接命中。再加上緩慢的射速，對於 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬 的玩家來說，要持續擊中像 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光 和 ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子 這種受擊判定較小的英雄會變得非常有挑戰性。"
       ],
-      "content_hash": "1ef59ce16287",
-      "prompt_version": "v5",
+      "content_hash": "3c39880cb614",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:22.048936Z"
+      "timestamp": "2026-03-20T13:02:17.056768Z"
     },
     "4.1": {
       "title": "[主要攻擊]：超能球（Hyperspheres）",
       "description": "",
       "content": [
-        "超能球（Hyperspheres）技巧",
-        "* 席格馬（Sigma）是一位透過間接方式爭奪空間的前線戰士（Tank）。（與萊因哈特（Reinhardt）這種直接站在爭奪點位上的英雄不同）。",
-        "* 雖然在近距離時更容易命中目標，但席格馬通常傾向於在最大射程附近作戰。由於他的射擊頻率較慢，利用牆壁或轉角進行「探頭射擊（jiggle peeking）」會非常強大。",
-        "* 僅在席格馬實際發射超能球（Hyperspheres）的瞬間暴露自己，然後迅速撤回掩體後方。",
-        "* 超能球（Hyperspheres）會反彈，因此請尋找機會攻擊轉角處或房間內的敵人。",
-        "* 瞄準敵人的腳部以獲得更穩定的直接命中。因為受傷判定範圍（hurt boxes）較大，且若稍微失手，有時仍能透過反彈擊中敵人。"
+        "關於 ![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）的技巧",
+        "* ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）是一位間接爭奪空間的前線戰士（Tank）。（與像 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）這種直接站在爭奪點位上的英雄不同）。",
+        "* 雖然在近距離時更容易命中目標，但席格馬通常傾向於在最大射程附近作戰。他緩慢的射擊頻率使得利用牆壁或轉角進行「探頭射擊（jiggle peeking）」變得非常強大。",
+        "* 僅在席格馬實際發射 ![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）的瞬間暴露自己，然後迅速撤回掩體後方。",
+        "* ![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）會反彈，因此請尋找機會攻擊轉角處或房間內的敵人。",
+        "* 瞄準敵人的腳部以獲得更穩定的直接命中。因為受擊判定範圍較大，且即便稍微失手，有時也能透過反彈擊中敵人。"
       ],
-      "content_hash": "265e17b72078",
-      "prompt_version": "v5",
+      "content_hash": "52b7b45a595d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:24.192799Z"
+      "timestamp": "2026-03-20T13:02:19.512389Z"
     },
     "4.1.1": {
       "title": "站位",
       "description": "",
       "content": [
-        "* 即使在使用實驗屏障（Experimental Barrier）來進行更具侵略性的站位時，最好還是保持在某種掩體附近，即使只是像護送目標（Payload）這樣的局部掩體也行。這些掩體能讓席格馬（Sigma）透過循環使用掩體、屏障與動能掌握（Kinetic Grasp）來保護自己免受傷害，並盡可能地存活下去。",
-        "* 圍繞目標點進行轉位是席格馬（Sigma）玩家必須學習的關鍵技巧。要做到這一點，重點在於與敵人保持距離，將他們維持在你的主要攻擊範圍內，但要避開近戰範圍。當敵人向你移動時，繞著目標區域或掩體移動，以保持距離並持續利用你的範圍傷害（AoE damage）對他們施加壓力。"
+        "* 即使在使用 ![](/data/assets/guide/17f84ecf06b49c68.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fexperimental-barrier.png)實驗屏障（Experimental Barrier）來進行更具侵略性的站位時，最好還是待在某種掩體附近，即使只是像護送目標（Payload）這樣的局部掩體也好。掩體依然能讓席格馬透過輪流使用掩體、屏障以及 ![](/data/assets/guide/7486123dd5edc842.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkinetic-grasp.png)動能補捉（Kinetic Grasp）來保護自己免受傷害，並盡可能地存活下去。",
+        "* 圍繞目標點進行轉點是席格馬玩家必須學習的關鍵技能。要做到這一點，請專注於與敵人保持距離，使他們處於你的主要攻擊範圍內，但又在近戰範圍之外。當敵人向你移動時，繞著目標區域或掩體移動，以保持距離並持續用你的範圍傷害（AoE damage）對他們施加壓力。"
       ],
-      "content_hash": "ba6c0739f556",
-      "prompt_version": "v5",
+      "content_hash": "4fad2eeae2ed",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:25.958929Z"
+      "timestamp": "2026-03-20T13:02:21.782969Z"
     },
     "4.2": {
       "title": "[次要攻擊]：實驗屏障（Experimental Barrier）",
       "description": "",
       "content": [
-        "實驗屏障（Experimental Barrier）使用技巧",
+        "關於 ![](/data/assets/guide/17f84ecf06b49c68.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fexperimental-barrier.png)實驗屏障（Experimental Barrier）的技巧",
         "* 盡量不要讓護盾破碎",
-        "* 只要護盾還剩下 1 點生命值，就能省下護盾開始恢復前額外 5 秒的冷卻時間。",
-        "* 只需要 1 點護盾生命值就能擋下像是自爆（Self-Destruct）、睡眠鏢（Sleep Dart）、鎖鏈鉤（Chain Hook）等強力技能。",
-        "* 用來阻擋高價值的拋射物技能，而不是將護盾消耗在隨機的騷擾傷害上。",
-        "* 根據敵方陣容與當下情況，實驗屏障（Experimental Barrier）對於一般的傷害減免很有幫助，但它最好的用途是判斷哪些英雄擁有具備重大影響力的技能，並嘗試保留一些護盾生命值來應對這些技能。",
-        "* 除了上述提到的技能外，心臟過載（Cardiac Overdrive）、鋸齒利刃（Jagged Blade）、地裂擊（Earthshatter）以及生化手榴彈（Biotic Grenade）也是很好的阻擋目標。",
-        "* 在掩體附近遊玩，這樣你就可以收回護盾，並在護盾生命值恢復時利用牆角進行窺探。",
-        "* 在使用動能補捉（Kinetic Grasp）之前先收回護盾，以最大化護盾生命值的管理效益。",
-        "* 阻擋像是奪命女（Widowmaker）、艾西（Ashe）和安娜（Ana）等狙擊手的視野（LoS），她們通常在隊伍後方，且對護盾造成的傷害極低。",
-        "* 非常適合用來阻擋高處位置",
-        "* 在執行此操作時，將護盾放置在盡可能多的敵方英雄身後，這樣它才不會輕易破碎。"
+        "* * 只要護盾還剩下 1 點生命值，就能省去護盾開始恢復前額外的 5 秒冷卻時間。",
+        "* 只需要 1 點護盾生命值就能擋下像是 ![](/data/assets/guide/182487a51a584671.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fself-destruct.png)自爆（Self-Destruct）、![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢（Sleep Dart）、![](/data/assets/guide/92d64f77a57b16b8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fchain-hook.png)鎖鏈鉤（Chain Hook）等強力技能。",
+        "* 用來阻擋高價值的投射物技能，而不是將護盾消耗在隨機的騷擾傷害上。",
+        "* * 根據敵方陣容與當下情況，實驗屏障（Experimental Barrier）對於一般的減傷很有幫助，但它最好的用途是判斷哪些英雄擁有具備重大影響力的技能，並試著保留一些護盾生命值來應對這些技能。",
+        "* 除了上述提到的技能外，![](/data/assets/guide/b54c199ade517940.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcardiac-overdrive.png)心臟過載（Cardiac Overdrive）、![](/data/assets/guide/f053add36af24437.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-blade.png)鋸齒利刃（Jagged Blade）、![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊（Earthshatter）以及 ![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)生化手榴彈（Biotic Grenade）也是很好的例子。",
+        "* 在掩體附近遊玩，這樣你才能收回護盾，並在護盾生命值恢復時進行轉角探頭。",
+        "* 在使用動能補捉（Kinetic Grasp）前先收回護盾，以最大化護盾生命值的管理。",
+        "* 阻擋像是奪命女、艾西和安娜這類狙擊手的視野（LoS），她們通常待在隊伍後方，且對屏障造成的傷害很低。",
+        "* * 非常適合用來阻擋高處位置",
+        "* 在執行此操作時，將屏障放置在盡可能多的敵方英雄身後，這樣它才不會破碎。"
       ],
-      "content_hash": "dd673876bbf7",
-      "prompt_version": "v5",
+      "content_hash": "151da98f9e3d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:28.801524Z"
+      "timestamp": "2026-03-20T13:02:24.916851Z"
     },
     "4.3": {
       "title": "[Shift]：動能掌握（Kinetic Grasp）",
       "description": "",
       "content": [
-        "動能掌握（Kinetic Grasp）技巧",
-        "* 由於席格馬（Sigma）在動能掌握（Kinetic Grasp）持續的 2 秒期間完全無法防禦光束傷害，因此在使用動能掌握（Kinetic Grasp）時，建議將自己放置在光束型英雄無法攻擊到的位置。",
-        "* 其判定範圍實際上是席格馬（Sigma）前方的一個大型矩形，會吸收所有接觸到的投射物。其範圍效果（AoE）相當寬裕，可以視為一個迷你的防禦矩陣（Defense Matrix）。",
-        "* 吸收來自部署砲塔（Deploy Turret）和鮑伯（B.O.B.）等砲塔的傷害，保證可以產生額外生命值（Overhealth）。",
-        "* 動能掌握（Kinetic Grasp）會被無法吸收的控場技能所反制，因此當敵方擁有像是裂地重擊（Earthshatter）或橫衝直撞（Overrun）這類控場（CC）技能時，請小心不要站位過於激進。"
+        "關於 ![](/data/assets/guide/7486123dd5edc842.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkinetic-grasp.png)動能掌握（Kinetic Grasp）的技巧：",
+        "* Since Sigma is completely vulnerable to beam damage for the full 2 seconds or ![](/data/assets/guide/7486123dd5edc842.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkinetic-grasp.png)Kinetic Grasp, you’ll ideally want to be positioned where the beam heroes can’t attack you when you use Kinetic Grasp.",
+        "* 此技能的判定範圍實際上是席格馬（Sigma）前方的一個大型矩形，會吸收所有接觸到的投射物。其範圍效果（AoE）相當寬裕，可以視為一個小型的 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）。",
+        "* 吸收來自如 ![](/data/assets/guide/5a281b66a6179e54.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeploy-turret.png)部署砲塔（Deploy Turret）和 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 的傷害，能保證獲得額外生命值。",
+        "* 動能掌握（Kinetic Grasp）會被無法吸收的控場技能反制，因此當敵方擁有如 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊（Earthshatter）或 ![](/data/assets/guide/a5b715f2ad049a53.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverrun.png)橫衝直撞（Overrun）等控場技能時，請務必小心，不要站位過於激進。"
       ],
-      "content_hash": "1f368f46dfcf",
-      "prompt_version": "v5",
+      "content_hash": "45572feead90",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:30.971337Z"
+      "timestamp": "2026-03-20T13:02:27.869252Z"
     },
     "4.4": {
       "title": "[E]：吸積（Accretion）",
       "description": "",
       "content": [
-        "吸積（Accretion）使用技巧",
-        "* 直接命中以擊倒並暈眩敵人，是席格馬應對敵方攻勢的唯一反制手段。",
-        "* 面對側襲者（Flanker）類型的輸出英雄時，若能成功命中吸積（Accretion），通常在隊友跟進的情況下就能完成擊殺。",
-        "* 面對大多數具備機動性的坦克時，你可以利用吸積（Accretion）來中斷他們的突進或逃脫。",
-        "* 在溫斯頓（Winston）使用跳躍背包（Jump Pack）時將其擊倒，通常就能順利將其擊殺。",
-        "* 吸積（Accretion）是中斷引導型技能（例如：強能防禦（Power Block）（復仇型態（Nemesis Form））等）的絕佳工具。",
-        "* 由於此技能判定範圍大但飛行速度緩慢，因此最適合在敵人做出可預測的動作時使用（例如：走向掩體、跳躍、墜落，或是使用守護天使（Guardian Angel）或暴力跳躍（Violent Leap）等位移技能時）。"
+        "![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)吸積（Accretion）使用技巧",
+        "* 直接命中以擊倒並暈眩敵人是 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）應對敵方攻勢的唯一反制手段。",
+        "* * 對抗側襲者（Flanker）類型的輸出英雄時，若能命中 ![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)吸積（Accretion），通常在其他隊友跟進的情況下就能成功擊殺目標。",
+        "* 面對大多數具備高機動性的坦克時，你可以利用吸積（Accretion）來中斷他們的突進或逃脫。",
+        "* * 在 ![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓（Winston）使用 ![](/data/assets/guide/71e72edd3dddab12.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjump-pack.png)噴射跳躍（Jump Pack）時將其擊倒，通常就能順利將其擊殺。",
+        "* 吸積（Accretion）是中斷引導型技能（例如 ![](/data/assets/guide/1fda4cd48050e83c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpower-block.png)強力格擋（Power Block）、![](/data/assets/guide/a6b525622400ef12.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblock-nemesis-form.png)格擋（Block，復仇型態）等）的絕佳工具。",
+        "* 此技能擁有巨大的命中判定範圍但飛行速度緩慢，因此最適合在敵人做出可預測的移動時使用。（例如：走向掩體、跳躍、墜落，或是使用如 ![](/data/assets/guide/148ecdeadcafa610.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-angel.png)守護天使（Guardian Angel）或 ![](/data/assets/guide/121d222c0195922b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fviolent-leap.png)暴力跳躍（Violent Leap）等位移技能時。）"
       ],
-      "content_hash": "9e387c3b93d8",
-      "prompt_version": "v5",
+      "content_hash": "7ae3f1c8a7ac",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:33.797398Z"
+      "timestamp": "2026-03-20T13:02:30.621542Z"
     },
     "4.5": {
       "title": "[Q]：（絕招）重力流（Gravitic Flux）",
       "description": "",
       "content": [
-        "重力流（Gravitic Flux）使用技巧",
+        "關於 ![](/data/assets/guide/c95892af1b952964.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgravitic-flux.png)重力流（Gravitic Flux）的技巧",
         "* 選定位置後，會有 1 秒的啟動延遲時間，敵人才會被鎖定在絕招範圍內。",
-        "* * * 追蹤敵人的逃生技能，例如瞬步（Swift Step）、消散（Fade）、強力滑行（Power Slide）和堅毅（Fortify）。如果你沒有親眼看見這些技能被使用，請預設敵人能夠閃避你的絕招。",
-        "* 在絕招期間施放兩發直接命中的超能球（Hyperspheres）（一次齊射）可以擊殺像小美（Mei）這種擁有 300 點生命值的英雄。",
+        "* * 追蹤敵人的逃脫技能，例如 ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步（Swift Step）、![](/data/assets/guide/3645240b7a0b07c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffade.png)消散（Fade）、![](/data/assets/guide/861b66a38565c2cf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpower-slide.png)強力滑行（Power Slide）以及 ![](/data/assets/guide/1818b49db97673b3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffortify.png)堅毅（Fortify）。如果你沒有親眼看見敵人使用這些技能，請假設敵人有能力閃避你的絕招。",
+        "* 在絕招期間直接命中兩發 ![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）（一次齊射）即可擊殺像 ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美（Mei）這樣擁有 300 點生命值的英雄。",
         "* 利用掩體",
-        "* * 強力擊倒和暈眩效果會中斷你的絕招。你可以在空中移動到掩體後方、啟動絕招、躲藏，然後探頭射擊超能球（Hyperspheres）。",
-        "* 將實驗屏障（Experimental Barrier）放置在你即將飛往的位置前方來保護自己。",
-        "* 如果確定敵人擁有像睡眠鏢（Sleep Dart）之類的暈眩技能，最好啟動後就躲起來，直到重擊發生為止。讓你的隊友在空中射擊他們。"
+        "* * 強力擊倒與暈眩效果會中斷你的絕招。你可以在空中移動到掩體後方、啟動絕招、躲起來，然後再探頭射擊 ![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）。",
+        "* 在你準備飛行的位置前方放置 ![](/data/assets/guide/17f84ecf06b49c68.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fexperimental-barrier.png)實驗屏障（Experimental Barrier）來保護自己。",
+        "* 如果確定敵人擁有像 ![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢（Sleep Dart）之類的暈眩技能，最好啟動絕招後就躲起來，直到重擊落下為止。讓你的隊友在空中射擊他們。"
       ],
-      "content_hash": "98bee14fa3dc",
-      "prompt_version": "v5",
+      "content_hash": "c58679b2ae94",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:37.996637Z"
+      "timestamp": "2026-03-20T13:02:33.566962Z"
     },
     "5.1.1": {
       "title": "動能循環（Kinetic Cycle）",
       "description": "使用動能掌握（Kinetic Grasp）吸收拋射物也能縮短增生（Accretion）的冷卻時間。",
       "content": [
-        "* 當你在面對側襲者（Flanker）和戰士（Bruiser）型坦克難以保持距離時相當實用。否則，請選擇另一個特殊能力。"
+        "* 當難以與側襲者（Flanker）和戰士（Bruiser）類型的坦克（Tanks）保持距離時相當不錯 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)。否則，請選擇另一個。"
       ],
-      "content_hash": "91f7f9386f2d",
-      "prompt_version": "v5",
+      "content_hash": "924a545df1db",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:40.071406Z"
+      "timestamp": "2026-03-20T13:02:35.256882Z"
     },
     "5.1.2": {
       "title": "超速再生（Hyper Regeneration）",
-      "description": "超能球（Hyperspheres）造成傷害的 40% 會轉化為實驗護盾（Experimental Barrier）的生命值。",
+      "description": "超能球（Hyperspheres）造成傷害的 40% 會恢復實驗護盾（Experimental Barrier）的生命值。",
       "content": [
-        "* 護盾生命值非常重要，而席格馬（Sigma）的主武器能造成大量傷害。你的隊伍將獲得顯著提升的護盾量，這也讓每個人都能更輕鬆地存活下來。"
+        "* 護盾生命值非常重要，而 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）的主武器能造成大量傷害。你的隊伍將獲得顯著提升的護盾量，進而讓每個人都能更輕鬆地存活下來。"
       ],
-      "content_hash": "172d22d18d32",
-      "prompt_version": "v5",
+      "content_hash": "0b209694e79c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:41.739343Z"
+      "timestamp": "2026-03-20T13:02:36.752029Z"
     },
     "5.2.1": {
       "title": "超能打擊（Hyper Strike）",
-      "description": "每 5 次超能球（Hyperspheres）直接命中後，你的下一次成功近戰攻擊將使敵人浮空並擊退。",
+      "description": "每 5 次超能球（Hyperspheres）直接命中後，你的下一次成功近戰攻擊（Quick Melee）將會使敵人浮空並擊退。",
       "content": [
-        "* 這是一項有趣的特殊能力（ability），非常適合用來反制任何以近距離作戰為主的敵人。將他們擊飛並推離其最佳攻擊範圍。"
+        "* 這項有趣的特殊能力（ability）非常適合用來反制任何以近距離作戰為主的敵人。將他們送入空中並擊退至其最佳攻擊範圍之外。"
       ],
       "content_hash": "a388b4c8c57f",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:43.149616Z"
+      "timestamp": "2026-03-20T13:02:38.363213Z"
     },
     "5.2.2": {
       "title": "浮空（Levitation）",
       "description": "啟動並按住二段跳（Double Jump）即可短暫向上浮空。",
       "content": [
-        "* 非常實用，因為它賦予了席格馬（Sigma）最缺乏的機動性。",
-        "* 最好的用法是在高地之間穿梭，讓你的遠程騷擾壓力能夠發揮最大優勢。"
+        "* 非常實用，因為它賦予了 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）他所欠缺的一項能力：機動性。",
+        "* 最佳用途是在高地之間穿梭，藉此發揮你的遠程騷擾壓力來主宰戰局。"
       ],
-      "content_hash": "107e305ec3ef",
-      "prompt_version": "v5",
+      "content_hash": "b039b498274c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:44.431923Z"
+      "timestamp": "2026-03-20T13:02:40.147093Z"
     },
     "6.1.1": {
       "title": "皇家賽道",
       "description": "",
       "content": [
-        "* 觀看任何職業比賽，你都會發現席格馬（Sigma）在皇家賽道（Circuit Royal）是必選角色。對於我們一般玩家來說，他依然是這張長距離地圖最強的坦克選擇。皇家賽道基本上是由三條長廊所組成，而席格馬（Sigma）的技能完全契合這種地形。他的屏障（Barrier）可以切斷敵人的視線，且由於這張地圖非常少見側襲者（Flanker），動能補捉（Kinetic Grasp）只需要吸收來自單一方向的傷害即可。狹窄的區域讓席格馬（Sigma）更容易命中他的主要攻擊（primary fire），他也能利用所有的牆壁來輔助瞄準，以達成直接命中。"
+        "* 觀看任何職業比賽，你都會發現 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）是皇家賽道（Circuit Royal）的必選英雄。對我們一般玩家來說，他依然是這張長距離地圖最強的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）選擇。皇家賽道基本上由三條長廊組成，而 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）的所有技能都非常適合這裡。屏障（Barrier）能切斷敵人的視線，且由於這張地圖很少出現側襲，![](/data/assets/guide/7486123dd5edc842.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkinetic-grasp.png)動能補捉（Kinetic Grasp）只需要吸收來自單一方向的傷害即可。狹窄的地形讓 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）更容易命中主要攻擊，他也能利用牆壁來輔助瞄準，打出直接命中。"
       ],
-      "content_hash": "234bccf4297d",
-      "prompt_version": "v5",
+      "content_hash": "b78fcc6420fc",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:46.353039Z"
+      "timestamp": "2026-03-20T13:02:42.096556Z"
     },
     "6.1.2": {
       "title": "垃圾鎮",
       "description": "",
       "content": [
-        "* 在垃圾鎮（Junkertown）中，你大部分時間都會與擅長遠程消耗的隊伍陣容並肩作戰或與之對抗。這三個據點的場地都非常開闊，這可能會讓你難以持續命中超能球（Hyperspheres），但席格馬（Sigma）在這些擁有長視線（LoS）區域的防禦手段是無人能及的。"
+        "* 在垃圾鎮中，你大部分時間都會與擅長消耗戰的隊伍陣容並肩作戰，或是與其對抗。這三個據點的空間都非常開闊，這使得要持續命中 ![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres）變得相當困難，但在這些視野極長的區域中，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的防禦手段是無人能及的。"
       ],
-      "content_hash": "a428751dc02a",
-      "prompt_version": "v5",
+      "content_hash": "1b8f45537d7c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:48.030381Z"
+      "timestamp": "2026-03-20T13:02:43.830741Z"
     },
     "6.1.3": {
       "title": "中城區",
       "description": "",
       "content": [
-        "* 在防守方時，席格馬（Sigma）可以專注於建立強勢陣地來進行防守，並對咽喉點進行火力壓制。在進攻方時，席格馬（Sigma）可以利用防禦技能緩步推進，為隊友爭取移動空間。敵方隊伍大多數的防守位置都在席格馬（Sigma）的攻擊範圍內，因為大部分的交戰都發生在中距離。整張地圖中幾乎沒有任何區域會因為席格馬（Sigma）缺乏機動性，而影響他對戰局的貢獻。"
+        "* 在防守方 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬可以專注於建立強勢陣地，以固守並對咽喉點進行遠程消耗。在進攻方，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬可以利用防禦技能緩慢推進，為隊伍爭取空間並帶領隊友一同前進。敵方隊伍大多數的防守位置都處於 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的射程範圍內，因為大部分的交戰都發生在中距離。在這張地圖上，幾乎沒有任何區域會因為 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬缺乏機動性而影響他對戰局的貢獻。"
       ],
-      "content_hash": "5a4b94e8a74f",
-      "prompt_version": "v5",
+      "content_hash": "ac918a39646f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:50.197534Z"
+      "timestamp": "2026-03-20T13:02:45.803880Z"
     },
     "6.2.1": {
       "title": "捍衛者基地：直布羅陀",
       "description": "",
       "content": [
-        "* 捍衛者基地：直布羅陀的每個據點都充滿了強勢的高地位置，席格馬（Sigma）不僅難以抵達，在面對佔據這些高地的敵人時也難以進行爭奪。"
+        "* 捍衛者基地：直布羅陀上的每個據點都充滿了強勢的高地區域，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）難以輕易抵達，且在面對佔據這些高地的敵人時會感到相當棘手。"
       ],
-      "content_hash": "f31b07ca6974",
-      "prompt_version": "v5",
+      "content_hash": "276b93add531",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:51.697636Z"
+      "timestamp": "2026-03-20T13:02:47.569295Z"
     },
     "6.2.2": {
       "title": "伊利歐斯",
       "description": "",
       "content": [
-        "* 在「深井（Well）」地圖上，席格馬非常容易被控場技能（CC）推入深井中，且他缺乏可靠的手段來反制。而在「遺蹟（Ruins）」與「燈塔（Lighthouse）」地圖上，戰鬥節奏往往比席格馬所偏好的更為近距離，這使得他難以掌控交戰距離。"
+        "* 在「深井（Well）」地圖上，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬非常容易被控場技能（CC）推入深井中，且他缺乏可靠的應對手段。而在「遺跡（Ruins）」和「燈塔（Lighthouse）」地圖上，戰鬥距離都比 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬所偏好的還要近，這讓他難以控制交戰距離。"
       ],
-      "content_hash": "f2f94a091c31",
-      "prompt_version": "v5",
+      "content_hash": "cc844545546d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:53.788525Z"
+      "timestamp": "2026-03-20T13:02:49.127642Z"
     },
     "6.2.3": {
       "title": "尼泊爾",
       "description": "",
       "content": [
-        "* 準備好面對整場比賽都得努力避免被敵方的侵略性攻勢輾壓的情況。尼泊爾（Nepal）有幾個區域適合席格馬（Sigma）發揮，但他必須在整場遊戲中保持近乎完美的表現，而鬥毆型或高機動性的坦克只需要做出幾個正確的決策，就能在這些地圖上擊敗他。即使是在發生較多遠程交火的聖所（Sanctum），一旦敵方突破了他的第一道防線，席格馬（Sigma）往往就會迅速崩潰。"
+        "* 準備好面對整場比賽都試圖不被敵方的侵略性輾壓。尼泊爾（Nepal）有幾個區域 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）可以發揮得不錯，但他必須在整場遊戲中幾乎完美地操作，而戰士（Bruiser）或高機動性坦克只需要做出幾個正確的選擇就能擊敗他。即使是在發生較多遠距離交火的聖所（Sanctum），一旦敵方突破了他的第一道防線，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）往往就會崩潰。"
       ],
-      "content_hash": "3dbf9a045d3d",
-      "prompt_version": "v5",
+      "content_hash": "83b16f0727b5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:55.325418Z"
+      "timestamp": "2026-03-20T13:02:50.804448Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "席格馬（Sigma）最適合消耗型隊伍陣容。席格馬非常擅長吸引敵方的注意力與消耗資源，這讓身後的遠程盟友能夠更自由地發動攻擊。封鎖敵方的消耗型英雄也是席格馬的強項，因此勝算往往會傾向他的隊友。整個隊伍可以通力合作，在敵人有機會全力發動攻勢之前，先逐步削減對方的生命值與資源。",
+        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬最適合消耗型隊伍陣容。![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬非常擅長吸引敵方的注意力與資源，這讓在他後方的遠程隊友能更自由地進行攻擊。封鎖敵方的消耗型英雄也是![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的強項，因此勝算會傾向他的隊友。整個隊伍可以通力合作，在敵人有機會發動全面進攻之前，先削弱他們的生命值與資源。",
         "**以席格馬為核心的理想陣容：**",
-        "* 席格馬、卡西迪、半藏、巴帝斯特、伊拉里"
+        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬、![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪、![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏、![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特、![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里"
       ],
-      "content_hash": "8219d39712a0",
-      "prompt_version": "v5",
+      "content_hash": "bc0b08d1ec58",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:10:57.673378Z"
+      "timestamp": "2026-03-20T13:02:52.923945Z"
     },
     "7.1": {
-      "title": "與其他英雄的個人搭配組合",
+      "title": "與其他英雄的個人搭配",
       "description": "",
       "content": [
-        "卡西迪",
-        "* 卡西迪的最佳射程與席格馬非常相似，這兩位英雄可以組成前線搭檔，互相補足彼此的高傷害輸出。神射手（High Noon）有時很難取得擊殺，通常會變成一種限制區域的絕招。然而，若能用重力流（Gravitic Flux）捕捉到幾名敵人，神射手（High Noon）就意味著必死無疑！",
-        "迴音",
-        "* 迴音在重力流（Gravitic Flux）與聚焦光束（Focusing Beam）之間擁有獨特且強大的搭配效果。重力流（Gravitic Flux）至少會將目標生命值降至 50%，這正好是聚焦光束（Focusing Beam）造成最大傷害的門檻，讓迴音能持續利用席格馬的絕招來確保擊殺。",
-        "* 迴音的消耗傷害與側襲能力，與席格馬偏好的打法和站位非常契合。她也能利用光束（Beam）來確保擊殺被質量吸積（Accretion）擊倒的目標。",
-        "巴帝斯特",
-        "* 巴帝斯特的消耗傷害是輔助英雄能為席格馬提供的最佳功能之一。增幅矩陣（Amplification Matrix）的傷害加成同時適用於質量吸積（Accretion）與超球體（Hyperspheres），這使得這兩項攻擊對遊戲中所有非坦克英雄來說，都能構成「一擊必殺」的連招。此外，席格馬緩慢的移動速度也讓他成為巴帝斯特容易治療的目標。"
+        "![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪",
+        "* ![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪的最佳射程與 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬非常相似，這兩位英雄可以組成前線雙人組，互相銜接彼此的高傷害輸出。神射手（High Noon）有時很難取得擊殺，通常會變成一種區域控制型絕招。然而，若能用 ![](/data/assets/guide/c95892af1b952964.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgravitic-flux.png)重力流（Gravitic Flux）捕捉到幾名敵人，神射手（High Noon）就意味著必死無疑！",
+        "![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音",
+        "* ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音在 ![](/data/assets/guide/c95892af1b952964.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgravitic-flux.png)重力流（Gravitic Flux）與 ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)聚焦光束（Focusing Beam）之間擁有極為強大的獨特搭配。重力流（Gravitic Flux）至少會將目標生命值降至 50%，這正是 ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)聚焦光束（Focusing Beam）能造成最大傷害的門檻，讓 ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音能夠持續利用 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的絕招來確保擊殺。",
+        "* ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音的遠程消耗傷害與側襲能力，與 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的打法和站位非常契合。她也能利用 ![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)質量吸附（Accretion）擊倒敵人後，配合光束來確保擊殺。",
+        "![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特",
+        "* ![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特的遠程消耗傷害是 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援（Support）角色能為 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬提供的最佳輔助能力之一。![](/data/assets/guide/d56469975ca68b87.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Famplification-matrix.png)增幅矩陣（Amplification Matrix）的傷害加成同時適用於 ![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)質量吸附（Accretion）與 ![](/data/assets/guide/30d2c2929a99f2d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyperspheres.png)超能球（Hyperspheres），這使得這兩項攻擊對遊戲中所有非坦克英雄都能構成「一擊必殺」的連段。此外，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬緩慢的移動速度也讓他成為 ![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特容易治療的目標。"
       ],
-      "content_hash": "c2926ca29a95",
-      "prompt_version": "v5",
+      "content_hash": "5070be172673",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:00.400475Z"
+      "timestamp": "2026-03-20T13:02:56.417613Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "當你在對戰中面對席格馬（Sigma）時，你需要先找出他的站位，接著追蹤他哪項技能最能反制你的招式。如果你正在使用溫斯頓（Winston），你不需要太在意實驗護盾（Experimental Barrier）或動能轉化（Kinetic Grasp），但如果他能在你使用噴射跳躍（Jump Pack）時以質量吸附（Accretion）擊中你，這很可能會導致你死亡。",
-        "無論你使用哪位英雄，透過不斷變換位置來智取他的護盾運用將會對你很有幫助。接著，專注於縮短與他的距離，並試著將他困在無法撤退的地方。"
+        "每當你在對抗 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬時，你都必須找出他試圖站位的位置，接著追蹤他哪項特殊能力最能反制你的技能。如果你正在使用 ![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓，你不需要在意他的 ![](/data/assets/guide/17f84ecf06b49c68.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fexperimental-barrier.png)實驗護盾（Experimental Barrier）或 ![](/data/assets/guide/7486123dd5edc842.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkinetic-grasp.png)動能補捉（Kinetic Grasp），但如果他在你使用 ![](/data/assets/guide/71e72edd3dddab12.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjump-pack.png)噴射背包（Jump Pack）時以 ![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)質量吸附（Accretion）擊中你，這很容易導致你死亡。",
+        "無論你使用哪位英雄，透過不斷變換位置來智取他的護盾運用將會對你很有幫助。接著專注於拉近與他的距離，並試著將他困在無法撤退的地方。"
       ],
-      "content_hash": "bd1befc85034",
-      "prompt_version": "v5",
+      "content_hash": "c9eb1f1fa25b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:02.396376Z"
+      "timestamp": "2026-03-20T13:02:58.853376Z"
     },
     "8.1": {
       "title": "特定英雄剋制關係",
       "description": "",
       "content": [
-        "札莉雅",
-        "* 札莉雅是一名光束型英雄，這意味著每當席格馬使用動能補捉（Kinetic Grasp）時，她都能持續對他進行兩秒的無間斷攻擊！當札莉雅向前推進逼近席格馬時，她可以輕易地利用粒子屏障（Particle Barrier）來應對吸積（Accretion），不僅能防止其控場效果，還能為札莉雅提供爆發性的能量充能。",
-        "辛梅塔",
-        "* 首先，每當實驗屏障（Experimental Barrier）出現在她面前時，她的主要攻擊充能速度會快得驚人。接著，當屏障消失後，高充能的光束能迅速融化席格馬。其次，傳送門（Teleporter）能將她的整支隊伍重新部署到席格馬完全無法跟上或應對的位置。若操作得當，辛梅塔對陣席格馬是《鬥陣特攻2》中最嚴重的剋制關係之一。",
-        "路西歐",
-        "* 路西歐本身可以透過牆面滑行來干擾席格馬，讓難以追蹤這名高速支援角色的席格馬感到頭痛。然而，路西歐真正剋制席格馬的方式，是透過加速增益（Speed Boost）將他那些移動緩慢的隊友送入席格馬的陣中，而席格馬若沒有隊友協助，將無路可逃。許多近距離英雄（小美、萊因哈特、辛梅塔等）在對抗席格馬時非常強勢，前提是他們必須能拉近距離。路西歐為他們提供了穩定達成這一目標的手段。"
+        "![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅",
+        "* ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅是一名光束型英雄，這意味著每當 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬使用 ![](/data/assets/guide/7486123dd5edc842.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkinetic-grasp.png)動能補捉（Kinetic Grasp）時，她都能持續對他進行兩秒的猛烈攻擊！當 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅向前推進對抗 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬時，她可以輕鬆反應並使用 ![](/data/assets/guide/81b1062b5b25f966.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fparticle-barrier.png)粒子屏障（Particle Barrier）來抵擋 ![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)質量吸積（Accretion），不僅能防止其控場效果，還能為 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅提供爆發性的能量充能。",
+        "![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔",
+        "* 首先，只要 ![](/data/assets/guide/17f84ecf06b49c68.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fexperimental-barrier.png)實驗屏障（Experimental Barrier）出現在她面前，她的主要攻擊充能速度會快得驚人。接著，當屏障消失後，高充能的光束能迅速融化 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬。其次，![](/data/assets/guide/442047e29c6772ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fteleporter.png)傳送門（Teleporter）能將她的整個隊伍重新部署到 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬完全無法追上或應對的位置。若操作得當，![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔對陣 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬是《鬥陣特攻2》中最嚴重的剋制關係之一。",
+        "![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐",
+        "* 單獨來看，![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐可以透過牆面走壁來干擾 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬，因為後者很難鎖定這位高速移動的 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援（Support）。然而，![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐真正剋制 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的方式，是利用加速增幅（Speed Boost）將他那些移動緩慢的隊友送入 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的陣中，讓他若沒有隊友協助便無處可逃。許多近距離英雄（![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美、![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特、![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔等）在能拉近距離的情況下，對抗 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬時非常強勢。而 ![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐正是給予了他們達成此目標的穩定手段。"
       ],
-      "content_hash": "c8b41c672f8c",
-      "prompt_version": "v5",
+      "content_hash": "22bc71c097c4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:05.492274Z"
+      "timestamp": "2026-03-20T13:03:03.120096Z"
     },
     "8.2": {
       "title": "特定英雄剋制名單",
@@ -403,14 +403,14 @@
         "* 萊因哈特"
       ],
       "content_hash": "05f1243fb1ac",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:11:07.136670Z"
+      "timestamp": "2026-03-20T13:03:04.491466Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.436441Z"
+    "timestamp": "2026-03-20T13:13:27.562953Z"
   }
 }

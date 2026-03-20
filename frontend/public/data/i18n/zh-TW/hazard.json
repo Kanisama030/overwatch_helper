@@ -6,360 +6,360 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "透過身體強化，災害（Hazard）能在敵方隊伍周圍跳躍，並利用他危險的鋸齒之牆（Jagged Wall）困住對手。這道可部署的牆體積龐大，足以封鎖大多數的門口，並能用來切斷敵人試圖使用的入口與逃生路徑。同樣地，當他在交戰期間將牆體作為防禦屏障來保護自己時，效果也相當顯著。",
-        "身為一名坦克，他的定位相當靈活，並不完全符合任何傳統的坦克分類。他的散彈槍、牆體與格擋使他成為稱職的前線戰士（Bruiser），而跳躍（Leap）與翻越（Vault）則賦予了他側襲（Flanker）的能力。當你希望在比賽中能快速切換防禦與侵略性打法時，災害（Hazard）會是一個絕佳的坦克選擇。"
+        "透過身體強化，![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）能在敵方隊伍周圍跳躍，並利用危險的 ![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）困住他們。這道可部署的牆體積夠大，足以封鎖大多數門口，並可用於切斷敵人試圖使用的入口與逃生路徑。當他在交戰期間將牆體作為防禦屏障來保護自己時，同樣非常有效。",
+        "身為一名 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank），他相當全面，並不完全符合任何傳統的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）分類。他的霰彈槍、牆體與格擋使他成為稱職的前線鬥士，而躍擊（Leap）與 ![](/data/assets/guide/0288db79a40ae52f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvault.png)跳躍（Vault）也賦予了他突襲的能力。如果你希望在比賽中能快速切換防禦與進攻風格，![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）會是一個絕佳的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）選擇。"
       ],
-      "content_hash": "8ef928954da7",
-      "prompt_version": "v5",
+      "content_hash": "39b2d541e32b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:26.872379Z"
+      "timestamp": "2026-03-20T13:18:00.988809Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 使用鋸齒之牆（Jagged Wall）來切斷敵人的視野（LoS）。你可以保護自己免受傷害，或是將敵人與其隊友隔開。",
-        "* 時刻保持移動並重新調整位置。跳躍（Vault）沒有冷卻時間，而暴力飛躍（Violent Leap）的冷卻時間也很短。災害（Hazard）在移動時表現最佳，絕不應該待在同一個地方不動。",
-        "* 儘早使用尖刺防禦（Spike Guard）來維持護甲並獲取敵方位置資訊。進行突擊（Dive），然後再次使用防禦（Guard）來擊殺目標，並存活足夠長的時間以飛躍（Leap）離開。"
+        "* 使用 ![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）來阻斷敵方的視野（LoS）。你可以藉此保護自己免受傷害，或是將敵人與其隊友隔開。",
+        "* 時刻保持移動並重新調整位置。![](/data/assets/guide/0288db79a40ae52f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvault.png)跳躍（Vault）沒有冷卻時間，且 ![](/data/assets/guide/121d222c0195922b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fviolent-leap.png)猛烈躍擊（Violent Leap）的冷卻時間很短。![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）在移動時表現最佳，絕不應該待在同一個地方不動。",
+        "* 儘早使用 ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺護衛（Spike Guard）來維持護甲並獲取敵方位置資訊。進行突襲，然後再次使用護衛來擊殺目標，並存活足夠長的時間以躍擊（Leap）離開。"
       ],
-      "content_hash": "6d4d04430c4c",
-      "prompt_version": "v5",
+      "content_hash": "f9974aa7b333",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:28.649606Z"
+      "timestamp": "2026-03-20T13:18:02.876867Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 每當你看到災害（Hazard）使用尖刺防禦（Spike Guard）時，請對他使用你的控場技能。",
-        "* 規劃好你該如何在他發動突襲時存活下來。你可以使用逃生技能、傷害減免、暈眩技能，或是站位靠近能協助你的隊友。",
-        "* 必要時進行針對性換角。例如：安娜（Ana）可以使用睡眠鏢和禁療瓶來反制他；迴音（Echo）可以避開他的突襲，並在他格擋結束後利用爆發連招將其擊殺；攔路豬（Roadhog）可以使用攔路鉤（Hook）來中斷他的突襲。"
+        "* 每當你看到 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）使用 ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺防禦（Spike Guard）時，請對他使用你的控場技能。",
+        "* 規劃好你該如何在他突襲時存活下來。你可以使用逃生技能、傷害減免、暈眩效果，或是移動到能協助你的隊友身邊。",
+        "* 必要時進行英雄更換（Counterswap）。範例：![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜（Ana）可以使用睡眠鏢和禁療瓶來對付他；![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音（Echo）可以避開他，並在他防禦結束後利用爆發連技將其擊殺；![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬（Roadhog）可以使用肉鉤（Hook）來中斷他的突襲。"
       ],
-      "content_hash": "d11d41780050",
-      "prompt_version": "v5",
+      "content_hash": "190adbe8ab99",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:30.642393Z"
+      "timestamp": "2026-03-20T13:18:05.436252Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 機動性位移技能（Mobile Movement Abilities）",
-        "* 擁有大型屏障（Big wall）",
+        "* 機動位移能力（Mobile Movement Abilities）",
+        "* 擁有大型防禦牆（Big wall）",
         "* 高運作時間（High uptime）",
         "* 必須處於近戰範圍（Melee range）",
         "* 短距離機動性（Short mobility）",
-        "* 難以應對控場技能（Struggles vs CC）"
+        "* 對抗控場效果（CC）時較為吃力"
       ],
       "content_hash": "fe9d3a72dc06",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:32.251689Z"
+      "timestamp": "2026-03-20T13:18:06.738262Z"
     },
     "3.1.1": {
       "title": "多種機動工具",
       "description": "",
       "content": [
-        "災害（Hazard）可以攀爬牆壁與邊緣、進行跳躍（Leap）以及兔子跳（bunny hop）。在必要時，他甚至可以翻越（Vault）鋸齒牆（Jagged Wall）。只要妥善進行站位並管理好冷卻時間，你就不會陷入沒有機動選項的困境。"
+        "![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）可以攀爬牆壁與邊緣、進行跳躍（Leap）以及兔跳（bunny hop）。在必要時，他甚至可以![](/data/assets/guide/0288db79a40ae52f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvault.png)翻越（Vault）![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）。只要妥善進行站位並管理冷卻時間，你就不應該會遇到沒有機動選項的情況。"
       ],
-      "content_hash": "51c3a7ef2294",
-      "prompt_version": "v5",
+      "content_hash": "60d877aa095a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:33.759379Z"
+      "timestamp": "2026-03-20T13:18:08.233252Z"
     },
     "3.1.2": {
       "title": "可部署牆體",
       "description": "",
       "content": [
-        "作為唯一擁有可部署牆體的坦克，也是除了小美（Mei）之外唯一具備此能力的英雄，災害（Hazard）能夠執行其他坦克無法做到的戰術。這道牆體在封鎖門口、作為屏障、孤立敵人、切斷敵方撤退路線，以及造成少量傷害等方面都同樣有效。"
+        "作為唯一擁有可部署牆體的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)戰士，同時也是除了 ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美之外唯一具備此能力的英雄，![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害能夠執行其他 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)戰士無法做到的戰術。這道牆體在封鎖門口、作為屏障使用、隔離敵人、切斷敵方撤退路線，以及造成少量傷害方面同樣出色。"
       ],
-      "content_hash": "9994a8d3ed26",
-      "prompt_version": "v5",
+      "content_hash": "28ab8dbf1dd4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:35.349487Z"
+      "timestamp": "2026-03-20T13:18:10.144742Z"
     },
     "3.1.3": {
       "title": "高運作時間",
       "description": "",
       "content": [
-        "憑藉多種強大的特殊能力（abilities）以及短暫的冷卻循環，災害（Hazard）從不需要在戰鬥前乾等資源恢復。與許多其他將整體戰術核心圍繞在單一長冷卻時間特殊能力（ability）的坦克相比，災害（Hazard）能將更多的時間投入在激烈的戰鬥之中。"
+        "憑藉多種強大的能力與短暫的冷卻循環，![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）從不需要在交戰前枯等資源恢復。與許多其他圍繞著單一長冷卻時間能力作為核心戰術的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tanks）相比，![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）能將更多時間投入在激烈的戰鬥之中。"
       ],
-      "content_hash": "05893222c6a7",
-      "prompt_version": "v5",
+      "content_hash": "f24ad60688de",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:37.126086Z"
+      "timestamp": "2026-03-20T13:18:11.869994Z"
     },
     "3.2.1": {
       "title": "必須近身作戰",
       "description": "",
       "content": [
-        "斬擊（Slash）與骨刺（Bonespur）僅在極近距離下有效。根據地圖與敵方隊伍陣容，災害（Hazard）可能會在試圖靠近敵人的過程中，因受到遠程消耗而浪費大量時間。"
+        "「斬擊（Slash）」與 ![](/data/assets/guide/e333ac66d1d49141.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbonespur.png)「骨刺（Bonespur）」僅在極近距離下有效。根據地圖與敵方隊伍陣容，![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）可能會在試圖接近敵人的過程中，因受到遠程消耗而浪費大量時間。"
       ],
-      "content_hash": "05e63eb17c9e",
-      "prompt_version": "v5",
+      "content_hash": "8048efeffaa1",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:38.561764Z"
+      "timestamp": "2026-03-20T13:18:13.260140Z"
     },
     "3.2.2": {
       "title": "短距離位移",
       "description": "",
       "content": [
-        "雖然他並非傳統意義上真正的機動型坦克（Dive Tank），但他的遊玩風格非常相似。然而，與其他機動型坦克相比，他的移動範圍相當有限。災害（Hazard）在追擊那些擁有自身位移與逃生手段的敵人時會感到相當吃力。"
+        "雖然他並非傳統意義上真正的突擊型（Dive）![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克，但他的遊玩風格卻非常相似。然而，與其他突擊型（Dive）![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克相比，他的移動範圍相當有限。![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）在追擊那些擁有自身位移與逃脫手段的敵人時會感到相當吃力。"
       ],
-      "content_hash": "061efd967041",
-      "prompt_version": "v5",
+      "content_hash": "2014a9d249e3",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:40.397677Z"
+      "timestamp": "2026-03-20T13:18:15.095161Z"
     },
     "3.2.3": {
       "title": "容易受到控場影響",
       "description": "",
       "content": [
-        "由於缺乏屏障且「鋸齒之牆（Jagged Wall）」僅能使用一次，災害（Hazard）特別容易受到控場（CC）的影響。如果敵方隊伍中有具備暈眩和位移技能的英雄，請預期在每次使用「尖刺護衛（Spike Guard）」時都會成為目標。緩慢且可預測的移動方式，使災害（Hazard）成為一個容易被鎖定的目標。"
+        "由於缺乏屏障且 ![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）僅有一次使用機會，![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）特別容易受到控場技能的影響。如果敵方隊伍擁有具備暈眩和位移能力的英雄，請預期在每次使用 ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺護衛（Spike Guard）時都會成為目標。緩慢且可預測的移動方式，使 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）成為容易被鎖定的目標。"
       ],
-      "content_hash": "c9e14da01ca5",
-      "prompt_version": "v5",
+      "content_hash": "9398efbc4001",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:42.076487Z"
+      "timestamp": "2026-03-20T13:18:17.014298Z"
     },
     "4.1": {
       "title": "主要攻擊：骨刺（Bonespur）",
       "description": "",
       "content": [
-        "**骨刺（Bonespur）的使用技巧**",
-        "* 在接近時進行騷擾",
-        "* 不要只是乾等完美的時機。一旦看到敵人，你就可以開始施加一些騷擾壓力。",
-        "* 面對擁有護盾的坦克時，距離並不是太大的問題，你很適合用來削減他們的護盾生命值。",
+        "**![](/data/assets/guide/e333ac66d1d49141.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbonespur.png)骨刺（Bonespur）的操作技巧**",
+        "* 在接近時進行消耗",
+        "* 不要只是乾等完美的時機。一旦看到敵人，你就可以開始施加消耗壓力。",
+        "* 面對擁有護盾的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)戰士（Tanks）時，距離並不是太大的問題，你很擅長削減他們的護盾生命值。",
         "* 利用掩體",
-        "* 你的遠程傷害能力幾乎比所有其他英雄都差，所以你不應該陷入全面的遠程對戰。射擊時利用掩體進行探頭，以將你受到的傷害降至最低。",
+        "* 你的遠程傷害能力幾乎比其他所有英雄都差，所以你不會想要陷入全面的遠程對戰。射擊時利用掩體進行探頭，以將你受到的傷害降至最低。",
         "* 在全面交戰前重新裝填",
-        "* 骨刺（Bonespur）是你主要的傷害手段，所以如果你一直在進行騷擾，請確保在跳入敵方隊伍前完成重新裝填。",
-        "* 尖刺防禦（Spike Guard）會自動重新裝填，所以如果你打算進行格擋，就不需要手動重新裝填。"
+        "* ![](/data/assets/guide/e333ac66d1d49141.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbonespur.png)骨刺（Bonespur）是你主要的傷害手段，所以如果你一直在進行消耗，請確保在跳入敵方隊伍前完成重新裝填。",
+        "* ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺護衛（Spike Guard）會自動重新裝填，所以如果你正準備格擋，就無需手動重新裝填。"
       ],
-      "content_hash": "f53e1c9d414e",
-      "prompt_version": "v5",
+      "content_hash": "8571ac1c375f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:44.283583Z"
+      "timestamp": "2026-03-20T13:18:19.541036Z"
     },
     "4.2": {
       "title": "次要攻擊：尖刺防禦（Spike Guard）",
       "description": "",
       "content": [
-        "**尖刺防禦（Spike Guard）技巧**",
+        "**![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺防禦（Spike Guard）的使用技巧**",
         "* 保持你的護甲值",
-        "* 不要等到快死了才開始格擋。格擋的最佳時機是你擁有充足護甲值的時候，而不是在你即將死亡時。這樣當你重新開始攻擊時，你依然有護甲可以承受傷害。",
-        "* 最終一擊",
-        "* 自動發射的傷害非常適合用來收割生命值偏低的敵人。這保證能命中目標、為你的主要攻擊裝填彈藥，並為你的醫護兵（Medic）爭取治療你的時間。",
-        "* 在爆發傷害中存活",
-        "* 尖刺防禦（Spike Guard）可減少 65% 的所有正面直接傷害。只要你不是貼在炸彈旁邊，你甚至可以存活於 D.Va 的自爆（D.Va Bomb）。",
-        "* 當你看到即將到來的爆發傷害時，務必嘗試跳躍（Leap）並立即進行格擋。",
+        "* 不要等到快死了才開始格擋。最佳的格擋時機是你擁有充足護甲值的時候，而不是瀕死之際。這樣當你再次發動攻擊時，你依然有足夠的護甲來承受傷害。",
+        "* 終結敵人",
+        "* 自動觸發的傷害對於收割生命值偏低的敵人非常有效。它保證命中、能為你的主要攻擊填裝彈藥，並能為你的 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)醫護兵（Supports）爭取治療你的時間。",
+        "* 存活於爆發傷害中",
+        "* ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺防禦（Spike Guard）能減少 65% 的所有正面直接傷害。只要你不是貼在爆炸點旁邊，你甚至可以存活於 D.Va 的自爆之下。",
+        "* 當你看到即將到來的爆發傷害時，請務必嘗試跳躍（Leap）並立即進行格擋。",
         "* 減少治療資源的消耗",
-        "* 作為一名非護盾型戰士（Bruiser），你的職責依然是盡可能減少受到的傷害。不要成為一個只會吸取隊伍所有治療資源的肉盾。如果兩名醫護兵（Medic）必須不斷地治療你，這會導致你的隊友很快被擊殺。",
-        "* 防禦冷卻時間很短，所以請頻繁使用格擋。"
+        "* 身為一名沒有護盾的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank），你的職責依然是盡可能減少受到的傷害。不要成為一個只會吸收子彈、耗盡隊伍治療資源的肉盾。如果兩名 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)醫護兵（Supports）必須不斷地治療你，這會導致你的隊友很快被擊殺。",
+        "* 防禦技能冷卻恢復很快，請頻繁使用格擋。"
       ],
-      "content_hash": "665b96b3df37",
-      "prompt_version": "v5",
+      "content_hash": "9fdc8e5eac1d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:47.381615Z"
+      "timestamp": "2026-03-20T13:18:23.074755Z"
     },
     "4.3": {
       "title": "[SHIFT]：暴力躍擊（Violent Leap）",
       "description": "",
       "content": [
-        "**「暴力躍擊（Violent Leap）」技巧**",
-        "* 逐步推進空間",
-        "* 暴力躍擊不像溫斯頓、毀滅拳王、D.Va 或火爆鋼球那樣能讓你橫跨整張地圖。因此，你需要以暴力躍擊的距離為單位分段推進。",
-        "* 躍擊至最近的掩體、進行騷擾並使用「防禦（Guard）」，接著躍擊至下一個能讓你更接近目標的掩體，直到最終進入你的突襲範圍。",
-        "* 先交戰再撤離",
-        "* 別忘了暴力躍擊也是一種逃生工具。雖然你主要會用它來進攻，但它同樣非常適合用來撤退到安全地帶。",
+        "**![](/data/assets/guide/121d222c0195922b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fviolent-leap.png)暴力躍擊（Violent Leap）的使用技巧**",
+        "* 循序漸進地佔據空間",
+        "* 暴力躍擊不像 ![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓、![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)毀滅拳王、![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 或 ![](/data/assets/guide/2d37d713fbda6bee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwrecking-ball.png)火爆鋼球那樣能讓你跨越整個地圖。因此，你需要以暴力躍擊的距離為單位分段推進。",
+        "* 躍擊至最近的掩體、進行騷擾並使用防禦（Guard），然後躍擊至下一個能讓你更接近目標的掩體，直到最終進入突襲範圍。",
+        "* 進場與撤退",
+        "* 別忘了 ![](/data/assets/guide/121d222c0195922b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fviolent-leap.png)暴力躍擊同時也是一個逃生工具。雖然你主要會用它來發動攻擊，但它也非常適合用來撤退至安全位置。",
         "* 兔子跳（Bunnyhop）",
         "* 躍擊並在落地瞬間跳躍來執行兔子跳。你將能保持慣性並跳得更遠。",
-        "* 你也可以在兔子跳之後才使用「斬擊（Slash）」，藉此有效地延伸移動距離。",
+        "* 你也可以在兔子跳後才使用斬擊（Slash），藉此有效延長其移動距離。",
         "* 在空中使用其他技能",
-        "* 不要只是在空中漂浮，試著攻擊或部署「鋸齒之牆（Jagged Wall）」。這對於額外傷害與連段非常有幫助。",
-        "* 最佳連段：暴力躍擊（Violent Leap） → 骨刺（Bonespur）（主要攻擊） → 暴力躍擊（Violent Leap）斬擊（Slash） → 骨刺（Bonespur） → 近戰攻擊"
+        "* 不要只是在空中飄浮，試著攻擊或部署 ![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）。這對於額外傷害和連招非常有效。",
+        "* 最佳連招：![](/data/assets/guide/121d222c0195922b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fviolent-leap.png)暴力躍擊 → ![](/data/assets/guide/e333ac66d1d49141.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbonespur.png)骨刺（Bonespur）（主要攻擊） → ![](/data/assets/guide/121d222c0195922b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fviolent-leap.png)暴力躍擊斬擊 → ![](/data/assets/guide/e333ac66d1d49141.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbonespur.png)骨刺（Bonespur） → 近戰攻擊"
       ],
-      "content_hash": "04ae21720a6d",
-      "prompt_version": "v5",
+      "content_hash": "5ec5f57c1a30",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:50.661819Z"
+      "timestamp": "2026-03-20T13:18:25.947153Z"
     },
     "4.4": {
       "title": "[E]：鋸齒之牆（Jagged Wall）",
       "description": "",
       "content": [
-        "**鋸齒之牆（Jagged Wall）的使用技巧**",
-        "* 在英雄設定中開啟「鋸齒之牆使用預先放置控制（Jagged Wall uses preplacement controls）」",
+        "![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）的使用技巧",
+        "* 在英雄設定中開啟「![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）使用預先放置控制」，",
         "* 這能讓牆體的精確放置變得更加容易。",
-        "* 切斷視野（LoS）",
-        "* 鋸齒之牆（Jagged Wall）的主要用途是阻擋敵人的視野。你可以在身前部署牆體來阻擋遠程消耗傷害，或是放置在敵人與其醫護兵（Medic）之間，以切斷他們的治療來源。",
+        "* 切斷視線（LoS）",
+        "* 鋸齒之牆（Jagged Wall）的主要用途是阻擋敵方的視線。你可以在身前部署牆體來阻擋遠程消耗傷害，或是放置在敵人與其![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援（Support）之間，以切斷他們的治療來源。",
         "* 保護你的側翼",
-        "* 當你進行側襲（Flanker）深入敵方後排時，對方的剩餘隊員會轉身試圖擊殺你。將鋸齒之牆（Jagged Wall）放置在身後以防禦反擊，這樣你就能專注於進攻。",
-        "* 封鎖入口與逃生路線",
-        "* 鋸齒之牆（Jagged Wall）的體積足以封鎖門口。這非常適合在敵人試圖爭奪目標點時拖延時間，或是將他們彼此隔離。",
-        "* 當你追擊試圖逃跑的敵人時，在他們的前進路徑上施放牆體，以阻止他們逃脫。"
+        "* 當你正在突襲敵方後排時，敵方隊伍的其他成員會轉過頭來試圖擊殺你。在身後放置![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）來保護自己免受反擊，這樣你就能專注於進攻。",
+        "* 封鎖入口與逃生路徑",
+        "* ![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）的體積足以封鎖門口。這非常適合在敵人試圖爭奪目標點時拖延時間，或是將他們彼此隔開。",
+        "* 當你在攻擊試圖逃跑的敵人時，將牆體射在他們的路徑上，以阻止他們逃脫。"
       ],
-      "content_hash": "92c739465056",
-      "prompt_version": "v5",
+      "content_hash": "1292f56ff233",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:53.554194Z"
+      "timestamp": "2026-03-20T13:18:28.023635Z"
     },
     "4.5": {
-      "title": "[SPACE]：躍遷（Vault）",
+      "title": "[SPACE]：金庫（Vault）",
       "description": "",
       "content": [
-        "**躍遷（Vault）的技巧**",
+        "**![](/data/assets/guide/0288db79a40ae52f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvault.png)金庫（Vault）的技巧**",
         "* 移動",
-        "* * 由於躍遷（Vault）沒有冷卻時間，你應該盡可能地使用它，並保留猛烈跳躍（Violent Leap）。在準備進場時，利用爬牆（Wall Climb）來佔據高地，或是跳過牆壁以接近目標。",
+        "* * 由於 ![](/data/assets/guide/0288db79a40ae52f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvault.png)金庫（Vault）沒有冷卻時間，你應該盡可能使用它，並保留 ![](/data/assets/guide/121d222c0195922b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fviolent-leap.png)猛烈跳躍（Violent Leap）。在準備突襲時，利用爬牆來佔據高處，或是跳過牆壁以接近目標。",
         "* 閃避",
-        "* * 你可以透過爬牆（Wall Climb）讓自己更難被擊中。特別是在面對像萊因哈特（Reinhardt）這類近距離英雄時，爬牆非常適合用來脫離錘擊範圍並閃避裂地重擊（Shatter）。",
-        "* 爬牆（Wall Climb）重置",
-        "* * 在爬牆（Wall Climb）後使用猛烈跳躍（Violent Leap），可以讓災害（Hazard）在不接觸地面的情況下再次進行爬牆（Wall Climb）。"
+        "* * 你可以透過爬牆讓自己更難被擊中。特別是在面對像 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）這類近距離英雄時，爬牆非常適合用來脫離錘擊範圍並閃避裂地重擊（Shatter）。",
+        "* 爬牆重置",
+        "* * 在爬牆後使用 ![](/data/assets/guide/121d222c0195922b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fviolent-leap.png)猛烈跳躍（Violent Leap），能讓 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）在無需觸地的情況下再次爬牆。"
       ],
-      "content_hash": "39baa2027f87",
-      "prompt_version": "v5",
+      "content_hash": "3ca6af3ead87",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:55.490600Z"
+      "timestamp": "2026-03-20T13:18:29.773378Z"
     },
     "4.6": {
       "title": "絕招：傾盆大雨（Downpour）",
       "description": "",
       "content": [
-        "**傾盆大雨（Downpour）的使用技巧**",
+        "**![](/data/assets/guide/eeafb396dbd4850f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdownpour.png)傾盆大雨（Downpour）的使用技巧**",
         "* 可穿透牆壁",
-        "* 無論路徑上有多少牆壁或建築物，傾盆大雨（Downpour）的尖刺都能直接穿透。",
-        "* 利用尖刺防護（Spike Guard）以第三人稱視角窺探轉角，確認敵方位置。接著，用傾盆大雨（Downpour）命中他們。這種隱蔽的路徑讓敵人更難閃避。",
-        "* 會被屏障、投射物吸收及摧毀技能所阻擋",
-        "* 例如，席格馬（Sigma）可以透過將護盾部署在自己上方，或是將動能補捉（Kinetic Grasp）對準上方來抵銷你的絕招。如果你想命中他（或任何擁有這類技能的英雄），你需要等到他們的冷卻時間結束後再行動。",
-        "* 清除負面狀態技能與位移技能也是同樣道理，因為傾盆大雨（Downpour）的啟動動畫較長，加上對遠處敵人需要飛行時間，這給了他們充足的時間進行閃避。",
+        "* 無論路徑上有多少牆壁或建築物，![](/data/assets/guide/eeafb396dbd4850f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdownpour.png)傾盆大雨（Downpour）的尖刺都能直接穿透。",
+        "* 利用 ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺防護（Spike Guard）以第三人稱視角探查轉角，確認敵人的位置。接著，用 ![](/data/assets/guide/eeafb396dbd4850f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdownpour.png)傾盆大雨（Downpour）命中他們。隱蔽的路徑會讓敵人更難閃避。",
+        "* 會被屏障以及能吸收或摧毀投射物的技能所阻擋",
+        "* 例如，![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）可以在頭頂部署護盾，或是將 ![](/data/assets/guide/7486123dd5edc842.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkinetic-grasp.png)動能補捉（Kinetic Grasp）對準上方來抵銷你的絕招。如果你想命中他（或任何擁有這類技能的英雄），你需要等待他們交出冷卻技能後再行動。",
+        "* 對於淨化技能和逃生技能也是同樣的道理，因為絕招漫長的啟動動畫，加上對遠處敵人所需的飛行時間，給了他們充足的時間進行閃避。",
         "* 保持聰明",
-        "* 敵人在被定身時仍然可以攻擊你，他們只是無法移動而已。你不能直接 1v5 殲滅敵人或盲目進攻。請務必利用掩體，並確保有隊友的資源支援你。",
+        "* 當敵人被定身時，他們仍然可以攻擊你。他們只是無法移動而已。你不能直接 1v5 殲滅對手或盲目進攻。請務必利用掩體，並確保有隊友的資源支援你。",
         "* 可將飛行單位拉下",
-        "* 傾盆大雨（Downpour）擁有高達 30 公尺的垂直範圍。除非敵人飛得極高，否則你都能用絕招將他們拉下來。"
+        "* ![](/data/assets/guide/eeafb396dbd4850f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdownpour.png)傾盆大雨（Downpour）擁有高達 30 公尺的垂直作用範圍。除非敵人飛得非常高，否則你都能用絕招將他們拉下來。"
       ],
-      "content_hash": "2984ae5c5802",
-      "prompt_version": "v5",
+      "content_hash": "e677d238b45f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:31:58.214633Z"
+      "timestamp": "2026-03-20T13:18:33.591467Z"
     },
     "5.1.1": {
       "title": "深淵之躍（Deep Leap）",
-      "description": "暴力之躍（Violent Leap）的距離增加 15%。",
+      "description": "猛烈之躍（Violent Leap）的距離增加 15%。",
       "content": [
-        "* 對抗高機動性",
-        "* 災害（Hazard）在追擊擁有高機動性的目標時可能會感到吃力，例如朱諾（Juno）、慈悲（Mercy）和索潔恩（Sojourn）。額外的跳躍距離有助於他縮短距離，並保持在對他更有利的範圍內。",
-        "* 更快速的交戰",
-        "* 隨著距離增加，你不需要將進場過程拆解成多個階段，因為你可以從更遠的地方發動突襲。",
-        "* 你將能更頻繁地繞過敵方前線，並利用跳躍瞬間抵達後排。",
-        "* 與「從天而降（Off The Top）」搭配",
-        "* 你可以將所有資源投入在跳躍相關的特殊能力（perks）上，並圍繞著跳躍與斬擊（Slash）來規劃你的戰術。但請注意，這樣做你將會犧牲生命竊取（Lifesteal）與牆體持續時間（Wall uptime）。"
+        "反制高機動性",
+        "* ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）在追擊擁有高機動性的目標時會感到吃力，例如 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）、![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲（Mercy）以及 ![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩（Sojourn）。額外的跳躍距離能幫助他縮短差距，並維持在他更有利的戰鬥範圍內。",
+        "更快速的交戰",
+        "* 隨著距離增加，你不需要將進場過程拆解成多個階段，因為你可以從更遠的地方進行俯衝。",
+        "你將能更頻繁地繞過敵方前線，並利用跳躍瞬間抵達後排。",
+        "與「從天而降（Off The Top）」搭配",
+        "* 你可以將資源全數投入在跳躍相關的特殊能力（perks）上，並圍繞著跳躍與斬擊（Slash）來規劃你的戰術。但請注意，這麼做會犧牲掉生命竊取（Lifesteal）與牆體持續時間（Wall uptime）。"
       ],
-      "content_hash": "f904759650bc",
-      "prompt_version": "v5",
+      "content_hash": "91c94f808108",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:00.813347Z"
+      "timestamp": "2026-03-20T13:18:35.746515Z"
     },
     "5.1.2": {
       "title": "無政府狂熱（Anarchic Zeal）",
-      "description": "尖刺守衛（Spike Guard）的尖刺獲得 30% 生命竊取。",
+      "description": "尖刺守衛（Spike Guard）的尖刺獲得 30% 的吸血效果。",
       "content": [
-        "* 自我治療",
-        "* 在無政府狂熱（Anarchic Zeal）狀態下，持續時間完整的尖刺守衛（Spike Guard）大約能為你對每個目標恢復 50 點生命值。",
-        "* 結合傷害減免效果，這使災害（Hazard）的坦度顯著提升，並減輕了隊伍中支援角色的治療壓力。",
-        "* 搭配重組（Reconstitution）使用",
-        "* 當你計畫使用無政府狂熱（Anarchic Zeal）時，應選擇重組（Reconstitution）作為你的次要特殊能力（minor perks），以最大化生命竊取帶來的效益。",
-        "災害（Hazard）可以在手持尖刺守衛（Spike Guard）時，將敵人困在自己與鋸齒之牆（Jagged Wall）之間的角落。",
-        "每隔幾秒，他們就會再次觸發鋸齒之牆（Jagged Wall）與重組（Reconstitution）的能量回填。享受看著他們驚慌失措，同時你正緩慢地吸乾他們的生命。"
+        "自我治療",
+        "* 擁有無政府狂熱（Anarchic Zeal）的完整持續時間 ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺守衛（Spike Guard）將為你對每個目標恢復約 50 點生命值。",
+        "* 結合傷害減免效果，這使得 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）變得更加硬朗，並減輕了你 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援（Supports）的治療資源需求。",
+        "搭配重組（Reconstitution）使用",
+        "* 當計畫使用無政府狂熱（Anarchic Zeal）時，你應該選擇重組（Reconstitution）作為你的次要特殊能力（minor perks），以充分利用吸血效果。",
+        "* ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）可以在持有 ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺守衛（Spike Guard）時，將敵人困在自己身體與 ![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）之間的角落裡。",
+        "* 每隔幾秒，他們就會再次觸發 ![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）和重組（Reconstitution）的能量回充。享受看著他們驚慌失措，同時你緩慢地吸乾他們的生命吧。"
       ],
-      "content_hash": "ca5a237367f5",
-      "prompt_version": "v5",
+      "content_hash": "71d6b7eeea13",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:03.096489Z"
+      "timestamp": "2026-03-20T13:18:38.095706Z"
     },
     "5.2.1": {
       "title": "重組（Reconstitution）",
       "description": "鋸齒之牆（Jagged Wall）命中時會為尖刺護衛（Spike Guard）充能 25 點能量，最多可額外獲得 50 點。",
       "content": [
         "* 顯著提升了運作時間",
-        "* 閱讀此特殊能力（Perk）說明時，你可能會覺得它聽起來很弱。然而，重組（Reconstitution）強大的地方在於，災害（Hazard）會先消耗基礎的尖刺護衛（Spike Guard）資源，才會開始消耗溢出的能量。此外，這些溢出的能量不會衰減，因此你可以視需求隨時保留。",
-        "* 透過瞬間回填與溢出機制，你將能更頻繁地使用尖刺護衛（Spike Guard），或是延長其使用時間。"
+        "* 在閱讀此特殊能力（Perk）說明時，你可能會覺得它聽起來很弱。然而，重組（Reconstitution）之所以強大，是因為 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）會先消耗基礎的 ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺護衛（Spike Guard）資源，才會開始消耗溢出的能量。此外，溢出的能量不會衰減，因此你可以視需求隨時保留它。",
+        "* 透過瞬間回填與溢出機制，你將能更頻繁地使用 ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺護衛（Spike Guard），或是延長其使用時間。"
       ],
-      "content_hash": "a87e9e6d1ffc",
-      "prompt_version": "v5",
+      "content_hash": "0b444ad1d40f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:05.407293Z"
+      "timestamp": "2026-03-20T13:18:40.391390Z"
     },
     "5.2.2": {
-      "title": "爆裂穿刺（Explosive Impalements）",
-      "description": "骨刺（Bonespur）擊中目標會附上尖刺。快速近戰（Quick Melee）與暴力跳躍（Violent Leap）的斬擊會引爆尖刺，造成 40 點爆炸傷害。",
+      "title": "爆裂穿刺",
+      "description": "骨刺（Bonespur）擊中目標會附著尖刺。快速近戰（Quick Melee）與暴力躍擊（Violent Leap）的斬擊會引爆尖刺，造成 40 點爆炸傷害。",
       "content": [
-        "* 額外的爆發傷害",
-        "* 非常適合與隊友配合擊殺目標，或是進行單獨擊殺。你不需要額外做什麼特別的操作，因為所有災害（Hazard）玩家本來就應該使用上述提到的「射擊 > 跳躍 > 近戰」連招。基本上，這等於是免費多出的 40 點傷害。"
+        "* 額外爆發傷害",
+        "* 對於與隊友配合擊殺或單獨擊殺目標非常有幫助。你不需要做任何額外的操作，因為所有 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）玩家本來就應該使用上述提到的「射擊 > 躍擊 > 近戰」連招。基本上，這等於是免費的額外 40 點傷害。"
       ],
-      "content_hash": "fc5185e2d135",
-      "prompt_version": "v5",
+      "content_hash": "83a908587e2d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:07.256705Z"
+      "timestamp": "2026-03-20T13:18:42.567601Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "災害（Hazard）的機動性在擁有大量牆面可供攀爬以及充足高台可供移動的地圖上能發揮最大效益。由於他的射程有限，在擁有廣闊開放區域或長視線的地圖上，他的遊玩風格會受到限制。他也喜歡利用角落和建築結構來發起突襲，因此區域劃分明確的地圖能為他提供更多機會。另一個有助於災害（Hazard）發揮的地圖特色是狹窄的隘口與門廊。在敵隊必須通過這些狹窄區域的地圖上，鋸齒之牆（Jagged Wall）能發揮極大作用，透過阻斷敵方動線來輕鬆主導會戰。"
+        "![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）的機動性在擁有大量牆面可供攀爬，以及具備豐富高台的地圖上能發揮最大效益。由於他的射程有限，在擁有大片開闊區域與長視線的地圖上，他的遊玩風格會受到限制。他也喜歡利用轉角與結構來部署他的突襲行動，因此擁有區隔化區域的地圖能為他提供更多機會。另一個能幫助 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）大放異彩的地圖特徵是狹窄的隘口與門口。在敵方隊伍必須通過這些狹窄區域的地圖上，![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）能發揮極大作用，透過阻斷敵方動線來輕鬆主導戰局。"
       ],
-      "content_hash": "42f23de40157",
-      "prompt_version": "v5",
+      "content_hash": "d531fbf8d4ab",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:09.080124Z"
+      "timestamp": "2026-03-20T13:18:44.736639Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "圍繞災害（Hazard）建立的隊伍陣容，能夠針對他的移動、誘敵與強勢開戰做出快速反應。由於災害（Hazard）需要不斷變換位置，機動性或射程有限的英雄很難與他配合。此外，他無法為隊伍提供太多保護，也沒有足夠的移動範圍來保護後排，因此隊友需要具備一定的自我生存能力。不過，由於災害（Hazard）並非純粹的戰士（Bruiser）或側襲者（Flanker）型坦克，英雄選擇上仍保有一定的靈活性。",
-        "**圍繞災害（Hazard）建立的隊伍陣容範例：**",
-        "* **坦克**：災害（Hazard）、札莉雅（Zarya）",
-        "* **輸出**：弗蕾亞（Freja）、無畏（Venture）",
-        "* **輔助**：霧子（Kiriko）、路西歐（Lúcio）"
+        "圍繞 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）建立的隊伍陣容，可以針對他的移動、誘敵與強勢開戰做出快速反應。由於 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）需要不斷變換位置，機動性或射程有限的英雄很難與他配合。此外，他無法為隊伍提供太多保護，也沒有足夠的移動範圍來保護後排，因此隊友需要具備一定的自保能力。不過，由於 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）並非完全的陣地戰或機動型 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克，在英雄選擇上仍保有一定的靈活性。",
+        "圍繞災害（Hazard）建立的隊伍陣容範例：",
+        "* 坦克：![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）、![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅（Zarya）",
+        "* 輸出：![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞（Freja）、![](/data/assets/guide/47ceb39c2ed21da9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fventure.png)無畏（Venture）",
+        "* 輔助：![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）、![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐（Lúcio）"
       ],
-      "content_hash": "1657c2ed0720",
-      "prompt_version": "v5",
+      "content_hash": "6458c45c10a2",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:11.121569Z"
+      "timestamp": "2026-03-20T13:18:47.214646Z"
     },
     "7.1": {
       "title": "與其他英雄的個人協同效應",
       "description": "",
       "content": [
-        "弗蕾亞（Freja）",
-        "* 弗蕾亞（Freja）的衝刺與垂直機動性，讓她能輕鬆協助災害（Hazard）進行強勢開戰。當災害（Hazard）在佈局時，弗蕾亞（Freja）也非常擅長透過遠程消耗壓力來為他的突襲創造空間。他們只需要協調技能使用的時機，因為如果災害（Hazard）用鋸齒之牆（Jagged Wall）將敵人困在背後，弗蕾亞（Freja）必須確保衝刺技能可用，才能用爆炸弩箭（Explosive Bolts）將他們轟飛。",
+        "![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞（Freja）",
+        "* ![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞的衝刺與垂直機動性，讓她能輕鬆協助![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）進行強勢開戰。當他正在佈局時，![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞也非常擅長施加遠程壓力，為他的突擊創造空間。他們只需要協調技能使用的時機，因為如果![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害用![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）將敵人困在背後，![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞必須確保有衝刺技能可用，才能以爆炸弩箭（Explosive Bolts）轟擊目標。",
         "路西歐（Lúcio）",
-        "* 路西歐（Lúcio）擁有能與災害（Hazard）並肩作戰的速度與敏捷性。當災害（Hazard）獨自執行任務、試圖孤立敵方後排時，路西歐（Lúcio）也不難維持自身生存。災害（Hazard）在投入戰鬥後，有時會難以脫離戰場。路西歐（Lúcio）的加速增益能讓災害（Hazard）更快進入位置，也能更有效地協助他撤退至安全地帶。",
-        "霧子（Kiriko）",
-        "* 由於沒有護盾且在格擋時必須站定，災害（Hazard）現實中經常會受到昏迷與禁療效果的影響。在這些情況下，保護鈴（Protection Suzu）顯得至關重要，甚至可能成為災害（Hazard）生存的唯一希望。此外，霧子（Kiriko）可以與災害（Hazard）一同進行侵略性進攻，隨後立即傳送（TP）離開，直到下一次突襲再加入。"
+        "* 路西歐擁有能與![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害並肩作戰的速度與靈活性。當![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害獨自執行任務、試圖孤立敵方後排時，路西歐也不難維持自身生存。![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害在投入戰鬥後，有時會難以脫離戰場。路西歐的速度增益能讓![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害更快進入位置，也能更有效地協助他撤退至安全地帶。",
+        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）",
+        "* 由於沒有護盾且在格擋時必須站定，![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害經常會受到昏迷與禁療效果的影響。![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)保護鈴（Protection Suzu）在這些情況下至關重要，往往會成為![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害唯一的生存希望。此外，![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子可以與![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害一同進行侵略性攻擊，隨後立即傳送撤離，直到下一次突擊。"
       ],
-      "content_hash": "07293095cf2b",
-      "prompt_version": "v5",
+      "content_hash": "5745f784eb7d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:13.681717Z"
+      "timestamp": "2026-03-20T13:18:50.364626Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "有效反制災害（Hazard）需要採取幾個步驟。如果你想存活下來，就必須學會應對他的鋸齒之牆（Jagged Wall）和暴力躍擊（Violent Leap）。機動性較差的英雄很容易成為他的目標，他會將牆放置在這些英雄身後，將他們與隊伍隔絕，這無異於判了他們死刑。在這種情況下，能夠跳躍或逃脫的英雄生存下來的機率會高得多。",
-        "要應對躍擊（Leap）和尖刺防禦（Spike Guard），你最好的工具就是擊退和暈眩效果。他的躍擊移動距離並不遠，而他的骨刺（Bonespur）射程也有限，因此只要將他擊退或定身在原地，他的威脅性就會變得非常有限。",
-        "* 額外提示：傾盆大雨（Downpour）本質上是一個垂直投射物，所以如果你能遮擋住頭頂上方，就可以用屏障擋住它。"
+        "有效反制 ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)災害（Hazard）有幾個步驟。如果你想存活下來，就必須設法應對他的 ![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)鋸齒之牆（Jagged Wall）和 ![](/data/assets/guide/121d222c0195922b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fviolent-leap.png)暴力跳躍（Violent Leap）。機動性較差的英雄很容易成為他的目標，被他放置在身後的牆壁隔開，與隊伍斷絕聯繫，這無異於判了死刑。在這種情況下，擁有跳躍或逃生能力的英雄生存起來會輕鬆許多。",
+        "要應對跳躍和 ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)尖刺護衛（Spike Guard），你最好的工具就是擊退和暈眩。他的跳躍距離並不遠，且他的 ![](/data/assets/guide/e333ac66d1d49141.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbonespur.png)骨刺（Bonespur）射程有限，因此只要將他擊退或定在原地，他的威脅性就會大幅降低。",
+        "* 額外提示：![](/data/assets/guide/eeafb396dbd4850f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdownpour.png)傾盆大雨（Downpour）本質上是一個垂直投射物，所以如果你能在頭頂上方放置屏障，就能夠阻擋它。"
       ],
-      "content_hash": "15083c2323b0",
-      "prompt_version": "v5",
+      "content_hash": "b438e8998a1a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:32:16.110731Z"
+      "timestamp": "2026-03-20T13:18:52.953652Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.623208Z"
+    "timestamp": "2026-03-20T13:17:58.454088Z"
   }
 }

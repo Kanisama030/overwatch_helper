@@ -6,260 +6,260 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "奪命女是《鬥陣特攻》中對機械操作技巧最純粹的體現。她是一位冷酷且有條不紊的狙擊手，經過訓練後能毫不猶豫地消滅目標。她是遊戲中最極端、表現起伏最大的英雄，但擁有高精準度的玩家幾乎可以帶領任何隊伍走向勝利。",
-        "在隊伍陣容中，奪命女擔任區域控制型輸出角色。她不會進行近戰纏鬥、突襲或站在前線。相反地，她能帶來即刻死亡的威脅，讓對手連轉角移動這種簡單的動作，都必須面臨生死抉擇。一次擊殺往往能在戰鬥開始前就決定勝負。",
-        "雖然即使是未命中的射擊也能起到限制空間、拖慢推進節奏或逼出冷卻技能的作用，但奪命女真正的價值在於透過早期取得幾次瞬殺，迫使敵方隊伍必須顧忌她的視線範圍。",
-        "儘管她具備成為最具殺傷力英雄的潛力，但一旦敵人阻礙她架設位置，或是從多個角度對她進行突襲，她的防線就會迅速崩潰。"
+        "奪命女是《鬥陣特攻》中對機械操作技巧最純粹的體現。她是一位冷酷且講究方法的狙擊手，受過訓練以毫不猶豫地消滅目標。她是遊戲中最極端、表現起伏最大的英雄，但擁有高精準度的玩家幾乎可以帶領任何隊伍走向勝利。",
+        "在隊伍陣容中，奪命女擔任區域控制型輸出角色。她不參與近戰、不進行突擊，也不站在前線。相反地，她能帶來即刻斃命的威脅，讓對手連轉過轉角這種簡單的動作，都必須面臨生死抉擇。一次擊殺往往能在會戰開始前就決定勝負。",
+        "雖然即使是未命中的射擊也能起到封鎖空間、拖慢推進節奏或逼出冷卻技能的作用，但奪命女真正的價值在於透過早期取得幾次秒殺，迫使敵方隊伍必須顧忌她的視線範圍。",
+        "儘管她有潛力成為最具殺傷力的英雄，但一旦敵人阻礙她架設位置，或是從多個角度對她進行突擊，她的防線就會迅速崩潰。"
       ],
       "content_hash": "d451c494a245",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:39.678399Z"
+      "timestamp": "2026-03-20T13:21:17.308647Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 保持長距離視野。奪命女（Widowmaker）在遠離所有人的有效射程外時最強勢，在該距離下她依然能一槍擊殺目標。",
-        "* 射擊後頻繁更換位置。不要在同一個地點停留太久，否則敵方會進行側襲（Flanker）並將你擊殺。",
-        "* 優先考慮施加壓力與擊殺，而非單純的傷害數據。不用擔心計分板上的總傷害量。唯一重要的是瓦解敵方隊伍並取得單獨擊殺。"
+        "* 保持長距離視野。奪命女在遠離所有人有效射程的位置時最強大，在該處她依然能一槍擊殺目標。",
+        "* 射擊後頻繁變換位置。不要在同一個地點待太久，否則敵人會繞後側襲並將你解決。",
+        "* 優先考慮施加壓力與擊殺，而非單純的傷害數據。不要在意計分板上的總傷害量。唯一重要的是壓制敵方隊伍並取得單獨擊殺。"
       ],
       "content_hash": "9714784baa63",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:41.433597Z"
+      "timestamp": "2026-03-20T13:21:19.426406Z"
     },
     "1.1.2": {
-      "title": "對戰策略",
+      "title": "對抗策略",
       "description": "",
       "content": [
-        "* 利用潛水（dives）和側襲（flanks）強迫她撤退。即使無法擊殺，也要阻止她瞄準你的隊友。",
-        "* 絕對不要在同一個角度重複探頭。如果你看到奪命女（Widowmaker）正在開鏡瞄準，不要從同一個位置走出去，因為她已經準備好射擊了。",
-        "* 避開她的視線範圍。透過偵查或從隊友那裡獲取她的位置資訊。接著選擇她無法狙擊你的側邊路線前進。"
+        "* 利用潛水（dive）和側襲（flank）強迫她撤退。即使無法擊殺她，也要阻止她瞄準你的隊友。",
+        "* 絕對不要在同一個角度重複探頭。如果你看到奪命女正在瞄準，不要從同一個位置走出去，因為她已經準備好要開槍射擊了。",
+        "* 避開她的視線範圍。透過偵查或從隊友那裡獲取她的位置資訊，然後走她無法狙擊你的側路。"
       ],
       "content_hash": "3d120676bb82",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:43.123941Z"
+      "timestamp": "2026-03-20T13:21:21.099827Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 具備瞬間秒殺的潛力",
-        "* 優秀的路線控制能力",
-        "* 可獨自帶領隊伍獲勝的英雄",
-        "* 極端表現（表現好壞取決於發揮）",
+        "* 具備瞬間秒殺能力",
+        "* 優秀的車道控制能力",
+        "* 具備單人凱瑞（Solo carry）能力的英雄",
+        "* 極端表現（大起大落）",
         "* 容易被側襲者（Flanker）針對",
-        "* 絕招（Ultimate）表現平平"
+        "* 終極技能表現平庸"
       ],
       "content_hash": "41f79c27f43a",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:44.859262Z"
+      "timestamp": "2026-03-20T13:21:22.666319Z"
     },
     "3.1.1": {
       "title": "瞬間秒殺",
       "description": "",
       "content": [
-        "奪命女（Widowmaker）可以透過一次完全充能的爆頭擊殺脆弱的英雄，瞬間為隊伍帶來人數優勢。一旦發生這種情況，她的隊伍通常就能贏下 5 對 4 的局面。"
+        "奪命女可以透過一次完全蓄力的爆頭擊殺脆弱的英雄，瞬間為隊伍帶來人數優勢。一旦達成此目標，她的隊伍通常就能贏下 5 對 4 的局面。"
       ],
       "content_hash": "c8a39a656c2e",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:46.343595Z"
+      "timestamp": "2026-03-20T13:21:24.228964Z"
     },
     "3.1.2": {
       "title": "路線控制",
       "description": "",
       "content": [
-        "光是她的存在，就能封鎖開闊區域與長廊。這迫使敵人必須選擇較慢的側襲路線、依賴屏障，或是消耗機動性技能的冷卻時間。"
+        "光是她的存在就能封鎖開放區域與長廊。這迫使敵人必須選擇較慢的側襲路線、依賴屏障，或是消耗機動性技能的冷卻時間。"
       ],
       "content_hash": "3997d4e88db7",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:47.777321Z"
+      "timestamp": "2026-03-20T13:21:25.419812Z"
     },
     "3.1.3": {
       "title": "單人凱瑞潛力",
       "description": "",
       "content": [
-        "如果你技術超群，且認為隊友拖累了你的表現，那麼沒有人比奪命女（Widowmaker）更適合單人凱瑞了。你的準度、站位以及目標選擇越好，她所帶來的壓制力就越強。"
+        "如果你技術超群，且認為隊友拖累了你的表現，那麼沒有人比奪命女（Widowmaker）更適合單人凱瑞。你的瞄準、走位以及目標選擇越精準，她所能帶來的壓制力就越強大。"
       ],
       "content_hash": "d3b08b6516a6",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:49.260349Z"
+      "timestamp": "2026-03-20T13:21:27.256886Z"
     },
     "3.2.1": {
-      "title": "大獲全勝或一敗塗地",
+      "title": "大起或大落",
       "description": "",
       "content": [
-        "你要麼精準爆頭並贏得勝利，要麼頻頻失手而輸掉比賽。這之間幾乎沒有轉圜的餘地。如果奪命女（Widowmaker）無法直接擊殺滿血的脆皮英雄，那麼與其他輸出英雄相比，她所能提供的穩定傷害非常有限。"
+        "你要麼精準爆頭並贏得勝利，要麼頻頻失手而落敗。這之間幾乎沒有中間地帶。如果奪命女（Widowmaker）無法直接秒殺滿血的脆皮英雄，那麼與其他輸出英雄相比，她所能提供的穩定傷害微乎其微。"
       ],
       "content_hash": "e1da82cf2b2b",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:50.719234Z"
+      "timestamp": "2026-03-20T13:21:28.853094Z"
     },
     "3.2.2": {
-      "title": "極易受到側襲（Dive）影響",
+      "title": "極易受到突擊威脅",
       "description": "",
       "content": [
-        "奪命女（Widowmaker）的抓鉤（Grappling Hook）冷卻時間為 10 秒，這比大多數側襲者（Flanker）英雄的位移技能冷卻時間還要長。即使她能逃過對方的第一波攻擊，對方依然可以追擊她，並在她抓鉤（Grappling Hook）冷卻結束前將其擊殺。"
+        "奪命女（Widowmaker）的抓鉤（Grappling Hook）冷卻時間為 10 秒，這比大多數突擊型英雄的位移技能冷卻時間還要長。即使她能逃脫對方的第一波攻擊，對方仍能持續追擊，並在她的抓鉤（Grappling Hook）再次就緒前將其擊殺。"
       ],
       "content_hash": "d6277f4098d5",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:51.963958Z"
+      "timestamp": "2026-03-20T13:21:30.620974Z"
     },
     "3.2.3": {
-      "title": "表現不佳的輸出英雄絕招",
+      "title": "表現平平的輸出英雄絕招",
       "description": "",
       "content": [
-        "對於神射手（Sharpshooter）類型的英雄來說，透視牆壁（Wall hacks）並不算是一個糟糕的絕招，而且它確實能迫使敵方隊伍在持續期間必須極度謹慎地進行走位。然而，與索潔恩（Sojourn）的超頻（Overclock）等其他輸出英雄絕招相比，它並不算是一個能直接扭轉戰局的「勝利按鈕」。"
+        "對於一名神射手（Sharpshooter）英雄來說，透視牆壁（Wall hacks）並非糟糕的絕招，它確實能迫使敵方隊伍在絕招持續期間必須極度謹慎地進行走位。然而，與索潔恩（Sojourn）的超頻（Overclock）等其他輸出英雄絕招相比，它稱不上是一個能直接扭轉戰局的「勝利按鈕」。"
       ],
       "content_hash": "ebcacce95a5e",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:53.902564Z"
+      "timestamp": "2026-03-20T13:21:32.200032Z"
     },
     "4.1": {
       "title": "主要攻擊：奪命之吻（衝鋒槍）",
       "description": "",
       "content": [
-        "**奪命之吻（Widow’s Kiss）的使用技巧**",
-        "* 僅在近距離或為了擊殺生命值極低的目標時，才使用未開鏡射擊。",
+        "關於 ![](/data/assets/guide/bf05212c65efd0db.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwidows-kiss.png)奪命之吻的提示",
+        "* 僅在近距離或為了擊殺生命值極低的目標時使用不開鏡射擊。",
         "* 在持久戰中絕對不要依賴此模式，因為這只會浪費彈藥。這是最後的手段，而非首選策略。"
       ],
-      "content_hash": "903fa354ee75",
-      "prompt_version": "v5",
+      "content_hash": "9fe8a4f31fa6",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:55.647386Z"
+      "timestamp": "2026-03-20T13:21:33.752775Z"
     },
     "4.2": {
       "title": "次要攻擊：奪命之吻（瞄準模式）",
       "description": "",
       "content": [
-        "**次要攻擊：奪命之吻（瞄準模式）的技巧**",
-        "* 完全蓄力的射擊可造成 300 點傷害。如果目標生命值較低，則不需要完全蓄力。",
+        "**次要攻擊技巧：** ![](/data/assets/guide/bf05212c65efd0db.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwidows-kiss.png)奪命之吻（瞄準模式）",
+        "* 完全充能的射擊可造成 300 點傷害。若目標生命值較低，則無需完全充能。",
         "* 保持耐心，對準目標再射擊，避免驚慌失措地亂開槍。",
-        "* 用身體射擊來收割殘血目標會更穩定。並不總是需要爆頭。",
+        "* 利用身體射擊來收割殘血目標會更穩定。並不總是需要爆頭。",
         "* 開幾槍後就更換位置。你必須盡可能保持不可預測性。如果敵人不知道你在哪裡，也不知道你正瞄準著他們，那麼他們會更容易被擊中。"
       ],
-      "content_hash": "3a0382ed6607",
-      "prompt_version": "v5",
+      "content_hash": "9fa1c1f8b211",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:57.744612Z"
+      "timestamp": "2026-03-20T13:21:35.592753Z"
     },
     "4.3": {
       "title": "[SHIFT]：抓鉤（Grappling Hook）",
       "description": "",
       "content": [
-        "關於抓鉤（Grappling Hook）的技巧：",
-        "* 跳躍射擊固然帥氣，但別因為自負而導致頻繁陣亡。聰明的敵人會看著你在空中飛行，隨後立刻對你發動突襲，因為他們知道你已經無法逃脫。",
+        "**![](/data/assets/guide/abe4440fcbb0df97.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgrappling-hook.png)抓鉤（Grappling Hook）的使用技巧**",
+        "* 跳躍射擊雖然很帥，但別讓你的自負導致頻繁死亡。聰明的敵人會看著你在空中飛翔，然後立刻對你進行突襲，因為他們知道你已經無法逃脫。",
         "* 抓鉤（Grappling Hook）主要用於重新調整位置。盡可能佔領高處與側翼角度。",
-        "* 事先規劃好抓鉤（Grappling Hook）的地點，這樣當你發現有敵人試圖側襲（flank）時，就能迅速轉移到新的角度或逃離現場。"
+        "* 事先規劃好抓鉤（Grappling Hook）的地點，這樣當你發現有敵人試圖側襲時，就能迅速佔據新的角度或進行撤退。"
       ],
-      "content_hash": "2420f82ccc33",
-      "prompt_version": "v5",
+      "content_hash": "89fba04210a7",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:38:59.739189Z"
+      "timestamp": "2026-03-20T13:21:37.321994Z"
     },
     "4.4": {
       "title": "[E]：毒藥地雷（Venom Mine）",
       "description": "",
       "content": [
-        "**毒藥地雷（Venom Mine）的使用技巧**",
-        "* 將地雷放置在常見的側襲者（Flanker）路徑、樓梯，或是你的身後。即使敵人發現並摧毀了它，能得知敵人位置的情報依然價值連城。",
-        "* 舉例來說，在通往你左側的唯一進攻路線上放置毒藥地雷（Venom Mine），意味著你只需要提防右側的敵人即可。",
+        "![](/data/assets/guide/be9f23a26307e96b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvenom-mine.png)毒藥地雷（Venom Mine）的使用技巧",
+        "* 將地雷放置在常見的側襲者（Flanker）路線、樓梯或你的身後。即使敵人發現並摧毀了它，敵人所在位置的情報依然價值連城。",
+        "* 例如，放置一個毒藥地雷（Venom Mine）來守住左側唯一能攻擊你的路線，這意味著你只需要提防右側的敵人即可。",
         "* 移動到新位置時，別忘了重新放置地雷。"
       ],
-      "content_hash": "d965bb7bbd4f",
-      "prompt_version": "v5",
+      "content_hash": "6c3bdae02ab4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:01.301743Z"
+      "timestamp": "2026-03-20T13:21:38.994473Z"
     },
     "4.5": {
       "title": "絕招：紅外線視野（Infra-Sight）",
       "description": "",
       "content": [
-        "**紅外線視野（Infra-Sight）使用技巧**",
-        "* 能為全隊提供敵人的完整視野。你的絕招是團隊會戰中的功能性技能。與其冒險嘗試擊殺而導致死亡，不如在絕招持續期間保持存活，讓隊友從中獲益。",
-        "* 最適合在戰鬥開始前使用，以便進行安全的推進，並讓你和隊友在陣型佈署上佔據優勢。",
-        "* 觀察敵人何時探頭，並在他們進入你的視線（LoS）範圍的瞬間進行射擊。"
+        "**![](/data/assets/guide/916dc4a069c6e035.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Finfra-sight.png)紅外線視野（Infra-Sight）使用技巧**",
+        "* 為全隊提供完整的敵人視野。你的絕招是團隊會戰的輔助工具。與其為了擊殺而進行極度危險且孤注一擲的嘗試，不如在絕招持續期間保持存活，讓你的隊伍從中獲益。",
+        "* 最好的使用時機是在會戰開始前，這能確保推進安全，並讓你和隊友在陣型佈署上佔據優勢。",
+        "* 留意敵人探頭的時機，並在他們進入你的視野（LoS）的瞬間將其擊殺。"
       ],
-      "content_hash": "ed573421735a",
-      "prompt_version": "v5",
+      "content_hash": "b15c769fd5d2",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:03.771407Z"
+      "timestamp": "2026-03-20T13:21:40.974636Z"
     },
     "5.1.1": {
-      "title": "瞄準效率（Scoped Efficiency）",
-      "description": "瞄準射擊消耗的彈藥量從 5 發降低至 3 發。",
+      "title": "瞄準鏡效率（Scoped Efficiency）",
+      "description": "開鏡射擊消耗 3 發彈藥，而非 5 發。",
       "content": [
-        "* 由於減少了裝填彈藥的頻率，空窗期也隨之縮短。"
+        "* 減少換彈次數，進而降低空窗期。"
       ],
       "content_hash": "fa7f5737cd75",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:05.463056Z"
+      "timestamp": "2026-03-20T13:21:42.542810Z"
     },
     "5.1.2": {
       "title": "狙擊手直覺（Sniper's Instinct）",
-      "description": "使用抓鉤（Grappling Hook）後的 2 秒內，開鏡射擊的充能速度提升 100%。",
+      "description": "使用爪鉤（Grappling Hook）後的 2 秒內，開鏡射擊的充能速度提升 100%。",
       "content": [
-        "* 在奪命女的對決中，或是面對需要你同時利用抓鉤進行閃避與攻擊的敵人時非常實用。"
+        "* 在奪命女（Widowmaker）的對決中，或是面對需要你同時利用爪鉤（Grappling Hook）進行閃避與攻擊的敵人時非常實用。"
       ],
       "content_hash": "03a800fb3bf5",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:07.163671Z"
+      "timestamp": "2026-03-20T13:21:44.019184Z"
     },
     "5.2.1": {
-      "title": "奪命之吻（Widow’s Bite）",
-      "description": "",
+      "title": "奪命之吻（Widow's Bite）",
+      "description": "開鏡射擊最高可充能至 125%，在完全充能時可穿透敵人。",
       "content": [
-        "未提供攻略",
-        "* 特殊能力：奪命之吻（Widow’s Bite）"
+        "未提供指南",
+        "* 特殊能力：奪命之吻（Widow's Bite）"
       ],
-      "content_hash": "50a83d2100ec",
-      "prompt_version": "v5",
+      "content_hash": "db4384e11614",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:08.749278Z"
+      "timestamp": "2026-03-20T13:21:45.184047Z"
     },
     "5.2.2": {
       "title": "追蹤地雷（Seeker Mine）",
-      "description": "毒藥地雷（Venom Mine）現在會對 10 公尺內的敵人發射毒鏢，且在觸發後仍保持運作。",
+      "description": "毒液地雷（Venom Mine）現在會向 10 公尺內的敵人發射毒鏢，且在觸發後仍會保持運作。",
       "content": [
-        "* 巡邏範圍比標準地雷大得多。你會收到 10 公尺半徑範圍的警示，且無須消耗冷卻時間重新部署，即可將其留在原地。",
-        "**奪命女之吻（Widow's Bite）**",
-        "* 蓄力速度相同。蓄力至 125% 需要更長時間，並會降低射擊頻率。",
+        "* 巡邏範圍比標準地雷大得多。你會收到 10 公尺半徑範圍的警示，且無須消耗冷卻時間重新部署，可以直接放置在那裡。",
+        "**奪命之吻（Widow's Bite）**",
+        "* 蓄力速度相同。蓄力至 125% 需要更長的時間，並會降低射擊頻率。",
         "* 能夠對所有 DPS 造成一擊必殺，包含壁壘機兵（Bastion）和托比昂（Torbjörn）。",
-        "* 如果你花費更多時間射擊坦克，這項能力也很有用。",
-        "* 穿透效果在長距離平坦區域有些許幫助，但別浪費時間刻意追求穿透擊殺（collats）。"
+        "* 如果你花更多時間在射擊坦克，這項能力也很有用。",
+        "* 穿透效果在長距離平坦區域有些幫助，但別浪費時間刻意追求連殺（collats）。"
       ],
       "content_hash": "804c584f5b4e",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:10.694638Z"
+      "timestamp": "2026-03-20T13:21:47.225443Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "奪命女（Widowmaker）最適合的地圖是擁有長距離視野的場地，這能讓她發揮優異的射程優勢。她也能從高處獲益，利用抓鉤（Grappling Hook）攀爬上去，進而取得攻擊角度並獲得保護。若地圖的目標區域過於封閉，對她來說會很困難，因為她被迫在不理想的近距離下作戰。",
-        "此外，如果地圖有許多供側襲者（Flanker）使用的側路，奪命女（Widowmaker）會因為需要顧及的角度太多，或是無法妥善放置毒液地雷（Venom Mine）而變得脆弱，導致她無法有效地防禦自己。",
+        "最適合 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女的地圖通常擁有長距離的視野，讓她能發揮其卓越的射程優勢。她也能從高處獲益，利用 ![](/data/assets/guide/abe4440fcbb0df97.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgrappling-hook.png)爪鉤（Grappling Hook）移動到高地，進而取得攻擊角度並獲得掩護。擁有封閉式目標區域的地圖對她來說較為困難，因為她被迫在不理想的近距離下進行戰鬥。",
+        "此外，如果地圖有許多供側襲者使用的側路，奪命女會因為需要顧及的角度太多，而無法妥善管理或放置 ![](/data/assets/guide/be9f23a26307e96b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvenom-mine.png)毒藥地雷（Venom Mines），導致她無法有效地防禦自己。",
         "**最佳地圖**",
-        "* 皇家賽道（Circuit Royal）",
-        "* 哈瓦那（Havana）",
-        "* 垃圾鎮（Junkertown）",
-        "* 第一個據點"
+        "* 皇家賽道",
+        "* 哈瓦那",
+        "* 垃圾鎮",
+        "* * 第一個據點"
       ],
-      "content_hash": "1410bb2095e9",
-      "prompt_version": "v5",
+      "content_hash": "6f08b081e1d1",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:12.840682Z"
+      "timestamp": "2026-03-20T13:21:49.431199Z"
     },
     "6.1.1": {
       "title": "皇家賽道",
@@ -268,9 +268,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:14.237040Z"
+      "timestamp": "2026-03-20T13:21:50.589455Z"
     },
     "6.1.2": {
       "title": "哈瓦那",
@@ -279,9 +279,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:15.371458Z"
+      "timestamp": "2026-03-20T13:21:51.711941Z"
     },
     "6.1.3": {
       "title": "垃圾鎮",
@@ -290,40 +290,40 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:16.600659Z"
+      "timestamp": "2026-03-20T13:21:53.016330Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "奪命女（Widowmaker）第一種實用的隊友是像席格馬（Sigma）和萊因哈特（Reinhardt）這類擁有護盾的坦克。她能妥善利用這些護盾，躲在掩體後方進行狙擊，而不必擔心自己被輕易擊殺。這對坦克來說也有好處，因為奪命女（Widowmaker）帶來的秒殺威脅，能減輕敵方對坦克護盾施加的壓力。",
-        "另一種實用的原型是擁有強大反突擊能力的英雄，例如托比昂（Torbjörn）或路西歐（Lúcio），他們可以為奪命女（Widowmaker）提供保護。任何能施加控場（CC）或對側襲者（Flanker）及突擊型敵人造成高額傷害壓力的英雄，都能提高她的生存機率，即使她已經使用過抓鉤（Grappling Hook）也是如此。",
-        "總體而言，奪命女（Widowmaker）應該盡量避免受到傷害，因此唯一能直接對她產生助益的支援角色，是那些能強化她能力的英雄，例如能提供傷害增幅的慈悲（Mercy）。"
+        "奪命女 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png) 第一個有幫助的隊友類型是擁有護盾的坦克，例如 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png) 席格馬和 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png) 萊因哈特。她能善用這些護盾，躲在掩體後方進行狙擊，而不必擔心自己被擊殺。這對坦克也有好處，因為奪命女能一槍擊殺敵人的威脅，也能減輕對手對他們護盾施加的壓力。",
+        "另一種有幫助的英雄類型是具備強大反突擊能力的英雄，例如 ![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png) 托比昂或 ![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png) 路西歐，他們可以為奪命女提供保護（peel）。任何能夠施加控場效果（CC）或對側襲者及突擊型敵人造成高額傷害壓力的英雄，都能增加她的生存機率，即便她已經使用了 ![](/data/assets/guide/abe4440fcbb0df97.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgrappling-hook.png) 鉤爪（Grappling Hook）。",
+        "總體而言，奪命女受到的傷害應該極少，因此唯一能直接提供助益的輔助英雄，是那些能強化她能力的英雄，例如擁有傷害增幅的 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png) 慈悲。"
       ],
-      "content_hash": "88267908bdcb",
-      "prompt_version": "v5",
+      "content_hash": "2b6d20fcbc3c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:18.833791Z"
+      "timestamp": "2026-03-20T13:21:55.601821Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "利用側襲者（Flanker）與前鋒（Initiator）迫使她撤退。即使無法擊殺目標，也要阻止她瞄準你的隊友。",
-        "永遠不要在同一個角度重複露頭。如果你看到奪命女（Widowmaker）正在開鏡瞄準，請勿從相同位置走出去，因為她已經準備好要將你擊殺了。",
-        "避開她的視線範圍。透過偵查或從隊友那裡獲取她的位置資訊，接著選擇她無法狙擊你的側路進行移動。"
+        "利用潛水（dives）和側襲（flanks）強迫她撤退。即使無法擊殺，也要阻止她瞄準你的隊友。",
+        "永遠不要在同一個角度重複露頭。如果你看到奪命女（Widowmaker）正在開鏡瞄準，不要從同一個位置走出去，因為她已經準備好射擊了。",
+        "避開她的視線。透過偵查或從隊友那裡獲取她的位置資訊，然後選擇她無法狙擊你的側路前進。"
       ],
       "content_hash": "b38e07ebfdc4",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:39:20.663141Z"
+      "timestamp": "2026-03-20T13:21:57.171874Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:38:37.336817Z"
+    "timestamp": "2026-03-20T13:21:14.347355Z"
   }
 }

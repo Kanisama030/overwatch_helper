@@ -6,88 +6,88 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "士兵76 是《鬥陣特攻》中最頂尖、適合新手且全能的英雄。基於第一人稱射擊遊戲的配置，他的技能讓新玩家能夠輕鬆上手。",
-        "獨特的衝刺（Sprint）能力有助於他採取側襲者（Flanker）的打法，不斷變換位置。他配備了一把沒有彈道擴散的突擊步槍，這意味著 士兵76 在任何距離下都能成為致命的神射手（Sharpshooter）。再加上他那具備自動瞄準功能的絕招，使他成為最可靠的英雄之一。"
+        "![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76是《鬥陣特攻》中最頂尖、適合新手且全能的英雄。基於第一人稱射擊遊戲的配置，他的技能讓新玩家能夠輕易上手。",
+        "獨特的疾跑（Sprint）能力有助於他採取側襲者（Flanker）的打法，讓他能不斷地變換位置。他配備了一把沒有彈道擴散的突擊步槍，這意味著士兵76在任何距離下都能成為致命的神射手（Sharpshooter）。再加上擁有自動瞄準的絕招，他絕對是遊戲中最可靠的英雄之一。"
       ],
-      "content_hash": "fb4658515b26",
-      "prompt_version": "v5",
+      "content_hash": "1388425dd416",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:13.117375Z"
+      "timestamp": "2026-03-20T13:16:50.241948Z"
     },
     "1.1.1": {
-      "title": "操作指南",
+      "title": "操作技巧",
       "description": "",
       "content": [
-        "* 利用疾跑（Sprint）繞到地圖側邊，從與隊友不同的角度攻擊敵人。",
-        "* 螺旋火箭（Helix Rockets）是你最強大的爆發傷害技能。盡量避免將其射向屏障或其他減傷技能。",
-        "* 將戰術鎖定（Tactical Visor）與增益效果搭配使用，例如奈米強化（Nano Boost）、軌道射線（Orbital Ray）或慈悲的卡杜賽斯醫療槍（Caduceus Staff），能讓你的絕招更具致命性。"
+        "* 使用 ![](/data/assets/guide/ee9a27f9733b28b5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsprint.png)疾跑（Sprint）在地圖兩側移動，並從與隊友不同的角度攻擊敵人。",
+        "* ![](/data/assets/guide/fc8b8c45dbb1ed83.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhelix-rockets.png)螺旋火箭（Helix Rockets）是你最強的爆發傷害手段。盡量避免將其射向屏障或其他能減免傷害的技能。",
+        "* 將 ![](/data/assets/guide/5a0bd28ab2154772.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftactical-visor.png)戰術鎖定（Tactical Visor）與增益效果搭配使用，例如 ![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png)奈米強化（Nano Boost）、![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)軌道射線（Orbital Ray）或慈悲的 ![](/data/assets/guide/2c81fb62b0b54490.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcaduceus-staff.png)天使長杖（Caduceus Staff），能讓你的絕招更具致命性。"
       ],
-      "content_hash": "b6574c9762e9",
-      "prompt_version": "v5",
+      "content_hash": "62bd54f21519",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:14.941615Z"
+      "timestamp": "2026-03-20T13:16:52.107622Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 採取突擊（Dive）戰術。每個角色類別都有能與隊友配合並突擊士兵76的英雄。他沒有任何控場技能（CC），且在使用機動性工具時無法進行攻擊。",
-        "* 阻擋他的消耗傷害。如果士兵76整場只會射擊護盾，那他對團隊的貢獻並不高。請使用你自己的護盾，或是待在隊友的保護範圍內。",
-        "* 如果你有一段時間沒看到士兵76出現在正面，請假設他正準備從側翼發動攻擊。待在掩體附近，以便在遭受突襲時能及時撤退。"
+        "* 進行突擊。每個角色都有能與隊友配合並突擊士兵76的英雄。他沒有任何控場技能（CC），且在使用機動性工具時無法進行攻擊。",
+        "* 阻擋他的消耗傷害。如果士兵76整場只會射擊護盾，那他對團隊並沒有太大的貢獻。請使用你自己的護盾，或是待在隊友的保護範圍內。",
+        "* 如果你有一段時間沒看到士兵76出現在正面，請假設他正準備從側翼攻擊你。待在掩體附近，這樣你才能在他發動突襲時及時逃脫。"
       ],
       "content_hash": "eb0aaf6d0990",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:16.493352Z"
+      "timestamp": "2026-03-20T13:16:53.742402Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 持續性的傷害輸出",
+        "* 持續的傷害輸出",
         "* 自給自足",
         "* 水平機動性",
         "* 非常長的防禦性冷卻時間",
-        "* 樣樣通，樣樣鬆",
-        "* 對抗側襲者（Flanker）時較為弱勢"
+        "* 博而不精",
+        "* 難以應對側襲者（Flanker）的突擊"
       ],
       "content_hash": "e91b722512b2",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:17.624542Z"
+      "timestamp": "2026-03-20T13:16:55.430676Z"
     },
     "3.1.1": {
       "title": "穩定的傷害輸出",
       "description": "",
       "content": [
-        "由於士兵76擁有功能多樣的技能組，他總能在戰鬥中做出貢獻。與許多價值來自於短暫且不頻繁爆發的英雄不同，他從不擔心找不到目標進行射擊或治療。無論是摧毀屏障、利用主要攻擊進行騷擾，還是試圖以螺旋火箭（Helix Rocket）擊殺敵人，士兵76的攻勢從未間斷。"
+        "由於士兵76（Soldier: 76）擁有全方位的技能組，他總能在戰鬥中做出貢獻。與許多價值來自於短暫且不頻繁爆發的英雄不同，他從不擔心找不到目標進行射擊或治療。無論是摧毀屏障、利用主要攻擊進行騷擾，還是試圖以螺旋火箭（Helix Rocket）擊殺敵人，士兵76（Soldier: 76）的攻勢從未停歇。"
       ],
       "content_hash": "ae18a658680c",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:19.238425Z"
+      "timestamp": "2026-03-20T13:16:57.400928Z"
     },
     "3.1.2": {
       "title": "自給自足",
       "description": "",
       "content": [
-        "生化力場（Biotic Field）讓士兵76能夠獨自執行任務，而無需依賴隊伍的資源。標準的遊戲循環看起來像是：跑向側翼或高地、使用螺旋火箭（Helix Rockets）並射擊、放置生化力場（Biotic Field）、繼續射擊、跑去拾取生命包，然後重新佔位。這一切都可以在完全不需要隊友提供治療或傷害減免的情況下完成。"
+        "生化力場（Biotic Field）讓士兵76能夠獨自執行任務，而無需依賴隊伍的資源。標準的遊戲循環看起來像是：跑向側翼或高處、使用螺旋火箭（Helix Rockets）並射擊、放置生化力場（Biotic Field）、繼續射擊、跑去拾取生命包，然後重新調整位置。這一切都可以在完全不需要隊友提供治療或傷害減免的情況下完成。"
       ],
       "content_hash": "63a745554211",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:21.178555Z"
+      "timestamp": "2026-03-20T13:16:59.311961Z"
     },
     "3.1.3": {
       "title": "水平機動性",
       "description": "",
       "content": [
-        "作為《鬥陣特攻》中唯一擁有無限地面機動性資源的英雄，士兵76的水平機動性無人能及。由於「疾跑（Sprint）」賦予了他極高的閃避能力，他非常難以被擊殺。大多數敵人的機動性技能都有冷卻時間限制，因此士兵76可以輕易地逃離戰場。"
+        "作為《鬥陣特攻》中唯一擁有無限地面機動性資源的英雄，士兵76的水平機動性無人能及。由於「疾跑（Sprint）」讓他變得極難被鎖定，因此他非常難以被擊殺。大多數敵人的機動性技能都有冷卻時間限制，這讓士兵76能夠輕鬆脫離險境。"
       ],
       "content_hash": "9030766ae7f3",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:22.615386Z"
+      "timestamp": "2026-03-20T13:17:01.066294Z"
     },
     "3.2.1": {
       "title": "極長的防禦性冷卻時間",
@@ -96,218 +96,218 @@
         "在 15 秒的冷卻時間下，鮮少有 Overwatch 的技能比生化力場（Biotic Field）更長。與不朽力場（Immortality Field）和生命之握（Life Grip）等其他長冷卻時間技能相比，生化力場（Biotic Field）的防禦能力顯得遜色許多。"
       ],
       "content_hash": "2a5dd510f4d5",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:26.014240Z"
+      "timestamp": "2026-03-20T13:17:02.865767Z"
     },
     "3.2.2": {
       "title": "樣樣通，樣樣鬆",
       "description": "",
       "content": [
-        "雖然士兵76擁有相當全面的技能組，但他並非任何特定功能上的最佳英雄。神射手（Sharpshooter）比他射程更遠，索潔恩（Sojourn）擁有更強的爆發傷害與垂直機動性，壁壘機兵（Bastion）在摧毀護盾方面表現更佳，閃光（Tracer）則具備更強的自給自足能力，諸如此類的比較不勝枚舉。"
+        "雖然士兵76擁有相當全面的技能組，但他並非任何特定功能中最頂尖的英雄。奪命女（Widowmaker）的射程比他更遠，索潔恩（Sojourn）擁有更強的爆發傷害與垂直機動性，壁壘機兵（Bastion）在摧毀屏障方面表現更佳，閃光（Tracer）的生存能力更獨立，諸如此類的例子不勝枚舉。"
       ],
       "content_hash": "1674d4fb48f3",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:27.543091Z"
+      "timestamp": "2026-03-20T13:17:04.573687Z"
     },
     "3.2.3": {
       "title": "弱點：易受側襲（Dive）影響",
       "description": "",
       "content": [
-        "由於缺乏任何控場（CC）或高額爆發傷害，士兵76（Soldier: 76）總是側襲者（Flanker）的首要目標。儘管他可以使用奔跑（Sprint）並為自己治療，但一旦被困住就無法逃脫，且生化力場（Biotic Field）的治療量在面對直接攻擊時根本不足以維持生存。"
+        "由於缺乏任何控場（CC）或高爆發傷害，士兵76 始終是側襲者的目標。儘管他可以使用「衝刺（Sprint）」並自我治療，但一旦被抓到就難以脫身，且「生化力場（Biotic Field）」的治療量在面對直接攻擊時，根本不足以支撐他的生存。"
       ],
       "content_hash": "a9c626850572",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:29.686795Z"
+      "timestamp": "2026-03-20T13:17:06.147580Z"
     },
     "4.1": {
-      "title": "主要攻擊：重型脈衝步槍（Heavy Pulse Rifle）",
+      "title": "主要攻擊：重型脈衝步槍",
       "description": "",
       "content": [
-        "**重型脈衝步槍（Heavy Pulse Rifle）使用技巧**",
+        "![](/data/assets/guide/684b9c24af2959b0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fheavy-pulse-rifle.png)重型脈衝步槍（Heavy Pulse Rifle）使用技巧",
         "* 零彈道擴散",
         "* 重型脈衝步槍（Heavy Pulse Rifle）非常適合在遠距離進行騷擾與施壓，因為它沒有彈道擴散。你唯一需要擔心的只有垂直向上的後座力。",
         "* 目標優先級",
-        "* 由於士兵76幾乎隨時都在射擊，選擇攻擊對象至關重要。你的主要目標應該是後排，因為你有足夠的射程對他們施壓。只要削減一名醫護兵（Medic）一半的生命值，通常就能迫使他們撤退，並讓另一名醫護兵（Medic）前去支援。如此一來，對方的坦克就會失去所有醫護兵（Medic）的資源，你便能將火力轉向並迅速擊潰坦克。",
+        "* 由於士兵76（Soldier: 76）幾乎隨時都在射擊，因此選擇目標至關重要。你的主要目標應該是後排，因為你有足夠的射程對他們施壓。只要能削減一名醫護兵（Medic）一半的生命值，通常就能迫使他們撤退，並讓另一名醫護兵（Medic）前去支援。如此一來，對方的坦克（Tank）就會失去兩名醫護兵（Medic）的資源支援，此時你就可以將火力轉向並集火擊殺坦克（Tank）。",
         "* 瞄準頸部",
-        "* 許多玩家發現瞄準目標的頸部很有幫助，這樣可以同時命中頭部與身體。由於射速極高，命中率相當穩定，因此在可能的情況下，盡量瞄準頭部是非常值得的。"
+        "* 許多玩家發現瞄準目標的頸部很有幫助，這樣可以同時命中頭部與身體。高射速使得命中率相當穩定，因此在可能的情況下，嘗試瞄準頭部是非常值得的。"
       ],
-      "content_hash": "5acf0dc6a9c0",
-      "prompt_version": "v5",
+      "content_hash": "d6bd8e17ccdd",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:32.212695Z"
+      "timestamp": "2026-03-20T13:17:08.147992Z"
     },
     "4.2": {
       "title": "次要攻擊：螺旋火箭（Helix Rocket）",
       "description": "",
       "content": [
-        "**螺旋火箭（Helix Rocket）技巧**",
+        "**![](/data/assets/guide/fc8b8c45dbb1ed83.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhelix-rockets.png)螺旋火箭（Helix Rocket）技巧**",
         "* 先發制人",
-        "* 當你發現敵人尚未察覺你的存在時，請務必優先使用螺旋火箭（Helix Rocket），因為它屬於飛行投射物。根據距離遠近，在螺旋火箭（Helix Rocket）即將擊中目標前瞬間開火，能打出最高的爆發傷害，這通常足以瞬間擊殺對手！",
+        "* 當你發現敵人沒有察覺到你時，請務必優先使用螺旋火箭（Helix Rocket），因為它屬於飛行投射物。根據距離遠近，在螺旋火箭即將命中目標前的一瞬間開火進行主要攻擊，能打出最高的爆發傷害，通常足以瞬間擊殺目標！",
         "* 範圍傷害（AoE damage）",
-        "* 脈衝步槍（Pulse Rifle）的穩定傷害往往會讓敵人有時間撤退至掩體後方。利用螺旋火箭（Helix Rocket）在敵人身旁地面爆炸所產生的濺射傷害，可以確保擊殺那些殘血逃跑的目標。",
+        "* 脈衝步槍（Pulse Rifle）的穩定傷害往往會讓敵人有機會撤退至掩體後方。利用螺旋火箭（Helix Rocket）在敵人身旁地面爆炸所產生的濺射傷害，可以確保擊殺那些生命值偏低且試圖逃跑的目標。",
         "* 火箭跳（Rocket jump）",
-        "* 對著腳下發射螺旋火箭（Helix Rocket）並同時跳躍，可以獲得額外的跳躍高度與距離。這對於從一個高台移動到另一個高台，或是跳上一般跳躍高度無法觸及的邊緣非常有用。"
+        "* 將螺旋火箭（Helix Rocket）射向你的腳下並同時跳躍，可以獲得額外的高度與跳躍距離。這對於從一個高地移動到另一個高地，或是攀上一般跳躍高度無法觸及的邊緣非常實用。"
       ],
-      "content_hash": "7fa90d2c27b9",
-      "prompt_version": "v5",
+      "content_hash": "179fd8ccf3d2",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:34.433968Z"
+      "timestamp": "2026-03-20T13:17:10.739608Z"
     },
     "4.3": {
       "title": "[E]：生化力場（Biotic Field）",
       "description": "",
       "content": [
-        "關於生化力場（Biotic Field）的技巧",
-        "* 如果生命值沒有危險，請不要浪費它",
-        "* 15 秒的長冷卻時間意味著士兵76玩家必須謹慎選擇何時使用以及何時保留生化力場（Biotic Field）。不要在沒有人攻擊時隨意施放，也不要僅僅因為假設有人會攻擊就使用它。",
+        "關於 ![](/data/assets/guide/bf8d8ba901c24a9b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-field.png) 生化力場（Biotic Field）的提示",
+        "* 若生命值沒有危險，請不要浪費它",
+        "* 15 秒的長冷卻時間意味著士兵76的玩家必須謹慎選擇何時使用以及何時保留生化力場（Biotic Field）。不要在沒有人攻擊時，或是僅僅因為假設有人會攻擊就隨意丟出它。",
         "* 在交換技能後採取更保守的打法",
-        "* 如果敵人與你交換了冷卻技能，你需要採取更保守的打法，直到生化力場（Biotic Field）冷卻完畢。例如，敵方溫斯頓對你使用噴射跳躍（Jump Pack），你必須逃跑並使用生化力場（Biotic Field）來保命。當溫斯頓的跳躍技能冷卻完畢時，你的生化力場（Biotic Field）大約還有 10 秒才能再次使用，因此請將自己定位在隊友可以支援你的安全位置。",
+        "* 如果敵人與你交換了冷卻技能，你需要採取更保守的打法，直到生化力場（Biotic Field）冷卻完畢。例如，敵方溫斯頓對你使用噴射跳躍（Jump Pack），你必須逃跑並使用生化力場（Biotic Field）來保命。當溫斯頓的跳躍技能冷卻完畢時，你的生化力場（Biotic Field）可能還有約 10 秒的冷卻時間，因此請將自己放置在隊友能協助你的安全位置。",
         "* 治療你的隊友",
-        "* 為你的整個隊伍每人提供最多 200 點生命值，可以將一場勢均力敵的戰鬥轉變為勝利。通常情況下，你會只為自己使用生化力場（Biotic Field），但如果你看到隊友需要治療，請毫不猶豫地施放它，讓你的隊友保持存活。"
+        "* 為你的整個隊伍提供每人最多 200 點生命值，可以將一場勢均力敵的戰鬥轉變為勝利。通常你會只為了自己使用生化力場（Biotic Field），但如果你看到隊友需要治療，請毫不猶豫地放下它來維持盟友的生命。"
       ],
-      "content_hash": "b807fce04b21",
-      "prompt_version": "v5",
+      "content_hash": "2cd9f60521c2",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:36.907301Z"
+      "timestamp": "2026-03-20T13:17:13.760188Z"
     },
     "4.4": {
       "title": "[SHIFT]：疾跑（Sprint）",
       "description": "",
       "content": [
-        "疾跑（Sprint）的技巧",
+        "![](/data/assets/guide/ee9a27f9733b28b5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsprint.png)疾跑（Sprint）的技巧",
         "* 持續變換位置",
-        "* 士兵76（Soldier: 76）在不可預測時最強。如果你總是站在同一個位置，或是固定從同一個轉角進行射擊，敵人很容易就能存活下來。利用疾跑（Sprint）不斷改變你的攻擊位置。變換側翼、佔領高地以及進行側襲（Flank）對他來說都是強力的選擇。",
-        "* 左右橫移疾跑（Strafe Sprint）",
-        "* 當你要從敵人身邊撤退時，不要只走直線，否則會很容易被擊中。在逃跑時左右橫移，你就能閃避並躲開那些攻擊。"
+        "* 士兵76（Soldier: 76）在難以預測時最強。如果你總是站在同一個位置，或是固定從同一個角落進行射擊，敵人很容易就能撐過你的傷害。利用疾跑（Sprint）不斷改變你的進攻位置。變換進攻側翼、佔領高地以及進行側襲（Flanker）對他來說都是強力的選擇。",
+        "* 疾跑（Sprint）時進行側向移動",
+        "* 當你要從敵人身邊逃跑時，不要只走直線，因為這樣很容易被擊中。在逃跑時進行左右側向移動（Strafe），你就能閃避並躲開那些攻擊。"
       ],
-      "content_hash": "956d2c4a2f2b",
-      "prompt_version": "v5",
+      "content_hash": "d66fe1b3477a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:38.845790Z"
+      "timestamp": "2026-03-20T13:17:16.476408Z"
     },
     "4.5": {
       "title": "絕招：戰術鎖定（Tactical Visor）",
       "description": "",
       "content": [
-        "**戰術鎖定（Tactical Visor）的使用技巧**",
+        "**![](/data/assets/guide/5a0bd28ab2154772.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftactical-visor.png)戰術鎖定（Tactical Visor）的使用技巧**",
         "* 了解敵隊的應對手段",
-        "* 是否有萊因哈特（Reinhardt）的護盾保護他們？是否有建築物或掩體能讓他們迅速躲避？是否有具備高機動性的敵人能跳到你臉上？在決定使用戰術鎖定（Tactical Visor）前，你必須先問自己這些問題。",
-        "* 舉例來說，如果對方有護盾坦克，要嘛等到護盾被摧毀，要嘛繞到敵人側邊，找一個坦克無法保護到目標的角度。",
-        "* 搭配傷害增幅效果時效果最佳。",
-        "* 奈米戰術鎖定（Nano Visor）是《鬥陣特攻》中最經典且強大的絕招組合之一。此外，你也可以獲得慈悲（Mercy）的增幅、軌道光束（Orbital Ray）、狐狸衝刺（Kitsune Rush），或是鎖定受到紛亂之珠（Discord Orb）影響的目標。根據你的隊伍陣容，務必規劃如何在戰術鎖定（Tactical Visor）期間放大你的傷害，這樣你的絕招將會發揮顯著的成效。"
+        "* 敵方是否有萊因哈特（Reinhardt）的護盾來保護隊友？是否有建築物或掩體能讓他們迅速躲藏？是否有具備高機動性的敵人能跳到你臉上？在決定使用戰術鎖定（Tactical Visor）前，你必須先問自己這些問題。",
+        "* 舉例來說，如果對方有護盾坦克，要嘛等到屏障被摧毀，要嘛繞到敵方側翼，尋找一個坦克無法保護到目標的角度。",
+        "* 搭配傷害增幅效果時表現最佳。",
+        "* 奈米戰術鎖定（Nano Visor）是《鬥陣特攻》中最經典且強大的絕招連攜之一。此外，你也可以獲得慈悲（Mercy）的傷害增幅、軌道光束（Orbital Ray）、狐狸衝刺（Kitsune Rush），或是鎖定受到紛亂之珠（Discord Orb）影響的目標。根據你的隊伍陣容，務必規劃如何在戰術鎖定（Tactical Visor）期間放大你的傷害輸出，這樣你的絕招將會發揮顯著的成效。"
       ],
-      "content_hash": "dc0387196c43",
-      "prompt_version": "v5",
+      "content_hash": "b0c5abb1defc",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:41.437234Z"
+      "timestamp": "2026-03-20T13:17:19.555644Z"
     },
     "5.1.1": {
       "title": "螺旋推進（Helix Propulsion）",
       "description": "螺旋火箭（Helix Rockets）的投射物速度提升 50%。",
       "content": [
-        "未提供攻略",
-        "* 特殊能力：螺旋推進（Helix Propulsion）"
+        "未提供指南",
+        "特殊能力：螺旋推進（Helix Propulsion）"
       ],
       "content_hash": "12c7538e1643",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:42.631607Z"
+      "timestamp": "2026-03-20T13:17:24.735415Z"
     },
     "5.1.2": {
       "title": "戰術齊射（Tactical Salvo）",
-      "description": "在「戰術鎖定（Tactical Visor）」期間，「螺旋火箭（Helix Rockets）」的冷卻時間縮短 80%，且不再中斷「重型脈衝步槍（Heavy Pulse Rifle）」的射擊。",
+      "description": "在戰術鎖定（Tactical Visor）期間，螺旋火箭（Helix Rockets）的冷卻時間縮短 80%，且不再中斷重型脈衝步槍（Heavy Pulse Rifle）的射擊。",
       "content": [
         "未提供指南",
         "特殊能力：戰術齊射（Tactical Salvo）"
       ],
       "content_hash": "8b27c3d40b40",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:44.600538Z"
+      "timestamp": "2026-03-20T13:17:26.308509Z"
     },
     "5.2.1": {
       "title": "敏捷訓練（Agility Training）",
       "description": "疾跑（Sprint）的速度提升 20%，且在疾跑期間可以進行裝填。",
       "content": [
-        "* 當面對多名側襲者（Flanker）敵人時，敏捷訓練（Agility Training）可能是更適合選擇的主要特殊能力（major perks）。更快的逃脫速度以及無需停下即可裝填的能力，能提升你的戰場存活時間，同時不犧牲閃避動作。",
-        "* 如果已部署生化力場（Biotic Field），在力場範圍內疾跑（Sprint）的同時進行裝填，這樣可以在裝填完成前持續閃避並獲得治療。"
+        "* 當對上多名側襲者（Flanker）敵人時，敏捷訓練（Agility Training）會是更佳的主要特殊能力（major perks）選擇。更快的逃脫速度以及無需停下裝填，能在不犧牲閃避動作的情況下增加輸出時間。",
+        "* 若已部署生化力場（Biotic Field），請在力場範圍內一邊疾跑（Sprint）一邊裝填，如此便能在裝填完成前持續進行閃避與治療。"
       ],
       "content_hash": "5ad87a21a678",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:46.258936Z"
+      "timestamp": "2026-03-20T13:17:27.770133Z"
     },
     "5.2.2": {
-      "title": "戰鬥藥劑（Stim Pack）",
-      "description": "戰鬥藥劑（Stim Pack）會取代生化力場（Biotic Field）。使用時，士兵76會在 5 秒內每秒恢復 30 點生命值，並獲得 20% 的攻擊速度加成。",
+      "title": "戰鬥針劑（Stim Pack）",
+      "description": "戰鬥針劑（Stim Pack）會取代生化力場（Biotic Field）。使用時，士兵76每秒恢復 30 點生命值，並在 5 秒內提升 20% 的攻擊速度。",
       "content": [
         "* 治療或增強",
-        "* 由於你並未失去在必要時使用生化力場（Biotic Field）進行治療的選擇，戰鬥藥劑（Stim Pack）提供了相當的靈活性。將士兵76轉變為玻璃大砲，以犧牲被治療效果無效化（anti-healed）為代價來換取攻擊速度。",
-        "* 4 秒的短暫窗口期意味著你必須在啟動戰鬥藥劑（Stim Pack）之前確認並看見你的目標，否則你將面臨浪費長冷卻時間的風險。",
+        "* 由於你並未失去在必要時使用生化力場（Biotic Field）進行治療的選擇，戰鬥針劑（Stim Pack）提供了不錯的靈活性。當士兵76獲得攻擊速度加成，但代價是受到禁療效果影響時，他將轉變為一名玻璃大砲。",
+        "* 僅有 4 秒的短暫窗口期意味著你在啟動戰鬥針劑（Stim Pack）之前，必須先確認並看見你的目標，否則將面臨浪費長冷卻時間的風險。",
         "* 淨化效果",
-        "* 諸如保護鈴（Protection Suzu）、投射屏障（Projected Barrier）和生命之握（Life Grip）等技能可以淨化被治療效果無效化（anti-healed）的負面狀態。當你為了戰術鎖定（Tac Visor）而使用戰鬥藥劑（Stim Pack）時，這點尤其重要，因為敵方隊伍很可能會轉而集火攻擊你。"
+        "* 諸如保護鈴（Protection Suzu）、投射屏障（Projected Barrier）和生命之握（Life Grip）等技能可以淨化禁療效果。當你在使用戰術鎖定（Tac Visor）時配合戰鬥針劑（Stim Pack）特別有效，因為敵方隊伍很可能會轉頭集火你。"
       ],
       "content_hash": "eba490268874",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:48.535572Z"
+      "timestamp": "2026-03-20T13:17:30.292920Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "最適合士兵76發揮的地圖是那些擁有大量側襲路線的地圖。由於他具備極佳的地面機動性，但缺乏垂直機動性，因此平坦的地形能最大化他「衝刺（Sprint）」的價值，並減輕他在垂直空間上的弱點。然而，如果高處區域容易抵達，他當然應該設法佔領這些位置。此外，你也應該尋找視野較長的區域，因為他的武器最適合中距離交戰。對於士兵76來說，強迫近距離作戰的地圖會讓他陷入困境，因為他會被閃光和源氏這類英雄壓制。如果敵方陣容中有奪命女這類狙擊手，超長距離的視野對他而言也會是個問題。"
+        "最適合士兵76發揮的地圖是那些擁有大量側襲路線的地圖。由於他具備出色的地面機動性，但缺乏垂直機動性，因此平坦的地形能最大化他「疾跑（Sprint）」的價值，並將垂直弱點降至最低。然而，如果高處區域容易抵達，他當然應該設法佔據這些位置。你也應該尋找視野較長的地圖，因為他的武器最適合中距離交戰。那些強迫進行近距離戰鬥的地圖對士兵76來說很棘手，因為他會被閃光和源氏這類英雄壓制。如果敵方陣容中有奪命女這類狙擊手，極長的視野對他來說也會是個問題。"
       ],
       "content_hash": "8b12534db5a7",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:51.067049Z"
+      "timestamp": "2026-03-20T13:17:32.634167Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "士兵76 是《鬥陣特攻》中自我生存能力最強的英雄之一，這都要歸功於他的機動性與生化力場（Biotic Field）。他並不需要隊伍中有特定的英雄，就能獨自在地圖上四處遊走並進行輕度的側襲（Flanker）。",
-        "擁有屏障的坦克固然不錯，因為他們能提供極佳的保護，讓他在主戰線進行火力壓制。然而，衝鋒型（Rush）與機動型（Dive）坦克也能發揮很好的價值，因為士兵76 可以跟上他們的節奏，並在遠距離進行補火，以集中火力快速擊殺目標。",
-        "最適合他的輔助英雄是那些能提升他傷害輸出的角色。大多數輔助英雄都有辦法做到這一點，例如使用奈米強化（Nano Boost）、狐狸衝刺（Kitsune Rush）、慈悲的傷害增幅（Damage Boost）、增幅矩陣（Amplification Matrix）或紛亂之珠（Orb of Discord）。另一個絕佳的組合是在發動戰術鎖定（Tactical Visor）期間，由火箭貓（Jetpack Cat）帶著他飛行。"
+        "![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76是《鬥陣特攻》中自我生存能力最強的英雄之一，這歸功於他的機動性以及![](/data/assets/guide/bf8d8ba901c24a9b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-field.png)生化力場（Biotic Field）。他不需要隊伍中有特定的英雄，就能在戰場上四處奔走並進行輕度的側襲。",
+        "擁有屏障的坦克是不錯的選擇，因為他們能提供極佳的保護，讓他能持續對主要戰線進行火力壓制。然而，衝鋒型（Rush）與機動型（Dive）坦克也能發揮很好的效益，因為他能跟上這些坦克的節奏，並在遠距離進行補火，以集中火力快速擊殺目標。",
+        "最適合他的輔助英雄是那些能提升他傷害輸出的角色。大多數輔助英雄都有相關手段，例如使用![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png)奈米強化（Nano Boost）、![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)狐狸衝刺（Kitsune Rush）、![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲的傷害增幅（damage boost）、![](/data/assets/guide/d56469975ca68b87.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Famplification-matrix.png)增幅矩陣（Amplification Matrix）或![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)紛亂之珠（Orb of Discord）。另一個絕佳的組合是在使用戰術鎖定（Tactical Visor）期間，利用![](/data/assets/guide/5ecb2adb5abc123f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjetpack-cat.png)火箭貓（Jetpack Cat）帶他飛行。"
       ],
-      "content_hash": "f70b78ee5bbc",
-      "prompt_version": "v5",
+      "content_hash": "9d0546405221",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:55.006420Z"
+      "timestamp": "2026-03-20T13:17:35.450186Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "士兵76能主宰比賽的方式，在於他能在高處與側襲角度不受干擾地進行輸出。因此，要封鎖他的關鍵就在於當他對你們隊伍採取進攻角度時，必須立即給予他壓力。",
-        "「Dive（突進）」型英雄是執行此任務的最佳人選。他面對突進時的應對方式通常只是透過奔跑逃離並進行治療；因此，對他發動突進通常不會有太大的危險。每個角色定位都有能與隊友配合並突進士兵76的英雄，即便是像路西歐與火箭貓這樣的輔助角色也能做到。",
-        "隨時追蹤他的位置，如果你有一段時間沒看到士兵76出現在正面，請假設他正準備從側翼對你們發動攻擊。如果你缺乏機動性，請待在掩體附近，這樣你才能在他發動突襲時逃脫。對於坦克來說，單純阻擋他的消耗傷害就能帶來很大的價值。如果士兵76整場只在射擊護盾，那麼他對隊伍的貢獻就相當有限。你可以選擇使用自己的護盾，或是待在隊友的保護範圍內。"
+        "![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76 能夠主宰比賽的方式，是透過在高處與側襲角度不受干擾地進行輸出。因此，反制他的關鍵在於當他對你們隊伍採取進攻角度時，立即給予壓力。",
+        "「側襲者（Flanker）」英雄是執行此任務的最佳人選。他應對側襲的方法僅僅是透過逃跑與治療來存活；通常對他進行側襲並不會有太大危險。每個職位都有能與隊友配合並側襲士兵76的英雄，即便是像 ![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐 與 ![](/data/assets/guide/5ecb2adb5abc123f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjetpack-cat.png)火箭貓 這樣的支援型英雄也能做到。",
+        "隨時追蹤他的位置；如果你有一段時間沒在正面看到士兵76，就要假設他正準備從側翼對你們發動攻擊。如果你缺乏機動性，請待在掩體附近，以便在遭到突襲時能夠逃脫。對於坦克而言，單純阻擋他的消耗傷害就能帶來極大價值。如果士兵76整場只在射擊護盾，那他對隊伍的貢獻就非常有限。請善用你自己的護盾，或是待在隊友的保護範圍內。"
       ],
-      "content_hash": "06ee065dbc93",
-      "prompt_version": "v5",
+      "content_hash": "e177322c0d18",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:57.092651Z"
+      "timestamp": "2026-03-20T13:17:37.889794Z"
     },
     "8.2": {
-      "title": "特定英雄剋星名稱",
+      "title": "特定英雄剋制名稱",
       "description": "",
       "content": [
         "* 路西歐（Lúcio）",
         "* 火箭貓（Jetpack Cat）"
       ],
       "content_hash": "6319a90572b6",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:58.628734Z"
+      "timestamp": "2026-03-20T13:17:39.249167Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.570702Z"
+    "timestamp": "2026-03-20T13:16:48.033174Z"
   }
 }

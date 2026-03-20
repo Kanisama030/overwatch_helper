@@ -6,40 +6,40 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "她是一位退役的職業電競選手，也是《鬥陣特攻》職業賽場上的常客。D.Va 是一位駕駛機甲的坦克，擅長在戰鬥中持續移動以尋找最佳位置。面對技術高超的 D.Va 玩家時，會感覺她無處不在，無論你逃到哪裡，她都會出現並阻止你。",
-        "她無法以傳統方式進行坦克防禦。如果你試圖讓她死守在咽喉點，她的機甲很快就會被摧毀。在許多坦克對局中，她的目標是完全避開敵方坦克，讓對方在場上無所事事。",
-        "對局與地圖知識對 D.Va 玩家來說至關重要，因為防禦矩陣（Defense Matrix）可以完全抵銷敵方的技能，但前提是她必須處於正確的位置。隨時留意哪些隊友需要協助，並善用推進器（Boosters）與防禦矩陣（Defense Matrix）的短冷卻時間，幫助他們創造關鍵的操作。"
+        "她是一位退役的職業電競選手，也是《鬥陣特攻》職業賽場上的常客。![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 是一位駕駛機甲的戰士（Tank），擅長在戰鬥中持續移動以尋找最佳位置。對抗技術高超的 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 玩家時，會感覺她彷彿無處不在，無論你逃到哪裡，她都會出現並阻止你。",
+        "她無法以傳統的方式擔任戰士（Tank）。如果你試圖讓她堅守陣地並封鎖咽喉點，她的機甲很快就會被摧毀。在許多戰士（Tank）的對局中，她的目標是完全避開敵方戰士（Tank），讓對方只能在場上漫無目的地遊走。",
+        "對於 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 玩家來說，對局與地圖知識尤為重要，因為防禦矩陣（Defense Matrix）可以完全抵銷敵方的技能，但前提是她必須處於正確的位置。隨時留意哪位隊友需要協助，並善用推進器（Boosters）與防禦矩陣（Defense Matrix）的短冷卻時間，幫助他們創造關鍵戰果。"
       ],
-      "content_hash": "18f279619db4",
-      "prompt_version": "v5",
+      "content_hash": "039ee6559a34",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:13.809567Z"
+      "timestamp": "2026-03-20T13:15:04.347184Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 保持靈活應變。利用 D.Va 的機動性來回應敵方隊伍的攻擊位置與目標。",
-        "* 進行保護與支援。防禦矩陣（Defense Matrix）應優先用於確保後排生存，並在輸出角（DPS）發動攻擊時提供保護。",
-        "* 先保護好自己。別忘了，如果你想對隊伍有所貢獻，就必須確保自己活著並維持在機甲內。"
+        "* 保持靈活應變。利用 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 的機動性來回應敵方隊伍的攻擊位置與目標。",
+        "* 進行保護與支援。![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）應被用來確保後排存活，並在輸出英雄發動攻擊時保護他們。",
+        "* 先保護好自己。別忘了，如果你想對隊伍有所貢獻，就必須讓自己活下來並維持在機甲內。"
       ],
-      "content_hash": "cc25ccde36c1",
-      "prompt_version": "v5",
+      "content_hash": "b1fb055310f9",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:15.545891Z"
+      "timestamp": "2026-03-20T13:15:05.769310Z"
     },
     "1.1.2": {
-      "title": "對抗策略",
+      "title": "對戰策略",
       "description": "",
       "content": [
-        "* 創造交叉火力。從多個方向攻擊 D.Va 可以阻止她利用防禦矩陣（Defense Matrix）吸收你們隊伍的所有傷害。",
-        "* 保持集結。專注於互相支援以維持生存，並迫使她撤退。每當她離開近距離作戰範圍，她的戰術價值就會大幅下降。",
-        "* D.Va 對於光束與近戰攻擊沒有防禦能力。如果你感到吃力，請考慮更換英雄來進行反制。"
+        "* 創造交叉火力。從多個方向攻擊 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va，能讓她無法利用防禦矩陣（Defense Matrix）吸收你們隊伍的所有傷害。",
+        "* 保持集結。專注於互相掩護並迫使她撤退。每當她離開近戰距離，她的價值就會大幅下降。",
+        "* ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 對光束與近戰攻擊沒有防禦能力。如果你感到吃力，請考慮更換英雄來進行反制。"
       ],
-      "content_hash": "f9e92ae7d196",
-      "prompt_version": "v5",
+      "content_hash": "4ee898bbce3f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:16.969294Z"
+      "timestamp": "2026-03-20T13:15:07.381135Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
@@ -53,340 +53,340 @@
         "* 區域控制型絕招"
       ],
       "content_hash": "82f280c8ef04",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:18.041324Z"
+      "timestamp": "2026-03-20T13:15:08.749435Z"
     },
     "3.1.1": {
       "title": "低冷卻時間的機動性",
       "description": "",
       "content": [
-        "推進器（Boosters）擁有《鬥陣特攻》中所有坦克移動技能裡最低的冷卻時間。除此之外，它還能讓她朝任何方向飛行。D.Va 可以快速切入並撤離戰場、飛去保護隊友，或是飛去協助隊伍擊殺敵人。"
+        "![](/data/assets/guide/390fb173c801c718.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fboosters.png)推進器（Boosters）是《鬥陣特攻》中所有坦克移動技能裡冷卻時間最短的。除此之外，它還能讓她朝任何方向飛行。![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 可以快速切入並撤離戰場，飛向隊友進行防禦，或是飛往目標地點協助隊伍完成擊殺。"
       ],
-      "content_hash": "1b7371723f9d",
-      "prompt_version": "v5",
+      "content_hash": "816d67dd0a98",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:20.388574Z"
+      "timestamp": "2026-03-20T13:15:10.246377Z"
     },
     "3.1.2": {
       "title": "防禦矩陣（Defense Matrix）",
       "description": "",
       "content": [
-        "防禦矩陣（Defense Matrix）屬於資源消耗型技能而非生命值機制，這意味著它在持續期間內可以吸收無限的傷害。她也是唯一能夠完全吸收像是重力噴湧（Graviton Surge）和暴雪（Blizzard）這類絕招的 Tank。防禦矩陣（Defense Matrix）的強大與多功能性，使 D.Va 成為所有 Tank 中最強的隊伍輔助者。"
+        "![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）是基於資源而非生命值的機制，這意味著她在持續時間內可以吸收無限的傷害。她也是唯一能完全吸收像是 ![](/data/assets/guide/eacdf2c5d0a248f5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgraviton-surge.png)重力噴湧（Graviton Surge）和 ![](/data/assets/guide/7578824db04164d2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblizzard.png)暴雪（Blizzard）這類絕招的坦克。![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）的強大與多功能性，使 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 成為坦克中最強的團隊輔助者。"
       ],
-      "content_hash": "8b56d10582ae",
-      "prompt_version": "v5",
+      "content_hash": "43c53927edab",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:22.184427Z"
+      "timestamp": "2026-03-20T13:15:11.810310Z"
     },
     "3.1.3": {
       "title": "爆發傷害",
       "description": "",
       "content": [
-        "在近距離時，她同時使用散彈槍和微型飛彈（Micro Missiles）能造成極高的爆發傷害。當你的隊伍無法解決敵方支援時，D.Va 可以作為後排刺客切入，並在敵方其他人反應過來之前擊殺其中一人。"
+        "在近距離時，她同時使用散彈槍與 ![](/data/assets/guide/cb85107f12591c3b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmicro-missiles.png)微型飛彈（Micro Missiles）能造成極高的爆發傷害。當你的隊伍無法有效牽制敵方支援時，![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 可以化身為後排刺客切入戰場，並在敵方其他成員反應過來之前擊殺其中一人。"
       ],
-      "content_hash": "152aa92ca204",
-      "prompt_version": "v5",
+      "content_hash": "3814a5b1c28b",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:23.659074Z"
+      "timestamp": "2026-03-20T13:15:13.757912Z"
     },
     "3.2.1": {
       "title": "極差的遠程傷害",
       "description": "",
       "content": [
-        "只要 D.Va 沒有貼在敵人的臉上，她的傷害基本上都可以完全忽略。微型飛彈（Micro Missiles）緩慢的飛行速度也導致它們無法成為可靠的遠程傷害來源。"
+        "只要 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 沒有貼在敵人的臉上，她的傷害基本上都可以完全忽略。![](/data/assets/guide/cb85107f12591c3b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmicro-missiles.png)微型飛彈（Micro Missiles）緩慢的飛行速度也導致它們無法成為可靠的遠程傷害來源。"
       ],
-      "content_hash": "83d2bfa0bfc2",
-      "prompt_version": "v5",
+      "content_hash": "2a43ddcbc1d1",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:25.239781Z"
+      "timestamp": "2026-03-20T13:15:15.238779Z"
     },
     "3.2.2": {
       "title": "方向性傷害減免",
       "description": "",
       "content": [
-        "雖然有些坦克可以阻擋來自多個方向或前方大範圍的傷害，但 D.Va 的防禦矩陣（Defense Matrix）是一個位於她正前方的錐形區域。如果你在使用防禦矩陣（Defense Matrix）時瞄準不夠精確，就會浪費資源，甚至無法吸收你原本想抵擋的傷害。這也使得她在開闊地帶容易因為遭受交叉火網而陷入苦戰。"
+        "雖然有些坦克可以阻擋來自多個方向或前方大範圍的傷害，但 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 的 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）是一個位於她正前方的錐形區域。如果你在使用 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）時瞄準不夠精準，將會浪費資源，甚至無法吸收你原本打算阻擋的傷害。這也使得她在開闊地帶面對交叉火力時會顯得相當吃力。"
       ],
-      "content_hash": "cd2edb5dfee9",
-      "prompt_version": "v5",
+      "content_hash": "134526328913",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:27.525022Z"
+      "timestamp": "2026-03-20T13:15:17.009060Z"
     },
     "3.2.3": {
       "title": "區域控制型絕招",
       "description": "",
       "content": [
-        "在最低階的牌位中，你或許還能靠著將 D.Va 的機甲炸彈（Self-Destruct）射向空中來隨機殲滅敵方隊伍。然而，一旦你開始爬分，就會很快發現玩家們已經很擅長在機甲飛過空中時躲避自爆（Self-Destruct）了。",
-        "在高階場中，這類絕招的最佳用途通常是作為區域控制工具。僅僅是強迫敵人走避幾秒鐘，其影響力遠不如使用地裂擊（Earthshatter）或重力噴湧（Graviton Surge）來暈眩整個隊伍來得巨大。"
+        "在最低階的牌位中，你或許能靠著將 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 的炸彈射向空中來隨機殲滅敵方隊伍。然而，一旦你開始爬分，就會很快發現玩家們已經很擅長在 ![](/data/assets/guide/182487a51a584671.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fself-destruct.png)自爆（Self-Destruct）飛過空中時躲避它了。",
+        "在高階場中，這類絕招的最佳用途通常是作為區域控制工具。僅僅強迫敵人走避幾秒鐘，其影響力遠比不上用 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)地裂擊（Earthshatter）或重力噴湧（Grav）來暈眩整支隊伍。"
       ],
-      "content_hash": "ba1944957869",
-      "prompt_version": "v5",
+      "content_hash": "a855218dad33",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:29.519860Z"
+      "timestamp": "2026-03-20T13:15:19.194860Z"
     },
     "4.1": {
       "title": "主要攻擊：核融合砲（Fusion Cannons）",
       "description": "",
       "content": [
-        "**核融合砲（Fusion Cannons）使用技巧**",
+        "**![](/data/assets/guide/2a1e12556e664cb2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffusion-cannons.png)核融合砲（Fusion Cannons）的操作技巧**",
         "* 利用最近的掩體",
-        "* 由於射程有限，你應該隨時尋求盡可能靠近敵人的位置。",
-        "* 在掩體間移動，並嘗試佔據離敵人最近的掩體。你能安全推進得越遠，就越有機會找到合適的側襲目標。",
+        "* 由於射程有限，你應該隨時尋求盡可能靠近敵人的站位。",
+        "* 在掩體間移動，並嘗試佔據距離敵人最近的掩體。你能安全推進得越遠，就越有機會找到好的突襲目標。",
         "* 無限彈藥",
-        "* 你主要攻擊的廣角彈道擴散與無限彈藥，非常適合用來持續造成小額傷害。",
-        "* D.Va 是追擊使用傳送器（Translocator）的駭影（Sombra）的最佳人選，因為你的散彈槍可以揭露隱形狀態下駭影（Sombra）的位置。",
-        "* 此外，每一點傷害都會重置自我治療被動技能。當敵人生命值偏低且沒有醫護兵（Medic）能為他們治療時，請務必善用這一點。"
+        "* 你的主要攻擊具有廣泛的彈道擴散與無限彈藥，非常適合持續造成小額傷害。",
+        "* ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 是追擊使用 ![](/data/assets/guide/e02932bc2fe16c69.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranslocator.png)傳送器（Translocator）的 ![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)駭影（Sombra）的最佳人選，因為你的散彈槍攻擊會讓隱形中的 ![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)駭影（Sombra）現形。",
+        "* 此外，每一點傷害都會重置自我治療被動技能。當敵人生命值偏低且沒有醫護兵（Medic）能夠治療他們時，請善加利用這一點。"
       ],
-      "content_hash": "bcbb33ea2cb9",
-      "prompt_version": "v5",
+      "content_hash": "ffc107494a9d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:33.039867Z"
+      "timestamp": "2026-03-20T13:15:22.251295Z"
     },
     "4.2": {
       "title": "次要攻擊：防禦矩陣",
       "description": "",
       "content": [
-        "**防禦矩陣（Defense Matrix）的技巧**",
-        "* 了解對戰組合",
-        "* 根據敵方隊伍的英雄選擇，你的防禦矩陣（Defense Matrix）重點也會隨之改變。如果對方有莫伊拉，你應該要吃掉她所有的生化之球（Biotic Orb）。如果對方有炸彈鼠，就用防禦矩陣（Defense Matrix）抵銷他的震盪地雷（Concussive Grenades）、萊因哈特的烈焰擊（Fire Strike）、札莉雅的重力噴湧（Graviton Surge）、安娜的生化手榴彈（Biotic Grenade），以此類推。",
-        "* 所有能被防禦矩陣（Defense Matrix）吸收的高價值技能，都應該成為你的主要目標。",
-        "* 掩護隊友（Peel）",
-        "* 推進器（Boosters）與防禦矩陣（Defense Matrix）是所有戰士（Bruiser）中掩護隊友最強的技能組合。舉例來說，當你看到攔路豬勾住隊友時，使用推進器（Boosters）並開啟防禦矩陣（Defense Matrix）來抵銷後續傷害，讓隊友得以存活。",
-        "* 輔助進攻（Enable）",
-        "* 你的輸出英雄（DPS）是否正準備進行高風險、高回報的操作？對他們施放防禦矩陣（Defense Matrix）能大幅降低風險並提高他們成功的機率。",
-        "* 與你的輸出英雄（DPS）進行配合，並在他們使用絕招時保護他們。法拉的彈幕（Barrage）、卡西迪的彈無虛發（Deadeye）以及死神的死亡綻放（Death Blossom）都是能從防禦矩陣（Defense Matrix）保護中獲得極大助益的絕招範例。"
+        "**![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣的使用技巧**",
+        "* 學習對戰組合",
+        "* 根據敵方隊伍的英雄選擇，你對 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣 的關注點會有所不同。如果對方有 ![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉，你應該要吃掉每一顆 ![](/data/assets/guide/b4447c9cc5302954.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-orb.png)生化球（Biotic Orb）。如果是 ![](/data/assets/guide/2b23a0f925f80146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunkrat.png)炸彈鼠，請用 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣 吸收他的震盪地雷（Concussive Grenades）、![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特的 ![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)烈焰擊（Fire Strike）、![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的 ![](/data/assets/guide/eacdf2c5d0a248f5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgraviton-surge.png)重力噴湧（Graviton Surge）、![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜的生化手榴彈（Biotic Grenade），以此類推。",
+        "* 所有能被防禦矩陣吸收的高價值技能，都應該成為你的首要目標。",
+        "* 掩護隊友",
+        "* 推進器（Boosters）與 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣 是所有戰士中掩護隊友的最佳技能組合。舉例來說，當你看到 ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬勾住隊友時，請使用 ![](/data/assets/guide/390fb173c801c718.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fboosters.png)推進器 並開啟 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣 來吸收後續傷害，讓隊友得以存活。",
+        "* 輔助隊友",
+        "* 你的輸出位（DPS）是否正準備進行高風險、高回報的戰術？對他們施放 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣，能大幅降低風險並提升他們成功的機率。",
+        "* 與你的輸出位協調，並在他們使用絕招時保護他們。![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉的 ![](/data/assets/guide/bdc23f8912816520.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrage.png)彈幕飛彈（Barrage）、![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪的 ![](/data/assets/guide/4c3fdbb733566161.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeadeye.png)神射手（Deadeye）以及 ![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)死神的 ![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)死亡綻放（Death Blossom）都是非常需要 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣 保護的絕招範例。"
       ],
-      "content_hash": "b0835c16e967",
-      "prompt_version": "v5",
+      "content_hash": "2f35869d4971",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:37.496278Z"
+      "timestamp": "2026-03-20T13:15:25.462291Z"
     },
     "4.3": {
       "title": "[Shift]：推進器（Boosters）",
       "description": "",
       "content": [
-        "**推進器（Boosters）的使用技巧**",
-        "* 保持果斷",
-        "* D.Va 無法承受被動的打法，或是站在原地猶豫不決。由於她的攻擊距離較短，她無法站在正面進行消耗，而防禦矩陣（Defense Matrix）的短暫持續時間也讓她無法成為只會舉盾的機器人。",
-        "* 進行突擊與交戰",
-        "* 如果你要使用推進器（Boosters）進行強勢進攻，請務必確保擁有充足的防禦矩陣（Defense Matrix）能量，這樣才能在反擊中存活下來。",
-        "* 務必嘗試從戰鬥的邊緣切入，絕對不要從中心點進場。這樣你將更容易孤立敵人，同時也能承受較少的傷害。",
+        "**![](/data/assets/guide/390fb173c801c718.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fboosters.png)推進器（Boosters）的使用技巧**",
+        "* 果斷行動",
+        "* ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 不能表現得太被動，或是站在原地猶豫不決。由於她的攻擊距離較短，她無法站在主戰場進行消耗，而防禦矩陣（Defense Matrix）的短暫持續時間也讓她無法成為一個只會舉盾的機器人。",
+        "* 深入敵陣與交戰",
+        "* 如果你要使用 ![](/data/assets/guide/390fb173c801c718.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fboosters.png)推進器（Boosters）進行強勢開戰，請確保擁有充足的防禦矩陣（Defense Matrix）能量，這樣你才能在反擊中存活下來。",
+        "* 務必嘗試從戰鬥的邊緣切入，絕對不要從中心點進入。這樣你更容易孤立敵人，同時受到的傷害也會較少。",
         "* 脫離戰鬥",
         "* 如果你深入敵陣或是在目標點推進時，突然發現整個敵方隊伍都在集火你，請立即使用推進器（Boosters）撤退到安全地帶。大約三秒後，你的生命值就會恢復，並準備好再次使用推進器（Boosters）重返戰場。"
       ],
-      "content_hash": "265768c27e39",
-      "prompt_version": "v5",
+      "content_hash": "1b709da17e0c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:39.862200Z"
+      "timestamp": "2026-03-20T13:15:27.778024Z"
     },
     "4.4": {
       "title": "[E]：微型飛彈（Micro Missiles）",
       "description": "",
       "content": [
-        "微型飛彈（Micro Missiles）的使用技巧",
-        "* 不要用飛彈進行遠距離騷擾",
-        "* 很容易陷入站在遠處使用飛彈射擊敵方屏障的陷阱。這是在極大程度地浪費飛彈，並給予敵人推進的機會，因為他們知道你無法瞬間爆發擊殺他們。",
+        "![](/data/assets/guide/cb85107f12591c3b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmicro-missiles.png)微型飛彈（Micro Missiles）的使用技巧",
+        "* 不要用飛彈進行消耗",
+        "* 很容易陷入站在遠處用飛彈射擊敵方屏障的陷阱。這會極大浪費飛彈，並給予敵人推進的機會，因為他們知道你無法瞬間爆發擊殺他們。",
         "* 最佳爆發傷害",
-        "* 使用推進器（Booster），等到靠近敵人後，再施放微型飛彈並配合散彈槍，以瞬間爆發傷害擊殺敵人。這對於處理位於側翼或側襲位置的敵人極為有效。",
-        "* 對抗法拉（Pharah）、慈悲（Mercy）和迴音（Echo）等空中敵人時，請務必等待她們的主要位移技能交出後，再使用推進器（Booster）進行追擊，這樣她們就無法逃脫。",
-        "* 防禦矩陣（Defense Matrix）與飛彈",
-        "* 當你需要壓制敵方輸出時，同時進行防禦與攻擊會非常實用。直接貼近敵人並開啟防禦矩陣（Defense Matrix）可以阻擋所有投射物傷害與投射物治療。此外，你的微型飛彈（Micro Missiles）還能對他們造成傷害。只要有一名隊友與你配合進攻，敵人幾乎必死無疑。"
+        "* 使用推進器（Booster），等待直到靠近目標，然後施放![](/data/assets/guide/cb85107f12591c3b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmicro-missiles.png)微型飛彈並配合散彈槍，以爆發傷害擊殺敵人。這對於對付位於側翼或偏離位置的敵人極為有效。",
+        "* 對抗像![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉、![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲和![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音這類空中敵人時，請務必等待他們的主要位移技能結束，然後再使用推進器進行追擊，這樣他們就無法逃脫。",
+        "* 防禦矩陣（Matrix）與飛彈",
+        "* 當你需要壓制敵方輸出位時，同時進行自我保護與攻擊非常實用。直接貼近敵人並開啟防禦矩陣可以阻擋所有投射物傷害與投射物治療。此外，你的![](/data/assets/guide/cb85107f12591c3b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmicro-missiles.png)微型飛彈還能對他們造成傷害。只要有一名隊友與你配合進攻，敵人基本上必死無疑。"
       ],
-      "content_hash": "b40a5fecbff3",
-      "prompt_version": "v5",
+      "content_hash": "43411a2d682e",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:42.346643Z"
+      "timestamp": "2026-03-20T13:15:30.951030Z"
     },
     "4.5": {
       "title": "絕招：自爆（Self-Destruct）",
       "description": "",
       "content": [
-        "**自爆（Self-Destruct）的使用技巧**",
+        "![](/data/assets/guide/182487a51a584671.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fself-destruct.png)自爆（Self-Destruct）的提示",
         "* 推進炸彈（Booster Bomb）",
         "* 99% 的情況下，你會希望將爆炸中的機甲向前發射，而不是原地彈射。",
         "* 推進器（Boosters）剩餘的資源量，決定了機甲飛行的距離。",
-        "* 一個好的經驗法則是：在使用絕招前先消耗 50% 的推進器（Boosters）資源，以確保機甲在爆炸前會落下。這樣一來，你就不會不小心飛過頭，錯過敵方隊伍。",
-        "* 第二條命（Second life）",
-        "* 有時候使用自爆（Self-Destruct）是為了快速召喚機甲。如果你在擁有絕招的情況下機甲被摧毀，請毫不猶豫地使用你的絕招。"
+        "* 一個好的經驗法則是，在使用絕招前先消耗 50% 的推進器資源，以確保機甲在爆炸前會落回地面。這樣做可以避免不小心飛越敵方隊伍。",
+        "* 第二條命",
+        "* 有時候使用 ![](/data/assets/guide/182487a51a584671.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fself-destruct.png)自爆（Self-Destruct）是為了快速召喚機甲。如果你在擁有絕招的情況下機甲被摧毀，請毫不猶豫地使用你的絕招。"
       ],
-      "content_hash": "301bdfaaefdd",
-      "prompt_version": "v5",
+      "content_hash": "1f3f556dca85",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:44.204678Z"
+      "timestamp": "2026-03-20T13:15:33.585227Z"
     },
     "4.6": {
       "title": "[Q]：呼叫機甲",
       "description": "",
       "content": [
-        "**呼叫機甲（Call Mech）的技巧**",
+        "**![](/data/assets/guide/068bc5e965810679.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcall-mech.png)呼叫機甲的技巧**",
         "* 保持安全",
-        "* 決定何時何地重新呼叫機甲時，最重要的考量是確保自己能存活下來。在呼叫機甲前，請務必先躲到掩體後方。",
-        "* 此外，請記住呼叫機甲（Call Mech）會被駭入（hack）、擊退（knockback）和昏迷（stuns）效果中斷。請隨時留意擁有這些技能的敵方位置。",
+        "* 決定何時何地重新呼叫機甲時，最重要的考量是你能否存活下來。在呼叫機甲前，請務必先躲到掩體後方。",
+        "* 此外，請記住 ![](/data/assets/guide/068bc5e965810679.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcall-mech.png)呼叫機甲 會被駭入（Hack）、擊退（Knockback）和暈眩（Stuns）效果中斷。請隨時留意擁有這些技能敵人的位置。",
         "* 若距離極近，可直接秒殺 250 生命值的英雄。",
-        "* 通常不建議刻意嘗試，但在為了娛樂效果或特定極端情況下，這招有時能發揮關鍵作用。"
+        "* 通常不建議刻意嘗試，但在為了娛樂效果或特定戰術情境下，這招有時能發揮關鍵作用。"
       ],
-      "content_hash": "d0b75c52afda",
-      "prompt_version": "v5",
+      "content_hash": "7ab908d95638",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:45.837274Z"
+      "timestamp": "2026-03-20T13:15:35.590716Z"
     },
     "4.7": {
       "title": "被動技能：彈射（Eject）",
       "description": "",
       "content": [
-        "_當機甲被摧毀時，彈射出機甲。_",
-        "**關於** 彈射（Eject）**的提示：**",
-        "* 如果戰鬥已經無力回天，請確保快速陣亡，不要造成隊伍陣亡時間不一致（stagger）。在駕駛員型態下，最糟糕的情況就是讓已經重生隊友為了等你而延誤進攻時機。"
+        "_當機甲被摧毀時，從機甲中彈射出來。_",
+        "**![](/data/assets/guide/3727e1ebb5a40942.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Feject.png)彈射（Eject）的提示：**",
+        "* 如果戰鬥已經無力回天，請確保快速陣亡，不要造成隊伍脫節（stagger）。以駕駛員型態存活最糟糕的情況，就是讓剛重生回來的隊友被迫等待你延遲的重生時間。"
       ],
-      "content_hash": "48fb6e72dd0a",
-      "prompt_version": "v5",
+      "content_hash": "faea3e5112b2",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:47.637642Z"
+      "timestamp": "2026-03-20T13:15:37.352028Z"
     },
     "4.8": {
-      "title": "主要攻擊：光線槍（Light Gun）",
+      "title": "主要攻擊：光線槍",
       "description": "",
       "content": [
-        "關於光線槍（Light Gun）的提示",
-        "* 當你以駕駛員型態的 D.Va 進行戰鬥時，請與敵人保持距離，並鎖定最容易擊中的目標，以便快速累積能量來呼叫機甲（Call Mech）。",
-        "* 不要放棄；你嬌小的身軀讓敵人很難擊中你。有時候你甚至能贏得 1 對 1 的對決並重新召喚機甲。"
+        "關於 ![](/data/assets/guide/83cc24b57b713e82.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flight-gun.png)光線槍的提示",
+        "* 當你身為駕駛員狀態的 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 時，請與敵人保持距離，並鎖定最容易擊中的目標，以快速獲得 ![](/data/assets/guide/068bc5e965810679.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcall-mech.png)呼叫機甲。",
+        "* 不要放棄；你嬌小的身軀讓敵人很難擊中你。有時候你可以贏得 1 對 1 的對決並重新召喚機甲。"
       ],
-      "content_hash": "5f78cc2dc4cd",
-      "prompt_version": "v5",
+      "content_hash": "ed666fec2350",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:49.275798Z"
+      "timestamp": "2026-03-20T13:15:38.965245Z"
     },
     "5.1.1": {
       "title": "兔力全開（Bunny Power）",
       "description": "彈射（Eject）會賦予 75 點暫時性超量生命，且呼叫機甲（Call Mech）的傷害半徑增加 50%。",
       "content": [
-        "* 更安全的次要特殊能力（Minor Perk）",
-        "* 額外的生命值讓 D.Va 更容易存活足夠長的時間來重新呼叫機甲。當 D.Va 從機甲彈射出來時，敵方通常會試圖立即擊殺駕駛員。兔力全開（Bunny Power）能幫助她承受這些攻擊。"
+        "* 安全次要特殊能力（Safer Minor Perk）",
+        "* 額外的生命值讓 D.Va 能更容易存活並撐到重新呼叫機甲。當 D.Va 從機甲彈射出來時，敵人都會試圖立刻擊殺駕駛員 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va。兔力全開（Bunny Power）能幫助她抵擋這些攻擊。"
       ],
-      "content_hash": "038e19e6f464",
-      "prompt_version": "v5",
+      "content_hash": "fc88144c5053",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:51.355288Z"
+      "timestamp": "2026-03-20T13:15:40.981473Z"
     },
     "5.1.2": {
-      "title": "延長推進器（Extended Boosters）",
-      "description": "使用推進器（Boosters）擊中敵人可造成 40% 的額外傷害，並延長 0.5 秒的持續時間。",
+      "title": "推進推進（Extended Boosters）",
+      "description": "使用推進推進（Boosters）擊中敵人可造成 40% 的額外傷害，並延長 0.5 秒的持續時間。",
       "content": [
-        "* 非常適合進行突擊",
-        "* 當突擊敵方後排時，你可以透過推進器（Boosters）穿過敵方坦克以及路徑上的任何敵人，藉此觸發延長推進器（Extended Boosters）。",
-        "* 例如，當你有更長的飛行時間時，追擊慈悲（Mercy）會變得容易許多。",
+        "* 非常適合進行突襲",
+        "* 當突襲敵方後排時，你可以透過推進推進（Boosters）穿過他們的坦克以及路徑上的任何敵人，藉此觸發推進推進（Extended Boosters）。",
+        "* 例如，當你擁有更長的飛行時間時，追擊 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲（Mercy）會變得容易許多。",
         "* 數值",
-        "* 每次擊退（boop）造成 25 點傷害。",
-        "* 基礎推進器（Boosters）的持續時間為 2 秒。擊中兩名敵人可延長 50% 的持續時間。"
+        "* * 每次擊退（boop）造成 25 點傷害。",
+        "* 基礎推進推進（Boosters）的持續時間為 2 秒。擊中兩名敵人可延長 50% 的持續時間。"
       ],
-      "content_hash": "a2ccffb9d013",
-      "prompt_version": "v5",
+      "content_hash": "e2c69ca32ffb",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:53.097424Z"
+      "timestamp": "2026-03-20T13:15:42.954520Z"
     },
     "5.2.1": {
       "title": "護盾系統",
-      "description": "將 150 點生命值轉換為護盾。防禦矩陣（Defense Matrix）會根據其吸收傷害的 25% 來恢復護盾。",
+      "description": "將 150 點生命值轉換為護盾。防禦矩陣（Defense Matrix）會根據其吸收傷害量的 25% 來恢復護盾。",
       "content": [
-        "* 提升自我續航能力",
-        "* 護盾生命值會移至 D.Va 生命值池的最前方，並優先受到傷害。",
-        "* 防禦矩陣（Defense Matrix）將吸收的傷害轉換為恢復失去的護盾生命值，能提升你在戰鬥中的生存能力。"
+        "* 提升自我維持能力",
+        "* 護盾生命值會移至 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 生命值條的最前方，並會優先受到傷害。",
+        "* 將吸收的傷害轉換為恢復失去的護盾生命值，能提升你在戰鬥中的生存能力。"
       ],
-      "content_hash": "94a99421a5b5",
-      "prompt_version": "v5",
+      "content_hash": "f6abc270a49a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:54.739870Z"
+      "timestamp": "2026-03-20T13:15:44.825319Z"
     },
     "5.2.2": {
       "title": "精準融合（Precision Fusion）",
       "description": "按下重新裝填以在 3 秒內將融合加農砲（Fusion Cannons）的擴散範圍降低 75%。",
       "content": [
-        "* 當你想要專注於進攻能力與擊殺潛力時最為實用。",
-        "* 請保留此技能用於給予最後一擊，而非在攻擊開始時就使用。"
+        "* 當你想要專注於進攻能力與擊殺潛力時效果最佳。",
+        "* 請保留此能力用於給予致命一擊，而非在攻擊開始時就使用。"
       ],
       "content_hash": "71adab3ed11e",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:56.299404Z"
+      "timestamp": "2026-03-20T13:15:46.131246Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "D.Va 與其他戰士（Bruiser）相比，最顯著的優勢在於她每 3.5 秒就能飛行 2 秒的能力。她在擁有廣闊高台區域的地圖中能發揮最大價值。由於她的傷害僅在極近距離有效，因此地形平坦且空曠的地圖對她來說並不理想。然而，這並不代表她適合待在目標點進行正面交火。狹窄的控制（Control）地圖據點無法給予她足夠的移動空間，這會導致她在面對面的戰士（Bruiser）對決中處於劣勢。"
+        "D.Va 相較於其他戰士（Bruiser）最顯著的優勢，在於她每 3.5 秒就能飛行 2 秒的能力。她在擁有大量高台區域的地圖中能發揮最大價值。由於她的傷害僅在極短距離內有效，因此地形平坦且開闊的地圖對她相當不利。然而，這並不代表她適合待在目標點上進行正面交戰。狹窄的控制（Control）據點無法提供她足夠的移動空間，在這種情況下，她很可能會在與敵方戰士（Bruiser）的正面對決中落敗。 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)"
       ],
-      "content_hash": "6fae3d012029",
-      "prompt_version": "v5",
+      "content_hash": "881fb504bc8f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:16:58.205634Z"
+      "timestamp": "2026-03-20T13:15:48.122035Z"
     },
     "7": {
-      "title": "隊伍陣容搭配（Team Comp Synergies）",
+      "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "最能發揮 D.Va 機動性與傷害減免優勢的隊伍陣容為側襲（Dive）與遠程消耗（Poke）陣容。D.Va 擅長透過頻繁且快速的位移來支援隊友。為了造成有效傷害，她必須貼近敵方臉上進行近距離作戰。因此，D.Va 常與那些能瞬間集火單一目標的側襲英雄搭配。",
-        "作為防禦者與支援者，D.Va 能讓隊伍中的遠程與命中掃描（Hitscan）英雄採取更具侵略性的站位，同時利用自身的存在感與防禦矩陣（Defense Matrix）來保護他們。",
-        "在對抗遠程消耗陣容時，她同樣表現出色，因為防禦矩陣（Defense Matrix）是基於資源的技能，可以吸收無限的傷害。再加上她控制高地的能力，擁有 D.Va 的遠程消耗陣容總是佔據優勢。",
+        "最能發揮 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 機動性與傷害減免優勢的隊伍陣容為「機動陣（dive）」與「消耗陣（poke）」。![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 擅長透過頻繁且快速的走位來支援隊友。為了造成顯著傷害，她必須貼近敵方臉上進行近距離輸出。因此，![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 常與那些能瞬間集火單一目標的機動型英雄搭配。",
+        "作為防守者與支援者，![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 能夠讓她的遠程與即時命中（hitscan）隊友佔據更具侵略性的位置，同時透過自身的存在感與防禦矩陣（Defense Matrix）來保護他們。",
+        "在對抗消耗陣時，她同樣表現出色，因為防禦矩陣（Defense Matrix）是基於資源的技能，可以吸收無限的傷害。再加上她控制高地的能力，擁有 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 的消耗陣總是佔有優勢。",
         "**以 D.Va 為核心的隊伍陣容範例：**",
-        "* **坦克**：D.Va、萊因哈特",
-        "* **輸出**：艾西、死神",
-        "* **輔助**：禪亞塔、安娜"
+        "* **坦克**: ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va, ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)Reinhardt",
+        "* **輸出**: ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe, ![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)Reaper",
+        "* **輔助**: ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)Zenyatta, ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana"
       ],
-      "content_hash": "7b90e69127e1",
-      "prompt_version": "v5",
+      "content_hash": "b529afcbe85c",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:17:01.936667Z"
+      "timestamp": "2026-03-20T13:15:50.816444Z"
     },
     "7.1": {
-      "title": "與其他英雄的個人協同效應",
+      "title": "與其他英雄的個人搭配",
       "description": "",
       "content": [
-        "萊因哈特 (6v6)",
-        "* 當與萊因哈特搭配時，D.Va 可以彌補他所有的弱點。她能處理高處的敵人，並在他放下護盾進行揮擊時為他施放防禦矩陣（Defense Matrix）。當萊因哈特能衝鋒越過敵方坦克時，他們甚至可以一起進行突擊。",
-        "* 兩者同時也是遠程隊友的絕佳保護者，隊友可以站在他們的護盾與防禦矩陣（Defense Matrix）後方進行壓制性射擊。",
-        "死神",
-        "* 當死神進行側襲時，他能幫助吸引敵方對 D.Va 的注意力。D.Va 的推進器（Boosters）也讓她能迅速突擊任何被死神突襲的目標。擊殺死神最容易的時機是在他施放死亡綻放（Death Blossom）原地旋轉時。用防禦矩陣（Defense Matrix）覆蓋死亡綻放（Death Blossom）的效果極其致命且難以阻擋。",
-        "禪亞塔",
-        "* 擁有這名玻璃大砲型支援角色的隊伍在進攻時總是佔據上風。只要禪亞塔還活著，D.Va 就能在他被集火時進行保護（peel），幫助他留在戰場上。他的遠程傷害與紛亂之珠（Orb of Discord）也是支援 D.Va 擊殺敵方後排的最佳工具。"
+        "![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特 (6v6)",
+        "* 當與 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特搭配時，![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 能彌補他所有的弱點。她可以處理高處的敵人，並在他放下護盾進行揮擊時為他施放防禦矩陣（Defense Matrix）。當萊因哈特能衝鋒越過敵方坦克時，他們甚至可以一起進行突襲。",
+        "* 兩者也都是遠程隊友的絕佳守護者，隊友可以站在他們的護盾與防禦矩陣後方進行火力壓制。",
+        "![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)死神",
+        "* ![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)Reaper helps to take attention away from ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va whenever he's on the flank. Her Boosters also allow ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va to quickly dive anyone ![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)Reaper is surprise attacking. The easiest time to kill ![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)Reaper is while he's stuck spinning in ![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)Death Blossom. ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)Defense Matrix covering Blossom is shockingly lethal and hard to stop.",
+        "![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔",
+        "* 擁有這位玻璃大砲型支援角色的隊伍在進攻時總能佔據上風。只要 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔還活著，![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 就能在 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔遭到集火時進行保護（peel），協助他留在戰場上。他的遠程傷害與 ![](/data/assets/guide/47965eb66f5ed006.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-discord.png)紛亂之珠（Orb of Discord）也是協助 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 擊殺敵方後排的最佳支援工具。"
       ],
-      "content_hash": "cc1bf7b72889",
-      "prompt_version": "v5",
+      "content_hash": "dfe24ba0e749",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:17:04.393371Z"
+      "timestamp": "2026-03-20T13:15:53.628926Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "D.Va 最強的能力是她的防禦矩陣（Defense Matrix）。使用不會被防禦矩陣吸收的攻擊是直接反制她最簡單的方法。光子手槍（Photon Magnum）、光子投射器（Photon Projector）以及粒子砲（Particle Cannon）皆屬於光束武器，因此可以直接穿透防禦矩陣。所有近戰攻擊，例如火箭槌（Rocket Hammer）和龍一文字（Dragonblade），也同樣有效。",
-        "如果你的英雄只有投射物技能，你可以將自己定位在側邊或後方等防禦矩陣無法吸收的角度進行射擊。",
-        "此外，任何能將她從推進器（Boosters）狀態中擊暈的能力都能中斷她的移動，這是迫使她脫離機甲的最佳方式。鎖鏈（Binding Chain）、睡眠鏢（Sleep Dart）和吸積（Accretion）都是強大的控場工具，你應該將這些技能留到她試圖飛離時再使用。"
+        "![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 最強的能力是她的 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）。使用不會被矩陣吸收的攻擊是直接反制她最簡單的方法。![](/data/assets/guide/1f8db820974b857f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fphoton-magnum.png)光子手槍（Photon Magnum）、![](/data/assets/guide/dfca9f5b755d9b41.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fphoton-projector.png)光子投射器（Photon Projector）、![](/data/assets/guide/319945fa8ef79cf6.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fparticle-cannon.png)粒子砲（Particle Cannon）皆為光束武器，因此可以穿透防禦矩陣。所有近戰攻擊，例如 ![](/data/assets/guide/0bdc6b49a56a3be7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-hammer.png)火箭槌（Rocket Hammer）和 ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字（Dragonblade）也同樣有效。",
+        "如果你的英雄只有投射物技能，你可以調整站位，從側面或背面攻擊她，因為防禦矩陣無法吸收這些角度的傷害。",
+        "此外，任何能將她從 ![](/data/assets/guide/390fb173c801c718.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fboosters.png)推進器（Boosters）狀態中擊暈的能力都能中斷她的移動，這是迫使她解除機甲的最佳方式。![](/data/assets/guide/61a533467bf9f01d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbinding-chain.png)束縛鎖鏈（Binding Chain）、![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢（Sleep Dart）以及 ![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)吸積（Accretion）都是強力的控場工具，你應該保留這些技能，直到她試圖飛走時再使用。"
       ],
-      "content_hash": "f0c5f6695a33",
-      "prompt_version": "v5",
+      "content_hash": "eaa31dbea700",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:17:07.093302Z"
+      "timestamp": "2026-03-20T13:15:56.127770Z"
     },
     "8.2": {
       "title": "特定英雄剋制名單",
       "description": "",
       "content": [
-        "辛梅塔",
-        "札莉雅",
-        "萊因哈特",
-        "源氏",
-        "安娜",
-        "席格馬"
+        "* 辛梅塔",
+        "* 札莉雅",
+        "* 萊因哈特",
+        "* 源氏",
+        "* 安娜",
+        "* 席格馬"
       ],
       "content_hash": "176701e883e5",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:17:08.461298Z"
+      "timestamp": "2026-03-20T13:15:57.569174Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.501393Z"
+    "timestamp": "2026-03-20T13:15:01.814903Z"
   }
 }

@@ -6,341 +6,340 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "辛梅塔利用她的科技來駕馭硬光的力量，創造出光子射線、光球、屏障以及傳送器。儘管她有一些明顯的弱點，但她能讓自己和整個隊伍瞬間變換位置的獨特能力，使她永遠都是一個值得選擇的英雄。",
-        "辛梅塔通常會與她的坦克一同在前線作戰，在那裡她能最大化發揮高傷害射線的作用。即便是在較遠的距離，她的光球也能造成可觀的傷害，因此儘管飛行速度緩慢，但看著它們飛向敵人仍會帶來巨大的壓力。在任何敵人只有單一進攻路線的地圖上，哨戒塔（Sentry Turrets）是確保敵人無法活著通過的最佳能力之一。"
+        "Using her tech to harness the power of hard-light, ![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)Symmetra creates Photon beams, orbs, Barriers, and Teleporters. Although she has some notable weaknesses, her unique abilities to instantly reposition herself and her entire team will forever keep her as a viable hero pick.",
+        "Sym generally plays up front with her Tank, where she can get the most use out of her high damage beam. Even at longer ranges, her orbs deal a good amount of damage, so even though they are slow, watching them fly at you applies a lot of pressure. On any map where there is only one direction for the enemy team to approach you, ![](/data/assets/guide/6811bc86a1033e85.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsentry-turret.png)Sentry Turrets are one of the best abilities to make sure the enemy never makes it through alive."
       ],
-      "content_hash": "54918747299e",
-      "prompt_version": "v5",
+      "content_hash": "ee6a17dd4339",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:25.036972Z"
+      "timestamp": "2026-03-20T13:16:29.705574Z"
     },
     "1.1.1": {
       "title": "操作指南",
       "description": "",
       "content": [
-        "* 面對擁有護盾的坦克時，請使用你的主要攻擊專注於擊破護盾，藉此提升傷害並恢復彈藥。一旦護盾被摧毀，便可直接推進並殲滅所有敵人。",
-        "* 將砲塔（Turrets）放置在身後以監控你的側襲者（Flanker）。它們會自動開火，阻撓那些試圖從背後偷襲你的敵人。",
-        "* 傳送門（Teleporter）可以用來協助全隊突破敵人在隘口處的防禦據點。試著將隊伍帶往高處，或是敵人後方的天然掩體。"
+        "* 面對擁有護盾的坦克時，請用你的主要攻擊集中火力射擊他們的護盾，以提升傷害並恢復彈藥。一旦護盾被摧毀，就直接推進並殲滅所有人。",
+        "* 將砲塔（Turrets）放置在身後以監控你的側襲者（Flanker）。它們會自動開火，阻撓那些試圖偷襲你的敵人。",
+        "* ![](/data/assets/guide/442047e29c6772ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fteleporter.png)傳送器（Teleporter）可以用來帶領整支隊伍繞過敵人在咽喉點的防禦據點。試著將隊伍帶往高處，或是敵人後方的天然掩體。"
       ],
-      "content_hash": "f79591f3f7d5",
-      "prompt_version": "v5",
+      "content_hash": "3ef2f5261509",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:27.045458Z"
+      "timestamp": "2026-03-20T13:16:31.608434Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 射擊哨戒塔（Sentry Turrets）。別當那種只會往前衝、被哨戒塔轟炸卻視而不見的隊友。在轉角處，你可以快速探頭射擊，在它們鎖定你之前將其摧毀。",
-        "* 注意傳送門（TP）。她的隊伍可能會出現在你們後方並殲滅你們的後排。辛梅塔（Symmetra）也可能利用傳送門來突襲落單的目標，所以請隨時留意她是否有舉起雙手的部署動作。",
-        "* 保持在她的有效射程之外。主要攻擊和哨戒塔的射程都非常有限，因此大多數英雄在中遠距離對上辛梅塔（Symmetra）時都佔有優勢。"
+        "* 射擊 ![](/data/assets/guide/6811bc86a1033e85.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsentry-turret.png)哨戒塔（Sentry Turrets）。別當那種只會往前衝、被哨戒塔轟炸卻視而不見的隊友。在轉角處，你可以快速探頭並在它們鎖定你之前開火。",
+        "* 注意傳送門（TP）。她的隊伍可能會出現在你們後方並殲滅你們的後排。辛梅塔（Symmetra）也可能利用傳送門來突襲落單的目標，所以隨時留意她的雙手是否舉起，那是部署傳送門的動作。",
+        "* 保持在她的有效射程之外。她的主要攻擊和哨戒塔的射程都非常有限，因此大多數英雄在中遠距離對上辛梅塔（Symmetra）時都佔有優勢。"
       ],
-      "content_hash": "89812d1f7ba6",
-      "prompt_version": "v5",
+      "content_hash": "21ce0f7a71f4",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:28.791897Z"
+      "timestamp": "2026-03-20T13:16:33.789879Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 重新定位（Repositioning）",
+        "* 重新佈署（Repositioning）",
         "* 控制（Control）",
         "* 高傷害輸出（High DPS）",
         "* 低射程（Low range）",
-        "* 對抗遠程消耗與側襲（Poke and dive）較為弱勢",
+        "* 對抗遠程消耗（poke）與突襲（dive）時較弱",
         "* 難以與隊伍進行配合"
       ],
       "content_hash": "c40ce36cff69",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:30.731496Z"
+      "timestamp": "2026-03-20T13:16:35.207426Z"
     },
     "3.1.1": {
-      "title": "重新定位",
+      "title": "重新佈署",
       "description": "",
       "content": [
-        "作為唯一擁有傳送器（Teleporter）的英雄，辛梅塔能讓整支隊伍重新定位到原本無法抵達的位置。一旦部署完成，傳送過程是瞬間完成的，且雙向皆可使用。從休閒對戰到職業級的 OWCS，我們經常看到透過巧妙的傳送器（Teleporter）擺放位置，進而創造出扭轉戰局的精彩表現。"
+        "作為唯一擁有傳送器（Teleporter）的英雄，辛梅塔能讓整支隊伍重新佈署到原本無法抵達的位置。一旦部署完成，傳送過程是瞬間完成的，且雙向皆可使用。從休閒對戰到職業級的 OWCS，我們經常能看到透過巧妙的傳送器（Teleporter）擺放位置，進而創造出扭轉戰局的精彩表現。"
       ],
       "content_hash": "1669c2f59dbb",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:32.506765Z"
+      "timestamp": "2026-03-20T13:16:36.928859Z"
     },
     "3.1.2": {
       "title": "區域控制",
       "description": "",
       "content": [
-        "哨戒塔（Sentry Turrets）在區域控制方面表現優異，因為一次可以部署三座，且會對目標造成緩速減益效果。無論辛梅塔是利用哨戒塔來封鎖隘口、防守目標區域，還是巡邏側翼，一旦她架設完畢，對手就很難從她手中奪回該區域的控制權。"
+        "哨戒塔（Sentry Turrets）在區域控制方面表現優異，因為一次最多可以部署三座，且能對目標造成緩速減益效果。無論辛梅塔是利用哨戒塔來封鎖隘口、防守目標區域，還是巡邏側翼，一旦她佈署完畢，對手就很難從她手中奪回該區域的控制權。"
       ],
       "content_hash": "4cdede80a885",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:34.065698Z"
+      "timestamp": "2026-03-20T13:16:38.468413Z"
     },
     "3.1.3": {
       "title": "高傷害輸出（High DPS）",
       "description": "",
       "content": [
-        "在等級 3 的光束與 3 座哨戒塔（Turrets）的加持下，辛梅塔每秒能造成高達 270 點傷害！即使是她的光球也能造成 100 點爆發傷害。當辛梅塔能夠持續進行主要攻擊時，她能迅速摧毀目標。"
+        "在等級 3 的光束與 3 座哨戒塔（Turrets）的加持下，辛梅塔每秒能造成高達 270 點的驚人傷害！即使是她的光球也能造成 100 點的爆發傷害。只要辛梅塔能夠持續進行主要攻擊，她就能迅速摧毀目標。"
       ],
       "content_hash": "b8ae73954a77",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:35.918788Z"
+      "timestamp": "2026-03-20T13:16:39.900196Z"
     },
     "3.2.1": {
       "title": "有限的射程",
       "description": "",
       "content": [
-        "雖然辛梅塔（Symmetra）的右鍵攻擊擁有無限射程，但她在光子投射器（Photon Projector）的光束射程內才最具威脅。由於她缺乏機動性且生存能力不高，進入光束射程對她而言相當危險。通常情況下，她必須先處理敵方的坦克，但大多數坦克都能輕易地將她擊潰。"
+        "雖然辛梅塔（Symmetra）的右鍵攻擊擁有無限射程，但她在光束武器的射程範圍內才最具威脅。由於她缺乏機動性且不夠坦，進入光束射程對她而言充滿危險。通常她必須先處理敵方的戰士（Bruiser），但大多數戰士都能輕易地將她擊潰。"
       ],
       "content_hash": "45fd8e0360cb",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:38.040925Z"
+      "timestamp": "2026-03-20T13:16:41.289103Z"
     },
     "3.2.2": {
-      "title": "弱點：面對消耗與機動突擊",
+      "title": "弱點：遠程消耗與機動突襲",
       "description": "",
       "content": [
-        "當雙方隊伍皆採取鬥陣（Brawl）或衝鋒（Rush）陣容時，辛梅塔（Symmetra）的表現最為出色。若隊伍選擇機動突擊（Dive）英雄，她會難以跟上隊友的節奏。當敵方使用機動突擊陣容時，他們能更輕鬆地避開她的哨戒塔（Sentry Turret），並輕易地包夾辛梅塔（Symmetra）。由於她的傳送門（Teleporter）只能在兩個固定點之間往返，這讓高機動性的英雄能輕易追擊她。此外，消耗型（Poke）英雄能透過保持距離並輸出更穩定的傷害來反制辛梅塔（Symmetra）。"
+        "當雙方陣容皆為鬥毆（brawl）或衝鋒（rush）類型時，辛梅塔（Symmetra）的表現最為出色。如果隊友選擇機動突襲（dive）英雄，她會難以跟上隊伍的節奏。當敵方採取機動突襲陣容時，他們能更輕鬆地避開她的哨戒塔（Sentry Turret），並輕易地包夾辛梅塔（Symmetra）。由於傳送門（Teleporter）的傳送點僅有兩處，這讓她很容易被高機動性的英雄追擊。此外，遠程消耗（poke）英雄能透過保持距離並輸出更穩定的傷害來反制辛梅塔（Symmetra）。"
       ],
       "content_hash": "44cbf2cd9845",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:39.945355Z"
+      "timestamp": "2026-03-20T13:16:43.818266Z"
     },
     "3.2.3": {
       "title": "難以與隊伍進行配合",
       "description": "",
       "content": [
-        "當你使用辛梅塔（Symmetra）時，你可能會想出一個很棒的傳送門（Teleporter）策略，但要讓隊友在站位和時機上與你配合，往往是一項巨大的挑戰。你的坦克（Tank）可能不會在你架設傳送門（Teleporter）時保護你，導致部分隊友被拋在後頭；更常見的情況是，你的隊友在通過傳送門（Teleporter）後，完全不知道該做什麼或該往哪裡走。"
+        "當你使用辛梅塔（Symmetra）時，你可能會想出一個很棒的傳送門（Teleporter）策略，但要讓隊友在站位和時機上與你配合，往往是一項巨大的挑戰。你的坦克（Tank）可能不會在你架設傳送門（Teleporter）時保護你，導致部分隊友被拋在後頭；更常見的情況是，你的隊友在通過傳送門（Teleporter）後，根本不知道該做什麼或該往哪裡走。"
       ],
       "content_hash": "2c8a58293a31",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:41.282311Z"
+      "timestamp": "2026-03-20T13:16:45.621671Z"
     },
     "4.1": {
       "title": "主要攻擊：光子投射器（Photon Projector）",
       "description": "",
       "content": [
-        "**光子投射器（Photon Projector）的使用技巧**",
+        "**![](/data/assets/guide/dfca9f5b755d9b41.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fphoton-projector.png)光子投射器（Photon Projector）的使用技巧**",
         "* 維持高能量等級",
-        "* 在等級三時，你的光束會造成三倍的基礎傷害。試著透過持續造成傷害來維持能量等級。即使是部署物也能累積並維持能量，因此如果敵人不在射程內，你可以攻擊哨戒塔、屏障或其他部署物來維持你的等級。",
-        "* 屏障型坦克",
-        "* 面對擁有屏障的敵人時，利用他們的護盾來管理你的彈藥。使用光束傷害屏障不會消耗彈藥，反而會補充你的彈藥存量。",
-        "* 先專注於攻擊屏障來提升你的等級，然後再轉而攻擊英雄。如果你的彈藥不足，隨時可以切換回攻擊屏障。",
+        "* 在等級三時，你的光束會造成三倍的基礎傷害。試著透過持續造成傷害來維持能量等級。即便是部署物也能累積並維持能量，因此如果敵人不在射程內，你可以射擊哨戒塔、屏障或其他部署物來維持你的等級。",
+        "* 針對屏障坦克",
+        "* 面對擁有屏障的敵人時，利用他們的護盾來管理你的彈藥。用光束傷害屏障不會消耗彈藥，反而會補充你的彈藥存量。",
+        "* 先專注於攻擊屏障來提升你的等級，接著再轉而攻擊英雄。如果彈藥不足，你隨時可以切換回攻擊屏障。",
         "* 辛梅塔（Symmetra）的武器有等級指示器",
-        "* 大多數玩家從未注意到這一點，但在辛梅塔的武器背面有一個等級指示器。等級一時會顯示一個紅圈，等級三時則會顯示三個紅圈。"
+        "* 大多數玩家從未注意到這一點，但在辛梅塔的武器背面有一個等級指示器。等級 1 會顯示一個紅圈，而等級 3 則會顯示三個紅圈。"
       ],
-      "content_hash": "cc2ba1321811",
-      "prompt_version": "v5",
+      "content_hash": "a0b8f967c534",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:43.809302Z"
+      "timestamp": "2026-03-20T13:16:48.515285Z"
     },
     "4.2": {
-      "title": "次要攻擊：光子投射器（蓄力光球）",
+      "title": "次要攻擊：光子投射器（蓄力球）",
       "description": "",
       "content": [
-        "**光子投射器（蓄力光球）的使用技巧**",
+        "**![](/data/assets/guide/dfca9f5b755d9b41.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fphoton-projector.png)光子投射器（蓄力球）技巧**",
         "* 消耗戰（Poke）",
-        "* 雖然飛行速度非常慢，但這顆巨大的投射物在遠距離下相當容易直接命中目標。每當你處於主要攻擊的射程之外時，都應該不斷發射蓄力滿的光球。",
-        "* 左右橫移探頭（Jiggle peek）",
-        "* 由於光球需要整整一秒才能達到最大蓄力，你應該始終在掩體或障礙物後方進行蓄力。站在空曠處蓄力只會讓敵人免費攻擊你。",
-        "* 請在即將發射的前一刻才探頭。",
+        "* 雖然飛行速度非常慢，但這顆巨大的拋射物在遠距離下相當容易命中目標。每當你處於主要攻擊的射程之外時，都應該不斷發射滿蓄力的能量球。",
+        "* 左右探頭（Jiggle peek）",
+        "* 由於蓄力一顆能量球需要整整一秒鐘，因此在蓄力時你應該始終待在屏障或掩體後方。在空曠處蓄力只會讓敵人白白攻擊你。",
+        "* 只在即將發射的前一刻探頭。",
         "* 單挑（Duel）",
-        "* 當你進入 1 對 1 單挑時，光球非常實用，因為你可以利用轉角掩體進行蓄力，然後探頭射擊。透過這種方式，由於每顆光球能造成 100 點爆發傷害，你在大多數對決中都能造成更高的傷害。",
-        "* 當你裝備了護盾電池（Shield Battery）主要特殊能力（major perks）時，這項技巧會更加有效，因為你在蓄力時也能同時進行治療。",
-        "* 對抗狙擊手時，你可以利用轉角探頭並頻繁蹲下（crouch spam）來閃避爆頭攻擊。"
+        "* 當你進入 1 對 1 單挑時，能量球非常實用，因為你可以利用轉角掩體進行蓄力，再探頭射擊。透過這種方式，由於每顆能量球都能造成 100 點爆發傷害，你在大多數對戰中都能造成更高的傷害。",
+        "* 當使用護盾電池（Shield Battery）主要特殊能力（major perks）時，這項技巧會更加有效，因為你在蓄力的同時也能進行治療。",
+        "* 對抗神射手（Sharpshooter）時，你可以利用轉角探頭並頻繁蹲下（crouch spam）來閃避爆頭攻擊。"
       ],
-      "content_hash": "390f699c98e5",
-      "prompt_version": "v5",
+      "content_hash": "4b5b25e63c04",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:46.201091Z"
+      "timestamp": "2026-03-20T13:16:51.436825Z"
     },
     "4.3": {
-      "title": "[SHIFT]：哨戒塔（Sentry Turret）",
+      "title": "[SHIFT]：哨戒砲（Sentry Turret）",
       "description": "",
       "content": [
-        "**哨戒塔（Sentry Turret）的使用技巧**",
+        "**![](/data/assets/guide/6811bc86a1033e85.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsentry-turret.png)哨戒砲（Sentry Turret）的使用技巧**",
         "* 在防守時",
-        "* 當隊伍已經佔領目標點時，你應該將哨戒塔設置在主要咽喉點的上方，這樣敵人每次試圖接近目標點時都必須先處理它們。",
-        "* 在擁有較多側路的地圖上，保留一座哨戒塔放在身後以監控側襲者（Flanker）。這樣一來，敵人就無法在不被你發現的情況下，從該門口或角度發動攻擊。",
+        "* 當隊伍已經佔領目標點時，你應該將哨戒砲設置在主要咽喉點上方，這樣敵人試圖接近目標點時就必須先處理它們。",
+        "* 在擁有較多側路的地图上，保留一個哨戒砲放置在身後以監控側襲者（Flanker）。這樣一來，敵人就無法在你不察覺的情況下從該門口或角度發動攻擊。",
         "* 在進攻時",
-        "* 當接近敵人時，你可以將哨戒塔部署在敵方隊伍的上方和後方。如此一來，如果他們開始從你的主要攻擊中撤退，就會撞上哨戒塔的傷害與緩速減益（slow debuff）。",
-        "* 以敵方後排為目標。你可能需要找到一個側邊角度（off angle）來執行此操作，但這絕對值得多花點時間。支援型英雄通常無法快速摧毀哨戒塔，而他們花費在拆除哨戒塔上的任何時間，都意味著他們無法治療自己的隊友。",
-        "* 哨戒塔炸彈（Turret bomb）",
-        "* 如果你將傳送門（Teleporter）放置在地面上的哨戒塔上方，這些哨戒塔將會被傳送。",
-        "* 嘗試將所有哨戒塔放置在地面上，然後在敵人後方部署傳送門，即可利用所有哨戒塔瞬間對他們發動攻擊。"
+        "* 當接近敵人時，你可以將哨戒砲部署在敵方隊伍的上方或後方。如此一來，如果他們開始從你的主要火力下撤退，就會直接撞上哨戒砲的傷害與緩速減益（slow debuff）。",
+        "* 以敵方後排為目標。你可能需要尋找一個側邊角度（off angle）來達成，但這多花的時間是值得的。醫護兵（Medic）通常無法快速摧毀哨戒砲，而他們花在處理哨戒砲上的任何時間，都意味著他們無法治療隊友。",
+        "* 哨戒砲炸彈（Turret bomb）",
+        "* 如果你將傳送門（TP）放置在地面上的哨戒砲上方，這些哨戒砲將會被傳送。",
+        "* 嘗試將所有哨戒砲放置在地面上，然後在敵人後方部署傳送門，即可利用所有哨戒砲瞬間發動攻擊。"
       ],
-      "content_hash": "918acfb35297",
-      "prompt_version": "v5",
+      "content_hash": "eae7f01f0e8f",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:49.689198Z"
+      "timestamp": "2026-03-20T13:16:54.840602Z"
     },
     "4.4": {
       "title": "[E]：傳送門（Teleporter）",
       "description": "",
       "content": [
-        "傳送門（Teleporter）的技巧",
+        "**![](/data/assets/guide/442047e29c6772ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fteleporter.png)傳送門（Teleporter）的使用技巧**",
         "* 側襲與突擊",
-        "* 你可以單獨使用傳送門（Teleporter）來繞過敵方隊伍，對後排進行暗殺。如果敵方的反擊過於猛烈，你隨時可以透過傳送門（Teleporter）撤離。",
+        "* * 你可以僅為自己使用傳送門（Teleporter）來繞過敵方隊伍，進行後排刺殺。如果敵方的反擊過於猛烈，你隨時可以透過傳送門（Teleporter）撤離。",
         "* 隊友重整位置",
-        "* 對於機動性較低的盟友特別有用，利用傳送門（Teleporter）帶領隊伍轉移位置是此技能最強大的用途。",
-        "* 當敵方隊伍在咽喉點死守時，一個傳送門（Teleporter）就能讓你的隊伍繞過他們，並轉換角色，讓你們有效地成為新的防守方。",
-        "* 1v1 對決",
-        "* 任何時候進入 1v1 對決，你都應該儘快部署傳送門（Teleporter）。利用傳送門（Teleporter）來閃避攻擊並干擾對方的瞄準。即使只是站在傳送門（Teleporter）附近也能造成心理博弈，因為對手會預期你會進行傳送，但卻無法確定時間點。",
+        "* * 對於機動性較低的盟友特別有用，使用傳送門（Teleporter）來帶領隊伍轉移位置是此技能最強大的用途。",
+        "* 當敵方隊伍在咽喉點完全封鎖你們時，一個傳送門（Teleporter）就能讓隊伍越過他們，並轉換角色，讓你們有效地成為新的防守方。",
+        "* 1v1 單挑",
+        "* * 每當你進入 1v1 單挑時，應儘快部署傳送門（Teleporter）。利用傳送門（Teleporter）來閃避攻擊並干擾對方的瞄準。即使只是站在傳送門（Teleporter）附近也能造成心理博弈，因為對手會預期你會使用傳送門（Teleporter），但卻無法確定你何時會行動。",
         "* 透過快速來回傳送，或是在傳送門（Teleporter）的一端停留比另一端更久的時間，來混淆你的節奏。"
       ],
-      "content_hash": "4981a072abc2",
-      "prompt_version": "v5",
+      "content_hash": "221dcab4b643",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:51.896324Z"
+      "timestamp": "2026-03-20T13:16:57.128893Z"
     },
     "4.5": {
       "title": "絕招：光子屏障（Photon Barrier）",
       "description": "",
       "content": [
-        "**光子屏障（Photon Barrier）的使用技巧**",
+        "**![](/data/assets/guide/5a5d8bc6b248eb68.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fphoton-barrier.png)光子屏障（Photon Barrier）的使用技巧**",
         "* 分割戰場",
         "* 99% 的情況下，你會想要將目標區域一分為二，至於是要前後分割還是左右分割，則取決於你當下的判斷。",
-        "* 這能讓你的全隊與敵方隊伍進行「屏障舞步（shield dance）」，並確保你的屏障能涵蓋戰鬥發生的位置。",
+        "* 這能讓你的隊伍全體透過護盾進行「護盾舞（shield dance）」來對抗敵方隊伍，並確保你的屏障能涵蓋戰鬥發生的位置。",
         "* 敵人能逃跑嗎？",
-        "* 在放置屏障前，先問問自己敵人是否能移動到你的視線（LoS）之外。如果他們可以後撤並繼續爭奪目標，或是擁有足夠的時間等到你的絕招結束，那麼你就浪費了這個絕招。",
+        "* 在放置屏障前，先問問自己敵人是否能移動到你的視野（LoS）之外。如果他們可以後撤並繼續爭奪目標，或是擁有足夠的時間等待你的絕招結束，那麼你就會浪費掉這個絕招。",
         "* 反制絕招",
-        "* 某些絕招（例如戰術鎖定（Tac Visor））可以在聽到啟動語音時，透過反應輕鬆格擋。在敵方絕招下拯救你的隊伍，是光子屏障（Photon Barrier）非常棒的用途。"
+        "* 某些絕招（例如戰術鎖定（Tac Visor））可以在聽到啟動語音時透過反應輕鬆格擋。將你的隊伍從敵方絕招中拯救出來，是光子屏障非常棒的用途。"
       ],
-      "content_hash": "6fdf62919d98",
-      "prompt_version": "v5",
+      "content_hash": "869de396dc7a",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:54.115457Z"
+      "timestamp": "2026-03-20T13:16:59.249419Z"
     },
     "5.1.1": {
       "title": "哨戒容量（Sentry Capacity）",
       "description": "哨戒砲（Sentry Turret）獲得額外充能次數。",
       "content": [
         "* 巡邏與額外的側襲角度",
-        "* 哨戒容量（Sentry Capacity）在敵人頻繁側襲並對你造成困擾時非常實用。你可以在兩側各放置一座砲塔，並保留另外兩座砲塔，像平常一樣用來攻擊前方的敵人。",
-        "* 更強的咽喉點壓力",
-        "* 在主要咽喉點周圍設置半圓形防禦，看著敵隊從四面八方遭到轟炸。雖然他們仍能摧毀砲塔，但這會耗費更多時間，且過程中他們已經承受了更多傷害。",
+        "* * 當敵人不斷從側翼進攻並造成困擾時，選擇哨戒容量（Sentry Capacity）非常實用。你可以在兩側各放置一座砲塔，並保留另外兩座砲塔，像平常一樣用來攻擊前方的敵人。",
+        "* 更強的隘口壓力",
+        "* * 在主要隘口周圍佈置成半圓形，看著敵隊從各個角度被轟炸。雖然他們仍然可以摧毀砲塔，但這會花費更多時間，且他們在過程中會受到更多傷害。",
         "**進階傳送（Advanced Teleportation）**",
-        "* 最佳次要特殊能力（Minor Perk）",
+        "* 最佳次要特殊能力（minor perks）",
         "* 為何你需要額外的傳送門距離",
-        "* 辛梅塔（Symmetra）不必過於靠近目標傳送點，這意味著她的部署位置更加安全。",
-        "* 在繞過咽喉點時，你可以將隊伍傳送到敵人更後方的位置，這通常能帶來更有利的戰術優勢。",
-        "* 更好的脫逃手段",
-        "* 當使用傳送門（Teleport）撤退時，你能與追擊者拉開更大距離，從而提高存活機率。",
+        "* * 辛梅塔（Symmetra）不必太靠近目標傳送位置，這意味著她的部署站位更加安全。",
+        "* 當繞過隘口時，你可以將隊伍送到更深入敵後的位置，這通常能帶來更有利的戰術優勢。",
+        "* 更好的逃生手段",
+        "* * 當使用傳送門（Teleportation）脫離戰鬥時，你與攻擊者之間的距離會拉得更遠，這能提高你的生存機率。",
         "* 深潛後排",
-        "* 當敵隊有躲在後方且難以擊殺的神射手（Sharpshooter）時，直接傳送到他們身後並將其解決。"
+        "* * 當敵隊有位一直沒死的狙擊手待在後方時，直接傳送到他們身後並將其擊殺。"
       ],
       "content_hash": "1747782dd540",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:57.196395Z"
+      "timestamp": "2026-03-20T13:17:01.913778Z"
     },
     "5.1.2": {
       "title": "完美校準（Perfect Alignment）",
-      "description": "將光子投射器（Photon Projector）的主要攻擊射程增加 20%。",
+      "description": "將辛梅塔（Symmetra）的光子投射器（Photon Projector）主要攻擊射程增加 20%。",
       "content": [
         "* 最大射程",
         "* 在等級 3 時，你的光束將獲得額外 3.6 公尺的射程，總計達到 15.6 公尺。",
-        "* 反制鬥毆與衝鋒",
-        "* 針對近距離與近戰型敵人，完美校準（Perfect Alignment）能幫助你以更遠的射程攻擊他們，同時減少自身受到的傷害。",
-        "* 若搭配路西歐或朱諾的超能光環（Hyper Ring）等速度加成，完美校準（Perfect Alignment）將會更加強大，因為你可以先靠近敵人來提升光束等級，再利用額外的射程向後拉開距離。"
+        "* 反制鬥毆與衝鋒陣容",
+        "* 針對近距離與近戰型敵人，完美校準（Perfect Alignment）能幫助你以射程優勢進行攻擊，同時減少受到的傷害。",
+        "* 若搭配路西歐（Lúcio）或朱諾（Juno）的超頻光環（Hyper Ring）等速度加成效果，完美校準（Perfect Alignment）將會更加強大，因為你可以先靠近敵人來提升光束等級，再利用額外的射程優勢後撤。"
       ],
       "content_hash": "e21349b24900",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:22:58.721590Z"
+      "timestamp": "2026-03-20T13:17:04.171208Z"
     },
     "5.2.1": {
       "title": "懸浮屏障（Hovering Barrier）",
-      "description": "傳送器獲得一個額外選項，可以改為產生一道向前移動的屏障。再次按下技能 2 可以減緩屏障的移動速度。",
+      "description": "傳送器（Teleporter）獲得一個選項，可以改為產生一道向前移動的屏障。再次按下能力 2（Ability 2）可以減緩屏障的移動速度。",
       "content": [
-        "未提供指引",
-        "* 特殊能力：懸浮屏障（Hovering Barrier）"
+        "未提供指南",
+        "特殊能力（perk）：懸浮屏障（Hovering Barrier）"
       ],
       "content_hash": "82ad84fedf11",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:00.006523Z"
+      "timestamp": "2026-03-20T13:17:05.387707Z"
     },
     "5.2.2": {
       "title": "護盾電池（Shield Battery）",
       "description": "當辛梅塔（Symmetra）位於傳送門 10 公尺範圍內時，每秒可恢復 20 點護盾。",
       "content": [
         "* 最適合決鬥與側襲",
-        "* 如果你發現自己花在側襲與單挑敵人的時間比在前線更多，那麼護盾電池（Shield Battery）會是你更適合的「主要特殊能力（major perks）」。",
-        "* 獲得持續性的自我治療，對於贏得更多決鬥以及更激進地進行側襲至關重要。",
-        "* 連接線會以視覺效果提示你正處於範圍內並獲得治療。",
-        "* 請參考「傳送門技巧（Tips for Teleporter）」以了解更多搭配傳送門（TP）使用的進攻策略。"
+        "* 如果你發現自己花在側襲與單挑敵人的時間比在前線更多，那麼護盾電池（Shield Battery）會是你更好的主要特殊能力（major perks）。",
+        "* 獲得持續性的自我治療，對於贏得更多決鬥並更激進地進行側襲至關重要。",
+        "* 連結線會以視覺效果提示你處於範圍內並正在獲得治療。",
+        "* 請參閱「傳送門技巧（Tips for Teleporter）」以了解更多可搭配傳送門（TP）使用的進攻策略。"
       ],
       "content_hash": "d9196c7f5790",
-      "prompt_version": "v5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:01.742290Z"
+      "timestamp": "2026-03-20T13:17:07.571065Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "最適合辛梅塔（Symmetra）發揮的地圖，通常具有封閉的目標區域，或是會將兩支隊伍引導至同一個主要咽喉點。在具備這些特性的地圖上，哨戒塔（Sentry Turret）能發揮極大的作用。敵方除了走進去並處理掉你的哨戒塔之外，沒有其他路徑或位置選擇。",
-        "由於辛梅塔（Symmetra）的主要攻擊射程有限，她在視線較短的地圖上表現較佳，而在視線較長的地圖上則表現較差。區域越開闊，敵方隊伍就有越多的空間可以在她的射程之外活動，並遠離她的哨戒塔。"
+        "最適合使用 ![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔的地圖，通常具有封閉的目標區域，或是會將雙方隊伍引導至同一個主要咽喉點。在具備這些特質的地圖上，![](/data/assets/guide/6811bc86a1033e85.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsentry-turret.png)哨戒塔（Sentry Turret）能發揮極大的作用。敵方沒有其他路徑或位置選擇，只能走進來並面對你的哨戒塔。",
+        "由於她的主要攻擊射程有限，辛梅塔在視野較短的地圖上表現較佳，而在視野遼闊的地圖上則較為吃力。區域越開闊，敵方隊伍就有越多的空間可以在她的射程之外活動，並遠離她的哨戒塔。"
       ],
-      "content_hash": "3d30246f4ca0",
-      "prompt_version": "v5",
+      "content_hash": "341a00db2d5d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:04.260294Z"
+      "timestamp": "2026-03-20T13:17:09.339662Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "辛梅塔（Symmetra）有兩種遊玩風格。一種是利用傳送門（Teleporter）進行側襲並以哨戒塔（Sentry Turret）轟炸後排。另一種則是與坦克搭配，累積能量後融化所有敵人。為了最大化側襲風格的安全性和穩定性，她需要至少另一名可以與她一同切入的英雄（無論是靠自身能力或是使用傳送門）。",
-        "若要作為前線角色遊玩，她需要坦克在前線頂住，這樣她才能安全地與他們一同推進（例如：萊因哈特、拉瑪塔、垃圾鎮女王）。由於她的主要攻擊射程有限，她無法站在後方進行消耗，但也無法獨自向前推進。",
-        "對輔助英雄而言，最佳的進攻搭配是路西歐（Lúcio）提供的速度加成，或是碧姬（Brigitte）這種具有相似鬥士混合風格的英雄。辛梅塔能透過傳送門為碧姬提供急需的機動性。此外，修復包（Repair Packs）與傳送門的距離幾乎相同，這使得辛梅塔及其盟友即使身處傳送門的另一端，依然能接收到來自碧姬的治療。任何被碧姬與辛梅塔透過傳送門突襲的目標，都會因為她們高額的傷害與續戰力組合而瞬間陣亡。"
+        "![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔有兩種遊玩風格。一種是利用 ![](/data/assets/guide/442047e29c6772ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fteleporter.png)傳送門（Teleporter）進行側襲，並對後排進行砲塔轟炸。另一種則是與坦克搭配，累積能量後融化所有敵人。為了最大化側襲風格的安全性和穩定性，她需要至少另一名可以與她一同突進的英雄（無論是靠自身能力還是使用傳送門）。",
+        "若要作為前線人員遊玩，她需要坦克在前方扛住，這樣她才能安全地與他們一同推進（例如 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特、![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)拉瑪塔、![](/data/assets/guide/452c9a51fb58d39d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunker-queen.png)垃圾鎮女王）。由於她的主要攻擊射程有限，她無法站在後方進行騷擾，但她也無法獨自向前推進。",
+        "最適合進攻型隊伍的輔助搭配是 ![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐（提供加速）或 ![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬（兩者具有相似的鬥陣混合風格，能產生加成效果）。辛梅塔透過傳送門為碧姬提供了急需的機動性。修理包（Repair Packs）與傳送門的距離幾乎相同，這使得辛梅塔和她的隊友即使與碧姬處於傳送門的兩端，依然能獲得她的治療。任何被碧姬與辛梅塔透過傳送門突襲的目標，都會因為她們高傷害與高續戰力的組合而瞬間死亡。"
       ],
-      "content_hash": "4c1f84913283",
-      "prompt_version": "v5",
+      "content_hash": "879c8cbaaf1d",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:07.862791Z"
+      "timestamp": "2026-03-20T13:17:12.086505Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "辛梅塔（Symmetra）的隊伍擁有傳送門（Teleporter），因此在控制（Control）地圖上，除非你們隊伍擁有加速效果且機動性極高的英雄，否則請預期對方會先抵達據點。當她已經架設好防禦陣地時，你必須盡快摧毀哨戒塔（Sentry Turrets）。別讓你的隊友走過去被哨戒塔轟炸，也別指望你的隊友會聰明到主動去尋找它們。",
-        "射擊哨戒塔。不要成為那種只會往前衝、被哨戒塔轟炸卻無視它們的隊友。在轉角處，你可以快速探頭射擊，在它們鎖定你之前將其摧毀。",
-        "留意傳送門。對方的隊伍可能會出現在你們身後並殲滅你們的後排。辛梅塔也可能利用傳送門來突襲落單的目標，所以請隨時觀察她是否做出雙手舉起的部署動作。",
-        "保持在她的有效射程之外。她的主要攻擊與哨戒塔的射程都非常有限，因此大多數英雄在中遠距離對上辛梅塔時都佔有優勢。"
+        "![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔（Symmetra）的隊伍擁有 ![](/data/assets/guide/442047e29c6772ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fteleporter.png)傳送門（Teleporter），因此在控制（Control）地圖上，除非你們隊伍擁有加速效果且陣容非常靈活，否則請預期對方會先抵達據點。當她架設好陣地後，你需要盡快摧毀 ![](/data/assets/guide/6811bc86a1033e85.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsentry-turret.png)哨戒塔（Sentry Turrets）。別讓你的隊伍走進去被哨戒塔轟炸，也別指望隊友會聰明到主動去找出它們。",
+        "射擊那些哨戒塔。別當那個只會往前衝、被哨戒塔轟炸卻視而不見的隊友。在轉角處，你可以快速探頭射擊，在它們鎖定你之前進行攻擊。",
+        "留意傳送門。對方的隊伍可能會出現在你們身後並殲滅你們的後排。辛梅塔（Symmetra）也可能利用傳送門來突襲落單的目標，所以請隨時觀察她是否正在施展部署動畫（雙手舉起）。",
+        "保持在她的有效射程之外。她的主要攻擊與哨戒塔的射程都非常有限，因此大多數英雄在中遠距離面對辛梅塔（Symmetra）時都佔有優勢。"
       ],
-      "content_hash": "aff403522ff6",
-      "prompt_version": "v5",
+      "content_hash": "c208fa1b48e5",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:10.173714Z"
+      "timestamp": "2026-03-20T13:17:14.428495Z"
     },
     "8.2": {
       "title": "特定英雄剋制名單",
       "description": "",
       "content": [
-        "* 法拉",
         "* 奪命女",
-        "* 艾西",
         "* 半藏",
+        "* 艾西",
         "* 士兵76",
-        "* 溫斯頓"
+        "* 索潔恩"
       ],
-      "content_hash": "f4c0a3c829d5",
-      "prompt_version": "v5",
+      "content_hash": "0e89929b1ddb",
+      "prompt_version": "v7",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T06:23:11.498478Z"
+      "timestamp": "2026-03-20T13:17:15.810648Z"
     }
   },
   "metadata": {
-    "prompt_version": "v5",
+    "prompt_version": "v7",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T06:37:07.562185Z"
+    "timestamp": "2026-03-20T13:16:27.421254Z"
   }
 }
