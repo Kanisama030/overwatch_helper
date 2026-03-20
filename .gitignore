@@ -20,6 +20,7 @@ agent
 *plan.md
 /.vscode
 
+data/raw/
 data/raw
 data/cache
 /data/raw
