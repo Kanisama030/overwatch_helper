@@ -12,6 +12,7 @@ if not exist "%CONDA_EXE%" (
 )
 
 set "PY_CMD="
+set "HAS_UPDATE_TRANSLATIONS=N"
 
 echo ==================================================
 echo Overwatch Helper 一鍵互動更新工具
@@ -51,6 +52,7 @@ if /I "!RUN_UPDATE_DATA!"=="Y" (
   call :ask_yes_no "是否在主資料流程後產生靜態翻譯（--with-translations）？" "N"
   if /I "!ANSWER!"=="Y" (
     set "UPDATE_DATA_ARGS=!UPDATE_DATA_ARGS! --with-translations"
+    set "HAS_UPDATE_TRANSLATIONS=Y"
 
     set /p UDT_HEROES=翻譯只處理指定英雄（逗號分隔，可留空）: 
     if not "!UDT_HEROES!"=="" (
@@ -95,23 +97,27 @@ set "RUN_BUILD_SYNC=!ANSWER!"
 if /I "!RUN_BUILD_SYNC!"=="Y" (
   set "RUN_BUILD_ARGS="
 
-  call :ask_yes_no "是否在 run_build 內產生靜態翻譯（--with-translations）？" "N"
-  if /I "!ANSWER!"=="Y" (
-    set "RUN_BUILD_ARGS=!RUN_BUILD_ARGS! --with-translations"
-
-    set /p RBT_HEROES=翻譯只處理指定英雄（逗號分隔，可留空）: 
-    if not "!RBT_HEROES!"=="" (
-      set "RUN_BUILD_ARGS=!RUN_BUILD_ARGS! --translation-heroes !RBT_HEROES!"
-    )
-
-    call :ask_yes_no "翻譯是否略過既有檔案（--translation-skip-existing）？" "Y"
+  if /I "!HAS_UPDATE_TRANSLATIONS!"=="Y" (
+    echo 已在主資料流程啟用靜態翻譯，run_build 將略過翻譯參數以避免重複執行。
+  ) else (
+    call :ask_yes_no "是否在 run_build 內產生靜態翻譯（--with-translations）？" "N"
     if /I "!ANSWER!"=="Y" (
-      set "RUN_BUILD_ARGS=!RUN_BUILD_ARGS! --translation-skip-existing"
-    )
+      set "RUN_BUILD_ARGS=!RUN_BUILD_ARGS! --with-translations"
 
-    call :ask_yes_no "翻譯單一英雄失敗是否繼續（--translation-continue-on-error）？" "Y"
-    if /I "!ANSWER!"=="Y" (
-      set "RUN_BUILD_ARGS=!RUN_BUILD_ARGS! --translation-continue-on-error"
+      set /p RBT_HEROES=翻譯只處理指定英雄（逗號分隔，可留空）: 
+      if not "!RBT_HEROES!"=="" (
+        set "RUN_BUILD_ARGS=!RUN_BUILD_ARGS! --translation-heroes !RBT_HEROES!"
+      )
+
+      call :ask_yes_no "翻譯是否略過既有檔案（--translation-skip-existing）？" "Y"
+      if /I "!ANSWER!"=="Y" (
+        set "RUN_BUILD_ARGS=!RUN_BUILD_ARGS! --translation-skip-existing"
+      )
+
+      call :ask_yes_no "翻譯單一英雄失敗是否繼續（--translation-continue-on-error）？" "Y"
+      if /I "!ANSWER!"=="Y" (
+        set "RUN_BUILD_ARGS=!RUN_BUILD_ARGS! --translation-continue-on-error"
+      )
     )
   )
 )
