@@ -226,17 +226,6 @@ function StrategyTab({
         </div>
       )}
 
-      <div className="rounded-lg p-4" style={{ backgroundColor: '#1a1208', border: '1px solid rgba(242,127,13,0.15)' }}>
-        <div className="flex items-center gap-2 mb-2">
-          <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>psychology</span>
-          <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>{t.hero.geminiAnalysis}</span>
-          <span className="text-[9px] px-1.5 py-0.5 rounded font-bold" style={{ backgroundColor: 'rgba(107,114,128,0.3)', color: '#9ca3af' }}>{t.hero.comingSoon}</span>
-        </div>
-        <p className="text-sm" style={{ color: '#6b7280' }}>
-          {t.hero.aiAnalysisFuture}
-        </p>
-      </div>
-
       {renderCard(t.hero.tldr, 'auto_awesome', playAsMarkdown, isTranslatingSection(TLDR_SECTION_IDS))}
       {renderCard(t.hero.mapSuggestion, 'map', mapSuggestionMarkdown, isTranslatingSection(MAP_SECTION_IDS))}
       {renderCard(t.hero.teamCompSynergies, 'groups', teamCompMarkdown, isTranslatingSection(TEAM_COMP_SECTION_IDS))}
