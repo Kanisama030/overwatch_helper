@@ -108,6 +108,19 @@ conda run -n overwatch python scripts/update.py --mobalytics-method playwright
 conda run -n overwatch python scripts/update.py --mobalytics-smoke-hero roadhog
 ```
 
+### 更新 Fandom Perks（名稱 + 說明 + 圖片）
+
+```bash
+# 需先設定 CLOUDFLARE_ACCOUNT_ID、CLOUDFLARE_API_TOKEN、GEMINI_API_KEY
+conda run -n overwatch python scripts/update_perks_from_fandom_cloudflare.py
+```
+
+整合到完整更新流程（可選）：
+
+```bash
+conda run -n overwatch python scripts/update.py --update-fandom-perks
+```
+
 ### Markdown 留存位置
 
 Mobalytics 原始 markdown 會留存於 `data/raw/mobalytics_markdown/`。

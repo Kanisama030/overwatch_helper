@@ -40,6 +40,11 @@ def parse_args():
         default=DEFAULT_CLOUDFLARE_WORKERS,
         help=f"Cloudflare 模式 worker 數（預設 {DEFAULT_CLOUDFLARE_WORKERS}）",
     )
+    parser.add_argument(
+        "--update-fandom-perks",
+        action="store_true",
+        help="額外執行 Fandom perks 更新（Cloudflare + Gemini）",
+    )
     return parser.parse_args()
 
 
@@ -64,6 +69,13 @@ def run_build_app_data():
         print("⚠️  build_app_data.py 執行失敗，但資料更新已完成")
 
 
+def run_update_fandom_perks():
+    print("\n--- [額外] 更新 Fandom Perks（update_perks_from_fandom_cloudflare.py）---")
+    result = subprocess.run([sys.executable, os.path.join(os.path.dirname(__file__), "update_perks_from_fandom_cloudflare.py")])
+    if result.returncode != 0:
+        print("⚠️  update_perks_from_fandom_cloudflare.py 執行失敗，將保留既有 perks 資料")
+
+
 async def main():
     args = parse_args()
     worker_count = DEFAULT_PLAYWRIGHT_WORKERS
@@ -85,6 +97,8 @@ async def main():
         # 5/7. 更新資產與重建衍生資料
         run_update_mapping_assets()
         run_download_master_guide_assets()
+        if args.update_fandom_perks:
+            run_update_fandom_perks()
         run_build_app_data()
         
         print("\n✨ 全部更新流程已完成！")
@@ -109,6 +123,8 @@ async def main():
     # 5/7. 更新資產與重建衍生資料
     run_update_mapping_assets()
     run_download_master_guide_assets()
+    if args.update_fandom_perks:
+        run_update_fandom_perks()
     run_build_app_data()
     
     print("\n✨ 全部更新流程已完成！")
