@@ -21,6 +21,4 @@ agent
 /.vscode
 
 data/raw/
-data/raw
 data/cache
-/data/raw
