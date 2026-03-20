@@ -1,0 +1,350 @@
+{
+  "hero_id": "mizuki",
+  "sections": {
+    "1": {
+      "title": "概覽",
+      "content": [
+        "身為橋本組年輕成員的瑞稀（Mizuki），為了協助「利爪」滲透進金坂的「妖怪」組織而加入戰局。儘管外界擔心他可能會在兩方忠誠之間動搖，但他所具備的技能卻是不容忽視的。",
+        "與其他支援型英雄相比，瑞稀（Mizuki）更傾向於以激進的方式進行遊玩與站位。保持在主戰場附近能讓他造成更多傷害，進而為他的治療能力充能。",
+        "當戰況變得過於危險時，他可以使用束縛鎖鏈（Binding Chain）來阻斷攻擊者，利用傳送（teleport）脫離險境，並啟動自我治療。瑞稀（Mizuki）擁有英雄所需的一切工具，能讓他掌握比賽節奏、成為關鍵操盤手，並帶領隊伍走向勝利。"
+      ],
+      "content_hash": "c3aa73d2aed6",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:03.068840Z"
+    },
+    "1.1.1": {
+      "title": "遊玩方式",
+      "content": [
+        "* 優先採取進攻。你造成的傷害越高，治療量就越高。",
+        "* 保留束縛鎖鏈（Binding Chain）來對付繞過你坦克（Tank）的敵人。將他們困住並確保擊殺。",
+        "* 使用結界聖域（Kekkai Sanctuary）來保護並治療你的隊伍，並用來反制索潔恩（Sojourn）的超頻（Overclock）等投射物絕招。"
+      ],
+      "content_hash": "f69f792a3c31",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:04.875544Z"
+    },
+    "1.1.2": {
+      "title": "對戰策略",
+      "content": [
+        "* 保持在他的有效射程之外。他的技能屬於近至中距離，因此請在讓他無法反擊的距離進行攻擊。",
+        "* 他的單體治療量較低；即使他試圖治療隊友，你依然可以透過爆發傷害擊殺目標。",
+        "* 進入他的絕招範圍內並強迫敵方隊伍離開。如果你擁有近戰或光束類技能，你可以穿透聖域（Sanctuary）的牆壁。"
+      ],
+      "content_hash": "e0d815b110dd",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:06.915785Z"
+    },
+    "2": {
+      "title": "優勢與劣勢總結",
+      "content": [
+        "* 被動治療（Passive healing）",
+        "* 優秀的控場（Good CC）",
+        "* 進攻性工具（Aggressive Tools）",
+        "* 絕招限制（Ultimate limitations）",
+        "* 需要集結（Needs to group）",
+        "* 射程有限（Limited range）"
+      ],
+      "content_hash": "5ff4cde85fe5",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:08.530080Z"
+    },
+    "3.1.1": {
+      "title": "被動治療",
+      "content": [
+        "被動治療（Passive healing）讓瑞稀（Mizuki）能夠專注於造成傷害並確保擊殺。他在每一場比賽中都應該成為隊伍強大的傷害來源。"
+      ],
+      "content_hash": "170cfb2858f1",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:09.896458Z"
+    },
+    "3.1.2": {
+      "title": "優秀的控場能力",
+      "content": [
+        "束縛鎖鏈（Binding Chain）擁有強大的控場能力。它就像是閃光彈（Flashbang）與流星飛鞭（Whip Shot）合而為一的技能。只要成功牽制住任何側襲者（Flanker），你的隊伍就能順利擊殺目標，除非敵方隊伍使用了高價值的防禦性功能技能，例如生命之握（Life Grip）或屏障產生器（Barrier Projector）。"
+      ],
+      "content_hash": "f20a529537c0",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:11.653605Z"
+    },
+    "3.1.3": {
+      "title": "侵略性本質",
+      "content": [
+        "能夠以侵略性的方式進行遊玩與站位，並擁有足以進行決鬥以及保全自身性命的手段。紙代歸還（Katashiro Return）的設計初衷，就是為了讓玩家能夠切入戰場、發動攻擊，並全身而退。"
+      ],
+      "content_hash": "ce492c3f2001",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:13.437776Z"
+    },
+    "3.2.1": {
+      "title": "絕招僅對投射物有效",
+      "content": [
+        "結界聖域（Kekkai Sanctuary）僅對投射物消耗型陣容有效。在面對側襲者（Flanker）和近戰英雄時較為弱勢。此外，與類似的防禦型絕招相比，它所提供的持續生存能力也較低。"
+      ],
+      "content_hash": "dad622faf61e",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:14.805175Z"
+    },
+    "3.2.2": {
+      "title": "需要與隊伍保持緊密配合",
+      "content": [
+        "必須保持在盟友附近的位置，才能受惠於範圍治療（AoE healing）。然而，有限的移動能力使得他難以跟上高機動性的盟友。",
+        "如果附近沒有盟友，或是盟友不在他的視野（LoS）內，他就無法使用治療笠帽（Healing Kasa）來治療自己。"
+      ],
+      "content_hash": "3ec081e9c789",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:16.431613Z"
+    },
+    "3.2.3": {
+      "title": "有限射程",
+      "content": [
+        "有限的射程加上低機動性，意味著他隨時都暴露在敵隊的激進攻勢之下，處於脆弱狀態。此外，他對於飛行單位的反制手段也相當有限。"
+      ],
+      "content_hash": "cc7915792d3f",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:18.248773Z"
+    },
+    "4.1": {
+      "title": "主要攻擊：靈魂長刃（Spirit Glaive）",
+      "content": [
+        "**靈魂長刃（Spirit Glaive）的使用技巧**",
+        "* 射程有限，但沒有彈跳次數限制。利用反彈攻擊房間內或轉角處的敵人。尋找那些你可以擊中敵人，但敵人無法擊中你的位置，這對靈魂長刃（Spirit Glaive）來說是最理想的。",
+        "* 所有命中都會造成衝擊傷害與持續傷害。",
+        "* 衝擊傷害可以觸發暴擊。"
+      ],
+      "content_hash": "ee148d7fa87a",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:19.866599Z"
+    },
+    "4.2": {
+      "title": "次要攻擊：治療笠帽（Healing Kasa）",
+      "content": [
+        "**治療笠帽（Healing Kasa）的使用技巧**",
+        "* **必須選定目標才能使用**。無法單獨使用治療笠帽（Healing Kasa）來進行自我治療。",
+        "* 每次彈跳會產生遞減的治療量。請優先鎖定最需要治療的隊友，並讓你的帽子自動彈跳至附近的隊友身上。",
+        "* 彈跳需要視線（LoS）才能追蹤額外的隊友。如果有牆壁或建築物阻擋路徑，帽子會在沒有用完 3 次彈跳的情況下回到瑞稀（Mizuki）身邊。",
+        "* 頻繁使用治療笠帽（Healing Kasa）。盡量讓多名隊友保持在附近，但即使只有一名隊友需要治療，也不要猶豫。擁有兩次充能且冷卻時間短，不使用它比浪費一次充能更糟糕。",
+        "* 理想情況下，你隨時都希望有一名隊友在你的前方，這樣當你需要使用治療笠帽（Healing Kasa）時，就不必轉身尋找目標。"
+      ],
+      "content_hash": "0d5a62a9ca4b",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:22.693659Z"
+    },
+    "4.3": {
+      "title": "[SHIFT]：紙代歸還（Katashiro Return）",
+      "content": [
+        "**紙代歸還（Katashiro Return）的技巧**",
+        "* 內外進出（In n’ Out）突襲。紙代歸還（Katashiro Return）的主要用途是與盟友發動激進的攻擊，然後在計時結束前傳送回安全位置。",
+        "* 擁有 4.5 秒的時間可以傳送回原位，且在啟動回傳傳送時會進入無敵狀態。",
+        "* 請記住，敵人可以看到紙人（doll），並可能守株待兔，等你傳送回去時將你擊殺。如果你將紙人（doll）留在敵人附近，請不要啟動回傳。",
+        "* 如果你利用速度加成（speed boost）進行激進攻擊，但隨後遭到暈眩或錯過了回傳傳送的時機，請做好死亡的心理準備。與其等到最後一秒才行動導致被擊殺，不如提早使用以確保生存。"
+      ],
+      "content_hash": "84b340b48f42",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:25.278971Z"
+    },
+    "4.4": {
+      "title": "[E]：束縛之鏈（Binding Chain）",
+      "content": [
+        "**關於** 束縛之鏈（Binding Chain）**的提示**",
+        "* 這是瑞稀（Mizuki）最重要的決鬥工具。請將你的繫鏈留給那些靠近你並執意要擊殺你的敵人。將他們束縛住，你將很有可能贏得這場決鬥。",
+        "* 此技能會造成妨礙（Hinder）並阻止位移技能（例如卡西迪（Cassidy）的榴彈），並透過繫鏈來限制移動（類似莫加（Mauga）的絕招）。這並非硬控場（Hard Stun）；敵人在被束縛時仍然可以進行攻擊。",
+        "* 會被屏障和格擋技能阻擋。當面對像源氏（Genji）這種可以格擋鏈條的英雄時，請等到看到他們使用招架（Deflect）後，再嘗試束縛他們。",
+        "* * 與碧姬（Brigitte）的流星錘類似，這是一種遠程近戰攻擊。這意味著它能穿透防禦矩陣（Defense Matrix）等吸收類技能。",
+        "* 會立即束縛目標下方的地面。",
+        "* * 範例：瑞稀（Mizuki）可以對飛越伊利歐斯（Ilios）水井上方的火箭貓（Jetpack Cat）使用束縛之鏈（Binding Chain），火箭貓（Jetpack Cat）將會被拉入井中。瑞稀（Mizuki）即可獲得一次地形擊殺（Environmental KO）。"
+      ],
+      "content_hash": "31956e78cb87",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:28.300136Z"
+    },
+    "4.5": {
+      "title": "絕招：結界聖域（Kekkai Sanctuary）",
+      "content": [
+        "**結界聖域（Kekkai Sanctuary）使用技巧**",
+        "* 這不是一道屏障。這些牆壁的功能與 D.Va 的防禦矩陣（Defense Matrix）相同，可以阻擋所有投射物。",
+        "* 無法阻擋：",
+        "* * 光束類攻擊",
+        "* 近戰攻擊",
+        "* 衝擊波（地裂擊（Earth Shatter）、D.Va 自爆（D.Va Bomb）等）",
+        "* 只有牆壁能吸收投射物。如果敵人進入結界聖域（Kekkai Sanctuary）內部，他們可以直接射擊身處其中的隊友。",
+        "* 在近距離使用時，請保持在邊緣附近，以便進行「護盾舞（shield dance）」，並將敵人保持在屏障的另一側，讓他們無法攻擊到你。"
+      ],
+      "content_hash": "3295f7da9a41",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:30.385611Z"
+    },
+    "4.6": {
+      "title": "被動技能：治療光環（Remedy Aura）",
+      "content": [
+        "關於治療光環（Remedy Aura）的技巧",
+        "* 基礎範圍治療量極低，對自身僅為 3.5，對隊友則為 5。造成傷害是獲取光環充能最快的方式（包含對部署物造成傷害）。治療技能也能為光環充能。",
+        "* 保持高充能對於累積絕招能量至關重要。儘管每秒最大治療量為 20，但當你與隊伍集結並同時治療多名隊友時，治療量會迅速累積。",
+        "* 這也是為什麼瑞稀（Mizuki）需要採取進攻性打法的原因。他造成的傷害越多，就能越有效地被動治療他的隊伍。"
+      ],
+      "content_hash": "e24979aa690c",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:32.501385Z"
+    },
+    "5.1.1": {
+      "title": "湧泉（Wellspring）",
+      "content": [
+        "* 有助於維持較高的範圍治療（AoE healing）量，並在戰鬥中更快地恢復該能力。",
+        "* 當你的另一位支援位隊友缺乏範圍治療（AoE healing）能力時非常實用。"
+      ],
+      "content_hash": "1177561c9294",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:33.770447Z"
+    },
+    "5.1.2": {
+      "title": "暴露靈魂（Exposed Soul）",
+      "content": [
+        "* 考慮到被束縛鎖鏈（Binding Chain）連結的敵人仍能對你發動攻擊，盡快將其擊殺至關重要。暴露靈魂（Exposed Soul）有助於將每一次成功的鎖鏈連結轉化為擊殺（KO）。",
+        "* 最適合用於決鬥以及反制敵方的側襲者（Flanker）突襲。"
+      ],
+      "content_hash": "eaff74bd07ac",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:35.126349Z"
+    },
+    "5.2.1": {
+      "title": "共鳴回歸（Resonant Return）",
+      "content": [
+        "* 為了將額外彈跳的效益最大化，請嘗試在隊友站位緊密時使用治療御幣（Healing Kasa）。",
+        "* 對於提升防禦能力很有幫助。",
+        "* 當你需要擔任隊伍的主要續戰力來源時效果最佳。"
+      ],
+      "content_hash": "e3f0ff5f8802",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:36.717234Z"
+    },
+    "5.2.2": {
+      "title": "迅捷步伐（Quickstep）",
+      "content": [
+        "* 最適合用於衝鋒與機動陣容，因為它能實現極具侵略性的隊伍前鋒（Initiator）開戰。",
+        "* 與路西歐（Lúcio）的速度光環類似，透過語音聊天（VC）、標記系統或像是「3-2-1」這樣的語音指令與隊友溝通，對於協調特殊能力（perks）的施放時機至關重要。",
+        "* * 速度加成的持續時間很短，因此如果隊友能提前準備好，而非等到發現速度光環啟動後才做出反應，隊伍將能獲得更大的效益。"
+      ],
+      "content_hash": "c4b00ac7e427",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:38.653203Z"
+    },
+    "6": {
+      "title": "地圖",
+      "content": [
+        "鼓勵近距離或混戰的地圖最適合瑞稀（Mizuki）發揮其技能組的全部潛力（例如：綠洲城、薩摩亞、國王大道）。這些地圖不僅有利於與他搭配良好的隊伍陣容，還能讓他從範圍治療（AoE healing）和彈跳拋射物（bouncing projectiles）中獲得價值。",
+        "長距離地圖（例如：皇家賽道）以及像努巴尼這樣的高地地圖，是瑞稀（Mizuki）最難發揮的兩類地圖。只要他能與隊伍待在一起，他仍能發揮作用，但與其他英雄相比，他通常會處於劣勢。"
+      ],
+      "content_hash": "df2556955998",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:40.957066Z"
+    },
+    "6.1.1": {
+      "title": "綠洲城",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:42.302520Z"
+    },
+    "6.1.2": {
+      "title": "薩摩亞",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:43.635373Z"
+    },
+    "6.1.3": {
+      "title": "國王大道",
+      "content": [
+        "AI 生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:45.068070Z"
+    },
+    "6.2.1": {
+      "title": "皇家賽道",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:46.211503Z"
+    },
+    "6.2.2": {
+      "title": "努巴尼",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:47.361609Z"
+    },
+    "7": {
+      "title": "隊伍陣容搭配",
+      "content": [
+        "瑞稀（Mizuki）擁有能適應多種隊伍陣容風格的混合型技能組。理想情況下，他適合搭配衝鋒陣容，利用「紙代歸還（Katashiro Return）」與像垃圾鎮女王（Junker Queen）這樣的坦克一同激進推進，隨後傳送回安全位置。",
+        "將他與具備高爆發治療能力的輔助英雄（例如安娜（Ana））搭配，能組成強大的後排。他們可以運用「束縛之鏈（Binding Chain）」與「睡眠鏢（Sleep Dart）」來保護彼此，同時安娜（Ana）的爆發治療與「生化手榴彈（Biotic Grenade）」能確保隊伍其餘成員的生存。"
+      ],
+      "content_hash": "22a3cca35b02",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:49.838136Z"
+    },
+    "8": {
+      "title": "如何反制",
+      "content": [
+        "反制瑞稀（Mizuki）的最佳方式是留意他的「紙代歸還（Katashiro Return）」動畫，加速從他身邊繞過並找出他的玩偶。如果他傳送回玩偶處，你就能擊殺他。如果他知道自己無法傳送回去，那他很可能已經過度深入，這時他對你的隊伍來說就相當脆弱。",
+        "作為通用策略，請記住他的治療效果在造成傷害時最為顯著。如果可能的話，請在他主要攻擊範圍外進行交戰，並在他難以維持隊友生命值時，逐步削減敵方隊伍的生命值。",
+        "在他施放絕招期間，要麼全力進攻，要麼撤退。當你的隊伍擁有近戰英雄時，可以採取侵略性打法，直接在治療效果下完成擊殺。如果你的隊伍主要以投射物英雄為主，最好等待 7 秒的持續時間結束後，再重新投入戰鬥。"
+      ],
+      "content_hash": "24265cfc65c1",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:52.366376Z"
+    },
+    "8.2": {
+      "title": "特定英雄剋星名稱",
+      "content": [
+        "* 源氏",
+        "* 死神",
+        "* 閃光",
+        "* 無畏",
+        "* 安燃",
+        "* 宿怨"
+      ],
+      "content_hash": "0988aa6ba99f",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:12:53.708919Z"
+    }
+  }
+}

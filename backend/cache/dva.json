@@ -1,0 +1,359 @@
+{
+  "hero_id": "dva",
+  "sections": {
+    "1": {
+      "title": "概覽",
+      "content": [
+        "她是一位退役的職業電競選手，也是《鬥陣特攻》職業賽場上的常客。D.Va 是一位駕駛機甲的 Tank，擅長在戰鬥中持續移動以尋找最佳位置。面對技術高超的 D.Va 玩家，會感覺她無處不在，無論你逃到哪裡，她總會出現並阻止你。",
+        "她無法以傳統的方式進行 Tank。如果你試圖用她死守並封鎖隘口，你的機甲很快就會被摧毀。在許多 Tank 的對局中，她的目標是完全避開敵方的 Tank，讓他們只能在場上遊蕩而無事可做。",
+        "對於 D.Va 玩家來說，對局與地圖知識至關重要，因為防禦矩陣（Defense Matrix）可以完全抵銷敵方的技能，但前提是她必須處於正確的位置。隨時留意哪位隊友需要協助，並善用推進器（Boosters）與防禦矩陣（Defense Matrix）的短冷卻時間，幫助他們創造關鍵的戰術表現。"
+      ],
+      "content_hash": "18f279619db4",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:23.954721Z"
+    },
+    "1.1.1": {
+      "title": "遊玩方式",
+      "content": [
+        "* 保持靈活應變。利用 D.Va 的機動性來回應敵方隊伍的攻擊位置與目標。",
+        "* 進行保護與支援。防禦矩陣（Defense Matrix）應優先用於確保後排生存，並在輸出角色發動攻擊時提供保護。",
+        "* 先保護好自己。別忘了，如果你想對隊伍有所貢獻，就必須確保自己活著並維持在機甲狀態。"
+      ],
+      "content_hash": "cc25ccde36c1",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:25.225652Z"
+    },
+    "1.1.2": {
+      "title": "對戰策略",
+      "content": [
+        "* 創造交叉火網。從多個方向攻擊 D.Va，能讓她無法利用防禦矩陣（Defense Matrix）吸收隊伍的所有傷害。",
+        "* 保持集結。專注於互相掩護以維持生存，並迫使她撤退。每當她離開近戰範圍，她的戰術價值就會大幅降低。",
+        "* D.Va 對於光束與近戰攻擊毫無防禦能力。如果你感到吃力，考慮更換英雄來進行反制。"
+      ],
+      "content_hash": "f9e92ae7d196",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:26.753259Z"
+    },
+    "2": {
+      "title": "優勢與劣勢總結",
+      "content": [
+        "* 低冷卻時間",
+        "* 防禦能力",
+        "* 爆發傷害",
+        "* 極差的遠程傷害",
+        "* 方向性傷害減免",
+        "* 區域控制型絕招"
+      ],
+      "content_hash": "82f280c8ef04",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:28.254625Z"
+    },
+    "3.1.1": {
+      "title": "低冷卻時間的機動性",
+      "content": [
+        "推進器（Boosters）是《鬥陣特攻》中所有坦克移動技能裡冷卻時間最短的。除此之外，它還能讓 D.Va 往任何方向飛行。D.Va 可以快速切入戰場後撤離，或是飛去保護隊友，亦或是飛去協助隊友擊殺敵人。"
+      ],
+      "content_hash": "1b7371723f9d",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:30.065875Z"
+    },
+    "3.1.2": {
+      "title": "防禦矩陣（Defense Matrix）",
+      "content": [
+        "防禦矩陣（Defense Matrix）是基於資源而非生命值的技能，這意味著她在持續時間內可以吸收無限的傷害。她也是唯一能完全吸收像是重力噴湧（Graviton Surge）和暴雪（Blizzard）這類絕招的坦克。防禦矩陣（Defense Matrix）的強大與多功能性，使 D.Va 成為坦克中最強的團隊輔助者。"
+      ],
+      "content_hash": "8b56d10582ae",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:31.617968Z"
+    },
+    "3.1.3": {
+      "title": "爆發傷害",
+      "content": [
+        "在近距離時，當她同時使用散彈槍和微型飛彈（Micro Missiles）進行射擊，能造成極高的爆發傷害。當你的隊伍無法有效壓制敵方支援時，D.Va 可以化身為後排刺客切入戰場，並在敵方其他人反應過來之前擊殺一名目標。"
+      ],
+      "content_hash": "152aa92ca204",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:33.354355Z"
+    },
+    "3.2.1": {
+      "title": "糟糕的遠程傷害",
+      "content": [
+        "只要 D.Va 沒有貼在敵人的臉上，她的傷害基本上都可以完全忽略。微型飛彈（Micro Missiles）緩慢的飛行速度也導致它們無法成為可靠的遠程傷害來源。"
+      ],
+      "content_hash": "83d2bfa0bfc2",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:34.958119Z"
+    },
+    "3.2.2": {
+      "title": "方向性傷害減免",
+      "content": [
+        "雖然有些坦克可以阻擋來自多個方向或前方大範圍的傷害，但 D.Va 的防禦矩陣（Defense Matrix）是一個位於她正前方的錐形區域。如果你在使用防禦矩陣（Defense Matrix）時瞄準不夠精準，就會浪費資源，甚至無法吸收你原本想抵擋的傷害。這也導致她在開闊地帶容易因為交叉火網而陷入苦戰。"
+      ],
+      "content_hash": "cd2edb5dfee9",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:36.616749Z"
+    },
+    "3.2.3": {
+      "title": "區域控制絕招",
+      "content": [
+        "在最低階的牌位中，你或許能靠著將 D.Va 的機甲往天空丟，並幸運地造成敵方全滅來獲勝。然而，一旦你開始爬分，很快就會發現玩家們已經很擅長在自爆（Self-Destruct）飛在空中時找掩體躲避了。",
+        "在高階場中，這項技能最好的用途通常是作為區域控制工具。僅僅是強迫敵人走避幾秒鐘，其影響力遠不如使用地裂擊（Earthshatter）或重力彈（Grav）來暈眩整個隊伍來得巨大。"
+      ],
+      "content_hash": "ba1944957869",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:38.779520Z"
+    },
+    "4.1": {
+      "title": "主要攻擊：融合加農砲",
+      "content": [
+        "**融合加農砲（Fusion Cannons）的使用技巧**",
+        "* 善用最近的掩體",
+        "* 由於射程有限，你應該隨時尋求盡可能靠近敵人的位置。",
+        "* 在掩體之間移動，並嘗試佔據離敵人最近的掩體。你能安全推進得越遠，就越有機會找到合適的突襲目標。",
+        "* 無限彈藥",
+        "* 你主要攻擊的廣角彈幕擴散與無限彈藥，非常適合用來持續造成小額傷害。",
+        "* D.Va 是追擊使用傳送器（Translocator）的駭影的最佳人選，因為你的散彈槍可以揭露駭影隱形時的位置。",
+        "* 此外，每一點傷害都會重置自我治療被動技能。當敵人生命值偏低且沒有醫護兵（Support）能為他們治療時，請善加利用這一點。"
+      ],
+      "content_hash": "bcbb33ea2cb9",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:41.026197Z"
+    },
+    "4.2": {
+      "title": "次要攻擊：防禦矩陣",
+      "content": [
+        "**防禦矩陣（Defense Matrix）的使用技巧**",
+        "* 了解對戰組合",
+        "* 根據敵方隊伍的英雄選擇，你的防禦矩陣（Defense Matrix）重點也會隨之改變。如果對方有莫伊拉（Moira），你應該要吃掉所有的生化球（Biotic Orb）。如果對方有炸彈鼠（Junkrat），防禦矩陣（Defense Matrix）要用來吸收他的震盪地雷（Concussive Grenades）、萊因哈特（Reinhardt）的烈焰擊（Fire Strike）、札莉雅（Zarya）的重力噴湧（Graviton Surge）、安娜（Ana）的生化手榴彈（Biotic Grenade），諸如此類。",
+        "* 所有能被防禦矩陣（Defense Matrix）吸收的高價值技能，都應該成為你的首要目標。",
+        "* 掩護隊友（Peel）",
+        "* 推進器（Boosters）和防禦矩陣（Defense Matrix）是所有戰士（Bruiser）中掩護隊友的最佳技能組合。舉例來說，當你看到攔路豬（Roadhog）勾住隊友時，請使用推進器（Boosters）並開啟防禦矩陣（Defense Matrix）來吸收後續傷害，讓隊友得以存活。",
+        "* 輔助進攻",
+        "* 你的輸出（DPS）是否正在進行高風險、高回報的操作？對他們施放防禦矩陣（Defense Matrix）可以顯著降低風險並提高他們成功的機率。",
+        "* 與你的輸出（DPS）配合，並在他們使用絕招時保護他們。法拉（Pharah）的彈幕（Barrage）、卡西迪（Cassidy）的神射手（Deadeye）以及死神（Reaper）的死亡綻放（Death Blossom），都是能從防禦矩陣（Defense Matrix）保護中獲益良多的絕招範例。"
+      ],
+      "content_hash": "b0835c16e967",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:44.375767Z"
+    },
+    "4.3": {
+      "title": "[Shift]：推進器（Boosters）",
+      "content": [
+        "**推進器（Boosters）的技巧**",
+        "* 保持果斷",
+        "* D.Va 不能表現得太被動，或是站在原地猶豫不決。由於她的射程較短，她無法站在主戰場進行消耗，而防禦矩陣（Defense Matrix）的短持續時間也讓她無法像個護盾機器人一樣站樁。",
+        "* 進行突擊與交戰",
+        "* 如果你打算使用推進器（Boosters）進行強勢進攻，請務必確保擁有充足的防禦矩陣（Defense Matrix）能量，這樣才能在反擊中存活下來。",
+        "* 務必嘗試從戰鬥的外圍切入，絕對不要從中心點進場。這樣你更容易孤立敵人，同時受到的傷害也會較少。",
+        "* 脫離戰鬥",
+        "* 如果你衝進去或是在目標點推進時，突然發現整個敵方隊伍都在集火你，請立刻使用推進器（Boosters）撤退到安全地帶。大約三秒後，你的生命值就會恢復，並準備好再次使用推進器（Boosters）重返戰場。"
+      ],
+      "content_hash": "265768c27e39",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:47.349396Z"
+    },
+    "4.4": {
+      "title": "[E]：微型飛彈（Micro Missiles）",
+      "content": [
+        "**微型飛彈（Micro Missiles）的使用技巧**",
+        "* 不要用飛彈進行消耗",
+        "* 很容易掉入站在遠處用飛彈射擊敵方屏障的陷阱。這會極大浪費微型飛彈（Micro Missiles），並讓敵人有機會推進，因為他們知道你無法瞬間爆發擊殺他們。",
+        "* 最佳爆發傷害",
+        "* 使用推進器（Booster），等到靠近敵人後，再施放微型飛彈（Micro Missiles）並配合散彈槍，以爆發傷害擊殺敵人。這對於處理位於側翼（off angles）和側襲者（flankers）位置的敵人極為有效。",
+        "* 對抗法拉（Pharah）、慈悲（Mercy）和迴音（Echo）等空中敵人時，請務必等待他們交出主要位移技能後，再使用推進器（Booster）進行追擊，這樣他們就無法逃脫。",
+        "* 防禦矩陣（Defense Matrix）與飛彈",
+        "* 當你需要壓制敵方輸出（DPS）時，同時進行防禦與攻擊非常實用。直接貼近敵人並開啟防禦矩陣（Defense Matrix）可以阻擋所有投射物傷害與投射物治療。此外，你的微型飛彈（Micro Missiles）還能對他們造成傷害。只要有一名隊友與你配合進攻，敵人基本上必死無疑。"
+      ],
+      "content_hash": "b40a5fecbff3",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:50.725900Z"
+    },
+    "4.5": {
+      "title": "絕招：自爆（Self-Destruct）",
+      "content": [
+        "**自爆（Self-Destruct）的使用技巧**",
+        "* 推進炸彈（Booster Bomb）",
+        "* 99% 的情況下，你會希望將爆炸中的機甲向前發射，而不是單純在原地彈射。",
+        "* 推進器（Boosters）剩餘的資源量，決定了機甲飛行的距離。",
+        "* 一個好的經驗法則是：在使用絕招前先消耗 50% 的推進器（Boosters）資源，以確保機甲在爆炸前會落回地面。這樣一來，你就不會不小心飛過頭，錯過敵方隊伍。",
+        "* 第二條命",
+        "* 有時候使用自爆（Self-Destruct）是為了快速重新召喚機甲。如果你在擁有絕招的情況下機甲被擊毀，請毫不猶豫地使用你的絕招。"
+      ],
+      "content_hash": "301bdfaaefdd",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:53.111306Z"
+    },
+    "4.6": {
+      "title": "[Q]：呼叫機甲",
+      "content": [
+        "呼叫機甲（Call Mech）的技巧",
+        "* 確保安全",
+        "* 決定何時何地重新呼叫機甲時，最重要的考量是你是否能存活下來。在呼叫機甲前，請先躲在掩體後方。",
+        "* 此外，請記住呼叫機甲（Call Mech）會被駭入（hack）、擊退（knockback）和昏迷（stuns）效果中斷。請留意擁有這些技能的敵方位置。",
+        "* 若距離極近，可秒殺 250 生命值的英雄。",
+        "* 通常不建議這樣做，但若是為了娛樂或在特定情境下，這招有時能發揮關鍵作用。"
+      ],
+      "content_hash": "d0b75c52afda",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:55.223362Z"
+    },
+    "4.7": {
+      "title": "被動技能：彈射（Eject）",
+      "content": [
+        "_當機甲被摧毀時，彈射出機甲。_",
+        "**關於**彈射（Eject）**的技巧：**",
+        "* 如果戰鬥已經無力回天，請確保盡快陣亡，不要拖累隊伍節奏（stagger）。以駕駛員型態存活最糟的情況，就是讓已經重生隊友必須等待你遲來的重生。"
+      ],
+      "content_hash": "48fb6e72dd0a",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:57.086767Z"
+    },
+    "4.8": {
+      "title": "主要攻擊：光束槍（Light Gun）",
+      "content": [
+        "**光束槍（Light Gun）的使用技巧**",
+        "* 當你處於駕駛員狀態的 D.Va 時，請與敵人保持距離，並鎖定最容易擊中的目標，以便快速累積能量來呼叫機甲（Call Mech）。",
+        "* 不要放棄；嬌小的體型讓敵人很難擊中你。有時候你甚至能贏得 1v1 對決並成功召回機甲。"
+      ],
+      "content_hash": "5f78cc2dc4cd",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:01:59.172734Z"
+    },
+    "5.1.1": {
+      "title": "兔兔力量（Bunny Power）",
+      "content": [
+        "* 更安全的次要特殊能力（Minor Perk）",
+        "* 額外的生命值讓 D.Va 更有機會存活並召喚機甲。當 D.Va 從機甲彈射出來時，敵人通常會試圖立刻擊殺駕駛員狀態的她。兔兔力量（Bunny Power）能幫助她承受這些攻擊。"
+      ],
+      "content_hash": "038e19e6f464",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:02:01.053663Z"
+    },
+    "5.1.2": {
+      "title": "延長推進器（Extended Boosters）",
+      "content": [
+        "* 非常適合進行突襲",
+        "* 當突襲敵方後排時，你可以使用推進器（Boosters）穿過敵方坦克以及路徑上的任何敵人，藉此觸發延長推進器（Extended Boosters）。",
+        "* 例如，當你擁有更長的飛行時間時，追擊慈悲（Mercy）會變得容易許多。",
+        "* 數值",
+        "* 每次擊退（boop）造成 25 點傷害。",
+        "* 基礎推進器（Boosters）的持續時間為 2 秒。擊中兩名敵人可延長 50% 的持續時間。"
+      ],
+      "content_hash": "a2ccffb9d013",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:02:02.982073Z"
+    },
+    "5.2.1": {
+      "title": "護盾系統",
+      "content": [
+        "* 提升自我維持能力",
+        "* 護盾生命值會移至 D.Va 生命值條的最前方，並會優先受到傷害。",
+        "* 防禦矩陣（Matrix）將吸收的傷害轉化為恢復失去的護盾生命值，能提升你在戰鬥中的生存能力。"
+      ],
+      "content_hash": "94a99421a5b5",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:02:04.376316Z"
+    },
+    "5.2.2": {
+      "title": "精準融合（Precision Fusion）",
+      "content": [
+        "* 當你想要專注於進攻能力與擊殺潛力時最為合適。",
+        "* 請保留此能力用於最後一擊，而非在攻擊開始時就使用。"
+      ],
+      "content_hash": "71adab3ed11e",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:02:05.790522Z"
+    },
+    "6": {
+      "title": "地圖",
+      "content": [
+        "D.Va 與其他坦克相比最顯著的優勢，在於她每 3.5 秒就能飛行 2 秒的能力。她在擁有廣闊高台區域的地圖中能發揮最大價值。由於她的傷害僅在極近距離內有效，因此地形平坦且開闊的地圖對她來說並不理想。然而，這並不代表她適合待在目標點進行正面交戰。狹窄的控制（Control）據點無法提供她足夠的移動空間，這會使她在面對面的坦克對決中處於劣勢。"
+      ],
+      "content_hash": "6fae3d012029",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:02:07.339501Z"
+    },
+    "7": {
+      "title": "隊伍陣容搭配",
+      "content": [
+        "最能發揮 D.Va 機動性與傷害減免優勢的隊伍陣容為「機動陣（dive）」與「消耗陣（poke）」。D.Va 擅長透過快速且頻繁的重新走位來支援隊友。為了造成顯著的傷害，她必須貼近敵方臉上進行近距離作戰。因此，D.Va 常與那些能迅速集火單一目標的機動型英雄搭配。",
+        "身為防禦者與支援者，D.Va 能夠讓遠程與即時命中（hitscan）型隊友佔據更具侵略性的位置，同時利用自身的存在感與防禦矩陣（Defense Matrix）來保護他們。",
+        "在面對消耗陣時，她同樣表現出色，因為防禦矩陣（Defense Matrix）是基於資源的技能，可以吸收無限量的傷害。再加上她控制高地的能力，有 D.Va 的消耗陣總是佔有優勢。",
+        "**以 D.Va 為核心的隊伍陣容範例：**",
+        "* **坦克**: D.Va, 萊因哈特",
+        "* **輸出**: 艾西, 死神",
+        "* **輔助**: 禪亞塔, 安娜"
+      ],
+      "content_hash": "7b90e69127e1",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:02:09.593765Z"
+    },
+    "7.1": {
+      "title": "與其他英雄的個人搭配",
+      "content": [
+        "萊因哈特 (6v6)",
+        "* 當與萊因哈特搭配時，D.Va 能彌補他所有的弱點。她可以處理高處的敵人，並在他放下護盾進行揮擊時為他提供防禦矩陣（Defense Matrix）。當萊因哈特能衝鋒越過敵方坦克時，他們甚至可以一起進行突擊。",
+        "* 兩者也都是遠程隊友的絕佳保護者，隊友可以站在他們的護盾與防禦矩陣（Defense Matrix）後方，同時進行壓制性射擊。",
+        "死神",
+        "* 當死神進行側襲時，他能幫助吸引敵方對 D.Va 的注意力。D.Va 的推進器（Boosters）也讓她能迅速突擊任何被死神突襲的目標。擊殺死神最容易的時機是他陷入死亡綻放（Death Blossom）旋轉時。用防禦矩陣（Defense Matrix）掩護死亡綻放（Death Blossom）的效果極其致命且難以阻擋。",
+        "禪亞塔",
+        "* 擁有這名玻璃大砲型醫護兵（Medic）的隊伍在進攻時總是佔據上風。只要禪亞塔還活著，D.Va 就能在他被集火時進行保護（peel），並協助他留在戰場上。他的遠程傷害與紛亂之珠（Orb of Discord）也是最好的醫護兵（Medic）工具，能幫助 D.Va 確保擊殺敵方後排。"
+      ],
+      "content_hash": "cc1bf7b72889",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:02:12.672404Z"
+    },
+    "8": {
+      "title": "如何反制",
+      "content": [
+        "D.Va 最強的能力是她的防禦矩陣（Defense Matrix）。使用不會被防禦矩陣吸收的攻擊，是直接反制她最簡單的方法。光子手槍（Photon Magnum）、光子投射器（Photon Projector）以及粒子砲（Particle Cannon）皆屬於光束武器，因此可以直接穿透防禦矩陣。所有近戰攻擊，例如火箭槌（Rocket Hammer）和龍一文字（Dragonblade）也同樣有效。",
+        "如果你的英雄只有拋射物攻擊，你可以將自身定位在側邊或後方等防禦矩陣無法吸收的角度進行射擊。",
+        "此外，任何能將她從推進器（Boosters）狀態中擊暈的能力都能阻止她的移動，這是迫使她脫離機甲的最佳方式。鎖鏈（Binding Chain）、睡眠鏢（Sleep Dart）和質量吸積（Accretion）都是強力的控場工具，你應該將這些技能保留到她試圖飛走時再使用。"
+      ],
+      "content_hash": "f0c5f6695a33",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:02:15.045103Z"
+    },
+    "8.2": {
+      "title": "特定英雄剋制名單",
+      "content": [
+        "* 札莉雅",
+        "* 辛梅塔",
+        "* 萊因哈特",
+        "* 源氏",
+        "* 安娜",
+        "* 席格馬"
+      ],
+      "content_hash": "3a6e5eccd387",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:02:16.047373Z"
+    }
+  }
+}

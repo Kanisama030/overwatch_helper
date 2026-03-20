@@ -1,0 +1,276 @@
+{
+  "hero_id": "orisa",
+  "sections": {
+    "1": {
+      "title": "概覽",
+      "content": [
+        "歐瑞莎（Orisa）被創造出來是為了守護努巴尼（Numbani），她比任何人都更能守住前線。她可以說是坦克中最難被擊殺的角色，且在具備高生存能力的同時，還擁有相當不錯的傷害輸出。雖然她的機動性遠遠落後，但她的遠程傷害能力卻勝過坦克陣容中的其他角色。優秀的歐瑞莎（Orisa）玩家會學習如何循環使用冷卻技能，並在等待強化防禦（Fortify）冷卻完畢時善用掩體。如果你想在目標點上進行戰鬥並持續發動進攻，歐瑞莎（Orisa）是一個很好的選擇。"
+      ],
+      "content_hash": "5b8695704e47",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:30.499713Z"
+    },
+    "1.1.1": {
+      "title": "遊玩方式",
+      "content": [
+        "* 輪替並保持距離。歐瑞莎應該始終與隊伍一同圍繞目標移動，試圖將敵方隊伍阻擋在外。",
+        "* 不要一次用光她所有的技能。先使用標槍旋轉（Javelin Spin），等效果結束後再使用強固防禦（Fortify），接著才是能量標槍（Energy Javelin）。將這些技能同時使用會大幅降低她的生存能力。",
+        "* 務必在掩體附近遊玩。由於強固防禦（Fortify）的使用間隔總會出現空窗期，歐瑞莎需要掩體來躲避以維持生存。"
+      ],
+      "content_hash": "3c8042d209c8",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:32.400687Z"
+    },
+    "1.1.2": {
+      "title": "對戰策略",
+      "content": [
+        "* 忽略歐瑞莎（Orisa）。反制歐瑞莎最好的方式就是避開她，並鎖定她隊伍中的其他人。她會試圖阻止你，但她無法追上你。",
+        "* 等待堅毅（Fortify）效果結束。如果你看到她變為金色，請躲起來以免受到傷害，或是切換目標去攻擊其他人。",
+        "* 使用光束型英雄。如果其他方法都無效，反制歐瑞莎最簡單的方式就是使用光束型英雄。對他們來說，歐瑞莎簡直是免費的絕招充能來源。"
+      ],
+      "content_hash": "18e89f84da92",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:34.344998Z"
+    },
+    "2": {
+      "title": "優勢與劣勢總結",
+      "content": [
+        "* 堅毅（Fortify）",
+        "* 適合用作反制選擇（counter-pick）",
+        "* 遠程傷害",
+        "* 容易被光束武器克制",
+        "* 沒有團隊傷害減免能力",
+        "* 移動緩慢且缺乏機動性"
+      ],
+      "content_hash": "bb208a63d015",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:35.999253Z"
+    },
+    "3.1.1": {
+      "title": "堅毅（Fortify）",
+      "content": [
+        "變得無法阻擋並減少近乎一半的受傷，是歐瑞莎最強大的優勢。她是唯一一位能在向前推進並發動攻擊的同時，保持免疫控場效果（CC immune）的坦克。"
+      ],
+      "content_hash": "6ace1688d79f",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:37.937536Z"
+    },
+    "3.1.2": {
+      "title": "絕佳的針對性選擇",
+      "content": [
+        "就劇情設定而言，她透過自身的控場能力來反制毀滅拳王（Doomfist），並利用「強化防禦」（Fortify）的擊退免疫效果來應對。歐瑞莎（Orisa）也是極佳的針對性換角選擇，能有效壓制萊因哈特（Reinhardt）、拉瑪塔（Ramattra）、攔路豬（Roadhog）以及災害（Hazard）。"
+      ],
+      "content_hash": "277324bcd242",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:39.836072Z"
+    },
+    "3.1.3": {
+      "title": "遠程傷害",
+      "content": [
+        "大多數的坦克英雄不是幾乎沒有遠程傷害，就是完全沒有。在戰鬥的消耗階段，或是從中遠距離來看，歐瑞莎（Orisa）能為隊伍帶來的價值將高於任何其他坦克。"
+      ],
+      "content_hash": "664206085117",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:41.366134Z"
+    },
+    "3.2.1": {
+      "title": "容易受到光束攻擊",
+      "content": [
+        "由於歐瑞莎（Orisa）的標槍旋轉（Javelin Spin）無法像阻擋一般傷害那樣阻擋札莉雅（Zarya）和辛梅塔（Symmetra）的光束傷害，因此只要歐瑞莎（Orisa）的堅毅（Fortify）處於冷卻狀態，她就會變得非常容易受到光束攻擊的威脅。"
+      ],
+      "content_hash": "6ea2bef0d4a6",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:42.504087Z"
+    },
+    "3.2.2": {
+      "title": "無團隊傷害減免",
+      "content": [
+        "與大多數其他戰士（Bruiser）不同，歐瑞莎（Orisa）無法為隊伍提供任何額外生命值或屏障。她只能利用自己的身體或標槍旋轉（Javelin Spin）來吸收攻擊，但無法直接為隊友帶來任何額外的生存能力。"
+      ],
+      "content_hash": "04aaef18683d",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:43.790698Z"
+    },
+    "3.2.3": {
+      "title": "無法移動",
+      "content": [
+        "歐瑞莎（Orisa）最大的弱點在於開火時會被緩速，且缺乏垂直機動性，僅能依靠標槍旋轉（Javelin Spin）獲得些許移動速度加成。擁有高機動性的英雄可以輕易避開歐瑞莎，而她對此也無能為力。"
+      ],
+      "content_hash": "afc66ffbbcbd",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:45.342881Z"
+    },
+    "4.1": {
+      "title": "主要攻擊：強化融合驅動器（Augmented Fusion Driver）",
+      "content": [
+        "關於強化融合驅動器（Augmented Fusion Driver）的提示",
+        "* 保持距離並進行消耗",
+        "* 歐瑞莎（Orisa）擁有比其他任何戰士（Bruiser）更優秀的遠程傷害能力。莫加（Mauga）或許能與之一較高下，但透過強化防禦（Fortify），他的燃燒槍枝甚至無法對歐瑞莎（Orisa）造成暴擊。在敵方戰士（Bruiser）拉近距離之前，盡可能地輸出傷害。",
+        "* 不要過熱",
+        "* 在即將過熱前停止射擊，永遠比承受 3 秒的過熱懲罰來得好。"
+      ],
+      "content_hash": "9d11e3adbd3b",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:47.427549Z"
+    },
+    "4.2": {
+      "title": "次要攻擊：能量標槍（Energy Javelin）",
+      "content": [
+        "**能量標槍（Energy Javelin）的使用技巧**",
+        "* 保持距離",
+        "* 由於歐瑞莎（Orisa）的攻擊距離通常比其他戰士（Bruiser）更遠，她應該利用標槍旋轉（Javelin Spin）將敵人推開，並與他們保持距離。",
+        "* 保護你的後排",
+        "* 能量標槍（Energy Javelin）的擊退效果是防止敵人靠近後排的強力手段。如果你發現敵方的戰士（Bruiser）或輸出位正在攻擊你身後的隊友，試著用能量標槍（Energy Javelin）擊中他們。",
+        "* 牆壁碰撞",
+        "* 當能量標槍（Energy Javelin）將敵人擊退並撞上牆壁時，會造成額外的暈眩與傷害。試著透過繞著目標移動，讓他們處於你與牆壁或建築物之間，藉此發揮這項優勢。"
+      ],
+      "content_hash": "df659342549c",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:49.708408Z"
+    },
+    "4.3": {
+      "title": "[SHIFT]：堅韌防禦（Fortify）",
+      "content": [
+        "**堅韌防禦（Fortify）的使用技巧**",
+        "* 歐瑞莎（Orisa）最重要的技能",
+        "* 堅韌防禦（Fortify）能讓歐瑞莎幾乎無法被擊殺，且在效果期間完全無法被控場。使用堅韌防禦（Fortify）時，歐瑞莎可以向前推進、反制控場技能，並迫使敵方隊伍後撤。",
+        "* 堅韌防禦（Fortify）的冷卻時間很長，因此切勿浪費。只有在敵方隊伍必須集火你，且你透過傷害輸出與站位構成實質威脅時，才啟動堅韌防禦（Fortify）。",
+        "* 在仍有護甲時使用",
+        "* 在你還有護甲時使用堅韌防禦（Fortify），可以疊加傷害減免效果（最高可達 50%）。此外，由於此疊加機制，若你在啟動技能時仍有護甲，那麼在堅韌防禦（Fortify）結束後，你更有可能還保有剩餘的護甲值。",
+        "* 如果堅韌防禦（Fortify）結束且你沒有護甲了，快跑！",
+        "* 反制絕招",
+        "* 當敵方擁有如暴雪（Blizzard）、重力噴湧（Graviton Surge）、重力流（Gravitic Flux）、傾盆大雨（Downpour）等類似的暈眩型絕招時，請務必保留堅韌防禦（Fortify）。"
+      ],
+      "content_hash": "2ea17aaf0d48",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:52.448258Z"
+    },
+    "4.4": {
+      "title": "[E]：標槍旋轉（Javelin Spin）",
+      "content": [
+        "**標槍旋轉（Javelin Spin）的使用技巧**",
+        "* 與堅毅（Fortify）交替使用",
+        "* * 請勿在施放堅毅（Fortify）的同時使用標槍旋轉（Javelin Spin）。你需要將這兩項生存工具分開使用，否則敵人將會有很長一段空窗期可以擊殺歐瑞莎（Orisa）。",
+        "* 確保擊殺",
+        "* * 由於標槍旋轉（Javelin Spin）不僅能阻擋敵方的治療與傷害投射物，還能對敵人造成控場效果，因此在收割殘血目標時非常有效。",
+        "* 移動到目標與其支援（Supports）之間，然後啟動標槍旋轉（Javelin Spin）將他們推向你的隊伍。",
+        "* 標槍旋轉（Javelin Spin）無法阻擋什麼？",
+        "* * 無法阻擋光束類攻擊或濺射傷害，也無法在辛梅塔（Symmetra）的哨戒塔（Turrets）落地前將其摧毀。"
+      ],
+      "content_hash": "ff72cdd11289",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:55.309207Z"
+    },
+    "4.5": {
+      "title": "絕招：大地崩擊（Terra Surge）",
+      "content": [
+        "**大地崩擊（Terra Surge）的使用技巧**",
+        "* 我應該蓄力大地崩擊（Terra Surge）多久？",
+        "* 歐瑞莎（Orisa）的絕招需要引導約 3 秒，才能對傷害型與輔助型英雄造成一擊必殺的效果。",
+        "* 無視屏障",
+        "* 猛擊傷害無法被萊因哈特（Reinhardt）的屏障等護盾阻擋。",
+        "* 斷開視線（LoS）可停止傷害",
+        "* 視線（LoS）可用於防止傷害。例如，任何環境建築，或是小美（Mei）與災害（Hazard）的牆體皆可阻擋傷害。",
+        "* 取得高度優勢",
+        "* 若歐瑞莎（Orisa）位於敵人上方（例如使用花瓣平台、跳躍、從高處跳下等），敵人會先被拉至歐瑞莎（Orisa）的高度，接著必須落回地面才能移動。",
+        "* 務必在啟動前跳躍，但若條件允許，請利用運送目標或環境來獲得額外的高度。"
+      ],
+      "content_hash": "77e3a12ec6fd",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:58.307297Z"
+    },
+    "5.1.1": {
+      "title": "防禦協議（Defense Protocol）",
+      "content": [
+        "* 讓大地崩裂（Terra Surge）成為一個還算不錯的保命手段。治療效果能讓你承受更多傷害，並在生命值偏低時救你一命。"
+      ],
+      "content_hash": "a800fc956f7f",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:17:59.879051Z"
+    },
+    "5.1.2": {
+      "title": "機動防禦（Mobile Fortification）",
+      "content": [
+        "* 非常強大，且能在歐瑞莎（Orisa）處於最強勢的狀態時，進一步強化其侵略性打法。會讓敵方隊伍感到難以阻擋。"
+      ],
+      "content_hash": "e111d01adc3e",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:18:00.974100Z"
+    },
+    "5.2.1": {
+      "title": "充能標槍（Charged Javelin）",
+      "content": [
+        "* 整體而言，這是較佳的主要特殊能力（Major Perk）。",
+        "* 在大多數情況下，為了護盾而放棄標槍旋轉（Javelin Spin）並不划算。歐瑞莎本身已經非常耐打，且標槍旋轉（Javelin Spin）能阻擋所有飛行物長達近 2 秒。此外，技能期間與結束後的加速效果，加上其具備的控場能力（CC），都比單純擁有一個護盾來得強大。"
+      ],
+      "content_hash": "f87bd62679a3",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:18:03.236056Z"
+    },
+    "5.2.2": {
+      "title": "防護屏障（Protective Barrier）",
+      "content": [
+        "* 視對戰組合而定",
+        "* 對抗莫加（Mauga）時，這可能被視為較佳的「主要特殊能力（major perks）」，因為它可以用來反制心臟過載（Cardiac Overdrive）。",
+        "* 對抗札莉雅（Zarya）時，每當她使用防護泡泡，就部署屏障來阻擋她的傷害，並減輕必須擊破她屏障且讓她充能的壓力。",
+        "* 理論上，你可以使用屏障來阻擋拉瑪塔（Ramattra）絕招的視野（LoS），並嘗試提早結束該絕招。不過，600 生命值的屏障可能無法存活夠久，不建議過度依賴此技巧。",
+        "* 雙重屏障技巧",
+        "* 當處於防守方，或是敵方隊伍正從重生點返回時，將屏障垂直向上射出。等到它落地時，距離你的下一個屏障冷卻時間僅剩 3 秒。"
+      ],
+      "content_hash": "d341523155c4",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:18:05.202833Z"
+    },
+    "6": {
+      "title": "地圖",
+      "content": [
+        "在偏好消耗陣容的地圖上，歐瑞莎（Orisa）總是不錯的選擇。擁有開闊空間與長且筆直護送路線的目標區域，能發揮她的優勢。由於她非常耐打，在小型地圖上的表現也不差，但這會讓她難以執行拉開距離的戰術計畫。她可以利用遠程傷害來爭奪高地，但她自己無法登上高地，因此在那些有利於機動陣容、且擁有大量高地的地圖上，她會處於劣勢。"
+      ],
+      "content_hash": "d6d6eddaf7ac",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:18:07.154461Z"
+    },
+    "7": {
+      "title": "隊伍陣容搭配",
+      "content": [
+        "將歐瑞莎與其他消耗型英雄搭配，在敵方隊伍靠近你們之前就先將其擊潰。她同時也是一名出色的保護者，因此當敵方隊伍採取側襲或衝鋒戰術時，她能成為對方的眼中釘，阻擋所有控場技能（CC）、將敵人擊退，並確保隊友能安全地進行攻擊。",
+        "由於她的機動性較低，像巴帝斯特和伊拉里這類支援型英雄能輕易地將她的生命值維持在健康狀態。"
+      ],
+      "content_hash": "df2c5b1e1ed3",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:18:09.347975Z"
+    },
+    "8": {
+      "title": "如何反制",
+      "content": [
+        "若要反制歐瑞莎（Orisa），你需要利用她技能冷卻週期中的空檔。如果她的「堅毅（Fortify）」和「標槍旋轉（Javelin Spin）」都在冷卻時間外，她幾乎是殺不死的。如果你看到她同時使用了這兩個技能，她會有一小段容易受到攻擊的空窗期。在她的「堅毅（Fortify）」冷卻時間結束前，迅速發動攻勢。",
+        "為了成功做到這一點，你必須確保在對方使用技能後，自己手中仍保有資源。因此，一旦你看到她啟動「堅毅（Fortify）」，請專注於防守、後撤並保留你的技能冷卻。如此一來，你就能擁有所有必要的手段來懲罰她並贏得會戰。"
+      ],
+      "content_hash": "e10d9988419e",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:18:11.845559Z"
+    }
+  }
+}

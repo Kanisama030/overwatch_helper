@@ -1,0 +1,280 @@
+{
+  "hero_id": "wrecking-ball",
+  "sections": {
+    "1": {
+      "title": "概覽",
+      "content": [
+        "火爆鋼球是一位以干擾為主的坦克，其核心玩法圍繞著機動性、區域控制以及製造混亂，而非單純的前線硬扛。雖然他是一隻可愛的倉鼠，但他絕不會猶豫，隨時準備重擊地面並炸飛整個敵方隊伍。",
+        "在隊伍陣容中，火爆鋼球的主要目標是壓縮敵方的活動空間。無論敵方在哪裡架設陣地，火爆鋼球都會滾進去將他們撞開，並告訴他們這裡不准待。他並非以傳統方式固守陣地，而是透過吸引敵方注意力來讓自己無法被忽視。藉由強迫多名敵人同時應對他，火爆鋼球能有效減輕隊友所承受的壓力。",
+        "他擅長孤立脆弱的敵人並控制戰鬥節奏。只要操作得當，敵方隊伍將永遠無法放鬆或全神貫注於眼前的目標，因為他們永遠不知道火爆鋼球何時會滾進場中。"
+      ],
+      "content_hash": "3f809ff3ca20",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:18.550175Z"
+    },
+    "1.1.1": {
+      "title": "遊玩方式",
+      "content": [
+        "* 在完全投入戰鬥前先進行偵查。在不使用適應性護盾（Adaptive Shield）的情況下滾動穿過敵陣，以了解敵方位置並誘出他們的控場技能。",
+        "* 選擇從敵方後方或側翼進攻的路徑。不要正面滾動或擺盪衝向敵人，因為這會讓他們輕易地阻止你。",
+        "* 飛向空中，投下地雷陣（Minefield），然後向下重擊（Slam）以擊退敵人，並將他們困在你的地雷中。"
+      ],
+      "content_hash": "354c1335295f",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:20.159432Z"
+    },
+    "1.1.2": {
+      "title": "對抗策略",
+      "content": [
+        "* 追蹤他的適應性護盾（Adaptive Shield）。如果他還沒使用，先別急著交出你的暈眩技能，否則他會輕易存活下來。",
+        "* 選擇擁有擊退或暈眩技能的英雄。若沒有良好的控場（CC），要對付火爆鋼球會非常困難。",
+        "* 不要落單。請至少與一名隊友站位在一起，這樣才不會在與火爆鋼球的 1v1 單挑中被抓到。"
+      ],
+      "content_hash": "6ed1a5ea4364",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:22.044462Z"
+    },
+    "2": {
+      "title": "優缺點總結",
+      "content": [
+        "* 優異的機動性",
+        "* 具有干擾能力的英雄",
+        "* 極擅長拖延時間",
+        "* 容易受到控場效果（CC）影響",
+        "* 需要良好的遊戲意識",
+        "* 操作難度高"
+      ],
+      "content_hash": "7a552c695ca3",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:23.670912Z"
+    },
+    "3.1.1": {
+      "title": "無與倫比的機動性",
+      "content": [
+        "火爆鋼球能夠非常快速地跨越極長的距離。抓鉤（Grappling Claw）的冷卻時間也很短，因此他可以頻繁地變換位置。在地圖上，幾乎沒有火爆鋼球無法快速抵達的地方。"
+      ],
+      "content_hash": "fbc047bb174d",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:25.670499Z"
+    },
+    "3.1.2": {
+      "title": "干擾者（Disruptive）",
+      "content": [
+        "擊退與擊飛效果能破壞敵方的站位，並強迫他們進入不利的區域。火爆鋼球（Wrecking Ball）可以將整支敵隊從高處擊落，而當他們回到原位時，他的抓鉤（Grapple）肯定又已經冷卻完畢了。"
+      ],
+      "content_hash": "ae9776cb8328",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:27.299938Z"
+    },
+    "3.1.3": {
+      "title": "拖延",
+      "content": [
+        "適應性護盾（Adaptive Shield）、生命包、快速移動以及旋轉致勝。在拖延目標點並為隊友爭取時間返回目標點方面，沒有人比火爆鋼球更出色。他非常難以被擊殺，且經常能浪費敵人大量的時間。"
+      ],
+      "content_hash": "e081668d1047",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:28.554409Z"
+    },
+    "3.2.1": {
+      "title": "容易受到控場（Crowd Control）影響",
+      "content": [
+        "除非火爆鋼球（Wrecking Ball）正在使用適應性護盾（Adaptive Barrier），否則他在面對控場（Crowd Control）時幾乎沒有什麼反制手段，只能硬扛傷害。若對手隊伍中有多名具備暈眩技能的英雄，他將會非常難以發揮任何作用。"
+      ],
+      "content_hash": "93c3a5ac3c96",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:30.205251Z"
+    },
+    "3.2.2": {
+      "title": "仰賴遊戲意識",
+      "content": [
+        "火爆鋼球（Wrecking Ball）的殺傷力並不足以讓他單槍匹馬輾壓整支隊伍。相反地，他必須敏銳地洞察敵方的意圖，並設法干擾或阻止他們的計畫。對於火爆鋼球的玩家來說，追蹤敵方的冷卻時間（cooldowns）與位置也至關重要。你需要掌握的資訊非常多，如果你只是漫無目的地擺盪（swinging）和重擊（slamming），那麼你將會輸掉許多場比賽。"
+      ],
+      "content_hash": "d518ba2a63c5",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:31.658287Z"
+    },
+    "3.2.3": {
+      "title": "小眾機制技巧",
+      "content": [
+        "若想在火爆鋼球（Wrecking Ball）的操作上達到頂尖水準，你需要花費大量時間學習他專屬的技術。牆面跳躍（Wall jumps）、雙重撞擊（double boops）、彈弓射擊（sling shots）以及抓鉤收回（grapple retraction）等，僅僅是你為了發揮他技能組最大效益所必須學習的幾項技巧。此外，你還需要具備敏捷的反應速度來跟上他的移動節奏，並擁有出色的追蹤瞄準能力，以便在將敵人撞飛或重擊後進行收頭。"
+      ],
+      "content_hash": "72d64e2cb3bf",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:34.082396Z"
+    },
+    "4.1": {
+      "title": "主要攻擊：四管加農砲（Quad Cannons）",
+      "content": [
+        "**關於**四管加農砲（Quad Cannons）的技巧",
+        "* 你可以進行一些遠程騷擾來分散敵方隊伍的注意力，並累積一些絕招能量，但它的遠程傷害表現並不理想。",
+        "* 主要攻擊的主要用途是在你使用滾球（Roll）和重力墜擊（Piledriver）之後進行追擊。在將敵人的生命值壓低後，利用主要攻擊和近戰攻擊來收掉剩餘的生命值。"
+      ],
+      "content_hash": "6a8c5f27402f",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:36.072709Z"
+    },
+    "4.2": {
+      "title": "次要攻擊：抓鉤爪（Grappling Claw）",
+      "content": [
+        "**抓鉤爪（Grappling Claw）的使用技巧**",
+        "* 使用抓鉤爪（Grappling Claw）來前往高處、安全地偵查，並創造出敵人難以預測的進攻角度。",
+        "* 不要太早強行發動攻擊。請記住，你的移動速度比隊伍中任何人都快。避免在隊友抵達前就獨自衝向整個敵方隊伍而送頭。",
+        "* 在進行決鬥時，你可以將抓鉤爪（Grappling Claw）射向頭頂上方的任何位置並收回，以取得施展重擊（Slam）所需的高度。"
+      ],
+      "content_hash": "35369760746b",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:37.979682Z"
+    },
+    "4.3": {
+      "title": "[SHIFT]：翻滾（Roll）",
+      "content": [
+        "翻滾（Roll）的技巧",
+        "* 將翻滾（Roll）視為你的主要移動工具，而不是鉤爪（Grappling Claw）。使用翻滾（Roll）來重新定位或發起進攻，可以讓你保留鉤爪（Grappling Claw）的冷卻時間。",
+        "* 避免長時間暴露在外的轉點；務必選擇最短路徑前往掩體，以免在翻滾（Roll）移動時被擊殺。"
+      ],
+      "content_hash": "9f493b139756",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:39.435092Z"
+    },
+    "4.4": {
+      "title": "[蹲下]：重力墜擊（Pile Driver）",
+      "content": [
+        "重力墜擊（Pile Driver）的使用技巧",
+        "* 最好的使用時機是在偵查並確認敵方陣容後。除非你確定卡西迪（Cassidy）或安娜（Ana）剛用掉他們的控場技能，否則不要對著他們使用重力墜擊（Pile Driver）。",
+        "* 可以從高處邊緣發動。火爆鋼球（Wrecking Ball）只需要與地面保持足夠的距離即可觸發重力墜擊（Pile Driver），之後他可以移動回較高的地形來進行實際的撞擊。"
+      ],
+      "content_hash": "973528287b04",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:41.539811Z"
+    },
+    "4.5": {
+      "title": "[E]：適應性護盾（Adaptive Shield）",
+      "content": [
+        "**適應性護盾（Adaptive Shield）的使用技巧**",
+        "* 產生的護盾量會根據附近的敵人數量而定。請確保在開始戰鬥且靠近敵人時使用，而不是在交戰前就先開。",
+        "* 如果沒有立即的死亡威脅（例如同時被多個控場技能命中，或是生命值極低），請保留護盾，並依靠走位、醫護兵（Medic）的治療以及掩體來生存。",
+        "* 務必嘗試在不交出適應性護盾（Adaptive Shield）的情況下，逼出敵方最強的控場技能；這樣一來，你就可以先滾走，並在敵方技能冷卻完畢前，帶著護盾重新投入戰鬥。"
+      ],
+      "content_hash": "826c6738e374",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:43.782774Z"
+    },
+    "4.6": {
+      "title": "絕招：地雷陣（Minefield）",
+      "content": [
+        "**地雷陣（Minefield）的使用技巧**",
+        "* 透過從高處滾落或擺盪進入空中，施放地雷陣（Minefield），接著使用打樁機（Piledriver）將敵人擊飛，讓他們保持在地雷陣（Minefield）附近。",
+        "* 目標區域是你應該放置地雷的主要區域。",
+        "* 將地雷投放在敵方前線後方，以阻斷他們的撤退路線，並將他們與隊伍的其他成員隔開。"
+      ],
+      "content_hash": "7ca56bfeb47d",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:45.604753Z"
+    },
+    "5.1.1": {
+      "title": "壓路機（Steamroller）",
+      "content": [
+        "* 影響力不大，因為對戰士（Bruiser）額外造成的 60 點傷害並不會帶來顯著的差異。此外，戰士（Bruiser）也不該是你的主要攻擊目標。"
+      ],
+      "content_hash": "4f4d3b7189cf",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:47.198393Z"
+    },
+    "5.1.2": {
+      "title": "多重球體（Multi-Ball）",
+      "content": [
+        "* 提供額外的區域控制能力以及針對逃脫技能的反制手段。舉例來說，如果你試圖對莫伊拉（Moira）使用重擊（Slam）並投下地雷，但對方使用消散（Fade）逃脫，你可以追擊他們，接著投下額外的地雷將其困住並擊殺。",
+        "* 如果能將抓鉤爪（Grappling Claw）保留到大絕招之後使用，效果會更好。利用高處地形滾入戰場，而不是使用擺盪，這樣你就能立即進行追擊。"
+      ],
+      "content_hash": "38a06624b8b3",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:49.094295Z"
+    },
+    "5.2.1": {
+      "title": "滯空時間（Hang Time）",
+      "content": [
+        "* 對付像禪亞塔（Zenyatta）或半藏（Hanzo）這類機動性較差的脆弱英雄時表現優異。"
+      ],
+      "content_hash": "b9050db7a1b2",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:50.428000Z"
+    },
+    "5.2.2": {
+      "title": "適應性屏障（Adaptive Barrier）",
+      "content": [
+        "* 非常強大，因為它能讓你直接反制控場技能，例如攔路豬的鎖鏈鉤（Chain Hook）和安娜的睡眠鏢（Sleep Dart）。"
+      ],
+      "content_hash": "56cc8642bff5",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:51.917441Z"
+    },
+    "6": {
+      "title": "地圖",
+      "content": [
+        "由於火爆鋼球可以使用抓鉤（Grappling Claw）和滾動（Roll）來進行垂直與水平移動，因此他在高地地形以及較平坦的地圖上都有出色的表現。理想情況下，地圖中若有高地或邊緣平台，能讓他用來施展重力墜擊（Piledriver）或悄悄接近目標，效果會更好。",
+        "當敵方隊伍佔據高地時，火爆鋼球是衝入敵陣並將他們擊落的最佳英雄。在平坦的地形上，你的目標應該是進行分割與干擾：滾入敵陣、誘騙出你可以閃避的冷卻技能，然後在幾秒鐘後回來，配合護盾全力進攻以確保擊殺。"
+      ],
+      "content_hash": "13c1c63fc198",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:53.946442Z"
+    },
+    "7": {
+      "title": "隊伍陣容搭配",
+      "content": [
+        "與火爆鋼球搭配的英雄需要具備「自我生存能力（self-sufficient）」，或是與能保護他們的隊友搭檔。與大多數其他坦克不同，他無法為隊友提供直接的保護；如果你選擇了像禪亞塔這樣的英雄，請做好獨自面對側襲者（flanker）的心理準備。",
+        "在進攻方面，有兩種類型的英雄最適合與火爆鋼球搭配。首先是同樣具備突擊能力的英雄，例如迴音，她可以利用黏性炸彈（Sticky Bombs）和聚焦光束（Focusing Beam）的連招，配合他的重擊來瞬間擊殺幾乎任何目標。另一種選擇是遠程英雄，例如艾西或索潔恩，她們可以狙擊被火爆鋼球以重力墜擊（Piledriver）震飛到空中的敵人。",
+        "只要你保持耐心並做好準備，火爆鋼球就能為你創造輕鬆爆頭的機會。"
+      ],
+      "content_hash": "65ff4d2088df",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:56.178821Z"
+    },
+    "8": {
+      "title": "如何反制",
+      "content": [
+        "火爆鋼球是《鬥陣特攻》中最擅長拖延時間的英雄之一。適應性護盾（Adaptive Shield）加上他極高的機動性，使他難以被擊殺。要解決他最簡單的方法就是與隊友配合進行連續控場（CC）。如果你能用瑞稀（Mizuki）的束縛之鏈（Binding Chain）命中他，接著再接上席格馬（Sigma）的吸積（Accretion），他基本上就死定了。擊退效果也能有效中斷他的衝刺動能，並導致他的重擊落空。",
+        "他對於飛行單位幾乎沒有反制手段，因此你可以選擇法拉（Pharah）或火箭貓（Jetpack Cat）等英雄來應對。",
+        "如果你使用的英雄沒有暈眩技能，最重要的一點就是保留你的冷卻技能，直到看見他使用了適應性護盾（Adaptive Shield）。如果他的護盾還在，幾乎不可能殺掉他，而你的冷卻技能也會因此白白浪費。"
+      ],
+      "content_hash": "6398881659ea",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:58.610095Z"
+    },
+    "8.2": {
+      "title": "特定英雄剋制名單",
+      "content": [
+        "* 瑞稀（Mizuki）",
+        "* 席格馬（Sigma）",
+        "* 法拉（Pharah）",
+        "* 火箭貓（Jetpack Cat）"
+      ],
+      "content_hash": "9afd7326dfd2",
+      "prompt_version": "v2",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-19T17:32:59.966310Z"
+    }
+  }
+}
