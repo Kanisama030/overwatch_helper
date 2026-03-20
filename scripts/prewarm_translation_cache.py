@@ -9,17 +9,16 @@ from dotenv import load_dotenv
 
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-BACKEND_DIR = os.path.join(BASE_DIR, "backend")
-sys.path.append(BACKEND_DIR)
+TRANSLATION_CACHE_DIR = os.path.join(BASE_DIR, "data", "cache", "translations")
 
-from services.cache_service import CacheService
-from services.glossary_service import GlossaryService
-from services.translation_service import TranslationService
+from translation_services.cache_service import CacheService
+from translation_services.glossary_service import GlossaryService
+from translation_services.translation_service import TranslationService
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="批次翻譯所有英雄資料並預熱 backend/cache",
+        description="批次翻譯所有英雄資料並輸出靜態翻譯檔",
     )
     parser.add_argument(
         "--heroes",
@@ -35,6 +34,16 @@ def parse_args() -> argparse.Namespace:
         "--continue-on-error",
         action="store_true",
         help="單一英雄失敗時繼續處理下一位英雄",
+    )
+    parser.add_argument(
+        "--output-dir",
+        default=os.path.join(BASE_DIR, "data", "app", "i18n", "zh-TW"),
+        help="靜態翻譯輸出目錄（預設 data/app/i18n/zh-TW）",
+    )
+    parser.add_argument(
+        "--clear-output",
+        action="store_true",
+        help="開始前先清空輸出目錄中的舊 JSON 檔",
     )
     return parser.parse_args()
 
@@ -61,7 +70,7 @@ def build_services() -> TranslationService:
     glossary_service = GlossaryService(
         mapping_path=os.path.join(BASE_DIR, "data", "overwatch_mapping.json")
     )
-    cache_service = CacheService(cache_dir=os.path.join(BACKEND_DIR, "cache"))
+    cache_service = CacheService(cache_dir=TRANSLATION_CACHE_DIR)
     return TranslationService(
         api_key=api_key,
         model_name="gemini-3.1-flash-lite-preview",
@@ -75,7 +84,15 @@ async def main() -> int:
     hero_filter = parse_hero_filter(args.heroes)
     heroes = load_master_data()
     translation_service = build_services()
-    cache_dir = os.path.join(BACKEND_DIR, "cache")
+    output_dir = os.path.abspath(args.output_dir)
+    os.makedirs(output_dir, exist_ok=True)
+    if args.clear_output:
+        for filename in os.listdir(output_dir):
+            if filename.lower().endswith(".json"):
+                try:
+                    os.remove(os.path.join(output_dir, filename))
+                except OSError:
+                    pass
 
     planned = []
     for hero in heroes:
@@ -99,16 +116,18 @@ async def main() -> int:
     failed: List[str] = []
 
     for idx, (hero_id, hero_data) in enumerate(planned, start=1):
-        cache_path = os.path.join(cache_dir, f"{hero_id}.json")
-        if args.skip_existing and os.path.exists(cache_path):
+        output_path = os.path.join(output_dir, f"{hero_id}.json")
+        if args.skip_existing and os.path.exists(output_path):
             skip_count += 1
-            print(f"[{idx}/{len(planned)}] ⏭️  略過 {hero_id}（已有快取）")
+            print(f"[{idx}/{len(planned)}] ⏭️  略過 {hero_id}（已有輸出）")
             continue
 
         print(f"[{idx}/{len(planned)}] 🔄 翻譯 {hero_id} ...")
         try:
             result = await translation_service.translate_hero(hero_id, hero_data, "zh-TW")
             section_count = len(result.get("sections", {}))
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(result, f, ensure_ascii=False, indent=2)
             ok_count += 1
             print(f"[{idx}/{len(planned)}] ✅ 完成 {hero_id}（sections: {section_count}）")
         except Exception as e:

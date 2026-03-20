@@ -45,6 +45,26 @@ def parse_args():
         action="store_true",
         help="額外執行 Fandom perks 更新（Cloudflare + Gemini）",
     )
+    parser.add_argument(
+        "--with-translations",
+        action="store_true",
+        help="更新流程末尾執行翻譯預生成（data/app/i18n/zh-TW）",
+    )
+    parser.add_argument(
+        "--translation-heroes",
+        default="",
+        help="搭配 --with-translations 使用，只處理指定英雄（逗號分隔）",
+    )
+    parser.add_argument(
+        "--translation-skip-existing",
+        action="store_true",
+        help="搭配 --with-translations 使用，若輸出檔存在則略過",
+    )
+    parser.add_argument(
+        "--translation-continue-on-error",
+        action="store_true",
+        help="搭配 --with-translations 使用，單一英雄失敗時繼續",
+    )
     return parser.parse_args()
 
 
@@ -67,6 +87,19 @@ def run_build_app_data():
     result = subprocess.run([sys.executable, os.path.join(os.path.dirname(__file__), "build_app_data.py")])
     if result.returncode != 0:
         print("⚠️  build_app_data.py 執行失敗，但資料更新已完成")
+
+def run_prewarm_translation_cache(args):
+    print("\n--- [額外] 產生靜態翻譯檔（prewarm_translation_cache.py）---")
+    cmd = [sys.executable, os.path.join(os.path.dirname(__file__), "prewarm_translation_cache.py")]
+    if args.translation_heroes:
+        cmd.extend(["--heroes", args.translation_heroes])
+    if args.translation_skip_existing:
+        cmd.append("--skip-existing")
+    if args.translation_continue_on_error:
+        cmd.append("--continue-on-error")
+    result = subprocess.run(cmd)
+    if result.returncode != 0:
+        print("⚠️  prewarm_translation_cache.py 執行失敗，將保留既有翻譯檔")
 
 
 def run_update_fandom_perks():
@@ -100,6 +133,8 @@ async def main():
         if args.update_fandom_perks:
             run_update_fandom_perks()
         run_build_app_data()
+        if args.with_translations:
+            run_prewarm_translation_cache(args)
         
         print("\n✨ 全部更新流程已完成！")
         return
@@ -126,6 +161,8 @@ async def main():
     if args.update_fandom_perks:
         run_update_fandom_perks()
     run_build_app_data()
+    if args.with_translations:
+        run_prewarm_translation_cache(args)
     
     print("\n✨ 全部更新流程已完成！")
 

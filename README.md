@@ -52,6 +52,11 @@ python run_build.py
 #   2. 執行 scripts/build_app_data.py 產生衍生資料
 #   3. 同步 data/app/* 與 data/assets/* 到 frontend/public/data/
 
+# 若要同時預生成繁中靜態翻譯檔（每英雄一檔）：
+python run_build.py --with-translations --translation-skip-existing
+# 會額外執行 scripts/prewarm_translation_cache.py
+# 並輸出到 data/app/i18n/zh-TW，再同步到 frontend/public/data/i18n/zh-TW
+
 # 接著 build 前端
 cd frontend
 npm run build
@@ -87,6 +92,12 @@ conda run -n overwatch python scripts/update.py
 # 完成後，記得同步資料到前端並重建
 python run_build.py
 cd frontend && npm run build
+```
+
+### 更新流程含翻譯預熱（可選）
+
+```bash
+conda run -n overwatch python scripts/update.py --with-translations --translation-skip-existing
 ```
 
 ### Cloudflare 設定（Mobalytics 新方法）
@@ -203,6 +214,12 @@ conda run -n overwatch python scripts/preview_gemini_enrichment.py
 ```bash
 conda run -n overwatch python scripts/preview_gemini_enrichment.py --heroes domina,sigma,tracer,echo,mercy
 ```
+
+## 翻譯模式（第一階段：靜態化）
+
+- 前端 `zh-TW` 翻譯目前改為讀取靜態檔：`/data/i18n/zh-TW/{heroId}.json`
+- backend 翻譯 API 程式碼保留作為過渡與回退參考，預設不需啟動部署
+- 若某英雄翻譯檔缺失，前端會自動降級顯示英文原文內容（不影響頁面使用）
 
 ## 資料格式
 

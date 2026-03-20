@@ -1,13 +1,14 @@
 @echo off
-REM 啟動 Overwatch Helper 翻譯 API 服務
+REM 已改為純靜態翻譯流程（不再啟動 API）
 
 echo ========================================
-echo Overwatch Helper Translation API
+echo Overwatch Helper Static Translation
 echo ========================================
 echo.
-echo Starting FastAPI server on http://127.0.0.1:8888
-echo Press Ctrl+C to stop the server
+echo Backend API 執行層已移除。
+echo 目前請改用預生成靜態翻譯檔流程：
+echo   python run_build.py --with-translations --translation-skip-existing
 echo.
 
-cd /d "%~dp0backend"
-C:\Users\Kani\miniconda3\Scripts\conda.exe run -n overwatch uvicorn main:app --host 127.0.0.1 --port 8888 --reload
+cd /d "%~dp0"
+C:\Users\Kani\miniconda3\Scripts\conda.exe run -n overwatch python run_build.py --with-translations --translation-skip-existing
