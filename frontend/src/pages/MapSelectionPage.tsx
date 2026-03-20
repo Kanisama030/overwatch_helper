@@ -38,7 +38,7 @@ function MapCard({
     >
       {/* Map image */}
       <img
-        src={`./maps/${map.id}.jpg`}
+        src={`/data/assets/maps/${map.id}.jpg`}
           alt={mapName}
         className="absolute inset-0 w-full h-full object-cover opacity-60 group-hover:opacity-80 transition-opacity duration-300"
         onError={e => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }}

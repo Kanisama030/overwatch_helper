@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import argparse
 from urllib.parse import urlparse
 
 import requests
@@ -70,6 +71,7 @@ def read_json(path: str):
 
 
 def write_json(path: str, data):
+    os.makedirs(os.path.dirname(os.path.abspath(path)), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -103,25 +105,31 @@ def parse_heroes(html: str):
     return result
 
 
-def download_hero_images(hero_rows, output_dir: str):
+def download_hero_images(hero_rows, output_dir: str, skip_existing: bool):
     os.makedirs(output_dir, exist_ok=True)
     manifest = []
     for hero in hero_rows:
         hero_id = hero["id"]
         image_url = hero.get("_image", "")
         local_rel = ""
+        status = "missing"
         if image_url:
             parsed = urlparse(image_url)
             ext = os.path.splitext(parsed.path)[1].lower() or ".png"
             filename = f"{hero_id}{ext}"
             local_path = os.path.join(output_dir, filename)
             try:
-                r = requests.get(image_url, headers=HEADERS, timeout=30)
-                r.raise_for_status()
-                with open(local_path, "wb") as f:
-                    f.write(r.content)
+                if skip_existing and os.path.exists(local_path):
+                    status = "skipped"
+                else:
+                    r = requests.get(image_url, headers=HEADERS, timeout=30)
+                    r.raise_for_status()
+                    with open(local_path, "wb") as f:
+                        f.write(r.content)
+                    status = "ok"
                 local_rel = f"data/assets/heroes/{filename}"
             except Exception as e:
+                status = "failed"
                 print(f"下載英雄縮圖失敗 {hero_id}: {e}")
 
         manifest.append(
@@ -131,6 +139,7 @@ def download_hero_images(hero_rows, output_dir: str):
                 "zh": hero["zh"],
                 "image_url": image_url,
                 "local_path": local_rel,
+                "status": status,
             }
         )
 
@@ -160,7 +169,7 @@ def fetch_overfast_maps() -> dict:
     return {item["key"]: item["screenshot"] for item in resp.json()}
 
 
-def download_map_images(map_rows: list, screenshot_by_key: dict, output_dir: str) -> list:
+def download_map_images(map_rows: list, screenshot_by_key: dict, output_dir: str, skip_existing: bool) -> list:
     """依照 mapping 地圖清單從 OverFast 下載縮圖，回傳 manifest 清單。"""
     os.makedirs(output_dir, exist_ok=True)
     manifest = []
@@ -173,10 +182,14 @@ def download_map_images(map_rows: list, screenshot_by_key: dict, output_dir: str
             filename = f"{map_id}.jpg"
             local_path = os.path.join(output_dir, filename)
             try:
-                r = requests.get(image_url, headers=HEADERS, timeout=30)
-                r.raise_for_status()
-                with open(local_path, "wb") as f:
-                    f.write(r.content)
+                if skip_existing and os.path.exists(local_path):
+                    status = "skipped"
+                else:
+                    r = requests.get(image_url, headers=HEADERS, timeout=30)
+                    r.raise_for_status()
+                    with open(local_path, "wb") as f:
+                        f.write(r.content)
+                    status = "ok"
                 local_rel = f"data/assets/maps/{filename}"
             except Exception as e:
                 print(f"下載地圖縮圖失敗 {map_id}: {e}")
@@ -199,7 +212,37 @@ def download_map_images(map_rows: list, screenshot_by_key: dict, output_dir: str
     return manifest
 
 
+def build_skipped_map_manifest(map_rows: list, output_dir: str) -> list:
+    os.makedirs(output_dir, exist_ok=True)
+    manifest = []
+    for m in map_rows:
+        map_id = m["id"]
+        filename = f"{map_id}.jpg"
+        local_path = os.path.join(output_dir, filename)
+        manifest.append(
+            {
+                "id": map_id,
+                "en": m["en"],
+                "zh": m["zh"],
+                "mode": m["mode"],
+                "source": "overfast",
+                "image_url": "",
+                "local_path": f"data/assets/maps/{filename}" if os.path.exists(local_path) else "",
+                "status": "skipped",
+            }
+        )
+    return manifest
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="更新 mapping 與 hero/map 資產 manifest")
+    parser.add_argument("--skip-existing", action="store_true", help="下載圖片時若檔案已存在則略過")
+    parser.add_argument("--update-map-images", action="store_true", help="更新地圖圖片（預設不更新）")
+    return parser.parse_args()
+
+
 def main():
+    args = parse_args()
     base_dir = os.path.dirname(__file__)
     data_dir = os.path.join(base_dir, "..", "data")
     mapping_path = os.path.join(data_dir, "overwatch_mapping.json")
@@ -250,7 +293,7 @@ def main():
     heroes = [merged_by_id[hid] for hid in ordered_ids]
     maps = build_maps(existing_maps)
 
-    manifest = download_hero_images(heroes, hero_assets_dir)
+    manifest = download_hero_images(heroes, hero_assets_dir, skip_existing=args.skip_existing)
     write_json(hero_manifest_path, manifest)
 
     for hero in heroes:
@@ -261,17 +304,22 @@ def main():
     write_json(mapping_path, mapping)
 
     # 下載地圖縮圖
-    print("\n--- 下載地圖縮圖 (OverFast API) ---")
-    screenshot_by_key = fetch_overfast_maps()
-    map_manifest = download_map_images(maps, screenshot_by_key, map_assets_dir)
+    if args.update_map_images:
+        print("\n--- 下載地圖縮圖 (OverFast API) ---")
+        screenshot_by_key = fetch_overfast_maps()
+        map_manifest = download_map_images(maps, screenshot_by_key, map_assets_dir, skip_existing=args.skip_existing)
+    else:
+        print("\n--- 略過地圖縮圖更新（可用 --update-map-images 啟用）---")
+        map_manifest = build_skipped_map_manifest(maps, map_assets_dir)
     write_json(map_manifest_path, map_manifest)
     ok_count = sum(1 for m in map_manifest if m["status"] == "ok")
-    fail_count = sum(1 for m in map_manifest if m["status"] != "ok")
+    skip_count = sum(1 for m in map_manifest if m["status"] == "skipped")
+    fail_count = sum(1 for m in map_manifest if m["status"] not in {"ok", "skipped"})
 
     print(f"✅ 已更新英雄資料: {len(heroes)} 位")
     print(f"✅ 已更新地圖資料: {len(maps)} 張")
     print(f"✅ 已下載英雄縮圖並輸出清單: {hero_manifest_path}")
-    print(f"✅ 地圖縮圖: {ok_count} 張成功, {fail_count} 張失敗/缺少")
+    print(f"✅ 地圖縮圖: {ok_count} 張成功, {skip_count} 張略過, {fail_count} 張失敗/缺少")
     print(f"✅ 已輸出地圖縮圖清單: {map_manifest_path}")
 
 

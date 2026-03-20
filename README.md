@@ -81,23 +81,21 @@ npm run build
 
 ---
 
-## 資料更新（完整流程）
+## 資料更新（主流程 / 資產流程）
 
 ```bash
-# 執行爬蟲 + 整合 + 衍生資料（需 conda 環境）
-# 預設使用 Cloudflare Markdown 方法抓 Mobalytics
-# 已包含自動執行 build_app_data.py
-conda run -n overwatch python scripts/update.py
+# 主流程（高頻）：Mobalytics + Blizzard +（可選）Gemini 補齊 +（可選）翻譯 + build_app_data
+conda run -n overwatch python scripts/update_data.py
 
 # 完成後，記得同步資料到前端並重建
 python run_build.py
 cd frontend && npm run build
 ```
 
-### 更新流程含翻譯預熱（可選）
+### 主流程含補齊與翻譯（可選）
 
 ```bash
-conda run -n overwatch python scripts/update.py --with-translations --translation-skip-existing
+conda run -n overwatch python scripts/update_data.py --with-enrichment --with-translations
 ```
 
 ### Cloudflare 設定（Mobalytics 新方法）
@@ -110,33 +108,37 @@ set CLOUDFLARE_API_TOKEN=你的_api_token
 ### 切回舊方法（Playwright）
 
 ```bash
-conda run -n overwatch python scripts/update.py --mobalytics-method playwright
+conda run -n overwatch python scripts/update_data.py --mobalytics-method playwright
 ```
 
 ### 只測單一英雄（Smoke Test）
 
 ```bash
-conda run -n overwatch python scripts/update.py --mobalytics-smoke-hero roadhog
+conda run -n overwatch python scripts/update_data.py --mobalytics-smoke-hero roadhog
 ```
 
-### 更新 Fandom Perks（名稱 + 說明 + 圖片）
+### 資產流程（低頻）
+
+```bash
+# 預設：skip-existing=true，且不更新 map images
+conda run -n overwatch python scripts/update_assets.py --skip-existing
+
+# 手動更新 map images
+conda run -n overwatch python scripts/update_assets.py --update-map-images --skip-existing
+```
+
+### 更新 Fandom Perks（名稱 + 說明 + 圖片，可單獨執行）
 
 ```bash
 # 需先設定 CLOUDFLARE_ACCOUNT_ID、CLOUDFLARE_API_TOKEN、GEMINI_API_KEY
 conda run -n overwatch python scripts/update_perks_from_fandom_cloudflare.py
 ```
 
-整合到完整更新流程（可選）：
-
-```bash
-conda run -n overwatch python scripts/update.py --update-fandom-perks
-```
-
 ### Markdown 留存位置
 
 Mobalytics 原始 markdown 會留存於 `data/raw/mobalytics_markdown/`。
 
-## Gemini 補齊腳本（獨立，不整合 update.py）
+## Gemini 補齊腳本（獨立，可由 update_data.py --with-enrichment 觸發）
 
 可用 Gemini 讀取 `overwatch_master.json` 的指定章節，補齊：
 
@@ -171,7 +173,7 @@ pip install google-genai
 先建議跑完整更新流程，再跑補齊腳本：
 
 ```bash
-conda run -n overwatch python scripts/update.py
+conda run -n overwatch python scripts/update_data.py
 conda run -n overwatch python scripts/enrich_master_with_gemini.py --only-missing
 ```
 
@@ -202,7 +204,7 @@ conda run -n overwatch python scripts/enrich_master_with_gemini.py --force
 若你想先人工比對原始內容與 AI 推論結果，可使用預覽腳本（不會寫回 `overwatch_master.json`）：
 
 ```bash
-conda run -n overwatch python scripts/preview_gemini_enrichment.py
+conda run -n overwatch python scripts/tools/preview_gemini_enrichment.py
 ```
 
 預設會測 5 位英雄：`domina,zarya,ana,roadhog,kiriko`，輸出檔案：
@@ -212,8 +214,13 @@ conda run -n overwatch python scripts/preview_gemini_enrichment.py
 自訂英雄（逗號分隔）：
 
 ```bash
-conda run -n overwatch python scripts/preview_gemini_enrichment.py --heroes domina,sigma,tracer,echo,mercy
+conda run -n overwatch python scripts/tools/preview_gemini_enrichment.py --heroes domina,sigma,tracer,echo,mercy
 ```
+
+## tools / legacy
+
+- `scripts/tools/`：日常手動工具（例如 `preview_gemini_enrichment.py`、`check_perk_duplicates.py`）。
+- `scripts/tools/legacy/`：舊方法與備援工具（預設不建議使用）。
 
 ## 翻譯模式（第一階段：靜態化）
 

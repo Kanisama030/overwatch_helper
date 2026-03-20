@@ -17,7 +17,7 @@ if %ERRORLEVEL% NEQ 0 (
 
 :: 執行更新腳本
 echo [2/3] 正在啟動 Python 更新作業...
-python update.py
+python update_data.py
 if %ERRORLEVEL% NEQ 0 (
     echo [ERROR] 更新過程中出錯。
     pause

@@ -19,6 +19,8 @@ DATA_APP_DIR = os.path.join(BASE_DIR, "data", "app")
 FRONTEND_PUBLIC_DATA_DIR = os.path.join(BASE_DIR, "frontend", "public", "data")
 DATA_ASSETS_DIR = os.path.join(BASE_DIR, "data", "assets")
 FRONTEND_PUBLIC_ASSETS_DIR = os.path.join(BASE_DIR, "frontend", "public", "data", "assets")
+LEGACY_HEROES_DIR = os.path.join(BASE_DIR, "frontend", "public", "heroes")
+LEGACY_MAPS_DIR = os.path.join(BASE_DIR, "frontend", "public", "maps")
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="建置前端資料並同步到 frontend/public/data")
@@ -112,6 +114,12 @@ def main():
             shutil.rmtree(FRONTEND_PUBLIC_ASSETS_DIR)
         shutil.copytree(DATA_ASSETS_DIR, FRONTEND_PUBLIC_ASSETS_DIR)
         print("  ✓ 已同步 data/assets -> frontend/public/data/assets")
+
+    # 清理舊版圖片副本目錄，避免前端仍依賴舊路徑
+    for legacy_dir in (LEGACY_HEROES_DIR, LEGACY_MAPS_DIR):
+        if os.path.isdir(legacy_dir):
+            shutil.rmtree(legacy_dir)
+            print(f"  ✓ 已移除遺留目錄 {os.path.relpath(legacy_dir, BASE_DIR)}")
     
     print(f"\n✅ 建置完成！共同步 {files_copied} 個檔案、{dirs_synced} 個目錄")
     print(f"\n提示：資料已準備好。若要重建前端，請執行：")

@@ -210,7 +210,7 @@ export function HeroSelectionPage() {
             style={{ background: 'linear-gradient(135deg, #3d2a10, #221910)', border: '1px solid rgba(242,127,13,0.3)' }}>
             {/* Map background image */}
             <img
-              src={`./maps/${map.id}.jpg`}
+              src={`/data/assets/maps/${map.id}.jpg`}
               alt={map.en}
               className="absolute inset-0 w-full h-full object-cover opacity-20"
               onError={e => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }}

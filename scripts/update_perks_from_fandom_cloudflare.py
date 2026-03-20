@@ -41,6 +41,7 @@ def parse_args():
     parser.add_argument("--assets-dir", default=DEFAULT_ASSETS_DIR, help="perks 圖片下載目錄")
     parser.add_argument("--manifest-path", default=DEFAULT_MANIFEST_PATH, help="perks 圖片 manifest 路徑")
     parser.add_argument("--skip-image-download", action="store_true", help="只更新 mapping，不下載圖片")
+    parser.add_argument("--skip-existing", action="store_true", help="下載圖片時若檔案已存在則略過")
     parser.add_argument("--dry-run", action="store_true", help="僅預覽，不寫回 mapping 與 manifest")
     return parser.parse_args()
 
@@ -445,7 +446,7 @@ def pick_ext_from_url(url):
     return ext if ext in {".png", ".jpg", ".jpeg", ".webp", ".gif"} else ".png"
 
 
-def download_perk_images(mapping, assets_dir):
+def download_perk_images(mapping, assets_dir, skip_existing=False):
     os.makedirs(assets_dir, exist_ok=True)
     manifest = []
     for hero in mapping.get("heroes", []):
@@ -470,13 +471,16 @@ def download_perk_images(mapping, assets_dir):
                     filename = f"{hero_id}_{group_slug}_{slugify_filename(perk_name)}{ext}"
                     abs_path = os.path.join(assets_dir, filename)
                     try:
-                        resp = requests.get(image_url, headers=HEADERS, timeout=30)
-                        resp.raise_for_status()
-                        with open(abs_path, "wb") as f:
-                            f.write(resp.content)
+                        if skip_existing and os.path.exists(abs_path):
+                            status = "skipped"
+                        else:
+                            resp = requests.get(image_url, headers=HEADERS, timeout=30)
+                            resp.raise_for_status()
+                            with open(abs_path, "wb") as f:
+                                f.write(resp.content)
+                            status = "ok"
                         local_path = f"data/assets/perks/{filename}"
                         perk["image"] = local_path
-                        status = "ok"
                     except Exception as e:
                         status = f"failed: {e}"
                 manifest.append(
@@ -563,9 +567,10 @@ def main():
     manifest = []
     if not args.skip_image_download:
         print("開始下載 perks 圖片...")
-        manifest = download_perk_images(mapping, args.assets_dir)
+        manifest = download_perk_images(mapping, args.assets_dir, skip_existing=args.skip_existing)
         ok_count = sum(1 for x in manifest if x["status"] == "ok")
-        print(f"圖片下載完成: {ok_count}/{len(manifest)}")
+        skip_count = sum(1 for x in manifest if x["status"] == "skipped")
+        print(f"圖片下載完成: {ok_count} 成功, {skip_count} 略過, {len(manifest) - ok_count - skip_count} 其他")
     cleanup_perk_url_fields(mapping)
 
     if args.dry_run:

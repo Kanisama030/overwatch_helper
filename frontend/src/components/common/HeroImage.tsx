@@ -6,7 +6,7 @@ interface HeroImageProps {
 }
 
 export function HeroImage({ heroId, heroName, className = '', style }: HeroImageProps) {
-  const src = `./heroes/${heroId}.png`;
+  const src = `/data/assets/heroes/${heroId}.png`;
 
   return (
     <img
