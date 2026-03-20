@@ -302,18 +302,7 @@
           "title": "Specific Hero Counters names",
           "content": [
             "bastion",
-            "reinhardt",
-            "dva",
-            "doomfist",
-            "hazard",
-            "winston",
-            "wrecking-ball",
-            "genji",
-            "reaper",
-            "tracer",
-            "venture",
-            "anran",
-            "vendetta"
+            "reinhardt"
           ]
         }
       ]
@@ -426,7 +415,7 @@
           "id": "4.1",
           "title": "**Primary Fire: Particle Cannon**",
           "content": [
-            "Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-cannon.png)Particle Cannon",
+            "**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-cannon.png)Particle Cannon",
             "* Use the beam primarily against DPS and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/support.svg)Supports when they are within range, and only commit to the enemy tank if no higher-value target is available.",
             "* Play near the outer edge of your beam range to minimize incoming damage while maintaining pressure.",
             "* The beam cannot be ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/deflect.png)Deflected, absorbed by ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/defense-matrix.png)Defense Matrix or ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/kinetic-grasp.png)Kinetic Grasp, making it reliable into those heroes."
@@ -434,8 +423,9 @@
         },
         {
           "id": "4.2",
-          "title": "Secondary Fire: (Energy Grenades)",
+          "title": "**Secondary Fire: (Energy Grenades)**",
           "content": [
+            "**Tips for Energy Grenades**",
             "* Use secondary fire to pressure grouped enemies and build ultimate charge when targets are outside beam range.",
             "* Weave secondary fire into your ammo cycle to maximize overall damage output, especially when finishing a clip.",
             "* Secondary fire into melee provides ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zarya.png)Zarya's highest burst combo at close range.",
@@ -444,9 +434,9 @@
         },
         {
           "id": "4.3",
-          "title": "[SHIFT]: Particle Barrier (Self Bubble)",
+          "title": "**[SHIFT]: Particle Barrier (Self Bubble)**",
           "content": [
-            "Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-barrier.png)Particle Barrier",
+            "**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-barrier.png)Particle Barrier",
             "* Use self-bubble reactively when you are actively taking damage or committing to space, rather than preemptively.",
             "* Look to bubble moments of clear aggression—when you are the focus of enemy abilities or stepping forward to pressure.",
             "* Avoid using self-bubble too early in neutral, as it leaves you vulnerable if the enemy re-engages while it is on cooldown."
@@ -456,7 +446,7 @@
           "id": "4.4",
           "title": "[E]: Projected Barrier (Ally Bubble)",
           "content": [
-            "Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/projected-barrier.png)Projected Barrier",
+            "**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/projected-barrier.png)Projected Barrier",
             "* Bubble teammates who are either under heavy pressure or committing to aggressive plays.",
             "* Use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/projected-barrier.png)Projected Barrier to enable dives, flanks, or frontline pushes that would otherwise be punished.",
             "* Prioritize saving allies who are being collapsed on, as a well-timed bubble can completely swing a fight."
@@ -475,7 +465,7 @@
           "id": "4.5",
           "title": "[Q] Graviton Surge",
           "content": [
-            "Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/graviton-surge.png)Graviton Surge",
+            "**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/graviton-surge.png)Graviton Surge",
             "* You do not need a massive multi-target ultimate to win a fight; securing a single high-value elimination is often enough.",
             "* Track enemy counter-ultimates and mitigation tools such as ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/defense-matrix.png)Defense Matrix, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/ice-wall.png)Ice Wall, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/transcendence.png)Transcendence, and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sound-barrier.png)Sound Barrier before committing.",
             "* Use secondary fire to gauge projectile arc and range before throwing long-distance Gravitons.",
@@ -486,7 +476,7 @@
           "id": "4.6",
           "title": "Energy (Passive Mechanic)",
           "content": [
-            "Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/energy.png)Energy",
+            "**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/energy.png)Energy",
             "* Damage absorbed by your barriers increases the damage of both primary and secondary fire.",
             "* Energy decays if you are not mitigating damage, so maintain fight tempo to preserve high charge.",
             "* High energy dramatically increases your threat level, so positioning and bubble timing should revolve around maintaining meaningful charge without overextending."
@@ -1556,8 +1546,8 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "ana",
             "cassidy",
+            "ana",
             "orisa"
           ]
         }
@@ -1902,16 +1892,9 @@
           "title": "Specific Hero Counters names",
           "content": [
             "winston",
-            "dva",
             "genji",
             "tracer",
-            "venture",
-            "doomfist",
-            "wrecking-ball",
-            "reaper",
-            "anran",
-            "vendetta",
-            "hazard"
+            "sombra"
           ]
         }
       ]
@@ -3232,8 +3215,8 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "zarya",
             "symmetra",
+            "zarya",
             "reinhardt",
             "genji",
             "ana",
@@ -3556,9 +3539,8 @@
           "title": "Specific Hero Counters names",
           "content": [
             "doomfist",
-            "ana",
             "ramattra",
-            "vendetta"
+            "ana"
           ]
         }
       ]
@@ -3885,10 +3867,9 @@
           "title": "Specific Hero Counters names",
           "content": [
             "ana",
-            "baptiste",
-            "lucio",
-            "zenyatta",
-            "jetpack-cat"
+            "orisa",
+            "lifeweaver",
+            "dva"
           ]
         }
       ]
@@ -4192,11 +4173,7 @@
             "dva",
             "widowmaker",
             "ana",
-            "zenyatta",
-            "doomfist",
-            "hazard",
-            "winston",
-            "wrecking-ball"
+            "zenyatta"
           ]
         }
       ]
@@ -4502,13 +4479,7 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "widowmaker",
-            "genji",
-            "reaper",
-            "tracer",
-            "venture",
-            "anran",
-            "vendetta"
+            "widowmaker"
           ]
         }
       ]
@@ -5476,13 +5447,10 @@
           "content": [
             "pharah",
             "widowmaker",
-            "hanzo",
             "ashe",
-            "sojourn",
-            "cassidy",
-            "echo",
-            "sombra",
-            "freja"
+            "hanzo",
+            "soldier-76",
+            "winston"
           ]
         }
       ]
@@ -5770,18 +5738,7 @@
           "title": "Specific Hero Counters names",
           "content": [
             "lucio",
-            "jetpack-cat",
-            "genji",
-            "reaper",
-            "tracer",
-            "venture",
-            "anran",
-            "vendetta",
-            "dva",
-            "doomfist",
-            "hazard",
-            "winston",
-            "wrecking-ball"
+            "jetpack-cat"
           ]
         }
       ]
@@ -7062,14 +7019,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "genji",
-            "reaper",
-            "tracer",
-            "venture",
-            "anran",
-            "vendetta"
-          ]
+          "content": []
         }
       ]
     },
@@ -7675,13 +7625,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "ashe",
-            "cassidy",
-            "hanzo",
-            "sojourn",
-            "widowmaker"
-          ]
+          "content": []
         }
       ]
     },
@@ -7807,7 +7751,7 @@
         },
         {
           "id": "4.2",
-          "title": "Secondary FIre: Barrier Field",
+          "title": "Secondary Fire: Barrier Field",
           "content": [
             "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reinhardt.png)Reinhardt holds a large rectangular shield in front of himself which absorbs all projectiles and explosions.",
             "**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-field.png)Barrier Field",
@@ -7856,7 +7800,7 @@
           "id": "4.5",
           "title": "[Q]: (Ultimate) Earthshatter",
           "content": [
-            "Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/earthshatter.png)Earthshatter",
+            "**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/earthshatter.png)Earthshatter",
             "* Most Tank heroes have abilities that will block shatter, such as ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fortify.png)Fortify, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-array.png)Barrier Array, and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-barrier.png)Particle Barrier, or bypass shatter by going airborne such as ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/boosters.png)Boosters and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jump-pack.png)Jump Pack.",
             "* * As ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reinhardt.png)Reinhardt, it is your job to track when the enemy Tank has these abilities available to use, and when they are on cooldown.",
             "   * Generally, you should save your ultimate until after you have seen these abilities used to increase your odds of a successful Earthshatter.",
@@ -8024,8 +7968,7 @@
             "lucio",
             "pharah",
             "sojourn",
-            "orisa",
-            "ana"
+            "orisa"
           ]
         },
         {
@@ -8369,13 +8312,11 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "orisa",
-            "doomfist",
+            "sigma",
             "ashe",
             "sojourn",
             "illari",
-            "ana",
-            "kiriko"
+            "ana"
           ]
         }
       ]
@@ -9616,42 +9557,161 @@
         },
         {
           "id": "6.1.4",
-          "title": "Ilios",
+          "title": "New Queen Street",
           "content": [
             "ai generated"
           ]
         },
         {
           "id": "6.1.5",
-          "title": "Oasis",
+          "title": "Dorado",
           "content": [
             "ai generated"
           ]
         },
         {
           "id": "6.1.6",
-          "title": "Samoa",
+          "title": "Colosseo",
           "content": [
             "ai generated"
           ]
         },
         {
           "id": "6.1.7",
-          "title": "Busan",
+          "title": "Ilios",
           "content": [
             "ai generated"
           ]
         },
         {
           "id": "6.1.8",
-          "title": "Aatlis",
+          "title": "Oasis",
           "content": [
             "ai generated"
           ]
         },
         {
           "id": "6.1.9",
+          "title": "Samoa",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.10",
+          "title": "Busan",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.11",
+          "title": "Aatlis",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.12",
           "title": "New Junk City",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.13",
+          "title": "Route 66",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.14",
+          "title": "Havana",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.15",
+          "title": "Junkertown",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.16",
+          "title": "Watchpoint: Gibraltar",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.17",
+          "title": "Rialto",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.18",
+          "title": "Shambali Monastery",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.19",
+          "title": "Numbani",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.20",
+          "title": "King's Row",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.21",
+          "title": "Hollywood",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.22",
+          "title": "Paraíso",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.23",
+          "title": "Eichenwalde",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.24",
+          "title": "Blizzard World",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.25",
+          "title": "Esperança",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.26",
+          "title": "Runasapi",
           "content": [
             "ai generated"
           ]
@@ -10027,14 +10087,7 @@
           "content": [
             "orisa",
             "dva",
-            "sigma",
-            "hanzo",
-            "genji",
-            "reaper",
-            "tracer",
-            "venture",
-            "anran",
-            "vendetta"
+            "sigma"
           ]
         }
       ]
@@ -10625,16 +10678,7 @@
           "title": "Specific Hero Counters names",
           "content": [
             "genji",
-            "dva",
-            "reaper",
-            "tracer",
-            "venture",
-            "anran",
-            "vendetta",
-            "doomfist",
-            "hazard",
-            "winston",
-            "wrecking-ball"
+            "dva"
           ]
         }
       ]
@@ -10910,13 +10954,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "ashe",
-            "cassidy",
-            "hanzo",
-            "sojourn",
-            "widowmaker"
-          ]
+          "content": []
         }
       ]
     },
@@ -11863,12 +11901,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "widowmaker",
-            "ashe",
-            "hanzo",
-            "sojourn"
-          ]
+          "content": []
         }
       ]
     },
@@ -12117,48 +12150,6 @@
           "title": "Worst Maps"
         },
         {
-          "id": "6.2.1",
-          "title": "Ilios",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.2.2",
-          "title": "Nepal",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.2.3",
-          "title": "Lijiang Tower",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.2.4",
-          "title": "Oasis",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.2.5",
-          "title": "Samoa",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
-          "id": "6.2.6",
-          "title": "Busan",
-          "content": [
-            "ai generated"
-          ]
-        },
-        {
           "id": "7",
           "title": "Team Comp Synergies",
           "content": [
@@ -12179,14 +12170,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "genji",
-            "reaper",
-            "tracer",
-            "venture",
-            "anran",
-            "vendetta"
-          ]
+          "content": []
         }
       ]
     },
@@ -12511,11 +12495,11 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "ashe",
-            "cassidy",
+            "widowmaker",
             "hanzo",
-            "sojourn",
-            "widowmaker"
+            "ashe",
+            "soldier-76",
+            "sojourn"
           ]
         }
       ]
@@ -13147,14 +13131,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "genji",
-            "reaper",
-            "tracer",
-            "venture",
-            "anran",
-            "vendetta"
-          ]
+          "content": []
         }
       ]
     },
@@ -13473,14 +13450,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "dva",
-            "ashe",
-            "cassidy",
-            "hanzo",
-            "sojourn",
-            "widowmaker"
-          ]
+          "content": []
         }
       ]
     },
@@ -13800,18 +13770,7 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "zarya",
-            "genji",
-            "reaper",
-            "tracer",
-            "venture",
-            "anran",
-            "vendetta",
-            "dva",
-            "doomfist",
-            "hazard",
-            "winston",
-            "wrecking-ball"
+            "zarya"
           ]
         }
       ]
@@ -14182,20 +14141,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "ashe",
-            "cassidy",
-            "hanzo",
-            "sojourn",
-            "widowmaker",
-            "soldier-76",
-            "bastion",
-            "junkrat",
-            "mei",
-            "symmetra",
-            "torbjorn",
-            "emre"
-          ]
+          "content": []
         }
       ]
     },
@@ -14930,7 +14876,7 @@
           "id": "4.4",
           "title": "Concussive Blast",
           "content": [
-            "Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/concussive-blast.png)Concussive Blastthe"
+            "Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/concussive-blast.png)Concussive Blast"
           ]
         },
         {
@@ -14996,10 +14942,6 @@
         },
         {
           "id": "4.7",
-          "title": "Ad"
-        },
-        {
-          "id": "4.8",
           "title": "[Ultimate]: Barrage",
           "content": [
             "Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrage.png)Barrage",
@@ -15009,11 +14951,11 @@
           ]
         },
         {
-          "id": "4.9",
+          "id": "4.8",
           "title": "Advanced Movement Tech"
         },
         {
-          "id": "4.9.1",
+          "id": "4.8.1",
           "title": "Dash → Concussive Jump",
           "content": [
             "Use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jet-dash.png)Jet Dash, then immediately ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/concussive-blast.png)Concussive Blast jump while within blast radius.",
@@ -15022,7 +14964,7 @@
           ]
         },
         {
-          "id": "4.9.2",
+          "id": "4.8.2",
           "title": "Rocket Jump + Dash + Concussive Jump",
           "content": [
             "The fastest possible burst of movement.",
@@ -15033,7 +14975,7 @@
           ]
         },
         {
-          "id": "4.9.3",
+          "id": "4.8.3",
           "title": "Stair Dash",
           "content": [
             "Dash across a slanted surface such as stairs.",

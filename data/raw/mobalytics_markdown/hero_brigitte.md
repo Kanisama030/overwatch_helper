@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/brigitte-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/brigitte-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/brigitte-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/brigitte-guide/overwatch/guides)
 
@@ -136,6 +136,7 @@ Brig has very advantageous matchups, but she also has multiple hard counters. Sh
 
 ### Primary Fire: Rocket Flail
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rocket-flail.png)Rocket Flail  
 
 * Cleave damage
@@ -148,6 +149,7 @@ Brig has very advantageous matchups, but she also has multiple hard counters. Sh
 
 ### Secondary Fire: Barrier Shield
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-shield.png)Barrier Shield  
 
 * Corner Peek
@@ -180,6 +182,7 @@ Brig has very advantageous matchups, but she also has multiple hard counters. Sh
 
 ### \[SHIFT\]: Whip Shot
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/whip-shot.png)Whip Shot  
 
 * Proc Inspire
@@ -195,6 +198,7 @@ Brig has very advantageous matchups, but she also has multiple hard counters. Sh
 
 ### \[E\]: Repair Pack
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/repair-pack.png)Repair Pack  
 
 * Healing priority
@@ -208,6 +212,7 @@ Brig has very advantageous matchups, but she also has multiple hard counters. Sh
 
 ### Ultimate: Rally
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rally.png)Rally  
 
 * One-time armor
@@ -349,9 +354,13 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
+
 Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
 Advertisement
 

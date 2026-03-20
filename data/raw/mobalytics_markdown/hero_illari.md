@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/illari-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/illari-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/illari-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/illari-guide/overwatch/guides)
 
@@ -136,6 +136,7 @@ When paired with teammates who want to play in close range to the enemy team, ![
 
 ### Primary Fire: Solar Rifle
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/solar-rifle.png)Solar Rifle  
 
 * Prioritize offense
@@ -151,6 +152,7 @@ When paired with teammates who want to play in close range to the enemy team, ![
 
 ### Secondary fire: Solar Rifle (Healing Beam)
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/solar-rifle.png)Solar Rifle  
 
 * Resource management
@@ -162,6 +164,7 @@ When paired with teammates who want to play in close range to the enemy team, ![
 
 ### \[E\]: Healing Pylon: Deploy a pylon that heals allies
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/healing-pylon.png)Healing Pylon  
 
 * Enable Flanks
@@ -174,6 +177,7 @@ When paired with teammates who want to play in close range to the enemy team, ![
 
 ### \[SHIFT\]: Outburst
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/outburst.png)Outburst  
 
 * Escape tool
@@ -187,6 +191,7 @@ When paired with teammates who want to play in close range to the enemy team, ![
 
 ### Ultimate: Captive Sun
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/captive-sun.png)Captive Sun  
 
 * When to NOT use Captive Sun

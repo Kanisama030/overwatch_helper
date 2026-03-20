@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/baptiste-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/baptiste-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/baptiste-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/baptiste-guide/overwatch/guides)
 
@@ -136,6 +136,7 @@ Jumping over a wall and blasting the enemy makes for some cool aggro play, but a
 
 ### Primary Fire: Biotic Launcher
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-launcher.png)Biotic Launcher **(Primary Fire)**
 
 * Weave in healing shots
@@ -146,6 +147,7 @@ Jumping over a wall and blasting the enemy makes for some cool aggro play, but a
 
 ### Secondary Fire: Biotic Launcher (healing)
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-launcher.png)Biotic Launcher **(Secondary Fire)**
 
 * Aim for the legs
@@ -156,6 +158,7 @@ Jumping over a wall and blasting the enemy makes for some cool aggro play, but a
 
 ### \[SHIFT\]: Regenerative Burst
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/regenerative-burst.png)Regenerative Burst  
 
 * Be extra careful when not available
@@ -167,6 +170,7 @@ Jumping over a wall and blasting the enemy makes for some cool aggro play, but a
 
 ### \[E\]: Immortality Field
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/immortality-field.png)Immortality Field  
 
 * Treat like a 2nd Ult
@@ -177,6 +181,7 @@ Jumping over a wall and blasting the enemy makes for some cool aggro play, but a
 
 ### (Ctrl): Exo Boots
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/exo-boots.png)Exo Boots  
 
 * Don’t spam jump
@@ -189,6 +194,7 @@ Jumping over a wall and blasting the enemy makes for some cool aggro play, but a
 
 ### Ultimate: Amplification Matrix
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/amplification-matrix.png)Amplification Matrix  
 
 * Deploy in front of your team
@@ -303,4 +309,4 @@ Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-t
 
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
-![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)
+![](https://creativecdn.com/cm-notify?pi=fradagio-pbs&gdpr=0&gdpr_consent=&us_privacy=1---)

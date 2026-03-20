@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/zenyatta-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/zenyatta-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/zenyatta-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/zenyatta-guide/overwatch/guides)
 
@@ -136,6 +136,7 @@ Overwatch is full of high mobility heroes in every role. ![](https://cdn.mobalyt
 
 ### Primary Fire: Orb of Destruction
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/orb-of-destruction.png)Orb of Destruction  
 
 * Higher damage per second
@@ -147,6 +148,7 @@ Overwatch is full of high mobility heroes in every role. ![](https://cdn.mobalyt
 
 ### Secondary Fire: Orb of Destruction (Charge)
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/orb-of-destruction.png)Orb of Destruction **(Charge)**
 
 * Charge behind cover
@@ -160,6 +162,7 @@ Overwatch is full of high mobility heroes in every role. ![](https://cdn.mobalyt
 
 ### \[SHIFT\]: Orb of Harmony
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/orb-of-harmony.png)Orb of Harmony  
 
 * Harmony your flankers
@@ -172,6 +175,7 @@ Overwatch is full of high mobility heroes in every role. ![](https://cdn.mobalyt
 
 ### \[E\]: Orb of Discord
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/orb-of-discord.png)Orb of Discord  
 
 * ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/orb-of-discord.png)Orb of Discord target prioritization: While target prioritization is rather nuanced, here are a few guiding principles to help you maximize Discord’s power:
@@ -199,6 +203,7 @@ Overwatch is full of high mobility heroes in every role. ![](https://cdn.mobalyt
 
 ### Ultimate: Transcendence
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/transcendence.png)Transcendence  
 
 * Counter ult
@@ -295,9 +300,7 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
-Advertisement
-
-Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
 Advertisement
 
@@ -305,4 +308,8 @@ Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-t
 
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
-![](https://creativecdn.com/cm-notify?pi=fradagio-pbs&gdpr=0&gdpr_consent=&us_privacy=1---)
+Advertisement
+
+Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads

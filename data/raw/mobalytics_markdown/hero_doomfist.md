@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/doomfist-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/doomfist-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/doomfist-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/doomfist-guide/overwatch/guides)
 
@@ -138,6 +138,7 @@ The main limiting factor of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=a
 
 ### Primary Fire: Hand Cannon
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/hand-cannon.png)Hand Cannon  
 
 * Range
@@ -151,6 +152,7 @@ The main limiting factor of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=a
 
 ### Secondary Fire: Rocket Punch
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rocket-punch.png)Rocket Punch  
 
 * Engage with Punch
@@ -163,6 +165,7 @@ The main limiting factor of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=a
 
 ### \[SHIFT\]: Seismic Slam
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/seismic-slam.png)Seismic Slam  
 
 * Get into position
@@ -176,6 +179,7 @@ The main limiting factor of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=a
 
 ### \[E\]: Power Block
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/power-block.png)Power Block  
 
 * How to increase Empowered rates
@@ -190,6 +194,7 @@ The main limiting factor of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=a
 
 ### (Passive): The Best Defense…
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/the-best-defense.png)The Best Defense...  
 
 * Overhealth
@@ -204,6 +209,7 @@ The main limiting factor of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=a
 
 ### Ultimate: Meteor Strike
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/meteor-strike.png)Meteor Strike  
 
 * Refresh cooldowns and health
@@ -317,9 +323,13 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
+
 Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
 Advertisement
 

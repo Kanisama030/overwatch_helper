@@ -23,6 +23,9 @@ export interface MapRecommendation {
 export interface PerkSection {
   id: string;
   title: string;
+  name?: string;
+  description?: string | null;
+  image?: string | null;
   content?: string[];
   recommended_flag?: boolean;
   recommended_reason?: string | null;

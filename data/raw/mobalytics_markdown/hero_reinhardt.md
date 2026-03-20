@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/guides)
 
@@ -142,6 +142,7 @@ On maps or objectives with a lot of high ground, Rein can feel pretty useless as
 
 Swing a massive hammer in a horizontal arc.
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rocket-hammer.png)Rocket Hammer  
 
 * Damage and penetrates shield abilities.
@@ -151,10 +152,11 @@ Swing a massive hammer in a horizontal arc.
 * Always try to cleave multiple enemies in single swings when possible.
 * Begin Swing animation while partially behind cover and step into open when hitbox can make contact with the enemy to minimize damage taken while attacking.
 
-### Secondary FIre: Barrier Field
+### Secondary Fire: Barrier Field
 
 ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reinhardt.png)Reinhardt holds a large rectangular shield in front of himself which absorbs all projectiles and explosions. 
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-field.png)Barrier Field  
 
 * Shield regenerates its hp after not being used for 2 seconds
@@ -174,6 +176,7 @@ Swing a massive hammer in a horizontal arc.
 
 Wind up, then swing hammer to shoot a fiery projectile that permeates enemies and shields. 
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fire-strike.png)Fire Strike  
 
 * Can animation cancel a hammer swing into ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fire-strike.png)Fire Strike, for burst damage.
@@ -186,6 +189,7 @@ Wind up, then swing hammer to shoot a fiery projectile that permeates enemies an
 
 Charge straight forward for 3 seconds on the ground at high speed.
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/charge.png)Charge  
 
 * Can minimally control left and right movement.
@@ -197,7 +201,8 @@ Charge straight forward for 3 seconds on the ground at high speed.
 
 ### \[Q\]: (Ultimate) Earthshatter
 
-Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/earthshatter.png)Earthshatter  
+  
+**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/earthshatter.png)Earthshatter  
 
 * Most Tank heroes have abilities that will block shatter, such as ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fortify.png)Fortify, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrier-array.png)Barrier Array, and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-barrier.png)Particle Barrier, or bypass shatter by going airborne such as ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/boosters.png)Boosters and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jump-pack.png)Jump Pack.
 * * As ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reinhardt.png)Reinhardt, it is your job to track when the enemy Tank has these abilities available to use, and when they are on cooldown.  
@@ -342,7 +347,7 @@ Most mirror matches become ego duels. The Rein who decides to play smarter wins
 
 ## Table of Contents
 
-[1. Reinhardt Overview](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#reinhardt-overview-0)[ TLDR](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#tldr-0)[2. Strengths And Weaknesses Summarized](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#strengths-and-weaknesses-summarized-0)[3. Strengths And Weaknesses Explained](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#strengths-and-weaknesses-explained-1)[ Strengths](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#strengths-0)[ Weaknesses](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#weaknesses-1)[4. Reinhardt Ability Tips](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#reinhardt-ability-tips-2)[ Primary Fire: Rocket Hammer](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#primary-fire-rocket-hammer-0)[ Secondary FIre: Barrier Field](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#secondary-fire-barrier-field-1)[ \[E\]: Fire Strike](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#e-fire-strike-2)[ \[SHIFT\]: Charge](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#shift-charge-3)[ \[Q\]: (Ultimate) Earthshatter](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#q-ultimate-earthshatter-4)[5. Perks](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#perks-3)[ Minor Perks](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#minor-perks-0)[ Major Perks](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#major-perks-1)[6. Maps](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#maps-4)[ Best Maps](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#best-maps-0)[ Worst Maps](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#worst-maps-1)[7. Team Comp Synergies](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#team-comp-synergies-5)[ Individual synergies with other heroes](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#individual-synergies-with-other-heroes-0)[8. How to Counter Reinhardt](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#how-to-counter-reinhardt-6)
+[1. Reinhardt Overview](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#reinhardt-overview-0)[ TLDR](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#tldr-0)[2. Strengths And Weaknesses Summarized](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#strengths-and-weaknesses-summarized-0)[3. Strengths And Weaknesses Explained](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#strengths-and-weaknesses-explained-1)[ Strengths](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#strengths-0)[ Weaknesses](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#weaknesses-1)[4. Reinhardt Ability Tips](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#reinhardt-ability-tips-2)[ Primary Fire: Rocket Hammer](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#primary-fire-rocket-hammer-0)[ Secondary Fire: Barrier Field](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#secondary-fire-barrier-field-1)[ \[E\]: Fire Strike](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#e-fire-strike-2)[ \[SHIFT\]: Charge](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#shift-charge-3)[ \[Q\]: (Ultimate) Earthshatter](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#q-ultimate-earthshatter-4)[5. Perks](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#perks-3)[ Minor Perks](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#minor-perks-0)[ Major Perks](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#major-perks-1)[6. Maps](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#maps-4)[ Best Maps](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#best-maps-0)[ Worst Maps](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#worst-maps-1)[7. Team Comp Synergies](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#team-comp-synergies-5)[ Individual synergies with other heroes](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#individual-synergies-with-other-heroes-0)[8. How to Counter Reinhardt](https://mobalytics.gg/overwatch/heroes/reinhardt-guide/overwatch/heroes/reinhardt-guide#how-to-counter-reinhardt-6)
 
 Back to top
 
@@ -370,75 +375,4 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
-Video Player is loading.
-
-Play Video
-
-Pause
-
-Unmute
-
-Current Time 0:03
-
-/
-
-Duration 2:00
-
-Loaded: 20.67%
-
-0:03
-
-Stream Type LIVE
-
-Seek to live, currently behind liveLIVE
-
-Remaining Time \-1:57
-
-1x
-
-Playback Rate
-
-Chapters
-
-* Chapters
-
-Descriptions
-
-* descriptions off, selected
-
-Captions
-
-* captions settings, opens captions settings dialog
-* captions off, selected
-
-Audio Track
-
-Picture-in-PictureFullscreen
-
-This is a modal window.
-
-Beginning of dialog window. Escape will cancel and close the window.
-
-TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-Transparent
-
-BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparent
-
-WindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaque
-
-Font Size50%75%100%125%150%175%200%300%400%
-
-Text Edge StyleNoneRaisedDepressedUniformDropshadow
-
-Font FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps
-
-Reset restore all settings to the default valuesDone
-
-Close Modal Dialog
-
-End of dialog window.
-
-Ad
-
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
-
-![](https://creativecdn.com/cm-notify?pi=fradagio-pbs&gdpr=0&gdpr_consent=&us_privacy=1---)![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)

@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/ashe-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/ashe-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/ashe-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/ashe-guide/overwatch/guides)
 
@@ -305,5 +305,3 @@ Advertisement
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
-
-![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)

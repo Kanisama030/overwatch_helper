@@ -354,8 +354,23 @@ def build_counter_index(master, mapping):
 
 def build_perks_index(master, mapping):
     """產生 perks_index.json，從 section 5 提取 perks 資料"""
+    def _normalize_perk_key(text):
+        return re.sub(r"[^a-z0-9]+", "", str(text or "").lower())
+
+    def _normalize_asset_path(path):
+        if not path:
+            return None
+        normalized = str(path).replace("\\", "/").strip()
+        if not normalized:
+            return None
+        if not normalized.startswith("/"):
+            normalized = f"/{normalized}"
+        return normalized
+
     mapping_ids = {str(h.get("id", "")).lower() for h in mapping.get("heroes", [])}
     en_to_id = {str(h.get("en", "")).lower(): h.get("id", "") for h in mapping.get("heroes", [])}
+    mapping_by_id = {str(h.get("id", "")).lower(): h for h in mapping.get("heroes", [])}
+    mapping_by_en = {str(h.get("en", "")).lower(): h for h in mapping.get("heroes", [])}
     result = {}
 
     for hero in master.get("heroes", []):
@@ -398,6 +413,48 @@ def build_perks_index(master, mapping):
         hero_key = hero_name.lower()
         if hero_key not in mapping_ids:
             hero_key = en_to_id.get(hero_name.lower(), hero_key)
+        hero_mapping = mapping_by_id.get(hero_key) or mapping_by_en.get(hero_name.lower()) or {}
+        hero_mapping_perks = hero_mapping.get("perks", {}) if isinstance(hero_mapping, dict) else {}
+
+        minor_mapping_list = hero_mapping_perks.get("minor perks", []) if isinstance(hero_mapping_perks, dict) else []
+        major_mapping_list = hero_mapping_perks.get("major perks", []) if isinstance(hero_mapping_perks, dict) else []
+
+        minor_mapping_by_key = {
+            _normalize_perk_key(item.get("name")): item
+            for item in minor_mapping_list
+            if isinstance(item, dict) and item.get("name")
+        }
+        major_mapping_by_key = {
+            _normalize_perk_key(item.get("name")): item
+            for item in major_mapping_list
+            if isinstance(item, dict) and item.get("name")
+        }
+
+        for idx, perk in enumerate(minor_perks):
+            mapping_item = (
+                minor_mapping_by_key.get(_normalize_perk_key(perk.get("title")))
+                or (minor_mapping_list[idx] if idx < len(minor_mapping_list) and isinstance(minor_mapping_list[idx], dict) else {})
+            )
+            mapped_name = mapping_item.get("name", "") if isinstance(mapping_item, dict) else ""
+            mapped_description = mapping_item.get("description") if isinstance(mapping_item, dict) else None
+            mapped_image = _normalize_asset_path(mapping_item.get("image")) if isinstance(mapping_item, dict) else None
+            perk["name"] = mapped_name or perk.get("title", "")
+            perk["title"] = mapped_name or perk.get("title", "")
+            perk["description"] = mapped_description if mapped_description else None
+            perk["image"] = mapped_image
+
+        for idx, perk in enumerate(major_perks):
+            mapping_item = (
+                major_mapping_by_key.get(_normalize_perk_key(perk.get("title")))
+                or (major_mapping_list[idx] if idx < len(major_mapping_list) and isinstance(major_mapping_list[idx], dict) else {})
+            )
+            mapped_name = mapping_item.get("name", "") if isinstance(mapping_item, dict) else ""
+            mapped_description = mapping_item.get("description") if isinstance(mapping_item, dict) else None
+            mapped_image = _normalize_asset_path(mapping_item.get("image")) if isinstance(mapping_item, dict) else None
+            perk["name"] = mapped_name or perk.get("title", "")
+            perk["title"] = mapped_name or perk.get("title", "")
+            perk["description"] = mapped_description if mapped_description else None
+            perk["image"] = mapped_image
 
         result[hero_key] = {
             "minor": minor_perks,

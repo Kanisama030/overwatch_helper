@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/venture-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/venture-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/venture-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/venture-guide/overwatch/guides)
 
@@ -136,6 +136,7 @@ Because Venture’s best damaging abilities are also their escape abilities, Ven
 
 ### \[Primary Fire\]: Smart Excavator
 
+  
 Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/smart-excavator.png)SMART Excavator  
 
 * Take advantage of its AoE damage to farm ultimate against grouped enemies.
@@ -144,6 +145,7 @@ Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets
 
 ### \[Secondary Fire\]: Drill Dash
 
+  
 Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/drill-dash.png)Drill Dash  
 
 * Equally good for movement and damage.
@@ -152,6 +154,7 @@ Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets
 
 ### \[SHIFT\]: Burrow
 
+  
 Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/burrow.png)Burrow  
 
 * Never use Burrow near an enemy with a strong CC ability (e.g., Sleep Dart, Flashbang) unless you are certain it is on cooldown.
@@ -170,6 +173,7 @@ Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets
 
 ### \[Ultimate\]: Tectonic Shock
 
+  
 * Blocked by barriers, so first rule is to track when the enemy has barriers available or how much barrier HP they have.
 * Best when used on a flank unexpectedly.
 * Target squishies and avoid Tanks.
@@ -312,75 +316,4 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
-Video Player is loading.
-
-Play Video
-
-Pause
-
-Unmute
-
-Current Time 0:03
-
-/
-
-Duration 2:00
-
-Loaded: 26.29%
-
-0:03
-
-Stream Type LIVE
-
-Seek to live, currently behind liveLIVE
-
-Remaining Time \-1:57
-
-1x
-
-Playback Rate
-
-Chapters
-
-* Chapters
-
-Descriptions
-
-* descriptions off, selected
-
-Captions
-
-* captions settings, opens captions settings dialog
-* captions off, selected
-
-Audio Track
-
-Picture-in-PictureFullscreen
-
-This is a modal window.
-
-Beginning of dialog window. Escape will cancel and close the window.
-
-TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-Transparent
-
-BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparent
-
-WindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaque
-
-Font Size50%75%100%125%150%175%200%300%400%
-
-Text Edge StyleNoneRaisedDepressedUniformDropshadow
-
-Font FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps
-
-Reset restore all settings to the default valuesDone
-
-Close Modal Dialog
-
-End of dialog window.
-
-Ad
-
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
-
-![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)

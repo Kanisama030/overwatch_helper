@@ -9,7 +9,10 @@
           "* When using Efficient Design, always wait to take a bit of damage before deploying her barrier."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Efficient Design",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -21,7 +24,10 @@
           "* Ignore the enemy ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tank and use your Beam to Target squishy targets who think they are safe."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Extended Power",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -34,7 +40,10 @@
           "* Recommended Major Perk"
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Major Perk"
+        "recommended_reason": "Recommended Major Perk",
+        "name": "Disruptive Detonation",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -45,7 +54,10 @@
           "* Power Move only causes barrier to act as a wall for Sonic wall slams. Enemies can still freely walk and move through it as usual."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Power Move",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -58,7 +70,10 @@
           "* Extremely powerful for enabling your allies. Healing and granting a speed boost can turn your teammates into carries."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Spotter",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -67,7 +82,10 @@
           "* Best on maps with lots of high ground. ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)Zarya normally struggles on these maps, but the extra jump height gives her more mobility options."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Jump-Ups",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -78,7 +96,10 @@
           "* Best against brawly comps that play grouped up. Target the enemies behind and rotate to keep the front-most enemy in the beams path."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Energy Lance",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -87,7 +108,10 @@
           "* Stops decay, and builds more overall energy than just taking damage. Great when the enemy team is smart and trying not to charge you up."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Extra Oomph",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -100,7 +124,10 @@
           "* Decent when struggling to maintain distance for dive and brawl ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tanks. Otherwise, take the other."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Kinetic Cycle",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -109,7 +136,10 @@
           "* Barrier health is very important, and ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)Sigma deals a lot of damage from his primary fire. Your team gains a significant amount of increased shielding, and in turn, everyone has an easier time staying alive."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Hyper Regeneration",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -120,7 +150,10 @@
           "* Interesting ability that is pretty good at countering any enemy with a primarily close-ranged kit. Send them floating and out of their optimal range."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Hyper Strike",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -130,7 +163,10 @@
           "* Best use is to traverse between high ground areas where your poke pressure can dominate."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Levitation",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -145,7 +181,10 @@
           "* Not worth taking over Kinetic Reload."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Chronal Dash",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -156,7 +195,10 @@
           "* Blink > Melee when you need just a few more bullets for the kill, as quick melee is faster than reloading."
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Minor Perk"
+        "recommended_reason": "Recommended Minor Perk",
+        "name": "Kinetic Reload",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -169,7 +211,10 @@
           "* * Also, she can now steal health packs from the enemy **even when she’s at full health**. Don’t let them grab it!"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Blink Packs",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -182,7 +227,10 @@
           "* In General, don't go aggro after using ![](/data/assets/guide/59884f41423190cf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frecall.png)Recall."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Quantum Entanglement",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -196,7 +244,10 @@
           "perk: Raging Storm"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Raging Storm",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -206,7 +257,10 @@
           "* In theory, you can get an extra projectile in before recharging, but this is very low impact."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Extra Edge",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -220,7 +274,10 @@
           "* Recommended Major perk"
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Major Perk"
+        "recommended_reason": "Recommended Major Perk",
+        "name": "Relentless",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -230,7 +287,10 @@
           "perk: Siphoning Strike"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Siphoning Strike",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -246,7 +306,10 @@
           "* * The one benefit of taking Extended Mag is that you can theoretically build charge shots faster because of the decrease in time spent reloading."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Deceleration Field",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -259,7 +322,10 @@
           "* * Don’t forget to spam primary fire to generate charge faster and get off as many secondary fire shots as possible during your ult’s duration."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Overcharged",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -286,7 +352,10 @@
           "* * 15-second cooldowns need to be used carefully. Wait until you see an easy shot before haphazardly blasting away."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Dual Thrusters",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -296,7 +365,10 @@
           "perk: Friction Generators"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Friction Generators",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -311,7 +383,10 @@
           "* * Receiving healing sooner when at critical health can mean the difference between life or death for your ally. The farther they are from you, the greater benefit the Perk gives."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Urgent Care",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -323,7 +398,10 @@
           "* With the Fortune teller perk, it's worth shooting two Kunai between every ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)Healing Ofuda. For a slight delay in primary fire, she has the chance to deal damage and increase healing potential from the extra 2 Ofudas per hit."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Fortune Teller",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -336,7 +414,10 @@
           "* Be smart. Just because you get buffed offense, doesn't mean you should always TP aggressively. ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)Swift Step is you best escape tool, so if you TP into multiple enemies, you likely won't escape."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Ready Step",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -348,7 +429,10 @@
           "* Better disengage. Faster movement speed enables you and your allies to escape more effectively when using![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)Protection Suzu defensively."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Foxtrot",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -366,7 +450,10 @@
           "* * On maps with lots of ledges, Bass Blowout makes knocking people off the map even more consistent."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Soundwave Rider",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -377,7 +464,10 @@
           "* Amp it up lasts 6 seconds, and Amp it Up’s cooldown is 12 seconds. At most, you’ll only have to wait 6 seconds before another Amp it Up is available."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Beat Drop",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -389,7 +479,10 @@
           "* Lucio’s playstyle and positioning caters to allies who need speed boost the most already, so the extra Amp range isn’t really necessary."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Noise Violation",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -400,7 +493,10 @@
           "* If you try for a lot of aggressive plays, or dive the enemy DPS and Supports, you should be running Accelerando."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Accelerando",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -416,7 +512,10 @@
           "* * The faster construction time allows ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)Illari to deploy ![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)Healing Pylon near an ally in danger and begin granting healing significantly faster. Against dive comps, Rapid Construction is the better Minor Perk."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Rapid Construction",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -427,7 +526,10 @@
           "* Against comps with a lot of Captive Sun Counters, you should take Summer Solstice."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Summer Solstice",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -440,7 +542,10 @@
           "* Recommended Perk, unless the enemy team is hard-focusing you on dives."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Solar Flare",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -451,7 +556,10 @@
           "* Most effective when you are being sustained by ![](/data/assets/guide/2b591a0928bd1b4f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-pylon.png)Healing Pylon because the burning damage is only ~23 damage /second, so you'll need to stay alive long enough to benefit."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Sunburn",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -465,7 +573,10 @@
           "* * The extra health makes it way easier to survive long enough to remech. Enemies look to instantly kill pilot ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va when she ejects from her mech. Bunny Power helps her to tank those attacks."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Bunny Power",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -479,7 +590,10 @@
           "* Base Boosters have a 2-second duration. Hitting two enemies extends the duration by 50%."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Extended Boosters",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -492,7 +606,10 @@
           "* Matrix converting damage absorbed to recover lost shield health increases your survivability mid-fight."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Shield System",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -502,7 +619,10 @@
           "* Save for finishing blows instead of using it at the start of attacks."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Precision Fusion",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -517,7 +637,10 @@
           "* Best when the enemy has speed boosting abilities or if you are not confident with ![](/data/assets/guide/f9410941588ff5c9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprimal-rage.png)Primal Rage juggling."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Electric Charge",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -530,7 +653,10 @@
           "* In general, it’s better to only go for a high Jump on the initial attack, then keep the Jumps low and quick."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Heavy Landing",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -544,7 +670,10 @@
           "* * The bounce can hit enemies behind cover as long as they have a targetable teammate in range. You may be able to get some final blows if the enemy is one-shot."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Chain Lightning",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -556,7 +685,10 @@
           "* * A full duration Barrier heals 240 HP to each hero inside. The healing you and your allies receive generates ult charge. When needing to farm ![](/data/assets/guide/f9410941588ff5c9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprimal-rage.png)Primal Rage for a fight, you can use the bubble defensively and heal your allies."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Revitalizing Barrier",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -573,7 +705,10 @@
           "* * The extra 2 ammo effectively decreases the time ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)Roadhog spends reloading by 30%"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Scrap Hook",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -584,7 +719,10 @@
           "* Especially good on maps with longer sightlines, such as Colosseo."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Shrapnel Launcher",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -596,7 +734,10 @@
           "* Good for disengaging as well. When you need to run away from something like ![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)Ramattra's Ult, Invigorate makes it possible."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Invigorate",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -605,7 +746,10 @@
           "* The extra sustain is very strong. Take Pulled Pork when the enemy team has been laying a lot of damage on you. You’ll be able to stay in fights longer and position more forward."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Pulled Pork",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -620,7 +764,10 @@
           "* Enemies will be more hesitant to challenge your ult, thus making ulting a bit safer."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Suppressive Security",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -631,7 +778,10 @@
           "* The 20% increase in movement speed, on top of the base movement buff, makes escaping feel more realistic."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Enhanced Agility",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -644,7 +794,10 @@
           "* Especially good for dueling, and for when Tanks are pressuring you (easier to land more shots on their large bodies)."
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Major Perk"
+        "recommended_reason": "Recommended Major Perk",
+        "name": "Heat Sink",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -654,7 +807,10 @@
           "* Sneak up on an enemy, throw the nade to stick, and immediately ADS headshot. You’ll delete DPS and Supports."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Cyber Adhesion",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -668,7 +824,10 @@
           "* Also, safer than standing in the open to shoot the ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)Dynamite."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Remote Detonator",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -677,7 +836,10 @@
           "* Best against dive comps. You can create space between yourself and the enemy with the first shot, then you have another shot to reposition even better."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Double-Barreled",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -693,7 +855,10 @@
           "* Hip fire shots do not affect Viper’s Sting’s counter."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Viper's Sting",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -707,7 +872,10 @@
           "* * The increased AoE is essentially negated by ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)Protection Suzu. Remember Suzu heals extra when cleansing effects like Burning, so you’ll be feeding her a lot of Ult charge."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Airburst",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -721,7 +889,10 @@
           "* ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)Focusing Beam is ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)Echo's best ability, so buffing it is very strong for her. The increased range and speed enable you to position more safely and target enemies normally out of your range."
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Minor Perk"
+        "recommended_reason": "Recommended Minor Perk",
+        "name": "Focused Rush",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -735,7 +906,10 @@
           "* Dying (copy ending) before getting ult completely wastes this Minor Perk selection."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Partial Scan",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -750,7 +924,10 @@
           "* Full Salvo is more consistent at getting all DPS below half health for Focusing Beam combos (even those with high health and armor)."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Full Salvo",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -763,7 +940,10 @@
           "* You should be used to Flight management and not leaving yourself exposed after Focusing Beam use. Therefore, you’ll have to adjust your playstyle to benefit from the Flight reset."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "High Beams",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -780,7 +960,10 @@
           "* * Extra damage and range make Bang Bang the superior choice against enemy DPS and Support flankers."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Bang Bang",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -793,7 +976,10 @@
           "* * If the enemy has easy ways of stopping Deadeye with stuns like Sleep Dart, or burst damage like Widow Maker, then the healing is not helpful."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Even the Odds",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -805,7 +991,10 @@
           "* As you should normally be using Roll to reload a full clip, you will naturally get a lot of sustain value from this perk."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Rollin' Round-Ups",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -818,7 +1007,10 @@
           "* * Bleed does not stack. You'll need to wait between Silver Bullet shots if you want to maximize damage over time."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Silver Bullet",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -843,7 +1035,10 @@
           "* * When the enemy team has a Sniper sitting way in the back who isn’t dying, TP all the way back to them and take them out."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Sentry Capacity",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -856,7 +1051,10 @@
           "* Paired with a speed boost like Lucio or Juno’s Hyper Ring, Perfect Alignment is even stronger because you can get in close to level up your beam, then back up with the extra range."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Perfect Alignment",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -868,7 +1066,10 @@
           "perk: Hovering Barrier"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Hovering Barrier",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -881,7 +1082,10 @@
           "* Refer to _“Tips for Teleporter”_ for a breakdown of offensive strategies to employ with TP."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Shield Battery",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -895,7 +1099,10 @@
           "perk: Helix Propulsion"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Helix Propulsion",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -905,7 +1112,10 @@
           "perk: Tactical Salvo"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Tactical Salvo",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -917,7 +1127,10 @@
           "* If Biotic Field is deployed, Sprint around inside it while reloading to keep dodging and healing until reloading has finished."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Agility Training",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -930,7 +1143,10 @@
           "* * Abilities like Protection Suzu, Projected Barrier, and Life Grip will cleanse the anti-heal effect. This is especially good when using Stim Pack for Tac Visor, as the enemy team will likely all turn and focus you."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Stim Pack",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -945,7 +1161,10 @@
           "* * Compared to Dragon’s Thirst, Acrobatics brings very little value to Genji. You’re rarely going to find a use for being able to double jump, dash, then double jump again."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Swift Cuts",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -960,7 +1179,10 @@
           "* * Always remember that just because you are lifestealing, you aren’t invincible, so take your standard precautions and don’t try to 1v5 the enemy team."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Dragon's Thirst",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -973,7 +1195,10 @@
           "* Against the 175 HP heroes ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)Tracer and pilot ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va, the extra 25 damage makes ![](/data/assets/guide/2b083b4a4d737525.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-strike.png)Swift Strike > ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)Dragonblade slash kill."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Blade Twisting",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -985,7 +1210,10 @@
           "* * While 35 healing per second is lower than the damage per second of every beam, it will still help Genji to survive some situations where he would’ve otherwise died."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Meditation",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1003,7 +1231,10 @@
           "* Ex: Ram ulting at your team, Ana Sleeps him, and by the time he wakes up, then slow walks, your team can get out of his AoE and end his ult early."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Groggy",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1013,7 +1244,10 @@
           "* If you absolutely need to, you can Nano the nearest or easiest target just to give yourself the speed boost if you will die otherwise."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Speed Serum",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1027,7 +1261,10 @@
           "* Head hurtboxes are mostly hidden when looking at the backs of heroes, and you’ll essentially always be looking at the backs of your teammates. Consequently, critical hits on allies are also impractical."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Headhunter",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1039,7 +1276,10 @@
           "* Hitting a nade into a wall next to or behind a target is also a very effective means of hitting tricky angles."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Biotic Bounce",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1055,7 +1295,10 @@
           "* Recommended default Minor Perk"
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Minor Perk"
+        "recommended_reason": "Recommended Minor Perk",
+        "name": "Ulterior Motive",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1065,7 +1308,10 @@
           "* Recommended when playing with comms or frequently coordinating transport plays."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Transport Shielding",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1078,7 +1324,10 @@
           "* Pair with Ulterior Motive for more frequent use."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Headbutt",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1089,7 +1338,10 @@
           "* Recommended Major Perk"
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Major Perk"
+        "recommended_reason": "Recommended Major Perk",
+        "name": "Claws Out",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1103,7 +1355,10 @@
           "* Good when your other Support lacks AoE healing."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Wellspring",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1113,7 +1368,10 @@
           "* Best for duels and countering enemy dives."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Exposed Soul",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1126,7 +1384,10 @@
           "* Best when you need to serve as the main source of your team’s sustain."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Resonant Return",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1137,7 +1398,10 @@
           "* * The speedboost window is short, so your team will get more benefit if they are prepared, instead of having to react once they realize the speed aura is active."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Quickstep",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1151,7 +1415,10 @@
           "* Recommended Minor Perk"
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Minor Perk"
+        "recommended_reason": "Recommended Minor Perk",
+        "name": "Overflow",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1160,7 +1427,10 @@
           "* Allows you to focus even more on dealing damage. As long as you keep hitting enemies, your selected ally will keep benefitting from increased healing."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Balance",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1173,7 +1443,10 @@
           "* Try it out if you have been unable to get value out of your charged primary fire up to this point."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Ebb and Flow",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1184,7 +1457,10 @@
           "* All the same tips from ![](/data/assets/guide/8fbe92ce7f53c900.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fxuanwu-staff.png)Xuanwu Staff apply as the use case does not change."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Falling Rain",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1203,7 +1479,10 @@
           "* * You can go all in on Leap perks and structure your game plan around Leap and Slash. Just know you’ll be sacrificing Lifesteal and Wall uptime to do so."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Deep Leap",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1218,7 +1497,10 @@
           "* Every couple of seconds, they’ll retrigger ![](/data/assets/guide/860a1f6211acadb3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjagged-wall.png)Jagged Wall and Reconstitution's energy refill. Enjoy watching them panic as you slowly drain their life."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Anarchic Zeal",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1231,7 +1513,10 @@
           "* Between the instant refill and overfill, you’ll be able to use ![](/data/assets/guide/c47191eac4c3da8b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fspike-guard.png)Spike Guard considerably more often or for longer uses."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Reconstitution",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1241,7 +1526,10 @@
           "* * Very good for securing elims with your team and solo kills. You don't have to do anything special because all ![](/data/assets/guide/8f2eb5a45467c702.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhazard.png)Hazard players should already be using the combo listed above of shoot > Leap > Melee. Basically, a free extra 40 damage."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Explosive Impalements",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1255,7 +1543,10 @@
           "* Standard 250 HP heroes can be killed by Shatter > Fire Strike(x2), so this perk makes your shatter's more consistently lethal."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Crusader's Fire",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1265,7 +1556,10 @@
           "* Also a decent choice if your Supports have lower healing output."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Crusader's Resolve",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1277,7 +1571,10 @@
           "* The slam itself is ok, but generally not worth taking over the increased attack speed."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Shield Slam",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1286,7 +1583,10 @@
           "* Save at least one ![](/data/assets/guide/d2aabba10a98f146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffire-strike.png)Fire Strike for when you get into melee range. The increased attack speed is very strong in brawls and will help you win the ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tank fight."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Ignited Fury",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1301,7 +1601,10 @@
           "* You can play hyper aggressive when you have ult because you'll be able to chain two ability cycles together."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Rampant Charge",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1314,7 +1617,10 @@
           "* * Reloading after 5 shots ensures you start reloading before Shout ends and lets you benefit from the 50% increased reload speed."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Battle Shout",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1326,7 +1632,10 @@
           "* Decent, but only take if you are getting hard CC'd everytime you try to ![](/data/assets/guide/bb798f5782fe4ccc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcarnage.png)Carnage and need more ranged presence."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Willy-Willy",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1340,7 +1649,10 @@
           "* If you hit just two enemies with an axe swing, JQ gets 390 total healing (Impact lifesteal plus Wound), and gets to use ![](/data/assets/guide/bb798f5782fe4ccc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcarnage.png)Carnage again 4 seconds later."
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Major Perk"
+        "recommended_reason": "Recommended Major Perk",
+        "name": "Savage Satiation",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1358,7 +1670,10 @@
           "* Useful into poke and dive comps where you spend more time poking, then suddenly need to rush in."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Kinetic Bandolier",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1367,7 +1682,10 @@
           "* Adds a small burst of instant overhealth whenever you ignite an enemy. Good for survivability, and best when having to play more passively."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Pyromaniac",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1381,7 +1699,10 @@
           "* * Slam onto an enemy, and they're instantly ignited. If you center slam their head, you’ll even get healing from the slam's critical hit. Plus, you’ll be dealing damage faster because you don’t have to spend time igniting them with primary fire before getting in the auto-crits."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Firewalker",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1395,7 +1716,10 @@
           "* Still recommend always selecting Firewalker."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Combat Fuel",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1408,7 +1732,10 @@
           "* Makes ![](/data/assets/guide/135c836b3c9c24ac.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fterra-surge.png)Terra Surge an ok panic button. The healing will help you take more damage, and can save you when you are at low health."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Defense Protocol",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1417,7 +1744,10 @@
           "* Very powerful and enables aggressive play when ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)Orisa is already at her most powerful. Feels unstoppable to the enemy team."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Mobile Fortification",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1429,7 +1759,10 @@
           "* * In most scenarios, having to give up ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)Javelin Spin is not worth the barrier. ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)Orisa is already very tanky, and ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)Javelin Spin blocks all projectiles for almost 2 seconds. Moreover, the speed boost during and after, plus the CC is stronger than having a shield."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Charged Javelin",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1443,7 +1776,10 @@
           "* * When on defense or when the enemy team is returning from spawn, shoot the Barrier straight up. By the time it lands, you’ll only have 3 seconds before your next Barrier."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Protective Barrier",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1460,7 +1796,10 @@
           "* * Because you don’t have to spend time charging Empowered ![](/data/assets/guide/07a6c392a4903511.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-punch.png)Rocket Punch, One-Two gives you rapid burst damage potential."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "One-Two",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1474,7 +1813,10 @@
           "* When your team isn’t getting a lot of elims, you won’t get much benefit from choosing Survival of the Fittest"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Survival of the Fittest",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1486,7 +1828,10 @@
           "* Engage with Slam so you get easy follow-up shots during the slow. Ideally, you'll already have an empowered punch so you can finish for an easy KO."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Aftershock",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1499,7 +1844,10 @@
           "* * Unfortunately, ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist is not totally invulnerable during ![](/data/assets/guide/1fda4cd48050e83c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpower-block.png)Power Block. Abilities like ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)Roadhog Hook, ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist ![](/data/assets/guide/07a6c392a4903511.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-punch.png)Rocket Punch, and ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)Sigma's ![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)Accretion still counter Power Matrix."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Power Matrix",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1515,7 +1863,10 @@
           "* Further delays the self-healing passive from activating."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Smoulder",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1527,7 +1878,10 @@
           "* Recommended Minor Perk."
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Minor Perk"
+        "recommended_reason": "Recommended Minor Perk",
+        "name": "Heat Shield",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1540,7 +1894,10 @@
           "* Be smart about where you position yourself when the Rush ends. You’d have to get 6 impacts to fully refresh the Rush if you don’t have either charge up."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Short Fuse",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1551,7 +1908,10 @@
           "* Recommended Major Perk."
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Major Perk"
+        "recommended_reason": "Recommended Major Perk",
+        "name": "Hungering Blaze",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1566,7 +1926,10 @@
           "* This is generally the go-to Minor Perk, and Armored Artillery is more of a counter-pick."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Configuration Reload",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1577,7 +1940,10 @@
           "* Activate ult and instantly drop one on your body and on your attackers. If allies are nearby, this should buy them enough time to peel for you."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Armored Artillery",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1591,7 +1957,10 @@
           "* * Lower single-target damage per second output, in exchange for AoE damage."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Lindholm Explosives",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1605,7 +1974,10 @@
           "* * Against full dive comps, running these two perks give ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion the self-sustain required to survive dive attacks by multiple enemies simultaneously."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Self-Repair",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1619,7 +1991,10 @@
           "* Significantly increases spam uptime. If you hit multiple direct hits in a row using the standard combo listed under ![](/data/assets/guide/3e91f745133fcd75.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-aim-freja.png)Take Aim (Freja) tips (6 primary fire > 1 Take Aim > repeat), you would have infinite ammo and never stop to reload."
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Minor Perk"
+        "recommended_reason": "Recommended Minor Perk",
+        "name": "Relentless Barrage",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1629,7 +2004,10 @@
           "* Activating ![](/data/assets/guide/3e91f745133fcd75.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-aim-freja.png)Take Aim (Freja) mid-air still freezes Freja, which minimizes the benefit of this Perk."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Momentum Boost",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1641,7 +2019,10 @@
           "* Every time you jump and use ![](/data/assets/guide/af11f739171075dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fupdraft.png)Updraft + ![](/data/assets/guide/3e91f745133fcd75.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftake-aim-freja.png)Take Aim (Freja) slow, you'll heal for over 75 HP. Even more when used off a ledge."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Aerial Recovery",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1652,7 +2033,10 @@
           "* Also good as a counterpick against melee and very close-range heroes"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Rising Winds",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1666,7 +2050,10 @@
           "* If there is a flanker like Tracer, or a Tank like Wrecking Ball harassing your team, grabbing health packs and attacking you again, Sonic Disruption can be used to hinder their gameplay loop,."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Sonic Disruption",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1677,7 +2064,10 @@
           "* Recommended Minor Perk"
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Minor Perk"
+        "recommended_reason": "Recommended Minor Perk",
+        "name": "Dragon Fury",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1691,7 +2081,10 @@
           "* * Especially effective in combination with Dragon Furty."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Frost Arrow",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1700,7 +2093,10 @@
           "* In theory, you can get some cheeky KOs against retreating enemies inside rooms or around corners, but it’s too niche to be worth taking in any scenario over Frost Arrow."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Scatter Arrows",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1715,7 +2111,10 @@
           "* Recommended Minor Perk"
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Minor Perk"
+        "recommended_reason": "Recommended Minor Perk",
+        "name": "Mine Recycling",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1725,7 +2124,10 @@
           "* Particularly valuable on vertical or open maps."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Nitro Boost",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1739,7 +2141,10 @@
           "* Take it when you are focusing on long-range spam."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Frag Cannon",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1750,7 +2155,10 @@
           "* Pick Bomb Voyage when you want to position more aggressively."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Bomb Voyage",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1764,7 +2172,10 @@
           "* Enables more efficient engages and disengages."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Deep Burrow",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1774,7 +2185,10 @@
           "* The best part is you can burrow into Ult and then again to escape."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Excavation Exhilaration",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1787,7 +2201,10 @@
           "* Though brief, it’s nice to have an option for better ranged damage."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Smart Extender",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1796,7 +2213,10 @@
           "* Best for general flank and close-range combat playstyle that Venture primarily sticks to. Makes them more tanky during fights."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Covered in Dirt",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1810,7 +2230,10 @@
           "perk: Lingering Wraith"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Lingering Wraith",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1827,7 +2250,10 @@
           "* Useful against mobile targets whose mobility lasts longer or moves them farther than your Wraith Form."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Soul Reaving",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1844,7 +2270,10 @@
           "* * The damage from Dire Triggers isn’t worth beginning your flank attacks with. It’s still much better to get as close as possible, then attack with ![](/data/assets/guide/ee63221cfd675de0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhellfire-shotguns.png)Hellfire Shotguns."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Dire Triggers",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1854,7 +2283,10 @@
           "* Recommended if you are using Lingering Wraith"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Shadow Blink",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1869,7 +2301,10 @@
           "* Good for survivine damage over time and so you don't have to spend so much time in ![](/data/assets/guide/d3098a7cd908d5b1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcryo-freeze.png)Cryo-Freeze during your ult."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Skating Rink",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1880,7 +2315,10 @@
           "* Especially good on high maps with a bit of high ground like King's Row and Blizzard World where ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)Mei normally has a weakness against heroes with vertical mobility."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Glacial Propulsion",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1895,7 +2333,10 @@
           "* * Freezing any dive DPS is a death sentence for them. When the enemy team has mobility heroes giving you a hard time, shut them down with the Deep Freeze."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Deep Freeze",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1913,7 +2354,10 @@
           "* The tech is OP since Mei’s invincible and slows enemies too fast for them to escape by walking out."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Cryo-Storm",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1926,7 +2370,10 @@
           "* Less downtime thanks to less reloading."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Scoped Efficiency",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1935,7 +2382,10 @@
           "* Really good in Widow duels or when facing enemies that require you to use grapple to simultaneously evade and attack."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Sniper's Instinct",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -1947,7 +2397,10 @@
           "perk: Widow’s Bite"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Widow’s Bite",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -1961,7 +2414,10 @@
           "* The piercing helps on long flat areas a bit, but don’t waste your time fishing for collats."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Seeker Mine",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -1979,7 +2435,10 @@
           "* * Torb shouldn’t be wasting his time trying to heal his allies' armor health. It would be more helpful in most scenarios if he just shot the enemy."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Hammer Time",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -1989,7 +2448,10 @@
           "perk: Pre-Heated"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Pre-Heated",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2006,7 +2468,10 @@
           "* * When running Anchor Bolts, never just stick your Turret to the floor. Keep changing the location and keep the enemy guessing."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Anchor Bolts",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2020,7 +2485,10 @@
           "* * The best part of this perk is really the extra Turret health to keep it alive when it's being attacked. You can Overload, run to Turret with Craftsman, and it becomes very tanky."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Overloaded Turret",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -2034,7 +2502,10 @@
           "perk: Assault Burst"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Assault Burst",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -2043,7 +2514,10 @@
           "Makes Barrier Field tosses much more consistent and forgiving. The AoE is huge, so even if your placement isn’t perfect, you have a much higher chance of getting yourself and your teammates within the field."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Expanded Field",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2054,7 +2528,10 @@
           "* Nice to have for some extra healing. May not feel game-changing because his cooldowns are so long, but the extra 120 can make the difference of life and death for an ally."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Automated Healing",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2066,7 +2543,10 @@
           "* The best choice, especially against dive comps."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Rocket Boots",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -2081,7 +2561,10 @@
           "* * The only weakness of ![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)Pulsar Torpedoes is the time it takes to lock on, then the slow travel speed of the projectile. Teammates sometimes die before the healing arrives. 35% increase for only healing Torpedoes may not sound like a lot, but in critical moments it means the difference between life and death for ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)Juno's allies."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Familiar Vitals",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -2094,7 +2577,10 @@
           "* Don't tunnel vision on only dealing damage, ![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)Pulsar Torpedoes are your best source of burst healing for your allies."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Locked On",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2108,7 +2594,10 @@
           "* Good for dueling."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Faster Blaster",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2121,7 +2610,10 @@
           "* * Against melee, and close-range enemies, Lift Off can be the better Major Perk to choose, because it will help ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)Juno keep distance from her attackers."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Lift Off",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -2134,7 +2626,10 @@
           "* Considering how impactful Resurrect is, but also how vulnerable ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)Mercy becomes during it, the Overhealth can be the difference between a won and lost game."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Angelic Resurrection",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -2144,7 +2639,10 @@
           "* * Against teams that are running dive comps or have people constantly flanking and targeting you, the extra distance ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)Mercy travels by bunny hopping or crouch jumping can be your only means of survival"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Divine Momentum",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2158,7 +2656,10 @@
           "* When your team is running a brawl comp, Chain Boost makes their deathball more lethal and helps them run over the enemy more aggressively."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Chain Boost",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2170,7 +2671,10 @@
           "* * The burst healing cuts down the amount of time you need to spend healing a low-health ally, thus increasing the amount of time you can spend damage boosting."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Flash Heal",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -2184,7 +2688,10 @@
           "perk: Discordant Repair"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Discordant Repair",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -2201,7 +2708,10 @@
           "* * ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)Zenyatta loves flanking and looking to delete an unsuspecting foe with a fully charged right-click. Many maps have perimeter paths that ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)Zenyatta can only traverse with Ascendance. Be on the lookout and experiment."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Ascendance",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2215,7 +2725,10 @@
           "* You can spam secondary fire more often because of the faster charge speed, but the same tips and principles apply from ![](/data/assets/guide/a7f6469e50fb0458.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forb-of-destruction.png)Orb of Destruction (Charge) tips above."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Focused Destruction",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2225,7 +2738,10 @@
           "* The net gain is +40% healing which translates to faster ultimate charging. Moreover, keeping two allies with sustain is a lot stronger than a bit more healing on a single target."
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Major Perk"
+        "recommended_reason": "Recommended Major Perk",
+        "name": "Dual Harmony",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -2241,7 +2757,10 @@
           "* * When you see the other Support struggling to keep your allies alive, Combat Medic is the way to go."
         ],
         "recommended_flag": true,
-        "recommended_reason": "Recommended Minor Perk"
+        "recommended_reason": "Recommended Minor Perk",
+        "name": "Combat Medic",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -2253,7 +2772,10 @@
           "* If you find your Inspire uptime is low or are struggling to find consistent opportunities to proc Inspire, Morale Boost can be a good choice."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Morale Boost",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2268,7 +2790,10 @@
           "* The instant Inspire healing also makes her tankier in duels."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Inspiring Strike",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2285,7 +2810,10 @@
           "* 280 damage combo: Flail → Bash → Flail → Whip Shot-wall-slam"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Whiplash",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -2298,7 +2826,10 @@
           "* Not very impactful as an extra 60 damage on Tanks isn’t making a notable difference. Also, Tanks should not be your main target."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Steamroller",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -2308,7 +2839,10 @@
           "* Even better when you save ![](/data/assets/guide/e2a04628b040f9a1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgrappling-claw.png)Grappling Claw for after your Ult. Use high ground to roll in instead of swinging so you can immediately chase."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Multi-Ball",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2319,7 +2853,10 @@
           "* Good against squishy heroes with poor mobility like ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)Zenyatta or ![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)Hanzo."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Hang Time",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2328,7 +2865,10 @@
           "* Very strong as it gives you direct counterplay against crowd control, such as ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)Roadhog ![](/data/assets/guide/92d64f77a57b16b8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fchain-hook.png)Chain Hook and ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana's ![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)Sleep Dart."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Adaptive Barrier",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -2343,7 +2883,10 @@
           "* Better damage in Omnic Form allows Ram to be more of a threat while waiting for ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)Nemesis Form."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Void Surge",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -2352,7 +2895,10 @@
           "* Most of Ram's value is generated while in ![](/data/assets/guide/058cc46b9e18740c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnemesis-form.png)Nemesis Form. Being able to extend the duration is really good. You won't always be able to get an elimination, but when you do, this is a very impactful buff."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Relentless Form",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2365,7 +2911,10 @@
           "* Helpful when brawling because you can throw Vortex at your feet, and stay inside while Pummeling the enemy ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tank."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Nanite Repair",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2377,7 +2926,10 @@
           "* * When chasing down an enemy, shoot Vortex in front of them and detonate to force them to walk through. This makes rushing down targets notably easier."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Vengeful Vortex",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -2390,7 +2942,10 @@
           "* Pretty much the only way you can expect to survive using your own ult. While the movement may not look like much, this perk has proven very effective at making Barrage more successful."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Drift Thrusters",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -2399,7 +2954,10 @@
           "* Good self-sustain. Best when you are not able to get consistent healing from your Supports."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Helix Shields",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2410,7 +2968,10 @@
           "* Allows Pharah to stay in the sky for longer. Best on maps with lots of vertical cover like Watchpoint Gibraltar."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Fuel Stores",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2420,7 +2981,10 @@
           "* New total on direct hit is 200"
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Rocket Salvo",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -2437,7 +3001,10 @@
           "* Good for Hacking health packs because you make up for lost time with the increased uptime."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Encrypted Upload",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -2449,7 +3016,10 @@
           "* Does decrease down time between engages."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "CTRL ALT ESC",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2462,7 +3032,10 @@
           "* Often people grab health packs out of combat, so the impact is low."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "High-Speed Bandwidth",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2475,7 +3048,10 @@
           "* * As you'll often be hitting a group of enemies with ![](/data/assets/guide/7fac3c200ab1ed09.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Femp.png)EMP, the follow-up ![](/data/assets/guide/193bfabc2fb3df0f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvirus.png)Virus is helpful to your team for converting more elims."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Viral Replication",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -2488,7 +3064,10 @@
           "* Good for optimizing her Ult’s purpose. Especially if you like to dive in and use ![](/data/assets/guide/c2024d883333803a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoalescence.png)Coalescenceoffensively."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Destruction's Divide",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -2497,7 +3076,10 @@
           "* Amazing for giving ![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)Moira burst healing. Much more consistent value than Destruction’s Divide."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Ethical Nourishment",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2508,7 +3090,10 @@
           "* Gives you control over orbs. Use this to keep enemies attached and damage, or give your allies healing for longer."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Reversal",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2518,7 +3103,10 @@
           "* Also enables more aggressive dive playtsyle for yourself since you have better access to high ground areas."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Phantom Step",
+        "description": null,
+        "image": null
       }
     ]
   },
@@ -2532,7 +3120,10 @@
           "* ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)Lifeweaver can use the healing himself, which is especially good when petal dancing to avoid an attacker."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Petal Protection",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.1.2",
@@ -2544,7 +3135,10 @@
           "* * Also good to selecte when your team consists of highly mobile heroes like ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va or ![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)Winston."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Dashing Escape",
+        "description": null,
+        "image": null
       }
     ],
     "major": [
@@ -2563,7 +3157,10 @@
           "* * When you want to focus more on damage, play with another high-healing Support. If your other Support is Zen, for example, your team can’t afford for you to be spending time triggering Superbloom."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Superbloom",
+        "description": null,
+        "image": null
       },
       {
         "id": "5.2.2",
@@ -2573,7 +3170,10 @@
           "* Throw the seed in front of where your teammate is going, so they can pick it up as they chase the enemy."
         ],
         "recommended_flag": false,
-        "recommended_reason": null
+        "recommended_reason": null,
+        "name": "Sow the Seed",
+        "description": null,
+        "image": null
       }
     ]
   }

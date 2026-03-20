@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/hanzo-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/hanzo-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/hanzo-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/hanzo-guide/overwatch/guides)
 
@@ -140,6 +140,7 @@ Beyond Sonic Arrow, Hanzo doesn’t bring any benefit to his team outside of get
 
 ### Primary Fire: Storm Bow
 
+  
 **Tips For** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/storm-bow.png)Storm Bow  
 
 * Spam chokes early for pressure and possible picks. Then slow down and aim carefully once enemy positions are revealed.
@@ -149,6 +150,7 @@ Beyond Sonic Arrow, Hanzo doesn’t bring any benefit to his team outside of get
 
 ### \[SHIFT\]: Sonic Arrow
 
+  
 **Tips For** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sonic-arrow.png)Sonic Arrow  
 
 * Use Sonic Arrow _before_ fights to scout rotations
@@ -158,6 +160,7 @@ Beyond Sonic Arrow, Hanzo doesn’t bring any benefit to his team outside of get
 
 ### \[E\]: Storm Arrows
 
+  
 **Tips For** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sonic-arrow.png)Sonic Arrow  
 
 * Storm Arrows excel at burst damage on tanks, barriers, and targets with limited movement, like a turret form Bastion.
@@ -167,6 +170,7 @@ Beyond Sonic Arrow, Hanzo doesn’t bring any benefit to his team outside of get
 
 ### (In Air) \[SPACE\]: Lunge
 
+  
 **Tips For** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/lunge.png)Lunge  
 
 * Prioritize saving Lunge to defend yourself by creating space when the enemy team has flankers and dive heroes.
@@ -174,6 +178,7 @@ Beyond Sonic Arrow, Hanzo doesn’t bring any benefit to his team outside of get
 
 ### \[SPACE\]: Wall Climb
 
+  
 **Tips For** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/wall-climb.png)Wall Climb  
 
 * Wall Climb lets you take angles most heroes can’t contest. Always abuse vertical positions.
@@ -182,6 +187,7 @@ Beyond Sonic Arrow, Hanzo doesn’t bring any benefit to his team outside of get
 
 ### Ultimate: Dragonstrike
 
+  
 **Tips For** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/dragonstrike.png)Dragonstrike  
 
 * Dragonstrike can also get a ton of value when used for zoning; it’s not just for kills.
@@ -269,5 +275,3 @@ Advertisement
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
-
-![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)![](https://creativecdn.com/cm-notify?pi=fradagio-pbs&gdpr=0&gdpr_consent=&us_privacy=1---)

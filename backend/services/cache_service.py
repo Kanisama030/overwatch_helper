@@ -103,6 +103,7 @@ class CacheService:
         translated_title: str,
         prompt_version: str,
         glossary_version: str,
+        translated_description: str = "",
     ) -> None:
         """寫入快取"""
         try:
@@ -120,6 +121,7 @@ class CacheService:
             # 更新 section 快取
             cache_data["sections"][section_id] = {
                 "title": translated_title,
+                "description": translated_description,
                 "content": translated_content,
                 "content_hash": content_hash,
                 "prompt_version": prompt_version,

@@ -8,6 +8,7 @@ const CACHE_SCHEMA_VERSION = 'v2';
 
 interface TranslationSection {
   title?: string;
+  description?: string;
   content: string[];
   content_hash: string;
   prompt_version: string;

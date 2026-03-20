@@ -49,7 +49,7 @@ function StrategyTab({
 }: {
   hero: HeroSummary;
   locale: 'en' | 'zh-TW';
-  translatedSections: Record<string, { title?: string; content: string[]; content_hash: string }> | null;
+  translatedSections: Record<string, { title?: string; description?: string; content: string[]; content_hash: string }> | null;
   translationLoading: boolean;
 }) {
   const { t } = useLocale();
@@ -63,6 +63,8 @@ function StrategyTab({
     translatedSections?.[sectionId]?.content ?? (fallbackContent || []);
   const getTranslatedSectionTitle = (sectionId: string, fallbackTitle: string) =>
     translatedSections?.[sectionId]?.title || fallbackTitle;
+  const getTranslatedSectionDescription = (sectionId: string, fallbackDescription?: string | null) =>
+    translatedSections?.[sectionId]?.description || fallbackDescription || null;
   const hasTranslatedSection = (sectionIds: string[]) =>
     !!translatedSections && sectionIds.some(id => (translatedSections[id]?.content?.length ?? 0) > 0);
   const isTranslatingSection = (sectionIds: string[]) =>
@@ -158,6 +160,7 @@ function StrategyTab({
               const key = `${perk.perkType}-${perk.id || i}`;
               const isExpanded = !!expandedPerkIds[key];
               const recommendedReason = perk.recommended_reason || null;
+              const perkDescription = getTranslatedSectionDescription(perk.id, perk.description);
               const perkMarkdown = toMarkdown(getTranslatedSectionContent(perk.id, perk.content));
               const isPerkTranslating = locale === 'zh-TW' && translationLoading && !hasTranslatedSection([perk.id]);
               return (
@@ -171,14 +174,22 @@ function StrategyTab({
                     <div className="flex-1 min-w-0">
                       <div className="flex items-center gap-2 flex-wrap">
                          <span className="text-[10px] font-black px-1.5 py-0.5 rounded" style={perk.perkType === 'minor' ? { backgroundColor: 'rgba(242,127,13,0.3)', color: '#f27f0d' } : { backgroundColor: 'rgba(242,127,13,0.5)', color: '#221910' }}>
-                           {perk.perkType === 'minor' ? t.hero.minorPerks : t.hero.majorPerks}
-                         </span>
+                            {perk.perkType === 'minor' ? t.hero.minorPerks : t.hero.majorPerks}
+                          </span>
                         {perk.recommended_flag && (
                           <span className="text-[10px] font-black px-1.5 py-0.5 rounded" style={{ backgroundColor: 'rgba(34,197,94,0.25)', color: '#22c55e' }}>
                             {t.hero.recommended}
                           </span>
                         )}
-                        <h5 className="text-base font-bold truncate" style={{ color: '#f27f0d' }}>
+                        {perk.image && (
+                          <img
+                            src={perk.image}
+                            alt=""
+                            className="w-6 h-6 rounded-sm object-contain shrink-0"
+                            loading="lazy"
+                          />
+                        )}
+                        <h5 className="text-base font-bold truncate min-w-0" style={{ color: '#f27f0d' }}>
                           {getTranslatedSectionTitle(perk.id, perk.title)}
                         </h5>
                       </div>
@@ -195,8 +206,11 @@ function StrategyTab({
                       <p className="text-sm animate-pulse" style={{ color: '#9ca3af' }}>翻譯中...</p>
                     </div>
                   )}
-                  {isExpanded && !isPerkTranslating && perkMarkdown && (
+                  {isExpanded && !isPerkTranslating && (perkDescription || perkMarkdown) && (
                     <div className="px-3 md:px-4 pb-4 pt-0">
+                      {perkDescription && (
+                        <p className="text-sm mb-3" style={{ color: '#f5d7b3' }}>{perkDescription}</p>
+                      )}
                       <MarkdownContent
                         content={perkMarkdown}
                         textClassName={heroAnalysisTextClass}

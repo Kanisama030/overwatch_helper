@@ -1,6 +1,7 @@
 """翻譯服務：整合 Gemini API 與快取"""
 import json
 import time
+import os
 from typing import Dict, List, Optional
 from datetime import datetime
 import google.generativeai as genai
@@ -28,6 +29,15 @@ class TranslationService:
         
         # 統計
         self._stats = {"gemini_calls": 0, "cache_hits": 0, "errors": 0}
+
+    def _load_mapping(self) -> Dict:
+        try:
+            base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            mapping_path = os.path.join(base_dir, "data", "overwatch_mapping.json")
+            with open(mapping_path, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return {}
     
     def _should_translate_with_gemini(self, section_id: str) -> bool:
         """
@@ -71,6 +81,7 @@ class TranslationService:
         
         content_text = self._extract_text_content(content)
         
+        description = section_data.get("description", "")
         prompt = f"""你是專業的 Overwatch 遊戲內容翻譯員，負責將英文內容翻譯成繁體中文（台灣用語）。
 
 {glossary_text}
@@ -87,6 +98,7 @@ class TranslationService:
 
 Section ID: {section_id}
 Title: {title}
+Description: {description}
 
 Content:
 {content_text}
@@ -95,6 +107,7 @@ Content:
 請以 JSON 格式輸出，結構如下：
 {{
   "title": "翻譯後的標題",
+  "description": "翻譯後的描述（若無可為空字串）",
   "content": ["翻譯後的段落1", "翻譯後的段落2", ...]
 }}
 
@@ -186,6 +199,7 @@ Content:
         
         # 寫入快取
         translated_title = translated.get("title", section.get("title", ""))
+        translated_description = translated.get("description", section.get("description", ""))
         translated_content = translated.get("content", [])
         self.cache_service.set(
             hero_id=hero_id,
@@ -193,12 +207,14 @@ Content:
             content=content_text,
             translated_content=translated_content,
             translated_title=translated_title,
+            translated_description=translated_description,
             prompt_version=self.prompt_version,
             glossary_version=self.glossary_service.get_version(),
         )
         
         return {
             "title": translated_title,
+            "description": translated_description,
             "content": translated_content,
             "content_hash": self.cache_service._compute_content_hash(content_text),
             "prompt_version": self.prompt_version,
@@ -228,6 +244,20 @@ Content:
         """
         guide = hero_data.get("Guide", [])
         glossary_text = self.glossary_service.get_glossary_text()
+        mapping = self._load_mapping()
+        hero_mapping = None
+        for h in mapping.get("heroes", []):
+            if str(h.get("id", "")).lower() == hero_id.lower() or str(h.get("en", "")).lower() == hero_id.lower():
+                hero_mapping = h
+                break
+        perk_sections = {}
+        if hero_mapping and isinstance(hero_mapping.get("perks"), dict):
+            for perk in hero_mapping.get("perks", {}).get("minor perks", []) or []:
+                if isinstance(perk, dict) and perk.get("name"):
+                    perk_sections[perk.get("name")] = perk
+            for perk in hero_mapping.get("perks", {}).get("major perks", []) or []:
+                if isinstance(perk, dict) and perk.get("name"):
+                    perk_sections[perk.get("name")] = perk
         
         result = {
             "hero_id": hero_id,
@@ -245,6 +275,12 @@ Content:
             section_id = section.get("id", "")
             if not section_id:
                 continue
+
+            if section_id in {"5.1.1", "5.1.2", "5.2.1", "5.2.2"}:
+                perk_data = perk_sections.get(section.get("title", ""))
+                if perk_data:
+                    section["title"] = perk_data.get("name", section.get("title", ""))
+                    section["description"] = perk_data.get("description", "")
             
             # 只翻譯有內容的 section
             if not section.get("content"):

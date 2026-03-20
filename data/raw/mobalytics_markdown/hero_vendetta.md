@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/vendetta-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/vendetta-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/vendetta-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/vendetta-guide/overwatch/guides)
 
@@ -156,7 +156,6 @@ Her block does not stop CC, Sleep Dart, or stuns. Knockbacks can instantly shut 
 
 ### Protected Edge (Primary Fire during Warind Stance)
 
-  
 * Mostly for poke damage to farm ult charge.
 * Not much of a lethal threat. But smart to use before getting into close range, and anytime you want to get in extra damage against a target outside of your sword toss range.
 * Good for securing elims as the final blow on a low HP enemy that barely survived your initial attack.
@@ -198,6 +197,7 @@ Her block does not stop CC, Sleep Dart, or stuns. Knockbacks can instantly shut 
 
 ### Passive: Onslaught
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/onslaught.png)Onslaught  
 
 * The buffs do not decay gradually like many other abilities. When it expires, it drops to zero instantly.
@@ -280,75 +280,4 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
-Video Player is loading.
-
-Play Video
-
-Pause
-
-Unmute
-
-Current Time 0:05
-
-/
-
-Duration 2:00
-
-Loaded: 18.93%
-
-0:05
-
-Stream Type LIVE
-
-Seek to live, currently behind liveLIVE
-
-Remaining Time \-1:55
-
-1x
-
-Playback Rate
-
-Chapters
-
-* Chapters
-
-Descriptions
-
-* descriptions off, selected
-
-Captions
-
-* captions settings, opens captions settings dialog
-* captions off, selected
-
-Audio Track
-
-Picture-in-PictureFullscreen
-
-This is a modal window.
-
-Beginning of dialog window. Escape will cancel and close the window.
-
-TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-Transparent
-
-BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparent
-
-WindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaque
-
-Font Size50%75%100%125%150%175%200%300%400%
-
-Text Edge StyleNoneRaisedDepressedUniformDropshadow
-
-Font FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps
-
-Reset restore all settings to the default valuesDone
-
-Close Modal Dialog
-
-End of dialog window.
-
-Ad
-
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
-
-![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)

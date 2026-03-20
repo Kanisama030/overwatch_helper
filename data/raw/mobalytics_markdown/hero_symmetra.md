@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/symmetra-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/symmetra-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/symmetra-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/symmetra-guide/overwatch/guides)
 
@@ -137,6 +137,7 @@ When playing Sym, you may come up with an awesome TP strategy, but actually gett
 
 ### Primary Fire: Photon Projector
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/photon-projector.png)Photon Projector  
 
 * Maintain high level
@@ -149,6 +150,7 @@ When playing Sym, you may come up with an awesome TP strategy, but actually gett
 
 ### Secondary Fire: Photon Projector (charged orb)
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/photon-projector.png)Photon Projector **(charged orb)**
 
 * Poke
@@ -163,6 +165,7 @@ When playing Sym, you may come up with an awesome TP strategy, but actually gett
 
 ### \[SHIFT\]: Sentry Turret
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sentry-turret.png)Sentry Turret  
 
 * On defense
@@ -177,6 +180,7 @@ When playing Sym, you may come up with an awesome TP strategy, but actually gett
 
 ### \[E\]: Teleporter
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/teleporter.png)Teleporter  
 
 * Flanks and dives
@@ -190,6 +194,7 @@ When playing Sym, you may come up with an awesome TP strategy, but actually gett
 
 ### Ultimate: Photon Barrier
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/photon-barrier.png)Photon Barrier  
 
 * Divide the battlefield
@@ -292,81 +297,16 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
-Advertisement
-
-Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
 Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
-Video Player is loading.
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
-Play Video
+Advertisement
 
-Pause
-
-Unmute
-
-Current Time 0:02
-
-/
-
-Duration 2:00
-
-Loaded: 8.41%
-
-0:02
-
-Stream Type LIVE
-
-Seek to live, currently behind liveLIVE
-
-Remaining Time \-1:58
-
-1x
-
-Playback Rate
-
-Chapters
-
-* Chapters
-
-Descriptions
-
-* descriptions off, selected
-
-Captions
-
-* captions settings, opens captions settings dialog
-* captions off, selected
-
-Audio Track
-
-Picture-in-PictureFullscreen
-
-This is a modal window.
-
-Beginning of dialog window. Escape will cancel and close the window.
-
-TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-Transparent
-
-BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparent
-
-WindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaque
-
-Font Size50%75%100%125%150%175%200%300%400%
-
-Text Edge StyleNoneRaisedDepressedUniformDropshadow
-
-Font FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps
-
-Reset restore all settings to the default valuesDone
-
-Close Modal Dialog
-
-End of dialog window.
-
-Ad
+Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads

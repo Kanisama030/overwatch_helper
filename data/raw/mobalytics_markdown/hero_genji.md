@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/guides)
 
@@ -138,6 +138,7 @@ Because Deflect is Genji’s primary means of surviving, he struggles against he
 
 ### Primary Fire: Shuriken
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/shuriken.png)Shuriken  
 
 * Poke
@@ -147,6 +148,7 @@ Because Deflect is Genji’s primary means of surviving, he struggles against he
 
 ### Secondary Fire: Shuriken (Fan spread)
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/shuriken.png)Shuriken **(Fan spread)**
 
 * Large body enemies
@@ -156,6 +158,7 @@ Because Deflect is Genji’s primary means of surviving, he struggles against he
 
 ### \[SHIFT\]: Swift Strike
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/swift-strike.png)Swift Strike  
 
 * Path to engage
@@ -171,6 +174,7 @@ Because Deflect is Genji’s primary means of surviving, he struggles against he
 
 ### \[E\]: Deflect
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/deflect.png)Deflect  
 
 * Counter the enemy's highest value ability
@@ -193,6 +197,7 @@ Because Deflect is Genji’s primary means of surviving, he struggles against he
 
 ### Ultimate: Dragonblade
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/dragonblade.png)Dragonblade  
 
 * Track enemy counter abilities
@@ -243,7 +248,7 @@ Meditation
 
 ## Maps
 
-### Best maps
+### Best Maps
 
 * Numbani
 * * The first two points on Numbani have tons of high ground surrounding the point and path of the payload. Superior vertical mobility allows Genji to take advantage of the various high ground areas for both defensive and offensive positions. On the final point, there are multiple strong flank routes Genji can use to set up engagements on vulnerable backlines.
@@ -313,7 +318,7 @@ If using comms, calling out when Deflect and dash are used can help your team kn
 
 ## Table of Contents
 
-[1. Genji Overview](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#genji-overview-0)[ TLDR](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#tldr-0)[2. Strengths And Weaknesses Summarized](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#strengths-and-weaknesses-summarized-0)[3. Strengths And Weaknesses Explained](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#strengths-and-weaknesses-explained-1)[ Strengths](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#strengths-0)[ Weaknesses](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#weaknesses-1)[4. Genji Ability Tips](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#genji-ability-tips-2)[ Primary Fire: Shuriken](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#primary-fire-shuriken-0)[ Secondary Fire: Shuriken (Fan spread)](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#secondary-fire-shuriken-fan-spread-1)[ \[SHIFT\]: Swift Strike](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#shift-swift-strike-2)[ \[E\]: Deflect](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#e-deflect-3)[ \[SPACE\]: Cyber-agility](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#space-cyber-agility-4)[ Ultimate: Dragonblade](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#ultimate-dragonblade-5)[5. Perks](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#perks-3)[ Minor Perks](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#minor-perks-0)[ Major Perks](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#major-perks-1)[6. Maps](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#maps-4)[ Best maps](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#best-maps-0)[ Worst Maps](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#worst-maps-1)[7. Team Comp Synergies](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#team-comp-synergies-5)[ Individual synergies with other heroes](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#individual-synergies-with-other-heroes-0)[8. How to Counter Genji ](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#how-to-counter-genji-6)
+[1. Genji Overview](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#genji-overview-0)[ TLDR](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#tldr-0)[2. Strengths And Weaknesses Summarized](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#strengths-and-weaknesses-summarized-0)[3. Strengths And Weaknesses Explained](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#strengths-and-weaknesses-explained-1)[ Strengths](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#strengths-0)[ Weaknesses](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#weaknesses-1)[4. Genji Ability Tips](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#genji-ability-tips-2)[ Primary Fire: Shuriken](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#primary-fire-shuriken-0)[ Secondary Fire: Shuriken (Fan spread)](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#secondary-fire-shuriken-fan-spread-1)[ \[SHIFT\]: Swift Strike](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#shift-swift-strike-2)[ \[E\]: Deflect](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#e-deflect-3)[ \[SPACE\]: Cyber-agility](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#space-cyber-agility-4)[ Ultimate: Dragonblade](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#ultimate-dragonblade-5)[5. Perks](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#perks-3)[ Minor Perks](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#minor-perks-0)[ Major Perks](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#major-perks-1)[6. Maps](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#maps-4)[ Best Maps](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#best-maps-0)[ Worst Maps](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#worst-maps-1)[7. Team Comp Synergies](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#team-comp-synergies-5)[ Individual synergies with other heroes](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#individual-synergies-with-other-heroes-0)[8. How to Counter Genji ](https://mobalytics.gg/overwatch/heroes/genji-guide/overwatch/heroes/genji-guide#how-to-counter-genji-6)
 
 Back to top
 

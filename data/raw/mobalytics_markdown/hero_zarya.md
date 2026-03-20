@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/zarya-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/zarya-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/zarya-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/zarya-guide/overwatch/guides)
 
@@ -136,22 +136,27 @@ Optimal bubble use is complex and the choice of what, when, where and who to bub
 
 ### **Primary Fire: Particle Cannon**
 
-Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-cannon.png)Particle Cannon  
+  
+**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-cannon.png)Particle Cannon  
 
 * Use the beam primarily against DPS and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/support.svg)Supports when they are within range, and only commit to the enemy tank if no higher-value target is available.
 * Play near the outer edge of your beam range to minimize incoming damage while maintaining pressure.
 * The beam cannot be ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/deflect.png)Deflected, absorbed by ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/defense-matrix.png)Defense Matrix or ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/kinetic-grasp.png)Kinetic Grasp, making it reliable into those heroes.
 
-### Secondary Fire: (Energy Grenades)
+### **Secondary Fire: (Energy Grenades)**
+
+  
+**Tips for Energy Grenades**
 
 * Use secondary fire to pressure grouped enemies and build ultimate charge when targets are outside beam range.
 * Weave secondary fire into your ammo cycle to maximize overall damage output, especially when finishing a clip.
 * Secondary fire into melee provides ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/zarya.png)Zarya's highest burst combo at close range.
 * You can still fire a secondary projectile even if you have minimal ammo remaining.
 
-### \[SHIFT\]: Particle Barrier (Self Bubble)
+### **\[SHIFT\]: Particle Barrier (Self Bubble)**
 
-Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-barrier.png)Particle Barrier  
+  
+**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/particle-barrier.png)Particle Barrier  
 
 * Use self-bubble reactively when you are actively taking damage or committing to space, rather than preemptively.
 * Look to bubble moments of clear aggression—when you are the focus of enemy abilities or stepping forward to pressure.
@@ -159,7 +164,8 @@ Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets
 
 ### \[E\]: Projected Barrier (Ally Bubble)
 
-Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/projected-barrier.png)Projected Barrier  
+  
+**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/projected-barrier.png)Projected Barrier  
 
 * Bubble teammates who are either under heavy pressure or committing to aggressive plays.
 * Use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/projected-barrier.png)Projected Barrier to enable dives, flanks, or frontline pushes that would otherwise be punished.
@@ -173,7 +179,8 @@ Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets
 
 ### \[Q\] Graviton Surge
 
-Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/graviton-surge.png)Graviton Surge  
+  
+**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/graviton-surge.png)Graviton Surge  
 
 * You do not need a massive multi-target ultimate to win a fight; securing a single high-value elimination is often enough.
 * Track enemy counter-ultimates and mitigation tools such as ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/defense-matrix.png)Defense Matrix, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/ice-wall.png)Ice Wall, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/transcendence.png)Transcendence, and ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sound-barrier.png)Sound Barrier before committing.
@@ -182,7 +189,7 @@ Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets
 
 ### Energy (Passive Mechanic)
 
-Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/energy.png)Energy  
+**Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/energy.png)Energy  
 
 * Damage absorbed by your barriers increases the damage of both primary and secondary fire.
 * Energy decays if you are not mitigating damage, so maintain fight tempo to preserve high charge.
@@ -323,75 +330,4 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
-Video Player is loading.
-
-Play Video
-
-Pause
-
-Unmute
-
-Current Time 0:04
-
-/
-
-Duration 2:00
-
-Loaded: 17.30%
-
-0:04
-
-Stream Type LIVE
-
-Seek to live, currently behind liveLIVE
-
-Remaining Time \-1:56
-
-1x
-
-Playback Rate
-
-Chapters
-
-* Chapters
-
-Descriptions
-
-* descriptions off, selected
-
-Captions
-
-* captions settings, opens captions settings dialog
-* captions off, selected
-
-Audio Track
-
-Picture-in-PictureFullscreen
-
-This is a modal window.
-
-Beginning of dialog window. Escape will cancel and close the window.
-
-TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-Transparent
-
-BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparent
-
-WindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaque
-
-Font Size50%75%100%125%150%175%200%300%400%
-
-Text Edge StyleNoneRaisedDepressedUniformDropshadow
-
-Font FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps
-
-Reset restore all settings to the default valuesDone
-
-Close Modal Dialog
-
-End of dialog window.
-
-Ad
-
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
-
-![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)

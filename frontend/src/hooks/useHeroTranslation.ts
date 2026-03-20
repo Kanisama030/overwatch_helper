@@ -8,6 +8,7 @@ import type { Locale } from '../types';
 
 interface TranslationSection {
   title?: string;
+  description?: string;
   content: string[];
   content_hash: string;
 }

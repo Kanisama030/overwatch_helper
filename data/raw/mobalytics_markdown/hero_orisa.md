@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/orisa-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/orisa-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/orisa-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/orisa-guide/overwatch/guides)
 
@@ -134,6 +134,7 @@ Unlike most other Tanks, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto
 
 ### Primary Fire: Augmented Fusion Driver
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/augmented-fusion-driver.png)Augmented Fusion Driver  
 
 * Keep your distance and poke
@@ -143,6 +144,7 @@ Unlike most other Tanks, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto
 
 ### Secondary Fire: Energy Javelin
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/energy-javelin.png)Energy Javelin  
 
 * Play keep away
@@ -154,6 +156,7 @@ Unlike most other Tanks, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto
 
 ### \[SHIFT\]: Fortify
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fortify.png)Fortify  
 
 * ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/orisa.png)Orisa's most important ability
@@ -167,6 +170,7 @@ Unlike most other Tanks, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto
 
 ### \[E\]: Javelin Spin
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/javelin-spin.png)Javelin Spin  
 
 * Cycle with Fortify
@@ -179,6 +183,7 @@ Unlike most other Tanks, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto
 
 ### Ultimate: Terra Surge
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/terra-surge.png)Terra Surge  
 
 * How long should I charge ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/terra-surge.png)Terra Surge?
@@ -270,6 +275,8 @@ Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, a
 Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
 Advertisement
 

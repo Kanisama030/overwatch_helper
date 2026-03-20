@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/jetpack-cat-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/jetpack-cat-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/jetpack-cat-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/jetpack-cat-guide/overwatch/guides)
 
@@ -138,6 +138,7 @@ Whereas most Support heroes have an ultimate they can use to save their team fro
 
 ### Primary Fire: Biotic Pawjecticles
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-pawjectiles.png)Biotic Pawjectiles  
 
 * No falloff damage, but the projectile only travels 40m before disappearing.
@@ -147,6 +148,7 @@ Whereas most Support heroes have an ultimate they can use to save their team fro
 
 ### Secondary Fire: Frenetic Flight
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/frenetic-flight.png)Frenetic Flight  
 
 * Use the boost to control space and positioning. Optimal range is keeping enemies within primary fire range (40m), and allies within healing aura when using Purr
@@ -157,6 +159,7 @@ Whereas most Support heroes have an ultimate they can use to save their team fro
 
 ### \[SHIFT\]: Lifeline
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/lifeline.png)Lifeline  
 
 * Transport and heals allies
@@ -169,6 +172,7 @@ Whereas most Support heroes have an ultimate they can use to save their team fro
 
 ### \[E\]: Purr
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/purr.png)Purr  
 
 * Knockback upon activation
@@ -177,6 +181,7 @@ Whereas most Support heroes have an ultimate they can use to save their team fro
 
 ### Ultimate: Catnapper
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/catnapper.png)Catnapper  
 
 * On maps with ledges nearby the objective, save your Ult to use when an environmental KO is possible.

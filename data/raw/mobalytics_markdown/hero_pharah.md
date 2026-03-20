@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/guides)
 
@@ -158,6 +158,7 @@ When playing into poke comps with multiple hitscan heroes, ![](https://cdn.mobal
 
 ### Rocket Launcher
 
+  
 Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rocket-launcher.png)Rocket Launcher  
 
 Landing rockets consistently requires prediction.
@@ -178,7 +179,8 @@ A Rocket Jump uses ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width
 
 ### Concussive Blast
 
-Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/concussive-blast.png)Concussive Blastthe 
+  
+Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/concussive-blast.png)Concussive Blast  
 
 #### Concussive Jump
 
@@ -208,6 +210,7 @@ If an enemy attempts to disengage by walking away or using a movement ability, u
 
 ### Hover Jets
 
+  
 Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/hover-jets.png)Hover Jets  
 
 #### Roof Hovering
@@ -221,14 +224,14 @@ Use rooftops, walls, and map geometry to stall in the air without consuming fuel
 
 ### Jet Dash
 
+  
 Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/jet-dash.png)Jet Dash  
 
 * Pharah can chain her movement abilities in nearly any sequence. The key is deciding which abilities to use, in what order, and which to hold for disengage.
 
-### Ad
-
 ### \[Ultimate\]: Barrage
 
+  
 Tips for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrage.png)Barrage  
 
 * ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/pharah.png)Pharah needs to be pretty close to quickly kill with her ult. Don't use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/barrage.png)Barrage while flying at max height.
@@ -357,7 +360,7 @@ When you find yourself playing into a good Pharah player you primarily need to k
 
 ## Table of Contents
 
-[1. Pharah Overview](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#pharah-overview-0)[ TLDR](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#tldr-0)[2. Strengths And Weaknesses Summarized](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#strengths-and-weaknesses-summarized-0)[3. Strengths And Weaknesses Explained](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#strengths-and-weaknesses-explained-1)[ Strengths](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#strengths-0)[ Weaknesses](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#weaknesses-1)[4. Pharah Ability Tips](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#pharah-ability-tips-2)[ Positioning and Playstyle](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#positioning-and-playstyle-0)[ Rocket Launcher](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#rocket-launcher-1)[ Rocket Jump](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#rocket-jump-2)[ Concussive Blast](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#concussive-blast-3)[ Hover Jets](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#hover-jets-4)[ Jet Dash](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#jet-dash-5)[ Ad](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#ad-6)[ \[Ultimate\]: Barrage](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#ultimate-barrage-7)[ Advanced Movement Tech](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#advanced-movement-tech-8)[5. Perks](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#perks-3)[ Minor Perks](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#minor-perks-0)[ Major Perks](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#major-perks-1)[6. Maps](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#maps-4)[ Best Maps](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#best-maps-0)[ Worst Maps](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#worst-maps-1)[7. Team Comp Synergies](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#team-comp-synergies-5)[ Individual synergies with other heroes](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#individual-synergies-with-other-heroes-0)[8. How to Counter Pharah](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#how-to-counter-pharah-6)
+[1. Pharah Overview](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#pharah-overview-0)[ TLDR](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#tldr-0)[2. Strengths And Weaknesses Summarized](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#strengths-and-weaknesses-summarized-0)[3. Strengths And Weaknesses Explained](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#strengths-and-weaknesses-explained-1)[ Strengths](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#strengths-0)[ Weaknesses](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#weaknesses-1)[4. Pharah Ability Tips](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#pharah-ability-tips-2)[ Positioning and Playstyle](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#positioning-and-playstyle-0)[ Rocket Launcher](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#rocket-launcher-1)[ Rocket Jump](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#rocket-jump-2)[ Concussive Blast](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#concussive-blast-3)[ Hover Jets](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#hover-jets-4)[ Jet Dash](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#jet-dash-5)[ \[Ultimate\]: Barrage](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#ultimate-barrage-6)[ Advanced Movement Tech](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#advanced-movement-tech-7)[5. Perks](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#perks-3)[ Minor Perks](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#minor-perks-0)[ Major Perks](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#major-perks-1)[6. Maps](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#maps-4)[ Best Maps](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#best-maps-0)[ Worst Maps](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#worst-maps-1)[7. Team Comp Synergies](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#team-comp-synergies-5)[ Individual synergies with other heroes](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#individual-synergies-with-other-heroes-0)[8. How to Counter Pharah](https://mobalytics.gg/overwatch/heroes/pharah-guide/overwatch/heroes/pharah-guide#how-to-counter-pharah-6)
 
 Back to top
 
@@ -380,5 +383,3 @@ Advertisement
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
-
-![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)

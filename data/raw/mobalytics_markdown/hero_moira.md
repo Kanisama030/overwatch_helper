@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/guides)
 
@@ -148,6 +148,7 @@ While her total damage output is great, ![](https://cdn.mobalytics.gg/cdn-cgi/im
 
 ### Primary Fire: Biotic Grasp
 
+  
 **Tips for Primary Fire** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-grasp.png)Biotic Grasp  
 
 * Spray ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-grasp.png)Biotic Grasp healing onto allies and allow the lingering 3 seconds of healing over time to top them off instead of wasting Biotic Energy healing them to full HP.
@@ -155,6 +156,7 @@ While her total damage output is great, ![](https://cdn.mobalytics.gg/cdn-cgi/im
 
 ### Secondary Fire: Biotic Grasp (RMB)
 
+  
 **Tips for Secondary Fire** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-grasp.png)Biotic Grasp  
 
 * Position aggressively enough that you can constantly alternate between dealing damage and healing with ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-grasp.png)Biotic Grasp. Maintaining this rhythm gives you near-endless resource uptime.
@@ -163,6 +165,7 @@ While her total damage output is great, ![](https://cdn.mobalytics.gg/cdn-cgi/im
 
 ### Biotic Orb
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-orb.png)Biotic Orb  
 
 * Because ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/biotic-orb.png)Biotic Orb provides up to 300 HP of healing but only 200 total damage, Heal Orb generally generates more ultimate charge than Damage Orb.
@@ -171,6 +174,7 @@ While her total damage output is great, ![](https://cdn.mobalytics.gg/cdn-cgi/im
 
 ### Fade
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/fade.png)Fade  
 
 * Take full advantage of Fade’s 6-second cooldown. ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/moira.png)Moira has excellent mobility, so you should constantly reposition to optimal angles and cover.
@@ -182,6 +186,7 @@ While her total damage output is great, ![](https://cdn.mobalytics.gg/cdn-cgi/im
 
 ### Coalescence
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/coalescence.png)Coalescence  
 
 * Contrary to what would seem to be popular belief, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/coalescence.png)Coalescence only increases Moira’s damage from 65 to 85 damage per second. On its own, it is not an efficient killing tool. It would take nearly half of the ult’s duration to eliminate a standard 250 HP hero, assuming they receive no healing for over 3 seconds.
@@ -213,7 +218,7 @@ Phantom Step
 
 ## Maps
 
-### Best maps
+### Best Maps
 
 #### Lijiang Tower
 
@@ -285,7 +290,7 @@ When both teams have Moira, whichever one can out-stat the other typically wins.
 
 ## Table of Contents
 
-[1. Moira Overview](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#moira-overview-0)[ TLDR](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#tldr-0)[2. Strengths And Weaknesses Summarized](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#strengths-and-weaknesses-summarized-0)[3. Strengths And Weaknesses Explained](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#strengths-and-weaknesses-explained-1)[ Strengths](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#strengths-0)[ Weaknesses](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#weaknesses-1)[4. Moira Ability Tips](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#moira-ability-tips-2)[ Primary Fire: Biotic Grasp](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#primary-fire-biotic-grasp-0)[ Secondary Fire: Biotic Grasp (RMB)](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#secondary-fire-biotic-grasp-rmb-1)[ Biotic Orb](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#biotic-orb-2)[ Fade](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#fade-3)[ Coalescence](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#coalescence-4)[5. Perks](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#perks-3)[ Minor Perks](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#minor-perks-0)[ Major Perks](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#major-perks-1)[6. Maps](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#maps-4)[ Best maps](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#best-maps-0)[ Worst Maps](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#worst-maps-1)[7. Team Comp Synergies](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#team-comp-synergies-5)[ Individual synergies with other heroes](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#individual-synergies-with-other-heroes-0)[8. How to Counter Moira ](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#how-to-counter-moira-6)
+[1. Moira Overview](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#moira-overview-0)[ TLDR](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#tldr-0)[2. Strengths And Weaknesses Summarized](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#strengths-and-weaknesses-summarized-0)[3. Strengths And Weaknesses Explained](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#strengths-and-weaknesses-explained-1)[ Strengths](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#strengths-0)[ Weaknesses](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#weaknesses-1)[4. Moira Ability Tips](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#moira-ability-tips-2)[ Primary Fire: Biotic Grasp](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#primary-fire-biotic-grasp-0)[ Secondary Fire: Biotic Grasp (RMB)](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#secondary-fire-biotic-grasp-rmb-1)[ Biotic Orb](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#biotic-orb-2)[ Fade](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#fade-3)[ Coalescence](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#coalescence-4)[5. Perks](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#perks-3)[ Minor Perks](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#minor-perks-0)[ Major Perks](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#major-perks-1)[6. Maps](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#maps-4)[ Best Maps](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#best-maps-0)[ Worst Maps](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#worst-maps-1)[7. Team Comp Synergies](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#team-comp-synergies-5)[ Individual synergies with other heroes](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#individual-synergies-with-other-heroes-0)[8. How to Counter Moira ](https://mobalytics.gg/overwatch/heroes/moira-guide/overwatch/heroes/moira-guide#how-to-counter-moira-6)
 
 Back to top
 
@@ -306,6 +311,8 @@ Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, a
 Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
 Advertisement
 

@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/mauga-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/mauga-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/mauga-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/mauga-guide/overwatch/guides)
 
@@ -136,6 +136,7 @@ Because ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/
 
 ### Primary Fire: Incendiary Chaingun
 
+  
 **Tips for** Incendiary Chaingun  
 
 * Poke
@@ -146,6 +147,7 @@ Because ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/
 
 ### Secondary Fire: Volatile Chaingun
 
+  
 **Tips for** Volatile Chaingun  
 
 * Auto-crit
@@ -168,6 +170,7 @@ Because ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/
 
 ### \[SHIFT\]: Overrun
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/overrun.png)Overrun  
 
 * Knockdown
@@ -184,6 +187,7 @@ Because ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/
 
 ### \[E\]: Cardiac Overdrive
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/cardiac-overdrive.png)Cardiac Overdrive  
 
 * Manage Armor
@@ -207,6 +211,7 @@ Because ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/
 
 ### Ultimate: Cage Fight
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/cage-fight.png)Cage Fight  
 
 * Isolate enemies
@@ -327,6 +332,8 @@ Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, a
 Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
 Advertisement
 

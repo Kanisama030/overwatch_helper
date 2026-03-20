@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/wuyang-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/wuyang-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/wuyang-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/wuyang-guide/overwatch/guides)
 
@@ -138,6 +138,7 @@ Unlike the original iteration of ![](https://cdn.mobalytics.gg/cdn-cgi/image/for
 
 ### Primary Fire: Xuanwu Staff
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/xuanwu-staff.png)Xuanwu Staff  
 
 * Water orbs need to travel about 8m before they can become empowered. When you are very close to your target, it is better to spam fire instead of trying to charge and control your shots.
@@ -148,6 +149,7 @@ Unlike the original iteration of ![](https://cdn.mobalytics.gg/cdn-cgi/image/for
 
 ### Secondary Fire: Restorative Stream
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/restorative-stream.png)Restorative Stream  
 
 * Prioritize squishy allies, and especially those diving or taking up a lot of the enemy's attention.
@@ -161,6 +163,7 @@ Unlike the original iteration of ![](https://cdn.mobalytics.gg/cdn-cgi/image/for
 
 ### \[SHIFT\]: Rushing Torrent
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/rushing-torrent.png)Rushing Torrent  
 
 * Grants a burst of speed followed by sustained mobility and increased jump height. Primarily, you should use it proactively to reposition to corners and high ground as your team moves around.
@@ -168,6 +171,7 @@ Unlike the original iteration of ![](https://cdn.mobalytics.gg/cdn-cgi/image/for
 
 ### \[E\]: Guardian Wave
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/guardian-wave.png)Guardian Wave  
 
 * Deals damage, heals allies, knocks enemies back, and increases healing received by 50% for 3 seconds.
@@ -177,6 +181,7 @@ Unlike the original iteration of ![](https://cdn.mobalytics.gg/cdn-cgi/image/for
 
 ### Ultimate: Tidal Blast
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/tidal-blast.png)Tidal Blast  
 
 * Works best on aggressive, fast heroes diving into the enemy team. Always wait for your ally to be actively attack the enemy before giving them your ult.
@@ -272,75 +277,4 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
-Video Player is loading.
-
-Play Video
-
-Pause
-
-Unmute
-
-Current Time 0:04
-
-/
-
-Duration 2:00
-
-Loaded: 18.74%
-
-0:04
-
-Stream Type LIVE
-
-Seek to live, currently behind liveLIVE
-
-Remaining Time \-1:56
-
-1x
-
-Playback Rate
-
-Chapters
-
-* Chapters
-
-Descriptions
-
-* descriptions off, selected
-
-Captions
-
-* captions settings, opens captions settings dialog
-* captions off, selected
-
-Audio Track
-
-Picture-in-PictureFullscreen
-
-This is a modal window.
-
-Beginning of dialog window. Escape will cancel and close the window.
-
-TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-Transparent
-
-BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparent
-
-WindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaque
-
-Font Size50%75%100%125%150%175%200%300%400%
-
-Text Edge StyleNoneRaisedDepressedUniformDropshadow
-
-Font FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps
-
-Reset restore all settings to the default valuesDone
-
-Close Modal Dialog
-
-End of dialog window.
-
-Ad
-
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
-
-![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)![](https://creativecdn.com/cm-notify?pi=fradagio-pbs&gdpr=0&gdpr_consent=&us_privacy=1---)

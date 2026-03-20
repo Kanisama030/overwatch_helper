@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/guides)
 
@@ -132,11 +132,11 @@ One major drawback to a copy Ult is that you have to achieve at least a base lev
 
 Echo’s lethality comes at the cost of low health and no defensive abilities. She dies quickly when exposed and has to play evasively if she wants to stay alive. When Flight is on cooldown, Echo is a sitting duck against dive heroes. Moreover, if the enemy runs more than two hitscans, staying in the air becomes a problem as Echo can’t sustain the damage.
 
-  
 ## Echo Ability Tips
 
 ### Primary Fire: Tri-Shot
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/tri-shot.png)Tri-Shot  
 
 * Poking
@@ -150,6 +150,7 @@ Echo’s lethality comes at the cost of low health and no defensive abilities. S
 
 ### Secondary Fire: Sticky Bombs 
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/sticky-bombs.png)Sticky Bombs  
 
 * Surprise attack
@@ -161,6 +162,7 @@ Echo’s lethality comes at the cost of low health and no defensive abilities. S
 
 ### \[SHIFT\]: Flight
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/flight.png)Flight  
 
 * Save for escapes
@@ -177,6 +179,7 @@ Echo’s lethality comes at the cost of low health and no defensive abilities. S
 
 ### \[E\]: Focusing Beam
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/focusing-beam.png)Focusing Beam  
 
 * Never use until half health
@@ -191,6 +194,7 @@ Echo’s lethality comes at the cost of low health and no defensive abilities. S
 
 ### \[SPACE\]: Glide
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/glide.png)Glide  
 
 * When to float
@@ -204,6 +208,7 @@ Echo’s lethality comes at the cost of low health and no defensive abilities. S
 
 ### Ultimate: Duplicate
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/duplicate.png)Duplicate  
 
 * Copy for cooldowns or Ult?
@@ -258,7 +263,7 @@ Echo’s quick movement and flying abilities are best utilized on maps with plen
 
 On flatter maps, as long as there are lots of side paths for flanking, Echo still performs great thanks to her silent footsteps and horizontal dashing. The maps that hinder her playstyle the most are the long range sniper maps where she has to expose herself down sightlines to approach the enemy. Echo also has difficulty on maps with large open objective areas and maps with too many small areas that hinder her movement. 
 
-### Best maps
+### Best Maps
 
 * Watchpoint: Gibraltar
 * Numbani
@@ -290,7 +295,7 @@ When she uses ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/a
 
 ## Table of Contents
 
-[1. Echo Overview](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#echo-overview-0)[ TLDR](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#tldr-0)[2. Strengths And Weaknesses Summarized](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#strengths-and-weaknesses-summarized-0)[3. Strengths And Weaknesses Explained](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#strengths-and-weaknesses-explained-1)[ Strengths](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#strengths-0)[ Weaknesses](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#weaknesses-1)[4. Echo Ability Tips](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#echo-ability-tips-2)[ Primary Fire: Tri-Shot](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#primary-fire-tri-shot-0)[ Secondary Fire: Sticky Bombs ](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#secondary-fire-sticky-bombs-1)[ \[SHIFT\]: Flight](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#shift-flight-2)[ \[E\]: Focusing Beam](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#e-focusing-beam-3)[ \[SPACE\]: Glide](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#space-glide-4)[ Ultimate: Duplicate](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#ultimate-duplicate-5)[5. Perks](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#perks-3)[ Minor Perks](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#minor-perks-0)[ Major Perks](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#major-perks-1)[6. Maps](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#maps-4)[ Best maps](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#best-maps-0)[ Worst Maps](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#worst-maps-1)[7. Team Comp Synergies](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#team-comp-synergies-5)[8. How to Counter Echo ](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#how-to-counter-echo-6)
+[1. Echo Overview](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#echo-overview-0)[ TLDR](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#tldr-0)[2. Strengths And Weaknesses Summarized](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#strengths-and-weaknesses-summarized-0)[3. Strengths And Weaknesses Explained](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#strengths-and-weaknesses-explained-1)[ Strengths](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#strengths-0)[ Weaknesses](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#weaknesses-1)[4. Echo Ability Tips](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#echo-ability-tips-2)[ Primary Fire: Tri-Shot](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#primary-fire-tri-shot-0)[ Secondary Fire: Sticky Bombs ](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#secondary-fire-sticky-bombs-1)[ \[SHIFT\]: Flight](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#shift-flight-2)[ \[E\]: Focusing Beam](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#e-focusing-beam-3)[ \[SPACE\]: Glide](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#space-glide-4)[ Ultimate: Duplicate](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#ultimate-duplicate-5)[5. Perks](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#perks-3)[ Minor Perks](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#minor-perks-0)[ Major Perks](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#major-perks-1)[6. Maps](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#maps-4)[ Best Maps](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#best-maps-0)[ Worst Maps](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#worst-maps-1)[7. Team Comp Synergies](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#team-comp-synergies-5)[8. How to Counter Echo ](https://mobalytics.gg/overwatch/heroes/echo-guide/overwatch/heroes/echo-guide#how-to-counter-echo-6)
 
 Back to top
 
@@ -304,83 +309,16 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
-Advertisement
-
-Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
 Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
-
-Video Player is loading.
-
-Play Video
-
-Pause
-
-Unmute
-
-Current Time 0:03
-
-/
-
-Duration 2:00
-
-Loaded: 23.08%
-
-0:03
-
-Stream Type LIVE
-
-Seek to live, currently behind liveLIVE
-
-Remaining Time \-1:57
-
-1x
-
-Playback Rate
-
-Chapters
-
-* Chapters
-
-Descriptions
-
-* descriptions off, selected
-
-Captions
-
-* captions settings, opens captions settings dialog
-* captions off, selected
-
-Audio Track
-
-Picture-in-PictureFullscreen
-
-This is a modal window.
-
-Beginning of dialog window. Escape will cancel and close the window.
-
-TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-Transparent
-
-BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparent
-
-WindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaque
-
-Font Size50%75%100%125%150%175%200%300%400%
-
-Text Edge StyleNoneRaisedDepressedUniformDropshadow
-
-Font FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps
-
-Reset restore all settings to the default valuesDone
-
-Close Modal Dialog
-
-End of dialog window.
-
-Ad
 
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
-![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)
+Advertisement
+
+Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads

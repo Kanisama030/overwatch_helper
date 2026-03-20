@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/wrecking-ball-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/wrecking-ball-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/wrecking-ball-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/wrecking-ball-guide/overwatch/guides)
 
@@ -138,6 +138,7 @@ To really excel on ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width
 
 ### Primary Fire: Quad Cannons
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/quad-cannons.png)Quad Cannons  
 
 * You can poke a bit to distract the enemy team, farm some Ult charge, but it's not very good ranged damage.
@@ -145,6 +146,7 @@ To really excel on ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width
 
 ### Secondary Fire: Grappling Claw
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/grappling-claw.png)Grappling Claw  
 
 * Use ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/grappling-claw.png)Grappling Claw to access high ground, scout safely, and create unpredictable engage angles.
@@ -153,6 +155,7 @@ To really excel on ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width
 
 ### \[SHIFT\]: Roll
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/roll.png)Roll  
 
 * Think of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/roll.png)Roll as your primary movement tool instead of ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/grappling-claw.png)Grappling Claw. Using ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/roll.png)Roll to reposition or engage allows you to save ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/grappling-claw.png)Grappling Claw cooldown.
@@ -160,6 +163,7 @@ To really excel on ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width
 
 ### \[Crouch\]: Pile Driver
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/piledriver.png)Piledriver  
 
 * Best used after scouting and identifying what heroes the enemy is playing. Don’t ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/piledriver.png)Piledriver into heroes like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/cassidy.png)Cassidy or ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/ana.png)Ana unless you know for a fact they just used their stun.
@@ -167,6 +171,7 @@ To really excel on ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width
 
 ### \[E\]: Adaptive Shield
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/adaptive-shield.png)Adaptive Shield  
 
 * The amount of shields generated scales with the number of nearby enemies. Make sure to use them after you are fighting and near enemies, not before you engage.
@@ -175,6 +180,7 @@ To really excel on ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width
 
 ### Ultimate: Minefield
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/minefield.png)Minefield  
 
 * Go airborne (by rolling from high ground or swinging in), drop ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/minefield.png)Minefield, then ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/piledriver.png)Piledriver to launch up enemies, keep them near your ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/minefield.png)Minefield.
@@ -244,83 +250,16 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
-Advertisement
-
-Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
 Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
-
-Video Player is loading.
-
-Play Video
-
-Pause
-
-Unmute
-
-Current Time 0:04
-
-/
-
-Duration 2:00
-
-Loaded: 19.48%
-
-0:04
-
-Stream Type LIVE
-
-Seek to live, currently behind liveLIVE
-
-Remaining Time \-1:56
-
-1x
-
-Playback Rate
-
-Chapters
-
-* Chapters
-
-Descriptions
-
-* descriptions off, selected
-
-Captions
-
-* captions settings, opens captions settings dialog
-* captions off, selected
-
-Audio Track
-
-Picture-in-PictureFullscreen
-
-This is a modal window.
-
-Beginning of dialog window. Escape will cancel and close the window.
-
-TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-Transparent
-
-BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparent
-
-WindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaque
-
-Font Size50%75%100%125%150%175%200%300%400%
-
-Text Edge StyleNoneRaisedDepressedUniformDropshadow
-
-Font FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps
-
-Reset restore all settings to the default valuesDone
-
-Close Modal Dialog
-
-End of dialog window.
-
-Ad
 
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
-![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)![](https://creativecdn.com/cm-notify?pi=fradagio-pbs&gdpr=0&gdpr_consent=&us_privacy=1---)
+Advertisement
+
+Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads

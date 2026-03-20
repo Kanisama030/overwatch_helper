@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/mizuki-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/mizuki-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/mizuki-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/mizuki-guide/overwatch/guides)
 
@@ -140,6 +140,7 @@ Limited range combined with low-mobility means he is constantly in vulnerable to
 
 ### Primary Fire: Spirit Glaive
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/spirit-glaive.png)Spirit Glaive  
 
 * Limited range, but no bounce limit. Attack enemies inside rooms or around corners with ricochets. Positions where you can hit the enemy but they can’t hit you are ideal for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/spirit-glaive.png)Spirit Glaive.
@@ -148,6 +149,7 @@ Limited range combined with low-mobility means he is constantly in vulnerable to
 
 ### Secondary Fire: Healing Kasa
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/healing-kasa.png)Healing Kasa  
 
 * **Needs a target selected to use**. Cannot use Healing Kasa to only self-heal.
@@ -158,6 +160,7 @@ Limited range combined with low-mobility means he is constantly in vulnerable to
 
 ### \[SHIFT\]: Katashrio Return
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/katashiro-return.png)Katashiro Return  
 
 * In n’ Out dives. The primary use for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/katashiro-return.png)Katashiro Return is to initiate an aggressive attack with an ally. Then, TP back to safety before the timer expires.
@@ -167,6 +170,7 @@ Limited range combined with low-mobility means he is constantly in vulnerable to
 
 ### \[E\]: Binding Chain
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/binding-chain.png)Binding Chain  
 
 * ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/mizuki.png)Mizuki's most important dueling tool. Save your tether for enemies that get close to you, and are hard focusing on eliminating you. Bind them, and you’ll likely win the duel.
@@ -178,6 +182,7 @@ Limited range combined with low-mobility means he is constantly in vulnerable to
 
 ### Ultimate: Kekkai Sanctuary
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/kekkai-sanctuary.png)Kekkai Sanctuary  
 
 * Not a barrier. The walls function the same as ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/d-va.png)D.Va's ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/defense-matrix.png)Defense Matrix. Blocks all projectiles.
@@ -262,9 +267,13 @@ Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
+
 Advertisement
 
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
+
+Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
 
 Advertisement
 

@@ -62,7 +62,7 @@ sign in
 
 [![Tier Lists](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/meta-tier-list.svg)Tier Lists](https://mobalytics.gg/overwatch/heroes/ramattra-guide/overwatch/tier-lists)
 
-[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/ramattra-guide/overwatch/stadium-builds)
+[![Stadium Builds](https://cdn.mobalytics.gg/assets/common/icons/system-icons/24-fight.svg)Stadium Builds](https://mobalytics.gg/overwatch/heroes/ramattra-guide/overwatch/builds)
 
 [![Guides](https://cdn.mobalytics.gg/assets/common/icons/side-menu-icon/guides.svg)Guides](https://mobalytics.gg/overwatch/heroes/ramattra-guide/overwatch/guides)
 
@@ -136,6 +136,7 @@ Although Ram has high survivability thanks to his Block and armor, he’s also e
 
 ### Primary Fire: Void Accelerator
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/void-accelerator-omnic-form.png)Void Accelerator (Omnic Form)  
 
 * Poke pressure
@@ -146,6 +147,7 @@ Although Ram has high survivability thanks to his Block and armor, he’s also e
 
 ### Secondary Fire: Void Barrier
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/void-barrier-omnic-form.png)Void Barrier (Omnic Form)  
 
 * Enable team poke
@@ -165,6 +167,7 @@ Although Ram has high survivability thanks to his Block and armor, he’s also e
 
 ### (During Nemesis Form) Primary Fire: Pummel
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/pummel-nemesis-form.png)Pummel (Nemesis Form)  
 
 * Counter damage mitigation
@@ -175,6 +178,7 @@ Although Ram has high survivability thanks to his Block and armor, he’s also e
 
 ### (During Nemesis Form) Secondary fire: Block
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/block-nemesis-form.png)Block (Nemesis Form)  
 
 * Stall
@@ -187,6 +191,7 @@ Although Ram has high survivability thanks to his Block and armor, he’s also e
 
 ### \[E\]: Ravenous Vortex
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/ravenous-vortex.png)Ravenous Vortex  
 
 * Slow ‘em down
@@ -197,6 +202,7 @@ Although Ram has high survivability thanks to his Block and armor, he’s also e
 
 ### Ultimate: Annihilation
 
+  
 **Tips for** ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/abilities/annihilation.png)Annihilation  
 
 * Watch out for stuns
@@ -324,5 +330,3 @@ Advertisement
 Remove Ads![](https://cdn.mobalytics.gg/assets/common/icons/system-icons/go-to-the-link.svg)
 
 Remove all adsSay goodbye to ads, support our team, see exclusive sneak peeks, and get a shiny new Discord role.Remove ads
-
-![](https://u.openx.net/w/1.0/cm?id=3cc4b2f6-c7e1-439a-8174-b6dbb96bcabf&us_privacy=1---&r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dopenx%26it%3Dadg-pb-clt%26uid%3D%7BOPENX_ID%7D%26us_privacy%3D1---)
