@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TRANSLATION_CACHE_DIR = os.path.join(BASE_DIR, "data", "cache", "translations")
+WORKER_COUNT = 4
 
 from translation_services.cache_service import CacheService
 from translation_services.glossary_service import GlossaryService
@@ -107,39 +108,60 @@ async def main() -> int:
         print("沒有符合條件的英雄可處理。")
         return 0
 
-    print(f"開始批次翻譯，共 {len(planned)} 位英雄。")
+    print(f"開始批次翻譯，共 {len(planned)} 位英雄（{WORKER_COUNT} workers）。")
     if args.skip_existing:
         print("已啟用 --skip-existing：已有輸出檔的英雄會直接略過。")
 
-    ok_count = 0
-    skip_count = 0
-    failed: List[str] = []
+    total = len(planned)
+    semaphore = asyncio.Semaphore(WORKER_COUNT)
+    stop_event = asyncio.Event()
 
-    for idx, (hero_id, hero_data) in enumerate(planned, start=1):
+    async def process_one(idx: int, hero_id: str, hero_data: Dict):
         output_path = os.path.join(output_dir, f"{hero_id}.json")
         if args.skip_existing and os.path.exists(output_path):
-            skip_count += 1
-            print(f"[{idx}/{len(planned)}] ⏭️  略過 {hero_id}（已有輸出）")
-            continue
+            print(f"[{idx}/{total}] ⏭️  略過 {hero_id}（已有輸出）")
+            return ("skip", hero_id, "")
 
-        print(f"[{idx}/{len(planned)}] 🔄 翻譯 {hero_id} ...")
+        print(f"[{idx}/{total}] 🔄 翻譯 {hero_id} ...")
         try:
             result = await translation_service.translate_hero(hero_id, hero_data, "zh-TW")
             section_count = len(result.get("sections", {}))
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(result, f, ensure_ascii=False, indent=2)
-            ok_count += 1
-            print(f"[{idx}/{len(planned)}] ✅ 完成 {hero_id}（sections: {section_count}）")
+            print(f"[{idx}/{total}] ✅ 完成 {hero_id}（sections: {section_count}）")
+            return ("ok", hero_id, "")
         except Exception as e:
-            failed.append(hero_id)
-            print(f"[{idx}/{len(planned)}] ❌ 失敗 {hero_id}：{e}")
-            if not args.continue_on_error:
-                break
+            print(f"[{idx}/{total}] ❌ 失敗 {hero_id}：{e}")
+            return ("fail", hero_id, str(e))
+
+    async def run_item(idx: int, hero_id: str, hero_data: Dict):
+        if stop_event.is_set():
+            return ("aborted", hero_id, "")
+        async with semaphore:
+            if stop_event.is_set():
+                return ("aborted", hero_id, "")
+            status, item_hero_id, detail = await process_one(idx, hero_id, hero_data)
+            if status == "fail" and not args.continue_on_error:
+                stop_event.set()
+            return (status, item_hero_id, detail)
+
+    tasks = [
+        asyncio.create_task(run_item(idx, hero_id, hero_data))
+        for idx, (hero_id, hero_data) in enumerate(planned, start=1)
+    ]
+    results = await asyncio.gather(*tasks)
+
+    ok_count = sum(1 for status, _, _ in results if status == "ok")
+    skip_count = sum(1 for status, _, _ in results if status == "skip")
+    failed = [hero_id for status, hero_id, _ in results if status == "fail"]
+    aborted_count = sum(1 for status, _, _ in results if status == "aborted")
 
     print("\n=== 批次翻譯摘要 ===")
     print(f"成功: {ok_count}")
     print(f"略過: {skip_count}")
     print(f"失敗: {len(failed)}")
+    if aborted_count:
+        print(f"未執行: {aborted_count}（因錯誤提前停止）")
     if failed:
         print("失敗英雄: " + ", ".join(failed))
         return 1

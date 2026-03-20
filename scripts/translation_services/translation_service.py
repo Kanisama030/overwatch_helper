@@ -2,6 +2,7 @@
 import json
 import time
 import os
+import asyncio
 from typing import Dict, List, Optional
 from datetime import datetime
 import google.generativeai as genai
@@ -143,8 +144,8 @@ Content:
         for attempt in range(retries):
             try:
                 self._stats["gemini_calls"] += 1
-                
-                response = self.model.generate_content(
+                response = await asyncio.to_thread(
+                    self.model.generate_content,
                     prompt,
                     generation_config={
                         "temperature": 0.3,
@@ -170,14 +171,14 @@ Content:
                 if attempt == retries - 1:
                     self._stats["errors"] += 1
                     return None
-                time.sleep(1 * (attempt + 1))
+                await asyncio.sleep(1 * (attempt + 1))
             
             except Exception as e:
                 print(f"Gemini API 錯誤 (attempt {attempt+1}/{retries}): {e}")
                 if attempt == retries - 1:
                     self._stats["errors"] += 1
                     return None
-                time.sleep(2 * (attempt + 1))
+                await asyncio.sleep(2 * (attempt + 1))
         
         return None
 
