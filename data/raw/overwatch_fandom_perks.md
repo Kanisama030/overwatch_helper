@@ -8,7 +8,7 @@ Fandom is on a quest for your opinions on upcoming movies!
 
 [ Sign In ](https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Foverwatch.fandom.com%2Fwiki%2FPerks) 
 
-[ Want Fewer Ads? ](https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Foverwatch.fandom.com%2Fwiki%2FPerks) 
+[ Register ](https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Foverwatch.fandom.com%2Fwiki%2FPerks) 
 
 [ ](https://www.fandom.com/) 
 
@@ -76,7 +76,7 @@ Fandom is on a quest for your opinions on upcoming movies!
 
  Don't have an account? 
 
-[ Want Fewer Ads? ](https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Foverwatch.fandom.com%2Fwiki%2FPerks) 
+[ Register ](https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Foverwatch.fandom.com%2Fwiki%2FPerks) 
 
 ---
 
@@ -104,59 +104,19 @@ Overwatch Wiki
 
 Overwatch Wiki
 
-[](http://overwatch.fandom.com/wiki/Soldier:%5F76)
+[](http://overwatch.fandom.com/wiki/Reinhardt)
 
-![Soldier: 76](https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/OW_S76.png/revision/latest/top-crop/width/100/height/100?cb=20260213120042)
+![Reinhardt](https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/OW_Reinhardt.png/revision/latest/top-crop/width/100/height/100?cb=20260213110209)
 
-### Soldier: 76
-
-Overwatch Wiki
-
-[](http://overwatch.fandom.com/wiki/Venture)
-
-![Venture](https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c7/OW2_Venture.png/revision/latest/top-crop/width/100/height/100?cb=20241102122834)
-
-### Venture
+### Reinhardt
 
 Overwatch Wiki
 
-[](http://overwatch.fandom.com/wiki/Juno)
+[](http://overwatch.fandom.com/wiki/Domina)
 
-![Juno](https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/OW2_Juno.png/revision/latest/top-crop/width/100/height/100?cb=20260213110336)
+![Domina](https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/OW2_Domina.png/revision/latest/top-crop/width/100/height/100?cb=20260213022447)
 
-### Juno
-
-Overwatch Wiki
-
-[](http://overwatch.fandom.com/wiki/Doomfist)
-
-![Doomfist](https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/OW_Doomfist.png/revision/latest/top-crop/width/100/height/100?cb=20260213014848)
-
-### Doomfist
-
-Overwatch Wiki
-
-[](http://overwatch.fandom.com/wiki/Wuyang)
-
-![Wuyang](https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/OW2_Wuyang.png/revision/latest/top-crop/width/100/height/100?cb=20260305234200)
-
-### Wuyang
-
-Overwatch Wiki
-
-[](http://overwatch.fandom.com/wiki/Cassidy)
-
-![Cassidy](https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Mccree-portrait.png/revision/latest/top-crop/width/100/height/100?cb=20160620023859)
-
-### Cassidy
-
-Overwatch Wiki
-
-[](http://overwatch.fandom.com/wiki/Sombra)
-
-![Sombra](https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/OW_Sombra.png/revision/latest/top-crop/width/100/height/100?cb=20260213105228)
-
-### Sombra
+### Domina
 
 Overwatch Wiki
 
@@ -168,43 +128,83 @@ Overwatch Wiki
 
 Overwatch Wiki
 
-[](http://overwatch.fandom.com/wiki/Junker%5FQueen)
+[](http://overwatch.fandom.com/wiki/Soldier:%5F76)
 
-![Junker Queen](https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/OW2_JunkerQueen.png/revision/latest/top-crop/width/100/height/100?cb=20241101134259)
+![Soldier: 76](https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/OW_S76.png/revision/latest/top-crop/width/100/height/100?cb=20260213120042)
 
-### Junker Queen
-
-Overwatch Wiki
-
-[](http://overwatch.fandom.com/wiki/Reinhardt)
-
-![Reinhardt](https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/OW_Reinhardt.png/revision/latest/top-crop/width/100/height/100?cb=20260213110209)
-
-### Reinhardt
+### Soldier: 76
 
 Overwatch Wiki
 
-[](http://overwatch.fandom.com/wiki/Baptiste)
+[](http://overwatch.fandom.com/wiki/Zenyatta)
 
-![Baptiste](https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/OW_Baptiste.png/revision/latest/top-crop/width/100/height/100?cb=20260213033219)
+![Zenyatta](https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Zenyatta-portrait.png/revision/latest/top-crop/width/100/height/100?cb=20160620015935)
 
-### Baptiste
+### Zenyatta
 
 Overwatch Wiki
 
-[](http://overwatch.fandom.com/wiki/Bastion)
+[](http://overwatch.fandom.com/wiki/Ana)
 
-![Bastion](https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/OW2-Bastion.png/revision/latest/top-crop/width/100/height/100?cb=20241108201208)
+![Ana](https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/OW_Ana.png/revision/latest/top-crop/width/100/height/100?cb=20260213111740)
 
-### Bastion
+### Ana
+
+Overwatch Wiki
+
+[](http://overwatch.fandom.com/wiki/Doomfist)
+
+![Doomfist](https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/OW2_Doomfist_render.png/revision/latest/top-crop/width/100/height/100?cb=20241102135923)
+
+### Doomfist
+
+Overwatch Wiki
+
+[](http://overwatch.fandom.com/wiki/Mizuki)
+
+![Mizuki](https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/OW2_Mizuki.png/revision/latest/top-crop/width/100/height/100?cb=20260215135742)
+
+### Mizuki
 
 Overwatch Wiki
 
 [](http://overwatch.fandom.com/wiki/Orisa)
 
-![Orisa](https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Orisa-portrait.png/revision/latest/top-crop/width/100/height/100?cb=20170322013134)
+![Orisa](https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/OW2-Orisa.png/revision/latest/top-crop/width/100/height/100?cb=20241126124432)
 
 ### Orisa
+
+Overwatch Wiki
+
+[](http://overwatch.fandom.com/wiki/Mauga)
+
+![Mauga](https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/OW2_Mauga.png/revision/latest/top-crop/width/100/height/100?cb=20260304093509)
+
+### Mauga
+
+Overwatch Wiki
+
+[](http://overwatch.fandom.com/wiki/Winston)
+
+![Winston](https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/39/OW2_Winston.png/revision/latest/top-crop/width/100/height/100?cb=20241102142153)
+
+### Winston
+
+Overwatch Wiki
+
+[](http://overwatch.fandom.com/wiki/Ramattra)
+
+![Ramattra](https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/OW2_Ramattra.png/revision/latest/top-crop/width/100/height/100?cb=20260304093912)
+
+### Ramattra
+
+Overwatch Wiki
+
+[](http://overwatch.fandom.com/wiki/Anran)
+
+![Anran](https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/OW2_Anran.png/revision/latest/top-crop/width/100/height/100?cb=20260216113236)
+
+### Anran
 
 Overwatch Wiki
 
@@ -299,7 +299,7 @@ in: [Overwatch 2](https://overwatch.fandom.com/wiki/Perks/wiki/Category:Overwatc
 
 # Perks 
 
-[ 1 ](#articleComments) [  Edit ](https://overwatch.fandom.com/wiki/Perks/wiki/Perks?action=edit) 
+[ ](#articleComments) [  Edit ](https://overwatch.fandom.com/wiki/Perks/wiki/Perks?action=edit) 
 
 * [ VisualEditor ](https://overwatch.fandom.com/wiki/Perks/wiki/Perks?veaction=edit)
 * [ History ](https://overwatch.fandom.com/wiki/Perks/wiki/Perks?action=history)
@@ -314,7 +314,7 @@ Keep WatchingNext video in 8 seconds
 
 More Videos
 
-1 second of 8 minutes, 2 secondsVolume 0%
+0 of 8 minutes, 2 secondsVolume 0%
 
 Press shift question mark to access a list of keyboard shortcuts
 
@@ -350,9 +350,9 @@ Auto720p1080p720p406p270p180p
 
 Live
 
-00:01
+00:11
 
-08:00
+07:51
 
 08:02
 
@@ -790,15 +790,7 @@ Cancel Save
 
  Community content is available under [CC BY-NC-SA](https://www.fandom.com/licensing) unless otherwise noted. 
 
-1 Comment
-
-### Join the conversation
-
-#### Sign in to read what others are saying and share your thoughts.
-
-[SIGN IN](https://overwatch.fandom.com/wiki/Perks/login?metadata=anonymous-article-comments-login-source&redirect=https%3A%2F%2Foverwatch.fandom.com%2Fwiki%2FPerks%3Fanon-comments-auth-source%3Dlogin%23articleComments)
-
-Don't have account? [Register now](https://overwatch.fandom.com/wiki/Perks/register?metadata=anonymous-article-comments-register-source&redirect=https%3A%2F%2Foverwatch.fandom.com%2Fwiki%2FPerks%3Fanon-comments-auth-source%3Dregister%23articleComments)
+Comments
 
  Advertisement 
 
@@ -842,6 +834,7 @@ a day ago
 ### Overview
 
 * [ What is Fandom? ](https://www.fandom.com/what-is-fandom)
+* [ Essentials ](https://www.fandom.com/essentials)
 * [ About ](https://www.fandom.com/about)
 * [ Careers ](https://www.fandom.com/careers)
 * [ Press ](https://www.fandom.com/press)

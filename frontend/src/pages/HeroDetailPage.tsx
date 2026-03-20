@@ -357,13 +357,21 @@ function CounterTab({ hero, dataset, mapId, navigate }: {
   const [pendingSwapId, setPendingSwapId] = useState<string | null>(null);
   const effectiveThreatId = selectedThreatId ?? threats[0]?.id ?? null;
   const selectedThreat = dataset && effectiveThreatId ? getHeroById(dataset, effectiveThreatId) : null;
+  const { sections: selectedThreatTranslatedSections } = useHeroTranslation(
+    selectedThreat?.id,
+    locale,
+    locale === 'zh-TW' && !!selectedThreat
+  );
 
   // How to Fight Back 改為：顯示被選中的 threat 英雄其 1.1.2 Play Against 內容
   const fightBackMarkdown = useMemo(() => {
     if (!selectedThreat) return '';
-    const playAgainst = selectedThreat.counter_data.play_against || selectedThreat.counter_data.play_against_summary || [];
+    const translatedPlayAgainst = selectedThreatTranslatedSections?.['1.1.2']?.content ?? [];
+    const playAgainst = translatedPlayAgainst.length > 0
+      ? translatedPlayAgainst
+      : (selectedThreat.counter_data.play_against || selectedThreat.counter_data.play_against_summary || []);
     return toMarkdown(playAgainst);
-  }, [selectedThreat]);
+  }, [selectedThreat, selectedThreatTranslatedSections]);
 
   // Recommended Swaps 改為：顯示被選中的 threat 英雄其 8.2 Specific Hero Counters，並按 tier->勝率排序
   const recommendedSwaps = useMemo(() => {

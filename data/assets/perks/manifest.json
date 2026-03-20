@@ -329,10 +329,10 @@
   },
   {
     "hero_id": "hanzo",
-    "group": "minor perks",
+    "group": "major perks",
     "name": "Dragon Fury",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Perk_DragonFury.png/revision/latest/scale-to-width-down/40?cb=20250314152803",
-    "local_path": "data/assets/perks/hanzo_minor_dragon-fury.png",
+    "local_path": "data/assets/perks/hanzo_major_dragon-fury.png",
     "status": "ok"
   },
   {
@@ -1027,7 +1027,7 @@
     "hero_id": "sombra",
     "group": "minor perks",
     "name": "Encrypted Upload",
-    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Encrypted_Upload.png/revision/latest/scale-to-width-down/40?cb=20250826164817",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Perk_CtrlAltEsc.png/revision/latest/scale-to-width-down/40?cb=20250314164256",
     "local_path": "data/assets/perks/sombra_minor_encrypted-upload.png",
     "status": "ok"
   },
@@ -1202,7 +1202,7 @@
   {
     "hero_id": "widowmaker",
     "group": "major perks",
-    "name": "Widow’s Bite",
+    "name": "Widow's Bite",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Perk_Widow%27s_Bite.png/revision/latest/scale-to-width-down/40?cb=20260217092518",
     "local_path": "data/assets/perks/widowmaker_major_widow-s-bite.png",
     "status": "ok"
@@ -1443,9 +1443,9 @@
     "hero_id": "jetpack-cat",
     "group": "minor perks",
     "name": "Ulterior Motive",
-    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Perk_Ulterior_Motive.png/revision/latest/scale-to-width-down/40?cb=20260217093500",
-    "local_path": "",
-    "status": "failed: 404 Client Error: Not Found for url: https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Perk_Ulterior_Motive.png/revision/latest/scale-to-width-down/40?cb=20260217093500"
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Perk_Claws_Out.png/revision/latest/scale-to-width-down/40?cb=20260217093235",
+    "local_path": "data/assets/perks/jetpack-cat_minor_ulterior-motive.png",
+    "status": "ok"
   },
   {
     "hero_id": "jetpack-cat",
