@@ -1,6 +1,6 @@
 # Overwatch Helper
 
-Overwatch 遊戲助手 — 依地圖情境推薦英雄、提供策略與反制建議。
+Overwatch 遊戲助手 — 依地圖情境推薦英雄、展現勝率、提供策略與反制建議。
 
 ## 架構
 
