@@ -72,9 +72,9 @@ def run_build_app_data():
         print("⚠️  build_app_data.py 執行失敗，但主資料更新已完成")
 
 
-def run_prewarm_translation_cache(args):
-    print("\n--- [額外] 產生靜態翻譯檔（prewarm_translation_cache.py）---")
-    cmd = [sys.executable, os.path.join(os.path.dirname(__file__), "prewarm_translation_cache.py")]
+def run_generate_static_translations(args):
+    print("\n--- [額外] 產生靜態翻譯檔（generate_static_translations.py）---")
+    cmd = [sys.executable, os.path.join(os.path.dirname(__file__), "generate_static_translations.py")]
     if args.translation_heroes:
         cmd.extend(["--heroes", args.translation_heroes])
     if args.translation_skip_existing:
@@ -83,7 +83,7 @@ def run_prewarm_translation_cache(args):
         cmd.append("--continue-on-error")
     result = subprocess.run(cmd)
     if result.returncode != 0:
-        print("⚠️  prewarm_translation_cache.py 執行失敗，將保留既有翻譯檔")
+        print("⚠️  generate_static_translations.py 執行失敗，將保留既有翻譯檔")
 
 
 async def main():
@@ -124,7 +124,7 @@ async def main():
 
     run_build_app_data()
     if args.with_translations:
-        run_prewarm_translation_cache(args)
+        run_generate_static_translations(args)
 
     print("\n✨ 主資料更新流程已完成！")
 

@@ -28,7 +28,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--skip-existing",
         action="store_true",
-        help="若英雄快取檔已存在則直接略過",
+        help="若英雄輸出檔已存在則直接略過",
     )
     parser.add_argument(
         "--continue-on-error",
@@ -109,7 +109,7 @@ async def main() -> int:
 
     print(f"開始批次翻譯，共 {len(planned)} 位英雄。")
     if args.skip_existing:
-        print("已啟用 --skip-existing：已有快取檔的英雄會直接略過。")
+        print("已啟用 --skip-existing：已有輸出檔的英雄會直接略過。")
 
     ok_count = 0
     skip_count = 0

@@ -54,7 +54,7 @@ python run_build.py
 
 # 若要同時預生成繁中靜態翻譯檔（每英雄一檔）：
 python run_build.py --with-translations --translation-skip-existing
-# 會額外執行 scripts/prewarm_translation_cache.py
+# 會額外執行 scripts/generate_static_translations.py
 # 並輸出到 data/app/i18n/zh-TW，再同步到 frontend/public/data/i18n/zh-TW
 
 # 接著 build 前端

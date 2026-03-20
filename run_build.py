@@ -4,7 +4,7 @@ run_build.py
 完整的前端資料建置流程：
 1. 執行 scripts/download_master_guide_assets.py 下載 guide 圖片
 2. 執行 scripts/build_app_data.py 產生衍生資料
-3. （可選）執行 scripts/prewarm_translation_cache.py 產生靜態翻譯檔
+3. （可選）執行 scripts/generate_static_translations.py 產生靜態翻譯檔
 4. 將 data/app/* 與 data/assets/* 同步到 frontend/public/data/
 5. 提示是否需要重建前端
 """
@@ -72,10 +72,10 @@ def main():
     
     # 3. （可選）產生靜態翻譯檔
     if args.with_translations:
-        print("\n--- [3/4] 產生靜態翻譯檔（prewarm_translation_cache.py）---")
+        print("\n--- [3/4] 產生靜態翻譯檔（generate_static_translations.py）---")
         translation_cmd = [
             sys.executable,
-            os.path.join(BASE_DIR, "scripts", "prewarm_translation_cache.py"),
+            os.path.join(BASE_DIR, "scripts", "generate_static_translations.py"),
         ]
         if args.translation_heroes:
             translation_cmd.extend(["--heroes", args.translation_heroes])
@@ -85,7 +85,7 @@ def main():
             translation_cmd.append("--continue-on-error")
         translation_result = subprocess.run(translation_cmd, cwd=BASE_DIR)
         if translation_result.returncode != 0:
-            print("❌ prewarm_translation_cache.py 執行失敗")
+            print("❌ generate_static_translations.py 執行失敗")
             sys.exit(translation_result.returncode)
 
     # 4. 將 data/app/* 同步到 frontend/public/data/
