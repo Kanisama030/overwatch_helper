@@ -12,7 +12,7 @@
         "recommended_reason": null,
         "name": "Efficient Design",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/domina_minor_efficient-design.png"
       },
       {
         "id": "5.1.2",
@@ -27,7 +27,7 @@
         "recommended_reason": null,
         "name": "Extended Power",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/domina_minor_extended-power.png"
       }
     ],
     "major": [
@@ -43,7 +43,7 @@
         "recommended_reason": "Recommended Major Perk",
         "name": "Disruptive Detonation",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/domina_major_disruptive-detonation.png"
       },
       {
         "id": "5.2.2",
@@ -57,7 +57,7 @@
         "recommended_reason": null,
         "name": "Power Move",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/domina_major_power-move.png"
       }
     ]
   },
@@ -73,7 +73,7 @@
         "recommended_reason": null,
         "name": "Spotter",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/zarya_minor_spotter.png"
       },
       {
         "id": "5.1.2",
@@ -85,7 +85,7 @@
         "recommended_reason": null,
         "name": "Jump-Ups",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/zarya_minor_jump-ups.png"
       }
     ],
     "major": [
@@ -99,7 +99,7 @@
         "recommended_reason": null,
         "name": "Energy Lance",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/zarya_major_energy-lance.png"
       },
       {
         "id": "5.2.2",
@@ -111,7 +111,7 @@
         "recommended_reason": null,
         "name": "Extra Oomph",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/zarya_major_extra-oomph.png"
       }
     ]
   },
@@ -127,7 +127,7 @@
         "recommended_reason": null,
         "name": "Kinetic Cycle",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sigma_minor_kinetic-cycle.png"
       },
       {
         "id": "5.1.2",
@@ -139,7 +139,7 @@
         "recommended_reason": null,
         "name": "Hyper Regeneration",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sigma_minor_hyper-regeneration.png"
       }
     ],
     "major": [
@@ -153,7 +153,7 @@
         "recommended_reason": null,
         "name": "Hyper Strike",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sigma_major_hyper-strike.png"
       },
       {
         "id": "5.2.2",
@@ -166,7 +166,7 @@
         "recommended_reason": null,
         "name": "Levitation",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sigma_major_levitation.png"
       }
     ]
   },
@@ -184,7 +184,7 @@
         "recommended_reason": null,
         "name": "Chronal Dash",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/tracer_minor_chronal-dash.png"
       },
       {
         "id": "5.1.2",
@@ -198,7 +198,7 @@
         "recommended_reason": "Recommended Minor Perk",
         "name": "Kinetic Reload",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/tracer_minor_kinetic-reload.png"
       }
     ],
     "major": [
@@ -214,7 +214,7 @@
         "recommended_reason": null,
         "name": "Blink Packs",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/tracer_major_blink-packs.png"
       },
       {
         "id": "5.2.2",
@@ -230,7 +230,7 @@
         "recommended_reason": null,
         "name": "Quantum Entanglement",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/tracer_major_quantum-entanglement.png"
       }
     ]
   },
@@ -247,7 +247,7 @@
         "recommended_reason": null,
         "name": "Raging Storm",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/vendetta_minor_raging-storm.png"
       },
       {
         "id": "5.1.2",
@@ -260,7 +260,7 @@
         "recommended_reason": null,
         "name": "Extra Edge",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/vendetta_minor_extra-edge.png"
       }
     ],
     "major": [
@@ -277,7 +277,7 @@
         "recommended_reason": "Recommended Major Perk",
         "name": "Relentless",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/vendetta_major_relentless.png"
       },
       {
         "id": "5.2.2",
@@ -290,7 +290,7 @@
         "recommended_reason": null,
         "name": "Siphoning Strike",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/vendetta_major_siphoning-strike.png"
       }
     ]
   },
@@ -309,7 +309,7 @@
         "recommended_reason": null,
         "name": "Deceleration Field",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sojourn_minor_deceleration-field.png"
       },
       {
         "id": "5.1.2",
@@ -325,7 +325,7 @@
         "recommended_reason": null,
         "name": "Overcharged",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sojourn_minor_overcharged.png"
       }
     ],
     "major": [
@@ -355,7 +355,7 @@
         "recommended_reason": null,
         "name": "Dual Thrusters",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sojourn_major_dual-thrusters.png"
       },
       {
         "id": "5.2.2",
@@ -368,7 +368,7 @@
         "recommended_reason": null,
         "name": "Friction Generators",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sojourn_major_friction-generators.png"
       }
     ]
   },
@@ -386,7 +386,7 @@
         "recommended_reason": null,
         "name": "Urgent Care",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/kiriko_minor_urgent-care.png"
       },
       {
         "id": "5.1.2",
@@ -401,7 +401,7 @@
         "recommended_reason": null,
         "name": "Fortune Teller",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/kiriko_minor_fortune-teller.png"
       }
     ],
     "major": [
@@ -417,7 +417,7 @@
         "recommended_reason": null,
         "name": "Ready Step",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/kiriko_major_ready-step.png"
       },
       {
         "id": "5.2.2",
@@ -432,7 +432,7 @@
         "recommended_reason": null,
         "name": "Foxtrot",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/kiriko_major_foxtrot.png"
       }
     ]
   },
@@ -453,7 +453,7 @@
         "recommended_reason": null,
         "name": "Soundwave Rider",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/lucio_minor_soundwave-rider.png"
       },
       {
         "id": "5.1.2",
@@ -467,7 +467,7 @@
         "recommended_reason": null,
         "name": "Beat Drop",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/lucio_minor_beat-drop.png"
       }
     ],
     "major": [
@@ -482,7 +482,7 @@
         "recommended_reason": null,
         "name": "Noise Violation",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/lucio_major_noise-violation.png"
       },
       {
         "id": "5.2.2",
@@ -496,7 +496,7 @@
         "recommended_reason": null,
         "name": "Accelerando",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/lucio_major_accelerando.png"
       }
     ]
   },
@@ -515,7 +515,7 @@
         "recommended_reason": null,
         "name": "Rapid Construction",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/illari_minor_rapid-construction.png"
       },
       {
         "id": "5.1.2",
@@ -529,7 +529,7 @@
         "recommended_reason": null,
         "name": "Summer Solstice",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/illari_minor_summer-solstice.png"
       }
     ],
     "major": [
@@ -545,7 +545,7 @@
         "recommended_reason": null,
         "name": "Solar Flare",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/illari_major_solar-flare.png"
       },
       {
         "id": "5.2.2",
@@ -559,7 +559,7 @@
         "recommended_reason": null,
         "name": "Sunburn",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/illari_major_sunburn.png"
       }
     ]
   },
@@ -576,7 +576,7 @@
         "recommended_reason": null,
         "name": "Bunny Power",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/dva_minor_bunny-power.png"
       },
       {
         "id": "5.1.2",
@@ -593,7 +593,7 @@
         "recommended_reason": null,
         "name": "Extended Boosters",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/dva_minor_extended-boosters.png"
       }
     ],
     "major": [
@@ -609,7 +609,7 @@
         "recommended_reason": null,
         "name": "Shield System",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/dva_major_shield-system.png"
       },
       {
         "id": "5.2.2",
@@ -622,7 +622,7 @@
         "recommended_reason": null,
         "name": "Precision Fusion",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/dva_major_precision-fusion.png"
       }
     ]
   },
@@ -640,7 +640,7 @@
         "recommended_reason": null,
         "name": "Electric Charge",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/winston_minor_electric-charge.png"
       },
       {
         "id": "5.1.2",
@@ -656,7 +656,7 @@
         "recommended_reason": null,
         "name": "Heavy Landing",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/winston_minor_heavy-landing.png"
       }
     ],
     "major": [
@@ -673,7 +673,7 @@
         "recommended_reason": null,
         "name": "Chain Lightning",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/winston_major_chain-lightning.png"
       },
       {
         "id": "5.2.2",
@@ -688,7 +688,7 @@
         "recommended_reason": null,
         "name": "Revitalizing Barrier",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/winston_major_revitalizing-barrier.png"
       }
     ]
   },
@@ -708,7 +708,7 @@
         "recommended_reason": null,
         "name": "Scrap Hook",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/roadhog_minor_scrap-hook.png"
       },
       {
         "id": "5.1.2",
@@ -722,7 +722,7 @@
         "recommended_reason": null,
         "name": "Shrapnel Launcher",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/roadhog_minor_shrapnel-launcher.png"
       }
     ],
     "major": [
@@ -737,7 +737,7 @@
         "recommended_reason": null,
         "name": "Invigorate",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/roadhog_major_invigorate.png"
       },
       {
         "id": "5.2.2",
@@ -749,7 +749,7 @@
         "recommended_reason": null,
         "name": "Pulled Pork",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/roadhog_major_pulled-pork.png"
       }
     ]
   },
@@ -767,7 +767,7 @@
         "recommended_reason": null,
         "name": "Suppressive Security",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/emre_minor_suppressive-security.png"
       },
       {
         "id": "5.1.2",
@@ -781,7 +781,7 @@
         "recommended_reason": null,
         "name": "Enhanced Agility",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/emre_minor_enhanced-agility.png"
       }
     ],
     "major": [
@@ -797,7 +797,7 @@
         "recommended_reason": "Recommended Major Perk",
         "name": "Heat Sink",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/emre_major_heat-sink.png"
       },
       {
         "id": "5.2.2",
@@ -810,7 +810,7 @@
         "recommended_reason": null,
         "name": "Cyber Adhesion",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/emre_major_cyber-adhesion.png"
       }
     ]
   },
@@ -827,7 +827,7 @@
         "recommended_reason": null,
         "name": "Remote Detonator",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ashe_minor_remote-detonator.png"
       },
       {
         "id": "5.1.2",
@@ -839,7 +839,7 @@
         "recommended_reason": null,
         "name": "Double-Barreled",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ashe_minor_double-barreled.png"
       }
     ],
     "major": [
@@ -858,7 +858,7 @@
         "recommended_reason": null,
         "name": "Viper's Sting",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ashe_major_viper-s-sting.png"
       },
       {
         "id": "5.2.2",
@@ -875,7 +875,7 @@
         "recommended_reason": null,
         "name": "Airburst",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ashe_major_airburst.png"
       }
     ]
   },
@@ -892,7 +892,7 @@
         "recommended_reason": "Recommended Minor Perk",
         "name": "Focused Rush",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/echo_minor_focused-rush.png"
       },
       {
         "id": "5.1.2",
@@ -909,7 +909,7 @@
         "recommended_reason": null,
         "name": "Partial Scan",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/echo_minor_partial-scan.png"
       }
     ],
     "major": [
@@ -927,7 +927,7 @@
         "recommended_reason": null,
         "name": "Full Salvo",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/echo_major_full-salvo.png"
       },
       {
         "id": "5.2.2",
@@ -943,7 +943,7 @@
         "recommended_reason": null,
         "name": "High Beams",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/echo_major_high-beams.png"
       }
     ]
   },
@@ -963,7 +963,7 @@
         "recommended_reason": null,
         "name": "Bang Bang",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/cassidy_minor_bang-bang.png"
       },
       {
         "id": "5.1.2",
@@ -979,7 +979,7 @@
         "recommended_reason": null,
         "name": "Even the Odds",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/cassidy_minor_even-the-odds.png"
       }
     ],
     "major": [
@@ -994,7 +994,7 @@
         "recommended_reason": null,
         "name": "Rollin' Round-Ups",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/cassidy_major_rollin-round-ups.png"
       },
       {
         "id": "5.2.2",
@@ -1010,7 +1010,7 @@
         "recommended_reason": null,
         "name": "Silver Bullet",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/cassidy_major_silver-bullet.png"
       }
     ]
   },
@@ -1038,7 +1038,7 @@
         "recommended_reason": null,
         "name": "Sentry Capacity",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/symmetra_minor_sentry-capacity.png"
       },
       {
         "id": "5.1.2",
@@ -1054,7 +1054,7 @@
         "recommended_reason": null,
         "name": "Perfect Alignment",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/symmetra_minor_perfect-alignment.png"
       }
     ],
     "major": [
@@ -1069,7 +1069,7 @@
         "recommended_reason": null,
         "name": "Hovering Barrier",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/symmetra_major_hovering-barrier.png"
       },
       {
         "id": "5.2.2",
@@ -1085,7 +1085,7 @@
         "recommended_reason": null,
         "name": "Shield Battery",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/symmetra_major_shield-battery.png"
       }
     ]
   },
@@ -1102,7 +1102,7 @@
         "recommended_reason": null,
         "name": "Helix Propulsion",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/soldier-76_minor_helix-propulsion.png"
       },
       {
         "id": "5.1.2",
@@ -1115,7 +1115,7 @@
         "recommended_reason": null,
         "name": "Tactical Salvo",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/soldier-76_minor_tactical-salvo.png"
       }
     ],
     "major": [
@@ -1130,7 +1130,7 @@
         "recommended_reason": null,
         "name": "Agility Training",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/soldier-76_major_agility-training.png"
       },
       {
         "id": "5.2.2",
@@ -1146,7 +1146,7 @@
         "recommended_reason": null,
         "name": "Stim Pack",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/soldier-76_major_stim-pack.png"
       }
     ]
   },
@@ -1164,7 +1164,7 @@
         "recommended_reason": null,
         "name": "Swift Cuts",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/genji_minor_swift-cuts.png"
       },
       {
         "id": "5.1.2",
@@ -1182,7 +1182,7 @@
         "recommended_reason": null,
         "name": "Dragon's Thirst",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/genji_minor_dragon-s-thirst.png"
       }
     ],
     "major": [
@@ -1198,7 +1198,7 @@
         "recommended_reason": null,
         "name": "Blade Twisting",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/genji_major_blade-twisting.png"
       },
       {
         "id": "5.2.2",
@@ -1213,7 +1213,7 @@
         "recommended_reason": null,
         "name": "Meditation",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/genji_major_meditation.png"
       }
     ]
   },
@@ -1234,7 +1234,7 @@
         "recommended_reason": null,
         "name": "Groggy",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ana_minor_groggy.png"
       },
       {
         "id": "5.1.2",
@@ -1247,7 +1247,7 @@
         "recommended_reason": null,
         "name": "Speed Serum",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ana_minor_speed-serum.png"
       }
     ],
     "major": [
@@ -1264,7 +1264,7 @@
         "recommended_reason": null,
         "name": "Headhunter",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ana_major_headhunter.png"
       },
       {
         "id": "5.2.2",
@@ -1279,7 +1279,7 @@
         "recommended_reason": null,
         "name": "Biotic Bounce",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ana_major_biotic-bounce.png"
       }
     ]
   },
@@ -1311,7 +1311,7 @@
         "recommended_reason": null,
         "name": "Transport Shielding",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/jetpack-cat_minor_transport-shielding.png"
       }
     ],
     "major": [
@@ -1327,7 +1327,7 @@
         "recommended_reason": null,
         "name": "Headbutt",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/jetpack-cat_major_headbutt.png"
       },
       {
         "id": "5.2.2",
@@ -1341,7 +1341,7 @@
         "recommended_reason": "Recommended Major Perk",
         "name": "Claws Out",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/jetpack-cat_major_claws-out.png"
       }
     ]
   },
@@ -1358,7 +1358,7 @@
         "recommended_reason": null,
         "name": "Wellspring",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mizuki_minor_wellspring.png"
       },
       {
         "id": "5.1.2",
@@ -1371,7 +1371,7 @@
         "recommended_reason": null,
         "name": "Exposed Soul",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mizuki_minor_exposed-soul.png"
       }
     ],
     "major": [
@@ -1387,7 +1387,7 @@
         "recommended_reason": null,
         "name": "Resonant Return",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mizuki_major_resonant-return.png"
       },
       {
         "id": "5.2.2",
@@ -1401,7 +1401,7 @@
         "recommended_reason": null,
         "name": "Quickstep",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mizuki_major_quickstep.png"
       }
     ]
   },
@@ -1418,7 +1418,7 @@
         "recommended_reason": "Recommended Minor Perk",
         "name": "Overflow",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/wuyang_minor_overflow.png"
       },
       {
         "id": "5.1.2",
@@ -1430,7 +1430,7 @@
         "recommended_reason": null,
         "name": "Balance",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/wuyang_minor_balance.png"
       }
     ],
     "major": [
@@ -1446,7 +1446,7 @@
         "recommended_reason": null,
         "name": "Ebb and Flow",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/wuyang_major_ebb-and-flow.png"
       },
       {
         "id": "5.2.2",
@@ -1460,7 +1460,7 @@
         "recommended_reason": null,
         "name": "Falling Rain",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/wuyang_major_falling-rain.png"
       }
     ]
   },
@@ -1482,7 +1482,7 @@
         "recommended_reason": null,
         "name": "Deep Leap",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/hazard_minor_deep-leap.png"
       },
       {
         "id": "5.1.2",
@@ -1500,7 +1500,7 @@
         "recommended_reason": null,
         "name": "Anarchic Zeal",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/hazard_minor_anarchic-zeal.png"
       }
     ],
     "major": [
@@ -1516,7 +1516,7 @@
         "recommended_reason": null,
         "name": "Reconstitution",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/hazard_major_reconstitution.png"
       },
       {
         "id": "5.2.2",
@@ -1529,7 +1529,7 @@
         "recommended_reason": null,
         "name": "Explosive Impalements",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/hazard_major_explosive-impalements.png"
       }
     ]
   },
@@ -1546,7 +1546,7 @@
         "recommended_reason": null,
         "name": "Crusader's Fire",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/reinhardt_minor_crusader-s-fire.png"
       },
       {
         "id": "5.1.2",
@@ -1559,7 +1559,7 @@
         "recommended_reason": null,
         "name": "Crusader's Resolve",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/reinhardt_minor_crusader-s-resolve.png"
       }
     ],
     "major": [
@@ -1574,7 +1574,7 @@
         "recommended_reason": null,
         "name": "Shield Slam",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/reinhardt_major_shield-slam.png"
       },
       {
         "id": "5.2.2",
@@ -1586,7 +1586,7 @@
         "recommended_reason": null,
         "name": "Ignited Fury",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/reinhardt_major_ignited-fury.png"
       }
     ]
   },
@@ -1604,7 +1604,7 @@
         "recommended_reason": null,
         "name": "Rampant Charge",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/junker-queen_minor_rampant-charge.png"
       },
       {
         "id": "5.1.2",
@@ -1620,7 +1620,7 @@
         "recommended_reason": null,
         "name": "Battle Shout",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/junker-queen_minor_battle-shout.png"
       }
     ],
     "major": [
@@ -1635,7 +1635,7 @@
         "recommended_reason": null,
         "name": "Willy-Willy",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/junker-queen_major_willy-willy.png"
       },
       {
         "id": "5.2.2",
@@ -1652,7 +1652,7 @@
         "recommended_reason": "Recommended Major Perk",
         "name": "Savage Satiation",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/junker-queen_major_savage-satiation.png"
       }
     ]
   },
@@ -1673,7 +1673,7 @@
         "recommended_reason": null,
         "name": "Kinetic Bandolier",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mauga_minor_kinetic-bandolier.png"
       },
       {
         "id": "5.1.2",
@@ -1685,7 +1685,7 @@
         "recommended_reason": null,
         "name": "Pyromaniac",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mauga_minor_pyromaniac.png"
       }
     ],
     "major": [
@@ -1702,7 +1702,7 @@
         "recommended_reason": null,
         "name": "Firewalker",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mauga_major_firewalker.png"
       },
       {
         "id": "5.2.2",
@@ -1719,7 +1719,7 @@
         "recommended_reason": null,
         "name": "Combat Fuel",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mauga_major_combat-fuel.png"
       }
     ]
   },
@@ -1735,7 +1735,7 @@
         "recommended_reason": null,
         "name": "Defense Protocol",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/orisa_minor_defense-protocol.png"
       },
       {
         "id": "5.1.2",
@@ -1747,7 +1747,7 @@
         "recommended_reason": null,
         "name": "Mobile Fortification",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/orisa_minor_mobile-fortification.png"
       }
     ],
     "major": [
@@ -1762,7 +1762,7 @@
         "recommended_reason": null,
         "name": "Charged Javelin",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/orisa_major_charged-javelin.png"
       },
       {
         "id": "5.2.2",
@@ -1779,7 +1779,7 @@
         "recommended_reason": null,
         "name": "Protective Barrier",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/orisa_major_protective-barrier.png"
       }
     ]
   },
@@ -1799,7 +1799,7 @@
         "recommended_reason": null,
         "name": "One-Two",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/doomfist_minor_one-two.png"
       },
       {
         "id": "5.1.2",
@@ -1816,7 +1816,7 @@
         "recommended_reason": null,
         "name": "Survival of the Fittest",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/doomfist_minor_survival-of-the-fittest.png"
       }
     ],
     "major": [
@@ -1831,7 +1831,7 @@
         "recommended_reason": null,
         "name": "Aftershock",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/doomfist_major_aftershock.png"
       },
       {
         "id": "5.2.2",
@@ -1847,7 +1847,7 @@
         "recommended_reason": null,
         "name": "Power Matrix",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/doomfist_major_power-matrix.png"
       }
     ]
   },
@@ -1866,7 +1866,7 @@
         "recommended_reason": null,
         "name": "Smoulder",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/anran_minor_smoulder.png"
       },
       {
         "id": "5.1.2",
@@ -1881,7 +1881,7 @@
         "recommended_reason": "Recommended Minor Perk",
         "name": "Heat Shield",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/anran_minor_heat-shield.png"
       }
     ],
     "major": [
@@ -1897,7 +1897,7 @@
         "recommended_reason": null,
         "name": "Short Fuse",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/anran_major_short-fuse.png"
       },
       {
         "id": "5.2.2",
@@ -1911,7 +1911,7 @@
         "recommended_reason": "Recommended Major Perk",
         "name": "Hungering Blaze",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/anran_major_hungering-blaze.png"
       }
     ]
   },
@@ -1929,7 +1929,7 @@
         "recommended_reason": null,
         "name": "Configuration Reload",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/bastion_minor_configuration-reload.png"
       },
       {
         "id": "5.1.2",
@@ -1943,7 +1943,7 @@
         "recommended_reason": null,
         "name": "Armored Artillery",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/bastion_minor_armored-artillery.png"
       }
     ],
     "major": [
@@ -1960,7 +1960,7 @@
         "recommended_reason": null,
         "name": "Lindholm Explosives",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/bastion_major_lindholm-explosives.png"
       },
       {
         "id": "5.2.2",
@@ -1977,7 +1977,7 @@
         "recommended_reason": null,
         "name": "Self-Repair",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/bastion_major_self-repair.png"
       }
     ]
   },
@@ -1994,7 +1994,7 @@
         "recommended_reason": "Recommended Minor Perk",
         "name": "Relentless Barrage",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/freja_minor_relentless-barrage.png"
       },
       {
         "id": "5.1.2",
@@ -2007,7 +2007,7 @@
         "recommended_reason": null,
         "name": "Momentum Boost",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/freja_minor_momentum-boost.png"
       }
     ],
     "major": [
@@ -2022,7 +2022,7 @@
         "recommended_reason": null,
         "name": "Aerial Recovery",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/freja_major_aerial-recovery.png"
       },
       {
         "id": "5.2.2",
@@ -2036,7 +2036,7 @@
         "recommended_reason": null,
         "name": "Rising Winds",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/freja_major_rising-winds.png"
       }
     ]
   },
@@ -2053,7 +2053,7 @@
         "recommended_reason": null,
         "name": "Sonic Disruption",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/hanzo_minor_sonic-disruption.png"
       },
       {
         "id": "5.1.2",
@@ -2067,7 +2067,7 @@
         "recommended_reason": "Recommended Minor Perk",
         "name": "Dragon Fury",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/hanzo_minor_dragon-fury.png"
       }
     ],
     "major": [
@@ -2084,7 +2084,7 @@
         "recommended_reason": null,
         "name": "Frost Arrow",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/hanzo_major_frost-arrow.png"
       },
       {
         "id": "5.2.2",
@@ -2096,7 +2096,7 @@
         "recommended_reason": null,
         "name": "Scatter Arrows",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/hanzo_major_scatter-arrows.png"
       }
     ]
   },
@@ -2114,7 +2114,7 @@
         "recommended_reason": "Recommended Minor Perk",
         "name": "Mine Recycling",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/junkrat_minor_mine-recycling.png"
       },
       {
         "id": "5.1.2",
@@ -2127,7 +2127,7 @@
         "recommended_reason": null,
         "name": "Nitro Boost",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/junkrat_minor_nitro-boost.png"
       }
     ],
     "major": [
@@ -2144,7 +2144,7 @@
         "recommended_reason": null,
         "name": "Frag Cannon",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/junkrat_major_frag-cannon.png"
       },
       {
         "id": "5.2.2",
@@ -2158,7 +2158,7 @@
         "recommended_reason": null,
         "name": "Bomb Voyage",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/junkrat_major_bomb-voyage.png"
       }
     ]
   },
@@ -2175,7 +2175,7 @@
         "recommended_reason": null,
         "name": "Deep Burrow",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/venture_minor_deep-burrow.png"
       },
       {
         "id": "5.1.2",
@@ -2188,7 +2188,7 @@
         "recommended_reason": null,
         "name": "Excavation Exhilaration",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/venture_minor_excavation-exhilaration.png"
       }
     ],
     "major": [
@@ -2204,7 +2204,7 @@
         "recommended_reason": null,
         "name": "Smart Extender",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/venture_major_smart-extender.png"
       },
       {
         "id": "5.2.2",
@@ -2216,7 +2216,7 @@
         "recommended_reason": null,
         "name": "Covered in Dirt",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/venture_major_covered-in-dirt.png"
       }
     ]
   },
@@ -2233,7 +2233,7 @@
         "recommended_reason": null,
         "name": "Lingering Wraith",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/reaper_minor_lingering-wraith.png"
       },
       {
         "id": "5.1.2",
@@ -2253,7 +2253,7 @@
         "recommended_reason": null,
         "name": "Soul Reaving",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/reaper_minor_soul-reaving.png"
       }
     ],
     "major": [
@@ -2273,7 +2273,7 @@
         "recommended_reason": null,
         "name": "Dire Triggers",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/reaper_major_dire-triggers.png"
       },
       {
         "id": "5.2.2",
@@ -2286,7 +2286,7 @@
         "recommended_reason": null,
         "name": "Shadow Blink",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/reaper_major_shadow-blink.png"
       }
     ]
   },
@@ -2304,7 +2304,7 @@
         "recommended_reason": null,
         "name": "Skating Rink",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mei_minor_skating-rink.png"
       },
       {
         "id": "5.1.2",
@@ -2318,7 +2318,7 @@
         "recommended_reason": null,
         "name": "Glacial Propulsion",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mei_minor_glacial-propulsion.png"
       }
     ],
     "major": [
@@ -2336,7 +2336,7 @@
         "recommended_reason": null,
         "name": "Deep Freeze",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mei_major_deep-freeze.png"
       },
       {
         "id": "5.2.2",
@@ -2357,7 +2357,7 @@
         "recommended_reason": null,
         "name": "Cryo-Storm",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mei_major_cryo-storm.png"
       }
     ]
   },
@@ -2373,7 +2373,7 @@
         "recommended_reason": null,
         "name": "Scoped Efficiency",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/widowmaker_minor_scoped-efficiency.png"
       },
       {
         "id": "5.1.2",
@@ -2385,7 +2385,7 @@
         "recommended_reason": null,
         "name": "Sniper's Instinct",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/widowmaker_minor_sniper-s-instinct.png"
       }
     ],
     "major": [
@@ -2400,7 +2400,7 @@
         "recommended_reason": null,
         "name": "Widow’s Bite",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/widowmaker_major_widow-s-bite.png"
       },
       {
         "id": "5.2.2",
@@ -2417,7 +2417,7 @@
         "recommended_reason": null,
         "name": "Seeker Mine",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/widowmaker_major_seeker-mine.png"
       }
     ]
   },
@@ -2438,7 +2438,7 @@
         "recommended_reason": null,
         "name": "Hammer Time",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/torbjorn_minor_hammer-time.png"
       },
       {
         "id": "5.1.2",
@@ -2451,7 +2451,7 @@
         "recommended_reason": null,
         "name": "Pre-Heated",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/torbjorn_minor_pre-heated.png"
       }
     ],
     "major": [
@@ -2471,7 +2471,7 @@
         "recommended_reason": null,
         "name": "Anchor Bolts",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/torbjorn_major_anchor-bolts.png"
       },
       {
         "id": "5.2.2",
@@ -2488,7 +2488,7 @@
         "recommended_reason": null,
         "name": "Overloaded Turret",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/torbjorn_major_overloaded-turret.png"
       }
     ]
   },
@@ -2505,7 +2505,7 @@
         "recommended_reason": null,
         "name": "Assault Burst",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/baptiste_minor_assault-burst.png"
       },
       {
         "id": "5.1.2",
@@ -2517,7 +2517,7 @@
         "recommended_reason": null,
         "name": "Expanded Field",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/baptiste_minor_expanded-field.png"
       }
     ],
     "major": [
@@ -2531,7 +2531,7 @@
         "recommended_reason": null,
         "name": "Automated Healing",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/baptiste_major_automated-healing.png"
       },
       {
         "id": "5.2.2",
@@ -2546,7 +2546,7 @@
         "recommended_reason": null,
         "name": "Rocket Boots",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/baptiste_major_rocket-boots.png"
       }
     ]
   },
@@ -2564,7 +2564,7 @@
         "recommended_reason": null,
         "name": "Familiar Vitals",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/juno_minor_familiar-vitals.png"
       },
       {
         "id": "5.1.2",
@@ -2580,7 +2580,7 @@
         "recommended_reason": null,
         "name": "Locked On",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/juno_minor_locked-on.png"
       }
     ],
     "major": [
@@ -2597,7 +2597,7 @@
         "recommended_reason": null,
         "name": "Faster Blaster",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/juno_major_faster-blaster.png"
       },
       {
         "id": "5.2.2",
@@ -2613,7 +2613,7 @@
         "recommended_reason": null,
         "name": "Lift Off",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/juno_major_lift-off.png"
       }
     ]
   },
@@ -2629,7 +2629,7 @@
         "recommended_reason": null,
         "name": "Angelic Resurrection",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mercy_minor_angelic-resurrection.png"
       },
       {
         "id": "5.1.2",
@@ -2642,7 +2642,7 @@
         "recommended_reason": null,
         "name": "Divine Momentum",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mercy_minor_divine-momentum.png"
       }
     ],
     "major": [
@@ -2659,7 +2659,7 @@
         "recommended_reason": null,
         "name": "Chain Boost",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mercy_major_chain-boost.png"
       },
       {
         "id": "5.2.2",
@@ -2674,7 +2674,7 @@
         "recommended_reason": null,
         "name": "Flash Heal",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/mercy_major_flash-heal.png"
       }
     ]
   },
@@ -2691,7 +2691,7 @@
         "recommended_reason": null,
         "name": "Discordant Repair",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/zenyatta_minor_discordant-repair.png"
       },
       {
         "id": "5.1.2",
@@ -2711,7 +2711,7 @@
         "recommended_reason": null,
         "name": "Ascendance",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/zenyatta_minor_ascendance.png"
       }
     ],
     "major": [
@@ -2728,7 +2728,7 @@
         "recommended_reason": null,
         "name": "Focused Destruction",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/zenyatta_major_focused-destruction.png"
       },
       {
         "id": "5.2.2",
@@ -2741,7 +2741,7 @@
         "recommended_reason": "Recommended Major Perk",
         "name": "Dual Harmony",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/zenyatta_major_dual-harmony.png"
       }
     ]
   },
@@ -2760,7 +2760,7 @@
         "recommended_reason": "Recommended Minor Perk",
         "name": "Combat Medic",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/brigitte_minor_combat-medic.png"
       },
       {
         "id": "5.1.2",
@@ -2775,7 +2775,7 @@
         "recommended_reason": null,
         "name": "Morale Boost",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/brigitte_minor_morale-boost.png"
       }
     ],
     "major": [
@@ -2793,7 +2793,7 @@
         "recommended_reason": null,
         "name": "Inspiring Strike",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/brigitte_major_inspiring-strike.png"
       },
       {
         "id": "5.2.2",
@@ -2813,7 +2813,7 @@
         "recommended_reason": null,
         "name": "Whiplash",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/brigitte_major_whiplash.png"
       }
     ]
   },
@@ -2829,7 +2829,7 @@
         "recommended_reason": null,
         "name": "Steamroller",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/wrecking-ball_minor_steamroller.png"
       },
       {
         "id": "5.1.2",
@@ -2842,7 +2842,7 @@
         "recommended_reason": null,
         "name": "Multi-Ball",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/wrecking-ball_minor_multi-ball.png"
       }
     ],
     "major": [
@@ -2856,7 +2856,7 @@
         "recommended_reason": null,
         "name": "Hang Time",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/wrecking-ball_major_hang-time.png"
       },
       {
         "id": "5.2.2",
@@ -2868,7 +2868,7 @@
         "recommended_reason": null,
         "name": "Adaptive Barrier",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/wrecking-ball_major_adaptive-barrier.png"
       }
     ]
   },
@@ -2886,7 +2886,7 @@
         "recommended_reason": null,
         "name": "Void Surge",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ramattra_minor_void-surge.png"
       },
       {
         "id": "5.1.2",
@@ -2898,7 +2898,7 @@
         "recommended_reason": null,
         "name": "Relentless Form",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ramattra_minor_relentless-form.png"
       }
     ],
     "major": [
@@ -2914,7 +2914,7 @@
         "recommended_reason": null,
         "name": "Nanite Repair",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ramattra_major_nanite-repair.png"
       },
       {
         "id": "5.2.2",
@@ -2929,7 +2929,7 @@
         "recommended_reason": null,
         "name": "Vengeful Vortex",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/ramattra_major_vengeful-vortex.png"
       }
     ]
   },
@@ -2945,7 +2945,7 @@
         "recommended_reason": null,
         "name": "Drift Thrusters",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/pharah_minor_drift-thrusters.png"
       },
       {
         "id": "5.1.2",
@@ -2957,7 +2957,7 @@
         "recommended_reason": null,
         "name": "Helix Shields",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/pharah_minor_helix-shields.png"
       }
     ],
     "major": [
@@ -2971,7 +2971,7 @@
         "recommended_reason": null,
         "name": "Fuel Stores",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/pharah_major_fuel-stores.png"
       },
       {
         "id": "5.2.2",
@@ -2984,7 +2984,7 @@
         "recommended_reason": null,
         "name": "Rocket Salvo",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/pharah_major_rocket-salvo.png"
       }
     ]
   },
@@ -3004,7 +3004,7 @@
         "recommended_reason": null,
         "name": "Encrypted Upload",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sombra_minor_encrypted-upload.png"
       },
       {
         "id": "5.1.2",
@@ -3019,7 +3019,7 @@
         "recommended_reason": null,
         "name": "CTRL ALT ESC",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sombra_minor_ctrl-alt-esc.png"
       }
     ],
     "major": [
@@ -3035,7 +3035,7 @@
         "recommended_reason": null,
         "name": "High-Speed Bandwidth",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sombra_major_high-speed-bandwidth.png"
       },
       {
         "id": "5.2.2",
@@ -3051,7 +3051,7 @@
         "recommended_reason": null,
         "name": "Viral Replication",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/sombra_major_viral-replication.png"
       }
     ]
   },
@@ -3067,7 +3067,7 @@
         "recommended_reason": null,
         "name": "Destruction's Divide",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/moira_minor_destruction-s-divide.png"
       },
       {
         "id": "5.1.2",
@@ -3079,7 +3079,7 @@
         "recommended_reason": null,
         "name": "Ethical Nourishment",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/moira_minor_ethical-nourishment.png"
       }
     ],
     "major": [
@@ -3093,7 +3093,7 @@
         "recommended_reason": null,
         "name": "Reversal",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/moira_major_reversal.png"
       },
       {
         "id": "5.2.2",
@@ -3106,7 +3106,7 @@
         "recommended_reason": null,
         "name": "Phantom Step",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/moira_major_phantom-step.png"
       }
     ]
   },
@@ -3123,7 +3123,7 @@
         "recommended_reason": null,
         "name": "Petal Protection",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/lifeweaver_minor_petal-protection.png"
       },
       {
         "id": "5.1.2",
@@ -3138,7 +3138,7 @@
         "recommended_reason": null,
         "name": "Dashing Escape",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/lifeweaver_minor_dashing-escape.png"
       }
     ],
     "major": [
@@ -3160,7 +3160,7 @@
         "recommended_reason": null,
         "name": "Superbloom",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/lifeweaver_major_superbloom.png"
       },
       {
         "id": "5.2.2",
@@ -3173,7 +3173,7 @@
         "recommended_reason": null,
         "name": "Sow the Seed",
         "description": null,
-        "image": null
+        "image": "/data/assets/perks/lifeweaver_major_sow-the-seed.png"
       }
     ]
   }

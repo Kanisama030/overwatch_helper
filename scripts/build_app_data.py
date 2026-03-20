@@ -352,7 +352,7 @@ def build_counter_index(master, mapping):
     return result
 
 
-def build_perks_index(master, mapping):
+def build_perks_index(master, mapping, perks_manifest=None):
     """產生 perks_index.json，從 section 5 提取 perks 資料"""
     def _normalize_perk_key(text):
         return re.sub(r"[^a-z0-9]+", "", str(text or "").lower())
@@ -366,6 +366,17 @@ def build_perks_index(master, mapping):
         if not normalized.startswith("/"):
             normalized = f"/{normalized}"
         return normalized
+
+    perk_manifest_map = {}
+    for item in perks_manifest or []:
+        if not isinstance(item, dict):
+            continue
+        hero_id = str(item.get("hero_id", "")).strip().lower()
+        group = str(item.get("group", "")).strip().lower()
+        perk_name = _normalize_perk_key(item.get("name"))
+        if not hero_id or not group or not perk_name:
+            continue
+        perk_manifest_map[(hero_id, group, perk_name)] = _normalize_asset_path(item.get("local_path"))
 
     mapping_ids = {str(h.get("id", "")).lower() for h in mapping.get("heroes", [])}
     en_to_id = {str(h.get("en", "")).lower(): h.get("id", "") for h in mapping.get("heroes", [])}
@@ -438,6 +449,9 @@ def build_perks_index(master, mapping):
             mapped_name = mapping_item.get("name", "") if isinstance(mapping_item, dict) else ""
             mapped_description = mapping_item.get("description") if isinstance(mapping_item, dict) else None
             mapped_image = _normalize_asset_path(mapping_item.get("image")) if isinstance(mapping_item, dict) else None
+            if not mapped_image:
+                lookup_name = _normalize_perk_key(mapped_name or perk.get("title"))
+                mapped_image = perk_manifest_map.get((hero_key, "minor perks", lookup_name))
             perk["name"] = mapped_name or perk.get("title", "")
             perk["title"] = mapped_name or perk.get("title", "")
             perk["description"] = mapped_description if mapped_description else None
@@ -451,6 +465,9 @@ def build_perks_index(master, mapping):
             mapped_name = mapping_item.get("name", "") if isinstance(mapping_item, dict) else ""
             mapped_description = mapping_item.get("description") if isinstance(mapping_item, dict) else None
             mapped_image = _normalize_asset_path(mapping_item.get("image")) if isinstance(mapping_item, dict) else None
+            if not mapped_image:
+                lookup_name = _normalize_perk_key(mapped_name or perk.get("title"))
+                mapped_image = perk_manifest_map.get((hero_key, "major perks", lookup_name))
             perk["name"] = mapped_name or perk.get("title", "")
             perk["title"] = mapped_name or perk.get("title", "")
             perk["description"] = mapped_description if mapped_description else None
@@ -588,6 +605,7 @@ def main():
     hero_manifest = _read_manifest(os.path.join(DATA_DIR, "assets", "heroes", "manifest.json"))
     map_manifest = _read_manifest(os.path.join(DATA_DIR, "assets", "maps", "manifest.json"))
     guide_manifest = _read_manifest(os.path.join(DATA_DIR, "assets", "guide", "manifest.json"))
+    perks_manifest = _read_manifest(os.path.join(DATA_DIR, "assets", "perks", "manifest.json"))
 
     if not master or not mapping or not stats:
         print("[失敗] 資料載入失敗，請確認來源檔案存在。")
@@ -622,7 +640,7 @@ def main():
 
     # 5. perks_index.json
     print("產生 perks_index.json...")
-    perks_idx = build_perks_index(master, mapping)
+    perks_idx = build_perks_index(master, mapping, perks_manifest)
     save_json(os.path.join(APP_DIR, "perks_index.json"), perks_idx)
     print(f"  ✓ 共 {len(perks_idx)} 位英雄的 Perks 資料")
 
