@@ -1,0 +1,652 @@
+{
+  "hero_id": "anran",
+  "locale": "zh-TW",
+  "sections": {
+    "1": {
+      "title": "概覽",
+      "description": "",
+      "content": [
+        "安燃（Anran）是一位以「機動突襲（Dive）」為導向的輸出型英雄，她結合了爆發傷害與持續傷害（Damage over time）攻擊。她的技能組非常依賴連招，因為她的任何技能都不適合單獨使用，必須與其他技能搭配才能發揮最大效益。",
+        "機動性與技能連招是安燃用來智取敵人的關鍵工具。她具備優秀的傷害潛力，但必須保持在中近距離作戰，以便利用她的次要攻擊「扇形射擊（Secondary fan）」與「消散（Fade）」進行攻擊。她應該將大部分時間花在側翼與非正面角度。與其他側襲者（Flanker）英雄類似，她若想取得成功，就必須利用機動性繞過敵方前線，並孤立那些躲在隊伍後方的目標。",
+        "如果你喜歡高技術門檻的英雄，那麼在《鬥陣特攻》全新的第 1 賽季中，安燃絕對是一個絕佳的選擇。"
+      ],
+      "content_hash": "1e6950795321",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:17.715048Z"
+    },
+    "1.1.1": {
+      "title": "操作指南",
+      "description": "",
+      "content": [
+        "* 交替使用 2 次主要攻擊（Primary Fire）與 1 次次要攻擊（Secondary Fire），以最大化每秒傷害（DPS）。",
+        "* 僅使用一次舞動烈焰（Dancing Blaze）衝刺來進行攻擊，務必保留一次充能以利於脫離戰鬥並存活。",
+        "* 兩種絕招（Ults）都很有價值。雖然使用飛升（Ascent）來確保擊殺效果更好，但利用復活絕招讓自己立即重返戰場並協助隊伍獲勝也是極佳的運用方式。"
+      ],
+      "content_hash": "91eaaf01eea1",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:19.584978Z"
+    },
+    "1.1.2": {
+      "title": "對戰策略",
+      "description": "",
+      "content": [
+        "* 擁有足夠機動性與射程，能保持在 10 公尺範圍外對抗「烈焰扇擊（Fan the Flames）」的英雄，在此對局中佔有優勢。",
+        "* 控場技能（Crowd Control）與暈眩效果對於阻止安燃（Anran）的衝鋒非常有效。鎖定她並在她試圖逃跑時將其擊殺。",
+        "* 在安燃（Anran）施放絕招時迅速鎖定她。如果她的生命值偏低，或是她需要花時間瞄準，你可以在她引導「朱紅升騰（Vermillion Ascent）」時將她擊敗。"
+      ],
+      "content_hash": "a1693a9470d9",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:21.106114Z"
+    },
+    "1.1.3": {
+      "title": "優勢",
+      "description": "",
+      "content": [
+        "* 憑藉機動性、閃避以及自我治療（self-healing）能力，具備極高的生存能力。",
+        "* 結合了燃燒（burning）帶來的持續傷害，以及連招（combos）造成的爆發傷害，表現優異。"
+      ],
+      "content_hash": "56ff3d2ce9e6",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:22.444976Z"
+    },
+    "1.1.4": {
+      "title": "弱點",
+      "description": "",
+      "content": [
+        "* 必須保持在次要攻擊（secondary fire）的近距離範圍內，才能維持高 DPS 輸出。許多英雄都擁有能讓這項任務變得非常困難的手段。",
+        "* 操作難度高。需要具備快速連鎖施放技能連招、追蹤燃燒持續時間，以及控制快速衝刺速度的能力。"
+      ],
+      "content_hash": "8ef5b44f19df",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:23.975191Z"
+    },
+    "2": {
+      "title": "優勢與劣勢總結",
+      "description": "",
+      "content": [
+        "* 高生存能力",
+        "* 優秀的持續傷害（DoT）與爆發傷害",
+        "* 短射程",
+        "* 操作難度高",
+        "* 容易受到控場（Crowd Control）影響"
+      ],
+      "content_hash": "dfc130d8a3a2",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:25.235080Z"
+    },
+    "3.1.1": {
+      "title": "高生存能力",
+      "description": "",
+      "content": [
+        "憑藉著機動性、閃避與自我治療能力，擁有極高的生存能力。雖然她必須在較近的距離進行交戰，但她的技能組提供了豐富的手段來確保生存。"
+      ],
+      "content_hash": "471f0664ebf4",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:26.625244Z"
+    },
+    "3.1.2": {
+      "title": "優秀的持續傷害與爆發傷害",
+      "description": "",
+      "content": [
+        "安燃（Anran）結合了燃燒帶來的持續傷害（damage over time），以及連招帶來的爆發傷害（burst damage）。雖然許多英雄只具備其中一種能力，但安燃擁有獲取擊殺的多種手段。"
+      ],
+      "content_hash": "8dd97a5f38fc",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:27.997239Z"
+    },
+    "3.2.1": {
+      "title": "短程",
+      "description": "",
+      "content": [
+        "必須保持在次要攻擊的短程範圍內，才能維持高 DPS 輸出。許多英雄都擁有能讓此任務變得非常困難的手段。面對其他高機動性的英雄時，追擊可能會很困難。當敵方使用長程即時命中（hitscan）英雄時，移動到定位會變得相當危險。"
+      ],
+      "content_hash": "b0b9bc7ba98f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:29.753715Z"
+    },
+    "3.2.2": {
+      "title": "操作難度高",
+      "description": "",
+      "content": [
+        "操作技巧要求高。需要具備快速串聯技能連招（ability combos）、追蹤燃燒持續時間（burning duration），以及控制快速衝刺速度（quick rush speed）的能力。"
+      ],
+      "content_hash": "f0a8508ad9bc",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:30.947834Z"
+    },
+    "3.2.3": {
+      "title": "弱點：群體控制",
+      "description": "",
+      "content": [
+        "昏迷效果對於限制她的行動特別有效。除了在精準時機施放的舞動烈焰（Dancing Blaze）之外，她完全無法抵禦被連續昏迷直到死亡的威脅。"
+      ],
+      "content_hash": "884cfec8d045",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:32.026349Z"
+    },
+    "4.1": {
+      "title": "主要攻擊：朱雀扇（Zhuque Fans）",
+      "description": "",
+      "content": [
+        "**朱雀扇（Zhuque Fans）使用技巧**",
+        "* 最佳遠程傷害工具。朱雀扇沒有傷害衰減，在遠距離進行點射是累積絕招充能的可靠方法。",
+        "* 即使在準備進行側襲（Flanker）時，你也應該在重新定位的同時，盡可能地造成更多消耗傷害。"
+      ],
+      "content_hash": "9da89bf9cf31",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:33.654175Z"
+    },
+    "4.2": {
+      "title": "次要攻擊：扇火（Fan the Flames）",
+      "description": "",
+      "content": [
+        "關於扇火（Fan the Flames）的技巧：",
+        "* 射程短且基礎每秒傷害（DPS）低。僅用於點燃敵人，或維持敵人的燃燒狀態。",
+        "* 造成 25% 的點燃效果，與主要攻擊的身體射擊相同。當敵人的點燃介面顯示為 75% 時，使用扇火（Fan the Flames）將會同時點燃敵人並觸發強化的燃燒傷害。",
+        "* 你可以按住主要攻擊鍵，並點按次要攻擊鍵來取消朱雀扇（Zhuque Fans）的恢復動畫，藉此將傷害輸出最大化。"
+      ],
+      "content_hash": "53e6105ee5a4",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:35.683949Z"
+    },
+    "4.3": {
+      "title": "[SHIFT]：煉獄衝刺（Inferno Rush）",
+      "description": "",
+      "content": [
+        "**煉獄衝刺（Inferno Rush）使用技巧**",
+        "* 將煉獄衝刺（Inferno Rush）視為衝刺或跳躍。初始的推進力可以調整垂直角度，但在衝刺期間，安燃（Anran）無法獲得額外的上升高度。",
+        "* 煉獄衝刺（Inferno Rush）是她最強的逃生手段。當靠近高處或牆壁時，跳躍後按下 SHIFT 並向上瞄準，即可快速翻越牆壁抵達安全區域。",
+        "* 一次充能用於進場，一次用於退場。由於你擁有兩次推進次數，且需要保持在扇（Fan）的攻擊範圍內，你的標準戰鬥循環應該是使用第一次充能來突襲敵人。嘗試取得擊殺（KO），或是至少迫使敵方隊伍交出多個冷卻技能，接著使用你的 E 技能爭取時間，最後再用 SHIFT 撤退。",
+        "* 除非你的隊伍全員集結並決心攻擊同一個目標，否則絕對不要將兩次衝刺都用於進攻。"
+      ],
+      "content_hash": "dfef212c3695",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:38.006620Z"
+    },
+    "4.4": {
+      "title": "[E]：舞動烈焰（Dancing Blaze）",
+      "description": "",
+      "content": [
+        "舞動烈焰（Dancing Blaze）的使用技巧",
+        "* 需要精準的時機。基礎持續時間不到 1 秒，因此你必須非常精準地掌握啟動時機。",
+        "* 盡量不要預判性地啟動舞動烈焰（Dancing Blaze）。相反地，請觀察對手並根據他們的技能動畫做出反應，以閃避對方的攻擊。",
+        "* 閃避期間可進行微幅移動控制。雖然幅度不大，但在隱形期間移動到不同的位置非常重要，這樣能讓敵人在你現身時難以立即發動攻擊。",
+        "* 在人群中效果最佳。如果你處於多名對手的範圍內，安燃（Anran）會持續攻擊每個目標一次，這會使她保持無敵狀態的時間更長。",
+        "* 不過，這並不會增加她的移動範圍。"
+      ],
+      "content_hash": "b0bac92e32e7",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:40.304143Z"
+    },
+    "4.5": {
+      "title": "絕招：朱紅升騰（Vermillion Ascent）與朱紅復甦（Vermillion Revival）",
+      "description": "",
+      "content": [
+        "**朱紅升騰（Vermillion Ascent）技巧**",
+        "* 並非無敵。安燃（Anran）在引導朱紅升騰（Vermillion Ascent）時可能會被擊殺。請確保你有足夠的生命值（約 175HP 以上）以存活夠久來進行瞄準並向前衝鋒。",
+        "* 巨大的範圍傷害（AoE）。請檢查視覺指示器，確認哪些敵人會處於爆炸半徑內。",
+        "* 雖然衝擊中心點的傷害會隨距離衰減，但所有被擊中的敵人皆會 100% 進入燃燒狀態。",
+        "* 務必在絕招後銜接煽風點火（Fan the Flames）來快速放大燃燒傷害。",
+        "* 俯衝過程可以穿透屏障，但實際的爆炸效果可以被阻擋。請務必等待敵方的屏障技能結束後再施放絕招。",
+        "* 連招工具。",
+        "* 將朱紅升騰（Vermillion Ascent）視為連招的一部分。你可以選擇用它作為連招起手，或是放在連招中間使用。此俯衝並非瞬間獲勝或瞬間擊殺的按鈕。若要獲得高價值，你需要快速銜接主要與次要攻擊，並配合絕招使用。",
+        "**朱紅復甦（Vermillion Revival）技巧**",
+        "* 如果你在敵人附近死亡，請等待隊伍推進以創造安全的復甦空間。當隊友無法推進時，請將絕招能量留到下一條命使用。",
+        "* 這不是 D.Va 的自爆。雖然安燃（Anran）在復甦時會產生爆炸，但爆發傷害非常低。復甦時請務必謹慎，因為你需要迅速閃避，或利用次要與主要攻擊快速擊殺附近的目標。",
+        "* 盡可能利用允許的範圍。"
+      ],
+      "content_hash": "9640bc70bada",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:43.833983Z"
+    },
+    "4.6": {
+      "title": "側襲者特殊能力",
+      "description": "",
+      "content": [
+        "**側襲者（Flanker）特殊能力的提示**",
+        "* 結合她的移動能力、閃避、絕招以及副角色（subrole）特殊能力，安燃（Anran）具備相當高的自給自足能力。請隨時留意附近生命包的位置，並嘗試追蹤是否已被其他人拾取。",
+        "* 特別是在敵方陣線後方進行側襲時，拾取生命包往往是決定生死的關鍵。"
+      ],
+      "content_hash": "0ec3cc0afeff",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:45.741273Z"
+    },
+    "5.1.1": {
+      "title": "悶燒（Smoulder）",
+      "description": "",
+      "content": [
+        "* 延長燃燒效果的持續時間。",
+        "* 不會延長「扇形射擊（Fan the Flames）」的增幅傷害時間。",
+        "* 對於撤退到掩體後的敵人，此能力有助於延長傷害輸出。有時能在敵人本可勉強存活的情況下，成功擊殺目標。",
+        "* 進一步延遲敵方被動治療效果的啟動時間。"
+      ],
+      "content_hash": "71c865b3dbae",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:47.614087Z"
+    },
+    "5.1.2": {
+      "title": "熱能護盾（Heat Shield）",
+      "description": "",
+      "content": [
+        "* 將朱紅升騰（Vermillion Ascent）轉變為生存工具。大範圍的範圍效果（AoE）使其表現穩定，且每次使用預期能命中多個目標相當實際。",
+        "* 讓你的絕招能更具侵略性地使用。例如，命中 2 個目標即可產生 150 點額外生命值。",
+        "* 在戰鬥中使用額外生命值產生效果作為一種治療手段，或在發動攻擊時使用，讓自己變得更像一名戰士（Bruiser）。",
+        "* 推薦的次要特殊能力（minor perks）。"
+      ],
+      "content_hash": "91ce58fde624",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:49.314215Z"
+    },
+    "5.2.1": {
+      "title": "短引信（Short Fuse）",
+      "description": "",
+      "content": [
+        "* 在混亂的戰鬥中衝刺穿過多個目標，是擴散燃燒效果、造成傷害並閃避傷害的絕佳方式。",
+        "* 擊中同一個目標兩次會計算為雙倍冷卻時間減免（總計 3 秒）。",
+        "* 當衝刺（Rush）結束時，請務必謹慎選擇你的站位。如果你沒有任何充能，則必須命中 6 次才能完全重置衝刺（Rush）。"
+      ],
+      "content_hash": "02a91d7387ba",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:51.095135Z"
+    },
+    "5.2.2": {
+      "title": "飢渴烈焰（Hungering Blaze）",
+      "description": "",
+      "content": [
+        "* 極其強大的生存能力。",
+        "* 當使用飢渴烈焰（Hungering Blaze）時，處於多名敵人的範圍內會更加重要。如「技能提示」中所述，安燃（Anran）將會維持更長時間的無敵狀態，並額外治療自身。",
+        "* 推薦的主要特殊能力（major perks）。"
+      ],
+      "content_hash": "547484fce58f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:52.644097Z"
+    },
+    "6": {
+      "title": "地圖",
+      "description": "",
+      "content": [
+        "在「控制」與「閃擊點」地圖（例如：尼泊爾、灕江天塔、蘇拉瓦薩）上，安燃（Anran）能透過利用垂直空間與側襲路線來騷擾落單的敵人並取得首殺，藉此發揮優勢。她必須在這些較小的地圖上採取「進場與撤離」的策略，否則敵方隊伍將能支援她的目標，並集火將她迅速擊殺。",
+        "在「護送」、「混合」與「推進」地圖（例如：新皇后街、多拉多、羅馬競技場）上，利用她的機動性來威脅敵方隊伍後排的輔助與輸出角色。相較於前兩種模式，這些地圖較為線性的佈局更適合進行較長時間的消耗戰。",
+        "安燃（Anran）的技能組獎勵那些能夠洞察隊伍轉點、善用環境掩體以避免被預測或擊殺，並能懲罰敵方反突擊能力（例如：睡眠鏢（Sleep Dart）、閃光彈（Flashbang）、消散（Fade））處於冷卻狀態的玩家。",
+        "由於遠距離戰鬥是她的主要弱點，在像中城區與皇家賽道這種視線開闊的地圖上，她會被像艾西（Ashe）這類型的即時命中英雄所壓制。"
+      ],
+      "content_hash": "28d5dd2d691b",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:55.346537Z"
+    },
+    "6.1.1": {
+      "title": "尼泊爾",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:56.597896Z"
+    },
+    "6.1.2": {
+      "title": "灕江天塔",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:57.834241Z"
+    },
+    "6.1.3": {
+      "title": "蘇拉瓦薩",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:58.807663Z"
+    },
+    "6.1.4": {
+      "title": "新皇后街",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:37:59.949285Z"
+    },
+    "6.1.5": {
+      "title": "多拉多",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:01.143752Z"
+    },
+    "6.1.6": {
+      "title": "羅馬競技場",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:02.439180Z"
+    },
+    "6.1.7": {
+      "title": "伊利歐斯",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:03.336482Z"
+    },
+    "6.1.8": {
+      "title": "綠洲城",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:04.575454Z"
+    },
+    "6.1.9": {
+      "title": "薩摩亞",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:05.683987Z"
+    },
+    "6.1.10": {
+      "title": "釜山",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:06.590301Z"
+    },
+    "6.1.11": {
+      "title": "埃特利斯",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:07.972385Z"
+    },
+    "6.1.12": {
+      "title": "新垃圾城",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:09.251438Z"
+    },
+    "6.1.13": {
+      "title": "66號公路",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:10.233957Z"
+    },
+    "6.1.14": {
+      "title": "哈瓦那",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:11.543941Z"
+    },
+    "6.1.15": {
+      "title": "垃圾鎮",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:12.735785Z"
+    },
+    "6.1.16": {
+      "title": "捍衛者基地：直布羅陀",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:14.023983Z"
+    },
+    "6.1.17": {
+      "title": "里亞爾托",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:15.304191Z"
+    },
+    "6.1.18": {
+      "title": "香巴里僧院",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:16.479951Z"
+    },
+    "6.1.19": {
+      "title": "努巴尼",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:17.703951Z"
+    },
+    "6.1.20": {
+      "title": "國王大道",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:18.754064Z"
+    },
+    "6.1.21": {
+      "title": "好萊塢",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:19.982045Z"
+    },
+    "6.1.22": {
+      "title": "帕拉伊索",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:21.269224Z"
+    },
+    "6.1.23": {
+      "title": "愛西瓦德",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:22.107910Z"
+    },
+    "6.1.24": {
+      "title": "暴雪樂園",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:23.375833Z"
+    },
+    "6.1.25": {
+      "title": "希望之城",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:24.734225Z"
+    },
+    "6.1.26": {
+      "title": "盧納薩庇",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:25.858840Z"
+    },
+    "6.2.1": {
+      "title": "中城區",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:27.113872Z"
+    },
+    "6.2.2": {
+      "title": "皇家賽道",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:28.244167Z"
+    },
+    "7": {
+      "title": "隊伍陣容搭配",
+      "description": "",
+      "content": [
+        "隊伍中最好的坦克是那些能夠利用傷害減免來幫助你存活，或是能夠跟進你開戰的英雄。札莉雅（Zarya）可以施放投射屏障（Projected Barrier），讓安燃（Anran）能夠溜到敵人後方，並在不被控場（CC）的情況下安全地發動攻擊。D.Va 可以利用防護矩陣（Defense Matrix）與她的爆發傷害一同飛入，進行協調的閃擊刺殺。",
+        "由於安燃（Anran）缺乏持續性的傷害輸出，她也能與士兵76（Soldier: 76）或卡西迪（Cassidy）這類英雄完美搭配，他們可以持續施加遠程消耗壓力，並能從遠處跟進安燃（Anran）的閃擊。"
+      ],
+      "content_hash": "dfa6a20876e8",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:30.738294Z"
+    },
+    "8": {
+      "title": "如何反制",
+      "description": "",
+      "content": [
+        "使用緩速、昏迷或位移等控場技能（Crowd control）是反制安燃（Anran）發動攻擊的最佳手段。將她擊退能有效中斷她的攻勢，或是讓你脫離烈焰扇擊（Fan the Flames）的攻擊範圍。如果你能在她衝刺時，或是她剛從熾熱之舞（Dancing Blaze）現身時立即將其昏迷，通常就能成功將她擊殺。",
+        "透過靈活的走位並善用掩體，防止她連續命中目標，這會讓她難以對你維持燃燒傷害。一旦她的燃燒量表重置，她將難以重新建立壓制力。",
+        "像索潔恩（Sojourn）、卡西迪（Cassidy）或宿怨（Vendetta）這類高爆發傷害的輸出英雄，可以在安燃（Anran）發揮作用前就先將其攔截。他們也非常擅長在安燃（Anran）發動煉獄衝刺（Inferno Rush）期間，或是熾熱之舞（Dancing Blaze）結束後將她收掉。",
+        "當你聽到她使用朱紅復甦（Vermillion Revival）時，別忘了留意她的死亡位置，因為如果她復活時遠離隊友，將會成為輕而易舉的擊殺目標。"
+      ],
+      "content_hash": "048d7895ced8",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:33.747518Z"
+    },
+    "8.2": {
+      "title": "特定英雄剋制名稱",
+      "description": "",
+      "content": [
+        "* 索潔恩",
+        "* 卡西迪",
+        "* 宿怨"
+      ],
+      "content_hash": "0b08be2379e2",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:38:34.953882Z"
+    }
+  },
+  "metadata": {
+    "prompt_version": "v5",
+    "glossary_version": "v1",
+    "timestamp": "2026-03-20T04:28:18.024357Z"
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "hero_id": "baptiste",
+  "locale": "zh-TW",
+  "sections": {
+    "1": {
+      "title": "概覽",
+      "description": "",
+      "content": [
+        "當你想玩輸出位（DPS）卻被迫選輔助時，巴帝斯特（Baptiste）就是你的最佳選擇。他常被拿來與士兵76（Soldier: 76）相提並論，因為他同樣具備治療能力。他的即時命中（hitscan）連發武器非常適合對付飛行單位，並能持續施加遠程消耗壓力。憑藉外骨骼靴（Exo Boots）帶來的機動性以及不滅力場（Immortality Field），巴帝斯特（Baptiste）擁有極高的靈活性，能融入多種不同的隊伍陣容，且沒有任何明顯的劣勢對局。",
+        "他所有的治療手段皆為範圍效果（AoE），因此在隊伍集結或盟友機動性較低時，能發揮最大價值。你通常會發現巴帝斯特（Baptiste）站在隊伍後方，或是佔據高處，利用生化發射器（Biotic Launcher）對敵方隊伍施加壓力。"
+      ],
+      "content_hash": "ef719b097661",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:31.466104Z"
+    },
+    "1.1.1": {
+      "title": "操作指南",
+      "description": "",
+      "content": [
+        "* 同時兼顧治療與傷害。不要陷入只會當補血機器或只顧著進攻的盲點，而忘記維持隊友的生存。",
+        "* 使用不朽力場（Immortality Field）時要有耐心。等待敵方先交出技能和大絕招後再部署。",
+        "* 不要待在原地不動。利用外骨骼靴（Exo Boots）佔領高處、撤退至安全位置，並隨時跳回戰場。"
+      ],
+      "content_hash": "a6dfd31b34bb",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:33.213978Z"
+    },
+    "1.1.2": {
+      "title": "對戰策略",
+      "description": "",
+      "content": [
+        "* 在看到他使用「永生力場（Immortality Field）」之前，請勿輕易交出長冷卻時間技能或絕招。試著先以普通攻擊或短冷卻時間技能進行消耗，撤退後，再等他交出該技能後重新發起進攻。",
+        "* 觀察他的跳躍動作並在空中鎖定他。當他處於跳躍軌跡中無法變向時，是他最容易被擊殺的時機。",
+        "* 他的主要攻擊有嚴重的傷害衰減。請保持距離，並利用安娜（Ana）、霧子（Kiriko）和奪命女（Widowmaker）等英雄將他擊倒。"
+      ],
+      "content_hash": "207164658e2e",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:35.251880Z"
+    },
+    "2": {
+      "title": "優勢與劣勢總結",
+      "description": "",
+      "content": [
+        "* 輸出（DPS）",
+        "* 不死力場（Immortality Field）",
+        "* 範圍與爆發治療（AoE and burst Healing）",
+        "* 長冷卻時間（Long cooldowns）",
+        "* 對抗機動陣容（dive comps）較弱",
+        "* 雙面刃（The two-edged sword）"
+      ],
+      "content_hash": "0929786598f2",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:36.926030Z"
+    },
+    "3.1.1": {
+      "title": "輸出型輔助",
+      "description": "",
+      "content": [
+        "在所有輔助英雄中，巴帝斯特（Baptiste）擁有數一數二的進攻能力。他的傷害輸出足以媲美部分輸出型英雄。如果你覺得隊伍缺乏傷害，切換成巴帝斯特（Baptiste）可以在不犧牲續航力的情況下彌補這個缺口。"
+      ],
+      "content_hash": "7fa489b2e2b6",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:38.502024Z"
+    },
+    "3.1.2": {
+      "title": "不朽力場（Immortality Field）",
+      "description": "",
+      "content": [
+        "僅僅擁有一項能讓範圍內所有隊友處於無敵狀態的技能，就已經具備了極其巨大的影響力。使用不朽力場（Immortality Field）可以有效掌控戰鬥節奏，並決定敵方隊伍何時能夠取得擊殺。"
+      ],
+      "content_hash": "76a7556149e6",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:40.056231Z"
+    },
+    "3.1.3": {
+      "title": "範圍與爆發治療",
+      "description": "",
+      "content": [
+        "巴帝斯特（Baptiste）的獨特之處在於他同時具備出色的單體治療、範圍治療與爆發治療能力。無論敵方隊伍是集中火力攻擊單一隊友，還是整個隊伍都在承受傷害，巴帝斯特（Baptiste）都能輕鬆提供所需的續航力。"
+      ],
+      "content_hash": "d2f1a51d7469",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:41.723083Z"
+    },
+    "3.2.1": {
+      "title": "長冷卻時間",
+      "description": "",
+      "content": [
+        "他技能組中最主要且最容易被利用的弱點，在於他的兩項技能都有很長的冷卻時間。當與敵方技能進行交換時，無論是再生爆發（Regen Burst）還是不朽力場（Immortality Field），敵方通常在巴帝斯特的技能冷卻完畢前，就已經能再次使用他們的技能了。"
+      ],
+      "content_hash": "8e256d35618c",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:43.312680Z"
+    },
+    "3.2.2": {
+      "title": "容易受到突襲陣容的威脅",
+      "description": "",
+      "content": [
+        "敵方的坦克（如 D.Va 和 溫斯頓），或是輸出（如 無畏 和 閃光），都將 巴帝斯特 視為容易擊殺的目標。他在遊戲後期可以透過「火箭靴（Rocket Boots）」主要特殊能力（major perks）來稍微彌補這一點，並讓自己更容易閃避對手的攻擊。"
+      ],
+      "content_hash": "72148e538e3e",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:45.211771Z"
+    },
+    "3.2.3": {
+      "title": "外骨骼靴（Exo Boots）是一把雙面刃",
+      "description": "",
+      "content": [
+        "跳過牆壁並對敵人進行轟炸，確實能展現出帥氣的進攻性打法，但只要巴帝斯特（Baptiste）一跳躍，就像是在自己臉上畫了一個巨大的標靶。根據敵方的陣容與具體情況，選擇跳躍或留在地面上可能才是更好的打法，而要判斷該選擇哪一種往往相當困難。"
+      ],
+      "content_hash": "30c035ab6bde",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:46.885300Z"
+    },
+    "4.1": {
+      "title": "主要攻擊：生化發射器（Biotic Launcher）",
+      "description": "",
+      "content": [
+        "生化發射器（Biotic Launcher）（主要攻擊）操作技巧",
+        "* 穿插治療射擊",
+        "* 為了最大化你的每分鐘操作數（APM），請交替使用主要與次要攻擊。站在你的坦克或隊友身後，並瞄準敵人。",
+        "* 你前方的盟友會保護你免受傷害並接受你的治療，而你的傷害輸出則會穿過他們擊中敵人。",
+        "* 瞄準上胸部",
+        "* 三發點放的後座力會垂直向上，並在每次點放之間重置。瞄準敵人的上胸部有助於你穩定命中目標，並在每次點放時額外獲得幾次爆頭傷害。"
+      ],
+      "content_hash": "efd5d9b5a9fb",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:48.528357Z"
+    },
+    "4.2": {
+      "title": "次要攻擊：生化發射器（治療）",
+      "description": "",
+      "content": [
+        "**關於**生化發射器（Biotic Launcher）**（次要攻擊）的提示**",
+        "* 瞄準腳部",
+        "* 濺射治療量是直接命中治療量的兩倍。因此，與其追求直接命中卻完全打空某些射擊，不如確保每一發都能至少觸發濺射治療。",
+        "* 瞄準腳部意味著即使你沒打中，拋射物也會在地面爆炸，依然能為你的隊友提供治療。",
+        "* 利用牆面進行濺射治療",
+        "* 嘗試治療像法拉（Pharah）或源氏（Genji）這類空中隊友可能會非常困難。如果他們靠近牆壁或天花板，請瞄準這些表面，利用範圍治療（AoE healing）來為他們補血。"
+      ],
+      "content_hash": "6acb6ed0b0de",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:50.593283Z"
+    },
+    "4.3": {
+      "title": "[SHIFT]：再生爆發（Regenerative Burst）",
+      "description": "",
+      "content": [
+        "**再生爆發（Regenerative Burst）的使用技巧**",
+        "* 當此技能冷卻時請務必格外小心",
+        "* 長冷卻時間很容易被敵人掌握。如果你沒有再生爆發（Regenerative Burst），巴帝斯特在遭到側襲者（Flanker）突襲時將無法自保。在技能冷卻完畢前，請待在你的另一位輔助身邊。",
+        "* 對生命值偏低的隊友進行雙倍治療",
+        "* 使用再生爆發（Regenerative Burst）的最佳時機，是你或隊友生命值已經非常低的時候。這樣他們能獲得更多治療量，你也能獲得更多絕招充能。",
+        "* 啟動後範圍效果會持續存在",
+        "* 隊友只需要在技能啟動時處於範圍內即可。因此巴帝斯特可以利用外骨骼戰靴（Exo Boost）跳向空中，對迴音（Echo）啟動再生爆發（Regenerative Burst），即使她飛走後，依然能持續獲得該持續治療效果。"
+      ],
+      "content_hash": "f33ab90699e2",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:52.946695Z"
+    },
+    "4.4": {
+      "title": "[E]：不朽力場（Immortality Field）",
+      "description": "",
+      "content": [
+        "**不朽力場（Immortality Field）的使用技巧**",
+        "* 將其視為第二個絕招",
+        "* 雖然你在 25 秒後會自動獲得冷卻重置，但不代表隊伍一受到傷害就該隨意丟出不朽力場（Immortality Field）。不要在沒放出來的情況下陣亡，但也要保持紀律，只有在確定這是唯一能保住自己或隊友性命的方法時才使用它。",
+        "* 放置在掩體後方",
+        "* 不朽力場（Immortality Field）的生命值非常低，因此如果敵人看得到它，他們就會將其摧毀。",
+        "* 盡可能將其部署在屏障或牆壁後方，同時確保你的隊友仍處於其範圍效果（AoE）內。"
+      ],
+      "content_hash": "81c5f7d615f1",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:54.840672Z"
+    },
+    "4.5": {
+      "title": "(Ctrl)：外骨骼靴（Exo Boots）",
+      "description": "",
+      "content": [
+        "外骨骼靴（Exo Boots）的使用技巧",
+        "* 不要頻繁跳躍",
+        "* 如果你的超級跳躍變得容易預測，敵人會在空中將你擊殺。請變換蓄力程度來改變跳躍高度。",
+        "* 佔據高處",
+        "* 巴帝斯特（Baptiste）應該隨時保持在戰場上方的位置。這樣做不僅更安全，也能更容易地命中拋物線治療彈。",
+        "* 越過牆壁與屏障進行射擊",
+        "* 跳過掩體來對撤退的敵人進行最後一擊，或是進入被阻隔的隊友視野（LoS）範圍內。",
+        "* 記得在跳過屏障與牆壁時要保持謹慎，因為敵人可能正在埋伏並將你擊殺。"
+      ],
+      "content_hash": "024839d77f40",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:57.159842Z"
+    },
+    "4.6": {
+      "title": "絕招：增幅矩陣（Amplification Matrix）",
+      "description": "",
+      "content": [
+        "**增幅矩陣（Amplification Matrix）的使用技巧**",
+        "* 部署在隊伍前方",
+        "* 在以消耗戰為主的陣容中，最好將視窗部署在隊伍前方，讓所有人都能透過它進行射擊。全隊雙倍的傷害輸出不是能直接摧毀敵方隊伍，就是能強迫他們撤退。",
+        "* 部署在隊伍後方",
+        "* 當你需要雙倍治療，或是與另一位像朱諾（Juno）這樣的投射型輔助搭配時，你可以將視窗直接放在自己面前、隊伍其他成員的後方。這非常適合在需要瞬間治療坦克並挽救會戰時使用。",
+        "* 別當個「Reddit 巴帝斯特（Reddit Bap）」",
+        "* 你或許看過巴帝斯特（Baptiste）玩家丟出不滅力場（Immortality Field）再接增幅矩陣（Amplification Matrix）來達成三連殺的酷炫影片。這種做法極度不可靠，且會浪費巴帝斯特（Baptiste）最重要的兩個技能。"
+      ],
+      "content_hash": "d2ff212f905c",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:45:59.381243Z"
+    },
+    "5.1.1": {
+      "title": "突擊爆發（Assault Burst）",
+      "description": "",
+      "content": [
+        "未提供指南",
+        "特殊能力：突擊爆發（Assault Burst）"
+      ],
+      "content_hash": "955eadf0dc59",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:46:00.308576Z"
+    },
+    "5.1.2": {
+      "title": "擴展力場（Expanded Field）",
+      "description": "",
+      "content": [
+        "讓屏障力場（Barrier Field）的投擲變得更加穩定且寬容。其範圍效果（AoE）非常巨大，因此即使你的放置位置不夠完美，你也有更高的機率將自己和隊友涵蓋在力場範圍內。"
+      ],
+      "content_hash": "4f83ae744321",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:46:01.788159Z"
+    },
+    "5.2.1": {
+      "title": "自動治療（Automated Healing）",
+      "description": "",
+      "content": [
+        "* 對於額外治療來說是不錯的選擇。雖然因為冷卻時間過長而感覺對戰局影響有限，但這額外的 120 點治療量往往能成為盟友生死存亡的關鍵。"
+      ],
+      "content_hash": "cf6826a1e629",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:46:03.066001Z"
+    },
+    "5.2.2": {
+      "title": "火箭靴（Rocket Boots）",
+      "description": "",
+      "content": [
+        "* 強化了巴帝斯特最大的弱點。",
+        "* 由於只有垂直機動性，巴帝斯特在面對高機動性敵人時會陷入苦戰。他跳到空中後往往會被擊落。有了火箭靴（Rocket Boots），他的閃避能力將大幅提升。",
+        "* 在跳躍過障礙物和牆壁時也非常實用，因為你可以混淆自己的移動路徑，降低在空中被狙擊的機率。",
+        "* 這是最佳選擇，特別是在對抗機動突襲陣容（dive comps）時。"
+      ],
+      "content_hash": "82b1d22d1f78",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:46:04.802143Z"
+    },
+    "6.1": {
+      "title": "最佳地圖",
+      "description": "",
+      "content": [
+        "射程與垂直空間是巴帝斯特（Baptiste）最強大的兩項能力。擁有足夠空間讓巴帝斯特（Baptiste）在後方持續輸出主要與次要攻擊的地圖，都是絕佳的選擇。高地是他安全支援隊友並躲避敵方攻擊的最佳夥伴。如果巴帝斯特（Baptiste）能夠在高地之間靈活跳躍，大多數敵人將難以跟上他的節奏。"
+      ],
+      "content_hash": "99b9ec81e333",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:46:06.344431Z"
+    },
+    "6.2": {
+      "title": "最差地圖",
+      "description": "",
+      "content": [
+        "對巴帝斯特來說，最差的地圖是那些有利於側襲（dive）陣容的地圖，因為他與側襲陣容的搭配性並不高，且當敵方隊伍有多名側襲英雄時，他很容易成為目標。此外，如果地圖的主要高台區域對「戰靴（Exo Boots）」來說太高，那麼他唯一的機動性工具就會變得毫無用處。"
+      ],
+      "content_hash": "0e0bf2b6e070",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:46:08.167282Z"
+    },
+    "7": {
+      "title": "隊伍陣容搭配",
+      "description": "",
+      "content": [
+        "以巴帝斯特（Baptiste）為核心建立的隊伍陣容，能充分發揮他卓越的範圍治療能力。當隊伍傾向於站位集中時，生化發射器（Biotic Launcher）的治療、再生爆發（Regenerative Burst）以及不朽力場（Immortality Field）能發揮最大效益。他對於治療體型較小且高機動性的英雄感到吃力。雖然他擁有出色的垂直機動性，但無法跟上那些快速與敵人交戰的側襲者（Flanker）與機動型英雄。",
+        "**以巴帝斯特（Baptiste）為核心的隊伍陣容範例**",
+        "* **坦克**: 歐瑞莎（Orisa）、席格馬（Sigma）",
+        "* **輸出**: 卡西迪（Cassidy）、壁壘機兵（Bastion）",
+        "* **輔助**: 巴帝斯特（Baptiste）、禪亞塔（Zenyatta）"
+      ],
+      "content_hash": "281da114fc7a",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:46:10.376659Z"
+    },
+    "7.1": {
+      "title": "個別英雄搭配",
+      "description": "",
+      "content": [
+        "歐瑞莎（Orisa）在維持前線的能力上幾乎勝過其他所有坦克。由於她的體型龐大且移動緩慢，這讓巴帝斯特（Baptiste）的治療更容易穩定命中目標。她的消耗型打法與巴帝斯特的技能組完美契合，因為他們傾向於佔據相同的轉角、利用相同的視線，且其他隊友也往往會緊跟在歐瑞莎身旁。",
+        "卡西迪（Cassidy）與巴帝斯特（Baptiste）組合在一起時，是一對強大的即時命中（hitscan）搭檔。兩人聯手可以輕鬆應對側襲者（Flanker），在鬥陣（brawl）陣容靠近之前將其消耗殆盡，並能與任何消耗型陣容抗衡。當卡西迪施放絕招時，在他身上丟出不滅力場（Immortality Field）。如果敵方隊伍無法阻擋或使用暈眩技能中斷，他們就死定了！",
+        "禪亞塔（Zenyatta）是完美的消耗型後排搭檔。禪亞塔與巴帝斯特（Baptiste）能輸出極具壓制力的消耗傷害，讓敵方隊伍光是想要向前推進都備感艱辛。他們唯一的弱點是面對側襲者（Flanker）的突襲。即便如此，他們仍能利用不滅力場（Immortality Field）和再生爆發（Regen Burst）在突襲中存活，隨後利用紛亂之珠（Discord Orb）進行反擊並贏得對決。將增幅矩陣（Amplification Matrix）放置在巴帝斯特與禪亞塔前方，可以迅速融化護盾，並消滅任何無法逃離他們視線（LoS）的敵人。"
+      ],
+      "content_hash": "00d7631d9d28",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:46:14.038427Z"
+    },
+    "8": {
+      "title": "如何反制",
+      "description": "",
+      "content": [
+        "在看到他使用不朽力場（Immortality Field）之前，不要輕易交出長冷卻時間技能或絕招。試著先以普通攻擊或短冷卻時間技能進行騷擾，撤退後，再等他用掉該技能後重新進場。",
+        "觀察他的跳躍動作，並在空中鎖定他的位置。當他處於跳躍軌跡中無法變向時，是最容易將其擊殺的時機。",
+        "他的主要攻擊有嚴重的傷害衰減。請保持距離，並利用安娜（Ana）、霧子（Kiriko）和奪命女（Widowmaker）等英雄將他擊倒。"
+      ],
+      "content_hash": "90409845961f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:46:15.965204Z"
+    },
+    "8.2": {
+      "title": "特定英雄剋星名稱",
+      "description": "",
+      "content": [
+        "* 安娜",
+        "* 霧子",
+        "* 奪命女"
+      ],
+      "content_hash": "bd8057129244",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:46:17.004942Z"
+    }
+  },
+  "metadata": {
+    "prompt_version": "v5",
+    "glossary_version": "v1",
+    "timestamp": "2026-03-20T04:28:18.112002Z"
+  }
+}

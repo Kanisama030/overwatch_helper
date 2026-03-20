@@ -1,0 +1,323 @@
+{
+  "hero_id": "wuyang",
+  "locale": "zh-TW",
+  "sections": {
+    "1": {
+      "title": "概覽",
+      "description": "",
+      "content": [
+        "無漾（Wuyang）是一位靈活的支援型英雄，將持續治療、爆發型功能性技能以及遠程傷害融為一體。無漾受過古老水系技術的訓練，他以如同潮汐般的方式應對戰鬥：在需要時保持穩定，或在適當時機掀起巨大的傷害與治療浪潮。他對水的掌控力使他既能修復盟友，也能重創敵人，在保護與殺傷之間流暢轉換。",
+        "在隊伍陣容中，無漾擔任前線支援的角色，比起大多數治療者，他更傾向於靠近戰鬥核心。他擅長推動激進的攻勢，在戰鬥中期為坦克提供持續支援，並在決定勝負的關鍵時刻提供爆發性治療。"
+      ],
+      "content_hash": "61d88289b4b7",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:27.467786Z"
+    },
+    "1.1.1": {
+      "title": "遊玩方式",
+      "description": "",
+      "content": [
+        "* 等到你或你選定的隊友就在敵人身邊時再使用絕招，這樣才不會在進入攻擊範圍前就失效。",
+        "* 使用溢流（Overflow）來補充無漾（Wuyang）的治療資源，同時治療你的坦克龐大的生命值。",
+        "* 將守護波（Guardian Wave）與另一名輔助角色的範圍治療（AoE healing）結合使用，例如莫伊拉（Moira）的生化球（Biotic Orb）。"
+      ],
+      "content_hash": "27c31570ac1c",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:29.396635Z"
+    },
+    "1.1.2": {
+      "title": "對戰策略",
+      "description": "",
+      "content": [
+        "* 當你看到守護波（Guardian Wave）重擊時，請向後撤退，等待幾秒鐘，然後全力重新進攻以殲滅對方的隊伍，因為他們將失去爆發治療能力。",
+        "* 在看到他使用奔騰激流（Rushing Torrent）（通常是為了補充治療資源）後，請立即衝向無漾（Wuyang）並將其擊殺，此時他將無法逃脫。",
+        "* 他的絕招持續時間很短，僅有 3.5 秒。請跑開、利用掩體並使用你英雄擁有的逃生技能，因為一旦被困住，基本上是不可能存活的。"
+      ],
+      "content_hash": "9882cbe2cc3f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:31.758011Z"
+    },
+    "2": {
+      "title": "優缺點總結",
+      "description": "",
+      "content": [
+        "* 全能型治療者",
+        "* 可操控的投射物（Steerable Projectile）",
+        "* 適合團隊戰鬥的絕招（Ultimate）",
+        "* 技能組純粹為功能性導向",
+        "* 技能難以命中",
+        "* 逃生手段有限"
+      ],
+      "content_hash": "2907c026b24a",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:33.204451Z"
+    },
+    "3.1.1": {
+      "title": "多樣化的治療選擇",
+      "description": "",
+      "content": [
+        "在恢復之流（Restorative Stream）的被動與主動模式、守護波（Guardian Wave）的治療增幅，以及潮汐爆發（Tidal Blast）的瞬間治療之間，無漾（Wuyang）在隊友遭受攻擊時擁有許多選擇。",
+        "此外，恢復之流（Restorative Stream）是少數幾種可以穿透屏障進行治療的技能之一，這讓他在許多情境中都佔有優勢。"
+      ],
+      "content_hash": "a41e15ee563f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:34.899956Z"
+    },
+    "3.1.2": {
+      "title": "持續遠程壓制",
+      "description": "",
+      "content": [
+        "無漾（Wuyang）的遠程傷害在輔助角色中名列前茅。操控球體爆破來繞過轉角進行攻擊是他獨有的強項，這使他成為一個持續性的威脅。雖然他的傷害潛力不如禪亞塔（Zenyatta）那麼高，但他提供了更高的治療量作為交換。"
+      ],
+      "content_hash": "d176361487ad",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:36.217917Z"
+    },
+    "3.1.3": {
+      "title": "扭轉戰局的絕招",
+      "description": "",
+      "content": [
+        "潮汐爆破（Tidal Blast）是整個遊戲中最優秀的絕招之一。它集額外生命值、強力擊倒與爆發治療於一身。只要無漾（Wuyang）的絕招施放時機得當，就能贏下整場團戰。"
+      ],
+      "content_hash": "9079d9fd2557",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:37.747655Z"
+    },
+    "3.2.1": {
+      "title": "功能導向配置",
+      "description": "",
+      "content": [
+        "雖然這在技術上是無漾（Wuyang）的優勢之一，但同時也是他的弱點。為了成為值得選用的角色，無漾（Wuyang）的玩家必須具備管理資源、判讀戰局、追蹤敵方位置的能力，並清楚何時該使用他那些高價值的冷卻技能。他的技能非常容易被浪費，進而導致隊伍輸掉比賽。"
+      ],
+      "content_hash": "51ee6d6347e1",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:39.428091Z"
+    },
+    "3.2.2": {
+      "title": "棘手的瞄準機制",
+      "description": "",
+      "content": [
+        "你過去花費大量時間使用即時命中（hitscan）英雄進行爆頭的經驗，在引導水球穿越地圖時並不會有太大的幫助。若要穩定地繞過轉角進行弧線射擊，需要花費相當多的時間來專精這項獨特的機制。"
+      ],
+      "content_hash": "2c92c7639a76",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:41.152433Z"
+    },
+    "3.2.3": {
+      "title": "有限的逃脫手段",
+      "description": "",
+      "content": [
+        "與最初版本的無畏（Wuyang）不同，當時的版本數值過高且幾乎無法被突襲，目前的版本在面對側襲者（Flanker）時顯得相當脆弱。他保護坦克的主要方式之一是使用湧流（Rushing Torrent）搭配溢流特殊能力（Overflow Perk）來提供更高的單體治療量。然而，這麼做會讓他失去逃脫手段，因此聰明的敵人會等待時機並給予他懲罰。"
+      ],
+      "content_hash": "d0a79eda96d6",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:43.188344Z"
+    },
+    "4.1": {
+      "title": "主要攻擊：玄武法杖（Xuanwu Staff）",
+      "description": "",
+      "content": [
+        "**玄武法杖（Xuanwu Staff）的使用技巧**",
+        "* 水球需要飛行約 8 公尺才能獲得強化。當你與目標距離非常近時，直接連發射擊會比嘗試蓄力並控制彈道來得更好。",
+        "* 在近距離快速射擊時，每顆水球造成的傷害相同，但射速會顯著提升，進而產生更高的傷害輸出。",
+        "* 強化後的水球會消耗 2 發彈藥。",
+        "* 完全蓄力的水球傷害更高且可以引導方向。若要將每秒傷害（DPS）最大化，你可以在蓄力完成的瞬間釋放並立即發射下一波。這些水球會緩慢下墜並散開，因此在執行此操作時，瞄準位置請稍微偏高。",
+        "* 利用水球的弧線軌跡攻擊躲在掩體後方、脫離視野（LoS）的殘血敵人，給予最後一擊。"
+      ],
+      "content_hash": "39a08a30cd48",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:45.418130Z"
+    },
+    "4.2": {
+      "title": "次要攻擊：修復流（Restorative Stream）",
+      "description": "",
+      "content": [
+        "**修復流（Restorative Stream）的使用技巧**",
+        "* 優先治療血量較低的盟友，特別是那些正在進行側襲（diving）或吸引大量敵方注意力的隊友。",
+        "* 將修復流（Restorative Stream）視為主要的被動技能。設定好後就不用一直盯著它，將重心放在維持高傷害輸出上。",
+        "* 不要頻繁地切換目標。",
+        "* 每當你使用光束進行治療時，都會觸發 2 秒的延遲，這段時間內治療資源不會自動回充。",
+        "* 記得使用你的治療資源。雖然我們剛才提到不要過度依賴它，但你仍需積極地使用治療光束來維持盟友的健康。",
+        "* 看到盟友剩下半血嗎？專注治療他們。",
+        "* 主動與被動治療皆會無視屏障。",
+        "* 通常，維持那些推進至敵方屏障後的激進盟友的生存是無漾（Wuyang）的工作。"
+      ],
+      "content_hash": "a8331801944f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:47.848079Z"
+    },
+    "4.3": {
+      "title": "[SHIFT]：奔流（Rushing Torrent）",
+      "description": "",
+      "content": [
+        "**奔流（Rushing Torrent）的使用技巧**",
+        "* 提供瞬間的爆發速度，隨後是持續的機動性與增加的跳躍高度。主要應主動使用此技能來重新佔位至轉角處或高台，以配合隊伍的移動。",
+        "* 若面對擁有強大突進（dive）或側襲者（flanker）陣容的隊伍，請務必保留此機動工具，並將其用於逃離攻擊，或是衝刺至隊友身邊尋求協助。"
+      ],
+      "content_hash": "072ff8e0816f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:49.857929Z"
+    },
+    "4.4": {
+      "title": "[E]：守護波（Guardian Wave）",
+      "description": "",
+      "content": [
+        "**守護波（Guardian Wave）的使用技巧**",
+        "* 可造成傷害、治療隊友、擊退敵人，並在 3 秒內增加 50% 受到的治療量。",
+        "* 最適合在隊友受到一定程度的傷害後使用。",
+        "* 不要被誘騙而將其用於少量的騷擾傷害。對敵方坦克造成 80 點傷害基本上沒有任何意義。",
+        "* 非常適合在近距離戰鬥中收割敵人，特別是當對方機動性很高，且難以用主要攻擊命中時。"
+      ],
+      "content_hash": "8e981d25587f",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:51.566660Z"
+    },
+    "4.5": {
+      "title": "絕招：潮汐爆發（Tidal Blast）",
+      "description": "",
+      "content": [
+        "**潮汐爆發（Tidal Blast）使用技巧**",
+        "* 最適合搭配衝入敵陣的侵略型、高機動性英雄。務必等待你的隊友主動發起進攻後，再對他們施放絕招。",
+        "* 使用標記功能發送「絕招已就緒」，告知隊友你會支援他們，讓他們知道可以打得更加激進。",
+        "* 在扭轉戰局時也非常有效。例如，當敵方投入多個絕招試圖擊殺你的坦克時，你可以透過給予超量生命值來保住他們的性命，並強化他們以發動致命的反擊。"
+      ],
+      "content_hash": "3a6ea7aea094",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:53.710815Z"
+    },
+    "5.1.1": {
+      "title": "溢流（Overflow）",
+      "description": "",
+      "content": [
+        "* 賦予你為隊友提供更多爆發治療的能力，並因為減少裝填彈藥的時間，進而減少你自身的進攻空窗期。",
+        "* 推薦次要特殊能力（minor perks）"
+      ],
+      "content_hash": "bcc34a759fd0",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:55.428170Z"
+    },
+    "5.1.2": {
+      "title": "平衡",
+      "description": "",
+      "content": [
+        "* 讓你能夠更專注於造成傷害。只要你持續命中敵人，你所選定的盟友就能持續獲得治療量提升的效果。"
+      ],
+      "content_hash": "7d71ef9c4164",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:56.878224Z"
+    },
+    "5.2.1": {
+      "title": "潮起潮落（Ebb and Flow）",
+      "description": "",
+      "content": [
+        "* 這不是一個糟糕的特殊能力（perk），但比起「落雨（Falling Rain）」來說並不值得選擇。",
+        "* 透過提升你的近距離作戰能力，或許有助於反制側襲者（flanker）陣容。",
+        "* 如果你目前為止無法從蓄力後的首要攻擊（primary fire）中獲得價值，不妨試試看這個能力。"
+      ],
+      "content_hash": "6acddbe14c8c",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:31:58.601893Z"
+    },
+    "5.2.2": {
+      "title": "落雨（Falling Rain）",
+      "description": "",
+      "content": [
+        "* 對於提升總傷害與爆發傷害非常強大。",
+        "* 一旦解鎖主要特殊能力（Major Perk），你就應該開始更側重於輸出傷害。",
+        "* 玄武杖（Xuanwu Staff）的所有建議同樣適用，因為其使用情境並沒有改變。"
+      ],
+      "content_hash": "39da7c6e2bc5",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:32:00.109781Z"
+    },
+    "6": {
+      "title": "地圖",
+      "description": "",
+      "content": [
+        "無漾（Wuyang）擁有優秀的水平與垂直機動性、遠程傷害以及中距離治療能力。這些屬性使他能夠適應大多數的地圖。",
+        "無論在哪張地圖，他都應善用其弧線投射物來攻擊轉角後的敵人，並透過反覆進出掩體（jiggle peek）來將自身受到的傷害降至最低。",
+        "他最難以發揮的地圖是那些擁有其跳躍能力無法觸及的高台區域。例如在捍衛者基地：直布羅陀（Watchpoint: Gibraltar）和努巴尼（Numbani）中，目標區域周圍的高台往往是無漾（Wuyang）無法到達進行爭奪，或無法跟隨隊友前往的地方。"
+      ],
+      "content_hash": "c8c730527556",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:32:02.201776Z"
+    },
+    "6.2.1": {
+      "title": "捍衛者基地：直布羅陀",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:32:03.490154Z"
+    },
+    "6.2.2": {
+      "title": "努巴尼",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:32:04.736700Z"
+    },
+    "7": {
+      "title": "隊伍陣容搭配",
+      "description": "",
+      "content": [
+        "作為一名多功能的支援型英雄，無漾（Wuyang）可以與衝鋒（rush）、側襲（dive）以及消耗（poke）陣容搭配。他只需要調整自己的遊玩風格來配合隊伍即可。舉例來說，在側襲陣容中，請務必將復甦之流（Restorative Stream）放置在隊伍中打法最激進、最能吸引敵方注意力的隊友身上。為了做到這一點，你通常需要使用奔流衝刺（Rushing Torrent）來跟上他們的移動，並保持在治療範圍內。",
+        "另一方面，當你在消耗型陣容中遊玩時，你應該將奔流衝刺（Rushing Torrent）主要保留作為逃生工具，用來躲避敵方的攻擊，因為你不需要用它來跟上隊伍較為靜態的打法。",
+        "對於支援位來說，嘗試與擁有範圍治療能力的英雄（如瑞稀（Mizuki）或路西歐（Lúcio））搭配，以彌補你單體治療的不足。此外，當你同時治療多名隊友，且他們也正受到另一名支援英雄的治療時，你的守護波（Guardian Wave）所提供的治療加成將能讓隊伍獲得更大的效益。",
+        "請務必記住，如果你與安娜（Ana）搭配，生化手榴彈（Biotic Grenade）與守護波（Guardian Wave）的治療加成效果是不會疊加的。這兩個技能都是價值極高的冷卻技能，你的隊伍無法承擔將它們同時施放所造成的浪費。"
+      ],
+      "content_hash": "56a3b168957d",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:32:08.347070Z"
+    },
+    "8": {
+      "title": "如何反制",
+      "description": "",
+      "content": [
+        "對付無漾（Wuyang）的主要方式是追蹤他的守護波（Guardian Wave）與奔流（Rushing Torrent）冷卻時間。當這些技能尚在冷卻完畢狀態時，他和他的隊友將非常難以擊殺。",
+        "請緩慢地施加壓力，並保留你最具殺傷力的冷卻技能，直到看見他使用其中一個或兩個技能後再出手。",
+        "當你看到守護波（Guardian Wave）重擊時，請先撤退並等待 3 秒，接著發動強勢進攻來殲滅他的隊伍，因為他們屆時將失去爆發治療能力。在守護波（Guardian Wave）結束後，你知道他無法再將你擊退，也無法快速治療隊友。",
+        "在他的衝刺技能使用後，他將沒有任何方式能逃離你的攻擊。當你看到他使用奔流（Rushing Torrent）（通常是為了補充治療資源）後，請立即衝向他，趁他無法逃脫時將無漾（Wuyang）擊殺。",
+        "他的絕招持續時間很短，僅有 3.5 秒。請跑開、利用掩體，並使用你英雄擁有的逃脫工具，因為你不會想被爆炸擊倒。",
+        "當你無法逃脫時，請集火攻擊受到潮汐爆破（Tidal Blast）影響的敵人。但這並非最佳選擇，因為他們通常擁有充足的生命值，再加上絕招帶來的巨額額外生命值。"
+      ],
+      "content_hash": "2c5b0273f0f2",
+      "prompt_version": "v5",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-20T03:32:11.236900Z"
+    }
+  },
+  "metadata": {
+    "prompt_version": "v5",
+    "glossary_version": "v1",
+    "timestamp": "2026-03-20T04:28:17.922667Z"
+  }
+}
