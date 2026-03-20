@@ -4,6 +4,7 @@ import time
 import os
 import asyncio
 import re
+from urllib.parse import quote
 from typing import Dict, List, Optional
 from datetime import datetime
 import google.generativeai as genai
@@ -23,7 +24,8 @@ class TranslationService:
         self.model_name = model_name
         self.glossary_service = glossary_service
         self.cache_service = cache_service
-        self.prompt_version = "v6"
+        self.prompt_version = "v7"
+        self.asset_url_mapping = self._load_guide_asset_mapping()
         
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name)
@@ -83,6 +85,48 @@ class TranslationService:
             except Exception:
                 continue
         return merged
+
+    def _load_guide_asset_mapping(self) -> Dict[str, str]:
+        base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        manifest_path = os.path.join(base_dir, "data", "assets", "guide", "manifest.json")
+        try:
+            with open(manifest_path, "r", encoding="utf-8") as f:
+                manifest = json.load(f)
+            if not isinstance(manifest, list):
+                return {}
+            mapping: Dict[str, str] = {}
+            for item in manifest:
+                if not isinstance(item, dict):
+                    continue
+                src = item.get("image_url")
+                local_path = item.get("local_path")
+                if not src or not local_path:
+                    continue
+                normalized = str(local_path).replace("\\", "/")
+                if not normalized.startswith("/"):
+                    normalized = f"/{normalized}"
+                mapping[str(src)] = normalized
+            return mapping
+        except Exception:
+            return {}
+
+    def _rewrite_markdown_images_to_local(self, text: str) -> str:
+        if not text:
+            return text
+        pattern = re.compile(r"!\[([^\]]*)\]\(([^)\s]+)(?:\s+\".*?\")?\)")
+
+        def _replace(match: re.Match) -> str:
+            alt = match.group(1)
+            original_url = match.group(2)
+            if "#fallback=" in original_url:
+                return match.group(0)
+            local_path = self.asset_url_mapping.get(original_url)
+            if not local_path:
+                return match.group(0)
+            fallback = quote(original_url, safe="")
+            return f"![{alt}]({local_path}#fallback={fallback})"
+
+        return pattern.sub(_replace, text)
     
     def _prepare_content_with_image_tokens(self, content_list: List) -> tuple[List[str], List[Dict[str, str]]]:
         if not content_list:
@@ -286,6 +330,10 @@ Content:
             prepared_texts,
             token_maps,
         )
+        translated_content = [
+            self._rewrite_markdown_images_to_local(line) if isinstance(line, str) else line
+            for line in translated_content
+        ]
         self.cache_service.set(
             hero_id=hero_id,
             section_id=section_id,
