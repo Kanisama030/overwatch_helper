@@ -3,6 +3,7 @@ import json
 import time
 import os
 import asyncio
+import re
 from typing import Dict, List, Optional
 from datetime import datetime
 import google.generativeai as genai
@@ -22,7 +23,7 @@ class TranslationService:
         self.model_name = model_name
         self.glossary_service = glossary_service
         self.cache_service = cache_service
-        self.prompt_version = "v5"
+        self.prompt_version = "v6"
         
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name)
@@ -83,28 +84,68 @@ class TranslationService:
                 continue
         return merged
     
-    def _extract_text_content(self, content_list: List) -> str:
+    def _prepare_content_with_image_tokens(self, content_list: List) -> tuple[List[str], List[Dict[str, str]]]:
         if not content_list:
-            return ""
-        
-        texts = []
+            return [], []
+
+        prepared_texts: List[str] = []
+        token_maps: List[Dict[str, str]] = []
+        image_pattern = re.compile(r'!\[[^\]]*\]\([^)]+\)')
+
         for item in content_list:
-            if isinstance(item, str):
-                text = item
-                import re
-                text = re.sub(r'!\[.*?\]\(.*?\)', '', text)
-                text = text.strip()
-                if text:
-                    texts.append(text)
-        
-        return "\n".join(texts)
-    
-    def _build_translation_prompt(self, section_data: Dict, glossary_text: str) -> str:
+            if not isinstance(item, str):
+                continue
+            text = item.strip()
+            if not text:
+                continue
+
+            image_map: Dict[str, str] = {}
+
+            def repl(match: re.Match) -> str:
+                token = f"[[__OWH_IMG_{len(image_map) + 1}__]]"
+                image_map[token] = match.group(0)
+                return token
+
+            tokenized_text = image_pattern.sub(repl, text)
+            prepared_texts.append(tokenized_text)
+            token_maps.append(image_map)
+
+        return prepared_texts, token_maps
+
+    def _restore_images_from_tokens(self, text: str, token_map: Dict[str, str]) -> str:
+        restored = text
+        for token, markdown_image in token_map.items():
+            restored = restored.replace(token, markdown_image)
+        return restored
+
+    def _restore_translated_content(
+        self,
+        translated_content: List,
+        source_texts: List[str],
+        token_maps: List[Dict[str, str]],
+    ) -> List[str]:
+        restored_content: List[str] = []
+        translated_list = translated_content if isinstance(translated_content, list) else []
+
+        for idx, source_text in enumerate(source_texts):
+            token_map = token_maps[idx] if idx < len(token_maps) else {}
+            translated_text = ""
+            if idx < len(translated_list) and isinstance(translated_list[idx], str):
+                translated_text = translated_list[idx].strip()
+
+            if token_map:
+                if any(token not in translated_text for token in token_map):
+                    translated_text = source_text
+                restored_content.append(self._restore_images_from_tokens(translated_text, token_map))
+                continue
+
+            restored_content.append(translated_text or source_text)
+
+        return restored_content
+
+    def _build_translation_prompt(self, section_data: Dict, glossary_text: str, content_text: str) -> str:
         section_id = section_data.get("id", "")
         title = section_data.get("title", "")
-        content = section_data.get("content", [])
-        
-        content_text = self._extract_text_content(content)
         
         description = section_data.get("description", "")
         prompt = f"""你是專業的 Overwatch 遊戲內容翻譯員，負責將英文內容翻譯成繁體中文（台灣用語）。
@@ -117,7 +158,7 @@ class TranslationService:
 3. **格式一致性**：不要輸出「英文（中文）」或只留英文；同一名詞在同一 section 內需維持一致寫法。
 4. **語氣**：維持專業、清晰的遊戲攻略風格。
 5. **格式**：保留原有的列表、段落結構。
-6. **圖片連結**：保持原樣不翻譯（以 ![]() 開頭的）。
+6. **圖片 token**：若原文出現形如 [[__OWH_IMG_1__]] 的 token，必須逐字保留，不可刪除或改寫。
 
 ## 待翻譯內容
 
@@ -208,8 +249,8 @@ Content:
         section_id = section.get("id", "")
         content_list = section.get("content", [])
         source_description = str(section.get("description", "")).strip()
-        
-        content_text = self._extract_text_content(content_list)
+        prepared_texts, token_maps = self._prepare_content_with_image_tokens(content_list)
+        content_text = "\n".join(prepared_texts)
         
         if not content_text or len(content_text.strip()) < 10:
             return None
@@ -228,7 +269,7 @@ Content:
                 self._stats["cache_hits"] += 1
                 return cached
         
-        prompt = self._build_translation_prompt(section, glossary_text)
+        prompt = self._build_translation_prompt(section, glossary_text, content_text)
         translated = await self._call_gemini(prompt)
         
         if not translated:
@@ -240,7 +281,11 @@ Content:
             translated_description = await self._translate_short_text(source_description)
         if source_description and not translated_description:
             translated_description = source_description
-        translated_content = translated.get("content", [])
+        translated_content = self._restore_translated_content(
+            translated.get("content", []),
+            prepared_texts,
+            token_maps,
+        )
         self.cache_service.set(
             hero_id=hero_id,
             section_id=section_id,
