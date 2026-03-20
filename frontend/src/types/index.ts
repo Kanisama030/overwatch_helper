@@ -1,5 +1,7 @@
 export type Role = 'Tank' | 'Damage' | 'Support';
 export type Locale = 'en' | 'zh-TW';
+export type Mode = 'Quick Play' | 'Competitive';
+export type CompetitiveRank = 'All' | 'Bronze' | 'Silver' | 'Gold' | 'Platinum' | 'Diamond' | 'Master' | 'Grandmaster' | 'Champion';
 
 export interface GameMap {
   id: string;
@@ -13,6 +15,11 @@ export interface MapStats {
   win_rate: number | null;
   pick_rate: number | null;
 }
+
+export type ModeRankMapStats = Record<string, {
+  'Quick Play': { All: Record<string, MapStats> };
+  Competitive: Record<CompetitiveRank, Record<string, MapStats>>;
+}>;
 
 export interface MapRecommendation {
   best_maps: string[];
@@ -79,4 +86,5 @@ export interface AppDataset {
   last_updated: string;
   maps: GameMap[];
   heroes: HeroSummary[];
+  mode_rank_stats: ModeRankMapStats;
 }

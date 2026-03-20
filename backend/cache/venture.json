@@ -3,366 +3,397 @@
   "sections": {
     "1": {
       "title": "概覽",
+      "description": "",
       "content": [
-        "史隆·卡麥隆（Sloan Cameron）本業為考古學家，現在將他們的挖掘工具帶到了戰場上！在遊戲中被稱為無畏（Venture），其技能組結合了近戰與消耗型能力。智慧挖掘機（SMART Excavator）可用於近距離消耗傷害，在防守狹窄的咽喉點時表現強勢。同時，掘地穿梭（Burrow）與鑽頭衝刺（Drill Dash）作為近距離的側襲者（Flanker）工具效果最佳。",
-        "無畏在對戰中必須承擔許多高風險，但一旦成功，他們將對敵隊的戰術規劃造成極大的干擾。雖然他們的的主要攻擊在技術上屬於遠程能力，但無畏總是會希望將交戰距離維持在他們的近戰範圍內。"
+        "身為一名考古學家，Sloan Cameron 將他們的挖掘工具帶上了戰場！在遊戲中被稱為無畏（Venture），其技能組結合了近戰與遠程消耗能力。智慧挖掘機（SMART Excavator）可用於近距離消耗傷害，在防守狹窄的咽喉點時表現強勢。與此同時，掘地穿梭（Burrow）與鑽頭衝刺（Drill Dash）則最適合做為近距離的側襲者（Flanker）工具使用。",
+        "無畏（Venture）在對戰中必須承擔許多高風險，但一旦成功，便能對敵隊的戰術計畫造成極大的干擾。雖然他們的普攻在技術上屬於遠程能力，但無畏（Venture）總是會試圖將交戰距離維持在他們的近戰範圍內。"
       ],
       "content_hash": "f10b33f2edf6",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:23:43.552988Z"
+      "timestamp": "2026-03-20T03:41:37.966085Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
+      "description": "",
       "content": [
-        "* 使用掘地（Burrow）和鑽頭衝刺（Drill Dash）來拉近至近戰距離，因為無畏（Venture）擅長的是近距離側襲與爆發連段，而非遠距離的消耗戰。",
+        "* 使用掘地（Burrow）和鑽頭衝刺（Drill Dash）來拉近距離進入近戰範圍，因為無畏（Venture）擅長的是近距離側襲（Flanker）和爆發連技，而非長距離的消耗戰。",
         "* 透過分配技能的使用時機來管理來自爆破決心（Explosive Resolve）的暫時護盾，確保你有足夠的時間撤離戰場。",
-        "* 地殼震波（Tectonic Shock）最適合用來對付缺乏垂直機動性的英雄，因為他們難以逃脫大範圍的地面脈衝。"
+        "* 地殼震動（Tectonic Shock）最適合用來對付缺乏垂直機動能力的英雄，因為他們很難逃脫大範圍的地面衝擊波。"
       ],
       "content_hash": "c9fb3ec59d71",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:23:45.527184Z"
+      "timestamp": "2026-03-20T03:41:39.735852Z"
     },
     "1.1.2": {
       "title": "對戰策略",
+      "description": "",
       "content": [
-        "* 無畏（Venture）在發動掘地（Burrow）後，直到整個人完全潛入地底前仍會受到傷害。別讓他們逃了！",
-        "* 如果你在螢幕上沒看到無畏（Venture），請務必提高警覺。他們很可能正在準備進行側襲（Flanker），請隨時準備好反制。",
-        "* 當他們技能失誤，或是看到他們使用鑽頭衝刺（Drill Dash）和掘地（Burrow）時，這就是你全力集火他們最脆弱時刻的訊號。"
+        "* 無畏（Venture）在啟動掘地（Burrow）後，直到整個人完全潛入地底前仍會受到傷害。別讓他們逃了！",
+        "* 如果你在螢幕上沒看到無畏（Venture），請務必提高警覺。他們很可能正在準備進行側襲（Flanker）攻擊，請做好反制準備。",
+        "* 當他們技能落空，或是你看到他們使用了鑽頭衝刺（Drill Dash）和掘地（Burrow）時，這就是你全力集火他們最脆弱時刻的訊號。"
       ],
       "content_hash": "7d1dc0b2cf43",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:23:47.395307Z"
+      "timestamp": "2026-03-20T03:41:41.415835Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
+      "description": "",
       "content": [
         "* 擅長側襲（Flanking）",
         "* 爆發傷害（Burst damage）",
-        "* 擾亂敵方（Disruption）",
-        "* 必須貼臉作戰",
+        "* 干擾能力（Disruption）",
+        "* 必須貼臉進攻",
         "* 容易被反制",
-        "* 不成功便成仁"
+        "* 成敗一瞬間"
       ],
       "content_hash": "b4551c0adb1c",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:23:48.610823Z"
+      "timestamp": "2026-03-20T03:41:42.690977Z"
     },
     "3.1.1": {
       "title": "深度側襲",
+      "description": "",
       "content": [
-        "由探險家決心（Explorer’s Resolve）所產生的護盾，讓無畏（Venture）具備足夠的坦度，能獨自承受集火傷害。根據戰況，挖掘（Burrow）與鑽頭衝刺（Drill Dash）可視為進場或退場能力，兩者功能互換。無畏（Venture）能利用這些能力將自身定位在敵方後排。一旦冷卻時間結束，便能進行暗殺。在側襲敵方後排後，無畏（Venture）可以利用鑽頭衝刺（Drill Dash）翻越牆壁逃脫，或是利用挖掘（Burrow）的無敵狀態安全撤離。"
+        "由探險家決心（Explorer’s Resolve）所產生的護盾，讓無畏（Venture）具備足夠的坦度，能獨自承受集火傷害。視情況而定，掘地（Burrow）與鑽頭衝刺（Drill Dash）在進場或撤退時可以靈活替換使用。無畏（Venture）可以利用這些技能將自己定位在敵方後排後方。一旦技能冷卻完畢，他們便能發動刺殺。在側襲敵方後排後，無畏（Venture）可以利用鑽頭衝刺（Drill Dash）翻越牆面逃脫，或是使用掘地（Burrow）的無敵效果安全撤離。"
       ],
       "content_hash": "ff674cfd0246",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:23:50.108926Z"
+      "timestamp": "2026-03-20T03:41:44.764181Z"
     },
     "3.1.2": {
       "title": "爆發傷害",
+      "description": "",
       "content": [
-        "主要攻擊（Primary fire）、挖掘（Burrow）以及大地衝擊（Tectonic Shock）都能為玩家提供極佳的爆發傷害。自從第 10 賽季進行護甲重製後，爆發傷害對《鬥陣特攻》的英雄來說變得更加重要。此外，無畏（Venture）的許多技能都可以互相取消施放，使他們能夠造成更快、更巨大的爆發傷害。（請參閱「提示與技巧」章節下的連段說明）"
+        "主要攻擊（Primary fire）、挖掘（Burrow）以及地殼震動（Tectonic Shock）都能為玩家提供極佳的爆發傷害。自從第 10 賽季進行護甲重製後，爆發傷害對 Overwatch 英雄來說變得更加重要。此外，無畏（Venture）的許多技能都可以互相取消，這讓他們能以更快的速度造成更高額的爆發傷害。（請參閱「技巧與訣竅」章節下的連招說明）"
       ],
       "content_hash": "538f68512fc4",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:23:51.866877Z"
+      "timestamp": "2026-03-20T03:41:46.835942Z"
     },
     "3.1.3": {
       "title": "干擾",
+      "description": "",
       "content": [
-        "與許多其他英雄不同，無畏（Venture）不需要取得擊殺也能為隊伍帶來價值。當敵方後排被「掘地鑽頭（Burrowed-Drill Dash）」垂直擊飛時，他們必須在無畏（Venture）現身前的額外 4 秒內時刻保持警惕。為了阻止無畏（Venture）的暗殺行動所投入的時間、專注力與技能本身就極具價值。此外，「鑽頭衝鋒（Drill Dash）」所帶來的控場效果也能干擾敵方的位移技能，並拯救無畏（Venture）的隊友免於被擊殺。"
+        "與許多其他英雄不同，無畏（Venture）不需要透過擊殺來為隊伍創造價值。當敵方後排被「掘地（Burrow）」後的「鑽頭衝刺（Drill Dash）」擊飛至空中時，他們必須在無畏（Venture）現身前的額外 4 秒內時刻提防。為了阻止無畏（Venture）進行暗殺所投入的時間、專注力與技能，本身就已經極具價值。此外，來自「鑽頭衝刺（Drill Dash）」的控場效果也能干擾敵方的位移技能，並拯救無畏（Venture）的隊友免於被擊殺。"
       ],
       "content_hash": "ccbf99e7d2b9",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:23:53.586375Z"
+      "timestamp": "2026-03-20T03:41:48.932151Z"
     },
     "3.2.1": {
       "title": "僅在極近距離下有用",
+      "description": "",
       "content": [
-        "無畏（Venture）的主要攻擊是一種移動緩慢的投射物，在 16 公尺的最大射程下很難直接命中目標。他們的其他三項技能必須在近戰範圍內才能造成傷害。當面對擁有大量消耗型傷害的敵方陣容時，無畏（Venture）難以靠近到足以造成傷害的距離，在成功接近之前無法為隊伍帶來任何價值。"
+        "無畏（Venture）的武器主要射擊是一種移動緩慢的拋射物，在 16 公尺的最大射程下很難直接命中目標。他們的其他三項技能必須在近戰距離附近才能造成傷害。當面對擁有大量遠程消耗傷害的敵方陣容時，無畏（Venture）很難靠近到足以造成傷害的距離，在成功接近之前，無法為隊伍帶來任何貢獻。"
       ],
       "content_hash": "76c4ca928aad",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:23:55.301149Z"
+      "timestamp": "2026-03-20T03:41:50.808234Z"
     },
     "3.2.2": {
       "title": "容易被反制",
+      "description": "",
       "content": [
-        "雖然無畏（Venture）可以成為非常優秀的側襲者（Flanker），但他們也極易受到強力的反制。掘地（Burrow）的施放動畫很長，在完全潛入地底之前並不會獲得無敵狀態。像是睡眠鏢（Sleep Dart）和磁性手榴彈（Magnetic Grenade）這類控場（CC）技能，基本上會讓掘地（Burrow）無法作為逃生技能使用。"
+        "雖然無畏（Venture）可以成為非常出色的側襲者（Flanker），但他們也很容易受到嚴重的反制。掘地（Burrow）的施放動畫很長，在完全潛入地底之前並不會獲得無敵狀態。像是睡眠鏢（Sleep Dart）和磁性手榴彈（Magnetic Grenade）這類控場（CC）技能，基本上會讓掘地（Burrow）無法作為逃生技能使用。"
       ],
       "content_hash": "19beb9b0aef9",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:23:56.799638Z"
+      "timestamp": "2026-03-20T03:41:52.556906Z"
     },
     "3.2.3": {
       "title": "孤注一擲",
+      "description": "",
       "content": [
-        "由於無畏（Venture）最強大的傷害技能同時也是他們的逃生技能，無畏（Venture）往往必須深入戰場並耗盡所有資源來確保擊殺，這使他們在面對反擊時完全處於劣勢。若無畏（Venture）在沒有挖掘（Burrow）或鑽頭衝刺（Drill Dash）的情況下被抓到，就會成為任人宰割的目標，一旦遭到敵方隊伍集火，將毫無反制手段。"
+        "由於無畏（Venture）最強大的傷害技能同時也是他們的逃生技能，無畏往往必須深入敵陣並用盡所有資源來確保擊殺，這使他們在面對反擊時顯得極度脆弱。若無畏在沒有挖掘（Burrow）或鑽頭衝刺（Drill Dash）的情況下被抓到，就會成為任人宰割的目標，一旦遭到敵方隊伍集火，將完全沒有反制手段。"
       ],
       "content_hash": "cb8374f36776",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:23:58.776683Z"
+      "timestamp": "2026-03-20T03:41:54.582125Z"
     },
     "4.1": {
       "title": "[主要攻擊]：智慧挖掘機（Smart Excavator）",
+      "description": "",
       "content": [
-        "智慧挖掘機（Smart Excavator）使用技巧：",
+        "智慧挖掘機（Smart Excavator）的使用技巧：",
         "* 利用其範圍傷害（AoE damage）來對聚集的敵人累積絕招能量。",
-        "* 採取稍微偏離的角度（off-angle），讓無畏（Venture）既能與隊伍保持聯繫，又能維持主要攻擊（Primary Fire）的射程。",
-        "* 在防守咽喉點（choke point）時，這是不錯的騷擾技能（spam ability）。"
+        "* 採取稍微偏離的角度（off-angle）可以讓無畏（Venture）在與隊伍保持聯繫的同時，也能確保自己處於主要攻擊（Primary Fire）的射程範圍內。",
+        "* 在防守隘口時，這是一個相當不錯的騷擾技能。"
       ],
       "content_hash": "9425ca06547c",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:00.202037Z"
+      "timestamp": "2026-03-20T03:41:56.428556Z"
     },
     "4.2": {
       "title": "[次要攻擊]：鑽頭衝刺（Drill Dash）",
+      "description": "",
       "content": [
-        "鑽頭衝刺（Drill Dash）的使用技巧",
-        "* 在移動與傷害輸出方面同樣出色。",
-        "* 進行側襲（Flanker）時，通常應保留鑽頭衝刺（Drill Dash）以確保能安全撤退。",
-        "* 利用鑽頭衝刺（Drill Dash）擊飛敵人，阻止他們逃跑。如果你能繞到敵人身後並將他們推向你的隊友，這招將會變得極具殺傷力。"
+        "鑽頭衝刺（Drill Dash）技巧",
+        "* 在移動與傷害方面同樣出色。",
+        "* 進行側襲（Flanker）時，通常應保留鑽頭衝刺（Drill Dash）以確保能安全撤離。",
+        "* 利用鑽頭衝刺（Drill Dash）擊飛敵人，防止他們逃脫。如果你能繞到敵人後方並將他們推向你的隊友，這招將會特別致命。"
       ],
       "content_hash": "be639cdedd87",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:02.161075Z"
+      "timestamp": "2026-03-20T03:41:57.979124Z"
     },
     "4.3": {
-      "title": "[SHIFT]：掘地（Burrow）",
+      "title": "[SHIFT]：鑽地（Burrow）",
+      "description": "",
       "content": [
-        "掘地（Burrow）使用技巧",
-        "* 除非你確定敵方的強力控場技能（例如安娜的睡眠鏢（Sleep Dart）或卡西迪的磁性手雷（Magnetic Grenade））處於冷卻狀態，否則絕對不要在他們附近使用掘地（Burrow）。",
-        "* 盡可能在交戰時優先使用掘地（Burrow）作為開場。",
-        "* 站位在多名敵人之間，以最大化範圍傷害（AoE damage）輸出。",
-        "* 若在完全潛入後使用掘地（Burrow）並持續 4 秒，在破土而出後立即使用鑽頭衝刺（Drill Dash）將會重置該技能的冷卻時間。",
-        "* 無畏（Venture）在啟動掘地（Burrow）後，直到身體完全沒入地面前仍會受到傷害，因此與莫伊拉的消散（Fade）或死神的幽影形態（Wraith Form）相比，它並非可靠的快速逃生工具。"
+        "鑽地（Burrow）使用技巧",
+        "* 除非你確定敵人的強效控場技能（例如安娜的睡眠鏢（Sleep Dart）或卡西迪的磁性手雷（Magnetic Grenade））處於冷卻狀態，否則絕對不要在他們附近使用鑽地（Burrow）。",
+        "* 盡可能在交戰開始時就使用鑽地（Burrow）。",
+        "* 站在多名敵人之間以最大化範圍傷害（AoE damage）輸出。",
+        "* 如果鑽地（Burrow）持續了完整的 4 秒，在完全潛入後立即施放鑽頭衝刺（Drill Dash），於浮出地面時將會完全重置該技能的冷卻時間。",
+        "* 無畏（Venture）在啟動鑽地（Burrow）後，直到身體完全沒入地面前仍會受到傷害，因此與莫伊拉的消散（Fade）或死神的幽影傳送（Wraith Form）相比，它並不是一個可靠的快速逃生工具。"
       ],
       "content_hash": "e4a9c6a1745c",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:04.366938Z"
+      "timestamp": "2026-03-20T03:42:00.953361Z"
     },
     "4.4": {
-      "title": "[近戰] 痛擊（Clobber）",
+      "title": "[近戰] 猛擊（Clobber）",
+      "description": "",
       "content": [
-        "痛擊（Clobber）的使用技巧",
-        "* 可以從主要攻擊（Primary Fire）取消動作並施放痛擊（Clobber）。",
-        "* 在鑽頭動畫期間的任何時間點，都可以取消動作並施放鑽頭衝刺（Drill Dash）或鑽地（Burrow）。",
+        "猛擊（Clobber）的使用技巧",
+        "* 可以從主要攻擊（Primary Fire）取消動作並接上猛擊（Clobber）。",
+        "* 在鑽頭動畫期間的任何時間點，都可以取消動作並接上鑽頭衝刺（Drill Dash）或鑽地（Burrow）。",
         "* 完整的 70 點傷害可以穿透護盾，例如萊因哈特（Reinhardt）的屏障力場（Barrier Field）。"
       ],
       "content_hash": "8de963a5cede",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:06.307028Z"
+      "timestamp": "2026-03-20T03:42:02.500140Z"
     },
     "4.5": {
       "title": "[絕招]：大地衝擊（Tectonic Shock）",
+      "description": "",
       "content": [
-        "* 會被屏障阻擋，因此第一守則是追蹤敵方屏障的使用時機，或是確認其屏障生命值剩餘多少。",
-        "* 在側襲（Flank）時出其不意地使用效果最佳。",
+        "* 會被屏障阻擋，因此首要原則是追蹤敵方屏障的使用時機，或是確認其屏障生命值剩餘多少。",
+        "* 在側襲時出其不意地使用效果最佳。",
         "* 目標應鎖定脆皮英雄，並避開坦克。",
-        "* 75 點護盾生命值會持續整個絕招期間，並在結束後額外維持 3 秒才開始衰減，這讓無畏（Venture）在施放絕招時擁有 325 點的有效生命值。",
-        "* * 額外生命值可以由支援角色持續進行治療。"
+        "* 75 點護盾生命值會持續整個絕招期間，並在絕招結束後額外維持 3 秒才開始衰減，這讓無畏（Venture）在施放絕招時擁有 325 點的有效生命值。",
+        "* * 額外生命值可以透過輔助英雄重複治療。"
       ],
       "content_hash": "ff5e3bec68ff",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:08.415711Z"
+      "timestamp": "2026-03-20T03:42:04.166558Z"
     },
     "4.6": {
-      "title": "「秒殺」連段",
+      "title": "「秒殺」連招",
+      "description": "",
       "content": [
         "(皆假設主要攻擊（Primary Fire）直接命中。)",
         "* 智慧挖掘機（SMART Excavator）→ 近戰攻擊（Melee）→ 鑽頭衝刺（Drill Dash）",
-        "爆發傷害最快。能造成近乎瞬間的 195 點傷害。",
+        "最快的爆發傷害。能造成近乎瞬間的 195 點傷害。",
         "* 智慧挖掘機（SMART Excavator）→ 鑽頭衝刺（Drill Dash）→ 智慧挖掘機（SMART Excavator）→ 近戰攻擊（Melee）",
-        "* 最穩定的連段。",
-        "* 可消滅除壁壘機兵（Bastion）和托比昂（Torbjörn）以外的所有非戰士（Bruiser）英雄。",
+        "* 最穩定的連招。",
+        "* 可消滅除壁壘機兵（Bastion）與托比昂（Torbjörn）以外的所有非戰士（Bruiser）英雄。",
         "* 掘地（Burrow）（最大傷害）→ 主要攻擊（Primary Fire）→ 主要攻擊（Primary Fire）（使用鑽頭衝刺（Drill Dash）脫離）",
         "* 可擊殺生命值 250 點及以下的英雄。"
       ],
       "content_hash": "faf1ef81fccf",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:10.460778Z"
+      "timestamp": "2026-03-20T03:42:06.610359Z"
     },
     "5.1.1": {
       "title": "深層挖掘（Deep Burrow）",
+      "description": "",
       "content": [
         "* 適合用於側襲以及提升整體機動性。",
-        "* 能夠更有效率地進行進場與撤退。"
+        "* 能夠更有效率地進行交戰與脫離戰場。"
       ],
       "content_hash": "9f8709ae536f",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:11.852234Z"
+      "timestamp": "2026-03-20T03:42:07.957047Z"
     },
     "5.1.2": {
       "title": "挖掘的快感",
+      "description": "",
       "content": [
         "* 你可以傾瀉所有冷卻技能來切入並削弱敵人，施放絕招，然後迅速重置所有技能。",
-        "* 最棒的部分在於，你可以鑽地進入絕招狀態，然後再次鑽地以進行脫逃。"
+        "* 最棒的部分在於，你可以鑽地進入絕招，接著再次鑽地以脫離戰場。"
       ],
       "content_hash": "4f24056a7ed1",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:13.858914Z"
+      "timestamp": "2026-03-20T03:42:09.397759Z"
     },
     "5.2.1": {
       "title": "智慧延伸（Smart Extender）",
+      "description": "",
       "content": [
-        "* 非常適合用來提升你的遠程消耗能力。",
-        "* 最好的用法是在戰鬥中，針對逃出你攻擊範圍的目標進行最後一擊。",
-        "* 雖然持續時間短暫，但能擁有一個提升遠程傷害的選項還是很不錯的。"
+        "* 對於提升自身的消耗能力非常有幫助。",
+        "* 最好的用法是在目標於戰鬥中逃離你的射程時，用來補上最後一擊。",
+        "* 雖然持續時間短暫，但能擁有一個提升遠程傷害的選擇還是很不錯的。"
       ],
       "content_hash": "0ec6a09cda25",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:15.093155Z"
+      "timestamp": "2026-03-20T03:42:11.055369Z"
     },
     "5.2.2": {
-      "title": "滿身塵土",
+      "title": "滿身塵土（Covered in Dirt）",
+      "description": "",
       "content": [
-        "* 最適合無畏（Venture）主要採用的側襲者（Flanker）與近距離戰鬥風格。能在戰鬥中提升其生存能力（tanky）。"
+        "* 最適合無畏（Venture）主要採用的通用側襲者（Flanker）與近距離戰鬥風格。能在戰鬥中提升其生存能力。"
       ],
       "content_hash": "dc73116e848a",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:16.193928Z"
+      "timestamp": "2026-03-20T03:42:12.421875Z"
     },
     "6.1.1": {
-      "title": "伊利歐斯（Ilios）深井",
+      "title": "伊利歐斯：深井",
+      "description": "",
       "content": [
-        "* 伊利歐斯（Ilios）深井為無畏（Venture）提供了大量的牆面與高台，使其能安全撤離。雖然無畏（Venture）在深井周圍的開闊區域表現極差，但地圖兩側非常適合規劃側襲者（Flanker）路線。據點兩側也都有牆面，無畏（Venture）可以使用掘地（Burrow）或鑽頭衝刺（Drill Dash）翻越。"
+        "* 伊利歐斯：深井（Ilios Well）為無畏（Venture）提供了大量的牆面與高地，方便其安全撤離。雖然無畏在深井周圍的開闊區域表現不佳，但地圖兩側非常適合規劃側襲者（Flanker）路線。據點兩側也都有無畏可以利用「掘地（Burrow）」或「鑽頭衝刺（Drill Dash）」翻越的牆壁。"
       ],
       "content_hash": "1327f85b9eca",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:18.077174Z"
+      "timestamp": "2026-03-20T03:42:14.172179Z"
     },
     "6.1.2": {
-      "title": "綠洲城市中心",
+      "title": "綠洲城城市中心",
+      "description": "",
       "content": [
-        "* 綠洲城市中心的目標點擁有天然掩體，即使無畏（Venture）的兩項特殊能力（abilities）都在冷卻中，也能夠繞過目標點。此外，側邊路線皆設有生命包，並提供安全區域供玩家發起交戰或撤退。"
+        "* 綠洲城城市中心的目標點擁有天然掩體，即使無畏（Venture）的兩項特殊能力（abilities）都在冷卻中，依然能繞過掩體進行移動。此外，側邊路線皆設有生命包，並提供安全的區域供玩家發起交戰或撤退。"
       ],
       "content_hash": "3280509b8e56",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:19.843834Z"
+      "timestamp": "2026-03-20T03:42:15.964960Z"
     },
     "6.1.3": {
       "title": "好萊塢",
+      "description": "",
       "content": [
-        "* 無畏（Venture）必須在好萊塢（Hollywood）開闢側襲路線才能發揮效用，並根據敵方隊伍的位置進行調整。在這張地圖上，後排英雄通常會部署在遠離前線的位置。這樣的空間為無畏（Venture）提供了絕佳機會，讓其能展開單獨行動，藉此干擾或擊殺落單的敵方後排。"
+        "* 無畏（Venture）必須在好萊塢（Hollywood）創造側襲路線才能發揮成效，並根據敵方隊伍的站位進行調整。在這張地圖上，後排英雄通常會部署在遠離前線的位置。這樣的空間為無畏（Venture）提供了絕佳機會，讓其能獨自執行任務，去干擾或擊殺那些脫離隊伍的敵方後排。"
       ],
       "content_hash": "c9156986ae35",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:21.924334Z"
+      "timestamp": "2026-03-20T03:42:17.957351Z"
     },
     "6.2.1": {
       "title": "哈瓦那",
+      "description": "",
       "content": [
-        "* 對於所有近距離英雄來說，哈瓦那往往是最糟糕的地圖之一。這張地圖不僅區域極其寬闊且開放，大多數區域也缺乏適合無畏（Venture）使用的掩體。"
+        "* 哈瓦那往往是所有近距離英雄表現最差的地圖之一。這張地圖不僅區域極其寬闊且開放，大多數區域也缺乏適合無畏（Venture）使用的掩體。"
       ],
       "content_hash": "90a6e73dd97b",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:23.623665Z"
+      "timestamp": "2026-03-20T03:42:19.085155Z"
     },
     "6.2.2": {
       "title": "垃圾鎮",
+      "description": "",
       "content": [
-        "* 在垃圾鎮中，消耗戰位置（Poke positions）與高地極具優勢。無畏（Venture）在該地圖難以進行佈局，也難以找到路徑來進入其最佳攻擊範圍。"
+        "* 在垃圾鎮中，消耗（Poke）位置與高台優勢極大。無畏（Venture）在進行佈局與尋找路徑以進入最佳攻擊範圍時會感到相當吃力。"
       ],
       "content_hash": "7f8132d697d1",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:24.920710Z"
+      "timestamp": "2026-03-20T03:42:20.547021Z"
     },
     "6.2.3": {
       "title": "新皇后街",
+      "description": "",
       "content": [
-        "* 在新皇后街的機器人初始區域，無畏（Venture）的表現尚可，因為他們可以利用高處隧道以及大型生命包所在的房間。然而，地圖兩側的終點區域對無畏（Venture）來說太過空曠。他們會變得非常依賴隊友提供的資源，才能存活並發揮作用。"
+        "* 在新皇后街的機器人初始區域，無畏（Venture）的表現尚可，因為他們可以利用高處隧道和大型生命包房間。然而，地圖兩側的終點區域對無畏（Venture）來說過於空曠。他們會變得非常依賴隊友提供的資源，才能存活並發揮作用。"
       ],
       "content_hash": "d029ebd28ed2",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:26.065099Z"
+      "timestamp": "2026-03-20T03:42:21.993177Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
+      "description": "",
       "content": [
-        "無畏（Venture）在能發揮其近距離傷害的「鬥陣（Brawl）」陣容中表現最為出色。",
+        "無畏（Venture）在能夠發揮其近距離傷害的鬥陣（Brawl）陣容中表現最為出色。",
         "**以無畏（Venture）為核心的理想隊伍陣容：**",
         "* 莫加（Mauga）、無畏（Venture）、卡西迪（Cassidy）、霧子（Kiriko）、織命（Lifeweaver）"
       ],
       "content_hash": "6f178f7c3c44",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:27.646651Z"
+      "timestamp": "2026-03-20T03:42:23.372612Z"
     },
     "7.1": {
-      "title": "與其他英雄的個人搭配（Synergies）",
+      "title": "與其他英雄的個人協同效應",
+      "description": "",
       "content": [
         "莫加（Mauga）",
-        "* 莫加與無畏（Venture）之間的搭配完全圍繞在心臟過載（Cardiac Overdrive）的使用上。將心臟過載的傷害減免與生命竊取，結合無畏產生的護盾生命值，能形成致命的組合。在莫加賦予的 5 秒增益期間，無畏幾乎處於無敵狀態。此外，莫加可以配合無畏的進場使用衝鋒（Overrun）與重擊，而困鬥（Cage Fight）則讓被困住的敵人無法躲避地殼震擊（Tectonic Shock）。",
+        "* 莫加與無畏（Venture）之間的協同效應完全圍繞著心臟過載（Cardiac Overdrive）的使用。將心臟過載的傷害減免與生命竊取效果，結合無畏產生的護盾生命值，能形成致命的組合。在莫加賦予的 5 秒增益期間，無畏幾乎變得無法被擊殺。此外，莫加可以配合無畏的進場使用衝鋒（Overrun）與重擊，而困獸鬥（Cage Fight）則讓被困住的敵人無法逃避構造震波（Tectonic Shock）。",
         "駭影（Sombra）",
-        "* 駭影是最容易跟隨無畏進行側襲（Flank）的英雄，且駭客入侵（Hack）能防止敵人對無畏使用控場技能（CC）。敵方隊伍為了在駭影與無畏的雙人突襲（Dive）下存活所耗費的資源，也為你的隊伍其餘成員創造了巨大的進攻機會。",
+        "* 駭影是最容易跟隨無畏進行側襲的英雄，且駭入（Hack）可以防止敵人對無畏使用控場技能。僅僅為了在駭影與無畏的夾擊中存活，敵方隊伍就必須消耗大量資源，這也為你的隊伍其餘成員提供了巨大的進攻空檔。",
         "織命（Lifeweaver）",
-        "* 無畏在確認擊殺後，往往難以保留足夠的資源安全撤離。生命之握（Life Grip）允許無畏將所有冷卻技能傾瀉在敵人身上，隨後被拉回安全地帶。這種組合對敵方隊伍來說極難防範，且通常在無畏每兩次進場時就能循環使用一次。"
+        "* 無畏有時難以在確保擊殺的同時，還能保留安全撤離的資源。生命之握（Life Grip）允許無畏將所有冷卻技能傾瀉在敵人身上，隨後被拉回安全地帶。這種組合對敵方隊伍來說極難應對，且通常可以在無畏每兩次進場時循環使用一次。"
       ],
       "content_hash": "becc96105d1b",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:31.333023Z"
+      "timestamp": "2026-03-20T03:42:26.860353Z"
     },
     "8": {
       "title": "如何反制",
+      "description": "",
       "content": [
-        "很遺憾對無畏（Venture）來說，他們其實是《鬥陣特攻》中最容易被反制的英雄之一。掘地鑽頭（Burrow）較長的施放時間讓隊伍有足夠的時間在無敵狀態生效前集火將其擊殺。通常只要選擇下方其中一個反制英雄，就足以壓制無畏（Venture）。總體而言，當無畏（Venture）發起進攻時，對其進行標記可以避免許多不必要的死亡。請務必嘗試追蹤無畏（Venture）玩家的進場位置，並了解他們的撤退模式，這樣你就能在他們與隊伍重整旗鼓前進行追擊並將其淘汰。"
+        "很遺憾對無畏（Venture）來說，他們其實是《鬥陣特攻》（Overwatch）中最容易被反制的英雄之一。鑽地（Burrow）的施法時間較長，讓隊伍有足夠的時間在無敵效果觸發前集火將其擊殺。通常只要選擇下方其中一個反制英雄，就足以壓制無畏（Venture）。總體而言，當無畏（Venture）發起進攻時，對其進行標記（ping）可以避免許多不必要的死亡。請務必試著追蹤無畏（Venture）玩家的進場路徑，並了解他們的逃脫模式，這樣你才能在他們與隊伍重整旗鼓前進行追擊並將其消滅。"
       ],
       "content_hash": "aff8c46474f5",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:33.521408Z"
+      "timestamp": "2026-03-20T03:42:28.949023Z"
     },
     "8.1": {
-      "title": "特定英雄剋制關係",
+      "title": "特定英雄反制策略",
+      "description": "",
       "content": [
-        "毀滅拳王",
-        "* 毀滅拳王的機動性優於無畏（Venture），這讓他能夠追擊到無畏通常認為安全的位置。火箭拳（Rocket Punch）可以取消掘地（Burrow）並確保擊殺。無畏的多種爆發傷害技能也讓毀滅拳王能輕易為他的強化拳（Empowered Punch）充能。",
-        "卡西迪",
-        "* 磁性手榴彈（Magnetic Grenade）。即便你的卡西迪準度不佳，只要將磁性手榴彈黏在對方身上，你的隊伍就能輕鬆補上足夠的傷害來擊殺她。",
-        "安娜",
+        "毀滅拳王（Doomfist）",
+        "* 毀滅拳王的機動性優於無畏（Venture），這讓他能追擊無畏，即使是在無畏通常認為安全的地方。火箭拳（Rocket Punch）可以取消掘地（Burrow）並確保擊殺。無畏的多種爆發傷害技能也能輕易為毀滅拳王充能，使其獲得強化拳擊（Empowered Punch）。",
+        "卡西迪（Cassidy）",
+        "* 磁性手榴彈（Magnetic Grenade）。即使你的卡西迪準度不佳，只要將磁性手榴彈黏在對方身上，你的隊伍就能輕易補上足夠的傷害來擊殺她。",
+        "安娜（Ana）",
         "* 與磁性手榴彈類似，睡眠鏢（Sleep Dart）能強力反制無畏的戰術與技能。在掘地（Burrow）啟動期間那短暫的緩慢移動與脆弱時刻，是安娜命中睡眠鏢的最佳時機。"
       ],
       "content_hash": "c79714596d1b",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:35.995727Z"
+      "timestamp": "2026-03-20T03:42:30.930036Z"
     },
     "8.2": {
-      "title": "特定英雄剋制名單",
+      "title": "特定英雄剋星名稱",
+      "description": "",
       "content": [
         "毀滅拳王",
         "卡西迪",
         "安娜"
       ],
       "content_hash": "88a40104994b",
-      "prompt_version": "v2",
+      "prompt_version": "v5",
       "glossary_version": "v1",
-      "timestamp": "2026-03-19T17:24:37.124018Z"
+      "timestamp": "2026-03-20T03:42:32.496538Z"
     }
   }
 }

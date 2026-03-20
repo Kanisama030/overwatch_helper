@@ -1,4 +1,4 @@
-import type { AppDataset, HeroSummary, GameMap, Role } from '../types';
+import type { AppDataset, CompetitiveRank, HeroSummary, GameMap, Mode, Role } from '../types';
 
 export function getMapById(dataset: AppDataset, mapId: string): GameMap | undefined {
   return dataset.maps.find(m => m.id === mapId);
@@ -27,12 +27,22 @@ export function sortHeroesByTier(heroes: HeroSummary[]): HeroSummary[] {
   return sortHeroes(heroes, 'tier_then_winrate');
 }
 
-export function sortHeroes(heroes: HeroSummary[], mode: SortMode = 'tier_then_winrate'): HeroSummary[] {
+export function sortHeroes(
+  heroes: HeroSummary[],
+  mode: SortMode = 'tier_then_winrate',
+  options?: { dataset?: AppDataset | null; mapId?: string | null; selectedMode?: Mode; selectedRank?: CompetitiveRank }
+): HeroSummary[] {
+  const { dataset, mapId, selectedMode = 'Quick Play', selectedRank = 'All' } = options ?? {};
+
   return [...heroes].sort((a, b) => {
     const ta = TIER_ORDER[a.tier ?? 'C'] ?? 5;
     const tb = TIER_ORDER[b.tier ?? 'C'] ?? 5;
-    const wa = a.default_win_rate ?? 0;
-    const wb = b.default_win_rate ?? 0;
+    const wa = mapId && dataset
+      ? (getHeroWinRateByModeRank(dataset, a.id, mapId, selectedMode, selectedRank) ?? a.default_win_rate ?? 0)
+      : (a.default_win_rate ?? 0);
+    const wb = mapId && dataset
+      ? (getHeroWinRateByModeRank(dataset, b.id, mapId, selectedMode, selectedRank) ?? b.default_win_rate ?? 0)
+      : (b.default_win_rate ?? 0);
 
     if (mode === 'tier_then_winrate') {
       if (ta !== tb) return ta - tb;
@@ -64,6 +74,23 @@ export function groupMapsByMode(maps: GameMap[]): Record<string, GameMap[]> {
 
 export function getHeroWinRateForMap(hero: HeroSummary, mapId: string): number | null {
   return hero.map_stats?.[mapId]?.win_rate ?? null;
+}
+
+export function getHeroWinRateByModeRank(
+  dataset: AppDataset,
+  heroId: string,
+  mapId: string,
+  mode: Mode,
+  rank: CompetitiveRank
+): number | null {
+  const heroStats = dataset.mode_rank_stats?.[heroId];
+  if (!heroStats) return null;
+  if (mode === 'Quick Play') {
+    return heroStats['Quick Play']?.All?.[mapId]?.win_rate ?? null;
+  }
+  return heroStats.Competitive?.[rank]?.[mapId]?.win_rate
+    ?? heroStats.Competitive?.All?.[mapId]?.win_rate
+    ?? null;
 }
 
 // 安全取值 helper：清理 section content（移除 markdown 圖片、* 前綴）

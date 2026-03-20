@@ -82,6 +82,7 @@ class CacheService:
                 and section_cache.get("glossary_version") == glossary_version
                 and isinstance(section_cache.get("title"), str)
                 and section_cache.get("title", "").strip() != ""
+                and "description" in section_cache
             ):
                 self._stats["hits"] += 1
                 return section_cache

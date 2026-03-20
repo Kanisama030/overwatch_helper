@@ -21,7 +21,7 @@ class TranslationService:
         self.model_name = model_name
         self.glossary_service = glossary_service
         self.cache_service = cache_service
-        self.prompt_version = "v2"  # prompt 版本，變更時觸發重翻
+        self.prompt_version = "v5"  # prompt 版本，變更時觸發重翻
         
         # 設定 Gemini API
         genai.configure(api_key=api_key)
@@ -38,6 +38,51 @@ class TranslationService:
                 return json.load(f)
         except Exception:
             return {}
+
+    def _load_perks_index(self) -> Dict:
+        base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        candidates = [
+            os.path.join(base_dir, "data", "app", "perks_index.json"),
+            os.path.join(base_dir, "frontend", "public", "data", "perks_index.json"),
+        ]
+        merged: Dict = {}
+        for perks_path in candidates:
+            try:
+                with open(perks_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                if not isinstance(data, dict):
+                    continue
+                for hero_id, hero_perks in data.items():
+                    if not isinstance(hero_perks, dict):
+                        continue
+                    target = merged.setdefault(hero_id, {"minor": [], "major": []})
+                    for perk_type in ("minor", "major"):
+                        src_list = hero_perks.get(perk_type, []) or []
+                        if not isinstance(src_list, list):
+                            continue
+                        by_id = {
+                            str(item.get("id")): item
+                            for item in target.get(perk_type, [])
+                            if isinstance(item, dict) and item.get("id")
+                        }
+                        for item in src_list:
+                            if not isinstance(item, dict) or not item.get("id"):
+                                continue
+                            key = str(item.get("id"))
+                            existing = by_id.get(key)
+                            if not existing:
+                                target[perk_type].append(dict(item))
+                                by_id[key] = target[perk_type][-1]
+                                continue
+                            if not existing.get("description") and item.get("description"):
+                                existing["description"] = item.get("description")
+                            if not existing.get("name") and item.get("name"):
+                                existing["name"] = item.get("name")
+                            if not existing.get("image") and item.get("image"):
+                                existing["image"] = item.get("image")
+            except Exception:
+                continue
+        return merged
     
     def _should_translate_with_gemini(self, section_id: str) -> bool:
         """
@@ -159,6 +204,23 @@ Content:
                 time.sleep(2 * (attempt + 1))
         
         return None
+
+    async def _translate_short_text(self, text: str) -> str:
+        source = str(text or "").strip()
+        if not source:
+            return ""
+        prompt = f"""請將以下英文翻譯成繁體中文（台灣用語），只輸出 JSON：
+{{
+  "text": "翻譯結果"
+}}
+
+英文：
+{source}
+"""
+        result = await self._call_gemini(prompt)
+        if not isinstance(result, dict):
+            return ""
+        return str(result.get("text", "")).strip()
     
     async def _translate_section(
         self,
@@ -169,6 +231,7 @@ Content:
         """翻譯單個 section"""
         section_id = section.get("id", "")
         content_list = section.get("content", [])
+        source_description = str(section.get("description", "")).strip()
         
         # 提取文字內容
         content_text = self._extract_text_content(content_list)
@@ -187,8 +250,10 @@ Content:
         )
         
         if cached:
-            self._stats["cache_hits"] += 1
-            return cached
+            cached_description = str(cached.get("description", "")).strip()
+            if not (source_description and not cached_description):
+                self._stats["cache_hits"] += 1
+                return cached
         
         # 快取未命中，呼叫 Gemini
         prompt = self._build_translation_prompt(section, glossary_text)
@@ -199,7 +264,11 @@ Content:
         
         # 寫入快取
         translated_title = translated.get("title", section.get("title", ""))
-        translated_description = translated.get("description", section.get("description", ""))
+        translated_description = str(translated.get("description", "")).strip() if source_description else ""
+        if source_description and not translated_description:
+            translated_description = await self._translate_short_text(source_description)
+        if source_description and not translated_description:
+            translated_description = source_description
         translated_content = translated.get("content", [])
         self.cache_service.set(
             hero_id=hero_id,
@@ -245,6 +314,7 @@ Content:
         guide = hero_data.get("Guide", [])
         glossary_text = self.glossary_service.get_glossary_text()
         mapping = self._load_mapping()
+        perks_index = self._load_perks_index()
         hero_mapping = None
         for h in mapping.get("heroes", []):
             if str(h.get("id", "")).lower() == hero_id.lower() or str(h.get("en", "")).lower() == hero_id.lower():
@@ -258,6 +328,11 @@ Content:
             for perk in hero_mapping.get("perks", {}).get("major perks", []) or []:
                 if isinstance(perk, dict) and perk.get("name"):
                     perk_sections[perk.get("name")] = perk
+        if not perk_sections:
+            hero_perks = perks_index.get(hero_id, {})
+            for perk in (hero_perks.get("minor", []) or []) + (hero_perks.get("major", []) or []):
+                if isinstance(perk, dict) and perk.get("id"):
+                    perk_sections[str(perk.get("id"))] = perk
         
         result = {
             "hero_id": hero_id,
@@ -277,10 +352,12 @@ Content:
                 continue
 
             if section_id in {"5.1.1", "5.1.2", "5.2.1", "5.2.2"}:
-                perk_data = perk_sections.get(section.get("title", ""))
+                perk_data = perk_sections.get(section.get("title", "")) or perk_sections.get(section_id)
                 if perk_data:
                     section["title"] = perk_data.get("name", section.get("title", ""))
-                    section["description"] = perk_data.get("description", "")
+                    description = str(perk_data.get("description") or "").strip()
+                    if description:
+                        section["description"] = description
             
             # 只翻譯有內容的 section
             if not section.get("content"):

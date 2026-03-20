@@ -4,7 +4,7 @@
  */
 
 const API_BASE_URL = 'http://127.0.0.1:8888';
-const CACHE_SCHEMA_VERSION = 'v2';
+const CACHE_SCHEMA_VERSION = 'v3';
 
 interface TranslationSection {
   title?: string;

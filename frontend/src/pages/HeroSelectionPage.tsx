@@ -4,11 +4,11 @@ import { useDataset } from '../contexts/dataContextStore';
 import { useLocale } from '../contexts/localeContextStore';
 import {
   getMapById, filterHeroesByRole, sortHeroes,
-  getBestPicksForMap, getWorstPicksForMap, getHeroWinRateForMap, type SortMode
+  getBestPicksForMap, getWorstPicksForMap, getHeroWinRateByModeRank, type SortMode
 } from '../data/selectors';
 import { TierBadge } from '../components/common/TierBadge';
 import { HeroImage } from '../components/common/HeroImage';
-import type { HeroSummary, Role } from '../types';
+import type { AppDataset, CompetitiveRank, HeroSummary, Mode, Role } from '../types';
 
 type RoleFilter = 'ALL' | Role;
 
@@ -17,9 +17,42 @@ function getModeLabel(locale: 'en' | 'zh-TW', t: ReturnType<typeof useLocale>['t
   return t.maps.modes[mode as keyof typeof t.maps.modes] ?? mode;
 }
 
-function HeroCard({ hero, mapId, onClick }: { hero: HeroSummary; mapId: string | null; onClick: () => void }) {
+const COMPETITIVE_RANKS: CompetitiveRank[] = ['All', 'Bronze', 'Silver', 'Gold', 'Platinum', 'Diamond', 'Master', 'Grandmaster', 'Champion'];
+const MODE_LABELS: Record<Mode, { en: string; zh: string }> = {
+  'Quick Play': { en: 'Quick Play', zh: '快速對戰' },
+  Competitive: { en: 'Competitive', zh: '競技對戰' },
+};
+const COMPETITIVE_RANK_LABELS: Record<CompetitiveRank, { en: string; zh: string; index: number }> = {
+  All: { en: 'All', zh: '全部', index: 0 },
+  Bronze: { en: 'Bronze', zh: '青銅', index: 1 },
+  Silver: { en: 'Silver', zh: '白銀', index: 2 },
+  Gold: { en: 'Gold', zh: '黃金', index: 3 },
+  Platinum: { en: 'Platinum', zh: '白金', index: 4 },
+  Diamond: { en: 'Diamond', zh: '鑽石', index: 5 },
+  Master: { en: 'Master', zh: '大師', index: 6 },
+  Grandmaster: { en: 'Grandmaster', zh: '宗師', index: 7 },
+  Champion: { en: 'Champion', zh: '王者', index: 8 },
+};
+
+function HeroCard({
+  hero,
+  dataset,
+  mapId,
+  selectedMode,
+  selectedRank,
+  onClick
+}: {
+  hero: HeroSummary;
+  dataset: AppDataset | null;
+  mapId: string | null;
+  selectedMode: Mode;
+  selectedRank: CompetitiveRank;
+  onClick: () => void
+}) {
   const { locale } = useLocale();
-  const mapWinRate = mapId ? getHeroWinRateForMap(hero, mapId) : null;
+  const mapWinRate = (mapId && dataset)
+    ? getHeroWinRateByModeRank(dataset, hero.id, mapId, selectedMode, selectedRank)
+    : null;
   const displayWinRate = mapWinRate ?? hero.default_win_rate;
   const heroName = locale === 'zh-TW' ? (hero.zh ?? hero.en) : hero.en;
 
@@ -55,8 +88,8 @@ function HeroCard({ hero, mapId, onClick }: { hero: HeroSummary; mapId: string |
   );
 }
 
-function HeroSection({ title, heroes, mapId, onSelect, accentColor = '#f27f0d', icon = 'military_tech' }:
-  { title: string; heroes: HeroSummary[]; mapId: string | null; onSelect: (h: HeroSummary) => void; accentColor?: string; icon?: string }) {
+function HeroSection({ title, heroes, dataset, mapId, selectedMode, selectedRank, onSelect, accentColor = '#f27f0d', icon = 'military_tech' }:
+  { title: string; heroes: HeroSummary[]; dataset: AppDataset | null; mapId: string | null; selectedMode: Mode; selectedRank: CompetitiveRank; onSelect: (h: HeroSummary) => void; accentColor?: string; icon?: string }) {
   if (heroes.length === 0) return null;
   return (
     <div className="mb-8">
@@ -69,7 +102,17 @@ function HeroSection({ title, heroes, mapId, onSelect, accentColor = '#f27f0d', 
         <div className="flex-1 h-px" style={{ backgroundColor: `${accentColor}22` }} />
       </div>
       <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-8 gap-2">
-        {heroes.map(h => <HeroCard key={h.id} hero={h} mapId={mapId} onClick={() => onSelect(h)} />)}
+        {heroes.map(h => (
+          <HeroCard
+            key={h.id}
+            hero={h}
+            dataset={dataset}
+            mapId={mapId}
+            selectedMode={selectedMode}
+            selectedRank={selectedRank}
+            onClick={() => onSelect(h)}
+          />
+        ))}
       </div>
     </div>
   );
@@ -84,12 +127,22 @@ export function HeroSelectionPage() {
   const [search, setSearch] = useState('');
   const [roleFilter, setRoleFilter] = useState<RoleFilter>('ALL');
   const [sortMode, setSortMode] = useState<SortMode>('tier_then_winrate');
+  const [selectedMode, setSelectedMode] = useState<Mode>('Quick Play');
+  const [selectedRank, setSelectedRank] = useState<CompetitiveRank>('All');
 
   const map = mapId && dataset ? getMapById(dataset, mapId) : null;
   const allHeroes = dataset?.heroes ?? [];
 
-  const bestPicks = useMemo(() => mapId && dataset ? sortHeroes(getBestPicksForMap(dataset, mapId), sortMode) : [], [dataset, mapId, sortMode]);
-  const worstPicks = useMemo(() => mapId && dataset ? sortHeroes(getWorstPicksForMap(dataset, mapId), sortMode) : [], [dataset, mapId, sortMode]);
+  const bestPicks = useMemo(() => mapId && dataset ? sortHeroes(
+    getBestPicksForMap(dataset, mapId),
+    sortMode,
+    { dataset, mapId, selectedMode, selectedRank }
+  ) : [], [dataset, mapId, sortMode, selectedMode, selectedRank]);
+  const worstPicks = useMemo(() => mapId && dataset ? sortHeroes(
+    getWorstPicksForMap(dataset, mapId),
+    sortMode,
+    { dataset, mapId, selectedMode, selectedRank }
+  ) : [], [dataset, mapId, sortMode, selectedMode, selectedRank]);
   const bestIds = new Set(bestPicks.map(h => h.id));
   const worstIds = new Set(worstPicks.map(h => h.id));
 
@@ -107,18 +160,18 @@ export function HeroSelectionPage() {
 
   const filteredBest = useMemo(() => {
     const filtered = filteredHeroes.filter(h => bestIds.has(h.id));
-    return sortHeroes(filtered, sortMode);
-  }, [filteredHeroes, bestIds, sortMode]);
+    return sortHeroes(filtered, sortMode, { dataset, mapId, selectedMode, selectedRank });
+  }, [filteredHeroes, bestIds, sortMode, dataset, mapId, selectedMode, selectedRank]);
   
   const filteredWorst = useMemo(() => {
     const filtered = filteredHeroes.filter(h => worstIds.has(h.id));
-    return sortHeroes(filtered, sortMode);
-  }, [filteredHeroes, worstIds, sortMode]);
+    return sortHeroes(filtered, sortMode, { dataset, mapId, selectedMode, selectedRank });
+  }, [filteredHeroes, worstIds, sortMode, dataset, mapId, selectedMode, selectedRank]);
   
   const filteredOther = useMemo(() => {
     const filtered = filteredHeroes.filter(h => !bestIds.has(h.id) && !worstIds.has(h.id));
-    return sortHeroes(filtered, sortMode);
-  }, [filteredHeroes, bestIds, worstIds, sortMode]);
+    return sortHeroes(filtered, sortMode, { dataset, mapId, selectedMode, selectedRank });
+  }, [filteredHeroes, bestIds, worstIds, sortMode, dataset, mapId, selectedMode, selectedRank]);
 
   const onSelect = (hero: HeroSummary) => {
     const query = mapId ? `?map=${mapId}` : '';
@@ -132,6 +185,16 @@ export function HeroSelectionPage() {
     { label: t.heroes.filterSupport, value: 'Support' },
   ];
   const mapName = map ? (locale === 'zh-TW' ? (map.zh ?? map.en) : map.en) : '';
+  const modeOptions: { value: Mode; label: string }[] = [
+    { value: 'Quick Play', label: locale === 'zh-TW' ? MODE_LABELS['Quick Play'].zh : MODE_LABELS['Quick Play'].en },
+    { value: 'Competitive', label: locale === 'zh-TW' ? MODE_LABELS.Competitive.zh : MODE_LABELS.Competitive.en },
+  ];
+  const rankOptions = [...COMPETITIVE_RANKS]
+    .sort((a, b) => COMPETITIVE_RANK_LABELS[a].index - COMPETITIVE_RANK_LABELS[b].index)
+    .map(rank => ({
+      value: rank,
+      label: locale === 'zh-TW' ? COMPETITIVE_RANK_LABELS[rank].zh : COMPETITIVE_RANK_LABELS[rank].en,
+    }));
 
   return (
     <div className="flex-1 flex flex-col overflow-y-auto scrollbar-hide min-h-0">
@@ -208,23 +271,53 @@ export function HeroSelectionPage() {
               ? { backgroundColor: '#f27f0d', color: '#221910' }
               : { backgroundColor: 'rgba(242,127,13,0.1)', color: '#9ca3af', border: '1px solid rgba(242,127,13,0.2)' }}>
              {t.heroes.sortWRThenTier}
-          </button>
-        </div>
-      </div>
+           </button>
+           <div className="w-px h-6 self-center" style={{ backgroundColor: 'rgba(242,127,13,0.2)' }} />
+           <select
+             className="px-3 py-1.5 rounded text-xs font-bold uppercase tracking-wider outline-none"
+             style={{ backgroundColor: 'rgba(242,127,13,0.1)', color: '#f3f4f6', border: '1px solid rgba(242,127,13,0.2)' }}
+             value={selectedMode}
+             onChange={e => {
+               const nextMode = e.target.value as Mode;
+               setSelectedMode(nextMode);
+               if (nextMode === 'Quick Play') setSelectedRank('All');
+             }}
+           >
+               {modeOptions.map(option => (
+                 <option key={option.value} value={option.value} style={{ color: '#111827', backgroundColor: '#ffffff' }}>
+                   {option.label}
+                 </option>
+               ))}
+             </select>
+           <select
+             className="px-3 py-1.5 rounded text-xs font-bold uppercase tracking-wider outline-none"
+             style={{ backgroundColor: 'rgba(242,127,13,0.1)', color: '#f3f4f6', border: '1px solid rgba(242,127,13,0.2)' }}
+             value={selectedRank}
+             disabled={selectedMode === 'Quick Play'}
+             onChange={e => setSelectedRank(e.target.value as CompetitiveRank)}
+           >
+               {rankOptions.map(rank => (
+                 <option key={rank.value} value={rank.value} style={{ color: '#111827', backgroundColor: '#ffffff' }}>
+                   {rank.label}
+                 </option>
+               ))}
+             </select>
+         </div>
+       </div>
 
       {/* Hero sections */}
       <div className="px-4 md:px-8 pb-8">
         {mapId ? (
           <>
-            <HeroSection title={t.heroes.bestPicks} heroes={filteredBest} mapId={mapId} onSelect={onSelect}
+            <HeroSection title={t.heroes.bestPicks} heroes={filteredBest} dataset={dataset} mapId={mapId} selectedMode={selectedMode} selectedRank={selectedRank} onSelect={onSelect}
               accentColor="#f27f0d" icon="military_tech" />
-            <HeroSection title={t.heroes.avoidPicks} heroes={filteredWorst} mapId={mapId} onSelect={onSelect}
+            <HeroSection title={t.heroes.avoidPicks} heroes={filteredWorst} dataset={dataset} mapId={mapId} selectedMode={selectedMode} selectedRank={selectedRank} onSelect={onSelect}
               accentColor="#ef4444" icon="warning" />
-            <HeroSection title={t.heroes.allHeroes} heroes={filteredOther} mapId={mapId} onSelect={onSelect}
+            <HeroSection title={t.heroes.allHeroes} heroes={filteredOther} dataset={dataset} mapId={mapId} selectedMode={selectedMode} selectedRank={selectedRank} onSelect={onSelect}
               accentColor="#6b7280" icon="groups" />
           </>
         ) : (
-          <HeroSection title={t.heroes.allHeroes} heroes={filteredOther} mapId={null} onSelect={onSelect}
+          <HeroSection title={t.heroes.allHeroes} heroes={filteredOther} dataset={dataset} mapId={null} selectedMode={selectedMode} selectedRank={selectedRank} onSelect={onSelect}
             accentColor="#6b7280" icon="groups" />
         )}
       </div>

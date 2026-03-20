@@ -495,6 +495,53 @@ def build_map_stats_for_hero(hero_name, stats_data):
     return map_stats
 
 
+def build_mode_rank_stats(heroes_index, stats_data):
+    """產生 mode_rank_stats.json：hero_id -> mode -> rank -> map_id -> {win_rate, pick_rate}"""
+    heroes_stats = stats_data.get("heroes_stats", {})
+    stats_key_map = {str(k).lower(): k for k in heroes_stats.keys()}
+    competitive_ranks = [
+        "All",
+        "Bronze",
+        "Silver",
+        "Gold",
+        "Platinum",
+        "Diamond",
+        "Master",
+        "Grandmaster",
+        "Champion",
+    ]
+
+    result = {}
+    for hero_idx in heroes_index:
+        hero_id = hero_idx.get("id")
+        en_name = str(hero_idx.get("en", "")).lower()
+        matched_key = stats_key_map.get(en_name)
+        hero_stats = heroes_stats.get(matched_key, {}) if matched_key else {}
+
+        hero_entry = {
+            "Quick Play": {"All": {}},
+            "Competitive": {rank: {} for rank in competitive_ranks},
+        }
+
+        for mode, ranks in (("Quick Play", ["All"]), ("Competitive", competitive_ranks)):
+            mode_data = hero_stats.get(mode, {})
+            for rank in ranks:
+                rank_data = mode_data.get(rank, {})
+                map_stats = {}
+                for map_id, stat in rank_data.items():
+                    if map_id == "all-maps" or not isinstance(stat, dict):
+                        continue
+                    map_stats[map_id] = {
+                        "win_rate": stat.get("win_rate"),
+                        "pick_rate": stat.get("pick_rate"),
+                    }
+                hero_entry[mode][rank] = map_stats
+
+        result[hero_id] = hero_entry
+
+    return result
+
+
 def build_app_ready_dataset(maps_index, heroes_index, map_recs, counter_idx, perks_idx, master, stats_data, mapping):
     """產生 app_ready_dataset.json"""
     # 建立 hero en name -> map_stats 查找
@@ -588,6 +635,12 @@ def main():
     hero_count = len(app_dataset["heroes"])
     map_count = len(app_dataset["maps"])
     print(f"  ✓ 整合資料集：{hero_count} 位英雄、{map_count} 張地圖")
+
+    # 7. mode_rank_stats.json
+    print("產生 mode_rank_stats.json...")
+    mode_rank_stats = build_mode_rank_stats(heroes_index, stats)
+    save_json(os.path.join(APP_DIR, "mode_rank_stats.json"), mode_rank_stats)
+    print(f"  ✓ 共 {len(mode_rank_stats)} 位英雄的模式/牌位地圖統計")
 
     print("\n[成功] 所有衍生資料檔已產生於 data/app/ 目錄。")
 
