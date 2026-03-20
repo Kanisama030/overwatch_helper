@@ -19,3 +19,6 @@ agent
 /stitch_mockup
 *plan.md
 /.vscode
+
+data/raw
+data/cache
