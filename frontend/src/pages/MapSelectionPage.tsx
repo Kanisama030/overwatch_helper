@@ -136,7 +136,7 @@ export function MapSelectionPage() {
                 ? { backgroundColor: '#f27f0d', color: '#221910' }
                 : { backgroundColor: 'rgba(242,127,13,0.1)', color: '#9ca3af', border: '1px solid rgba(242,127,13,0.2)' }}
             >
-              {mode}
+              {mode === 'All' ? t.maps.allModes : getModeLabel(locale, t, mode)}
             </button>
           ))}
         </div>

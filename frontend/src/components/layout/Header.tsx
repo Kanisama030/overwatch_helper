@@ -1,4 +1,4 @@
-import { Link, useLocation } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { useLocale } from '../../contexts/localeContextStore';
 
 interface HeaderProps {
@@ -9,15 +9,24 @@ interface HeaderProps {
 export function Header({ title, subtitle }: HeaderProps) {
   const { locale, setLocale, t } = useLocale();
   const location = useLocation();
+  const navigate = useNavigate();
+
+  const isRoot = location.pathname === '/';
 
   return (
     <header className="sticky top-0 z-10 backdrop-blur-md border-b px-4 md:px-8 py-4 flex items-center justify-between"
       style={{ borderColor: 'rgba(242,127,13,0.15)', backgroundColor: 'rgba(34,25,16,0.85)' }}>
-      <div className="flex items-center gap-4">
-        {/* Mobile menu icon placeholder */}
-        <div className="md:hidden" style={{ color: '#f27f0d' }}>
-          <span className="material-symbols-outlined text-3xl">menu</span>
-        </div>
+      <div className="flex items-center gap-3 md:gap-4">
+        {!isRoot && (
+          <button
+            onClick={() => navigate(-1)}
+            className="flex items-center gap-1 p-1.5 md:p-2 md:pr-4 pr-3 text-[#f27f0d] bg-[#f27f0d]/10 hover:bg-[#f27f0d]/20 border border-[#f27f0d]/20 rounded-full transition-colors"
+            title={t.common.back}
+          >
+            <span className="material-symbols-outlined text-xl md:text-2xl">arrow_back</span>
+            <span className="text-sm font-bold">{t.common.back}</span>
+          </button>
+        )}
         <div>
           <h2 className="text-lg font-bold text-white">{title}</h2>
           {subtitle && <p className="text-xs" style={{ color: '#9ca3af' }}>{subtitle}</p>}

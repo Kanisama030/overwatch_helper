@@ -3,6 +3,9 @@ export const en = {
     name: 'Overwatch Helper',
     tagline: 'Your tactical companion',
   },
+  common: {
+    back: 'Back',
+  },
   nav: {
     maps: 'Maps',
     heroes: 'Heroes',

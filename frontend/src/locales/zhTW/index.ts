@@ -3,6 +3,9 @@ export const zhTW = {
     name: '鬥陣特攻小幫手',
     tagline: '你的戰術夥伴',
   },
+  common: {
+    back: '上一頁',
+  },
   nav: {
     maps: '地圖',
     heroes: '英雄',
