@@ -3,7 +3,7 @@
  * 負責讀取靜態翻譯檔，並管理 localStorage 快取
  */
 
-const CACHE_SCHEMA_VERSION = 'v5';
+const CACHE_SCHEMA_VERSION = 'v6';
 
 interface TranslationSection {
   title?: string;

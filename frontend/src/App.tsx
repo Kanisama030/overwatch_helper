@@ -10,6 +10,8 @@ import { ErrorScreen } from './components/common/ErrorScreen';
 import { MapSelectionPage } from './pages/MapSelectionPage';
 import { HeroSelectionPage } from './pages/HeroSelectionPage';
 import { HeroDetailPage } from './pages/HeroDetailPage';
+import { HeroesListPage } from './pages/HeroesListPage';
+import { HeroesDetailPage } from './pages/HeroesDetailPage';
 import { useLocation } from 'react-router-dom';
 import { useLocale } from './contexts/localeContextStore';
 
@@ -24,10 +26,12 @@ function AppShell() {
   const pageMeta: Record<string, { title: string; subtitle: string }> = {
     '/': { title: t.maps.title, subtitle: t.steps.step1 },
     '/heroes': { title: t.heroes.title, subtitle: t.steps.step2 },
+    '/heroes-list': { title: t.heroesPage.title, subtitle: t.heroesPage.subtitle },
   };
 
   const isHeroDetail = location.pathname.startsWith('/hero/');
-  const meta = isHeroDetail
+  const isHeroesDetail = location.pathname.startsWith('/heroes-list/');
+  const meta = (isHeroDetail || isHeroesDetail)
     ? { title: t.hero.analysisTitle, subtitle: t.steps.step3 }
     : (pageMeta[location.pathname] ?? { title: t.app.name, subtitle: '' });
 
@@ -40,6 +44,8 @@ function AppShell() {
           <Route path="/" element={<MapSelectionPage />} />
           <Route path="/heroes" element={<HeroSelectionPage />} />
           <Route path="/hero/:heroId" element={<HeroDetailPage />} />
+          <Route path="/heroes-list" element={<HeroesListPage />} />
+          <Route path="/heroes-list/:heroId" element={<HeroesDetailPage />} />
         </Routes>
       </div>
     </div>

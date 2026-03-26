@@ -24,7 +24,7 @@ class TranslationService:
         self.model_name = model_name
         self.glossary_service = glossary_service
         self.cache_service = cache_service
-        self.prompt_version = "v7"
+        self.prompt_version = "v8"
         self.asset_url_mapping = self._load_guide_asset_mapping()
         
         genai.configure(api_key=api_key)
@@ -221,7 +221,11 @@ Content:
   "content": ["翻譯後的段落1", "翻譯後的段落2", ...]
 }}
 
-注意：content 陣列中每個元素對應原文中的一個段落或列表項。若原文是 bullet list，請保留 "* " 開頭格式。
+## 嚴格要求（CRITICAL）
+1. **陣列長度必須一致**：content 陣列中每個元素數量必須完全對應原文陣列。
+2. **純繁體中文輸出**：絕對不要在生成的內容裡附上或混入原始英文內容！只允許輸出翻譯後的繁體中文。
+3. **圖片標記完整保留**：如果原文中有 [[__OWH_IMG_n__]] 標記，請務必原封不動保留在對應的翻譯段落中，不得遺漏或修改。
+4. 原文若為 bullet list，請保留 "* " 開頭格式。
 """
         return prompt
     

@@ -546,7 +546,8 @@ def build_mode_rank_stats(heroes_index, stats_data):
                 rank_data = mode_data.get(rank, {})
                 map_stats = {}
                 for map_id, stat in rank_data.items():
-                    if map_id == "all-maps" or not isinstance(stat, dict):
+                    # 保留 all-maps：前端英雄列表頁 Mode/Rank 選擇器需要此值
+                    if not isinstance(stat, dict):
                         continue
                     map_stats[map_id] = {
                         "win_rate": stat.get("win_rate"),
@@ -577,12 +578,22 @@ def build_app_ready_dataset(maps_index, heroes_index, map_recs, counter_idx, per
         # 取地圖統計
         map_stats = build_map_stats_for_hero(en_name, stats_data)
 
+        # 取完整 guide（供 HeroesDetailPage 按 section 1~8 渲染）
+        master_hero = None
+        for mh in master.get("heroes", []):
+            mh_name = mh.get("Hero") or mh.get("name", "")
+            if mh_name.lower() == en_name.lower():
+                master_hero = mh
+                break
+        full_guide = (master_hero.get("Guide") or master_hero.get("guide") or []) if master_hero else []
+
         hero_entry = {
             **hero_idx,
             "map_recommendations": map_rec,
             "counter_data": counter,
             "perks": perks,
             "map_stats": map_stats,
+            "guide": full_guide,
         }
         heroes_out.append(hero_entry)
 

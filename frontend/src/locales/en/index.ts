@@ -9,6 +9,7 @@ export const en = {
   nav: {
     maps: 'Maps',
     heroes: 'Heroes',
+    heroesPage: 'Heroes',
   },
   steps: {
     step1: 'Step 1: Choose your battleground',
@@ -28,6 +29,10 @@ export const en = {
       Push: 'Push',
       Flashpoint: 'Flashpoint',
     },
+  },
+  heroesPage: {
+    title: 'Heroes',
+    subtitle: 'Browse all heroes with stats and guides',
   },
   heroes: {
     title: 'Hero Guide',
@@ -54,6 +59,9 @@ export const en = {
     recommended: 'Recommended',
     minorPerks: 'Minor Perks',
     majorPerks: 'Major Perks',
+    overview: 'Overview',
+    abilityTips: 'Ability Tips',
+    howToCounter: 'How to Counter',
     subrole: 'Subrole',
     subroles: {
       Bruiser: 'Bruiser',

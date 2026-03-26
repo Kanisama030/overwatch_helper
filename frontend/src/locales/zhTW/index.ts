@@ -9,6 +9,7 @@ export const zhTW = {
   nav: {
     maps: '地圖',
     heroes: '英雄',
+    heroesPage: '英雄',
   },
   steps: {
     step1: '步驟 1：選擇戰場',
@@ -28,6 +29,10 @@ export const zhTW = {
       Push: '推進',
       Flashpoint: '閃擊點',
     },
+  },
+  heroesPage: {
+    title: '英雄',
+    subtitle: '瀏覽所有英雄的數據與攻略',
   },
   heroes: {
     title: '英雄指南',
@@ -54,6 +59,9 @@ export const zhTW = {
     recommended: '推薦',
     minorPerks: '次要特殊能力',
     majorPerks: '主要特殊能力',
+    overview: '概述',
+    abilityTips: '技能提示',
+    howToCounter: '如何反制',
     subrole: '副角色',
     subroles: {
       Bruiser: '戰士',
