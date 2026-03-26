@@ -3,14 +3,15 @@
  * 英雄全資訊詳情頁（按 overwatch_master Guide section 1~8 順序完整呈現）
  * 與 HeroDetailPage 的差異：不看地圖、按指南原始順序 1~8 排列全部 section
  */
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import { useDataset } from '../contexts/dataContextStore';
 import { useLocale } from '../contexts/localeContextStore';
-import { getHeroById, toMarkdown } from '../data/selectors';
+import { getHeroById, normalizeHeroIdentifier, toMarkdown } from '../data/selectors';
 import { TierBadge } from '../components/common/TierBadge';
 import { HeroImage } from '../components/common/HeroImage';
 import { MarkdownContent } from '../components/common/MarkdownContent';
+import { FloatingTOC } from '../components/common/FloatingTOC';
 import { useHeroTranslation } from '../hooks/useHeroTranslation';
 import type { GuideSection } from '../types';
 
@@ -230,7 +231,8 @@ function SummarizedCard({
   if (contentItems.length === 0 && !isTranslating) return null;
 
   return (
-    <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
+    // 錨點 id 供 TOC 跳轉使用
+    <div id={`section-${topSection.id}`} className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
       <div className="flex items-center gap-2 mb-3">
         <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>summarize</span>
         <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>2. {title}</span>
@@ -283,7 +285,8 @@ function ExplainedCard({
   const overview = toMarkdown(topTranslated?.content ?? topSection.content ?? []);
 
   return (
-    <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
+    // 錨點 id 供 TOC 跳轉使用
+    <div id={`section-${topSection.id}`} className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
       <div className="flex items-center gap-2 mb-3">
         <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>insights</span>
         <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>3. {title}</span>
@@ -393,7 +396,8 @@ function PerksCard({
   if (allPerks.length === 0) return null;
 
   return (
-    <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
+    // 錨點 id 供 TOC 跳轉使用
+    <div id={`section-${topSection.id}`} className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
       <div className="flex items-center gap-2 mb-4">
         <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>star</span>
         <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>5. {groupTitle}</span>
@@ -489,7 +493,9 @@ function SectionCard({
   const isTranslating = locale === 'zh-TW' && translationLoading && !translated;
 
   return (
+    // 錨點 id 供 TOC 跳轉使用
     <div
+      id={`section-${topSection.id}`}
       className="rounded-lg overflow-hidden"
       style={{
         backgroundColor: 'rgba(242,127,13,0.05)',
@@ -566,7 +572,14 @@ export function HeroesDetailPage() {
 
   if (!dataset || !heroId) return null;
 
-  const hero = getHeroById(dataset, heroId);
+  const normalizedHeroId = normalizeHeroIdentifier(heroId, dataset);
+  const hero = normalizedHeroId ? getHeroById(dataset, normalizedHeroId) : undefined;
+
+  useEffect(() => {
+    if (normalizedHeroId && normalizedHeroId !== heroId) {
+      navigate(`/heroes-list/${normalizedHeroId}`, { replace: true });
+    }
+  }, [heroId, normalizedHeroId, navigate]);
 
   if (!hero) {
     return (
@@ -589,6 +602,15 @@ export function HeroesDetailPage() {
   // 依頂層 id 分組
   const guide = hero.guide ?? [];
   const sectionGroups = useMemo(() => groupSections(guide), [guide]);
+
+  // 構建 TOC 項目（僅含頂層 section）
+  const tocItems = useMemo(() => {
+    return sectionGroups.map(({ topSection }) => ({
+      id: `section-${topSection.id}`,
+      label: `${topSection.id}. ${getSectionTitle(topSection.id, topSection.title, locale, t)}`,
+      icon: getSectionIcon(topSection.id),
+    }));
+  }, [sectionGroups, locale, t]);
 
   return (
     <div className="flex-1 flex flex-col overflow-y-auto scrollbar-hide min-h-0">
@@ -679,6 +701,9 @@ export function HeroesDetailPage() {
           );
         })}
       </div>
+
+      {/* 浮動目錄導覽 */}
+      <FloatingTOC items={tocItems} />
     </div>
   );
 }

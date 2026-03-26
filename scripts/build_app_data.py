@@ -6,12 +6,23 @@ build_app_data.py
 import json
 import os
 import re
+import unicodedata
 from datetime import datetime
 from urllib.parse import quote
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 APP_DIR = os.path.join(DATA_DIR, "app")
+
+
+def _normalize_text_key(value):
+    text = str(value or "").strip().lower()
+    if not text:
+        return ""
+    return "".join(
+        ch for ch in unicodedata.normalize("NFKD", text)
+        if not unicodedata.combining(ch)
+    )
 
 
 def load_json(path):
@@ -564,6 +575,15 @@ def build_app_ready_dataset(maps_index, heroes_index, map_recs, counter_idx, per
     """產生 app_ready_dataset.json"""
     # 建立 hero en name -> map_stats 查找
     # 利用 master heroes（有 default_stats）對應 stats
+    master_by_id = {}
+    master_by_name = {}
+    for mh in master.get("heroes", []):
+        hero_key = _normalize_text_key(mh.get("Hero") or mh.get("name", ""))
+        if not hero_key:
+            continue
+        master_by_id[hero_key] = mh
+        master_by_name[hero_key] = mh
+
     heroes_out = []
     for hero_idx in heroes_index:
         hero_id = hero_idx["id"]
@@ -579,12 +599,10 @@ def build_app_ready_dataset(maps_index, heroes_index, map_recs, counter_idx, per
         map_stats = build_map_stats_for_hero(en_name, stats_data)
 
         # 取完整 guide（供 HeroesDetailPage 按 section 1~8 渲染）
-        master_hero = None
-        for mh in master.get("heroes", []):
-            mh_name = mh.get("Hero") or mh.get("name", "")
-            if mh_name.lower() == en_name.lower():
-                master_hero = mh
-                break
+        master_hero = (
+            master_by_id.get(_normalize_text_key(hero_id))
+            or master_by_name.get(_normalize_text_key(en_name))
+        )
         full_guide = (master_hero.get("Guide") or master_hero.get("guide") or []) if master_hero else []
 
         hero_entry = {
