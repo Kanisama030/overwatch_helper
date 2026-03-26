@@ -74,6 +74,8 @@ function getSectionTitle(id: string, originalTitle: string | undefined, locale: 
     '4': t.hero.abilityTips,
     '5': t.hero.perks,
     '6': t.nav.maps,
+    '6.1': 'Best Maps',
+    '6.2': 'Worst Maps',
     '7': t.hero.teamCompSynergies,
     '8': t.hero.howToCounter,
     '8.2': '特定英雄反制',
@@ -464,6 +466,124 @@ function PerksCard({
   );
 }
 
+// ── 6. Maps（Best / Worst 子清單） ──
+function MapsCard({
+  group,
+  translatedSections,
+  translationLoading,
+  locale,
+  t
+}: {
+  group: { topSection: GuideSection; children: GuideSection[] };
+  translatedSections: Record<string, { title?: string; description?: string; content: string[] }> | null;
+  translationLoading: boolean;
+  locale: string;
+  t: ReturnType<typeof useLocale>['t'];
+}) {
+  const { topSection, children } = group;
+  const topTranslated = translatedSections?.[topSection.id];
+  const title = getSectionTitle(topSection.id, topTranslated?.title || topSection.title, locale, t);
+  const topMd = toMarkdown(topTranslated?.content ?? topSection.content ?? []);
+  const isTopTranslating = locale === 'zh-TW' && translationLoading && !topTranslated;
+
+  const mapGroups = [
+    { id: '6.1', accent: '#22c55e', icon: 'trending_up' },
+    { id: '6.2', accent: '#ef4444', icon: 'trending_down' },
+  ] as const;
+
+  return (
+    <div id={`section-${topSection.id}`} className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
+      <div className="flex items-center gap-2 mb-3">
+        <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>map</span>
+        <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>6. {title}</span>
+      </div>
+
+      {isTopTranslating ? (
+        <p className="text-sm animate-pulse mb-3" style={{ color: '#9ca3af' }}>翻譯中...</p>
+      ) : topMd ? (
+        <div className="mb-3">
+          <MarkdownContent
+            content={topMd}
+            textClassName={textCls}
+            listItemClassName={listItemCls}
+            imageClassName={imgCls}
+          />
+        </div>
+      ) : null}
+
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {mapGroups.map(({ id, accent, icon }) => {
+          const parent = children.find(c => c.id === id);
+          const parentTrans = parent ? translatedSections?.[parent.id] : undefined;
+          const parentTitle = getSectionTitle(id, parentTrans?.title || parent?.title || '', locale, t);
+          const parentMd = toMarkdown(parentTrans?.content ?? parent?.content ?? []);
+          const isParentTranslating = locale === 'zh-TW' && translationLoading && parent && !parentTrans;
+
+          const itemSections = children.filter(c => c.id.startsWith(`${id}.`) && c.id !== id);
+
+          return (
+            <div
+              key={id}
+              className="rounded p-3"
+              style={{ border: `1px solid ${accent}40`, backgroundColor: `${accent}12` }}
+            >
+              <div className="flex items-center gap-2 mb-2">
+                <span className="material-symbols-outlined text-base" style={{ color: accent }}>{icon}</span>
+                <p className="text-xs font-black uppercase tracking-widest" style={{ color: accent }}>
+                  {parentTitle}
+                </p>
+              </div>
+
+              {isParentTranslating ? (
+                <p className="text-sm animate-pulse mb-2" style={{ color: '#9ca3af' }}>翻譯中...</p>
+              ) : parentMd ? (
+                <MarkdownContent
+                  content={parentMd}
+                  className="mb-2"
+                  textClassName={textCls}
+                  listItemClassName={listItemCls}
+                  imageClassName={imgCls}
+                />
+              ) : null}
+
+              <div className="space-y-2">
+                {itemSections.map((item, idx) => {
+                  const trans = translatedSections?.[item.id];
+                  const itemTitle = getSectionTitle(item.id, trans?.title || item.title, locale, t);
+                  const itemMd = toMarkdown(trans?.content ?? item.content ?? []);
+                  const isTranslating = locale === 'zh-TW' && translationLoading && !trans;
+
+                  return (
+                    <div
+                      key={item.id}
+                      className="rounded p-2.5"
+                      style={{ border: '1px solid rgba(255,255,255,0.1)', backgroundColor: 'rgba(255,255,255,0.03)' }}
+                    >
+                      <p className="text-sm font-bold mb-1.5 text-white">
+                        {idx + 1}. {itemTitle}
+                      </p>
+                      {isTranslating ? (
+                        <p className="text-sm animate-pulse" style={{ color: '#9ca3af' }}>翻譯中...</p>
+                      ) : itemMd ? (
+                        <MarkdownContent
+                          content={itemMd}
+                          textClassName={textCls}
+                          listItemClassName={listItemCls}
+                          imageClassName={imgCls}
+                        />
+                      ) : null}
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
 // ── 頂層 section 卡片 ──
 function SectionCard({
   topSection,
@@ -684,6 +804,9 @@ export function HeroesDetailPage() {
           }
           if (group.topSection.id === '5') {
             return <PerksCard key={group.topSection.id} group={group} translatedSections={translatedSections} translationLoading={translationLoading} locale={locale} t={t} />;
+          }
+          if (group.topSection.id === '6') {
+            return <MapsCard key={group.topSection.id} group={group} translatedSections={translatedSections} translationLoading={translationLoading} locale={locale} t={t} />;
           }
 
           return (
