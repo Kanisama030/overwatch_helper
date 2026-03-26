@@ -6,157 +6,157 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美（Mei）專精於控制空間與操縱環境，讓對手陷入恐懼並凍結。",
-        "![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）是她的核心技能，曾讓無數坦克玩家感到頭痛。對於機動性較差的英雄來說，被冰牆隔開會陷入一種無計可施且無法反制的絕望處境。也別小看她在遠距離的威脅，她的冰錐（Icicle）次要攻擊可以在地圖的另一端兩發擊殺對手。",
-        "通常，小美會與坦克一同推進，這能讓她有最多機會分割敵方隊伍。一旦她的特殊能力（Perks）啟動，請做好準備應對持續不斷的控場效果。"
+        "![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美擅長控制空間與操縱環境，讓對手陷入恐懼並凍結。",
+        "![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）是她技能組的核心，毀掉了無數坦克玩家的遊戲體驗。對於機動性較差的英雄來說，被冰牆隔開會讓人感到無助且毫無反制手段。也別小看她在遠距離的威脅，她的冰錐次要攻擊可以在地圖的另一端兩發擊殺你。",
+        "通常小美會與坦克一同推進，這能讓她有最多機會將敵方隊伍分割。一旦她的特殊能力（Perks）啟動，請做好面對持續性控場效果的準備。"
       ],
       "content_hash": "419c4a0a1aef",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:48.997317Z"
+      "timestamp": "2026-03-26T04:31:03.762480Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 將 ![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）放置在敵方坦克身後，將其與隊友隔開。",
-        "* 當冰牆（Ice Wall）與 ![](/data/assets/guide/d3098a7cd908d5b1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcryo-freeze.png)急凍（Cryo-Freeze）皆處於冷卻狀態時，請待在盟友身邊並遠離敵人。",
-        "* 將冰牆（Ice Wall）當作護盾來保護自己。這對於阻斷敵方視線（LoS）以及確保你與隊友的安全非常有效。"
+        "* 在敵方坦克身後放置 ![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall），將其與隊友隔離。",
+        "* 當冰牆與 ![](/data/assets/guide/d3098a7cd908d5b1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcryo-freeze.png)急凍（Cryo-Freeze）皆處於冷卻狀態時，請待在隊友身邊並遠離敵人。",
+        "* 將冰牆當作護盾來保護自己。這非常適合用來阻斷敵方的視線（LoS），並確保你與隊友的安全。"
       ],
       "content_hash": "757100d0eff9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:51.039272Z"
+      "timestamp": "2026-03-26T04:31:05.545751Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 擊破她的牆！射擊單一柱體即可快速製造缺口，讓受困的隊友通過。",
-        "* 針對她的冷卻時間進行應對。當她擁有 ![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）時，不要隨意走過狹窄通道以免被隔開。等到她使用過後再推進。",
-        "* 保持在她的主要攻擊範圍之外。她的次要攻擊範圍較不穩定，也比較容易應對。"
+        "* 摧毀她的冰牆！射擊單一冰柱可以快速製造缺口，讓受困的隊友通過。",
+        "* 針對她的冷卻時間進行應對。當她擁有 ![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆 時，不要隨意穿過狹窄通道以免被隔開。等待她使用過後再推進。",
+        "* 保持在她主要攻擊範圍之外。她的次要攻擊範圍較不穩定，也比較容易應對。"
       ],
       "content_hash": "e23ac535894c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:52.722560Z"
+      "timestamp": "2026-03-26T04:31:08.328561Z"
     },
     "2": {
-      "title": "優缺點總結",
+      "title": "優勢與劣勢總結",
       "description": "",
       "content": [
         "* 分而治之",
         "* 控制者（Controller）",
         "* 優秀的技能組（Good kit）",
-        "* 極端表現（Feast or famine）",
-        "* 低傷害（Low damage）",
-        "* 無位移能力（Immobile）"
+        "* 大起大落",
+        "* 低傷害",
+        "* 無位移能力"
       ],
       "content_hash": "73aaebbff6d3",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:54.303673Z"
+      "timestamp": "2026-03-26T04:31:10.229919Z"
     },
     "3.1.1": {
       "title": "分而治之",
       "description": "",
       "content": [
-        "選擇小美的主要原因在於 ![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）。將敵人與其隊伍隔開，通常是贏得會戰最快速且最穩定的方式。"
+        "選擇小美的主要原因在於 ![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）。將敵人與其隊伍分割開來，通常是贏得會戰最快且最穩定的方式。"
       ],
       "content_hash": "1c08b5073e42",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:55.835452Z"
+      "timestamp": "2026-03-26T04:31:11.953607Z"
     },
     "3.1.2": {
       "title": "控制空間",
       "description": "",
       "content": [
-        "小美（Mei）的存在感以及冰牆（Ice Wall）帶來的威脅，非常適合用於固守隘口並控制區域。每當敵人想要靠近時，他們都必須先規劃好如何應對她的主要攻擊、冰牆（Ice Wall）以及 ![](/data/assets/guide/7578824db04164d2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblizzard.png)暴雪（Blizzard）。"
+        "小美的存在感以及冰牆（Ice Wall）帶來的威脅，非常適合用於防守隘口與控制區域。每當敵方想要靠近時，他們都必須先規劃好如何從她的小美冷凍槍（Endothermic Blaster）、冰牆（Ice Wall）以及 ![](/data/assets/guide/7578824db04164d2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblizzard.png)暴雪（Blizzard）中存活下來。"
       ],
       "content_hash": "ba9b638c5b69",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:57.329339Z"
+      "timestamp": "2026-03-26T04:31:13.676284Z"
     },
     "3.1.3": {
       "title": "適應性強的技能組",
       "description": "",
       "content": [
-        "她既能擔任前鋒，也能進行遠程消耗，同時還是一位反制側襲者（Anti-dive）的英雄。小美（Mei）的技能組讓她能根據隊伍陣容與地圖選擇，靈活適應團隊的需求。"
+        "她能擔任前線戰士、遠程消耗者，以及反制側襲的英雄。小美的技能組讓她能夠根據隊伍陣容與地圖選擇，靈活適應團隊的需求。"
       ],
       "content_hash": "48f53123c9e1",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:59.084276Z"
+      "timestamp": "2026-03-26T04:31:15.560068Z"
     },
     "3.2.1": {
       "title": "大起大落",
       "description": "",
       "content": [
-        "像是冰牆（Ice Wall）、![](/data/assets/guide/7578824db04164d2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblizzard.png)暴雪（Blizzard）以及 ![](/data/assets/guide/6f0829d84c10e9e2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fendothermic-blaster.png)冷凍槍（Endothermic Blaster）這類技能，不是能發揮巨大的價值，就是毫無作用。一個放置位置不佳的冰牆起不了任何作用，而如果你無法穩定命中次要攻擊，那麼你在戰鬥中就等於毫無貢獻。"
+        "像冰牆（Ice Wall）、![](/data/assets/guide/7578824db04164d2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblizzard.png)暴雪（Blizzard）以及 ![](/data/assets/guide/6f0829d84c10e9e2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fendothermic-blaster.png)冷凍槍（Endothermic Blaster）這類技能，不是發揮巨大價值，就是毫無用處。位置擺放不佳的冰牆起不了任何作用，而如果你無法穩定命中次要攻擊，那麼你在戰鬥中就等於毫無貢獻。"
       ],
       "content_hash": "22a6574545a8",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:01.021669Z"
+      "timestamp": "2026-03-26T04:31:17.550277Z"
     },
     "3.2.2": {
       "title": "低傷害",
       "description": "",
       "content": [
-        "傷害輸出並非小美的強項。這有時會導致絕招充能緩慢，並在絕招經濟學上落後。如果你無法透過冰牆（Ice Wall）取得擊殺，那麼你或許該考慮更換其他英雄，不要繼續使用小美。"
+        "傷害輸出並非她的強項。這有時會導致絕招充能緩慢，並在絕招經濟學上落後。如果你無法透過冰牆（Ice Wall）取得擊殺，那麼你或許該考慮更換小美（Mei）。"
       ],
       "content_hash": "989a58c69b6c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:02.453886Z"
+      "timestamp": "2026-03-26T04:31:19.287991Z"
     },
     "3.2.3": {
-      "title": "無機動性",
+      "title": "缺乏機動性",
       "description": "",
       "content": [
-        "除了利用冰牆（Ice Wall）作為電梯之外，小美完全沒有任何機動性。她雖然能夠保護自己，但無法逃脫、快速變換位置或追擊撤退的敵人。"
+        "除了利用冰牆（Ice Wall）作為電梯之外，小美完全沒有任何機動性。她可以保護自己，但無法逃脫、快速變換位置，也無法追擊撤退的敵人。"
       ],
       "content_hash": "1647d2b0518a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:04.019591Z"
+      "timestamp": "2026-03-26T04:31:20.967933Z"
     },
     "4.1": {
       "title": "主要攻擊：冷凍槍（Endothermic Blaster）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/6f0829d84c10e9e2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fendothermic-blaster.png)冷凍槍（Endothermic Blaster）的使用技巧**",
-        "* 緩速敵方撤退",
-        "* 緩速減益效果會增加敵人脫離戰鬥所需的時間。如果你看到敵人試圖逃跑，請持續以主要攻擊鎖定他們，為你的隊伍爭取更多時間來將其擊殺。",
+        "![](/data/assets/guide/6f0829d84c10e9e2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fendothermic-blaster.png)冷凍槍（Endothermic Blaster）的使用技巧",
+        "* 減緩敵方撤退",
+        "* 緩速減益效果會增加敵人脫離戰鬥所需的時間。如果你看到敵人試圖逃跑，請持續對他們使用主要攻擊，為你的隊伍爭取更多時間來將其擊殺。",
         "* 先緩速再接冰錐",
-        "* 為了提升爆發傷害，一旦你對敵人造成緩速效果，試著用次要攻擊對他們進行爆頭。",
-        "* 被視為光束武器",
-        "* 冷凍槍會無視防禦矩陣（Defense Matrix）、招架（Deflect）、標槍旋轉（Javelin Spin）和動能補捉（Kinetic Grasp）。當你看到敵人使用這些技能時，你可以直接穿透這些防禦對英雄造成傷害。"
+        "* 若要提升爆發傷害，一旦你對敵人造成緩速效果，試著使用次要攻擊對他們進行爆頭。",
+        "* 視為光束武器",
+        "* 冷凍槍會無視防禦矩陣（Defense Matrix）、招架（Deflect）、標槍旋轉（Javelin Spin）以及動能補捉（Kinetic Grasp）。當你看到敵人使用這些技能時，你依然可以直接穿透這些防禦對英雄造成傷害。"
       ],
       "content_hash": "136bf0019fad",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:06.293993Z"
+      "timestamp": "2026-03-26T04:31:23.922502Z"
     },
     "4.2": {
-      "title": "次要攻擊：冰霜衝擊槍（Endothermic Blaster）冰錐",
+      "title": "次要攻擊：冷凍槍冰錐",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/6f0829d84c10e9e2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fendothermic-blaster.png)冰霜衝擊槍（Endothermic Blaster）使用技巧**",
+        "**![](/data/assets/guide/6f0829d84c10e9e2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fendothermic-blaster.png)冷凍槍的技巧**",
         "* 騷擾",
-        "* 小美（Mei）擁有不錯的騷擾能力。只要用冰錐（Icicle）對任何輸出或輔助英雄造成一次暴擊，就能迫使他們躲起來等待治療。",
-        "* 在戰鬥初期，利用次要攻擊來累積絕招能量，並有機會提前擊殺對手。",
+        "* 小美具備不錯的騷擾能力。只要用冰錐對任何輸出或輔助英雄造成一次暴擊，就能迫使他們躲起來等待治療。",
+        "* 在戰鬥初期，利用次要攻擊來累積絕招能量，並有機會在開戰前先擊殺對手。",
         "* 卡位",
-        "* 冰錐（Icicle）較慢的射速使其非常適合進行「探頭射擊」（jiggle peeking）。站在牆角或掩體旁，嘗試只在射擊時露出身體，然後在每次射擊間隙迅速躲回掩體後方。",
+        "* 冰錐的射速較慢，非常適合進行探頭射擊（jiggle peeking）。站在角落或牆邊，嘗試在射擊時才露出身體，並在每次射擊後迅速躲回掩體後方。",
         "* 爆頭被凍結的敵人",
-        "* 每當你使用暴雪（Blizzard）或深層凍結（Deep Freeze）凍住敵人時，務必使用次要攻擊對其進行爆頭。不要持續按住主要攻擊，因為那樣的傷害會低得多。"
+        "* 每當你使用暴雪（Blizzard）或深度凍結（Deep Freeze）凍結敵人時，務必使用次要攻擊對他們進行爆頭。不要持續按住主要攻擊，因為那樣的傷害會低得多。"
       ],
       "content_hash": "6c69bb600908",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:08.719017Z"
+      "timestamp": "2026-03-26T04:31:26.495644Z"
     },
     "4.3": {
       "title": "[SHIFT]：急凍（Cryo-Freeze）",
@@ -164,180 +164,180 @@
       "content": [
         "![](/data/assets/guide/d3098a7cd908d5b1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcryo-freeze.png)急凍（Cryo-Freeze）的使用技巧",
         "* 無敵狀態",
-        "* * 可反制暈眩。在對抗擁有暈眩技能的敵人（例如卡西迪（Cassidy）的閃光彈或安娜（Ana）的睡眠鏢）時，使用急凍（Cryo-Freeze）來抵擋暈眩。這麼做基本上能保證你贏得決鬥。",
-        "* 小美（Mei）在急凍（Cryo-Freeze）期間不會受到任何敵方攻擊傷害，但也無法接受隊友的治療。這對於在無法逃脫的情況下生存非常有用，例如面對席格馬（Sigma）的重力流（Gravitic Flux）時。",
+        "* * 可反制昏迷效果。在對抗擁有昏迷技能的敵人（例如卡西迪的閃光彈或安娜的睡眠鏢）時，使用急凍（Cryo-Freeze）來格擋這些技能。這麼做基本上能確保你贏得決鬥。",
+        "* 小美在急凍（Cryo-Freeze）期間不會受到任何敵方傷害，也無法受到隊友的治療。這對於在無法逃脫的攻擊下存活非常有用，例如席格馬的重力流（Gravitic Flux）。",
         "* 阻斷視線（LoS）",
-        "* * 萊因哈特（Reinhardt）的地裂擊（Earth Shatter）、D.Va的自爆（D.Va bomb）以及卡西迪（Cassidy）的神射手（Deadeye）都是需要視線（LoS）的絕佳大絕招範例。冰塊不僅能保護你自己，還能為躲在你身後的隊友提供掩護。",
-        "* 裝填冰霜衝擊槍（Endothermic Blaster）",
-        "* * 在冰封狀態下，小美（Mei）會緩慢裝填約一半的彈藥。",
+        "* * 萊因哈特的裂地重擊（Earth Shatter）、D.Va 的自爆（D.Va bomb）以及卡西迪的彈無虛發（Deadeye）都是需要視線才能生效的絕招。冰塊不僅能保護你自己，還能為躲在你身後的隊友提供掩護。",
+        "* 裝填冷凍槍（Endothermic Blaster）",
+        "* * 在冰封狀態下，小美會緩慢裝填約一半的彈藥。",
         "* 治療",
-        "* * 持續完整的急凍（Cryo-Freeze）時間將會恢復小美（Mei）的所有生命值。",
+        "* * 持續時間完整的急凍（Cryo-Freeze）可以恢復小美的全部生命值。",
         "* 阻擋門口",
-        "* * 當你的隊伍正在佔領目標，而敵方隊伍正從重生點趕回時，在狹窄的門口使用急凍（Cryo-Freeze）來阻擋他們的去路長達五秒。",
-        "* 他們無法採取任何行動來阻止你，且你可以在急凍（Cryo-Freeze）結束後接續使用冰牆（Ice Wall）來增加安全性並延長拖延時間。"
+        "* * 當你的隊伍正在佔領目標，而敵方隊伍正從重生點趕回時，在狹窄的門口使用急凍（Cryo-Freeze）可以阻擋他們的去路長達五秒。",
+        "* 他們無法採取任何行動來阻止你，且在急凍（Cryo-Freeze）結束後，你可以接著使用冰牆（Ice Wall）來增加安全性並延長拖延時間。"
       ],
       "content_hash": "191713a64975",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:11.853428Z"
+      "timestamp": "2026-03-26T04:31:30.285595Z"
     },
     "4.4": {
-      "title": "[E]：冰牆（Ice Wall）",
+      "title": "[E]：冰牆",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png) 冰牆（Ice Wall）的使用技巧**",
+        "關於 ![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png) 冰牆的技巧",
         "* 阻隔坦克",
-        "* 快速贏得會戰最簡單的方式，就是將冰牆直接放置在坦克身後，將其與隊友隔開。這樣他們將無法獲得治療，且對方的隊友也無法攻擊你們。除非該坦克能跳過冰牆，否則通常難逃一死。",
-        "* 阻擋隘口",
-        "* 無論你是為了拖延目標點並阻止敵方全隊進入，還是想將敵方隊伍一分為二，隘口都是小美（Mei）最好的朋友。",
-        "* 即使只是將一名敵人困在冰牆後，也能讓你的隊伍在人數優勢下取得勝機。",
+        "* 快速贏得會戰最簡單的方法，就是將冰牆直接放置在坦克身後，將其與隊友隔開。他們將無法獲得治療，且敵方隊伍也無法攻擊你們。除非該坦克能跳過冰牆，否則通常難逃一死。",
+        "* 封鎖隘口",
+        "* 無論你是要拖延目標點並阻止敵方全隊進入，還是要將敵方隊伍一分為二，隘口都是小美最好的夥伴。",
+        "* 即使只是將一名敵人困在冰牆後，也能讓你的隊伍在人數優勢下取得勝利。",
         "* 切斷視野（LoS）",
-        "* 冰牆可以阻斷任何需要視野（LoS）的技能。你可以將冰牆放在不死力場（Immortality Field）前方來阻擋其效果。",
-        "* 像是地裂擊（Earth Shatter）和毀滅（Annihilation）這類絕招都可以被冰牆擋下。",
+        "* 冰牆可以中斷任何需要視野（LoS）的技能。你可以將冰牆放在「不死力場（Immortality Field）」前方來阻擋其效果。",
+        "* 像是「地裂擊（Earth Shatter）」和「殲滅（Annihilation）」這類絕招都可以被冰牆阻擋。",
         "* 轉點",
-        "* 如果敵方隊伍在消耗戰中佔有優勢，就用冰牆阻隔他們，為你的隊伍爭取時間穿越空曠區域進行轉點。",
-        "* 將敵人困在 1v1 對決中",
-        "* 小美（Mei）非常擅長近距離 1v1，因為她的主要攻擊很容易命中、能緩速敵人，且她還能自我治療。當有敵人與你身處同一個房間時，用冰牆封住出口將其困住。",
+        "* 如果敵方隊伍在遠程消耗上佔有優勢，就用冰牆阻隔他們，為你的隊伍爭取時間穿越空曠區域進行轉點。",
+        "* 將敵人困在 1 對 1 的對決中",
+        "* 小美在近距離 1 對 1 對決中非常強勢，因為她的主要攻擊容易命中、能緩速敵人，且她還能自我治療。當有敵人與你身處同一個房間時，封住出口將他們困住。",
         "* 拖延目標點",
-        "* 在所有輸出型英雄中，小美（Mei）是最擅長拖延目標點的。躲進角落並對自己施放冰牆，等待隊友歸來。",
-        "* 從急凍（Cryo-Freeze）狀態出來時，視角向下看並施放冰牆。你會被抬升到冰牆上方，接著可以跳下來，與等待攻擊你的敵人拉開距離。",
+        "* 在所有輸出角色中，小美是最擅長拖延目標點的。躲進角落並對自己施放冰牆，等待隊友歸來。",
+        "* 從「急凍（Cryo-Freeze）」狀態出來時，視角向下看並施放冰牆。你會被抬升到冰牆上方，接著可以跳下，與等待攻擊你的敵人拉開距離。",
         "* 冰塊電梯",
         "* 在腳下施放冰牆，你和附近的隊友就會被抬升。這對於讓自己或其他缺乏垂直移動能力的隊友登上高處非常有用。"
       ],
       "content_hash": "b2cb58cf74be",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:15.909579Z"
+      "timestamp": "2026-03-26T04:31:34.406984Z"
     },
     "4.5": {
-      "title": "絕招：暴雪（Blizzard）",
+      "title": "絕招：暴雪",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/7578824db04164d2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblizzard.png)暴雪（Blizzard）的使用技巧**",
-        "* 利用冰牆（Ice Wall）困住敵人",
-        "* * 當敵人試圖逃離你的絕招時，在他們身後放置一道冰牆（Ice Wall）。",
-        "* 暴雪（Blizzard）的凍結效果會穿透你的冰牆（Ice Wall），所以不必擔心會阻擋到你的視野（LoS）。",
-        "* 利用急凍（Cryo-Freeze）生存",
-        "* * 如果你為了施放暴雪（Blizzard）而深入敵陣，你可以使用急凍（Cryo-Freeze）直到敵人被凍結，接著解除狀態並開始使用右鍵攻擊他們的頭部。",
-        "* 主要攻擊會加速凍結效果",
-        "* * 使用主要攻擊射擊敵人，會讓他們更快被暴雪（Blizzard）凍結。",
+        "**![](/data/assets/guide/7578824db04164d2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblizzard.png)暴雪的技巧**",
+        "* 利用冰牆困住敵人",
+        "* * 當敵人試圖逃離你的絕招範圍時，在他們身後放置一道冰牆。",
+        "* 暴雪的凍結效果可以穿透你的冰牆，所以不必擔心會阻擋到你的視野（LoS）。",
+        "* 利用急凍（Cryo-Freeze）存活",
+        "* * 如果你為了施放暴雪而深入敵陣，你可以使用急凍（Cryo-Freeze）直到敵人被凍結，然後解除狀態並開始對著他們的頭部進行右鍵攻擊。",
+        "* 主要攻擊能加速凍結效果",
+        "* * 使用主要攻擊射擊敵人，可以讓他們更快被暴雪凍結。",
         "* 需要視野（LoS）",
-        "* * 牆壁、建築物以及織命（Lifeweaver）的生命之樹（Tree of Life）會阻斷暴雪（Blizzard）的範圍效果（AoE）。",
-        "* 不過，暴雪（Blizzard）可以穿透護盾與屏障。",
+        "* * 牆壁、建築物以及織命的生命之樹（Tree of Life）會阻擋暴雪的範圍效果（AoE）。",
+        "* 然而，暴雪可以穿透護盾與屏障。",
         "* 施放時間",
-        "* * 在一段短暫的啟動動畫後，小美（Mei）會拋出暴雪（Blizzard）無人機，但它必須落地後才會開始運作。",
-        "* 針對 D.Va 和席格馬（Sigma）時，請直接往地面拋擲，或是在他們的吸收技能空檔期間施放。",
+        "* * 在一段短暫的啟動動畫後，小美會拋出暴雪無人機，但它必須落地後才會開始運作。",
+        "* 針對 D.Va 和席格馬時，請直接往地上丟，或是趁他們的吸收技能空檔施放。",
         "* 等待敵人的位移與無敵技能結束",
-        "* * 對抗擁有衝刺技能或具備控場免疫（CC immune）技能（如堅毅（Fortify））的敵人時，請務必等到他們交出這些技能後再使用暴雪（Blizzard）。否則，他們能輕易反制你的絕招，導致你白白浪費掉它。"
+        "* * 面對擁有衝刺技能或具備控場免疫技能（如堅毅（Fortify））的敵人，請等到他們使用過這些技能後再施放暴雪。否則，他們能輕易反制你的絕招，導致你白白浪費掉。"
       ],
       "content_hash": "7b9489e7ec1b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:19.523574Z"
+      "timestamp": "2026-03-26T04:31:38.428002Z"
     },
     "5.1.1": {
-      "title": "溜冰場（Skating Rink）",
-      "description": "位於暴雪樂園（Blizzard World）內的盟友獲得 25% 移動速度加成，並每秒恢復 50 點生命值。",
+      "title": "溜冰場",
+      "description": "位於暴雪樂園（Blizzard）內的盟友獲得 25% 移動速度加成，並每秒恢復 50 點生命值。",
       "content": [
         "* 為你的絕招增加防禦效益。",
-        "* 即使敵方隊伍有一半沒有被凍結且能對你射擊，你也可以利用冰牆阻擋他們，在治療自己與隊友的同時消滅被凍結的敵人。接著，你可以輕鬆清理剩下的敵人。",
-        "* 這對於在持續傷害中存活很有幫助，也能讓你不需要在絕招期間花費太多時間使用 ![](/data/assets/guide/d3098a7cd908d5b1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcryo-freeze.png) 冰封（Cryo-Freeze）。"
+        "* 即使敵方隊伍有一半沒有被凍結且能對你開火，你也可以利用冰牆阻擋他們，在治療自己與隊友的同時消滅被凍結的敵人。接著，你可以輕鬆清理剩下的敵人。",
+        "* 這對於在持續性傷害中存活很有幫助，讓你不需要在絕招期間花太多時間使用 ![](/data/assets/guide/d3098a7cd908d5b1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcryo-freeze.png)冷凍（Cryo-Freeze）。"
       ],
       "content_hash": "c01423acc7d0",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:21.667697Z"
+      "timestamp": "2026-03-26T04:31:40.839649Z"
     },
     "5.1.2": {
-      "title": "冰川推進（Glacial Propulsion）",
-      "description": "二段跳會產生一個小型冰柱，將小美（Mei）發射至空中。",
+      "title": "冰川推進",
+      "description": "二段跳會產生一個小型冰柱，將小美發射到空中。",
       "content": [
-        "* 最好的用途是佔領並爭奪高地。",
-        "* 由於最大高度較低，因此無法在跳下高地時啟動它來獲得額外的推進。",
-        "* 在像國王大道（King's Row）和暴雪樂園（Blizzard World）這種擁有少量高地的地圖上特別好用，因為 ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美（Mei）通常在面對擁有垂直機動性的英雄時較為弱勢。"
+        "* 最好的用途是用來佔領和爭奪高處區域。",
+        "* 最大高度較低，因此你無法從高處跳下並啟動它來獲得額外的推進。",
+        "* 在像國王大道和暴雪樂園這種擁有部分高處的垂直地圖上特別好用，因為 ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美通常在面對擁有垂直機動性的英雄時處於劣勢。"
       ],
       "content_hash": "728f3160688b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:23.635989Z"
+      "timestamp": "2026-03-26T04:31:43.149299Z"
     },
     "5.2.1": {
       "title": "深度凍結（Deep Freeze）",
       "description": "持續以主要攻擊命中敵人會使其短暫凍結。",
       "content": [
-        "* 貼近戰鬥並佔據轉角",
-        "* 能夠凍結敵人的能力意味著你會希望盡可能長時間地保持在主要攻擊的射程內。與你的坦克站在前線，或是尋找你可以側襲（flank）的敵人。",
-        "* 防守時，請待在隘口和任何轉角處。這會強迫敵人進行近距離戰鬥。任何靠近你的敵人都必須面對被凍結的威脅，此外還要應對被冰牆阻隔的風險。",
-        "* 反制機動突擊（Anti-Dive）",
-        "* 凍結任何機動突擊型傷害輸出英雄對他們來說無異於死刑。當敵方隊伍中有讓你感到棘手的機動性英雄時，利用深度凍結（Deep Freeze）來封鎖他們。"
+        "* 近距離作戰並佔據轉角",
+        "* 凍結敵人的能力意味著你需要盡可能待在主要攻擊的射程範圍內。與你的坦克站在前線，或是尋找你可以側襲的敵人。",
+        "* 防守時，待在隘口和任何轉角處。這能強迫敵人進行近距離戰鬥。任何靠近你的敵人都必須面對被凍結的威脅，同時還要應對被冰牆阻隔的風險。",
+        "* 反制突進",
+        "* 凍結任何突進型輸出英雄對他們來說無異於死刑。當敵方隊伍中有機動性高的英雄讓你感到棘手時，利用深度凍結（Deep Freeze）來封鎖他們。"
       ],
       "content_hash": "2b61f23be852",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:26.169438Z"
+      "timestamp": "2026-03-26T04:31:45.920670Z"
     },
     "5.2.2": {
       "title": "冰霜風暴（Cryo-Storm）",
       "description": "急凍（Cryo-Freeze）會緩速附近的敵人，並每秒造成 70 點傷害。",
       "content": [
-        "* 高傷害潛力",
-        "* 冰霜風暴（Cryo-Storm）每秒造成 70 點傷害，總計最高可造成 350 點傷害。",
+        "* 高額傷害潛力",
+        "* 冰霜風暴（Cryo-Storm）每秒造成 70 點傷害，總計最高可達 350 點傷害。",
         "* 嘗試將敵人困在角落，或是夾在冰牆（Ice Wall）與冰霜風暴（Cryo-Storm）之間。",
         "* 封鎖門口",
-        "* 如同急凍（Cryo-Freeze）的提示中所述，封鎖門口對於佔領和拖延目標點非常有效。冰霜風暴（Cryo-Storm）還能額外造成傷害，讓這個戰術變得更加強大！",
-        "* 絕招蓄力",
-        "* 小美（Mei）透過冰霜風暴（Cryo-Storm）造成的額外傷害，在整場遊戲中能累積出大量的額外絕招蓄力。當你的範圍效果（AoE）同時命中多名敵人時，效果尤為顯著。",
+        "* 如同急凍（Cryo-Freeze）的技巧所述，封鎖門口對於佔領和拖延目標點非常有效。冰霜風暴（Cryo-Storm）還能額外造成傷害，讓這項戰術變得更加強大！",
+        "* 絕招充能",
+        "* 小美（Mei）透過冰霜風暴（Cryo-Storm）造成的額外傷害，能在整場遊戲中累積出大量的額外絕招充能。當你的範圍效果（AoE）同時命中多名敵人時，效果尤為顯著。",
         "* 暴雪（Blizzard）連招",
         "* 與你的主要攻擊類似，冰霜風暴（Cryo-Storm）的緩速效果將會加速暴雪（Blizzard）的凍結效果。",
         "* 這項技術非常強勢，因為小美（Mei）處於無敵狀態，且緩速敵人的速度快到讓他們無法透過走位逃脫。"
       ],
       "content_hash": "e4f7dd3eea01",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:28.837918Z"
+      "timestamp": "2026-03-26T04:31:49.141005Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美（Mei）在非護送類型的地圖上通常更容易發揮價值。控制（Control）、閃擊點（Flashpoint）以及衝突戰（Clash）這些固定目標的地圖，自然存在許多適合小美（Mei）使用冰牆（Wall）進行封鎖的咽喉點。",
-        "無論遊戲模式為何，小美（Mei）都偏好空間狹窄的地圖，並會盡一切代價避免進入寬闊的開放區域。冰錐（Icicle）能為她提供不錯的遠程騷擾壓力，但在長距離視線中面對狙擊手時，她處於明顯劣勢。由於缺乏機動性，她在那些有利於側襲者（Flanker）且擁有大量高台的地圖上也顯得相當吃力。"
+        "![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美在非護送類型的地圖上通常更容易發揮價值。控制、閃擊點以及衝突戰這些固定目標的地圖，自然存在著適合小美使用冰牆（Wall）封鎖的咽喉點。",
+        "無論遊戲模式為何，小美都偏好狹窄空間的地圖，並會盡一切可能避免開闊地帶。冰錐（Icicle）能提供不錯的遠程騷擾壓力，但在長視線的對決中，面對神射手時她處於明顯劣勢。由於缺乏機動性，她在那些有利於側襲者且擁有大量高台的地圖上也會感到相當吃力。"
       ],
       "content_hash": "2136aae5cfe8",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:30.626491Z"
+      "timestamp": "2026-03-26T04:31:51.500359Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "能幫助 ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美發揮出色的隊伍陣容中，最關鍵的要素就是強大的前線。由於她的主要攻擊與冰牆射程有限，她需要坦克來穩住前線，這樣她才能安全地與他們一同推進。像 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特、![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎和 ![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)多米娜這類坦克都能很好地勝任這項工作。",
-        "此外，當她使用 ![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）將敵人分割開來時，上述這些坦克都能將敵人撞向牆面，在敵人有機會破壞冰牆前迅速將其擊殺。",
-        "至於隊伍的其他成員，則主要取決於地圖與敵方的陣容。如果對方有飛行單位，她會需要一名神射手作為另一位輸出；如果敵方採取突襲戰術，她則需要能獨自從突襲中脫身的支援角色。"
+        "幫助 ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美發揮出色最關鍵的隊伍陣容要素，就是強大的前線。由於她的主要攻擊和冰牆射程有限，她需要坦克來穩住前線，這樣她才能安全地與他們一同推進。像 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特、![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎和 ![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)多米娜這樣的坦克都能很好地勝任這項工作。",
+        "此外，當她使用 ![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）來分割敵方陣型時，這些坦克都能將敵人撞向冰牆，在敵人有機會破壞冰牆前迅速將其擊殺。",
+        "至於隊伍的其他成員，則主要取決於地圖和敵方的陣容。如果對方有飛行單位，她會希望另一位輸出位是使用即時命中武器的英雄；如果敵方採取突襲戰術，她則會希望輔助位能具備獨自逃脫突襲的能力。"
       ],
       "content_hash": "d50283803fce",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:33.127145Z"
+      "timestamp": "2026-03-26T04:31:54.288774Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美（Mei）贏得比賽的方式是利用![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）將你們的隊伍分割。要反制小美，你需要抵銷她冰牆所帶來的價值。",
-        "首先，如果你是坦克，試著誘騙她交出冰牆。當你知道小美正在等你走過狹窄路口以便用冰牆困住並擊殺你時，試著前後橫向移動。這會打亂她的時機，讓你最終能停留在冰牆安全的一側。接著，你應該在她的冷卻時間重置前積極推進。",
-        "總體而言，試著保持在她的主要攻擊範圍之外。她的次要攻擊範圍較不穩定且較容易應對，但如果你被凍結了，就很難獲勝。"
+        "![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美贏得比賽的方式，是利用![](/data/assets/guide/f6754797bf4c1a57.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fice-wall.png)冰牆（Ice Wall）來分割你們的隊伍。要反制小美，你需要抵銷她冰牆所帶來的價值。",
+        "首先，如果你是坦克，試著誘騙她交出冰牆。當你知道小美正在等你穿過隘口，準備用冰牆將你隔開並擊殺時，試著前後橫向移動。這會打亂她的時機，讓你最終能停留在冰牆安全的一側。接著，你應該在她的冷卻時間結束前積極推進。",
+        "總體而言，盡量保持在她的主要攻擊範圍之外。她的次要攻擊範圍較不穩定且較容易應對，但如果你被凍結了，就很難贏得對決。"
       ],
       "content_hash": "afe76f8c550e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:35.516411Z"
+      "timestamp": "2026-03-26T04:31:56.930751Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:20:47.009196Z"
+    "timestamp": "2026-03-26T05:10:57.995342Z"
   }
 }

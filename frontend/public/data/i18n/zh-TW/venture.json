@@ -6,135 +6,135 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "身為一名考古學家，Sloan Cameron 將他們的挖掘工具帶上了戰場！在遊戲中被稱為 ![](/data/assets/guide/47ceb39c2ed21da9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fventure.png)無畏（Venture），其技能組結合了近戰與遠程騷擾能力。![](/data/assets/guide/f0115172adaad5a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsmart-excavator.png)智慧挖掘機（SMART Excavator）可用於近距離騷擾傷害，在防守狹窄的咽喉點時表現強勢。與此同時，![](/data/assets/guide/1c1049853f308bf0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fburrow.png)掘地（Burrow）與 ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）則最適合做為近距離的側襲工具。",
-        "無畏在對戰中必須承擔許多高風險，但一旦成功，他們將對敵隊的戰術計畫造成極大的破壞。雖然他們的普攻在技術上屬於遠程技能，但無畏總是會試圖將交戰距離保持在他們的近戰範圍內。"
+        "史隆·卡麥隆（Sloan Cameron）本業為考古學家，現在將他們的挖掘工具帶到了戰場上！在遊戲中以 ![](/data/assets/guide/47ceb39c2ed21da9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fventure.png)無畏（Venture）之名為人所知，其技能組結合了近戰與遠程騷擾能力。![](/data/assets/guide/f0115172adaad5a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsmart-excavator.png)智慧挖掘機（SMART Excavator）可用於近距離騷擾傷害，在防守狹窄的咽喉點時表現強勢。與此同時，![](/data/assets/guide/1c1049853f308bf0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fburrow.png)掘地（Burrow）與 ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）作為近距離側襲工具時效果最佳。",
+        "無畏在對戰中必須承擔許多高風險，但一旦成功，他們將對敵隊的戰術規劃造成極大的干擾。雖然他們的武器主要屬於遠程能力，但無畏總是會試圖將交戰距離維持在他們的近戰範圍內。"
       ],
       "content_hash": "968685f0ce22",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:28.990279Z"
+      "timestamp": "2026-03-26T04:30:43.465293Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 使用 ![](/data/assets/guide/1c1049853f308bf0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fburrow.png)掘地（Burrow）和 ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）來拉近至近戰距離，因為 ![](/data/assets/guide/47ceb39c2ed21da9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fventure.png)無畏（Venture）擅長近距離側襲與爆發連招，而非長距離的消耗戰。",
-        "* 透過分散使用技能的時機來管理來自 ![](/data/assets/guide/34808702edc730f3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fexplosive-resolve.png)爆發決心（Explosive Resolve）的臨時護盾，確保你有足夠的時間撤離戰場。",
-        "* ![](/data/assets/guide/4a3281f9d6d86612.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftectonic-shock.png)地殼震波（Tectonic Shock）最適合用來對付缺乏垂直機動性的英雄，因為他們難以逃脫大範圍的地面震波。"
+        "* 使用 ![](/data/assets/guide/1c1049853f308bf0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fburrow.png)掘地（Burrow）和 ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）來拉近至近戰距離，因為 ![](/data/assets/guide/47ceb39c2ed21da9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fventure.png)無畏（Venture）擅長近距離側襲與爆發連招，而非遠距離消耗。",
+        "* 透過分散技能的使用時機來管理 ![](/data/assets/guide/34808702edc730f3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fexplosive-resolve.png)爆發決心（Explosive Resolve）提供的暫時性護盾，確保你有足夠的時間撤離戰場。",
+        "* ![](/data/assets/guide/4a3281f9d6d86612.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftectonic-shock.png)大地衝擊（Tectonic Shock）最適合用來對付缺乏垂直機動性的英雄，因為他們難以逃脫大範圍的地表震波。"
       ],
       "content_hash": "af817f30296f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:31.052796Z"
+      "timestamp": "2026-03-26T04:30:46.242751Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 無畏（Venture）在發動掘地（Burrow）後，直到全身完全沒入地面前仍會受到傷害。別讓他們逃走！",
-        "* 如果你在螢幕上沒看到 ![](/data/assets/guide/47ceb39c2ed21da9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fventure.png)無畏（Venture），請務必提高警覺。他們很可能正在準備進行側襲，請做好反擊的準備。",
-        "* 當他們技能失誤，或是看到他們使用了 ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）和 ![](/data/assets/guide/1c1049853f308bf0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fburrow.png)掘地（Burrow）時，這就是你全力集火他們最脆弱時刻的訊號。"
+        "* 無畏（Venture）在啟動掘進（Burrow）後，直到整個人完全潛入地底前仍會受到傷害。別讓他們逃了！",
+        "* 如果你在螢幕上沒看到 ![](/data/assets/guide/47ceb39c2ed21da9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fventure.png)無畏（Venture），請務必提高警覺。他們很可能正在準備進行側襲，請隨時準備好反制。",
+        "* 當他們技能失手，或是你看到他們使用了 ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）和 ![](/data/assets/guide/1c1049853f308bf0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fburrow.png)掘進（Burrow）時，那就是你集中火力攻擊他們最脆弱時刻的訊號。"
       ],
       "content_hash": "9b09faaa2cb9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:32.853420Z"
+      "timestamp": "2026-03-26T04:30:48.707919Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 極擅長側襲（Flanking）",
-        "* 爆發傷害（Burst damage）",
-        "* 擾亂（Disruption）",
-        "* 必須貼臉進攻",
+        "* 擅長側襲",
+        "* 爆發傷害",
+        "* 干擾能力",
+        "* 必須貼臉作戰",
         "* 容易被反制",
         "* 不成功便成仁"
       ],
       "content_hash": "b4551c0adb1c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:34.319891Z"
+      "timestamp": "2026-03-26T04:30:49.649097Z"
     },
     "3.1.1": {
       "title": "深度側襲",
       "description": "",
       "content": [
-        "由探險家決心（Explorer’s Resolve）所產生的護盾，讓無畏（Venture）具備足夠的坦度，能夠獨自承受集火傷害。根據情況，掘地鑽頭（Burrow）與鑽頭衝刺（Drill Dash）可以靈活互換作為進場或退場的技能。無畏（Venture）可以利用這些技能將自己定位在敵方後排。一旦技能冷卻完畢，他們便能發動暗殺。在側襲敵方後排後，無畏（Venture）可以利用鑽頭衝刺（Drill Dash）翻越牆壁逃脫，或是使用掘地鑽頭（Burrow）的無敵效果安全撤離。"
+        "由「探險家決心（Explorer’s Resolve）」所產生的護盾，讓無畏（Venture）具備足夠的坦度，能獨自承受集火傷害。視情況而定，「挖掘（Burrow）」與「鑽頭衝刺（Drill Dash）」在進場與退場能力上是可以互換的。無畏（Venture）可以利用這些能力將自己定位在敵方後排。一旦冷卻時間結束，他們便能發動刺殺。在側襲敵方後排後，無畏（Venture）可以利用「鑽頭衝刺（Drill Dash）」翻越牆壁逃脫，或是利用「挖掘（Burrow）」的無敵狀態安全撤離。"
       ],
       "content_hash": "ff674cfd0246",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:35.829283Z"
+      "timestamp": "2026-03-26T04:30:51.950121Z"
     },
     "3.1.2": {
       "title": "爆發傷害",
       "description": "",
       "content": [
-        "主要攻擊（Primary fire）、挖掘（Burrow）以及地殼震動（Tectonic Shock）都能為玩家提供極佳的爆發傷害。自從第 10 賽季進行護甲重製後，爆發傷害對 Overwatch 英雄來說變得更加重要。此外，無畏（Venture）的許多技能都可以互相取消，這讓他們能夠打出更快、更高的爆發傷害。（請參閱「提示與技巧」章節下的連招說明）"
+        "主要攻擊、掘地（Burrow）和大地衝擊（Tectonic Shock）都能為玩家提供極佳的爆發傷害。自從第 10 季裝甲重製以來，爆發傷害對《鬥陣特攻》英雄來說變得更加重要。此外，無畏（Venture）的許多技能都可以互相取消，使其能夠造成更快、更巨大的爆發傷害。（請參閱「提示與技巧」章節下的連招說明）"
       ],
       "content_hash": "538f68512fc4",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:37.416314Z"
+      "timestamp": "2026-03-26T04:30:54.217841Z"
     },
     "3.1.3": {
       "title": "干擾",
       "description": "",
       "content": [
-        "與許多其他英雄不同，無畏（Venture）不需要取得擊殺也能為隊伍帶來價值。當敵方後排被「鑽地（Burrow）」後的「鑽頭衝刺（Drill Dash）」擊飛至空中時，他們必須在無畏（Venture）現身前的額外 4 秒內時刻保持警戒。為了阻止無畏（Venture）的暗殺行動而投入的時間、專注力與技能本身就極具價值。此外，來自「鑽頭衝刺（Drill Dash）」的控場效果也能干擾敵方的位移技能，並拯救無畏（Venture）的隊友免於被擊殺。"
+        "與許多其他英雄不同，無畏（Venture）不需要取得擊殺也能為隊伍帶來價值。當敵方後排被「掘地（Burrow）」後的「鑽頭衝刺（Drill Dash）」擊飛至空中時，他們必須在無畏（Venture）現身前的額外 4 秒內隨時提防。這些為了阻止無畏（Venture）暗殺而投入的時間、專注力與技能本身就極具價值。此外，來自「鑽頭衝刺（Drill Dash）」的控場效果也能干擾敵方的位移技能，並拯救無畏（Venture）的隊友免於被擊殺。"
       ],
       "content_hash": "ccbf99e7d2b9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:39.256840Z"
+      "timestamp": "2026-03-26T04:30:56.765575Z"
     },
     "3.2.1": {
       "title": "僅在極近距離下有用",
       "description": "",
       "content": [
-        "無畏（Venture）的主要攻擊是一種移動緩慢的投射物，在 16 公尺的最大射程下很難直接命中目標。他們的其他三項技能必須在近戰範圍內才能造成傷害。當面對擁有大量遠程消耗傷害的敵方陣容時，無畏（Venture）很難靠近到足以造成傷害的距離，在成功接近之前，無法為隊伍帶來任何價值。"
+        "無畏（Venture）的主要攻擊是一種移動緩慢的投射物，在 16 公尺的最大射程內很難直接命中目標。他們的其他三項能力必須在近戰範圍內才能造成傷害。當面對擁有大量遠程消耗傷害的敵方陣容時，無畏（Venture）很難靠近到足以造成傷害的距離，在成功接近之前，無法為隊伍帶來任何價值。"
       ],
       "content_hash": "76c4ca928aad",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:41.233990Z"
+      "timestamp": "2026-03-26T04:30:58.090300Z"
     },
     "3.2.2": {
       "title": "容易被反制",
       "description": "",
       "content": [
-        "雖然無畏（Venture）可以成為非常優秀的側襲者（Flanker），但他們也非常容易受到強力的反制。掘地（Burrow）的施放動畫很長，在完全潛入地底之前並不會獲得無敵狀態。像是睡眠鏢（Sleep Dart）和磁性手榴彈（Magnetic Grenade）這類控場（CC）技能，基本上會讓掘地（Burrow）無法作為逃生技能使用。"
+        "雖然無畏（Venture）可以成為非常優秀的側襲者（Flanker），但他們也非常容易受到嚴重的反制。挖掘（Burrow）的施放動畫較長，在完全潛入地底之前並不會獲得無敵狀態。像是睡眠鏢（Sleep Dart）和磁性手榴彈（Magnetic Grenade）這類控場（CC）技能，基本上會讓挖掘（Burrow）無法作為逃生技能使用。"
       ],
       "content_hash": "19beb9b0aef9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:42.967080Z"
+      "timestamp": "2026-03-26T04:31:00.065976Z"
     },
     "3.2.3": {
       "title": "孤注一擲",
       "description": "",
       "content": [
-        "由於無畏（Venture）最強大的傷害技能同時也是他們的逃生技能，無畏往往必須深入敵陣並用盡所有資源來確保擊殺，這使他們在面對反擊時顯得極度脆弱。若無畏在沒有挖掘（Burrow）或鑽頭衝刺（Drill Dash）的情況下被抓到，就會像活靶子一樣，一旦遭到敵方隊伍集火，將完全沒有反制手段。"
+        "由於無畏（Venture）最強大的傷害技能同時也是他們的逃生技能，無畏往往必須深入敵陣並耗盡所有資源來確保擊殺，這使他們在面對反擊時顯得極度脆弱。一旦無畏在沒有「掘地鑽頭（Burrow）」或「鑽頭衝刺（Drill Dash）」的情況下被抓到，就會成為任人宰割的目標，若遭到敵方隊伍集火，將完全沒有反制手段。"
       ],
       "content_hash": "cb8374f36776",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:44.846123Z"
+      "timestamp": "2026-03-26T04:31:02.253791Z"
     },
     "4.1": {
-      "title": "[主要攻擊]：智慧挖掘機（Smart Excavator）",
+      "title": "[主要攻擊]：智慧挖掘機",
       "description": "",
       "content": [
-        "關於 ![](/data/assets/guide/f0115172adaad5a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsmart-excavator.png) 智慧挖掘機（Smart Excavator）的技巧：",
+        "關於 ![](/data/assets/guide/f0115172adaad5a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsmart-excavator.png) 智慧挖掘機的技巧",
         "* 利用其範圍傷害（AoE damage）來對聚集的敵人累積絕招能量。",
-        "* 採取些微的側翼角度（off-angle）可以讓無畏（Venture）在與隊伍保持聯繫的同時，也能確保自己處於主要攻擊（Primary Fire）的射程範圍內。",
-        "* 在防守咽喉點（choke point）時，這是一個相當不錯的騷擾技能。"
+        "* 採取稍微偏離的角度，讓無畏（Venture）既能與隊伍保持聯繫，又能將自己維持在主要攻擊的射程內。",
+        "* 在防守隘口時，這是一個相當不錯的牽制技能。"
       ],
       "content_hash": "ef69b57d3059",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:46.677623Z"
+      "timestamp": "2026-03-26T04:31:04.225066Z"
     },
     "4.2": {
       "title": "[次要攻擊]：鑽頭衝刺（Drill Dash）",
@@ -142,246 +142,246 @@
       "content": [
         "關於 ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）的技巧",
         "* 在移動與造成傷害方面同樣出色。",
-        "* 進行側襲（Flanker）時，通常應保留鑽頭衝刺（Drill Dash）以確保能安全撤退。",
-        "* 利用 ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）將敵人擊飛，防止他們逃脫。如果你能繞到敵人後方並將他們推向你的隊友，這招會變得特別致命。"
+        "* 進行側襲時，通常應保留鑽頭衝刺（Drill Dash）以確保能安全撤退。",
+        "* 利用 ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）擊飛敵人，防止他們逃脫。如果你能繞到敵人後方並將他們推向你的隊友，這招會特別致命。"
       ],
       "content_hash": "5cd389675727",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:48.471777Z"
+      "timestamp": "2026-03-26T04:31:06.723567Z"
     },
     "4.3": {
-      "title": "[SHIFT]：鑽地（Burrow）",
+      "title": "[SHIFT]：掘地（Burrow）",
       "description": "",
       "content": [
-        "關於 ![](/data/assets/guide/1c1049853f308bf0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fburrow.png)鑽地（Burrow）的提示：",
-        "* 除非你確定敵人的強力控場技能（例如：睡眠鏢（Sleep Dart）、閃光彈（Flashbang））處於冷卻狀態，否則絕對不要在他們附近使用鑽地（Burrow）。",
-        "* 盡可能在發起交戰時使用鑽地（Burrow）。",
-        "* 站在多名敵人之間以最大化範圍傷害（AoE damage）輸出。",
-        "* 如果完整使用 4 秒的鑽地（Burrow）時間，在完全潛入後立即使用鑽頭衝刺（Drill Dash），鑽出地面時該技能的冷卻時間將會完全重置。",
-        "* 無畏（Venture）在啟動鑽地（Burrow）後，直到全身完全沒入地面前仍會受到傷害，因此與莫伊拉（Moira）的消散（Fade）或死神（Reaper）的幽影傳送（Wraith Form）相比，它並非可靠的快速逃生工具。"
+        "![](/data/assets/guide/1c1049853f308bf0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fburrow.png)掘地（Burrow）的使用技巧",
+        "* 除非你確定敵人的強力控場技能（例如安娜的睡眠鏢（Sleep Dart）或卡西迪的閃光彈（Flashbang））處於冷卻狀態，否則絕對不要在他們附近使用掘地（Burrow）。",
+        "* 盡可能在開戰時使用掘地（Burrow）。",
+        "* 站位在多名敵人之間以最大化範圍傷害輸出。",
+        "* 如果掘地（Burrow）的 4 秒持續時間全部用完，在完全潛入後立即使用鑽頭衝刺（Drill Dash），將會在浮出地面時重置該技能的冷卻時間。",
+        "* 無畏在啟動掘地（Burrow）後，直到身體完全沒入地面前仍會受到傷害，因此與莫伊拉的消散（Fade）或死神的幽影型態（Wraith Form）相比，它並不是一個可靠的快速逃生工具。"
       ],
       "content_hash": "740da4fba6e9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:50.522060Z"
+      "timestamp": "2026-03-26T04:31:09.476934Z"
     },
     "4.4": {
-      "title": "[近戰] 猛擊（Clobber）",
+      "title": "[近戰] 痛擊（Clobber）",
       "description": "",
       "content": [
-        "關於 ![](/data/assets/guide/6bfb3e5a31c9072e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fclobber.png)猛擊（Clobber）的提示：",
-        "* 可以從主要攻擊（Primary Fire）取消並銜接至猛擊（Clobber）。",
-        "* 在鑽頭動畫期間的任何時刻，皆可取消並銜接至鑽頭衝刺（Drill Dash）或鑽地（Burrow）。",
-        "* 完整的 70 點傷害可以穿透護盾，例如萊因哈特（Reinhardt）的屏障力場（Barrier Field）。"
+        "關於 ![](/data/assets/guide/6bfb3e5a31c9072e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fclobber.png)痛擊（Clobber）的提示：",
+        "* 可以從主要攻擊取消並施放痛擊（Clobber）。",
+        "* 在鑽頭動畫期間的任何時刻，皆可取消並施放鑽頭衝刺（Drill Dash）或掘地（Burrow）。",
+        "* 完整的 70 點傷害可以穿透護盾，例如萊因哈特的屏障力場（Barrier Field）。"
       ],
       "content_hash": "55169986d2ec",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:52.263143Z"
+      "timestamp": "2026-03-26T04:31:11.197534Z"
     },
     "4.5": {
-      "title": "[絕招]：地殼震盪（Tectonic Shock）",
+      "title": "[絕招]：大地震波（Tectonic Shock）",
       "description": "",
       "content": [
-        "* 會被屏障阻擋，因此首要原則是追蹤敵方屏障的使用時機，或是確認其剩餘的屏障生命值。",
+        "* 會被屏障阻擋，因此第一守則是追蹤敵方屏障的使用時機，或是確認其屏障生命值剩餘多少。",
         "* 在側襲時出其不意地使用效果最佳。",
         "* 目標應鎖定脆皮英雄，並避開坦克。",
-        "* 75 點護盾生命值會持續整個絕招期間，並在結束後額外維持 3 秒才開始衰退，這讓無畏（Venture）在施放絕招時擁有 325 點的有效生命值。",
+        "* 75 點護盾生命值會持續整個絕招期間，並在絕招結束後額外維持 3 秒才開始衰減，這讓無畏（Venture）在施放絕招時擁有 325 點的有效生命值。",
         "* * 額外生命值可以透過輔助英雄進行重複治療。"
       ],
       "content_hash": "ff5e3bec68ff",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:54.318688Z"
+      "timestamp": "2026-03-26T04:31:13.566060Z"
     },
     "4.6": {
       "title": "「秒殺」連招",
       "description": "",
       "content": [
-        "(所有連招皆假設主要攻擊（Primary Fire）直接命中。)",
-        "* ![](/data/assets/guide/f0115172adaad5a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsmart-excavator.png)智慧挖掘機（SMART Excavator）→ 近戰攻擊 → ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）",
+        "(皆假設主要攻擊（Primary Fire）直接命中。)",
+        "* ![](/data/assets/guide/f0115172adaad5a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsmart-excavator.png)智慧挖掘機（SMART Excavator） → 近戰攻擊 → ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）",
         "爆發傷害最快。能造成近乎瞬間的 195 點傷害。",
-        "* ![](/data/assets/guide/f0115172adaad5a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsmart-excavator.png)智慧挖掘機（SMART Excavator）→ ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash）→ ![](/data/assets/guide/f0115172adaad5a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsmart-excavator.png)智慧挖掘機（SMART Excavator）→ 近戰攻擊",
+        "* ![](/data/assets/guide/f0115172adaad5a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsmart-excavator.png)智慧挖掘機（SMART Excavator） → ![](/data/assets/guide/f83edd45b5d018be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdrill-dash.png)鑽頭衝刺（Drill Dash） → ![](/data/assets/guide/f0115172adaad5a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsmart-excavator.png)智慧挖掘機（SMART Excavator） → 近戰攻擊",
         "* 最穩定的連招。",
-        "* Eliminates all non-Tank heroes except ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion and ![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)Torbjörn.",
-        "* 遁地（Burrow）（最大傷害）→ 主要攻擊（Primary Fire）→ 主要攻擊（Primary Fire）（使用鑽頭衝刺（Drill Dash）脫離）",
+        "* 可擊殺除了 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵（Bastion） 和 ![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)托比昂（Torbjörn） 以外的所有非戰士（Bruiser）英雄。",
+        "* 遁地（Burrow）（最大傷害） → 主要攻擊（Primary Fire） → 主要攻擊（Primary Fire）（使用鑽頭衝刺（Drill Dash）脫離）",
         "* 可擊殺生命值 250 點及以下的英雄。"
       ],
       "content_hash": "525518ae949e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:56.757692Z"
+      "timestamp": "2026-03-26T04:31:16.319702Z"
     },
     "5.1.1": {
       "title": "深層挖掘（Deep Burrow）",
-      "description": "挖掘（Burrowing）期間，鑽頭衝刺（Drill Dash）的距離增加 50%。",
+      "description": "鑽頭衝刺（Drill Dash）在挖掘期間的距離增加 50%。",
       "content": [
-        "* 非常適合側襲（Flanks）並提升整體機動性。",
-        "* 能夠更有效率地進行交戰與脫離戰場。"
+        "* 適合側襲以及提升整體機動性。",
+        "* 能夠更有效率地進行進場與撤場。"
       ],
       "content_hash": "9f8709ae536f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:58.151672Z"
+      "timestamp": "2026-03-26T04:31:17.934122Z"
     },
     "5.1.2": {
       "title": "挖掘快感",
-      "description": "當大地震波（Tectonic Shock）啟動時，冷卻時間恢復速度提升 300%。",
+      "description": "當「大地衝擊（Tectonic Shock）」啟動時，冷卻時間恢復速度提升 300%。",
       "content": [
-        "* 你可以傾瀉所有技能來切入並削弱敵人，接著施放絕招，並迅速重置所有技能冷卻。",
-        "* 最棒的部分在於，你可以鑽地進入絕招狀態，然後再次鑽地以脫離戰場。"
+        "* 你可以傾瀉所有技能來切入並削弱敵人，施放絕招，然後迅速讓所有技能冷卻完畢。",
+        "* 最棒的部分在於，你可以鑽入地面施放絕招，接著再次鑽地以脫離戰場。"
       ],
       "content_hash": "4f24056a7ed1",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:59.716302Z"
+      "timestamp": "2026-03-26T04:31:19.653201Z"
     },
     "5.2.1": {
       "title": "智慧延伸（Smart Extender）",
-      "description": "使用 E 強化智慧挖掘機（SMART Excavator），使其最大投射物射程增加 100%，持續 4 秒。",
+      "description": "使用 E 強化智慧挖掘機（SMART Excavator），使其投射物的最大射程在 4 秒內增加 100%。",
       "content": [
-        "* 對於提升自身的遠程消耗能力非常有幫助。",
-        "* 最好的使用時機是在戰鬥中，用來擊殺那些逃出你攻擊範圍的目標。",
-        "* 雖然持續時間短暫，但能擁有更好的遠程傷害手段總是不錯的。"
+        "* 非常適合用來提升你的遠程消耗能力。",
+        "* 最好的用法是在戰鬥中，針對那些逃出你攻擊範圍的目標進行最後一擊。",
+        "* 雖然持續時間短暫，但能擁有一個提升遠程傷害的選擇還是很不錯的。"
       ],
       "content_hash": "0ec6a09cda25",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:01.484316Z"
+      "timestamp": "2026-03-26T04:31:21.630249Z"
     },
     "5.2.2": {
-      "title": "滿身塵土（Covered in Dirt）",
+      "title": "滿身塵土",
       "description": "使用重擊（Clobber）造成傷害可獲得最多 30 點探險家決心（Explorer's Resolve）護盾。",
       "content": [
-        "* 最適合無畏（Venture）主要的側襲者（Flanker）與近距離戰鬥風格。讓他們在戰鬥中更為硬朗。"
+        "* 最適合無畏（Venture）主要的側襲者（Flanker）與近距離戰鬥風格。讓他們在戰鬥中更具備生存能力。"
       ],
       "content_hash": "dc73116e848a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:03.006912Z"
+      "timestamp": "2026-03-26T04:31:23.261103Z"
     },
     "6.1.1": {
       "title": "伊利歐斯：深井",
       "description": "",
       "content": [
-        "* 伊利歐斯：深井（Ilios Well）為無畏（Venture）提供了大量的牆面與高地，方便其安全撤離。雖然無畏在深井周圍的開闊區域表現不佳，但地圖兩側非常適合規劃側襲者（Flanker）路線。據點兩側也都有無畏可以利用掘地（Burrow）或鑽頭衝刺（Drill Dash）翻越的牆壁。"
+        "* 伊利歐斯：深井為無畏提供了充足的牆壁與高地，方便其安全撤離。雖然無畏在深井周圍的開放區域表現不佳，但地圖兩側非常適合規劃側襲路線。據點兩側皆有牆壁，無畏可以利用掘進（Burrow）或鑽頭衝刺（Drill Dash）翻越。"
       ],
       "content_hash": "1327f85b9eca",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:04.558558Z"
+      "timestamp": "2026-03-26T04:31:25.163251Z"
     },
     "6.1.2": {
-      "title": "綠洲城市中心",
+      "title": "綠洲城中心",
       "description": "",
       "content": [
-        "* 綠洲城市中心的目標點擁有天然掩體，即使無畏（Venture）的兩項技能都在冷卻中，依然能利用這些掩體進行繞行。此外，側邊路線皆設有生命包，並提供安全的區域供玩家發起交戰或撤退。"
+        "* 綠洲城中心的地圖目標點擁有天然掩體，即使無畏的兩項能力都在冷卻中，依然能繞行該區域。此外，側邊路線皆設有生命包，並提供安全區域供玩家發起交戰或撤退。"
       ],
       "content_hash": "3280509b8e56",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:06.262156Z"
+      "timestamp": "2026-03-26T04:31:27.254745Z"
     },
     "6.1.3": {
       "title": "好萊塢",
       "description": "",
       "content": [
-        "* 無畏（Venture）必須在好萊塢（Hollywood）創造側襲路線才能發揮成效，並根據敵方隊伍的站位進行調整。在這張地圖上，後排英雄通常會部署在遠離前線的位置。這樣的空間為無畏（Venture）提供了絕佳機會，讓其能獨自執行任務，去干擾或擊殺那些與隊伍脫節的敵方後排。"
+        "* 無畏（Venture）必須在好萊塢（Hollywood）創造側襲路線才能發揮效用，並根據敵隊的站位進行調整。在這張地圖上，後排英雄通常會部署在遠離前線的後方。這樣的空間為無畏（Venture）提供了絕佳機會，讓其能展開單獨行動，藉此干擾或擊殺落單的敵方後排。"
       ],
       "content_hash": "c9156986ae35",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:07.811355Z"
+      "timestamp": "2026-03-26T04:31:29.813531Z"
     },
     "6.2.1": {
       "title": "哈瓦那",
       "description": "",
       "content": [
-        "* 對於所有近距離英雄來說，哈瓦那往往是最糟糕的地圖之一。這張地圖不僅區域極其寬闊且開放，大多數區域也缺乏適合無畏（Venture）使用的掩體。"
+        "* 哈瓦那往往是所有近距離英雄表現最差的地圖之一。這張地圖不僅區域極其寬闊且開放，大多數區域也缺乏適合無畏使用的掩體。"
       ],
       "content_hash": "90a6e73dd97b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:09.290627Z"
+      "timestamp": "2026-03-26T04:31:31.916090Z"
     },
     "6.2.2": {
       "title": "垃圾鎮",
       "description": "",
       "content": [
-        "* 在垃圾鎮（Junkertown）中，消耗型（Poke）站位與高地優勢極為強大。無畏（Venture）在進行佈局以及尋找路徑以進入其最佳攻擊範圍時會感到相當吃力。"
+        "* 在垃圾鎮中，消耗戰位置與高台優勢極為強大。無畏（Venture）在試圖進行佈局或尋找路徑以進入其最佳攻擊範圍時會感到相當吃力。"
       ],
       "content_hash": "7f8132d697d1",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:10.809944Z"
+      "timestamp": "2026-03-26T04:31:33.433357Z"
     },
     "6.2.3": {
       "title": "新皇后街",
       "description": "",
       "content": [
-        "* 在新皇后街的機器人起始區域，無畏（Venture）的表現尚可，因為他們可以利用高處的隧道以及大型生命包所在的房間。然而，地圖兩側的最終點對無畏（Venture）來說過於空曠。他們會變得非常依賴隊友提供的資源，才能存活並發揮作用。"
+        "* 在新皇后街上，機器人的初始起始區域對於無畏（Venture）來說是可以發揮的，因為他們可以利用高處的隧道以及大型生命包房間。地圖兩側的最終點對無畏（Venture）來說實在太過空曠。他們會變得非常依賴隊友提供的資源，才能存活並發揮作用。"
       ],
       "content_hash": "d029ebd28ed2",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:12.390633Z"
+      "timestamp": "2026-03-26T04:31:35.650833Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "無畏（Venture）最適合在能發揮其近距離傷害的鬥陣（Brawl）陣容中運作。",
-        "**以無畏（Venture）為核心的理想隊伍陣容：**",
-        "![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加（Mauga）、![](/data/assets/guide/47ceb39c2ed21da9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fventure.png)無畏（Venture）、![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪（Cassidy）、![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）、![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命（Lifeweaver）"
+        "無畏（Venture）在能發揮其近距離傷害的戰鬥（Brawl）陣容中表現最為出色。",
+        "以無畏（Venture）為核心的理想隊伍陣容：\n* [[__OWH_IMG_1__]]莫加、[[__OWH_IMG_2__]]無畏、[[__OWH_IMG_3__]]卡西迪、[[__OWH_IMG_4__]]霧子、[[__OWH_IMG_5__]]織命",
+        "![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)Mauga, ![](/data/assets/guide/47ceb39c2ed21da9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fventure.png)Venture, ![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)Cassidy, ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)Kiriko, ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)Lifeweaver"
       ],
       "content_hash": "fef687bde605",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:13.971814Z"
+      "timestamp": "2026-03-26T04:31:37.844260Z"
     },
     "7.1": {
-      "title": "與其他英雄的個人協同效應",
+      "title": "與其他英雄的個人搭配組合",
       "description": "",
       "content": [
-        "![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加",
-        "* 莫加與無畏之間的協同效應完全圍繞著心臟過載（Cardiac Overdrive）的使用。將心臟過載的傷害減免與生命竊取，結合無畏產生的護盾生命值，能創造出致命的組合。在莫加賦予的 5 秒增益期間，無畏幾乎變得無法被擊殺。此外，莫加可以將衝鋒（Overrun）與重擊配合無畏的進場，而絕境鬥技場（Cage Fight）則讓被困住的敵人無法逃避地殼震擊（Tectonic Shock）。",
-        "![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)駭影",
-        "* 駭影是跟隨無畏側襲最容易的英雄，且駭入（Hack）可以防止敵人對無畏使用控場技能。敵方隊伍為了在駭影與無畏的突襲下存活所消耗的資源，也為你的隊伍其他成員提供了巨大的進攻機會。",
-        "![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命",
-        "* 無畏在嘗試確認擊殺的同時，往往難以保留安全撤離的資源。生命之握（Life Grip）允許無畏將所有冷卻技能傾瀉在敵人身上，隨後被拉回安全地帶。敵方隊伍通常很難阻止這種組合，且這套連招基本上可以在無畏每兩次進場時循環使用。"
+        "![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加\n* 莫加與無畏之間的搭配完全圍繞在「心臟過載（Cardiac Overdrive）」的使用上。將「心臟過載」的傷害減免與生命竊取效果，與無畏產生的護盾生命值結合，能形成致命的組合。在莫加提供的 5 秒增益期間，無畏幾乎處於無敵狀態。此外，莫加可以將「衝鋒（Overrun）」與重擊配合無畏的進場時機，而「鐵籠戰（Cage Fight）」則讓被困住的敵人無法逃脫「大地衝擊（Tectonic Shock）」。",
+        "[[__OWH_IMG_1__]]駭影\n* 駭影是最容易跟隨無畏進行側襲的英雄，且「駭入（Hack）」可以防止敵人對無畏使用控場技能。敵方隊伍為了在駭影與無畏的突襲下存活所消耗的資源，也為你的隊伍其他成員提供了巨大的進攻機會。",
+        "![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)織命\n* 無畏有時會面臨難以完成擊殺，同時又缺乏資源安全撤離的困境。「生命之握（Life Grip）」讓無畏能將所有冷卻技能傾瀉在敵人身上，隨後被拉回安全地帶。這種組合對敵方隊伍來說極難防範，且通常在無畏每兩次進場時就能循環使用一次。",
+        "* Sombra is the easiest hero to follow Venture’s flanks with and Hack can prevent enemies from using CC on Venture. The amount of resources it takes from a team just to survive a Sombra/Venture dive also gives the rest of your team a huge window of opportunity to go aggressive.",
+        "![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)Lifeweaver",
+        "* Venture can struggle to both confirm an elim and still have the resources to safely escape. Life Grip allows Venture to dump all of their cooldowns into the enemy and be pulled to safety. This combo can be extremely difficult for enemy teams to stop and can typically be cycled every other time Venture engages."
       ],
       "content_hash": "2924fe9e2225",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:16.770491Z"
+      "timestamp": "2026-03-26T04:31:39.767958Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "很遺憾對無畏（Venture）來說，他們其實是《鬥陣特攻》中最容易被反制的英雄之一。掘地（Burrow）的施法時間較長，讓隊伍有足夠的時間在無敵效果觸發前集火將其擊殺。通常只要選擇下方列出的反制英雄，就足以壓制無畏（Venture）。總體而言，當無畏（Venture）發起進攻時，對其進行標記可以避免許多不必要的死亡。請務必嘗試追蹤無畏（Venture）玩家的進場路徑，並了解他們的逃跑模式，這樣你就能在他們與隊伍重整旗鼓前進行追擊並將其消滅。"
+        "很遺憾對無畏來說，他們其實是《鬥陣特攻》中最容易被反制的英雄之一。鑽地（Burrow）的施放時間較長，讓隊伍有足夠的時間在無敵效果觸發前集火將其擊殺。通常只要選擇下方其中一個反制英雄，就足以壓制無畏。一般來說，在無畏發動攻勢時標記他們，可以避免許多不必要的死亡。務必隨時嘗試追蹤無畏玩家的進場路徑，並了解他們的逃脫模式，這樣你才能在他們與隊伍重整旗鼓前進行追擊並將其淘汰。"
       ],
       "content_hash": "aff8c46474f5",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:18.538444Z"
+      "timestamp": "2026-03-26T04:31:42.284156Z"
     },
     "8.1": {
-      "title": "特定英雄剋制關係",
+      "title": "特定英雄反制",
       "description": "",
       "content": [
-        "![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)毀滅拳王",
-        "* 毀滅拳王的機動性優於無畏，這讓他能夠追擊到無畏原本認為安全的位置。火箭拳（Rocket Punch）可以取消掘地（Burrow）並確保擊殺。此外，無畏的多種爆發傷害技能也能輕鬆為毀滅拳王充能，使其獲得強化拳（Empowered Punch）。",
-        "![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪",
-        "* 磁性手榴彈（Magnetic Grenade）。即使你的卡西迪準度不佳，只要能用磁性手榴彈黏住對方，你的隊伍就能輕易補上足夠的傷害來淘汰她。",
-        "![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜",
-        "* 與磁性手榴彈類似，睡眠鏢（Sleep Dart）能強力反制無畏的戰術與技能。在掘地（Burrow）啟動的瞬間，那短暫的緩慢移動與脆弱期，是安娜命中睡眠鏢的最佳時機。"
+        "![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)毀滅拳王\n* 毀滅拳王的機動性優於無畏，這讓他能追擊到無畏通常認為安全的位置。火箭拳（Rocket Punch）可以取消掘地（Burrow）並確保擊殺。無畏的多項爆發傷害技能也讓毀滅拳王能輕易為他的強化拳（Empowered Punch）充能。",
+        "[[__OWH_IMG_1__]]卡西迪\n* 磁性手榴彈（Magnetic Grenade）。即使你的卡西迪準度不佳，你只需要用磁性手榴彈黏住她，你的隊伍就能輕易補上足夠的傷害來將她淘汰。",
+        "![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)安娜\n* 與磁性手榴彈類似，睡眠鏢（Sleep Dart）能強力反制無畏的戰術與技能。在掘地（Burrow）啟動期間那短暫的緩慢移動與脆弱時刻，是安娜命中睡眠鏢的最佳時機。",
+        "* Magnetic Grenade. Even if you have horrible aim with Cassidy, all you need to do is stick them with a Magnetic Grenade and your team can easily follow up with enough damage to elim her.",
+        "![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana",
+        "* Similar to Magnetic Grenade, Sleep Dart hard counters Venture’s game plan and abilities. The brief moment of slow movement and vulnerability during the startup frames of Burrow is the easiest opportunity for Ana land a sleep."
       ],
       "content_hash": "80b7f54939af",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:21.099827Z"
+      "timestamp": "2026-03-26T04:31:45.341273Z"
     },
     "8.2": {
       "title": "特定英雄剋制名單",
@@ -392,14 +392,14 @@
         "* 安娜"
       ],
       "content_hash": "88a40104994b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:22.660464Z"
+      "timestamp": "2026-03-26T04:31:46.944573Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:20:27.081858Z"
+    "timestamp": "2026-03-26T05:10:57.945665Z"
   }
 }

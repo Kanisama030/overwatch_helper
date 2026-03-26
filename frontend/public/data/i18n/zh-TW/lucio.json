@@ -6,138 +6,138 @@
       "title": "路西歐概覽",
       "description": "",
       "content": [
-        "路西歐利用他的音波與節奏來激勵隊友，他能在地圖上滑行，並帶著整支隊伍一同移動。在《鬥陣特攻 2》中，走位與機動性至關重要，而路西歐能同時為全隊提供這兩方面的協助。",
-        "雖然他無法提供大量的持續治療，但提升隊伍的移動速度能讓他們在決定何時與何地開戰時佔盡優勢。",
-        "他大部分的時間會待在坦克身邊，但多虧了牆面滑行，路西歐也能成為致命的後排側襲者。精通「強音（Amp it up）」的施放時機以及 ![](/data/assets/guide/7480b183af5d8219.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsoundwave.png)「音波（Soundwave）」的使用，你就能離帶領隊伍獲勝的地下 DJ 之路不遠了！"
+        "路西歐利用他的聲波與節奏來激勵盟友，在滑行穿越地圖的同時，也能帶著隊伍一起行動。在《鬥陣特攻 2》中，走位與機動性至關重要，而路西歐能同時為整支隊伍提供這兩方面的協助。",
+        "雖然他無法提供大量的持續治療，但提升隊伍的移動速度能讓他們在決定何時、何地開戰時佔據優勢。",
+        "他大部分的時間會待在坦克身邊，但多虧了牆面滑行，路西歐也能成為致命的後排刺客。精通「強音（Amp it up）」的施放時機以及 ![](/data/assets/guide/7480b183af5d8219.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsoundwave.png)「音波（Soundwave）」的使用，你就能在這位地下 DJ 的帶領下，邁向帶領隊伍獲勝之路！"
       ],
       "content_hash": "1721f6d1089e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:26.752459Z"
+      "timestamp": "2026-03-26T04:23:18.003711Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 提升坦克的速度。如果你的坦克屬於近戰纏鬥型，速度增益能讓他們縮短與敵人的距離並將其輾壓。",
-        "* 讓隊友保持在你的光環範圍內。螢幕中央的指示器會顯示有多少隊友受到 ![](/data/assets/guide/646d7b1b049a69e3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcrossfade.png)切換曲風（Crossfade）的影響。請確保該數值維持在高檔。",
-        "* 保護你的後排。路西歐的速度與擊退能力使他成為保護後排免受敵人側襲與突擊的絕佳人選。利用速度趕往現場並協助反擊。"
+        "* 提升坦克的速度。如果你的坦克屬於近戰纏鬥型，速度增益能讓他們縮短與敵人的距離並將其碾壓。",
+        "* 讓隊友保持在你的光環範圍內。螢幕中央的指示器會顯示有多少隊友正受到 ![](/data/assets/guide/646d7b1b049a69e3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcrossfade.png) 切換曲風的影響。請確保該數值維持在高檔。",
+        "* 保護你的後排。路西歐的速度與擊退能力使他成為保護後排免受敵人側襲與突擊的最佳人選。利用速度趕往現場並協助反擊。"
       ],
       "content_hash": "e288bed9c084",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:28.820761Z"
+      "timestamp": "2026-03-26T04:23:20.453652Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 使用擊退或暈眩技能。任何能停止或減緩路西歐移動速度的手段，都能讓他更容易被擊殺。",
-        "* 當你看到路西歐使用 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障（Sound Barrier）時，請嘗試脫離戰鬥，等待額外生命值消耗殆盡，而不是試圖強行突破。",
-        "* 如果你不斷被路西歐的隊伍壓制，請選擇機動性高的英雄。只要你能逃離他們的攻擊，他們的速度優勢就毫無意義。"
+        "* 使用擊退或昏迷技能。任何能停止或減緩路西歐移動速度的效果，都能讓他更容易被擊殺。",
+        "* 當你看到路西歐使用 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障時，試著脫離戰鬥並等待額外生命值消失，而不是試圖硬拚。",
+        "* 如果你一直被路西歐的隊伍壓制，請選擇機動性高的英雄。只要你能逃離他們的攻擊，他們的速度優勢就毫無意義。"
       ],
       "content_hash": "ae843ff07f0b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:30.781208Z"
+      "timestamp": "2026-03-26T04:23:22.808215Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 機會主義者（Opportunist）",
-        "* 範圍傷害（AoE）能力",
+        "* 機會主義者",
+        "* 範圍傷害（AoE）技能",
         "* 不需要太多資源",
         "* 操作難度高",
         "* 需要良好的團隊配合",
         "* 近距離作戰"
       ],
       "content_hash": "9e1dec776050",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:32.181575Z"
+      "timestamp": "2026-03-26T04:23:24.512537Z"
     },
     "3.1.1": {
-      "title": "機會主義者（Opportunist）",
+      "title": "機會主義者",
       "description": "",
       "content": [
-        "路西歐（Lúcio）擁有無與倫比的速度，能夠迅速做出反應並靈活移動。優秀的路西歐（Lúcio）玩家通常會等待最佳時機，例如觀察到敵方使用了防禦性冷卻技能後，再利用加速增益（Speed Boost）帶領隊伍衝鋒陷陣，一舉擊殺對手。"
+        "路西歐擁有無與倫比的速度，能迅速做出反應並靈活移動。優秀的路西歐玩家通常會等待適當時機，例如觀察到敵方使用了防禦性冷卻技能後，再利用加速增益帶領隊伍衝鋒陷陣，一舉擊殺對手。"
       ],
       "content_hash": "ec20dbb39d16",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:33.968662Z"
+      "timestamp": "2026-03-26T04:23:26.556228Z"
     },
     "3.1.2": {
       "title": "大範圍效果技能",
       "description": "",
       "content": [
-        "與許多一次只能協助一名隊友的其他輔助不同，路西歐的技能可以同時影響整個隊伍。治療、加速增益以及 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png) 音波屏障（Sound Barrier）都擁有廣闊的範圍效果，當隊伍集結在一起時，能發揮巨大的價值。"
+        "與許多一次只能協助一名隊友的其他支援型英雄不同，路西歐的技能可以同時影響整支隊伍。治療、加速增益以及 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png) 音波屏障（Sound Barrier）都擁有寬廣的範圍效果，當隊伍成員集結在一起時，能發揮出巨大的價值。"
       ],
       "content_hash": "c70b0dfc6945",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:35.203369Z"
+      "timestamp": "2026-03-26T04:23:28.353470Z"
     },
     "3.1.3": {
-      "title": "對隊伍資源的需求較低",
+      "title": "對團隊資源需求低",
       "description": "",
       "content": [
-        "路西歐能夠在牆面上垂直移動，並透過快速移動與持續變換位置，讓敵方難以鎖定目標。正因如此，他不需要隊伍提供治療、傷害減免或保護資源。當隊伍中有路西歐作為支援時，其他隊友可以專注於自身，並將技能運用在更具侵略性的戰術上。"
+        "路西歐能夠在牆面上垂直移動，透過快速移動並不斷變換位置，讓敵方難以鎖定目標。正因如此，他不需要團隊提供治療、傷害減免或保護資源。當路西歐擔任輔助位時，隊伍中的其他人可以專注於自身，並將技能運用在更具侵略性的打法上。"
       ],
       "content_hash": "b5828cd4cab7",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:37.060699Z"
+      "timestamp": "2026-03-26T04:23:30.109548Z"
     },
     "3.2.1": {
-      "title": "高技術上限",
+      "title": "高操作上限",
       "description": "",
       "content": [
-        "![](/data/assets/guide/808dcefc7ac05287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-ride.png)路西歐（Lúcio）的牆面滑行（Wall Ride）無論是向前、向後、原地、穿過窗戶、快速移動（rollouts）還是跳躍點，都賦予了他近乎無限的英雄專屬技術。要將你的路西歐（Lúcio）發揮到極致，你必須投入大量時間來微調你的移動機制。他很容易上手，但卻難以精通。"
+        "![](/data/assets/guide/808dcefc7ac05287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-ride.png)路西歐的牆面滑行（Wall Ride）技巧包含向前、向後、定點、穿過窗戶、開場跑位以及跳躍點，這些賦予了他近乎無限的英雄專屬技術。若要將路西歐的表現發揮到極致，你必須投入大量時間來微調你的移動機制。他雖然容易上手，但卻難以精通。"
       ],
       "content_hash": "1edaf118612f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:38.395007Z"
+      "timestamp": "2026-03-26T04:23:31.769613Z"
     },
     "3.2.2": {
       "title": "需要團隊配合",
       "description": "",
       "content": [
-        "你大概不是那種可以獨自行動，並逐一單殺整個敵方隊伍的 Reddit 路西歐（Reddit Lucio）。因此，你需要團隊像一個整體一樣運作才能取得成功。如果你在施放強音（Amp it Up）的加速增益期間，沒有人跟進發動攻擊，那麼你的時機掌握得再好也沒有用。"
+        "你大概不是那種可以獨自行動，並將敵方隊伍逐一擊殺的 Reddit 路西歐。因此，你需要隊伍像一個整體一樣運作才能取得成功。如果你在開啟「強音（Amp it Up）」加速時沒有人跟上進攻，那麼你的時機掌握得再好也沒用。"
       ],
       "content_hash": "0faef08e4204",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:39.976699Z"
+      "timestamp": "2026-03-26T04:23:33.646273Z"
     },
     "3.2.3": {
-      "title": "近距離視野（LoS）",
+      "title": "近距離視線（LoS）",
       "description": "",
       "content": [
-        "路西歐（Lúcio）若不在 ![](/data/assets/guide/646d7b1b049a69e3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcrossfade.png) 混音（Crossfade）的 12 公尺半徑範圍內，且路徑上有障礙物或建築物阻擋，就無法協助隊伍。為了最大化他歌曲光環的價值，他必須定位在隊友附近。由於戰士（Bruiser）通常最需要速度增益，這意味著路西歐最終會處於前線且暴露在空曠處，容易成為敵隊的目標。"
+        "路西歐若不在 ![](/data/assets/guide/646d7b1b049a69e3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcrossfade.png) 換檔（Crossfade）的 12 公尺半徑範圍內，且路徑上沒有障礙物或建築物阻擋，就無法協助隊友。為了將他的音樂光環效益最大化，他必須站在隊友附近。由於坦克通常最需要速度增益，這意味著路西歐最終會處於前線且暴露在空曠處，容易成為敵隊的目標。"
       ],
       "content_hash": "6c6ec4fc7824",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:41.813595Z"
+      "timestamp": "2026-03-26T04:23:36.046898Z"
     },
     "4.1": {
-      "title": "主要攻擊：音波槍（Sonic Amplifier）",
+      "title": "主要攻擊：音波槍",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/f9007586b31570ef.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsonic-amplifier.png)音波槍（Sonic Amplifier）的使用技巧**",
+        "![](/data/assets/guide/f9007586b31570ef.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsonic-amplifier.png)音波槍的使用技巧",
         "* 摧毀可部署裝置",
-        "* 路西歐的射程與速度使他比大多數英雄更擅長移動到有利位置，以摧毀如辛梅塔與托比昂的砲塔、不滅力場（Immortality Field）以及治療塔（Healing Pylon）等可部署裝置。",
+        "* 路西歐的射程與速度使他比大多數英雄更有優勢，能快速移動到合適位置來摧毀敵方的可部署裝置，例如辛梅塔與托比昂的砲塔、不滅力場以及治療塔。",
         "* 騷擾時保持移動",
-        "* 切勿長時間站立不動或停留在地面。即使當你專注於向敵方隊伍進行遠程騷擾（spamming）時，也要小心不要讓自己成為容易被擊中的目標。",
-        "* 在遠距離交戰中，神射手（Sharpshooter）擁有優勢且能造成更穩定的傷害。"
+        "* 切勿長時間站立不動或停留在地面。即使當你專注於向敵方隊伍進行火力壓制時，也要小心不要讓自己成為容易被擊中的目標。",
+        "* 在遠距離交戰中，神射手（Sharpshooter）擁有優勢，且能造成更穩定的傷害。"
       ],
       "content_hash": "32ffc40c968e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:43.551390Z"
+      "timestamp": "2026-03-26T04:23:41.495726Z"
     },
     "4.2": {
       "title": "次要攻擊：音波（Soundwave）",
@@ -145,78 +145,78 @@
       "content": [
         "![](/data/assets/guide/7480b183af5d8219.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsoundwave.png)音波（Soundwave）的使用技巧",
         "* 離我遠點",
-        "* 大多數時候，你會想要利用 ![](/data/assets/guide/7480b183af5d8219.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsoundwave.png)音波（Soundwave）的擊退效果，讓敵人遠離你和你的隊友。特別是在面對近距離和近戰英雄時，將他們推開。",
-        "* 頻繁施放",
-        "* 五秒的冷卻時間非常短。通常你可以一好就用 ![](/data/assets/guide/7480b183af5d8219.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsoundwave.png)音波（Soundwave）。除非你需要為了特定原因保留它，例如取得地形擊殺，或是推開像 ![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)死亡綻放（Death Blossom）這樣的敵方絕招。",
+        "* * 大多數時候，你會想要利用 ![](/data/assets/guide/7480b183af5d8219.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsoundwave.png)音波（Soundwave）的擊退效果，讓敵人遠離你和你的隊友。特別是在面對近距離和近戰英雄時，將他們推開。",
+        "* 頻繁使用",
+        "* * 五秒的冷卻時間非常短。通常你可以一冷卻好就使用 ![](/data/assets/guide/7480b183af5d8219.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsoundwave.png)音波（Soundwave）。除非你需要為了特定原因保留它，例如為了地形擊殺，或是推開像 ![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)死亡綻放（Death Blossom）這樣的敵人絕招。",
         "* 地形擊殺",
-        "* 最棒的感覺就是用 ![](/data/assets/guide/7480b183af5d8219.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsoundwave.png)音波（Soundwave）將敵人推下地圖。在目標點附近有邊緣的地圖，或是像伊利歐斯（Ilios）深井這種中間有洞的地圖，隨時留意那些站得太靠近邊緣的敵人。",
+        "* * 用 ![](/data/assets/guide/7480b183af5d8219.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsoundwave.png)音波（Soundwave）將敵人推下地圖是最棒的感覺。在目標點附近有邊緣的地圖，或是像伊利歐斯（Ilios）深井那樣中間有洞的地圖，隨時留意那些站得太靠近邊緣的敵人。",
         "* 連招",
-        "* 在面對牆壁或利用加速增幅（Speed Boost）進行突進時，路西歐（Lúcio）擁有不錯的爆發傷害連招。如果你移動得太慢，或者敵人背後沒有牆壁，近戰取消（melee cancel）就會打空。",
-        "* ![](/data/assets/guide/7480b183af5d8219.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsoundwave.png)音波（Soundwave）的擊退效果也會因為短暫鎖定敵人的移動，讓你的追蹤瞄準變得更容易。",
+        "* * 在面對牆壁或配合加速增幅進行突襲時，路西歐（Lúcio）擁有不錯的爆發傷害連招。如果你移動得太慢，或者敵人背後沒有牆壁，近戰取消（melee cancel）就會打空。",
+        "* ![](/data/assets/guide/7480b183af5d8219.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsoundwave.png)音波（Soundwave）的擊退效果也能讓追蹤目標變得更容易，因為它會短暫地鎖定敵人的移動。",
         "* 主要攻擊 → 音波（Soundwave） → 近戰攻擊"
       ],
       "content_hash": "d6244194f28f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:46.680630Z"
+      "timestamp": "2026-03-26T04:23:45.727351Z"
     },
     "4.3": {
-      "title": "[SPACE]：牆面走壁（Wall Ride）",
+      "title": "[空間]：牆面滑行",
       "description": "",
       "content": [
-        "關於 ![](/data/assets/guide/808dcefc7ac05287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-ride.png)牆面走壁（Wall Ride）的技巧",
-        "* 盡可能多使用牆面走壁",
-        "* 路西歐在牆面走壁時移動速度會大幅提升，且垂直移動能讓他脫離大多數敵人瞄準的標準水平平面。",
-        "* 出發路線（Rollouts）",
-        "* * 這些路線非常依賴地圖，但建議留意那些可以讓你從重生點前往目標點時，能透過牆壁之間跳躍的路徑，以備你不幸陣亡時使用。",
+        "**![](/data/assets/guide/808dcefc7ac05287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-ride.png)牆面滑行的技巧**",
+        "* 盡可能多利用牆面滑行",
+        "* 路西歐在牆面滑行時移動速度會快得多，且垂直移動能力讓他能脫離大多數敵人瞄準的標準水平面。",
+        "* 出門路線（Rollouts）",
+        "* * 這非常依賴地圖知識，但建議留意那些可以讓你從重生點前往目標點途中，透過牆面跳躍來移動的路徑，以備你不幸陣亡時使用。",
         "* 兔跳（Bunny hop）",
-        "* * 如果你在觸地的瞬間跳躍，路西歐可以保留部分動能進行幾次跳躍。",
-        "* 這對於在牆壁之間轉換時維持速度非常有用。",
+        "* * 如果你在觸地的瞬間跳躍，路西歐可以保留部分動量進行幾次跳躍。",
+        "* 這對於在從一面牆轉移到另一面牆時維持速度非常有用。",
         "* 拖延目標點",
-        "* * 任何帶有牆壁、窗戶或中央柱體的目標點，都很適合路西歐在等待隊友重生時使用 ![](/data/assets/guide/808dcefc7ac05287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-ride.png)牆面走壁（Wall Ride）繞圈。",
-        "* 繞著圓圈跑、進出窗戶、在建築物前後穿梭，並盡可能保持閃避動作。",
+        "* * 任何帶有牆壁、窗戶或中央柱體的目標點，都很適合路西歐在等待隊友重生時進行 ![](/data/assets/guide/808dcefc7ac05287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-ride.png)牆面滑行。",
+        "* 繞圈滑行、進出窗戶、在建築物前後穿梭，並盡可能保持高機動性以閃避攻擊。",
         "* 設定",
-        "* * PC 玩家：將滑鼠滾輪綁定為跳躍，可以讓牆面跳躍和兔跳變得更容易。"
+        "* * PC 玩家：將滑鼠滾輪綁定為跳躍鍵，可以讓牆面跳躍和兔跳變得更容易。"
       ],
       "content_hash": "ccf7b2d8b2af",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:49.247407Z"
+      "timestamp": "2026-03-26T04:23:49.063830Z"
     },
     "4.4": {
-      "title": "[SHIFT]：切換曲風（Crossfade）",
+      "title": "[SHIFT]：切換曲風",
       "description": "",
       "content": [
-        "關於 ![](/data/assets/guide/646d7b1b049a69e3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcrossfade.png)切換曲風（Crossfade）的提示",
-        "* 留意你的隊友指示器",
-        "* 準心下方螢幕中央的數字顯示了目前有多少隊友正受到你的治療或加速影響。",
+        "**![](/data/assets/guide/646d7b1b049a69e3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcrossfade.png)切換曲風的技巧**",
+        "* 注意你的隊友指示器",
+        "* 螢幕中央準星下方的數字顯示了目前有多少隊友正受到你的治療或加速影響。",
         "* 你不需要環顧四周，你可以專注於攻擊，同時確保保持在足夠近的位置，讓隊友維持在你的音效光環範圍內。",
         "* 加速還是治療？",
-        "* 使用治療光環的時機：當你的隊伍需要生命值，或是當你想要更快累積絕招充能時。",
-        "* 使用加速增益的時機：當你的隊伍試圖接近敵人或快速變換位置時。",
-        "* 當大部分隊友的生命值接近全滿時，請隨時保持在加速增益狀態。"
+        "* 使用治療光環來應對隊伍需要生命值的時候，或是當你想要更快累積絕招能量時。",
+        "* 當你的隊伍試圖接近敵人或快速變換位置時，請使用加速增益。",
+        "* 當大部分隊友的生命值接近全滿時，可以隨意保持在加速增益狀態。"
       ],
       "content_hash": "84527261c3d7",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:51.310558Z"
+      "timestamp": "2026-03-26T04:23:51.320664Z"
     },
     "4.5": {
-      "title": "[E]：強音（Amp it Up）",
+      "title": "[E]：強音",
       "description": "",
       "content": [
-        "![](/data/assets/guide/7956014a02388269.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Famp-it-up.png)強音（Amp it Up）技巧",
-        "* 治療強音（Heal Amp）",
-        "* * ![](/data/assets/guide/7956014a02388269.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Famp-it-up.png)強音（Amp it Up）的治療速度是標準治療的 4 倍以上。如果你的隊伍生命值降至危急狀態，請快速使用強音（Amp it Up）進行治療。",
-        "* 加速強音（Speed Amp）",
-        "* * 在鬥毆（brawl）和衝鋒（rush）陣容中，你主要會希望將 ![](/data/assets/guide/7956014a02388269.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Famp-it-up.png)強音（Amp it Up）保留給加速增益。對於像垃圾鎮女王（Junker Queen）、拉瑪塔（Ramattra）和萊因哈特（Reinhardt）這樣的坦克來說，最重要的不是給他們一點治療來延長生存時間，而是讓他們能迅速靠近敵人並贏得戰鬥。",
+        "![](/data/assets/guide/7956014a02388269.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Famp-it-up.png)強音的使用技巧",
+        "* 治療強音",
+        "* * ![](/data/assets/guide/7956014a02388269.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Famp-it-up.png)強音的治療速度是標準治療的 4 倍以上。如果你的隊伍生命值降至危急狀態，請迅速使用強音進行治療。",
+        "* 加速強音",
+        "* * 在鬥毆與衝鋒陣容中，你主要會希望將 ![](/data/assets/guide/7956014a02388269.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Famp-it-up.png)強音保留給加速增益。對於像垃圾鎮女王、拉瑪塔和萊因哈特這樣的坦克來說，最重要的事情並不是給予他們一點治療來延長存活時間，而是讓他們能夠迅速靠近敵人並贏得會戰。",
         "* 撤退",
-        "* * 當敵人使用進攻型絕招時，對你的隊伍使用加速強音（Speed Amp）以遠離敵人，讓他們能躲到掩體後方存活下來。接著在危險解除後，再利用加速將他們帶回戰場。"
+        "* * 當敵人使用進攻型絕招時，請使用加速強音帶領你的隊伍遠離敵人，讓他們能夠躲到掩體後方以保住性命。接著在危險解除後，再利用加速帶領他們重返戰場。"
       ],
       "content_hash": "f7446886db61",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:53.658632Z"
+      "timestamp": "2026-03-26T04:23:53.812052Z"
     },
     "4.6": {
       "title": "絕招：音波屏障",
@@ -224,139 +224,139 @@
       "content": [
         "![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障的使用技巧",
         "* 採取反應式使用",
-        "* 有時路西歐會嘗試使用![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障來發起會戰，讓隊伍能無所畏懼地推進。通常這種做法對隊伍帶來的價值較低，且當敵方使用絕招進攻時，會讓你陷入毫無防備的狀態。",
-        "* 最好在應對敵方絕招時使用![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障。其提供的額外生命值足以存活於大多數的攻擊。",
+        "* 有時路西歐會嘗試以![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障發起戰鬥，讓隊伍能無所畏懼地推進。通常這種做法對隊伍的效益較低，且當敵人使用絕招反擊時，你會陷入毫無防備的狀態。",
+        "* 最好在應對敵方絕招時使用![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障。額外生命值足以抵擋大多數的攻擊。",
         "* 施放時間",
-        "* 使用![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障時請留意你的高度。路西歐所在的位置越高，絕招啟動所需的時間就越長。",
+        "* 使用![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障時，請留意你所在的高度。路西歐的位置越高，絕招啟動所需的時間就越長。",
         "* 如果敵人在你落地前將你擊暈，他們可以中斷你的絕招。請留意擁有擊暈技能的敵人，或是在掩體後方使用![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障。"
       ],
       "content_hash": "f3c4a9114991",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:55.861612Z"
+      "timestamp": "2026-03-26T04:23:56.472234Z"
     },
     "5.1.1": {
-      "title": "音波騎士（Soundwave Rider）",
-      "description": "壁面滑行（Wall Riding）會強化你的下一次音波（Soundwave），使其擊退距離增加 25%，傷害增加 50%。",
+      "title": "音波騎士",
+      "description": "壁面滑行會強化你的下一次音波，使其擊退距離增加 25%，傷害增加 50%。",
       "content": [
         "**重低音爆發（Bass Blowout）**",
-        "* 高價值次要特殊能力（Higher Value Minor Perk）",
-        "* 路西歐（Lúcio）每四秒可觸發一次重低音爆發（Bass Blowout）。",
-        "* 面對側襲者（Flanker）、戰士（Bruiser）與前鋒（Initiator）陣容時，務必選擇重低音爆發（Bass Blowout），因為額外的擊退距離能讓你與隊友更加安全。",
-        "* 更容易達成地形擊殺（environmental kills）",
-        "* 在擁有許多邊緣的地圖上，重低音爆發（Bass Blowout）能讓將敵人擊落場外的操作變得更加穩定。"
+        "* 高價值次要特殊能力",
+        "* 路西歐每四秒即可觸發一次重低音爆發。",
+        "* 面對機動、陣地戰以及衝鋒陣容時，請務必選擇重低音爆發，因為額外的擊退距離能讓你和隊友更加安全。",
+        "* 更容易達成地形擊殺",
+        "* 在擁有許多邊緣的地圖上，重低音爆發能讓將敵人擊落場外的操作變得更加穩定。"
       ],
       "content_hash": "5905d5180131",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:58.031941Z"
+      "timestamp": "2026-03-26T04:23:58.331547Z"
     },
     "5.1.2": {
-      "title": "節奏音波（Beat Drop）",
-      "description": "在音波屏障（Sound Barrier）期間，「強音（Amp It Up）」會保持啟動狀態。",
+      "title": "節奏音障（Beat Drop）",
+      "description": "在施放音障（Sound Barrier）期間，「強音（Amp It Up）」會保持啟動狀態。",
       "content": [
-        "* 堆疊強音（Amp it Up）的使用次數",
-        "* 在施放 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障（Sound Barrier）之前先使用強音（Amp it Up），以最大化節奏音波（Beat Drop）的效益。",
-        "* 強音（Amp it Up）持續 6 秒，且強音（Amp it Up）的冷卻時間為 12 秒。你最多只需要等待 6 秒，下一次的強音（Amp it Up）即可使用。"
+        "* 堆疊「強音（Amp It Up）」的使用次數",
+        "* 在施放 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音障（Sound Barrier）之前先使用「強音（Amp It Up）」，以最大化節奏音障（Beat Drop）的效益。",
+        "* 「強音（Amp It Up）」持續 6 秒，且其冷卻時間為 12 秒。你最多只需要等待 6 秒，下一次的「強音（Amp It Up）」即可再次使用。"
       ],
       "content_hash": "7c6f506f1a4e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:59.717960Z"
+      "timestamp": "2026-03-26T04:24:00.655877Z"
     },
     "5.2.1": {
-      "title": "噪音違規（Noise Violation）",
-      "description": "當「強音（Amp It Up）」啟動時，路西歐（Lúcio）的「切換曲目（Crossfade）」範圍增加 150%。",
+      "title": "噪音違規",
+      "description": "當「強音」啟動時，路西歐的「音波切換」範圍增加 150%。",
       "content": [
-        "* 在隊伍陣容較為分散時表現良好。如果你的隊伍使用了許多像是 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜（Ana）、![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）和 ![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞（Freja）這類消耗型英雄，那麼使用「噪音違規（Noise Violation）」將更有機會將他們全部納入你的範圍效果（AoE）中。",
-        "* 路西歐（Lúcio）的遊玩風格與站位本就傾向於那些最需要速度增益的隊友，因此額外的「強音（Amp It Up）」範圍並非絕對必要。"
+        "* 在隊伍陣型較為分散時表現良好。如果你的隊伍使用了許多像是 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜、![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西 和 ![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞 這類消耗型英雄，那麼使用「噪音違規」將更有機會將他們全部納入你的範圍效果（AoE）之中。",
+        "* 路西歐的遊玩風格與站位本就傾向於那些最需要速度增益的隊友，因此額外的「強音」範圍並非絕對必要。"
       ],
       "content_hash": "3505b165ac6d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:02.085537Z"
+      "timestamp": "2026-03-26T04:24:02.834839Z"
     },
     "5.2.2": {
-      "title": "漸強（Accelerando）",
-      "description": "當路西歐（Lúcio）啟動強音（Amp It Up）時，攻擊速度提升 50%。",
+      "title": "加速（Accelerando）",
+      "description": "當「強音（Amp It Up）」啟動時，路西歐的攻擊速度提升 50%。",
       "content": [
-        "* 更適合進攻型路西歐（Lúcio）玩家",
-        "* 當你獨自或帶領隊伍加速衝向敵方隊伍時，50% 的攻擊速度提升可能就是擊殺目標，或是讓目標存活下來反殺你的關鍵差異。",
-        "* 如果你經常嘗試激進的打法，或是切入敵方的輸出（DPS）與輔助（Supports），你應該選擇漸強（Accelerando）。"
+        "* 更適合進攻型路西歐玩家",
+        "* 當你獨自或帶領隊伍加速衝向敵方隊伍時，50% 的攻擊速度提升可能就是決定你能否擊殺目標，還是讓目標存活下來反殺你的關鍵。",
+        "* 如果你經常嘗試激進的打法，或是深入敵陣突襲敵方的輸出與輔助，你應該選擇加速（Accelerando）。"
       ],
       "content_hash": "5524ff794a85",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:03.952423Z"
+      "timestamp": "2026-03-26T04:24:05.252191Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "最適合選擇路西歐（Lúcio）的地圖是那些擁有大量平坦地面或廣闊空間的地圖。擁有路西歐的隊伍總能比沒有他的隊伍移動得更快並更靈活地重新佈陣，因此步行區域較大的地圖能提供更多機會來發揮速度增益（speed boost）的效益。",
-        "此外，在目標點附近有邊緣的地圖，也創造了透過擊退（booping）將敵人推下地圖來達成瞬間擊殺的可能性。",
-        "路西歐最難發揮的地圖是那些擁有狹長視線的地圖，因為敵人有更多時間在他靠近時進行攻擊。路西歐本人在擁有強勢高地區域的地圖上表現不錯，但最能從速度增益（speed boost）中獲益的隊友，通常在這些地圖上的表現較弱。"
+        "最適合選擇路西歐（Lúcio）的地圖是那些擁有大量平坦地面或需要覆蓋廣大空間的地圖。擁有路西歐的隊伍總能比沒有路西歐的隊伍移動得更快並更靈活地重新佈陣，因此在需要大量步行移動的地圖上，能有更多機會受惠於加速增益效果。",
+        "此外，在目標點附近擁有邊緣的地圖，也創造了透過擊退技能將敵人推落場外以達成瞬間擊殺的可能性。",
+        "路西歐最難發揮的地圖是那些擁有狹長視線的地圖，因為敵人有更多的時間可以在他靠近時進行攻擊。路西歐本人在擁有強勢高台區域的地圖上表現良好，但最能從加速增益中獲益的隊友，往往在這些地圖上表現較弱。"
       ],
       "content_hash": "d6b925bff07b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:05.749924Z"
+      "timestamp": "2026-03-26T04:24:07.694417Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "以路西歐（Lucio）為核心構建的隊伍陣容，能夠充分利用他的加速效果。近距離與近戰型英雄通常能從加速中獲得最大效益，因為他們必須靠近敵方才能發揮作用。",
-        "以遠程消耗為主的陣容也能與路西歐搭配，但他的加速將更多地用於防禦性的拉開距離與轉點，而非進攻性的推進。",
-        "路西歐通常需要另一位具備高治療量與爆發治療能力的支援型英雄，以彌補他持續治療能力的不足。在這些隊伍中，路西歐同時擔任後排保護者的角色，利用他靈活的移動與擊退能力，確保隊友免受敵方側襲者（Flanker）的威脅。",
+        "以路西歐為核心建立的隊伍陣容，能夠充分利用他的加速效果。近距離與近戰型英雄通常能從加速中獲得最大效益，因為他們需要貼近敵人才能發揮作用。",
+        "以遠程消耗為主的陣容也能與路西歐搭配，但他的加速將更多用於防禦性的空間拉扯與轉點，而非進攻性的推進。",
+        "路西歐通常需要另一位具備高治療量與爆發治療能力的支援型英雄，以彌補他持續治療能力的不足。在這些隊伍中，路西歐同時擔任後排保護者的角色，利用他靈活的移動與擊退效果，確保隊友免受敵方側襲者的威脅。",
         "**以路西歐為核心的隊伍陣容範例：**",
-        "* Tank: ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）, ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅（Zarya）（6v6）",
-        "* DPS: ![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪（Cassidy）, ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美（Mei）",
-        "* Supports: 路西歐（Lucio）, ![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉（Moira）"
+        "* 坦克：![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特, ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅 (6v6)",
+        "* 輸出：![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪, ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)小美",
+        "* 支援：路西歐, ![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉"
       ],
       "content_hash": "91ca07920096",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:08.186721Z"
+      "timestamp": "2026-03-26T04:24:10.649148Z"
     },
     "7.1": {
-      "title": "與其他英雄的個人搭配",
+      "title": "與其他英雄的個人協同效應",
       "description": "",
       "content": [
-        "![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特",
-        "* 當 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特開始對敵人揮舞戰鎚時，如果敵人無法立即逃脫，那他們就完了。萊因哈特最大的弱點在於近戰距離短，且「衝鋒（Charge）」是他唯一的位移技能。",
-        "* 路西歐的加速能讓萊因哈特快速進入近戰範圍並追上敵人。透過「強音（Amp it Up）」，他甚至能比敵人逃跑的速度更快地推進。當萊因哈特有足夠的生命值可以持續揮擊時，配合使用「強音」，你們就能輕鬆取得經典的勝利。",
-        "![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪",
-        "* ![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪是一位中距離的即時命中英雄，擁有出色的反側襲能力。路西歐的騷擾與加速，結合卡西迪的傷害輸出，使他們成為一對致命的搭檔，能同時以遠程傷害壓制敵人並保有極高的生存能力。",
-        "* 當 ![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪被敵方隊伍圍攻時，路西歐能協助進行保護（peel），而卡西迪也能為路西歐提供同樣的支援。",
-        "* 此外，受到加速效果的「神射手（Deadeye）」非常難以應對，因為卡西迪的移動速度會變得很快。他們能完全掌控視野範圍，並迫使敵人撤退。",
-        "![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉",
-        "* ![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉與路西歐的範圍治療使他們成為完美的鬥毆型輔助組合。採取集結打法的隊伍將能獲得持續治療，並能像勢不可擋的死亡球（deathball）一樣四處移動。",
-        "* 莫伊拉的治療量足以讓路西歐在機會出現時，偶爾進行側襲。",
-        "* 這兩位輔助都不需要浪費資源來保護彼此，因為他們都具備極高的自我生存能力。這讓他們能專注於支援隊伍中的其他盟友。"
+        "![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特\n* 當 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特開始對敵人揮舞戰鎚時，如果敵人無法立即逃脫，那他們就完了。萊因哈特最大的弱點在於近戰範圍短，且「衝鋒」是他唯一的位移技能。",
+        "* When ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)Reinhardt starts swinging on an enemy, they’re done if they can't immediately escape. Rein’s biggest weakness is his short melee range, and Charge being his only movement ability.",
+        "[[__OWH_IMG_1__]]卡西迪\n* [[__OWH_IMG_1__]]卡西迪是一位中距離的即時命中英雄，擁有極佳的反突擊技能組。路西歐的騷擾能力與加速，結合卡西迪的傷害輸出，使他們成為一組致命搭檔，能在遠距離壓制敵人的同時，保有極高的生存能力。",
+        "* 當 ![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪被敵方隊伍圍攻時，路西歐能協助進行保護（Peel），而卡西迪也能為路西歐提供同樣的支援。",
+        "* ![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)Cassidy is a mid-range hitscan with a great anti-dive kit. Lucio's poke and speed combined with Cassidy's damage output make them a lethal duo who oppress the enemy with ranged damage while simultaneously having high survivability.",
+        "![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)莫伊拉\n* ![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)莫伊拉與路西歐的範圍治療使他們成為完美的鬥士型輔助組合。採取集結打法的隊伍將能持續獲得治療，並像無法阻擋的死亡球一樣四處移動。",
+        "* 莫伊拉的治療量相當充足，這讓路西歐在機會出現時，也能偶爾進行側襲。",
+        "![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)Moira",
+        "* ![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)Moira and Lucio’s AoE healing make them the perfect brawl Support duo. Teams that play grouped up will constantly be healed, and can move around as an unstoppable deathball.",
+        "* Moira's healing is high enough that Lucio can also go on occasional flanks when the opportunity presents itself.",
+        "* Neither Support needs to waste their resources peeling for the other because they both have high self-survivability. This allows them to focus on enabling the rest of their allies."
       ],
       "content_hash": "01a2b8e268c2",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:11.899198Z"
+      "timestamp": "2026-03-26T04:24:14.600705Z"
     },
     "8": {
       "title": "如何反制路西歐",
       "description": "",
       "content": [
-        "使用擊退或暈眩效果。任何能停止或減緩他移動速度的手段，都能讓路西歐更容易被擊殺。",
-        "當你看到路西歐使用 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障（Sound Barrier）時，試著脫離戰鬥，等待額外生命值消失，而不是試圖硬拚。",
+        "使用擊退或暈眩技能。任何能停止或減緩他移動速度的手段，都能讓路西歐更容易被擊殺。",
+        "當你看到路西歐使用 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png) 音波屏障（Sound Barrier）時，試著脫離戰鬥並等待額外生命值消退，而不是試圖硬拚。",
         "如果你一直被路西歐的隊伍壓制，請選擇機動性高的英雄。只要你能逃離他們的攻擊，他們的速度優勢就毫無意義。"
       ],
       "content_hash": "bff27d16d40f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:13.847262Z"
+      "timestamp": "2026-03-26T04:24:16.490212Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:14:24.802765Z"
+    "timestamp": "2026-03-26T05:10:56.027113Z"
   }
 }

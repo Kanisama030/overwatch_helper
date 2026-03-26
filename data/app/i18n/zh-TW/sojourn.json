@@ -3,364 +3,364 @@
   "locale": "zh-TW",
   "sections": {
     "1": {
-      "title": "概述",
+      "title": "概覽",
       "description": "",
       "content": [
-        "想要找一位能勝任所有情況、值得專精的英雄嗎？![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩（Sojourn）具備近距離與遠距離的致命性、優異的機動性、區域控制能力以及強大的絕招，玩法相當多元。她的站位並非一成不變，因為她可以根據敵方隊伍的陣容、打法和站位快速進行調整。大多數時候，她維持與敵人的中距離作戰能發揮最大效益。請專注於累積能量以進行蓄力射擊，接著找出你的最佳目標。"
+        "想要找一位能勝任所有任務的英雄來專精嗎？![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩（Sojourn）具備近距離與遠距離的致命殺傷力、出色的機動性、區域控制能力以及強大的絕招，是一位多才多藝的英雄。她的站位並非一成不變，因為她能快速適應敵隊的陣容、打法與位置。大多數情況下，與敵人保持中距離能讓她發揮最大效益。請專注於累積能量以進行蓄力射擊，接著找出你的最佳目標。"
       ],
       "content_hash": "bb1da02b962b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:13.372640Z"
+      "timestamp": "2026-03-26T04:22:59.252979Z"
     },
     "1.1.1": {
       "title": "操作指南",
       "description": "",
       "content": [
-        "* 對戰士（Bruiser）充能 ![](/data/assets/guide/e8c9519205769313.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frailgun.png)軌道槍（Railgun）能量，接著使用充能射擊瞄準傷害型英雄與支援型英雄。",
-        "* 保留 ![](/data/assets/guide/861b66a38565c2cf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpower-slide.png)強力滑行（Power Slide）作為逃生手段。若總是使用滑行來進場，會讓你容易受到反擊。",
-        "* 索潔恩（Sojourn）同時具備遠程與近戰能力，請針對敵人的弱點進行應對。如果對手是近戰型角色，請保持距離；如果對手是狙擊手，則請拉近距離。"
+        "* 對戰士（Bruiser）充能 ![](/data/assets/guide/e8c9519205769313.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frailgun.png)軌道槍（Railgun）能量，接著再以蓄力射擊瞄準輸出型英雄（DPS）與醫護兵（Medic）。",
+        "* 保留 ![](/data/assets/guide/861b66a38565c2cf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpower-slide.png)強力滑行（Power Slide）作為逃生手段。若總是使用滑行來開戰，會讓你容易受到反擊。",
+        "* 索潔恩（Sojourn）同時具備遠程與近戰能力，請針對敵人的弱點進行應對。如果對方是近戰型角色，請保持距離；如果對方是神射手（Sharpshooter），則請貼近交戰。"
       ],
       "content_hash": "236e83d9f5bb",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:15.506962Z"
+      "timestamp": "2026-03-26T04:23:01.469759Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 注意索潔恩（Sojourn）蓄力後的軌道槍（Railgun）射擊。當她幾秒鐘沒有開火時，請移動到她的視野（LoS）之外。",
+        "* 注意索潔恩（Sojourn）蓄力後的磁軌砲（Railgun）射擊。當她幾秒鐘沒有開火時，請移動到她的視線範圍（LoS）之外。",
         "* 當你聽到 ![](/data/assets/guide/74549b59ef18f026.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverclock.png)超頻（Overclock）的音效時，請尋找掩體並躲避。若無法躲避，請立即集火攻擊她。",
-        "* 在她使用強力滑行（Power Slide）後，迅速對她進行突擊。她將無法逃脫，且此時她的軌道槍（Railgun）蓄能通常較低。"
+        "* 在她使用強力滑行（Power Slide）後，請迅速突進並壓制她。她將無法逃脫，且此時磁軌砲（Railgun）的蓄力通常很低。"
       ],
       "content_hash": "2761073fedcc",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:17.381802Z"
+      "timestamp": "2026-03-26T04:23:03.685327Z"
     },
     "2": {
       "title": "優缺點總結",
       "description": "",
       "content": [
         "* 極擅長擊殺目標",
-        "* 混合型神射手（Hybrid sniper）",
-        "* 能夠左右戰局的絕招（Ultimate）",
-        "* 爆頭傷害型絕招（Ultimate）",
+        "* 混合型神射手",
+        "* 具備扭轉戰局的絕招",
+        "* 爆頭傷害型絕招",
         "* 冷卻時間（Cooldowns）",
-        "* 極端表現（Feast or famine）"
+        "* 大起大落"
       ],
       "content_hash": "3324cefc0bb2",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:18.792417Z"
+      "timestamp": "2026-03-26T04:23:05.418734Z"
     },
     "3.1.1": {
       "title": "確保最後一擊",
       "description": "",
       "content": [
-        "索潔恩（Sojourn）的電磁砲（Railgun）蓄力射擊可以說是《鬥陣特攻2》中確認擊殺能力最強的技能。只要敵人的生命值偏低，索潔恩（Sojourn）若保留了電磁砲（Railgun）的能量，就能瞬間將其擊殺。她可以耐心地使用主要攻擊進行牽制，同時等待最佳的次要攻擊射擊時機與目標。"
+        "索潔恩（Sojourn）的電磁砲（Railgun）蓄力射擊可以說是《鬥陣特攻2》中確認擊殺最強大的技能。只要敵方生命值偏低，索潔恩（Sojourn）若保留了電磁砲（Railgun）的能量，就能瞬間將其擊殺。她可以耐心地使用主要攻擊進行牽制，同時等待最佳的次要攻擊射擊時機與目標。"
       ],
       "content_hash": "0d7a97e32a9e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:20.608222Z"
+      "timestamp": "2026-03-26T04:23:07.739884Z"
     },
     "3.1.2": {
-      "title": "混合型神射手（Hybrid Sniper）",
+      "title": "混合型神射手",
       "description": "",
       "content": [
-        "與其他點擊掃描（hitscan）神射手不同，索潔恩（Sojourn）擁有極佳的機動性以及不錯的遠程騷擾能力。雖然她的射程不如其他神射手，但在大多數情況下，她的致命射程已綽綽有餘。"
+        "與其他點擊掃描（hitscan）神射手不同，索潔恩擁有極佳的機動性以及不錯的遠程騷擾能力。雖然她的射程不如其他神射手那麼遠，但在大多數情況下，她的致命射程已綽綽有餘。"
       ],
       "content_hash": "21bfdf8437d2",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:21.901569Z"
+      "timestamp": "2026-03-26T04:23:10.059678Z"
     },
     "3.1.3": {
-      "title": "扭轉戰局的絕招",
+      "title": "決定勝負的絕招",
       "description": "",
       "content": [
-        "無論你是在觀看 OWCS 還是進行積分對戰，毫無疑問地，你一定看過索潔恩（Sojourn）僅憑一次絕招就將敵方隊伍全滅。超頻（Overclock）對敵隊來說始終是巨大的威脅，特別是當它與奈米強化（Nano Boost）或重力噴湧（Graviton Surge）等其他絕招搭配使用時。"
+        "無論你是在觀看 OWCS 還是進行積分對戰，毫無疑問地，你一定看過索潔恩（Sojourn）僅憑一次絕招就將敵方隊伍全滅。超頻（Overclock）對敵方隊伍來說永遠是巨大的威脅，特別是當它與奈米強化（Nano Boost）或重力噴湧（Graviton Surge）等其他絕招結合使用時。"
       ],
       "content_hash": "99488b8c595e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:23.660419Z"
+      "timestamp": "2026-03-26T04:23:12.263601Z"
     },
     "3.2.1": {
-      "title": "大絕期間需要爆頭",
+      "title": "絕招期間需要爆頭",
       "description": "",
       "content": [
-        "索潔恩（Sojourn）目前的套件之所以如此強勢，其中一個原因來自於她次要特殊能力（Minor Perk）所提供的 150% 能量充能。在她施放絕招期間，爆頭可以一擊秒殺所有 250 生命值的英雄。如果你無法穩定地打出爆頭，她的絕招表現將會顯得不如預期。"
+        "索潔恩（Sojourn）目前的技能組之所以如此強勢，其中一個原因來自於她次要特殊能力（Minor Perk）所提供的 150% 能量充能。在絕招期間，爆頭可以一擊秒殺所有 250 生命值的英雄。如果你無法穩定地打出爆頭，她的絕招表現將會顯得差強人意。"
       ],
       "content_hash": "1a079be5c289",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:25.351516Z"
+      "timestamp": "2026-03-26T04:23:14.222190Z"
     },
     "3.2.2": {
       "title": "冷卻時間依賴",
       "description": "",
       "content": [
-        "當動力滑行（Power Slide）處於冷卻狀態，且索潔恩（Sojourn）沒有充能完畢的磁軌砲（Railgun）時，她會變得非常脆弱。誤用這兩項能力往好處說是浪費時間，通常更會導致過早死亡。"
+        "當動力滑行（Power Slide）處於冷卻狀態，且索潔恩（Sojourn）沒有充能完畢的軌道槍（Railgun）時，她會變得非常脆弱。若誤用這兩項能力，往好處想是浪費時間，而通常情況下則會導致提早陣亡。"
       ],
       "content_hash": "4096158b8e7b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:27.013226Z"
+      "timestamp": "2026-03-26T04:23:16.312516Z"
     },
     "3.2.3": {
       "title": "大起大落",
       "description": "",
       "content": [
-        "索潔恩（Sojourn）玩家通常不是隊伍中的強力核心，就是沉重的負擔。你要麼能利用充能後的磁軌砲（Railgun）穩定擊殺敵人，否則就應該改玩像卡西迪（Cassidy）或士兵76（Soldier: 76）這種更可靠的英雄。你經常會看到索潔恩玩家打出一波精彩操作，憑一己之力贏下會戰，但隨後在遊戲剩下的時間裡卻不斷送頭。"
+        "索潔恩（Sojourn）玩家通常不是隊伍中的強力核心，就是沉重的負擔。你要麼能用充能後的軌道槍（Railgun）穩定擊殺敵人，否則就該改玩像卡西迪（Cassidy）或士兵76（Soldier: 76）這種更可靠的英雄。你經常會看到索潔恩玩家打出一次精彩操作，憑一己之力贏下會戰，但隨後在整場比賽中卻不斷送頭。"
       ],
       "content_hash": "87be24cc3312",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:28.567419Z"
+      "timestamp": "2026-03-26T04:23:18.366813Z"
     },
     "4.1": {
-      "title": "主要攻擊：軌道槍（Railgun）",
+      "title": "主要攻擊：磁軌槍",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/e8c9519205769313.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frailgun.png)軌道槍（Railgun）的使用技巧**",
+        "**![](/data/assets/guide/e8c9519205769313.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frailgun.png)磁軌槍的使用技巧**",
         "* 如何累積能量",
         "* * 暴擊 = 10 點能量",
-        "* * 身體射擊 = 5 點能量",
-        "* * 對部署物造成的傷害 = 1 點能量",
+        "* 身體射擊 = 5 點能量",
+        "* 對部署物造成的傷害 = 1 點能量",
         "* 目標優先級",
-        "* * 當敵方隊伍的坦克位置過於靠前，而其他隊員位於後方時，請盡可能保持隱蔽，並透過攻擊坦克來累積能量。",
-        "* 若所有目標皆有屏障保護，請持續射擊屏障，直到有目標暴露為止。",
-        "* 面對鬥陣陣容（brawl comps）時，請射擊離你最近或對你威脅最大的目標。",
+        "* * 當敵方隊伍的坦克位置過於靠前，而其餘隊友在後方時，請盡可能保持隱蔽，並透過攻擊坦克來累積能量。",
+        "* 如果所有目標都有屏障保護，請持續射擊屏障，直到有目標暴露為止。",
+        "* 面對鬥毆陣容時，請射擊離你最近或對你威脅最大的目標。",
         "* 子彈擴散",
         "* * 連續射擊超過 12 發子彈會觸發嚴重的子彈擴散。",
-        "* 當射擊 20 公尺以外的目標時，請在每次連射之間暫停一整秒，以保持子彈擴散的精準度。"
+        "* 當射擊 20 公尺以外的目標時，請在每次連射之間暫停一整秒，以保持子彈彈道的精準度。"
       ],
       "content_hash": "066bbbdb1c78",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:30.954976Z"
+      "timestamp": "2026-03-26T04:23:19.950994Z"
     },
     "4.2": {
       "title": "次要攻擊：軌道槍（蓄力射擊）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/e8c9519205769313.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frailgun.png)軌道槍（蓄力射擊）的技巧**",
-        "* 最重要的能力",
-        "* 以傷害輸出（DPS）和輔助（Supports）為目標",
-        "* * 對 250 或 225 生命值的英雄造成瞬間 180 點傷害，會讓他們立即陷入死亡威脅。同樣的傷害打在 700 生命值的坦克（Tank）身上雖然會痛，但不會中斷他們的攻勢。",
-        "* 對脆弱目標進行滿蓄力的身體射擊，其影響力大於對坦克進行致命一擊（critical hit）。",
+        "**![](/data/assets/guide/e8c9519205769313.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frailgun.png)軌道槍（蓄力射擊）的操作技巧**",
+        "* 最重要的技能",
+        "* 以傷害輸出和輔助為目標",
+        "* * 對 250 或 225 生命值的英雄造成 180 點瞬間傷害，會讓他們立即陷入死亡威脅。同樣的傷害打在 700 生命值的坦克身上雖然會痛，但無法阻止他們的攻勢。",
+        "* 對脆皮英雄進行一次滿蓄力的身體射擊，其影響力遠大於對坦克造成一次暴擊。",
         "* 尋找低生命值的敵人",
-        "* * 由於軌道槍（Railgun）蓄力射擊的射程與傷害，索潔恩（Sojourn）非常擅長消滅生命值危急的敵人。",
+        "* * 由於軌道槍蓄力射擊具有射程與傷害優勢，索潔恩（Sojourn）在消滅生命值危急的敵人方面表現出色。",
         "* 生命值偏低的敵人是你的首要目標。即使射擊難度較高，也要嘗試開火。",
-        "* 保留蓄力",
-        "* * 等待好的射擊機會。如果沒有明確的目標可以攻擊傷害輸出或輔助，且坦克生命值全滿，那就保留你的蓄力射擊。",
-        "* 蓄力衰減前有長達 9 秒的窗口期。每次你透過命中射擊累積蓄力時，這個時間就會重置。",
+        "* 保留蓄力能量",
+        "* * 等待好的射擊機會。如果沒有明確的傷害輸出或輔助目標，且坦克生命值全滿，那就保留你的蓄力射擊。",
+        "* 蓄力能量在衰減前有長達 9 秒的窗口期。每次你透過命中射擊累積能量時，這個時間都會重置。",
         "* 對抗狙擊手時，這項原則的重要性加倍。當你已經擁有滿蓄力時，不需要急著探頭射擊。"
       ],
       "content_hash": "73ed2ccf75f8",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:34.152716Z"
+      "timestamp": "2026-03-26T04:23:23.053183Z"
     },
     "4.3": {
       "title": "[SHIFT]：強力滑行（Power Slide）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/861b66a38565c2cf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpower-slide.png)強力滑行（Power Slide）的使用技巧**",
-        "* 進場",
-        "* * 快速跳向目標，或是移動到適合進行蓄力射擊與使用干擾器（Disruptor）的位置。在轉角處滑行時，通常能讓敵人措手不及。",
-        "* 耐心等待",
-        "* * 在 Overwatch 中，八秒鐘的時間足以讓你無法重新調整位置。如果你只是因為不想多花 2 秒走路而使用滑行，那麼當你真正需要滑行時，它就會處於冷卻狀態。",
+        "![](/data/assets/guide/861b66a38565c2cf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpower-slide.png)強力滑行（Power Slide）的技巧",
+        "* 進入戰鬥",
+        "* 快速跳向目標，或移動到適合進行蓄力射擊與使用干擾器（Disruptor）的位置。當你繞過轉角進行滑行時，往往能讓敵人措手不及。",
+        "* 保持耐心",
+        "* 在《鬥陣特攻》中，八秒無法重新調整位置是相當長的一段時間。如果你只是因為不想多花 2 秒走路而使用滑行，那麼當你真正需要滑行時，技能將會處於冷卻中。",
         "* 逃脫",
-        "* * 觀察敵方隊伍並預測他們的意圖。請記住，每當對方擁有衝鋒或側襲者（Flanker）英雄時，他們隨時會突然逼近並發動攻擊。",
-        "* 務必保留強力滑行（Power Slide）來跳開並閃避他們的攻擊。",
-        "* 高處優勢",
-        "* * 在每場戰鬥前以及戰鬥過程中，你大多會希望透過超級跳躍（Super Jump）來到高處。利用隆起的地面作為掩體來隱蔽自己，並藉此改變你的站位與進攻時機。",
-        "* 許多敵人難以攻擊位於高處的你，因此那裡幾乎總是更安全的位置。",
+        "* 觀察敵方隊伍並預測他們的意圖。請務必了解，當對方擁有擅長衝鋒或突襲的英雄時，他們隨時會突然逼近並發動攻擊。",
+        "* 請務必保留強力滑行（Power Slide）來跳開並閃避他們的攻擊。",
+        "* 高地",
+        "* 在每場戰鬥前以及戰鬥過程中，你大多會希望透過超級跳躍（Super Jump）來到高處。利用高地地形作為掩體來隱蔽自己，並藉此改變你的站位與進攻時機。",
+        "* 許多敵人難以攻擊位於高處的你，因此待在高地幾乎總是比較安全的選擇。",
         "* 超級跳躍（Super Jump）",
-        "* * 跳躍、使用強力滑行（Power Slide），並立即再次跳躍以取消滑行的前進慣性，進而獲得額外的垂直高度。"
+        "* 跳躍、使用強力滑行（Power Slide），並立即再次跳躍，以取消滑行的向前慣性並獲得額外的垂直高度。"
       ],
       "content_hash": "771898aa6a27",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:36.525590Z"
+      "timestamp": "2026-03-26T04:23:27.352428Z"
     },
     "4.4": {
       "title": "[E]：干擾射擊（Disruptor Shot）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/900594053065a6b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdisruptor-shot.png)干擾射擊（Disruptor Shot）的使用技巧**",
-        "* 咽喉點（Choke points）",
-        "* 累積絕招能量最簡單的方式，就是在敵人經過咽喉點時，將干擾射擊（Disruptor Shot）黏在地面或門口。敵人通常會在那裡聚集，因此更容易受到傷害。",
-        "* 用於分割陣型",
+        "![](/data/assets/guide/900594053065a6b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdisruptor-shot.png)干擾射擊（Disruptor Shot）的使用技巧",
+        "* 咽喉點",
+        "* 當敵人經過咽喉點時，將干擾射擊（Disruptor Shot）黏在地面或門上是累積絕招能量最快的方式。敵人通常會在那裡聚集，更有可能受到傷害。",
+        "* 用於分割",
         "* 當你想將兩名敵人隔開時，將干擾射擊（Disruptor Shot）黏在他們之間。",
-        "* 範例：當敵方戰士（Bruiser）向前推進時，將干擾射擊（Disruptor Shot）黏在跟隨在後的隊友前方，阻止他們跟上戰士（Bruiser）。",
-        "* 從高處向下射擊時會顯得更容易命中。",
+        "* 範例：當敵方戰士向前推進時，將干擾射擊（Disruptor Shot）黏在跟隨其後的隊友前方，以阻止他們跟隨戰士推進。",
+        "* 從高處向下射擊時會明顯更容易命中。",
         "* 切斷逃生路線",
-        "* 每當你以充能軌道射擊（Rail shot）命中並將敵人打殘時，假設他們沒有自我治療能力，他們通常會試圖躲到掩體後方。將干擾射擊（Disruptor Shot）射向他們試圖撤退的位置，這樣不僅能迫使他們留在空曠處，還能利用干擾射擊（Disruptor Shot）的傷害將其擊殺。"
+        "* 每當你擊中一發蓄力軌道射擊（Rail shot）並將敵人打至殘血時，預判他們會嘗試躲到掩體後方（除非他們有自我治療能力）。將干擾射擊（Disruptor Shot）射向他們試圖撤退的位置，這樣你要麼能強迫他們留在空曠處，要麼能利用干擾射擊（Disruptor Shot）的傷害將其擊殺。"
       ],
       "content_hash": "fd1939c80014",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:39.314144Z"
+      "timestamp": "2026-03-26T04:23:30.892983Z"
     },
     "4.5": {
       "title": "絕招：超頻（Overclock）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/74549b59ef18f026.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverclock.png)超頻（Overclock）的使用技巧**",
-        "* 不要過度投入",
-        "* 最糟糕的做法就是在隊伍面前使用動力滑行（Powerslide）然後瞬間陣亡。請待在有掩護的地方，無論是天然掩體還是坦克（Tank）身後。",
+        "![](/data/assets/guide/74549b59ef18f026.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverclock.png)超頻（Overclock）的使用技巧",
+        "* 不要過度深入",
+        "* 在使用絕招時，最糟糕的情況就是滑行（Powerslide）到隊伍最前方然後瞬間陣亡。請待在有掩護的地方，無論是天然掩體還是坦克。",
         "* 等待隊伍發動攻勢",
-        "* 當隊伍還在被動地進行遠程消耗時就使用超頻（Overclock）會限制其潛力。請等到隊伍已經投入戰鬥並開始交換冷卻時間（Cooldowns）後，再啟動你的絕招。",
-        "* 這樣做能讓你獲得最高的成功機率，因為敵人用來反制你的資源會變少，且他們大部分的注意力也會被你的隊友所吸引。",
-        "* 要求隊友支援",
-        "* 使用語音聊天（VC）要求一名輔助（Support）在絕招期間為你提供專注治療（Pocket），或者至少標記「我的絕招準備好了」。來自輔助的持續治療能讓你站位更靠前、承受更多傷害，並持續射擊你的蓄力射擊（Charged shots）。"
+        "* 當隊伍還在消極地與敵人進行消耗戰時就使用超頻（Overclock），會限制其潛力。請等到隊伍已經投入戰鬥並開始交換冷卻技能後，再啟動你的絕招。",
+        "* 這樣做能為你帶來最高的成功機率，因為敵人用來反制你的資源會變少，且他們的注意力會更多地被你的隊友所吸引。",
+        "* 要求支援保護",
+        "* 使用語音聊天要求一名輔助英雄在絕招期間保護你，或者至少標記「我的絕招準備好了」。來自輔助英雄的持續治療能讓你站位更靠前、承受更多傷害，並持續射擊你的蓄力射擊。"
       ],
       "content_hash": "f6888eb398f6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:42.301538Z"
+      "timestamp": "2026-03-26T04:23:34.436372Z"
     },
     "5.1.1": {
-      "title": "減速力場（Deceleration Field）",
+      "title": "減速力場",
       "description": "被干擾射擊（Disruptor Shot）擊中的敵人會被緩速 25%。",
       "content": [
         "**擴充彈匣（Extended Mag）**",
-        "* 較弱的次要特殊能力（minor perks）",
+        "* 較弱的次要特殊能力",
         "* 累積更多充能",
-        "* 選擇擴充彈匣（Extended Mag）的唯一好處在於，由於減少了裝填時間，理論上你可以更快地累積充能射擊。"
+        "* 選擇擴充彈匣的唯一好處在於，理論上你可以因為減少了換彈時間，進而更快累積充能射擊。"
       ],
       "content_hash": "9f07a4822fa1",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:43.732001Z"
+      "timestamp": "2026-03-26T04:23:36.692659Z"
     },
     "5.1.2": {
-      "title": "超載（Overcharged）",
-      "description": "當超頻（Overclock）啟動時，軌道槍（Railgun）的最大能量增加 50。",
+      "title": "超頻充能（Overcharged）",
+      "description": "當超頻（Overclock）啟動時，磁軌砲（Railgun）的最大能量增加 50。",
       "content": [
-        "* 最佳次要特殊能力（Best Minor Perk）",
+        "* 最佳次要特殊能力（minor perks）",
         "* 一擊擊殺 250 生命值的英雄",
-        "* 150% 蓄力的射擊在造成暴擊時可造成 255 點傷害。由於大多數英雄的生命值都在此門檻內，你將有許多機會可以瞬間擊殺敵人。",
-        "* 射擊間隙使用主要攻擊",
-        "* 別忘了持續使用主要攻擊來更快累積能量，並在絕招持續期間盡可能多地發射次要攻擊。"
+        "* 150% 充能的射擊在造成暴擊時會產生 255 點傷害。由於大多數英雄的生命值都在此門檻內，你將有大量的機會可以精準爆頭擊殺對手。",
+        "* 在射擊間隙使用主要攻擊",
+        "* 別忘了持續使用主要攻擊來更快累積充能，並在絕招持續期間盡可能地發射更多次次要攻擊。"
       ],
       "content_hash": "fc704c929486",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:45.734909Z"
+      "timestamp": "2026-03-26T04:23:39.235784Z"
     },
     "5.2.1": {
       "title": "雙重推進器（Dual Thrusters）",
-      "description": "威力滑行（Power Slide）獲得額外充能次數，且跳躍高度轉變為橫向位移。",
+      "description": "威力滑行（Power Slide）獲得額外一次充能，且跳躍高度轉變為橫向位移。",
       "content": [
-        "* 最佳主要特殊能力（major perks）",
-        "* 沒錯，你犧牲了一點垂直高度，但獲得第 2 次威力滑行（Power Slide）充能是非常強大的。",
-        "* 新的移動選擇",
-        "* 通常我們會建議在使用威力滑行（Power Slide）時要非常謹慎。然而有了雙重推進器（Dual Thrusters），你可以大膽地利用第一次滑行深入敵陣，因為你還保有第二次滑行來脫離戰場的選擇。",
-        "* 對抗機動突襲（anti-dive）表現優異",
+        "* 最佳主要特殊能力",
+        "* 沒錯，雖然犧牲了一點垂直高度，但獲得第二次威力滑行（Power Slide）充能的效果極其強大。",
+        "* 全新的移動選擇",
+        "* 通常我們會建議在使用威力滑行（Power Slide）時保持高度謹慎。然而有了雙重推進器（Dual Thrusters），你可以大膽地利用第一次滑行深入敵陣，因為你還保留了第二次滑行來脫離戰場的選擇。",
+        "* 對抗側襲者（Flanker）的利器",
         "* 能夠進行雙重滑行提升了索潔恩（Sojourn）的生存能力，使她更難被追擊與擊殺。",
-        "* 她沒有滑行時的脆弱空窗期實際上縮短了一半，也讓敵人更難以鎖定。",
+        "* 她沒有滑行時的脆弱空窗期實際上縮短了一半，也讓敵人更難以鎖定目標。",
         "**黏著虹吸（Adhesive Siphon）**",
-        "* 較弱的主要特殊能力（major perks）",
+        "* 較弱的主要特殊能力",
         "* 傷害減半",
         "* 黏著干擾器（Adhesive Disruptor）最高僅能造成約 150 點傷害。即使你成功黏住目標，若想完成擊殺，仍需補上大量的額外傷害。",
         "* 軌道槍（Railgun）與絕招充能",
-        "* 將干擾器（Disruptor）黏在敵人身上的能力提升了其造成傷害的穩定性。此外，如果被黏住的目標靠近其他敵人，你也能獲得範圍傷害（AoE damage）。",
+        "* 將干擾器（Disruptor）黏在敵人身上的能力提升了造成傷害的穩定性。此外，如果被黏住的目標靠近其他敵人，你也能造成範圍傷害。",
         "* 因此，你產生軌道槍（Railgun）能量與絕招充能的速度會更快。",
-        "* 一個被黏住的目標可為軌道槍（Railgun）產生 36 點能量。",
+        "* 黏住目標可為軌道槍（Railgun）產生 36 點能量。",
         "* 等待容易命中的目標",
-        "* 15 秒的冷卻時間必須謹慎使用。等到你看準容易命中的目標再出手，不要隨意亂射。"
+        "* 15 秒的冷卻時間必須謹慎使用。在隨意發射之前，請等到看見容易命中的目標再出手。"
       ],
       "content_hash": "074e092fadb6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:48.987209Z"
+      "timestamp": "2026-03-26T04:23:43.261173Z"
     },
     "5.2.2": {
-      "title": "摩擦產生器（Friction Generators）",
-      "description": "在滑行時，強力滑行（Power Slide）最多可產生 50 點能量。",
+      "title": "摩擦產生器",
+      "description": "在滑行時，動力滑行（Power Slide）最多可產生 50 點能量。",
       "content": [
-        "未提供攻略",
-        "* 特殊能力（perk）：摩擦產生器（Friction Generators）"
+        "未提供指南",
+        "特殊能力：摩擦產生器（Friction Generators）"
       ],
       "content_hash": "815b0d5838d9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:50.385076Z"
+      "timestamp": "2026-03-26T04:23:44.690013Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "索潔恩（Sojourn）的多功能性使她在每張地圖上都能有出色的表現。話雖如此，她在擁有高處的地圖上表現最為亮眼，因為她的滑行跳躍（Slide jump）可以觸及這些位置。此外，中距離的視線範圍最適合她，因為她的傷害衰減從 40 公尺處開始。最會限制她發揮的地圖，是那些沒有足夠空間讓她四處滑行並維持理想中距離戰鬥位置的地圖。此外，如果地圖的高處過高，她的滑行（Slide）實用性會大幅降低，與那些能透過機動性佔據垂直位置的英雄相比，她將處於劣勢。"
+        "索潔恩（Sojourn）的多功能性讓她在每張地圖上都能有出色的表現。話雖如此，她在擁有高處優勢的地圖上表現最為亮眼，這正是她滑行跳躍（Slide jump）所能觸及的地方。此外，中距離的視野對她來說最為理想，因為她的傷害衰減從 40 公尺處開始。最會限制她發揮的地圖，是那些無法提供足夠空間讓她滑行並維持理想中距離戰鬥的地圖。此外，如果地圖的高處過高，她的滑行（Slide）實用性會大幅降低，與那些能透過機動性佔據垂直位置的英雄相比，她將處於劣勢。"
       ],
       "content_hash": "5ff840f522d3",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:51.988892Z"
+      "timestamp": "2026-03-26T04:23:46.742233Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩（Sojourn）是《Overwatch》中的輸出英雄。無論她與哪種隊伍陣容搭配，總能找到發揮價值的方式。基本上沒有任何一種隊伍原型是索潔恩無法融入的。"
+        "![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩是《鬥陣特攻》中的輸出型英雄。無論與哪種隊伍陣容搭配，她都能找到發揮價值的方式。基本上沒有任何一種隊伍類型是索潔恩無法融入的。"
       ],
       "content_hash": "9caf86e606ca",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:53.191559Z"
+      "timestamp": "2026-03-26T04:23:48.299698Z"
     },
     "7.0.1": {
       "title": "坦克與站位",
       "description": "",
       "content": [
-        "她最強的隊伍陣容建立在讓她能積極進攻，並透過完全充能的軌道槍（Railgun）射擊與超頻（Overclock）來主導戰局。有護盾可供掩護的坦克，例如 ![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)多米娜 或 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特，能讓她更安全地守住前線。雖然她也能與像是 ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)毀滅拳王 這類機動坦克搭配，但她最能從定點坦克（anchor tanks）所提供的穩定站位中獲益。"
+        "她最強的隊伍陣容建立在能夠讓她激進地遊玩，並透過完全充能的磁軌砲（Railgun）射擊與超頻（Overclock）來帶領隊伍。有護盾可以躲在後面的坦克，例如 ![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png) 多米娜 或 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png) 萊因哈特，能讓她更安全地佔據前線。雖然她也能與像 ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png) 毀滅拳王 這樣的機動坦克搭配，但她最能從定點坦克所提供的穩定站位中獲益。"
       ],
       "content_hash": "13791e184c2d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:55.301860Z"
+      "timestamp": "2026-03-26T04:23:50.419320Z"
     },
     "7.0.2": {
-      "title": "輸出傷害（DPS）搭配",
+      "title": "傷害輸出英雄搭配",
       "description": "",
       "content": [
-        "能夠透過側襲（flanking）將敵方注意力從她的角度引開的輸出傷害（DPS）英雄（例如 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光 或 ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏）是絕佳的搭配。或者，像 ![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)托比昂 這類防禦型英雄，也非常適合用來保護她免受突擊威脅，並讓她變得更難以被擊殺。"
+        "能夠透過側襲（如 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光 或 ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏）來轉移敵人對她視角注意力的傷害輸出英雄，是非常優秀的搭配。或者，像 ![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)托比昂 這類防禦型英雄，在保護她免受突擊威脅以及讓她變得更難被擊殺方面表現出色。"
       ],
       "content_hash": "289c0f2cfe29",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:57.181558Z"
+      "timestamp": "2026-03-26T04:23:52.189690Z"
     },
     "7.0.3": {
-      "title": "輔助搭配",
+      "title": "輔助英雄搭配",
       "description": "",
       "content": [
-        "對於輔助角色來說，最佳選擇通常是 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲，透過傷害增強來輔助她。然而，請記住這需要投入五人隊伍中 40% 的資源來讓索潔恩發揮致命威力。因此，她必須立即打出成效，否則隊伍將會陷入極大的劣勢。",
-        "其他強勢選擇包括任何能透過遠程治療或進攻增益提供協助的輔助角色，例如在超頻（Overclock）絕招期間搭配 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜的 ![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png)奈米強化（Nano Boost）。"
+        "對於輔助英雄來說，最佳選擇通常是 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png) 慈悲，利用她的傷害增幅來輔助索潔恩。然而，請記住這需要將五人隊伍中 40% 的資源投入在讓索潔恩變得致命上。因此，她必須立即打出成效，否則隊伍將會陷入巨大的劣勢。",
+        "其他強勢的選擇包括任何能透過遠程治療或進攻增益提供協助的輔助英雄，例如在發動超頻（Overclock）絕招期間，搭配 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png) 安娜的 ![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png) 奈米強化。"
       ],
       "content_hash": "6dbd663239d4",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:58.956224Z"
+      "timestamp": "2026-03-26T04:23:54.487120Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "留意索潔恩（Sojourn）蓄力後的電磁砲（Railgun）射擊。當她幾秒鐘沒有開火時，請移動到她的視線範圍（LoS）之外。",
+        "留意索潔恩（Sojourn）蓄力後的磁軌砲（Railgun）射擊。當她幾秒鐘沒有開火時，請移動到她的視線範圍（LoS）之外。",
         "當你聽到超頻（Overclock）的音效時，請尋找掩體並躲避。若無法躲避，請立即集火攻擊她。",
-        "在她使用強力滑行（Power Slide）之後，請迅速對她進行突襲。她將無法逃脫，且此時電磁砲（Railgun）的蓄力通常較低。"
+        "在她使用強力滑行（Power Slide）後，迅速對她進行突襲。她將無法逃脫，且此時磁軌砲（Railgun）的蓄力值通常很低。"
       ],
       "content_hash": "ec2b5de9f630",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:00.397339Z"
+      "timestamp": "2026-03-26T04:23:56.373986Z"
     },
     "8.2": {
       "title": "特定英雄剋制名單",
@@ -368,17 +368,18 @@
       "content": [
         "* 溫斯頓",
         "* 源氏",
-        "* 閃光"
+        "* 閃光",
+        "* 駭影"
       ],
-      "content_hash": "f6c104e97d4d",
-      "prompt_version": "v7",
+      "content_hash": "c3848077a82d",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:01.806397Z"
+      "timestamp": "2026-03-26T05:10:57.417629Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:14:11.343186Z"
+    "timestamp": "2026-03-26T05:10:55.992332Z"
   }
 }

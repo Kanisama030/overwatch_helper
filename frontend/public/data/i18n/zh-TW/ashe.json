@@ -3,335 +3,335 @@
   "locale": "zh-TW",
   "sections": {
     "1": {
-      "title": "概述",
+      "title": "概覽",
       "description": "",
       "content": [
-        "這位在西部荒野贏得敬重、同時身為亡鎖幫首領的女牛仔，總能在地平線之外解決她的目標。![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）憑藉她那把可靠的槓桿式步槍「毒蛇（The Viper）」，其射程優於《鬥陣特攻》中幾乎所有的英雄。![](/data/assets/guide/6d41bdb3da6b2de8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fthe-viper.png)她不僅能利用精準的槍法爆頭，還能射擊空中的「炸藥（Dynamite）」，讓整個敵方隊伍陷入火海。![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)當你的隊伍需要與敵方保持距離時，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）的技能組表現無人能及。她結合了遠程、範圍傷害（AoE）與爆發傷害的能力，有助於瓦解敵方的攻勢。"
+        "作為死局幫的牛仔首領，她在荒野西部贏得了眾人的敬重，並能從地平線之外狙擊目標。![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西憑藉她那把可靠的槓桿式步槍「毒蛇（The Viper）」，在《鬥陣特攻》中擁有幾乎超越所有英雄的射程優勢。![](/data/assets/guide/6d41bdb3da6b2de8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fthe-viper.png)她不僅能利用精準的槍法爆頭，還能射擊空中的「炸藥（Dynamite）」來點燃整個敵方隊伍。![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)當你的隊伍需要與敵方保持距離時，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西的技能組表現無人能及。她結合了遠程、範圍傷害與爆發傷害，能有效阻斷敵方的推進。"
       ],
       "content_hash": "e6cf5e38a0b9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:59.607558Z"
+      "timestamp": "2026-03-26T04:25:05.780545Z"
     },
     "1.1.1": {
-      "title": "操作指南",
+      "title": "操作技巧",
       "description": "",
       "content": [
         "* 不斷變換你的位置以保持距離，並讓敵人措手不及。",
         "* 使用 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）來瞄準掩體、牆壁和遮蔽物後的敵人。他們會以為自己躲得很安全，直到被爆炸擊中為止。",
-        "* 將 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）派往目標點，為你的隊伍爭取進度並阻止敵人的推進。![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）本人應該盡量避免，甚至根本不該站在目標點上。"
+        "* 將 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）派往目標點，為你的隊伍爭取進度並阻止敵人的推進。![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）幾乎不應該，甚至完全不應該親自站在目標點上。"
       ],
       "content_hash": "ed13c9037ddd",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:01.549652Z"
+      "timestamp": "2026-03-26T04:25:07.757882Z"
     },
     "1.1.2": {
-      "title": "對抗策略",
+      "title": "對戰策略",
       "description": "",
       "content": [
-        "* 縮短距離。![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西在近距離戰鬥中較為弱勢。設法靠近她並將其擊倒。",
-        "* 留意 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）12 秒的冷卻時間。如果她剛使用過，你就可以向前推進。如果她有一段時間沒丟出炸藥，試著站在她的投擲範圍之外。",
-        "* 躲避 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）。他的生命值極高，如果你的隊伍無法迅速將他擊殺，最好離開他的視線（LoS），等待他離開。"
+        "* 拉近距離。![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西在近距離戰鬥中較為吃力。設法接近她並將其擊倒。",
+        "* 留意![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）的 12 秒冷卻時間。如果她剛使用過，你就可以向前推進。如果她有一段時間沒丟出炸藥，試著保持在她投擲範圍之外。",
+        "* 躲避![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）。他的生命值極高，如果你的隊伍無法迅速將其擊殺，最好離開他的視線範圍（LoS），等待他離開。"
       ],
       "content_hash": "e45a76bee29d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:03.554278Z"
+      "timestamp": "2026-03-26T04:25:10.097095Z"
     },
     "2": {
-      "title": "優勢與劣勢總結",
+      "title": "優缺點總結",
       "description": "",
       "content": [
         "* 強大的控制能力",
         "* 穩定的傷害輸出",
         "* 優異的據點壓制力",
         "* 操作難度高",
-        "* 無法一擊擊殺目標",
-        "* 不擅長應對近距離戰鬥"
+        "* 無法秒殺敵人",
+        "* 不擅長近距離作戰"
       ],
       "content_hash": "94cbe5bd7aaf",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:05.117024Z"
+      "timestamp": "2026-03-26T04:25:11.763735Z"
     },
     "3.1.1": {
       "title": "角度控制",
       "description": "",
       "content": [
-        "![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）在佔據角度方面表現極為出色。如果她能先就位，就能保持開鏡狀態，並在敵人轉角出現時立即開火。如果敵人試圖躲在轉角後方，她可以使用 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）並透過爆炸的範圍傷害（AoE）擊中他們。"
+        "![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西在把守角度方面表現極為出色。如果她能先行就位，便能保持開鏡狀態，並在敵人轉角出現時立即開火。如果敵人試圖躲在轉角後方，她可以使用 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）並透過爆炸的範圍傷害（AoE）擊中他們。"
       ],
       "content_hash": "73f5f55f0289",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:06.972484Z"
+      "timestamp": "2026-03-26T04:25:14.100255Z"
     },
     "3.1.2": {
-      "title": "穩定的傷害型神射手",
+      "title": "穩定輸出型神射手",
       "description": "",
       "content": [
-        "與其他神射手如 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女 和 ![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏 相比，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西 能為隊伍帶來更穩定的傷害。多虧了 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）以及較高的射速，她的技能組表現不會大起大落。當她的準度不足以解決敵人時，還可以使用 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）來進行收頭。"
+        "與其他神射手如 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女 和 ![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏 相比，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西 能為隊伍帶來更穩定的傷害。多虧了 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite） 以及較高的射速，她的技能組不會有太大的表現起伏。當她的瞄準無法發揮作用時，也可以使用 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.） 來收割殘血敵人。"
       ],
       "content_hash": "812f4279d62d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:08.763053Z"
+      "timestamp": "2026-03-26T04:25:16.348389Z"
     },
     "3.1.3": {
       "title": "據點壓力",
       "description": "",
       "content": [
-        "![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 可以說是遊戲中最強的目標型絕招。他能造成高額傷害、擁有大量生命值，且對 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西與其隊伍來說毫無風險。這些特質使他非常適合用來爭奪目標點。![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）的範圍傷害也讓敵人難以在據點上久留。"
+        "![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B.（B.O.B.）可以說是遊戲中最強的目標導向絕招。他能造成高額傷害、擁有大量生命值，且對 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西與其隊伍來說毫無風險。這些特性使他非常適合用來爭奪目標點。![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）的範圍傷害也讓敵方難以在據點上久留。"
       ],
       "content_hash": "2911e535b648",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:10.930634Z"
+      "timestamp": "2026-03-26T04:25:18.647069Z"
     },
     "3.2.1": {
       "title": "對操作技術要求高",
       "description": "",
       "content": [
-        "一個不幸的事實是，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西最大的弱點取決於玩家個人的操作技術。如果你是頂尖高手，且擁有精準的爆頭能力，那麼使用 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西幾乎不可能表現得太差。反過來說，如果你每兩槍就空一槍，那麼在遊玩她時，要為隊伍帶來價值將會變得非常困難。"
+        "殘酷的現實是，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西最大的弱點在於玩家個人的操作技術。如果你是槍法精準、能不斷爆頭的怪物，那麼使用 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西幾乎不可能表現得太差。反過來說，如果你每兩槍就空一槍，那麼在選用她時，要為隊伍帶來價值將會變得非常困難。"
       ],
       "content_hash": "f96da5f4ad41",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:12.891542Z"
+      "timestamp": "2026-03-26T04:25:20.792036Z"
     },
     "3.2.2": {
       "title": "無法一擊必殺",
       "description": "",
       "content": [
-        "由於 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西無法造成一擊必殺，因此在狙擊對決中面對 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女和 ![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏時處於劣勢。特別是在哈瓦那和皇家賽道這類長距離地圖上，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西的站位必須比 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女或 ![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏更加謹慎。"
+        "由於 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西無法一擊必殺，她在狙擊對決中面對 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女和 ![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏時處於劣勢。特別是在哈瓦那和皇家賽道這類長距離地圖上，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西的站位必須比 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女或 ![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏更加謹慎。"
       ],
       "content_hash": "36e8c817b375",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:14.519942Z"
+      "timestamp": "2026-03-26T04:25:22.712206Z"
     },
     "3.2.3": {
       "title": "近距離交戰的困境",
       "description": "",
       "content": [
-        "雖然艾西（Ashe）可以使用腰射和 ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍（Coach Gun），但 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）在近距離戰鬥中處於極大劣勢。如果她已經被迫使用過 ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍（Coach Gun），她將無法防禦突擊型英雄的進攻。此外，大多數高機動性英雄的位移技能冷卻時間都比 ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍（Coach Gun）短，因此即便 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）將他們擊退，他們也能在她的 ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍（Coach Gun）冷卻完畢前再次發動進攻。"
+        "雖然艾西可以使用腰射和 ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png) 雙管獵槍（Coach Gun），但 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png) 艾西在近距離戰鬥中處於極大的劣勢。如果她已經被迫使用過 ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png) 雙管獵槍（Coach Gun），那麼她將無法防禦突擊型英雄。此外，大多數高機動性英雄的位移技能冷卻時間都比 ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png) 雙管獵槍（Coach Gun）短，因此即使 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png) 艾西將他們擊退，他們也能在她的 ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png) 雙管獵槍（Coach Gun）冷卻完畢前再次發動進攻。"
       ],
       "content_hash": "ee6078338c2c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:16.490430Z"
+      "timestamp": "2026-03-26T04:25:24.918627Z"
     },
     "4.1": {
       "title": "主要攻擊：毒蛇（The Viper）",
       "description": "",
       "content": [
-        "![](/data/assets/guide/6d41bdb3da6b2de8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fthe-viper.png)毒蛇（The Viper）操作技巧",
+        "![](/data/assets/guide/6d41bdb3da6b2de8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fthe-viper.png)毒蛇（The Viper）的使用技巧",
         "* 不要一次打光所有彈藥",
-        "* 務必嘗試保留至少幾發子彈用於瞄準射擊（ADS shots）。在恐慌中為了生存，很容易會想直接腰射掃射。請盡量節省彈藥，並尋找機會切換回瞄準射擊。",
-        "* 請考慮到若要擊殺一名滿血 250 生命值的敵人，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西必須連續命中 8 發腰射身體傷害，否則就會被對方反殺！",
+        "* 務必嘗試保留至少幾發子彈用於瞄準射擊（ADS）。在恐慌中為了生存，很容易會想直接盲射掃射。請盡量節省彈藥，並尋找機會切換回瞄準射擊。",
+        "* 請考慮到若要擊殺一名生命值全滿的 250 點生命值敵人，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）必須連續命中 8 發盲射身體射擊，否則對方就會先將她擊殺！",
         "* 收割低生命值的敵人",
-        "* 腰射依然是即時命中（hitscan），且較快的射速使其成為收割那些在瞄準射擊後殘血目標的理想選擇。"
+        "* 盲射依然是即時命中（hitscan），且較快的射速使其非常適合用來收割那些從你的瞄準射擊中僥倖存活的目標。"
       ],
       "content_hash": "2b628460d5f6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:18.828655Z"
+      "timestamp": "2026-03-26T04:25:27.721592Z"
     },
     "4.2": {
       "title": "次要攻擊：毒蛇（瞄準射擊）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/6d41bdb3da6b2de8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fthe-viper.png)毒蛇（瞄準射擊）的使用技巧**",
-        "* 將大部分的時間花在瞄準射擊（ADS）上",
-        "* 瞄準射擊是你的主要傷害來源，也是遊玩 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西 的核心原因。因此，請盡可能多加利用。",
-        "* 25% 的移動速度懲罰並不會讓 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西 變得更容易被追蹤。總體而言，為了閃避迎面而來的火力而取消瞄準並不划算。"
+        "關於 ![](/data/assets/guide/6d41bdb3da6b2de8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fthe-viper.png)毒蛇（瞄準射擊）的提示",
+        "* 大部分時間請保持瞄準射擊狀態",
+        "* 瞄準射擊是你主要的傷害來源，也是遊玩 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西的全部意義所在。因此，請盡可能多使用此模式。",
+        "* 25% 的移動速度懲罰並不會讓 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西變得更容易被鎖定。總體而言，為了閃避即將到來的火力而取消瞄準並不划算。"
       ],
       "content_hash": "7d1327abd538",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:20.743943Z"
+      "timestamp": "2026-03-26T04:25:29.378802Z"
     },
     "4.3": {
-      "title": "[SHIFT]：雙管獵槍（Coach Gun）",
+      "title": "[SHIFT]：雙管獵槍",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍（Coach Gun）的使用技巧**",
+        "![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍的技巧",
         "* 離我遠點",
-        "* ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍（Coach Gun）最有價值的用途是將側襲者（Flanker）從你身邊擊退。擊退正在跳躍的 ![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓（Winston）可以中斷他的攻擊，並經常迫使他浪費防護力場（Bubble）後撤退。",
-        "* 抓準時機在敵人交出位移技能後使用 ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍（Coach Gun）。",
+        "* ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍最有價值的用途是將側襲者從你身邊擊退。擊退跳躍中的![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓可以阻止他攻擊你，並經常迫使他浪費防護力場並撤退。",
+        "* 抓準時機使用![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍，在敵人交出位移技能後再將其擊中。",
         "* 佔領高處",
-        "* ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍（Coach Gun）的自我擊退效果非常適合用來搶佔高處位置。當 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）能夠俯瞰戰場、將 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）丟過護盾，並利用高處地形來阻擋來自低處敵人的視線（LoS）時，她的戰力最強。"
+        "* ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍的自我擊退效果非常適合用來佔據高處位置。當![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西能夠俯瞰戰場、將![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥丟過障礙物，並利用高處的地板來阻擋來自低處敵人的視線（LoS）時，她的戰力最強。"
       ],
       "content_hash": "24dc8ebb59b1",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:23.149916Z"
+      "timestamp": "2026-03-26T04:25:32.238545Z"
     },
     "4.4": {
       "title": "[E]：炸藥（Dynamite）",
       "description": "",
       "content": [
-        "關於 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）的技巧",
+        "**![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）的使用技巧**",
         "* 不要強行使用 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）",
-        "* 如果沒有明確的目標，請將 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）留給有目標的時候再用。![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）所帶來的傷害、絕招充能以及整體價值非常珍貴，不應浪費。",
+        "* * 如果沒有明確的目標，請將 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）留給有目標的時候使用。![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）所帶來的傷害、絕招充能以及整體價值非常珍貴，不應輕易浪費。",
         "* 控制轉角",
-        "* 特別是在面對試圖不斷靠近你的近距離敵人時，利用 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）來控制轉角。具體做法是先按住技能不放，直到看見敵人繞過掩體試圖靠近你時，再在他們臉上引爆。造成的傷害會迫使他們撤退，進而確保你的安全。",
+        "* * 特別是在面對試圖不斷靠近你的近距離敵人時，利用 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）來控制轉角。具體做法是先扣住技能，直到看見敵人繞過掩體試圖逼近時，再在他們臉上引爆。造成的傷害會迫使他們撤退，進而確保你的安全。",
         "* 盡可能頻繁地使用 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）",
-        "* 比起不浪費 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）更重要的是要確實使用它。不要整場比賽都在等待一個能炸到 5 個人的機會。只要有機會，就果斷出手。",
-        "* 如果不頻繁使用 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite），你的絕招充能速度將會變得非常緩慢。"
+        "* * 比起不浪費 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）更重要的是要確實使用它。不要為了等待一次炸到五個人的機會而整場比賽都扣著技能。只要有機會，就果斷出手。",
+        "* 如果不頻繁使用 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite），你的絕招充能速度會變得非常緩慢。"
       ],
       "content_hash": "b5749285ce1e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:25.687715Z"
+      "timestamp": "2026-03-26T04:25:35.539257Z"
     },
     "4.5": {
       "title": "絕招：B.O.B.",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 的使用技巧**",
-        "* 仔細瞄準",
-        "* 使用 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 時最糟糕的情況就是搞砸他的站位。每位 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe 玩家都經歷過最令人難過的事，就是 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 跑過了你預期他停下的位置，最後跑到荒郊野外，誰也沒打中。",
-        "* 花點時間仔細校準他的衝鋒路徑，並規劃路徑上的建築物與敵人。檢查他可能會卡住的地方，以及你希望他被什麼東西擋下。",
+        "**![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 的技巧**",
+        "* 精準瞄準",
+        "* * 使用 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 時最糟糕的情況就是位置放錯。每位 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西玩家都經歷過最悲慘的時刻，就是 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 衝過了你預設的停靠點，最後跑到荒郊野外，誰也打不到。",
+        "* 花點時間仔細規劃他的衝鋒路徑，並考量路徑上的建築物與敵人。確認他可能會被什麼東西卡住，以及你希望他被什麼東西擋下。",
         "* 爭奪目標點",
-        "* ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 是極佳的目標點爭奪工具。他跑得很快，所以能迅速抵達目標點。他會犧牲自己，讓 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe 和她的隊友不必冒著生命危險去佔領目標點。",
-        "* 確保你讓 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 衝向的那面牆能讓他停在目標區域內。有時候他會停在區域外緣。",
-        "* 創造交叉火網",
-        "* 務必嘗試讓 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 從與你不同的角度進行攻擊。如果你和 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 都從敵人的正面開火，他們可以輕易避開這兩個傷害來源。反之，如果 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 在敵人後方而你在前方，他們就無法同時防禦兩個角度，為了避開其中一邊的攻擊，就必須將自己暴露在另一邊的火力之下。"
+        "* * ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 是極佳的目標點爭奪工具。他跑得很快，所以能迅速抵達目標點。他能犧牲自己，讓 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西和她的隊友不必冒險親自踏上目標點。",
+        "* 確保你讓 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 撞上的牆面能讓他停在目標區域內。有時候他會停在區域外緣。",
+        "* 製造交叉火網",
+        "* * 盡量讓 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 從與你不同的角度發動攻擊。如果你和 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 都從敵人的正前方開火，他們可以輕易閃避這兩處傷害。反之，如果 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 在敵人後方而你在前方，他們就無法同時防禦兩個角度，為了避開其中一方，就必須將自己暴露在另一方的火力之下。"
       ],
       "content_hash": "aec84fc35f04",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:28.514357Z"
+      "timestamp": "2026-03-26T04:25:39.820095Z"
     },
     "5.1.1": {
-      "title": "遙控引爆（Remote Detonator）",
+      "title": "遙控引爆",
       "description": "在使用炸藥（Dynamite）後，再次按下技能 2 會使其在 0.5 秒的延遲後爆炸。",
       "content": [
-        "* 對於在牆後或轉角處無法直接射擊的 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）進行引爆非常有用。",
+        "* 對於在無法射擊到的牆後或轉角處引爆 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）非常有用。",
         "* 此外，這比站在空曠處射擊 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）更加安全。"
       ],
       "content_hash": "52bf6124545f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:30.292060Z"
+      "timestamp": "2026-03-26T04:25:41.599756Z"
     },
     "5.1.2": {
-      "title": "雙管齊下（Double-Barreled）",
-      "description": "使用教練槍（Coach Gun）擊退敵人後，可短暫地再次使用該技能，但擊退效果降低 25%。",
+      "title": "雙管齊下",
+      "description": "使用教練槍擊退敵人後，可在短時間內再次使用該技能，但擊退效果降低 25%。",
       "content": [
-        "* 對抗側襲者（Flanker）陣容時效果最佳。你可以利用第一發射擊在自己與敵人之間創造空間，接著再利用第二發射擊來取得更好的位置。"
+        "* 對抗側襲者（Flanker）陣容時效果最佳。你可以利用第一發射擊在自己與敵人之間創造空間，接著使用第二發射擊來取得更好的位置。"
       ],
       "content_hash": "cfa49ab8ab86",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:31.910053Z"
+      "timestamp": "2026-03-26T04:25:43.468736Z"
     },
     "5.2.1": {
       "title": "毒蛇之刺（Viper's Sting）",
       "description": "對目標連續命中 2 發狙擊射擊可造成 25 點額外傷害並裝填 1 發彈藥。",
       "content": [
         "* 最佳消耗型特殊能力（Perk）",
-        "* 在擁有長視線的地圖上，額外傷害非常強大。此加成傷害不受距離衰減影響，因此這額外 25 點傷害在任何距離下都能保持其效力。",
-        "* 對於施壓 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg) 坦克（Tanks）也很有用，因為在他們巨大的身軀上連續命中兩發射擊非常容易。",
-        "* 額外傷害重置",
-        "* 「連續狙擊射擊」會在每次命中、累積 2 發狙擊射擊、未命中狙擊射擊時，或在 3 秒內沒有進行射擊後重置。",
-        "* 腰射（Hip fire）射擊不會影響毒蛇之刺（Viper's Sting）的計數器。"
+        "* 在長視線的地圖上，額外傷害非常強大。獎勵傷害不受距離衰減影響，因此這 25 點額外傷害在任何距離下都能保持其效力。",
+        "* 對於壓制 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg) 戰士（Tank）也非常有用，因為在他們巨大的身軀上連續命中兩發射擊非常容易。",
+        "* 獎勵傷害重置",
+        "* 「連續狙擊射擊」會在每次命中、累積 2 發狙擊射擊、未命中狙擊射擊時，或在 3 秒內未進行射擊後重置。",
+        "* 腰射不會影響毒蛇之刺（Viper's Sting）的計數器。"
       ],
       "content_hash": "23c247b319c1",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:33.870991Z"
+      "timestamp": "2026-03-26T04:25:46.045491Z"
     },
     "5.2.2": {
       "title": "空中爆破（Airburst）",
-      "description": "炸藥（Dynamite）在空中時的引爆半徑增加 40%，且投擲時會返還 3 發彈藥。",
+      "description": "炸藥在空中時的引爆半徑增加 40%，且投擲時會返還 3 發彈藥。",
       "content": [
-        "* 最佳反制戰士（Bruiser）特殊能力（Perk）",
+        "* 最佳反制近戰纏鬥的特殊能力",
         "* 當敵方隊伍採取密集陣型（deathball）時，更大的範圍傷害（AoE）能讓你每次使用時燃燒更多目標。",
         "* 增加 ![](/data/assets/guide/6d41bdb3da6b2de8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fthe-viper.png)毒蛇（The Viper）的運作時間",
-        "* * 即使你沒有用 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）擊中任何目標，只要 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）在空中將其射爆，就能重新裝填 3 發彈藥。這有助於減少裝填時間，並增加她進行射擊的時間。",
-        "* 不要對上 ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）時選擇此項",
-        "* * 增加的範圍傷害（AoE）基本上會被 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)保護鈴（Protection Suzu）抵銷。請記住，保護鈴在淨化燃燒等效果時會額外進行治療，因此你會為她提供大量的絕招能量。"
+        "* 即使你沒有用 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）擊中任何目標，只要 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）在空中將其射爆，她就能重新裝填 3 發彈藥。這有助於減少裝填時間，並增加她進行射擊的時間。",
+        "* 不要對上 ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）時選擇此能力",
+        "* 增加的範圍傷害基本上會被 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)保護鈴（Protection Suzu）抵銷。請記住，保護鈴在淨化燃燒等效果時會提供額外治療，因此你反而會給予對方大量的絕招充能。"
       ],
       "content_hash": "cf72e093f2a4",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:36.370293Z"
+      "timestamp": "2026-03-26T04:25:49.003073Z"
     },
     "6.1": {
       "title": "最佳地圖",
       "description": "",
       "content": [
-        "適合 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西的地圖通常擁有開闊的視野，能讓她發揮其優異的射程優勢。她也能從高處獲益，利用 ![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍（Coach Gun）跳上去，藉此取得攻擊角度並獲得掩護。擁有封閉目標區域的地圖對 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西來說較為困難，因為她被迫在不擅長的近距離下作戰。此外，如果地圖有許多供側襲者（Flanker）移動的側路，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西將難以同時監控多個角度，導致她無法妥善保護自己。"
+        "![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西的最佳地圖是那些擁有開闊視野的地圖，讓她能發揮射程優勢。她也能受惠於高地，利用![](/data/assets/guide/aa1e1fee6005660a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoach-gun.png)雙管獵槍（Coach Gun）跳上去，藉此取得攻擊角度並獲得掩護。擁有封閉目標區域的地圖對![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西來說很困難，因為她被迫在不擅長的近距離進行戰鬥。此外，如果地圖有許多供側襲者（Flanker）使用的側路，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西將難以顧及這麼多角度，導致她無法妥善保護自己。"
       ],
       "content_hash": "16080a8f3ddd",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:38.198183Z"
+      "timestamp": "2026-03-26T04:25:51.784483Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "圍繞 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西所建立的隊伍陣容，能透過創造空間讓她將敵人保持在視野範圍（LoS）內，進而發揮她的神射手打法。![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)擁有屏障的坦克能部署在她的前方，讓她可以安全地狙擊目標。其他輸出與 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援能透過控場（CC）或傷害壓力將敵人保持在遠處，藉此協助 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西。![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）與 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）同樣是 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西技能組中不可或缺的要素。協助她維持在 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）有效範圍內的隊友，能讓 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西更快速地累積 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）並對敵方後排施加更多壓力。當 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西能夠自由地佔據掩體角度時，她便能掌控視野並摧毀敵方隊伍。",
+        "圍繞 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西建立的隊伍陣容，能透過創造空間讓她將敵人維持在視野範圍內，進而發揮她的神射手風格。![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)擁有屏障的坦克能部署在她的前方，讓她能安全地狙擊目標。其他輸出與 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援英雄則透過控場（CC）或傷害壓力將敵人維持在遠距離，藉此協助 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西。![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）與 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）同樣是 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西技能組中不可或缺的要素。協助她維持在 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）有效範圍內的隊友，能讓 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西大幅加快累積 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）的速度，並對敵方後排施加更多壓力。當 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西能自由佔據角度時，她便能掌控視野並摧毀敵方隊伍。",
         "**圍繞艾西建立的隊伍陣容範例**",
         "* **坦克**: ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特",
         "* **輸出**: ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西, ![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)駭影",
         "* **支援**: ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲, ![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特"
       ],
       "content_hash": "f8d027115e15",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:40.908527Z"
+      "timestamp": "2026-03-26T04:25:53.552575Z"
     },
     "7.1": {
       "title": "個別英雄搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特",
-        "* 萊因哈特的 ![](/data/assets/guide/e2b61a19c451876c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-field.png)屏障力場（Barrier Field）是讓 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西站在後方狙擊敵人的完美大型護盾。當面對其他遠程英雄時，擁有前方護盾 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)戰士（Tank）的一方在對決中具有巨大優勢。此外，萊因哈特推進至敵方隊伍時會吸引對手全神貫注，這讓 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西能自由地在開闊處佔位，進而更容易鎖定目標。",
-        "![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)駭影",
-        "* ![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)駭影與 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西的主要搭配方式是同時擔任互補的角色。當 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西在後方進行狙擊時，![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)駭影則會在側翼分散敵方注意力。只要這兩名英雄同時發動攻擊，敵人轉身專注於其中一人時，就會完全暴露在另一人的威脅之下。此外，當敵方使用機動突襲陣容來反制 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西時，![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)駭影可以留在後方，隨時駭入前來突襲的敵人。",
-        "![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲",
-        "* ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西搭配 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲的「保排」是《鬥陣特攻 2》中最致命的組合之一。傷害增幅改變了 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西瞄準射擊（ADS）的傷害門檻，而受到傷害增幅的 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）單獨就能造成近 200 點傷害。有了 ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲的協助，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西可以採取更具侵略性的側翼站位，對敵方隊伍構成更大的威脅。"
+        "![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特\n* 萊因哈特的 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)屏障力場是讓 [[__OWH_IMG_2__]]艾西站在後方進行狙擊的完美大型護盾。當面對其他遠程英雄時，擁有護盾 [[__OWH_IMG_3__]]戰士在前的隊伍在對決中具有極大優勢。此外，萊因哈特衝入敵陣會迫使對方將注意力完全集中在他身上，這讓 [[__OWH_IMG_4__]]艾西能更自由地在空曠處佔位，進而更容易鎖定目標。",
+        "![](/data/assets/guide/e2b61a19c451876c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-field.png)駭影\n* ![](/data/assets/guide/e2b61a19c451876c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-field.png)駭影與 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西的主要搭配方式是同時擔任互補的角色。當 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)艾西在後方進行狙擊時，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)駭影會從側翼分散敵人的注意力。只要這兩名英雄同時發動攻擊，敵人轉身對付其中一人，就會完全暴露在另一人的攻擊之下。此外，當敵方使用機動陣容來反制 [[__OWH_IMG_5__]]艾西時，[[__OWH_IMG_6__]]駭影可以留在後方，隨時駭入前來進攻的敵人。",
+        "![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)慈悲\n* ![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)艾西搭配 [[__OWH_IMG_2__]]慈悲的專屬輔助是《鬥陣特攻 2》中最致命的組合之一。傷害增幅改變了 [[__OWH_IMG_3__]]艾西瞄準射擊的傷害門檻，而受到傷害增幅的 [[__OWH_IMG_4__]]炸藥（Dynamite）單獨就能造成近 200 點傷害。有了 [[__OWH_IMG_5__]]慈悲的協助，[[__OWH_IMG_6__]]艾西可以採取更具侵略性的側翼佔位，對敵方隊伍構成更大的威脅。",
+        "* The main way ![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)Sombra and ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe play off of each other is by filling opposite roles simultaneously. While ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe is sitting back and sniping, ![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)Sombra splits the attention on the flank. Anytime these two heroes are attacking at the same time, turning to focus on one completely exposes you to the other. Moreover, when the enemy runs dive to counter ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe, ![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)Sombra can stay back and hack the attackers anytime they come in.",
+        "![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)Mercy",
+        "* ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe with a ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)Mercy pocket is one of the deadliest duos in all of Overwatch 2. The damage boost changes the break points of ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe's ADS shots, and a damage boosted ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)Dynamite deals almost 200 damage on its own. With ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)Mercy, ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe can take more aggressive off angles and become a greater threat to the enemy team."
       ],
       "content_hash": "12fd8ca9137e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:44.083742Z"
+      "timestamp": "2026-03-26T04:25:57.584607Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "除了 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女之外，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西在面對《鬥陣特攻》中幾乎所有英雄時，都擁有遠程優勢。",
-        "面對艾西時的主要策略是縮短距離，並在對你有優勢的位置發動攻擊。![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西在近距離戰鬥中較為弱勢，但你應該避開她的視野（LoS，Line of Sight），例如走側邊房間或翻越牆壁等，以免在靠近的過程中被她狙擊。",
-        "下一件最重要的事是掌握 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）12 秒的冷卻時間。如果她剛使用過，你就可以向前推進；如果她有一段時間沒丟了，試著站在她的投擲範圍之外。",
-        "如果你擁有可以阻擋炸藥（Dynamite）的屏障或減傷技能，請將阻擋每一次投擲視為你的個人任務。這將能大幅削減她獲得的絕招充能，意味著你面對 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B. 的次數也會減少。",
-        "大多數時候，你應該躲避 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)B.O.B.。他的生命值極高，如果你的隊伍無法迅速將他擊殺，最好離開他的視野（LoS）並等待他離開（持續 10 秒）。",
-        "當然，如果你需要爭奪據點，或者你的隊伍可以撤出他的範圍，那麼你就需要透過射擊他、位移他或阻擋他的射擊來提供協助。"
+        "除了 ![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女之外，![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西在面對《鬥陣特攻》中幾乎所有英雄時，都擁有長距離的優勢。",
+        "對抗艾西的主要策略是拉近距離，並在對你有優勢的位置發動攻擊。![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西在近距離戰鬥中表現較弱，但你應該避開她的視野（LoS）（例如走側邊房間、翻越牆壁等），以免在接近過程中被她狙擊。",
+        "下一個最重要的重點是留意 ![](/data/assets/guide/17c0defbc2244ec8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdynamite.png)炸藥（Dynamite）的 12 秒冷卻時間。如果她剛使用過，你就可以向前推進。如果她有一段時間沒丟出炸藥，請試著站在她的投擲範圍之外。",
+        "如果你擁有可以阻擋炸藥的屏障或減傷技能，請將阻擋每一次投擲視為你的個人任務。這將能大幅削減她獲得的絕招充能，意味著你面對 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）的次數會減少。",
+        "大多數情況下，你應該躲避 ![](/data/assets/guide/526e37997ecc8f1a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fb-o-b.png)鮑伯（B.O.B.）。他的生命值極高，如果你的隊伍無法迅速將他擊殺，最好的做法是離開他的視野，並等待他離開（持續 10 秒）。",
+        "當然，如果你需要爭奪據點，或者你的隊伍無法撤出他的射程範圍，那麼你就必須透過射擊他、位移他或阻擋他的射擊來提供協助。"
       ],
       "content_hash": "5fac3e337fd5",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:46.656366Z"
+      "timestamp": "2026-03-26T04:26:00.993760Z"
     },
     "8.2": {
-      "title": "特定英雄剋星名稱",
+      "title": "特定英雄剋制名稱",
       "description": "",
       "content": [
         "奪命女"
       ],
       "content_hash": "790f3ab67332",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:48.029349Z"
+      "timestamp": "2026-03-26T04:26:02.750687Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:15:57.569174Z"
+    "timestamp": "2026-03-26T05:10:57.435226Z"
   }
 }

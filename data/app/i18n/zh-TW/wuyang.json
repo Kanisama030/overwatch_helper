@@ -6,261 +6,261 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）是一位靈活的支援型英雄，將持續治療、爆發性功能與遠程傷害融為一體。無漾受過古老水系戰技的訓練，他以潮汐般的節奏進行戰鬥：在需要時保持穩定，或在關鍵時刻掀起巨大的傷害與治療浪潮。他對水的掌控力使他既能修復盟友，也能重創敵人，在保護與殺傷之間流暢轉換。",
-        "在隊伍陣容中，![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾擔任前線支援的角色，比起大多數治療者，他更傾向於靠近戰鬥核心。他擅長推動激進的攻勢，在戰鬥中期為坦克提供持續支援，並在決定勝負的關鍵時刻提供爆發性治療。"
+        "![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）是一位靈活的支援型英雄，將持續治療、爆發性功能與遠程傷害融為一體，構成了一套流暢的技能組。無漾受過古老水流技術的訓練，他以如同潮汐般的方式進行戰鬥：在需要時保持穩定，或在關鍵時刻掀起巨大的傷害與治療浪潮。他對水的掌控力使他既能修復盟友，也能重擊敵人，在保護與殺傷之間流暢轉換。",
+        "在隊伍陣容中，![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾擔任前線支援的角色，比起大多數治療者，他更傾向於靠近戰鬥核心。他擅長推動激進的攻勢，在戰鬥中期為坦克提供續航，並在決定勝負的關鍵時刻提供爆發性治療。"
       ],
       "content_hash": "b7cb2601600f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:41.227832Z"
+      "timestamp": "2026-03-26T04:27:29.921153Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 等到你或你選定的盟友靠近敵人時再使用絕招，以免在進入攻擊範圍前就失效。",
-        "* 使用湧溢（Overflow）來補充無漾（Wuyang）的治療資源，同時治療你坦克的大量生命值。",
-        "* 將守護波（Guardian Wave）與其他輔助角色的範圍治療（AoE healing）結合使用，例如莫伊拉（Moira）的生化球（Biotic Orb）。"
+        "* 等到你或你選擇的隊友靠近敵人時再使用絕招，這樣才不會在進入攻擊範圍前就失效。",
+        "* 在治療坦克龐大的生命值時，使用溢流（Overflow）來補充無漾（Wuyang）的治療資源。",
+        "* 將守護波（Guardian Wave）與另一名輔助的範圍治療技能結合使用，例如莫伊拉（Moira）的生化球（Biotic Orb）。"
       ],
       "content_hash": "27c31570ac1c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:42.828762Z"
+      "timestamp": "2026-03-26T04:27:31.917548Z"
     },
     "1.1.2": {
-      "title": "對抗方式",
+      "title": "對戰策略",
       "description": "",
       "content": [
-        "* 當你看到 ![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護浪潮（Guardian Wave）猛擊時，請向後撤退，等待幾秒鐘，然後再發動強勢進攻來殲滅他的隊伍，因為他們將會失去爆發治療能力。",
-        "* 在看到他使用奔騰急流（Rushing Torrent）（通常是為了補充治療資源）後，請立即衝向無漾（Wuyang）並將其擊殺，此時他將無法逃脫。",
+        "* 當你看到 ![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png) 守護波（Guardian Wave）重擊時，請向後撤退並等待幾秒，隨後發動強勢進攻來殲滅對方的隊伍，因為他們將會失去爆發治療能力。",
+        "* 在看到他使用奔騰急流（Rushing Torrent）（通常是為了補充治療資源）後，請立即衝向無漾（Wuyang）並在他無法逃脫時將其擊殺。",
         "* 他的絕招持續時間很短，僅有 3.5 秒。請跑開、利用掩體並使用你英雄擁有的逃生技能，因為一旦被困住，基本上是不可能存活下來的。"
       ],
       "content_hash": "a8eb2efaa84c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:44.731432Z"
+      "timestamp": "2026-03-26T04:27:34.517643Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
         "* 多功能的治療者",
-        "* 可操控的投射物（Steerable Projectile）",
-        "* 適合團戰的絕招（Ultimate）",
-        "* 技能組純粹為功能性導向",
+        "* 可操控的投射物",
+        "* 適合團戰的絕招",
+        "* 技能組純粹為輔助性質",
         "* 技能難以命中",
-        "* 脫逃手段有限"
+        "* 逃生手段有限"
       ],
       "content_hash": "2907c026b24a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:46.288149Z"
+      "timestamp": "2026-03-26T04:27:36.924049Z"
     },
     "3.1.1": {
       "title": "多樣化的治療選擇",
       "description": "",
       "content": [
-        "透過 ![](/data/assets/guide/e2ee1807aea9c23a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frestorative-stream.png)修復之流（Restorative Stream）的被動與主動模式、![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波（Guardian Wave）的治療增幅，以及潮汐爆發（Tidal Blast）的瞬間治療，無漾（Wuyang）在隊友遭受攻擊時擁有豐富的選擇。",
-        "此外，![](/data/assets/guide/e2ee1807aea9c23a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frestorative-stream.png)修復之流（Restorative Stream）是少數能夠穿透屏障進行治療的技能之一，這讓他在許多情境中都佔有優勢。"
+        "在 ![](/data/assets/guide/e2ee1807aea9c23a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frestorative-stream.png)修復之流（Restorative Stream）的被動與主動模式、![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波（Guardian Wave）的治療增幅，以及潮汐爆發（Tidal Blast）的瞬間治療之間，當隊友遭受攻擊時，無漾（Wuyang）擁有許多選擇。",
+        "此外，![](/data/assets/guide/e2ee1807aea9c23a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frestorative-stream.png)修復之流（Restorative Stream）是少數幾種能夠穿透屏障進行治療的技能之一，這讓他在許多情境中都佔有優勢。"
       ],
       "content_hash": "3acc2a8f629f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:47.984546Z"
+      "timestamp": "2026-03-26T04:27:39.365739Z"
     },
     "3.1.2": {
-      "title": "持續的遠程壓力",
+      "title": "持續遠程壓制",
       "description": "",
       "content": [
-        "![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）的遠程傷害在支援型角色中名列前茅。操控球體爆破來擊中轉角後的敵人是他獨有的強項，這使他成為持續性的威脅。雖然他的傷害潛力不如禪亞塔（Zenyatta）那麼高，但作為交換，他提供了更高的治療量。"
+        "![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）的遠程傷害在支援型角色中名列前茅。引導球體爆破以繞過轉角進行攻擊是他獨有的強項，這使他成為一個持續性的威脅。雖然他的傷害潛力不如禪亞塔（Zenyatta）那麼高，但作為交換，他提供了高出許多的治療量。"
       ],
       "content_hash": "f9e7aa7d7e85",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:49.600472Z"
+      "timestamp": "2026-03-26T04:27:41.538703Z"
     },
     "3.1.3": {
       "title": "扭轉戰局的絕招",
       "description": "",
       "content": [
-        "![](/data/assets/guide/91b2239520de7052.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftidal-blast.png)潮汐爆破（Tidal Blast）是整個遊戲中最強大的絕招之一。它同時具備了額外生命值、強硬擊倒以及爆發治療的效果。只要無漾（Wuyang）的絕招施放時機得當，就能夠贏下整場團戰。"
+        "![](/data/assets/guide/91b2239520de7052.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftidal-blast.png)潮汐爆破（Tidal Blast）是遊戲中最強大的絕招之一。它集額外生命值、強力擊倒與爆發治療於一身。只要無漾（Wuyang）的絕招施放時機得當，就能直接贏下整場團戰。"
       ],
       "content_hash": "02cb952456f2",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:51.388591Z"
+      "timestamp": "2026-03-26T04:27:43.484685Z"
     },
     "3.2.1": {
       "title": "功能導向配置",
       "description": "",
       "content": [
-        "雖然這在技術上是他的一項優勢，但同時也是他的弱點。為了成為值得選擇的角色，![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）玩家必須能夠管理資源、判讀戰況、追蹤敵方位置，並了解何時該使用他那些高價值的冷卻技能。他的技能非常容易被浪費，進而導致隊伍輸掉比賽。"
+        "雖然這在技術上是他的強項之一，但同時也是他的弱點。為了成為值得選擇的角色，![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）玩家必須能夠管理資源、判讀戰況、追蹤敵方位置，並了解何時該使用他那些高價值的冷卻技能。他的技能非常容易被浪費，進而導致你的隊伍輸掉比賽。"
       ],
       "content_hash": "e2e1e57757f7",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:53.351275Z"
+      "timestamp": "2026-03-26T04:27:45.375132Z"
     },
     "3.2.2": {
       "title": "棘手的瞄準機制",
       "description": "",
       "content": [
-        "你過去花費大量時間使用即時命中（hitscan）英雄進行爆頭的經驗，在操控水球穿越地圖時並不會有太大幫助。若想穩定地繞過轉角進行弧線射擊，需要投入相當多的時間來熟悉這項獨特的機制。"
+        "你過去花在以即時命中（hitscan）武器爆頭的所有時間，在引導水球穿越地圖時並不會有太大幫助。若要穩定地繞過轉角進行弧線射擊，需要投入相當多的時間來專精這項獨特的機制。"
       ],
       "content_hash": "2c92c7639a76",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:54.944421Z"
+      "timestamp": "2026-03-26T04:27:47.503634Z"
     },
     "3.2.3": {
-      "title": "有限的逃脫手段",
+      "title": "有限的逃生手段",
       "description": "",
       "content": [
-        "與最初版本的 ![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）相比，當時的他數值過於強大，幾乎無法被針對，而當前版本的他則容易受到側襲者（Flanker）的威脅。他保護坦克的主要方式之一是使用 ![](/data/assets/guide/821e6d2eeb6b1948.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frushing-torrent.png)奔流（Rushing Torrent）搭配溢流特殊能力（Overflow Perk）來輸出更多的單體治療。然而，這麼做會使他失去逃脫手段，因此聰明的敵人會等待時機並給予他懲罰。"
+        "與最初版本的 ![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）相比，當時的他數值過高且幾乎無法被切入，目前的版本則容易受到側襲者（Flanker）的威脅。他保護坦克的主要手段之一是使用 ![](/data/assets/guide/821e6d2eeb6b1948.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frushing-torrent.png)奔流（Rushing Torrent）搭配溢流特殊能力（Overflow Perk）來輸出更多的單體治療。這麼做會使他失去逃生手段，因此聰明的敵人會等待時機並給予他懲罰。"
       ],
       "content_hash": "ebbd6c31a6ec",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:56.914427Z"
+      "timestamp": "2026-03-26T04:27:49.580082Z"
     },
     "4.1": {
       "title": "主要攻擊：玄武杖（Xuanwu Staff）",
       "description": "",
       "content": [
         "**![](/data/assets/guide/8fbe92ce7f53c900.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fxuanwu-staff.png)玄武杖（Xuanwu Staff）的使用技巧**",
-        "* 水球需要飛行約 8 公尺後才能獲得強化。當你與目標距離非常近時，直接連發射擊會比嘗試蓄力並控制彈道更有效。",
-        "* 在近距離快速連發時，每顆水球造成的傷害相同，但射速會顯著提升，從而產生更高的總傷害輸出。",
-        "* 強化後的水球會消耗 2 發彈藥。",
-        "* 完全蓄力的水球傷害更高且可以導向。若要將每秒傷害（DPS）最大化，你可以在蓄力完成的瞬間釋放並立即發射下一波。這些水球會緩慢下墜並散開，因此在執行此操作時，瞄準位置請稍微偏高。",
-        "* 利用水球的弧線軌跡來擊中躲在掩體後方、脫離你視野（LoS）的殘血敵人，給予最後一擊。"
+        "* 水球需要飛行約 8 公尺後才會獲得強化。當你與目標距離非常近時，直接連發攻擊會比嘗試蓄力並控制射擊軌道更有效。",
+        "* 在近距離快速連發時，每顆水球造成的傷害相同，但射擊頻率會大幅提升，進而產生更高的總傷害輸出。",
+        "* 強化水球會消耗 2 發彈藥。",
+        "* 完全蓄力的水球傷害更高且可以進行導向。若要將每秒傷害（DPS）最大化，你可以在蓄力完成的瞬間釋放並立即發射下一輪。水球會緩慢下墜並散開，因此在執行此操作時，瞄準位置請稍微偏高。",
+        "* 利用水球的弧線軌道攻擊躲在掩體後方、脫離你視線（LoS）的殘血敵人，給予最後一擊。"
       ],
       "content_hash": "266e9d49988a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:59.172806Z"
+      "timestamp": "2026-03-26T04:27:52.979042Z"
     },
     "4.2": {
       "title": "次要攻擊：修復流（Restorative Stream）",
       "description": "",
       "content": [
         "關於 ![](/data/assets/guide/e2ee1807aea9c23a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frestorative-stream.png)修復流（Restorative Stream）的提示：",
-        "* 優先治療生命值較低的隊友，特別是那些正在進行側襲（diving）或吸引大量敵方注意力的隊友。",
-        "* 將 ![](/data/assets/guide/e2ee1807aea9c23a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frestorative-stream.png)修復流（Restorative Stream）視為一種主要的被動技能。設定好後就不用一直盯著它，請專注於保持高額的傷害輸出。",
+        "* 優先治療血量較低的盟友，特別是那些正在進行側襲或吸引大量敵方注意力的隊友。",
+        "* 將 ![](/data/assets/guide/e2ee1807aea9c23a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frestorative-stream.png)修復流（Restorative Stream）視為主要的被動技能。設定好後就不用一直盯著它，將重心放在維持高輸出傷害上。",
         "* 不要頻繁地切換治療目標。",
-        "* 每當你使用光束進行治療時，治療資源的自動恢復就會觸發 2 秒的延遲。",
-        "* 記得使用你的治療資源。雖然我們剛才提到不要過度依賴它，但你仍需積極地利用治療光束來維持隊友的健康。",
-        "* 看到隊友生命值剩下一半嗎？集中火力治療他們。",
-        "* 主動與被動治療皆會無視屏障。",
-        "* 通常，維持那些衝過敵方屏障的激進隊友的生存，是 ![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）的工作。"
+        "* 每當你使用治療光束進行治療時，治療資源的自動回充就會延遲 2 秒。",
+        "* 記得使用你的治療資源。雖然我們剛才提到不要過度依賴它，但你仍需積極使用治療光束來保持盟友的健康。",
+        "* 看到盟友生命值剩下一半嗎？集中火力治療他們。",
+        "* 主動與被動治療皆可穿透屏障。",
+        "* 通常來說，維持那些突破敵方屏障的激進盟友的生命值是 ![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）的工作。"
       ],
       "content_hash": "354ebc820ad5",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:02.054081Z"
+      "timestamp": "2026-03-26T04:27:57.369639Z"
     },
     "4.3": {
       "title": "[SHIFT]：奔流（Rushing Torrent）",
       "description": "",
       "content": [
         "![](/data/assets/guide/821e6d2eeb6b1948.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frushing-torrent.png)奔流（Rushing Torrent）的使用技巧",
-        "* 提供瞬間的爆發速度，隨後是持續的機動性與增加的跳躍高度。主要應主動使用此技能，以便在隊伍移動時重新佔據角落與高處位置。",
-        "* 若面對擁有強勢 dive（突入）或 flanker（側襲者）陣容的隊伍，請務必保留此機動工具，並用它來逃離敵方攻擊，或是衝刺向隊友尋求協助。"
+        "* 提供瞬間爆發速度，隨後獲得持續的機動性與跳躍高度加成。主要應在隊伍移動時主動使用，以便重新佔據轉角或高處位置。",
+        "* 若面對擁有強大突襲或側襲者陣容的隊伍，請務必保留此機動工具，用以逃離敵方攻擊，或是衝刺向隊友尋求協助。"
       ],
       "content_hash": "e3c6cae01689",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:03.954424Z"
+      "timestamp": "2026-03-26T04:28:00.348320Z"
     },
     "4.4": {
       "title": "[E]：守護波（Guardian Wave）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波（Guardian Wave）的使用技巧**",
-        "* 造成傷害、治療隊友、擊退敵人，並在 3 秒內提升受到的治療量 50%。",
-        "* 最適合在隊友受到一定程度傷害後使用。",
-        "* 不要被誘騙而將其用於少量的消耗傷害。對敵方坦克造成 80 點傷害基本上毫無意義。",
-        "* 非常適合在近距離戰鬥中收割敵人，特別是當對方機動性很高、難以用主要攻擊擊中時。"
+        "![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波（Guardian Wave）的使用技巧",
+        "* 造成傷害、治療隊友、擊退敵人，並使受到的治療效果提升 50%，持續 3 秒。",
+        "* 最好的使用時機是當你的隊伍已經承受了相當程度的傷害時。",
+        "* 不要被誘騙而將其用於一點點的消耗傷害。對敵方坦克造成 80 點傷害基本上毫無意義。",
+        "* 非常適合在近距離戰鬥中收割敵人，特別是當對方機動性很高，難以用主要攻擊命中時。"
       ],
       "content_hash": "4aa07ef3328c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:06.204605Z"
+      "timestamp": "2026-03-26T04:28:02.840936Z"
     },
     "4.5": {
-      "title": "絕招：潮汐爆破（Tidal Blast）",
+      "title": "絕招：潮汐爆發（Tidal Blast）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/91b2239520de7052.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftidal-blast.png)潮汐爆破（Tidal Blast）的使用技巧**",
-        "* 最適合搭配積極進攻、移動迅速且會深入敵陣的英雄。務必等待隊友主動對敵人發起進攻後，再對他們施放你的絕招。",
-        "* 標記「絕招已就緒」來示意你會提供支援，讓隊友知道可以打得更激進。",
-        "* 在扭轉戰局時也非常有效。例如當敵人為了擊殺你的坦克而交出多個絕招時，你可以透過額外生命值讓坦克存活，並強化他們以發動致命的反擊。"
+        "**![](/data/assets/guide/91b2239520de7052.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftidal-blast.png)潮汐爆發（Tidal Blast）的使用技巧**",
+        "* 最適合搭配積極進攻、移動迅速且會衝入敵陣的英雄。務必等待隊友主動攻擊敵人後，再對他們施放絕招。",
+        "* 標記「絕招已就緒」來告知隊友你會支援他們，讓他們知道可以打得更加激進。",
+        "* 在扭轉戰局時也非常有效。例如，當敵方投入多個絕招試圖擊殺你的坦克時，你可以透過額外生命值讓他們存活下來，並賦予他們發動致命反擊的力量。"
       ],
       "content_hash": "aaa77d06f6d8",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:08.419951Z"
+      "timestamp": "2026-03-26T04:28:05.901923Z"
     },
     "5.1.1": {
       "title": "溢流（Overflow）",
-      "description": "當啟動奔騰洪流（Rushing Torrent）時，獲得 10 發彈藥以及 50% 的治療資源。",
+      "description": "當湧泉（Rushing Torrent）啟動時，獲得 10 發彈藥以及 50% 的治療資源。",
       "content": [
-        "* 賦予你為隊友提供更多爆發治療的能力，並因為減少了裝填彈藥的時間，進而降低了你自身的進攻空窗期。",
-        "* 推薦次要特殊能力（Recommended Minor Perk）"
+        "* 賦予你為隊友提供更多爆發治療的能力，並因為減少了裝填彈藥的時間，進而降低你自身的進攻空窗期。",
+        "* 推薦次要特殊能力"
       ],
       "content_hash": "bcc34a759fd0",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:10.246961Z"
+      "timestamp": "2026-03-26T04:28:07.731800Z"
     },
     "5.1.2": {
-      "title": "平衡（Balance）",
-      "description": "當你以水球（water orbs）造成傷害時，恢復之流（Restorative Stream）的被動治療量會提高 30%，持續 2 秒。",
+      "title": "平衡",
+      "description": "當你使用水之球造成傷害時，恢復之流（Restorative Stream）的被動治療量會在 2 秒內提升 30%。",
       "content": [
         "* 讓你能夠更專注於輸出傷害。只要你持續命中敵人，你所選定的盟友就能持續獲得治療量提升的效果。"
       ],
       "content_hash": "7d71ef9c4164",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:12.312186Z"
+      "timestamp": "2026-03-26T04:28:09.544929Z"
     },
     "5.2.1": {
       "title": "潮起潮落（Ebb and Flow）",
-      "description": "守護波浪（Guardian Wave）會回溯至起始位置。回溯期間效果降低 50%。",
+      "description": "守護波浪（Guardian Wave）會回溯至其起始位置。在回溯期間，效果降低 50%。",
       "content": [
-        "* 這不是一個糟糕的特殊能力（perk），但比起落雨（Falling Rain）來說不值得選擇。",
-        "* 或許能透過提升近距離作戰能力，來幫助你反制側襲者（Flanker）陣容。",
-        "* 如果你目前為止都無法從蓄力後的首要攻擊（primary fire）中獲得效益，不妨嘗試看看。"
+        "* 這並不是一個糟糕的特殊能力（perk），但比起落雨（Falling Rain），它並不值得優先選擇。",
+        "* 它或許能透過提升你的近距離作戰能力，來幫助你反制側襲者（Flanker）陣容。",
+        "* 如果你到目前為止都無法發揮蓄力主要攻擊的價值，不妨嘗試看看這個能力。"
       ],
       "content_hash": "6acddbe14c8c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:14.376218Z"
+      "timestamp": "2026-03-26T04:28:11.845250Z"
     },
     "5.2.2": {
       "title": "落雨（Falling Rain）",
-      "description": "同時控制 3 個水之球（water orbs），其傷害降低 60%，且強化爆炸半徑（empowered explosion radius）降低 25%。",
+      "description": "同時控制 3 個水之寶珠，這些寶珠會造成 60% 降低後的傷害，且強化爆炸半徑縮減 25%。",
       "content": [
         "* 對於提升總傷害與爆發傷害非常強大。",
-        "* 一旦解鎖此主要特殊能力（major perks），你就應該開始更側重於輸出傷害。",
-        "* 由於使用情境沒有改變，![](/data/assets/guide/8fbe92ce7f53c900.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fxuanwu-staff.png)玄武法杖（Xuanwu Staff）的所有提示皆適用於此。"
+        "* 一旦解鎖此主要特殊能力（Major Perk），你就應該開始更側重於輸出傷害。",
+        "* 由於使用情境沒有改變，所有來自 ![](/data/assets/guide/8fbe92ce7f53c900.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fxuanwu-staff.png) 玄武杖（Xuanwu Staff）的建議同樣適用。"
       ],
       "content_hash": "0679fed3729a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:16.296242Z"
+      "timestamp": "2026-03-26T04:28:13.477269Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）擁有優秀的水平與垂直機動性、遠程傷害以及中距離治療能力。這些屬性使他能夠適應大多數地圖。",
-        "無論在哪張地圖，他都應善用其弧線彈道來攻擊轉角後的敵人，並透過反覆探頭（jiggle peek）掩體來將自身受到的傷害降至最低。",
-        "他最難以發揮的地圖是那些擁有他跳躍範圍之外高台區域的地圖。例如捍衛者基地：直布羅陀（Watchpoint: Gibraltar）和努巴尼（Numbani），這些地圖的目標區域周圍環繞著高台，無漾（Wuyang）無法抵達這些位置來進行爭奪或跟隨隊伍。"
+        "![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）擁有優秀的水平與垂直機動性、遠程傷害以及中程治療能力。這些屬性使他能適應大多數的地圖。",
+        "無論在哪張地圖，他都應善用其弧線彈道來攻擊轉角後的敵人，並透過快速探頭（jiggle peek）掩體來將自身受到的傷害降至最低。",
+        "他最難發揮的地圖是那些擁有他跳躍範圍之外的高台區域。例如捍衛者基地：直布羅陀（Watchpoint: Gibraltar）和努巴尼（Numbani），這些地圖的目標區域周圍環繞著高台，無漾無法抵達這些位置來進行爭奪或跟隨隊伍。"
       ],
       "content_hash": "686326075d14",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:18.775827Z"
+      "timestamp": "2026-03-26T04:28:15.683793Z"
     },
     "6.2.1": {
       "title": "捍衛者基地：直布羅陀",
@@ -269,9 +269,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:19.983775Z"
+      "timestamp": "2026-03-26T04:28:17.228601Z"
     },
     "6.2.2": {
       "title": "努巴尼",
@@ -280,44 +280,44 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:21.125238Z"
+      "timestamp": "2026-03-26T04:28:18.481553Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "作為一名多功能的支援型英雄，![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）可以與衝鋒、側襲以及消耗型隊伍陣容搭配。他只需要調整自己的遊玩風格來適應隊伍即可。例如，在側襲隊伍中，請務必將 ![](/data/assets/guide/e2ee1807aea9c23a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frestorative-stream.png)修復之流（Restorative Stream）放置在打法最激進且吸引敵方隊伍注意力的隊友身上。為了做到這一點，你通常需要使用 ![](/data/assets/guide/821e6d2eeb6b1948.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frushing-torrent.png)奔流（Rushing Torrent）來跟上他們的移動，並保持在治療範圍內。",
+        "作為一名全能型輔助，![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾可以與衝鋒、機動與消耗型隊伍陣容搭配。他只需要調整自己的遊玩風格來適應隊伍即可。例如，在機動隊伍中，請確保將 ![](/data/assets/guide/e2ee1807aea9c23a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frestorative-stream.png)修復之流（Restorative Stream）放置在打法最激進並吸引敵方隊伍注意力的隊友身上。為了做到這一點，你通常需要使用 ![](/data/assets/guide/821e6d2eeb6b1948.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frushing-torrent.png)奔流（Rushing Torrent）來跟上他們的移動，並保持在治療範圍內。",
         "另一方面，當在以消耗為主的隊伍中遊玩時，你應該主要將 ![](/data/assets/guide/821e6d2eeb6b1948.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frushing-torrent.png)奔流（Rushing Torrent）作為逃生工具來躲避敵方攻擊，因為你不需要用它來跟上隊伍較為靜態的打法。",
-        "對於支援型英雄，嘗試與擁有範圍治療能力的英雄（例如 ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀（Mizuki）或 ![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐（Lúcio）搭配）來彌補你單體治療的不足。此外，當你同時治療多名隊友，且他們也正受到另一名支援型英雄的治療時，你的隊伍將能從 ![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波（Guardian Wave）的治療加成中獲得更多效益。",
-        "請記住，如果你與 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜（Ana）搭配，來自 ![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)生化手榴彈（Biotic Grenade）與 ![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波（Guardian Wave）的治療加成效果是無法疊加的。這兩項技能皆為價值極高的冷卻技能，你的隊伍無法承受因同時施放而造成的浪費。"
+        "對於輔助角色，試著與擁有範圍治療的英雄搭配，例如 ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀或 ![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐，以彌補你單體治療的不足。此外，當你同時治療多名隊友，且他們也正受到另一位輔助的治療時，你的隊伍將能從 ![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波（Guardian Wave）的治療加成中獲得更多效益。",
+        "請務必記住，如果你與 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜搭配，來自 ![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)生化手榴彈（Biotic Grenade）與 ![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波（Guardian Wave）的治療加成效果是不會疊加的。這兩個技能都屬於價值極高的冷卻技能，你的隊伍無法承擔將它們同時施放所造成的浪費。"
       ],
       "content_hash": "ddb7cdf8f848",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:24.460337Z"
+      "timestamp": "2026-03-26T04:28:22.042555Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "擊敗 ![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾的主要方式是追蹤他的 ![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波（Guardian Wave）與 ![](/data/assets/guide/821e6d2eeb6b1948.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frushing-torrent.png)奔流（Rushing Torrent）冷卻時間。當這些技能尚在冷卻完畢狀態時，他與其隊友將非常難以被擊殺。",
-        "採取緩慢施壓的策略，並保留你最具殺傷力的冷卻技能，直到看見他使用其中一項或兩項技能後再發動攻擊。",
-        "當你看到 ![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波的重擊時，請向後撤退，等待 3 秒，接著發動強勢進攻以殲滅敵方隊伍，因為屆時他們將失去爆發治療能力。在守護波結束後，你知道他無法再將你擊退，也無法快速治療隊友。",
-        "在他使用衝刺後，他將沒有任何手段能逃離你的攻擊。當你看到他使用奔流（通常是為了補充治療資源）後，請立即衝向他，趁他無法逃脫時將無漾擊殺。",
-        "他的絕招持續時間很短，僅有 3.5 秒。請跑開、利用掩體，並使用你英雄擁有的逃生工具，因為你不會想被爆炸擊倒。",
-        "當你無法逃脫時，請集火攻擊身處 ![](/data/assets/guide/91b2239520de7052.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftidal-blast.png)潮汐爆破（Tidal Blast）中的敵人。這並非最佳選擇，因為他們很可能擁有充足的生命值，再加上絕招提供的巨額額外生命值。"
+        "擊敗 ![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾的主要方式是追蹤他的 ![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波（Guardian Wave）和 ![](/data/assets/guide/821e6d2eeb6b1948.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frushing-torrent.png)奔流（Rushing Torrent）冷卻時間。當他還保有這些技能時，他與他的隊友將非常難以被擊殺。",
+        "採取緩慢施壓的策略，並保留你最具威脅性的冷卻技能，直到你看到他使用其中一個或兩個技能後再發動攻勢。",
+        "當你看到 ![](/data/assets/guide/03b0e43c2c7db099.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fguardian-wave.png)守護波（Guardian Wave）的重擊時，請後撤並等待 3 秒，接著發動強勢進攻來殲滅他的隊伍，因為他們屆時將失去爆發治療能力。在守護波（Guardian Wave）結束後，你知道他無法再將你擊退，也無法快速治療他的隊友。",
+        "在他的衝刺技能使用後，他將沒有任何手段可以逃脫你的攻擊。當你看到他使用奔流（Rushing Torrent）（通常是為了補充治療資源）後，請立即衝向他，趁他無法逃脫時將無漾擊殺。",
+        "他的絕招持續時間很短，僅有 3.5 秒。請跑開、利用掩體並使用你英雄擁有的逃脫工具，因為你絕對不想被爆炸擊倒。",
+        "當你無法逃脫時，請集火攻擊身處 ![](/data/assets/guide/91b2239520de7052.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftidal-blast.png)潮汐爆破（Tidal Blast）中的敵人。這並非最佳選擇，因為他們通常擁有充足的生命值，再加上絕招帶來的巨額額外生命值。"
       ],
       "content_hash": "ea6f18844495",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:27.723441Z"
+      "timestamp": "2026-03-26T04:28:25.318398Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:17:39.264817Z"
+    "timestamp": "2026-03-26T05:10:57.611095Z"
   }
 }

@@ -6,388 +6,388 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "作為《鬥陣特攻》社群長期以來最受喜愛的英雄，身為狙擊型輔助的安娜（Ana）上手容易，但精通卻很困難。對任何安娜（Ana）玩家來說，命中技能是最大的挑戰。與其他許多輔助不同，安娜（Ana）沒有任何免費的價值或是不需要操作技巧的實用技能。由於缺乏逃生技能，安娜（Ana）經常成為敵隊側襲的目標，且她主要的防禦手段「睡眠鏢（Sleep Dart）」冷卻時間很長，且命中難度較高。",
-        "由於她的主要攻擊同時用於治療和傷害，她可以在進攻與防守之間無縫切換。如果玩家能精準命中射擊、丟好「生物手榴彈（Biotic Grenade）」並命中「睡眠鏢（Sleep Dart）」，安娜（Ana）的影響力將超過任何其他輔助。單獨使用「奈米強化（Nano Boost）」就是一個能賦予盟友強大力量以創造關鍵操作的絕佳絕招，而當它與其他絕招結合時，便成為了隊伍獲勝的關鍵條件。",
-        "由於所有技能皆為遠程，安娜（Ana）通常需要站在隊伍後方良好的位置。她會在安全距離、靠近掩體的地方協助隊友，讓敵人難以鎖定她。"
+        "作為《鬥陣特攻》社群長期以來的最愛，狙擊型支援英雄安娜（Ana）上手容易，但精通卻很困難。對任何安娜玩家來說，命中技能是最大的挑戰。與許多其他支援英雄不同，安娜沒有任何免費的價值或是不需要操作技巧的實用技能。安娜經常成為敵隊側襲的目標，因為她缺乏逃生技能，且她主要的防禦手段「睡眠鏢（Sleep Dart）」冷卻時間很長，且難以命中。",
+        "由於她的主要攻擊既可用於治療也可用於造成傷害，她可以在進攻和防守之間無縫切換。如果玩家能夠精準命中射擊、丟好「生化手榴彈（Biotic Grenade）」並命中「睡眠鏢（Sleep Dart）」，安娜的影響力將比任何其他支援英雄都強大。「奈米強化（Nano Boost）」本身就是一個很棒的絕招，可以增強隊友並創造關鍵時刻，而當它與其他絕招結合時，便成為你們隊伍獲勝的關鍵條件。",
+        "由於所有技能皆為遠程，安娜通常需要站位在隊伍後方。她在安全距離、靠近掩體的地方協助隊友，讓敵人難以鎖定她。"
       ],
       "content_hash": "db26cfbbba4e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:06.336673Z"
+      "timestamp": "2026-03-26T04:26:27.754522Z"
     },
     "1.1.1": {
       "title": "操作技巧",
       "description": "",
       "content": [
-        "* 禁療手榴彈（Biotic Nade）的效果比治療手榴彈更具影響力。即使你需要治療隊友，也盡量嘗試利用生化手榴彈的濺射傷害命中敵人。",
-        "* 開鏡會讓安娜（Ana）成為容易被攻擊的目標。只有在需要額外精準度來命中目標時才使用瞄準射擊（ADS），其餘時間請保持不開鏡狀態。",
-        "* 對已經就位並能輕鬆攻擊敵人的隊友使用奈米強化（Nano Boost）。如果敵人能夠遠離你被強化過的隊友，那麼這個絕招就會被完全浪費掉。"
+        "* 禁療瓶（Biotic Nade）的負面效果比治療效果更具影響力。即使你需要治療隊友，也請盡量利用生化手榴彈的濺射傷害來命中敵人。",
+        "* 開鏡會讓安娜（Ana）成為容易被攻擊的目標。只有在需要額外精準度來命中目標時才使用瞄準射擊（ADS），平時應多以不開鏡的狀態進行射擊。",
+        "* 對已經就位並能輕易攻擊敵人的隊友施放奈米強化（Nano Boost）。如果敵人能輕易避開你強化過的隊友，那麼這個絕招就會完全浪費掉。"
       ],
       "content_hash": "764d16c18fe9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:08.492078Z"
+      "timestamp": "2026-03-26T04:26:30.996797Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 睡眠鏢（Sleep Dart）是安娜主要的生存手段。如果你看到她射出這招，或是她讓你的隊友陷入睡眠，那就是你進攻她的最佳時機。",
-        "* 當你使用坦克或任何側襲者（Flanker）英雄時，你需要針對生物手榴彈（Biotic Grenade）的禁療效果進行應對。試著預判她的施放時機，並使用你的減傷或位移技能，確保自己不會被施加禁療效果。",
-        "* 如果安娜有一段時間沒使用奈米強化（Nano Boost），就不要過度執著於擊殺對方的坦克。一旦你為了擊殺對方而耗盡了冷卻技能，她就會對坦克施放奈米強化，而他們的後續反擊將會讓你難以生存。"
+        "* 睡眠鏢（Sleep Dart）是安娜主要的生存手段。如果你看到她射出這招，或是看到她讓隊友陷入沉睡，那就是你進攻她的最佳時機。",
+        "* 當你使用坦克或任何側襲者（Flanker）時，你需要針對生物手榴彈（Biotic Grenade）的禁療效果進行應對。試著預判她的施放時機，並使用你的減傷或位移技能，確保自己不會被禁療。",
+        "* 如果安娜已經有一段時間沒有使用奈米強化（Nano Boost），就不要過度執著於擊殺對方的坦克。一旦你耗盡冷卻技能卻未能擊殺目標，她就會對坦克施放奈米強化，屆時對方的反擊將會讓你難以招架。"
       ],
       "content_hash": "acef6b455c2a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:10.294841Z"
+      "timestamp": "2026-03-26T04:26:34.074772Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 具備扭轉戰局的特殊能力（Fight-winning abilities）",
-        "* 均衡的傷害與治療輸出",
+        "* 決定戰局的特殊能力（Fight-winning abilities）",
+        "* 均衡的傷害與治療能力",
         "* 遠距離支援",
-        "* 生存能力低落",
-        "* 技能門檻與上限皆高",
-        "* 無位移能力"
+        "* 生存能力低",
+        "* 上手門檻與精通上限皆高",
+        "* 無機動性"
       ],
       "content_hash": "48c4fdf59620",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:12.066989Z"
+      "timestamp": "2026-03-26T04:26:36.077268Z"
     },
     "3.1.1": {
       "title": "決定勝負的技能",
       "description": "",
       "content": [
-        "安娜（Ana）最大的優勢在於生化手榴彈（Biotic Nade）、睡眠鏢（Sleep Dart）和奈米強化（Nano Boost）所蘊含的潛在威力。這些技能中的每一項，都有能力單槍匹馬決定一場團戰的勝負。在敵人施放絕招時讓他們陷入睡眠可以避免戰敗，對激進的戰士（Bruiser）施加禁療效果能讓他們寸步難行，而一次時機精準的奈米強化（Nano Boost）則足以殲滅敵方全隊。然而，要做到這些事情的難度極高。判斷何時使用這些技能，接著精準瞄準並命中正確的目標，全都是需要在瞬間做出的困難決策。"
+        "安娜（Ana）最強大的優勢在於生化手榴彈（Biotic Nade）、睡眠鏢（Sleep Dart）以及奈米強化（Nano Boost）所蘊含的潛力。這些技能中的每一項，都有能力憑一己之力左右團戰的結果。在敵人施放絕招時使其陷入睡眠可以避免戰敗，對激進的坦克施加禁療效果能讓他們寸步難行，而一次時機精準的奈米強化（Nano Boost）甚至能將敵方全隊殲滅。然而，要做到這些操作的難度極高。判斷何時該使用這些技能，接著精準瞄準並命中正確的目標，全都是需要在瞬間做出的艱難決策。"
       ],
       "content_hash": "5eb2732fca90",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:13.955631Z"
+      "timestamp": "2026-03-26T04:26:38.999390Z"
     },
     "3.1.2": {
       "title": "平衡的傷害與治療",
       "description": "",
       "content": [
-        "與大多數輔助英雄不同，安娜（Ana）能為隊伍提供大量的傷害與治療。生化手榴彈（Biotic Nade）與生化步槍（Rifle）皆能用於防守或進攻。根據隊伍的需求，她可以專注於輸出傷害，或是為隊友提供源源不絕的治療。"
+        "與大多數輔助英雄不同，安娜能為隊伍提供大量的傷害與治療。生化手榴彈（Biotic Nade）與生化步槍（Rifle）皆可根據情況用於防守或進攻。根據隊伍的需求，她可以選擇專注於輸出傷害，或是為隊友提供源源不絕的治療。"
       ],
       "content_hash": "dc4730fd4b9f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:15.540610Z"
+      "timestamp": "2026-03-26T04:26:41.002652Z"
     },
     "3.1.3": {
       "title": "遠程支援",
       "description": "",
       "content": [
-        "安娜（Ana）是唯一真正的狙擊型支援。她擁有獨特的能力，可以待在地圖後方並同時提供最大價值。這也讓她在側襲（dive）陣容中更具優勢，因為儘管她缺乏任何機動性，但她不需要親自跟隨隊友，就能在隊友側襲或突擊敵方脆皮英雄時為他們提供支援。"
+        "安娜是唯一真正的狙擊手支援。她擁有獨特的能力，可以待在地圖後方並同時提供最大化的價值。這也讓她在機動陣容中更具優勢，因為儘管她缺乏任何機動性，但她不需要親自跟隨隊友，就能在隊友側襲或突擊敵方脆皮英雄時為他們提供支援。"
       ],
       "content_hash": "bfbe8c2e9ddf",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:17.316388Z"
+      "timestamp": "2026-03-26T04:26:42.111027Z"
     },
     "3.2.1": {
       "title": "低生存能力",
       "description": "",
       "content": [
-        "安娜的生存能力非常差。如果她陷入孤立無援的狀態，幾乎總是在 1 對 1 的決鬥中落敗，且無法同時應對多個威脅。即便她成功讓一名側襲者陷入睡眠，在對方醒來後，她依然很難獨自將其擊殺。她最好的應對方式通常是先施放睡眠鏢，然後轉身逃跑。"
+        "安娜的生存能力非常差。如果她陷入孤立無援的境地，幾乎總會在 1 對 1 的決鬥中落敗，且沒有任何手段能同時應對多個威脅。即便她成功讓一名敵方側襲者陷入昏睡，在對方醒來後，她仍難以獨自將其擊殺。她最好的應對方式通常是先施放睡眠鏢，然後轉身逃跑。"
       ],
       "content_hash": "ad2a0f679afd",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:19.359475Z"
+      "timestamp": "2026-03-26T04:26:43.877867Z"
     },
     "3.2.2": {
-      "title": "高技能門檻與上限",
+      "title": "極高的操作門檻與上限",
       "description": "",
       "content": [
-        "想要發揮安娜（Ana）的基本價值，玩家需要具備相當高的機械操作技巧。源氏（Genji）玩家對此再清楚不過了，他們總是一邊跳來跳去狂按「我需要治療！」，一邊卻不小心閃掉了安娜（Ana）射出的所有治療彈。雖然睡眠鏢（Sleep Dart）幾乎能中斷遊戲中所有的技能，但其緩慢的彈道速度與漫長的冷卻時間，使得它難以被有效運用。此外，命中生物手榴彈（Anti-nades）後，往往因為隊伍只有 3 秒的禁療時間可以利用，而無法產生後續的擊殺效益。"
+        "想要從安娜身上獲得最基本的價值，玩家必須具備相當精湛的機械操作技巧。源氏對此再清楚不過了，他們總是在場上跳來跳去並瘋狂按著「我需要治療！」，卻意外地閃避掉所有來自安娜的治療射擊。雖然睡眠鏢（Sleep Dart）幾乎可以中斷遊戲中所有的技能，但其緩慢的彈道速度與漫長的冷卻時間，使得它難以被有效運用。此外，命中生化手榴彈（Anti-nades）後，往往因為隊伍僅有 3 秒的禁療時間可以利用，而無法產生後續的擊殺效益。"
       ],
       "content_hash": "265d1801e627",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:21.050018Z"
+      "timestamp": "2026-03-26T04:26:46.312140Z"
     },
     "3.2.3": {
       "title": "缺乏機動性",
       "description": "",
       "content": [
-        "安娜（Ana）最大的弱點在於她缺乏機動性。鬥陣特攻（Overwatch）正逐漸轉向以機動性為主的版本環境。安娜沒有任何手段可以登上高處、從敵人的攻擊中脫身，或是快速變換位置來配合隊友的進攻節奏。"
+        "安娜最大的弱點在於她缺乏機動性。《鬥陣特攻》的遊戲環境已逐漸轉向更強調機動性的版本。安娜沒有任何方式可以登上高處、從敵人的攻擊中脫身，或是快速變換位置來配合隊友的進攻節奏。"
       ],
       "content_hash": "ddca68ea6c76",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:22.684933Z"
+      "timestamp": "2026-03-26T04:26:48.469051Z"
     },
     "4.1": {
-      "title": "主要攻擊：生物步槍（Biotic Rifle）",
+      "title": "主要攻擊：生物步槍",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/8e97b1456138e53b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-rifle.png)生物步槍（Biotic Rifle）使用技巧**",
+        "**![](/data/assets/guide/8e97b1456138e53b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-rifle.png)生物步槍的技巧**",
         "* 治療還是傷害？",
-        "* 安娜（Ana）通常是隊伍主要的治療來源。請優先進行治療，僅在隊友沒有立即死亡風險的短暫空檔才進行輸出。",
-        "* 無論是腰射還是開鏡射擊，子彈都會穿過滿血的隊友，以治療或傷害後方的目標。",
-        "* 何時該保持不開鏡狀態",
-        "* 當面對敵方隊伍有多名側襲者（Flanker），且隊友無法及時回防保護你時，安娜（Ana）應該更靠近隊伍位置。",
-        "* 如此一來，你就不需要開鏡，也能對側襲嘗試做出更好的反應。",
-        "* 何時該開鏡（ADS）",
-        "* 嘗試僅在需要精準命中時才開鏡。安娜（Ana）在開鏡時的左右橫移速度會顯著降低，這會使你成為容易被攻擊的目標。此外，不開鏡時你能從戰場上獲取更多資訊。如果你靠近隊伍，或是正在治療像戰士（Bruiser）這樣體型巨大的英雄，通常保持不開鏡會更好。",
-        "* 在開鏡與腰射之間切換會觸發射擊間的裝填動畫，這會導致安娜（Ana）的每秒射擊次數變慢。",
+        "* 安娜通常是隊伍主要的治療來源。請優先進行治療，只有在隊友沒有立即死亡危險的短暫空檔才進行輸出。",
+        "* 腰射與瞄準射擊皆會穿過滿血的隊友，以治療或傷害後方的目標。",
+        "* 何時該保持腰射狀態",
+        "* 當面對敵方隊伍有多名側襲者，且隊友無法協助你時，安娜應該更靠近隊伍位置。",
+        "* 如此一來，你就不需要進行瞄準射擊，並能更即時地應對側襲威脅。",
+        "* 何時該進行瞄準射擊",
+        "* 嘗試僅在需要精準命中時才進行瞄準射擊。安娜在瞄準狀態下的橫向移動速度會顯著降低，這會使你成為容易被攻擊的目標。此外，在腰射狀態下，你能從戰場上獲取更多資訊。如果你靠近隊伍，或是正在治療像戰士這類體型龐大的英雄，通常保持腰射狀態會更好。",
+        "* 在瞄準射擊與腰射之間切換會觸發射擊間的重裝動畫，這會降低安娜的每秒射擊次數。",
         "* 彈道大小",
-        "* 彈道判定大小會受到是否開鏡、以及目標是隊友還是敵人所影響。",
-        "* 對敵人開鏡射擊需要最精準的瞄準，因為此時的判定範圍最小。",
-        "* 不開鏡射擊敵人與隊友時，彈道判定大小為相同的中等尺寸。",
-        "* 開鏡治療隊友是最容易命中的射擊方式，因為其彈道判定大小超過開鏡傷害射擊的 3 倍。",
+        "* 彈道判定框的大小會受到腰射、瞄準射擊，以及目標是隊友或敵人而影響。",
+        "* 對敵人進行瞄準射擊時需要最精準，因為此時的判定框最小。",
+        "* 對敵人或隊友進行腰射時，彈道判定框大小相同，屬於中等尺寸。",
+        "* 對隊友進行瞄準治療時最容易命中，因為其彈道判定框大小超過瞄準傷害射擊的三倍以上。",
         "* 傷害無視護甲",
-        "* 安娜（Ana）在對抗擁有護甲血量的敵人時表現意外出色，因為生物步槍（Biotic Rifle）的持續傷害效果會完全無視護甲的傷害減免。"
+        "* 安娜在對抗擁有護甲值的敵人時表現意外出色，因為生物步槍的持續傷害效果會完全無視護甲的傷害減免。"
       ],
       "content_hash": "7265c4219378",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:25.956321Z"
+      "timestamp": "2026-03-26T04:26:52.949536Z"
     },
     "4.2": {
       "title": "[SHIFT]：睡眠鏢",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢的使用技巧**",
+        "關於 ![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png) 睡眠鏢的技巧",
         "* 讓側襲者陷入睡眠",
-        "* * 試圖進行突擊或側襲的敵人通常會提防安娜的睡眠鏢。一般來說，最好保留睡眠鏢，直到敵人使用了他們的應對技能（例如源氏的「反射」、溫斯頓的「防護力場」等）。",
-        "* 安娜的近戰攻擊動畫在視覺上與睡眠鏢的啟動動畫相似，可以用來誘騙那些盯著你、準備用冷卻技能（例如「反射」、「防禦矩陣」、「防護力場」或位移技能）來反應的敵人。",
-        "* 阻止敵人的推進",
-        "* * 無論是處於「復仇型態」的拉瑪塔、擺盪而來的火爆鋼球，還是直衝向你的索潔恩，睡眠鏢都是保護自己和隊友的完美反制手段。",
-        "* 如果你預判敵人將使用冷卻技能或絕招來搶佔隊友的空間，請務必保留睡眠鏢，直到他們發起進攻。",
+        "* 試圖進行突擊或側襲的敵人通常會提防安娜的睡眠鏢。一般來說，最好將睡眠鏢保留到敵人使用過反制技能（例如源氏的「反射」、溫斯頓的防護力場等）之後再使用。",
+        "* 安娜的近戰攻擊動畫在視覺上與睡眠鏢的起手動作相似，可以用來誘騙那些緊盯著你、準備使用冷卻技能來應對的敵人（例如：反射、防禦矩陣、護盾，或是用位移技能來閃避等）。",
+        "* 阻止敵人的進逼",
+        "* 無論是處於「復仇型態」的拉瑪塔、擺盪過來的火爆鋼球，還是正朝你滑行而來的索潔恩，睡眠鏢都是保護自己與隊友的最佳反制手段。",
+        "* 如果你預判敵人將使用冷卻技能或絕招來搶佔隊伍空間，請務必保留睡眠鏢，直到他們發動攻勢為止。",
         "* 謹慎使用",
-        "* * 你經常會看到安娜隨意地將睡眠鏢射向一群敵人，希望能瞎貓碰上死耗子。這種做法效率極低且價值不高，即使真的命中也是如此。最好保留這 14 秒的冷卻時間。",
-        "* 標記陷入睡眠的敵人",
-        "* * 由於她的技能在短時間內具有巨大的影響力，標記你催眠的敵人可以提醒隊友你需要協助。"
+        "* 你經常會看到安娜隨意地朝一群敵人發射睡眠鏢，希望能瞎貓碰上死耗子。這種做法即便命中，效率也很低且價值不高。最好還是將這 14 秒的冷卻時間留作他用。",
+        "* 標記你讓其陷入睡眠的敵人",
+        "* 由於她的技能在短時間內具有巨大的影響力，標記你讓其陷入睡眠的敵人，可以提醒隊友你需要支援。"
       ],
       "content_hash": "f71946f52b9f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:28.591764Z"
+      "timestamp": "2026-03-26T04:26:56.169151Z"
     },
     "4.3": {
-      "title": "[E]：生化手榴彈（Biotic Grenade）",
+      "title": "[E]：生物手榴彈（Biotic Grenade）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)生化手榴彈（Biotic Grenade）的使用技巧**",
+        "![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)生物手榴彈（Biotic Grenade）使用技巧",
         "* 禁療或治療",
-        "* 生化手榴彈最強大的用途，是透過禁療效果來確保擊殺。",
-        "* 尋找敵方目標無法撤退的時機，若能命中禁療效果，將能大幅提高隊伍擊殺對手的機率。",
-        "* 自我維持",
-        "* 除了通用的被動技能外，生化手榴彈是安娜唯一的自我治療手段。在生死關頭，將生化手榴彈用在自己身上以存活下來永遠是最佳選擇。",
-        "* 然而，如果你經常需要使用生化手榴彈來自我治療，這代表你的站位出現了失誤。",
-        "* 專注於利用掩體來將受到的傷害降至最低，並給予你的隊友支援（Support）時間來為你治療。",
-        "* 範圍傷害",
-        "* 當目標位於護盾、屏障、掩體後方或使用了傷害減免技能時，請善用生化手榴彈的範圍濺射效果。",
-        "* 例如，源氏（Genji）的「招架（Deflect）」判定範圍較小，你可以將生化手榴彈投擲在地面上，利用濺射傷害來對他施加禁療效果。"
+        "* 生物手榴彈最強大的用途是透過禁療效果來確保擊殺。",
+        "* 觀察敵方目標在被禁療後是否無法撤退，藉此提高隊伍擊殺對手的機率。",
+        "* 自我續航",
+        "* 生物手榴彈是安娜除了通用被動技能外唯一的自我治療手段。在生死關頭，將生物手榴彈用在自己身上以存活下來永遠是最佳選擇。",
+        "* 然而，如果你經常需要將生物手榴彈用於自我治療，這代表你的站位出現了失誤。",
+        "* 專注於利用掩體來將受到的傷害降至最低，並給予你的隊友支援角色時間來為你治療。",
+        "* 濺射傷害",
+        "* 當目標位於護盾、屏障、掩體後方或使用了傷害減免技能時，請善用生物手榴彈的範圍濺射效果。",
+        "* 例如，源氏的「反射（Deflect）」判定範圍較小，你可以將生物手榴彈丟在地面上，利用濺射傷害對他造成禁療效果。"
       ],
       "content_hash": "e503f0882833",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:30.945352Z"
+      "timestamp": "2026-03-26T04:26:59.286533Z"
     },
     "4.4": {
-      "title": "絕招：奈米強化（Nano Boost）",
+      "title": "絕招：奈米強化",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png)奈米強化（Nano Boost）的使用技巧**",
-        "* 在施放奈米強化（Nano Boost）前，先盤點雙方的資源狀況。",
-        "* 決定施放對象與時機時，最需要考量的就是雙方目前可用的資源。如果你對一個沒有「影」且沒有絕招的源氏施放奈米強化（Nano Boost），他在獲得強化後還得浪費寶貴的時間四處奔波。",
-        "* 如果你在敵方擁有「聖」的情況下對攔路豬施放絕招，等於是用兩個絕招去換對方的一個絕招。",
-        "* 奈米強化（Nano Boost）目標",
-        "* 奈米強化（Nano Boost）的最佳目標是那些具備高爆發傷害，且已經處於進攻位置準備與敵方交戰的英雄。",
-        "* 此外，每當你有隊友準備好可以與奈米強化（Nano Boost）搭配的絕招時（例如「龍一文字」或「戰術鎖定」），請盡量同步施放時機，讓它們能相輔相成。"
+        "**![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png)奈米強化使用技巧**",
+        "* 在施放奈米強化前，請先盤點雙方的資源狀況。",
+        "* 決定奈米強化的人選與時機時，最主要考量的是雙方隊伍目前可用的資源。如果你對一個沒有「影」且沒有絕招的源氏施放奈米強化，他將會浪費寶貴的時間在場上奔波。",
+        "* 如果你在敵方擁有「聖」的情況下對攔路豬施放絕招，你等於是用兩個絕招換掉對方的一個絕招。",
+        "* 奈米強化目標",
+        "* 最佳的奈米強化目標是那些具備高爆發傷害，且已經處於進攻位置準備與敵方交戰的英雄。",
+        "* 此外，每當你有隊友準備好與奈米強化進行絕招連攜時（例如「龍一文字」或「戰術鎖定」），請盡量同步施放時機，讓它們能同時發揮作用。"
       ],
       "content_hash": "f8709b5cee5d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:33.679039Z"
+      "timestamp": "2026-03-26T04:27:01.930156Z"
     },
     "5.1.1": {
       "title": "昏昏欲睡（Groggy）",
-      "description": "被睡眠鏢（Sleep Dart）喚醒的敵人將會受到緩速效果，並在 2 秒內受到 50 點傷害。",
+      "description": "被睡眠鏢（Sleep Dart）喚醒的敵人會受到緩速效果，並在 2 秒內受到 50 點傷害。",
       "content": [
-        "* 對抗機動陣容（dive）效果最佳",
-        "* 安娜（Ana）永遠是機動陣容的首要目標，因此任何能協助她反制敵方進攻的能力，對她的生存能力都有極大幫助。",
-        "* 額外的傷害與緩速減益效果，基本上能確保擊殺任何沒有無敵逃脫手段的英雄。",
+        "* 對抗側襲者（Flanker）效果最佳",
+        "* 安娜（Ana）永遠是側襲者優先攻擊的目標，因此任何能幫助她反制這些攻擊的能力，對她的生存能力都至關重要。",
+        "* 額外的傷害與緩速減益效果，基本上能確保擊殺任何沒有無敵逃脫技能的英雄。",
         "* 封鎖敵方絕招",
-        "* 睡眠（Sleep）本身就是《鬥陣特攻》（Overwatch）中反制絕招最強大的能力之一，而附加的緩速效果能為你的隊伍爭取更多空間，讓隊友在敵人醒來後有餘裕避開其絕招。",
-        "* 例如：拉瑪塔（Ramattra）對你的隊伍施放絕招時，安娜（Ana）將他催眠，等到他醒來並緩慢移動時，你的隊伍已經能脫離他的範圍傷害（AoE）區域，並提早結束他的絕招。"
+        "* 睡眠（Sleep）本身就是《鬥陣特攻》（Overwatch）中反制絕招最強大的能力之一，而額外的緩速效果能為你的隊伍爭取更多空間，讓他們在敵人甦醒後有機會避開絕招。",
+        "* 例如：拉瑪塔（Ramattra）對你的隊伍施放絕招時，安娜（Ana）將他催眠，等到他甦醒並緩慢移動時，你的隊伍就能撤出他的範圍傷害（AoE）區域，並提早結束他的絕招。"
       ],
       "content_hash": "3c7f3d97b03b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:35.797586Z"
+      "timestamp": "2026-03-26T04:27:04.489238Z"
     },
     "5.1.2": {
-      "title": "速度血清（Speed Serum）",
-      "description": "奈米強化（Nano Boost）會賦予安娜（Ana）及其目標 40% 的移動速度加成。",
+      "title": "速度血清",
+      "description": "奈米強化會賦予安娜及其目標 40% 的移動速度加成。",
       "content": [
-        "* 最適合用於像萊因哈特（Reinhardt）這類難以追擊撤退敵人的侵略性奈米強化目標。",
-        "* 若情況危急，你絕對可以將奈米強化（Nano Boost）施放在最近或最容易鎖定的目標上，僅為了在即將死亡時獲得移動速度加成來保命。"
+        "* 最適合用於像萊因哈特這類難以追擊撤退敵人的侵略性奈米強化目標。",
+        "* 如果情況危急，你絕對可以對最近或最容易的目標施放奈米強化，單純為了在即將死亡時獲得速度加成。"
       ],
       "content_hash": "23237c15fffe",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:37.718719Z"
+      "timestamp": "2026-03-26T04:27:06.370594Z"
     },
     "5.2.1": {
-      "title": "獵頭者（Headhunter）",
+      "title": "獵頭者",
       "description": "生化步槍（Biotic Rifle）可以對敵人造成暴擊。",
       "content": [
         "* 純粹為了炫技",
-        "* 請參考「生化步槍（Biotic Rifle）技巧」章節，你會發現針對敵人進行瞄準射擊（ADS）時，子彈判定大小會顯著縮小。這使得安娜（Ana）想要命中爆頭變得相當困難。",
-        "* 此外，傷害倍率僅有 1.5 倍，因此帶來的收益並不高。",
-        "* 當觀察英雄背部時，頭部受擊判定區域大多會被隱藏，而你基本上總是會看著隊友的背影。因此，對隊友造成暴擊也是不切實際的。"
+        "* 請參考「生化步槍（Biotic Rifle）技巧」章節，你會發現針對敵人進行瞄準射擊（ADS）時，子彈判定大小會顯著縮小。這使得安娜（Ana）要命中爆頭變得相當困難。",
+        "* 此外，暴擊倍率僅有 1.5 倍，因此帶來的收益並不高。",
+        "* 當觀察英雄背部時，頭部受擊判定區域大多會被隱藏，而你基本上總是會看著隊友的背影。因此，對隊友造成暴擊在實戰中也不切實際。"
       ],
       "content_hash": "50e2314c9c36",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:39.949150Z"
+      "timestamp": "2026-03-26T04:27:08.580288Z"
     },
     "5.2.2": {
-      "title": "生化彈跳（Biotic Bounce）",
+      "title": "生化彈跳",
       "description": "生化手榴彈（Biotic Grenade）在爆炸後會彈跳並再次爆炸，造成 60 點傷害與治療量。",
       "content": [
-        "* 獲勝按鈕",
-        "* 雖然第二次彈跳的傷害與治療量會降低，但禁療與治療增益效果維持不變。",
-        "* 安娜（Ana）有潛力利用第一次彈跳擊中敵方前線，隨後利用第二次彈跳擊中敵方中後排。這能對大多數敵方隊伍施加禁療效果。",
-        "* 將手榴彈投擲至目標身旁或身後的牆壁，也是擊中刁鑽角度的非常有效手段。"
+        "* 獲勝關鍵",
+        "* 雖然第二次彈跳的傷害與治療量會降低，但禁療與治療加成效果維持不變。",
+        "* 安娜（Ana）有潛力利用第一次彈跳擊中敵方前線，隨後透過第二次彈跳擊中敵方中後排。這能對大多數敵方隊伍造成禁療效果。",
+        "* 將手榴彈投擲至目標身旁或身後的牆壁，也是命中刁鑽角度的有效手段。"
       ],
       "content_hash": "92dfcf61fe08",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:41.498685Z"
+      "timestamp": "2026-03-26T04:27:11.451824Z"
     },
     "6.1.1": {
       "title": "國王大道",
       "description": "",
       "content": [
-        "* 安娜（Ana）在國王大道的每一個據點，無論是進攻還是防守都有極佳的表現。地圖中遍布的牆壁為安娜提供了絕佳的天然掩體，讓她能在保持自身安全的同時支援隊友。在防守時，試著在團戰開始前佔據高處位置，這樣你將有更多應對敵方攻勢的手段。"
+        "* 安娜在國王大道的進攻與防守方，於每個據點都有極佳的表現。地圖中隨處可見的牆壁提供了絕佳的天然掩體，讓安娜在保持自身安全的同時，也能持續支援隊友。在防守時，試著在會戰開始前佔據高處位置，這樣你將有更多應對敵方攻勢的手段。"
       ],
       "content_hash": "9c9a78a6109e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:43.292882Z"
+      "timestamp": "2026-03-26T04:27:13.453955Z"
     },
     "6.1.2": {
       "title": "垃圾鎮",
       "description": "",
       "content": [
-        "* 長視線與建築物的結合，使這裡成為非常適合安娜（Ana）發揮的地圖。開闊的區域讓側襲者（Flanker）難以接近位於後排深處的安娜（Ana），因此這通常是一張她能安全地站在隊伍後方，並專注於輸出傷害與治療量的地圖。"
+        "* 長視線與建築物的結合，使這裡成為非常適合使用安娜的地圖。開闊的區域讓側襲者難以接近位於後排深處的安娜，因此這通常是一張她能安全地站在隊友後方，並專注於輸出傷害或治療的地圖。"
       ],
       "content_hash": "dae8a2312f7a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:44.992913Z"
+      "timestamp": "2026-03-26T04:27:15.580095Z"
     },
     "6.1.3": {
       "title": "暴雪樂園",
       "description": "",
       "content": [
-        "* 無論是使用偏向團戰（brawly）還是機動（dive）的隊伍陣容，安娜在暴雪樂園中都能完美適應。如果你們的隊伍有戰士（brawl tank）在狹窄的咽喉點進行防守或持續推進，請待在附近並與他們共同守住陣地。如果你的隊伍偏向機動性，請在戰場外圍佔據有利位置，並提供遠距離的支援。"
+        "* 無論是採取更偏向肉搏還是機動的隊伍陣容，安娜在暴雪樂園中都能發揮作用。如果你們的戰士（Bruiser）坦克正在防守狹窄的咽喉點或持續向前推進，請待在附近並與他們一同鞏固陣地。如果你的隊伍是以機動性為導向，請在戰場外圍佔據有利位置，並提供遠程支援。"
       ],
       "content_hash": "52917c9d97e5",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:46.856842Z"
+      "timestamp": "2026-03-26T04:27:18.035381Z"
     },
     "6.2.1": {
       "title": "新垃圾城",
       "description": "",
       "content": [
-        "* 由於新垃圾城的地圖規模龐大，高機動性的陣容在此處佔據主導地位。安娜（Ana）難以跟上節奏，往往在抵達戰場時，隊伍會戰已經落敗。當你的隊伍已經取得控制權時，她的表現尚可，但即便如此，地圖上可用的站位也與安娜（Ana）的技能組並不契合。"
+        "* 由於新垃圾城的地圖幅員遼闊，高機動性的陣容在此處佔據主導地位。安娜難以跟上節奏，往往在抵達戰場時，隊伍已經輸掉了會戰。當你的隊伍已經取得控制權時，她的表現尚可，但即便如此，地圖上可用的站位也無法與安娜的技能組產生良好的搭配。"
       ],
       "content_hash": "9b9b71facd4e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:48.366506Z"
+      "timestamp": "2026-03-26T04:27:19.935776Z"
     },
     "6.2.2": {
       "title": "帕拉伊索",
       "description": "",
       "content": [
-        "* 在帕拉伊索使用安娜進行進攻幾乎是不可能的任務。防守方的高地位置極具優勢，且狹窄的咽喉點對安娜來說非常危險。防守時安娜的表現尚可，因為她可以預先佔據高地位置。即便如此，她在轉點時仍難以跟上戰鬥節奏；如果她不幸在團戰初期陣亡，由於需要花費很長時間才能回到位置，該據點通常就會失守。"
+        "* 在帕拉伊索使用安娜進行進攻簡直是不可能的任務。防守方的高地位置極具優勢，且狹窄的咽喉點對安娜來說非常危險。防守時安娜的表現尚可，因為她能預先佔據高地。即便如此，她在轉點時仍難以跟上戰鬥節奏；如果她不幸在團戰初期陣亡，由於返回戰場位置所需的時間太長，該據點通常就會直接失守。"
       ],
       "content_hash": "09cfc46066fa",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:50.328722Z"
+      "timestamp": "2026-03-26T04:27:22.342385Z"
     },
     "6.2.3": {
       "title": "南極半島",
       "description": "",
       "content": [
-        "* 在南極半島的三個目標點上，安娜（Ana）實際上只有兩種選擇。第一種是採取被動站位，待在隊伍目標點後方附近，但這樣只能獲得約 40% 戰場區域的視野（LoS）。另一種則是與隊伍一同激進前壓，雖然能提供完整的支援，但自身會極度暴露且沒有任何逃生手段。"
+        "* 在南極半島的三個目標點上，安娜（Ana）實際上只有兩種選擇。第一種是採取被動站位，待在隊伍目標點後方附近，但這樣只能獲得約 40% 戰場區域的視野（LoS）。另一種則是與隊伍一同激進前壓，雖然能提供完整的支援，但會讓自己處於極度暴露的狀態，且完全沒有逃生手段。"
       ],
       "content_hash": "43c14a2caa04",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:52.244295Z"
+      "timestamp": "2026-03-26T04:27:24.795297Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "安娜（Ana）擁有高額的治療輸出與影響力極大的特殊能力（abilities），但同時也容易被擊殺，這意味著她需要一個能確保她生存的隊伍。她可以與任何隊伍陣容完美搭配，但在遭到敵方集火時，需要一名隊友專門負責保護她。在側襲（dive）陣容中，她通常會與碧姬（Brigitte）搭配，以防禦敵方的側襲攻勢。而在消耗（poke）與戰士（brawl）陣容中，她最適合與巴帝斯特（Baptiste）或路西歐（Lúcio）搭配，以確保自身的生存。"
+        "安娜擁有高治療輸出與高影響力的特殊能力（abilities），但同時也容易被擊殺，這意味著她需要一個能確保她生存的隊伍。她可以與任何隊伍陣容完美搭配，但當她成為敵方目標時，需要一名隊友專門負責保護她。在側襲（dive）陣容中，她通常會與碧姬搭配，以防禦敵方的側襲。至於消耗（poke）與戰鬥（brawl）陣容，她最適合與巴帝斯特或路西歐搭配，以維持她的生存。"
       ],
       "content_hash": "2543ed73eda7",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:54.403010Z"
+      "timestamp": "2026-03-26T04:27:26.806136Z"
     },
     "7.1": {
       "title": "與其他英雄的個人搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特",
-        "* 安娜能為萊因哈特提供恰到好處的爆發治療，讓他能夠進行走位並積極揮舞戰鎚。當萊因哈特擁有地裂擊（Earth Shatter）時，對被擊暈的對手施加生物手榴彈（Anti-nade）幾乎能保證贏得會戰。奈米強化（Nano Boost）給予萊因哈特時也能發揮極大價值，讓他揮舞戰鎚只需兩下就能擊殺任何生命值低於 300 的英雄！在面對敵方萊因哈特時，擁有安娜來施加睡眠鏢（Sleep Dart）和禁療效果，能輕鬆造成「坦克差距（tank diff）」。",
-        "![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏",
-        "* 奈米龍一（Nanoblade）。安娜與源氏的搭配完全在於結合兩者絕招所帶來的勝負關鍵潛力。奈米龍一（Nanoblade）是《鬥陣特攻》中最難反制的絕招組合之一，甚至能憑一己之力扭轉戰局。當源氏深入敵方後排時，安娜的遠程治療也能有效維持他的生存。",
-        "![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬",
-        "* 如上所述，碧姬在任何有安娜的隊伍陣容中，工作就是確保安娜在面對敵方側襲時能保持存活與安全。碧姬能極其有效地阻擋敵方對安娜的攻擊，讓安娜能專注於透過治療、傷害輸出以及帶領隊伍走向勝利的生物手榴彈（Biotic Nades）來支援隊友。"
+        "![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特\n* 安娜能為萊因哈特提供完美的瞬間治療量，讓他能夠調整站位並進行侵略性的揮擊。當萊因哈特擁有地裂擊時，對被擊暈的對手投擲生物手榴彈（Biotic Grenade）造成的禁療效果幾乎能確保贏得會戰。奈米強化（Nano Boost）給予萊因哈特時也能發揮極大價值，讓他的揮擊能兩下擊殺任何生命值低於 300 的英雄！在面對萊因哈特內戰時，擁有一名能使敵方萊因哈特陷入睡眠並施加禁療的安娜，能輕鬆造成「坦克差距」。",
+        "[[__OWH_IMG_1__]]源氏\n* 奈米龍一（Nanoblade）。安娜與源氏的搭配完全在於結合兩者絕招所帶來的勝負潛力。奈米龍一在所有《鬥陣特攻》中是最難反制的絕招組合之一，甚至能憑一己之力扭轉戰局。當源氏深入敵方後排時，安娜的長距離治療也能有效地維持他的生存。",
+        "![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)碧姬\n* 如上所述，碧姬在任何有安娜的隊伍陣容中，其職責就是保護安娜免受敵方側襲者的威脅並確保她的安全。碧姬能極其出色地阻擋敵方對安娜的攻勢，讓安娜能專注於透過治療、傷害輸出以及帶領隊伍走向勝利的生物手榴彈（Biotic Nades）來支援隊友。",
+        "* Nanoblade. The synergy of Ana and Genji lies entirely in the game-winning potential of combining their two ults. Nanoblade is one of the hardest ult combos to counter in all of Overwatch and can single-handedly carry games. Ana’s long-range healing also does well to keep Genji up when he is diving the enemy backline.",
+        "![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)Brigitte",
+        "* As stated above, Brigitte’s job in any team comp with Ana is to keep Ana alive and safe against enemy dives. Brig can shut down enemy attacks against Ana so well that Ana is free to focus on supporting her team with healing, damage, and Biotic Nades that carry her team to victory."
       ],
       "content_hash": "76f8a754fe7b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:57.663309Z"
+      "timestamp": "2026-03-26T04:27:30.930246Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "在對抗安娜（Ana）時，無論你擔任什麼角色，都必須隨時留意她的睡眠鏢（Sleep Dart）和生物手榴彈（Biotic Nade）的冷卻時間。這兩項技能的冷卻時間皆超過 12 秒，當她處於技能冷卻狀態時，會為你的隊伍創造出巨大的進攻空窗期。",
-        "當她這兩項技能都不在手中時，你可以放心地對她發動攻勢，幾乎不會有死亡的風險。另一件你應該盡可能多做的事，就是待在她的視野（LoS）之外。由於她缺乏機動性，無法跟隨在地圖上轉點的隊友或敵人。如果你能引誘她的隊友在她的視野之外攻擊你，你將會佔據極大的優勢。"
+        "在對抗安娜時，無論你擔任什麼角色，都需要隨時留意睡眠鏢（Sleep Dart）和生物手榴彈（Biotic Nade）的冷卻時間。這兩項技能的冷卻時間都超過 12 秒，當她處於冷卻狀態時，會為你的隊伍創造出巨大的進攻空窗期。",
+        "當她這兩項技能都不在手時，你可以安全地對她發動攻勢，幾乎沒有死亡風險。另一件你應該盡可能多做的事，就是待在她的視野範圍（LoS）之外。由於她缺乏機動性，無法跟隨在地圖上轉點的隊友或敵人。如果你能引誘她的隊友在她的視野範圍外攻擊你，你將會擁有巨大的優勢。"
       ],
       "content_hash": "8425968e1920",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:59.970411Z"
+      "timestamp": "2026-03-26T04:27:33.812682Z"
     },
     "8.1": {
       "title": "特定英雄剋制關係",
       "description": "",
       "content": [
-        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬",
-        "* 席格馬的護盾與動能轉化（Kinetic Grasp）可以吸收安娜的所有技能。席格馬對抗安娜時，最好的策略通常是將護盾放置在安娜與她隊友之間。這麼做會迫使她改變位置，因為她的遠程消耗傷害太低，無法快速擊破護盾。安娜幾乎沒有什麼手段能反制席格馬，因為他可以預判安娜何時會使用睡眠鏢與生物手榴彈，並阻擋這些技能的效果。",
-        "![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)駭影",
-        "* 駭影是最容易持續騷擾並擊殺安娜的英雄之一。透過隱形 → 駭入 → 病毒（Virus） → 射擊的連招，可以迅速解決安娜，讓她很難在反應過來後對駭影使用睡眠鏢。",
-        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子",
-        "* 祓除鈴（Protection Suzu）可以瞬間淨化安娜最強的技能：睡眠鏢與生物手榴彈。祓除鈴甚至能淨化安娜普攻造成的持續傷害，並在隊友生命值歸零前救下他們。霧子在與安娜的 1v1 單挑中也往往佔據優勢，因為她可以切入、使用祓除鈴，並在擊殺後利用瞬移（TP）撤離。"
+        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬\n* 席格馬的屏障與動能轉換（Kinetic Grasp）可以吸收安娜的所有技能。席格馬對抗安娜時，最好的策略通常是將屏障放置在安娜與她隊友之間。這麼做會迫使安娜重新調整位置，因為她的遠程消耗傷害太低，無法快速擊破屏障。安娜幾乎沒有什麼能反制席格馬的手段，因為席格馬可以預判安娜何時會使用睡眠鏢與生物手榴彈，並阻擋這些技能的效果。",
+        "[[__OWH_IMG_1__]]駭影\n* 駭影是最容易持續騷擾並擊殺安娜的英雄之一。透過隱形 → 駭入 → 病毒（Virus） → 射擊的連招，就能迅速解決安娜，讓她很難在反應過來後使用睡眠鏢反制駭影。",
+        "![](/data/assets/guide/670bb2169385300d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsombra.png)霧子\n* 鈴（Protection Suzu）可以瞬間淨化安娜最強大的技能：睡眠鏢與生物手榴彈。鈴甚至能淨化安娜普攻造成的持續傷害，並在隊友生命值歸零前及時救下他們。霧子在與安娜的 1 對 1 單挑中也往往佔據優勢，因為她可以切入戰場、使用鈴，並在擊殺後利用瞬移（TP）撤離。",
+        "* Sombra is one of the easiest heroes to consistently harass and eliminate Ana with. Stealth → Hack → Virus → shoot, wipes Ana and makes it very difficult to reactively Sleep Sombra.",
+        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)Kiriko",
+        "* Protection Suzu instantly cleanses Ana’s best abilities: Sleep and Nade. Suzu even cleanses Ana’s primary fire damage over time and can save a hero just before they lose health. Kiriko also tends to win in 1v1 duels against Ana because she can get in, Suzu, then TP out after getting the kill."
       ],
       "content_hash": "05048b5fb17e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:03.264341Z"
+      "timestamp": "2026-03-26T04:27:37.263599Z"
     },
     "8.2": {
-      "title": "特定英雄反制名稱",
+      "title": "特定英雄剋制名單",
       "description": "",
       "content": [
         "* 席格馬",
@@ -395,14 +395,14 @@
         "* 霧子"
       ],
       "content_hash": "910787d94a2e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:18:04.643431Z"
+      "timestamp": "2026-03-26T04:27:38.925703Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:17:03.223545Z"
+    "timestamp": "2026-03-26T05:10:57.565333Z"
   }
 }

@@ -6,317 +6,317 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "作為島田家族的忍術大師，![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子為了和平與正義而戰。她是一位全面且靈活的支援型英雄，能同時提供防禦與進攻方面的協助。",
-        "當會戰變得混亂，陷入各自為戰的局面時，霧子總能在混亂中存活並發揮影響力。她的機動性使她能夠快速變換位置，以逃離危險或協助隊友取得擊殺。通常情況下，她會將自己定位在中線，以確保隨時處於「瞬（Swift Step）」的施放範圍內，並能鎖定目標進行治療。"
+        "島田家族的忍術大師，![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子，為了和平與正義而迅速戰鬥。她是一位全面且多功能的支援型英雄，能同時提供防禦與進攻方面的協助。",
+        "當會戰變得混亂，且每位玩家都必須各自為戰時，霧子總能在混亂中存活並發揮影響力。她的機動性使她能快速重新定位，以逃離危險或協助隊友取得擊殺。通常情況下，她會將自己定位在中線，以確保隨時處於「瞬（Swift Step）」和鎖定治療的範圍內。"
       ],
       "content_hash": "8483644600b2",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:22.659074Z"
+      "timestamp": "2026-03-26T04:23:11.944200Z"
     },
     "1.1.1": {
-      "title": "遊玩方式",
+      "title": "遊玩風格",
       "description": "",
       "content": [
-        "* 隨時保持在 ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬（Swift Step）與治療符（Healing Ofuda）的鎖定範圍內，這樣你才能在不投入過多資源的情況下，迅速拯救隊友或逃離險境。",
-        "* 在治療與苦無（Kunai）施壓之間靈活切換，以快速累積 ![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)狐步（Kitsune Rush），同時利用爆頭威脅敵方的後排角色。",
-        "* 將 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu）保留給高影響力的負面效果或致命時刻，而不是單純為了治療量而使用。"
+        "* 隨時保持在 ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步（Swift Step）與治療御札（Healing Ofuda）的鎖定範圍內，這樣你就能在不投入過多資源的情況下快速拯救隊友或脫離險境。",
+        "* 在治療與苦無（Kunai）施壓之間切換，以快速累積 ![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)狐狸湧現（Kitsune Rush），同時利用爆頭威脅敵方後排。",
+        "* 將 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu）保留給高影響力的負面效果或致命時刻使用，而不是單純為了治療價值而消耗它。"
       ],
       "content_hash": "c570cd28910a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:24.566258Z"
+      "timestamp": "2026-03-26T04:23:14.021196Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 盡早逼出 ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步（Swift Step）或 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu），接著在這些技能冷卻期間重新發起進攻。",
-        "* 從多個角度對她施加壓力，以阻斷安全的傳送目標並限制她的逃生選擇。",
-        "* 將 ![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)狐狸衝刺（Kitsune Rush）視為敵方隊伍最強大的進攻型絕招。請保留防禦性技能以求生存、盡可能撤退，或是使用你們自己的絕招來防止她壓制你們的隊伍。"
+        "* 盡早逼出 ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步或 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴護，接著在這些技能冷卻期間重新發動進攻。",
+        "* 從多個角度對她施加壓力，藉此封鎖她安全的傳送目標並限制她的逃生選擇。",
+        "* 將 ![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)狐狸湧現視為敵方隊伍最強大的進攻型絕招。保留防禦性技能以求生存、盡可能撤退，或是使用你們自己的絕招來防止她壓制你們的隊伍。"
       ],
       "content_hash": "7b7992be553e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:26.761478Z"
+      "timestamp": "2026-03-26T04:23:16.689657Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 自動追蹤治療（Auto-tracking healing）",
-        "* 良好的生存能力（Good survivability）",
-        "* 強大的絕招（Strong Ultimate）",
-        "* 投射物速度緩慢（Slow projectiles）",
-        "* 對抗坦克（tanks）時較弱",
-        "* 主要攻擊（primary fire）難以使用"
+        "* 自動追蹤治療",
+        "* 優良的生存能力",
+        "* 強大的絕招",
+        "* 投射物速度緩慢",
+        "* 對抗坦克較弱",
+        "* 主要攻擊難以使用"
       ],
       "content_hash": "2a3a99e3bf34",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:28.551773Z"
+      "timestamp": "2026-03-26T04:23:18.614194Z"
     },
     "3.1.1": {
       "title": "自動追蹤治療",
       "description": "",
       "content": [
-        "無論你的技術水平如何，每個人都有失手的時候。霧子（Kiriko）完全不必擔心這個問題，因為她擁有寬容的鎖定判定範圍。一旦鎖定目標，![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)治療符（Healing Ofuda）甚至會繞過轉角追蹤盟友。這在面對體型較小且移動靈活的隊友時特別實用。"
+        "無論你的技術水平如何，每個人都有失手的時候。霧子完全不必擔心這個問題，因為她擁有寬容的鎖定判定。一旦鎖定目標，![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)治療符將會自動追蹤隊友，甚至能轉彎跟隨。這在面對體型嬌小且移動靈活的隊友時特別好用。"
       ],
       "content_hash": "c8f2399b84b3",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:30.141552Z"
+      "timestamp": "2026-03-26T04:23:20.830232Z"
     },
     "3.1.2": {
       "title": "高生存能力",
       "description": "",
       "content": [
-        "支援型角色通常是敵方隊伍首要鎖定的目標。![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）是最難被擊殺的支援型角色之一，因為她擁有許多生存工具。苦無（Kunai）也算在內，因為它對攻擊者構成了相當大的威脅。"
+        "支援型角色通常是敵方隊伍首要鎖定的目標。![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子是生存能力最強的支援型角色之一，因為她擁有許多保命工具。苦無（Kunai）也算在內，因為它對攻擊者構成了相當大的威脅。"
       ],
       "content_hash": "40f8073261aa",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:31.721589Z"
+      "timestamp": "2026-03-26T04:23:22.685485Z"
     },
     "3.1.3": {
-      "title": "扭轉戰局的輔助英雄絕招",
+      "title": "扭轉戰局的輔助絕招",
       "description": "",
       "content": [
-        "大多數輔助英雄的絕招都需要與坦克或輸出英雄的絕招進行搭配，才能贏得會戰。![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)霧子（Kiriko）的狐狸湧泉（Kitsune Rush）能強化整個隊伍，且通常單憑此絕招所帶來的優勢，就足以贏得團體會戰。"
+        "大多數輔助的絕招都需要與坦克或輸出英雄的絕招搭配，才能贏得會戰。![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)霧子（Kiriko）的狐狸湧動（Kitsune Rush）能強化整個隊伍，通常光憑這個絕招帶來的優勢就足以贏得團戰。"
       ],
       "content_hash": "ab4176f08020",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:33.497243Z"
+      "timestamp": "2026-03-26T04:23:24.628142Z"
     },
     "3.2.1": {
       "title": "緩慢的治療投射物與有限的鎖定距離",
       "description": "",
       "content": [
-        "盟友距離 ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子越遠，她的治療緩慢問題就越明顯。在最大鎖定距離下，治療效果抵達時可能已經來不及拯救盟友。此外，與許多其他支援英雄相比，治療御札（Healing Ofuda）的鎖定距離非常有限，因此霧子在遠距離治療能力上顯得較為弱勢。"
+        "當隊友距離 ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子越遠，她的治療緩慢問題就越明顯。在最大鎖定距離時，治療效果可能會因為抵達得太慢而無法拯救隊友。此外，與許多其他輔助相比，治療符（Healing Ofuda）的鎖定距離非常有限，因此霧子在遠距離治療能力上較為遜色。"
       ],
       "content_hash": "a4f732f0710d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:35.108402Z"
+      "timestamp": "2026-03-26T04:23:26.892352Z"
     },
     "3.2.2": {
-      "title": "面對護盾型坦克時的弱勢",
+      "title": "對抗屏障型坦克時的弱勢",
       "description": "",
       "content": [
-        "護盾會阻擋 ![](/data/assets/guide/8fd604ed67d2d5bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkunai.png)苦無（Kunai）以及 ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)療癒符（Healing Ofuda）。如果護盾擋在霧子與她的隊友之間，苦無造成的傷害將遠不足以將其摧毀。她必須額外花費時間不斷重新走位，並設法繞過護盾進行操作。"
+        "屏障會阻擋 ![](/data/assets/guide/8fd604ed67d2d5bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkunai.png) 苦無（Kunai）以及 ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png) 治癒符（Healing Ofuda）。如果霧子與隊友之間隔著一道屏障，苦無造成的傷害將遠不足以將其摧毀。她必須花費額外的時間不斷變換位置，並設法繞過屏障進行遊玩。"
       ],
       "content_hash": "711e91e5f2d6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:36.700561Z"
+      "timestamp": "2026-03-26T04:23:28.795332Z"
     },
     "3.2.3": {
-      "title": "難以使用的主要攻擊",
+      "title": "主要攻擊難以使用",
       "description": "",
       "content": [
-        "![](/data/assets/guide/8fd604ed67d2d5bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkunai.png)苦無（Kunai）緩慢的飛行速度、射擊頻率以及低傷害，限制了霧子（Kiriko）的進攻能力。雖然命中爆頭能帶來巨大的價值，但即便對於頂尖的瞄準玩家來說，其穩定性依然不足。"
+        "![](/data/assets/guide/8fd604ed67d2d5bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkunai.png)苦無（Kunai）緩慢的飛行速度、射擊頻率以及低傷害，限制了霧子的進攻能力。雖然命中頭部能帶來巨大的價值，但即使是對頂尖的瞄準玩家來說，其穩定性也非常低。"
       ],
       "content_hash": "8127fb73a35b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:38.582612Z"
+      "timestamp": "2026-03-26T04:23:30.674472Z"
     },
     "4.1": {
-      "title": "主要攻擊：治療御札（Healing Ofuda）",
+      "title": "主要攻擊：治療御札",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)治療御札（Healing Ofuda）的使用技巧**",
+        "**![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)治療御札的使用訣竅**",
         "* 專注於高機動性隊友",
-        "* 當隊伍中有像源氏（Genji）、閃光（Tracer）或毀滅拳王（Doomfist）這類高機動性英雄時，請務必優先治療他們，因為你的另一位輔助可能難以持續為他們提供治療。",
+        "* 當隊伍中有像源氏、閃光或毀滅拳王這類高機動性的英雄時，請務必優先治療他們，因為你的另一位輔助隊友可能難以穩定地為他們提供治療。",
         "* 自動追蹤範圍",
-        "* ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步（Swift Step）與 ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)治療御札（Healing Ofuda）的鎖定效果皆擁有相同的 35 公尺射程。因此，若你看到隊友身上出現瞬步（Swift Step）的指標，就代表他們處於自動追蹤 ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)治療御札（Healing Ofuda）的範圍內。",
-        "* 常駐型投射物",
-        "* 即使沒有鎖定隊友，只要隊友接觸到 ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)治療御札（Healing Ofuda），他們仍會吸收並獲得治療。這適用於隊友互相走位擋在前方，或是超出鎖定範圍的情況。",
+        "* ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步和 ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)治療御札的鎖定效果擁有相同的 35 公尺範圍。因此，如果你看到隊友身上出現瞬步的指示標記，就代表他們處於 ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)治療御札的自動追蹤範圍內。",
+        "* 隨時生效的投射物",
+        "* 即使沒有鎖定目標，只要隊友接觸到 ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)治療御札，他們依然會吸收並獲得治療。這適用於隊友互相走位擋在前方，或是他們處於鎖定範圍之外的情況。",
         "* 無法穿透屏障",
-        "* 別忘了，像溫斯頓（Winston）的防護力場或席格馬（Sigma）的實驗屏障這類可部署屏障，會阻擋你的治療效果傳遞給隊友。"
+        "* 別忘了，像溫斯頓的防護罩或席格馬的屏障這類可部署的屏障，會阻擋你的隊友接收治療。"
       ],
       "content_hash": "e17875eac73f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:41.169211Z"
+      "timestamp": "2026-03-26T04:23:33.941973Z"
     },
     "4.2": {
-      "title": "次要攻擊：苦無（Kunai）",
+      "title": "次要攻擊：苦無",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/8fd604ed67d2d5bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkunai.png)苦無（Kunai）的技巧**",
+        "![](/data/assets/guide/8fd604ed67d2d5bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkunai.png)苦無的技巧",
         "* 在治療間隙使用苦無",
-        "* 霧子（Kiriko）有足夠的時間在每次施放![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)御札（Healing Ofuda）之間發射一枚苦無，且不會犧牲治療輸出。這能提升她的整體傷害輸出以及絕招充能速度。",
+        "* 霧子可以在每次施放![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)御札治療之間，騰出時間發射一枚苦無，且不會犧牲治療輸出。這能提升她的整體傷害輸出並加快絕招充能速度。",
         "* 瞄準頭部",
-        "* 即使你可能會漏掉更多苦無，但命中一次爆擊所帶來的爆發傷害，遠大於連續命中兩次身體傷害。",
+        "* 即使可能會漏掉更多苦無，但命中一次爆擊所造成的爆發傷害，遠大於連續命中兩次身體傷害。",
         "* 無限射程",
-        "* 霧子非常擅長對敵方後排施壓，因為她的傷害不會隨距離衰減。試著對敵方的安娜（Ana）、艾西（Ashe）、禪亞塔（Zenyatta）以及其他待在隊伍後方的英雄進行射擊。"
+        "* 霧子非常擅長對敵方後排施加壓力，因為她的傷害不會隨距離衰減。試著對敵方的安娜、艾西、禪亞塔以及其他站在隊伍後方的英雄進行射擊。"
       ],
       "content_hash": "b98f72a3c058",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:43.732001Z"
+      "timestamp": "2026-03-26T04:23:36.375055Z"
     },
     "4.3": {
       "title": "[Shift]：瞬步（Swift Step）",
       "description": "",
       "content": [
-        "![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步（Swift Step）技巧",
-        "* 隨時留意隊友位置",
-        "* 若你不清楚範圍內隊友的位置，在遭受攻擊時就無法快速使用 ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步（Swift Step）。請務必確認是否有隊友在範圍內，以及他們位於何處。",
+        "![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步（Swift Step）的技巧",
+        "* 隨時掌握隊友位置",
+        "* * 如果你不清楚範圍內的隊友位於何處，在遭受攻擊時就無法快速使用 ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步（Swift Step）。請務必確認是否有隊友在範圍內，以及他們的位置。",
         "* 傳送至安全處",
-        "* 在 99% 的情況下，你會希望傳送到敵人無法攻擊你的位置，這樣你才能更有機會存活到下一次可以使用瞬步（Swift Step）的時機。"
+        "* * 99% 的情況下，你會希望傳送到敵人無法攻擊你的位置，這樣你才能更有機會存活到下一次使用瞬步（Swift Step）的時機。"
       ],
       "content_hash": "d199e23aca1b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:45.292997Z"
+      "timestamp": "2026-03-26T04:23:39.470149Z"
     },
     "4.4": {
       "title": "[E]：鈴（Protection Suzu）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu）使用技巧**",
-        "* 當敵方隊伍施加減益效果或負面狀態時，請保留此技能。",
-        "* * ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜（Ana）的生化手榴彈（Anti-Nade）、![](/data/assets/guide/452c9a51fb58d39d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunker-queen.png)垃圾鎮女王（Junker Queen）的傷口與禁療效果，以及艾西（Ashe）或莫加（Mauga）的燃燒效果，都是值得使用鈴來解除的技能範例。",
-        "* 如果垃圾鎮女王發現你僅為了治療而使用 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu），她就會知道自己能輕易利用絕招「大屠殺（Carnage）」來殲滅全隊。",
-        "* 瞬步（Swift Step）與鈴的連招",
-        "* * 當隊友不在你的視野範圍內或位於牆後，且你持有 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu）時，你可以傳送至他們身邊，並透過鈴與治療來拯救他們。",
-        "* 此技能無法淨化某些技能，例如 ![](/data/assets/guide/acd524155a25802e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcharge.png)衝鋒（Charge）或 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊（Earthshatter），但若時機掌握得當，短暫的無敵效果可以抵銷這些技能的影響。"
+        "![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu）的使用技巧",
+        "* 當敵方隊伍施加減益效果或負面狀態時再使用",
+        "* ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜的生化手榴彈（Anti-Nade）、![](/data/assets/guide/452c9a51fb58d39d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunker-queen.png)垃圾鎮女王的傷口與禁療效果，以及艾西或莫加的燃燒效果，都是值得使用鈴來應對的技能範例。",
+        "* 如果垃圾鎮女王發現你僅僅為了治療而使用 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴，她就會知道自己可以利用絕招「大屠殺（Carnage）」輕鬆殲滅全隊。",
+        "* 瞬（Swift Step）與鈴的連招",
+        "* ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)當隊友不在你的視野範圍內或位於牆後，且你持有 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴時，你可以傳送至他們身邊，並透過鈴和治療來拯救他們。",
+        "* 無法淨化某些技能，例如 ![](/data/assets/guide/acd524155a25802e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcharge.png)衝鋒（Charge）或 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊（Earthshatter），但若時機掌握得當，短暫的無敵效果可以防止這些技能造成的傷害。"
       ],
       "content_hash": "97512e472182",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:47.737914Z"
+      "timestamp": "2026-03-26T04:23:42.048001Z"
     },
     "4.5": {
       "title": "絕招：狐狸湧現",
       "description": "",
       "content": [
         "**![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)狐狸湧現的技巧**",
-        "* 記住狐狸湧現的剋制手段",
-        "* 除了像 ![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)超凡入聖這類治療型輔助絕招外，也要小心範圍傷害（AoE）絕招，例如 ![](/data/assets/guide/4a3281f9d6d86612.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftectonic-shock.png)地殼震動、![](/data/assets/guide/6db02d49ff2c55df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmolten-core.png)熔火核心、![](/data/assets/guide/182487a51a584671.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fself-destruct.png)自爆、![](/data/assets/guide/eeafb396dbd4850f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdownpour.png)傾盆大雨、![](/data/assets/guide/16d7e47ad5393cd4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonstrike.png)龍魂擊以及 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊。這類絕招要麼會擊中你的整個隊伍，要麼會迫使所有人離開 ![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)狐狸湧現的範圍。",
+        "* 記住狐狸湧現的剋星",
+        "* 除了像 ![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)超凡入聖這類治療型輔助絕招外，也要小心像 ![](/data/assets/guide/4a3281f9d6d86612.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftectonic-shock.png)地殼震動、![](/data/assets/guide/6db02d49ff2c55df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmolten-core.png)熔火核心、![](/data/assets/guide/182487a51a584671.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fself-destruct.png)自爆、![](/data/assets/guide/eeafb396dbd4850f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdownpour.png)傾盆大雨、![](/data/assets/guide/16d7e47ad5393cd4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonstrike.png)龍魂擊以及 ![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊這類範圍型絕招。這些絕招要麼會擊中你們全隊，要麼會迫使所有人離開 ![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)狐狸湧現的範圍。",
         "* 單獨使用狐狸湧現還是進行連攜？",
         "* 如果你的隊伍擁有像 ![](/data/assets/guide/5a0bd28ab2154772.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftactical-visor.png)戰術鎖定或 ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字這類絕招，請保留你的絕招與隊友進行連攜。這樣做能大幅提升兩項絕招的威力。",
-        "* 如果你的隊伍沒有特定的連攜組合，那麼就單獨使用狐狸湧現，因為如果敵人沒有可用的反制絕招，這通常能輕易贏下整場會戰。"
+        "* 如果你的隊伍沒有特定的連攜組合，那麼就單獨使用狐狸湧現，因為只要敵方沒有可用的反制絕招，這通常能輕易贏下該場會戰。"
       ],
       "content_hash": "435dbfc0456f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:50.103361Z"
+      "timestamp": "2026-03-26T04:23:45.179306Z"
     },
     "4.6": {
       "title": "（被動技能）：牆上攀爬（Wall Climb）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/7d1c537e6929240e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-climb.png)牆上攀爬（Wall Climb）的使用技巧**",
-        "* 在不冒險的情況下取得視野（LoS）",
-        "* 與其使用瞬步（Swift Step）來支援牆後的隊友，霧子（Kiriko）可以爬上牆進行射擊或將保護鈴（Protection Suzu）丟過牆，然後立即退回掩體後方。",
+        "**![](/data/assets/guide/7d1c537e6929240e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-climb.png)牆上攀爬（Wall Climb）的技巧**",
+        "* 在不冒險的情況下取得視野",
+        "* 與其使用瞬步（Swift Step）來協助牆後的隊友，霧子（Kiriko）可以攀爬上去進行射擊，或是將鈴（Suzu）丟過牆面，然後立即退回掩體後方。",
         "* 額外的生存工具",
-        "* 當與保護鈴（Protection Suzu）和瞬步（Swift Step）結合並輪替使用時，![](/data/assets/guide/7d1c537e6929240e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-climb.png)牆上攀爬（Wall Climb）能讓 ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）變得極難被捕捉。如果你爬上牆並翻越過去，大多數敵人將無法追上你。"
+        "* 當與鈴（Suzu）和瞬步（Swift Step）結合並輪替使用時，![](/data/assets/guide/7d1c537e6929240e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-climb.png)牆上攀爬（Wall Climb）能讓 ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）變得極難被捕捉。如果你攀爬過牆，大多數敵人將無法追上你。"
       ],
       "content_hash": "20db66259e99",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:52.468270Z"
+      "timestamp": "2026-03-26T04:23:46.518645Z"
     },
     "5.1.1": {
-      "title": "緊急照護（Urgent Care）",
-      "description": "當治療符（Healing Ofuda）鎖定生命值瀕危的隊友時，其飛行速度提升 50%。",
+      "title": "緊急照護",
+      "description": "當治療符（Healing Ofuda）鎖定生命值瀕危的隊友時，投射物速度提升 50%。",
       "content": [
-        "「當治療符（Healing Ofuda）鎖定生命值瀕危的隊友時，其飛行速度提升 50%。」",
-        "* 如果你已經發現隊伍對治療的需求量很大，請選擇此特殊能力（Perk）。",
-        "* 當隊友生命值瀕危時，能更早獲得治療往往是決定生死存亡的關鍵。他們距離你越遠，此特殊能力（Perk）所帶來的效益就越顯著。"
+        "「當治療符（Healing Ofuda）鎖定生命值瀕危的隊友時，投射物速度提升 50%。」",
+        "* 如果你已經發現隊伍對治療的需求量很大，請選擇此項。",
+        "* 當隊友生命值瀕危時，能更快獲得治療往往是決定生死存亡的關鍵。他們距離你越遠，此特殊能力（Perk）帶來的效益就越顯著。"
       ],
       "content_hash": "1e255bdd5f3d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:53.863799Z"
+      "timestamp": "2026-03-26T04:23:48.408156Z"
     },
     "5.1.2": {
-      "title": "算命師（Fortune Teller）",
-      "description": "苦無（Kunai）命中時會向你前方的一名隊友發射 2 張治癒符（Healing Ofuda）。",
+      "title": "算命師",
+      "description": "苦無命中時會向你前方的一名隊友發射 2 張治癒符。",
       "content": [
-        "「苦無（Kunai）命中時會向你前方的一名隊友發射 2 張治癒符（Healing Ofuda）。」",
+        "「苦無命中時會向你前方的一名隊友發射 2 張治癒符。」",
         "* 攻擊時可獲得免費治療",
-        "* 如果你能保持侵略性並頻繁發動攻擊，算命師（Fortune Teller）是較佳的特殊能力（Perk）選擇。",
-        "有了算命師（Fortune Teller）特殊能力（Perk），在每兩張 ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png) 治癒符（Healing Ofuda）之間穿插射擊兩枚苦無（Kunai）是非常值得的。雖然主要攻擊會有些微延遲，但她有機會造成傷害，並透過每次命中額外產生的 2 張治癒符（Healing Ofuda）來提升治療潛力。"
+        "* 如果你能採取侵略性打法並頻繁發動攻擊，那麼「算命師（Fortune Teller）」是較佳的特殊能力選擇。",
+        "* 裝備「算命師（Fortune Teller）」特殊能力後，在每兩張 ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png) 治癒符（Healing Ofuda）之間穿插射擊兩發苦無是相當值得的。雖然主要攻擊會產生些微延遲，但她有機會在造成傷害的同時，透過每次命中額外產生的 2 張治癒符來提升治療潛力。"
       ],
       "content_hash": "64e8f6fd0824",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:55.577479Z"
+      "timestamp": "2026-03-26T04:23:50.538686Z"
     },
     "5.2.1": {
-      "title": "準備就緒（Ready Step）",
+      "title": "備戰（Ready Step）",
       "description": "瞬（Swift Step）會使霧子在 3 秒內提升 40% 的攻擊與裝填速度。",
       "content": [
         "「瞬（Swift Step）會使霧子在 3 秒內提升 40% 的攻擊與裝填速度。」",
-        "* 選擇準備就緒（Ready Step）後，你的突襲將變得更加致命。請等到隊友需要協助擊殺敵人時再傳送過去。",
-        "* 保持理智。獲得進攻增益並不代表你應該總是激進地傳送。![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬（Swift Step）是你最好的逃生工具，因此如果你傳送到多名敵人之中，你很可能無法全身而退。"
+        "* 選擇備戰（Ready Step）後，你的突襲將變得更加致命。請等待隊友需要協助擊殺目標時再傳送過去。",
+        "* 保持理智。獲得攻擊加成並不代表你應該總是激進地傳送。![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬（Swift Step）是你最好的逃生手段，因此如果你傳送到多名敵人面前，你很可能無法活著離開。"
       ],
       "content_hash": "0bb34c6d4cee",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:57.456817Z"
+      "timestamp": "2026-03-26T04:23:52.911089Z"
     },
     "5.2.2": {
       "title": "狐步（Foxtrot）",
-      "description": "保護符（Protection Suzu）會使盟友的移動速度提升 30%，持續 4 秒。",
+      "description": "鈴（Protection Suzu）賦予盟友 30% 的移動速度加成，持續 4 秒。",
       "content": [
-        "「保護符（Protection Suzu）會使盟友的移動速度提升 30%，持續 4 秒。」",
-        "* 30% 的移動速度加成非常強大，特別是對於那些需要貼近敵人才能造成最佳傷害的英雄來說更是如此。",
-        "* 當隊伍中有 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）時，這項移動速度加成能讓他追擊那些原本只差一點距離就能逃脫的脆皮英雄。",
-        "* 更佳的脫戰能力。當你防禦性地使用 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)保護符（Protection Suzu）時，更快的移動速度能讓你與盟友更有效地撤退。"
+        "「鈴（Protection Suzu）賦予盟友 30% 的移動速度，持續 4 秒。」",
+        "* 30% 的移動速度非常強大，特別是對於那些需要貼近敵人才能造成最大傷害的英雄來說。",
+        "* 例如，當與 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）搭配時，移動速度加成能讓他追上那些原本僅在攻擊範圍邊緣的脆弱目標。",
+        "* 更好的脫戰能力。更快的移動速度能讓你與盟友在防禦性地使用 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu）時，更有效地逃離戰場。"
       ],
       "content_hash": "926af8683b0f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:14:59.412091Z"
+      "timestamp": "2026-03-26T04:23:54.981767Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子的機動性與多功能性使她在每張地圖上都是可靠的選擇。但由於她可以攀牆並穿牆傳送，擁有大量建築或房間的地圖能賦予她更多的操作空間。長視線對她的苦無（Kunai）有利，但如果隊友離她太遠，則不利於![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)御札（Healing Ofuda）的治療。請留意你所處的地圖區域並做出相應調整。只要確保隨時保持在能鎖定隊友以及瞬步（Swift Step）的範圍內即可。"
+        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子的機動性與多功能性使她成為每張地圖上的穩健選擇。但由於她可以攀牆並穿牆傳送，擁有大量建築或房間的地圖能賦予她更高的操作上限。長距離的視野對她的苦無（Kunai）有利，但若隊友離她太遠，則不利於使用 ![](/data/assets/guide/b83666fe6c7d4451.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhealing-ofuda.png)御（Healing Ofuda）。請隨時留意你所處的地圖區域並做出相應調整。只要確保自己始終保持在能鎖定隊友以及瞬（Swift Step）的範圍內即可。"
       ],
       "content_hash": "ff277e59105c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:01.429663Z"
+      "timestamp": "2026-03-26T04:23:57.153187Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子擁有極佳的自我生存能力、射程與機動性。這些特質意味著她最適合搭配衝鋒（rush）與側襲（dive）陣容，但她多樣化的技能組使她能在任何隊伍陣容中發揮價值。",
+        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子擁有極佳的自我生存能力、射程與機動性。這些特質意味著她最適合搭配衝鋒與側襲陣容，但她多功能的技能組讓她在任何隊伍陣容中都能發揮價值。",
         "Tanks that want to position and move aggressively are good choices. Especially those without barriers or an absorption to block status effects like anti-![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)Biotic Grenade. For example, ![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)Mauga benefits greatly from ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)Kiriko because he has no way to block such abilities, and ![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)Kitsune Rush paired with ![](/data/assets/guide/9b7ffe70b1afed44.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcage-fight.png)Cage Fight is a deadly combo.",
-        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子最適合搭配中距離與前線的輸出英雄。多虧了她的遠程治療與傷害能力，她傾向於始終面向前方並持續進行輸出，而不需要轉身。狙擊手是她最糟糕的搭配對象，因為她必須轉身離開主要戰場去保護狙擊手。",
-        "她可以作為主要的持續治療來源，或是更專注於功能性。從過往經驗來看，她最好的搭檔是![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐（Lúcio），因為他們兩者都能打得極具侵略性，在不依賴對方的情況下生存，並且與相同的隊伍陣容產生良好的協同效應。"
+        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子最適合與中距離及前線輸出型英雄搭配。多虧了她的遠程治療與傷害能力，她希望能隨時面對前方並持續進行輸出，而不需要轉身。狙擊手是她最差的搭配選擇，因為她必須轉身背對主要戰場來保護狙擊手。",
+        "她可以作為主要的持續治療來源，或是更專注於功能性輔助。從過往經驗來看，她最好的搭檔是![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐，因為他們兩人都能打得極具侵略性，在不依賴對方的情況下生存，並且與相同的隊伍陣容具有良好的協同效應。"
       ],
       "content_hash": "124544203791",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:04.059229Z"
+      "timestamp": "2026-03-26T04:24:00.759297Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "* 盡早逼出 ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步（Swift Step）或 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu），接著在這些技能冷卻期間重新發動攻勢。",
-        "* 從多個角度對她施加壓力，以阻斷安全的傳送目標並限制她的逃生選擇。",
-        "* 將 ![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)狐步（Kitsune Rush）視為敵方隊伍最強大的進攻型絕招。保留防禦性技能以求生存，盡可能撤退，或使用你們自己的絕招來防止她壓制你們的隊伍。"
+        "* 盡早逼出 ![](/data/assets/guide/ac12e57db5e0a620.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-step.png)瞬步（Swift Step）或 ![](/data/assets/guide/617631df12ff0fc7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprotection-suzu.png)鈴（Protection Suzu），然後在這些冷卻時間結束前重新發起進攻。",
+        "* 從多個角度對她施加壓力，以剝奪她安全的傳送目標並限制她的逃生選擇。",
+        "* 將 ![](/data/assets/guide/d4bee70da37be094.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fkitsune-rush.png)狐狸湧現（Kitsune Rush）視為敵方隊伍最強大的進攻型絕招。保留防禦性技能以求生存，盡可能撤退，或使用你們自己的絕招來防止她壓制你們的隊伍。"
       ],
       "content_hash": "c7662ba03eaf",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:15:06.005972Z"
+      "timestamp": "2026-03-26T04:24:02.700567Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:14:20.525340Z"
+    "timestamp": "2026-03-26T05:10:56.012013Z"
   }
 }

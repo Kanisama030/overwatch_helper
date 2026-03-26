@@ -6,354 +6,354 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "正如其名，![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音（Echo）能夠複製並重複使用其他英雄的能力。衝刺、飛行與滑翔的能力賦予她所有傷害型英雄中最優秀的機動性之一。她身手敏捷且行蹤隱密，但若走位失誤，很容易遭到懲罰。由於她漂浮在地面上方，因此不會發出任何腳步聲，這讓她在敵方隊伍後方進行深度的側襲（Flanker）時顯得極其致命。",
-        "複製絕招的特性意味著她同時擁有遊戲中最優秀，但也最困難的絕招之一。迴音（Echo）的專精玩家無法只單練一隻英雄，因為他們必須保持廣泛的英雄熟練度，才能在每次使用絕招時發揮出最大的價值。"
+        "正如她的名字所示，![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音能夠複製並重複其他英雄的能力。衝刺、飛行與滑翔的能力賦予她所有傷害型英雄中最優秀的機動性之一。她身手敏捷且行蹤隱密，但若走位失誤，很容易遭到懲罰。懸浮於地面的特性意味著她不會發出任何腳步聲，這使她在深入敵方隊伍後方進行側襲時顯得極具威脅。",
+        "複製絕招的本質意味著她同時擁有遊戲中最優秀也最困難的絕招之一。迴音的專精玩家無法只單練一隻英雄，因為他們必須維持廣泛的英雄熟練度，才能在每次使用絕招時發揮出最大的價值。"
       ],
       "content_hash": "6a4c70d7e9f5",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:03.177146Z"
+      "timestamp": "2026-03-26T04:25:12.428674Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 利用迴音（Echo）的靜音移動，盡可能多進行出其不意的側襲者（Flanker）攻擊。",
-        "* 等到目視確認敵方生命值低於一半後，再啟動 ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)聚焦光束（Focusing Beam），否則你會損失大量的傷害輸出。",
-        "* 事先規劃好你的 ![](/data/assets/guide/61a19a9c46e2ab66.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fduplicate.png)複製（Duplicate）目標，並確保他們處於可以被選取的範圍內。變身後，請採取保守打法，直到你獲得對方的絕招為止。"
+        "* 利用迴音的靜音移動，盡可能多進行出其不意的側襲者攻擊。",
+        "* 等到視覺確認敵方生命值低於一半後，再啟動 ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)聚焦光束（Focusing Beam），否則你會損失大量的傷害輸出。",
+        "* 事先規劃好你的 ![](/data/assets/guide/61a19a9c46e2ab66.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fduplicate.png)複製（Duplicate）目標，並確保他們處於可被選取的範圍內。變身後，在獲得對方的絕招前請採取保守打法。"
       ],
       "content_hash": "ae8e48ad6f6e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:05.472805Z"
+      "timestamp": "2026-03-26T04:25:14.580015Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 像 ![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76 這類即時命中（Hitscan）英雄，在面對飛行中的 迴音 時具有優勢。",
-        "* 請隨時留意並確認 迴音 的位置。如果沒看到她，她很可能正繞到你後方準備發動偷襲，請務必留意你的側翼。",
-        "* 許多 迴音 玩家會利用 飛行（Flight）來切入並發動攻擊。請嘗試閃避並尋找掩體躲避幾秒鐘，接著趁她的 ![](/data/assets/guide/912c21ab260072ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflight.png)飛行（Flight）處於冷卻時間時，迅速集火攻擊她。"
+        "* 像 ![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76 這類即時命中型英雄，在面對空中飛行的 迴音 時具有優勢。",
+        "* 請隨時留意並確認 迴音 的位置。如果沒看到她，她很可能正在你後方準備發動偷襲，務必提防你的側翼。",
+        "* 許多 迴音 玩家會使用 飛行（Flight） 來切入並發動攻擊。請進行閃避並尋找掩護幾秒鐘，接著趁她的 ![](/data/assets/guide/912c21ab260072ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflight.png)飛行（Flight） 處於冷卻時間時，迅速集火攻擊她。"
       ],
       "content_hash": "fee751b46d04",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:07.567881Z"
+      "timestamp": "2026-03-26T04:25:17.140016Z"
     },
     "2": {
-      "title": "優勢與劣勢總結",
+      "title": "優缺點總結",
       "description": "",
       "content": [
-        "* 機動性（Mobile）",
-        "* 絕招（Ultimate）",
-        "* 爆發傷害（Burst）",
-        "* 孤注一擲技能（All-or-nothing abilities）",
-        "* 絕招依賴型英雄池（Ult hero pool）",
-        "* 極度脆弱（Super squishy）"
+        "* 機動性高",
+        "* 絕招",
+        "* 爆發傷害",
+        "* 孤注一擲型能力",
+        "* 絕招依賴型英雄池",
+        "* 極度脆弱"
       ],
       "content_hash": "d5c612a202e0",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:09.131753Z"
+      "timestamp": "2026-03-26T04:25:18.761990Z"
     },
     "3.1.1": {
       "title": "機動性",
       "description": "",
       "content": [
-        "飛行（Flight）與滑翔（Glide）賦予了迴音在移動與站位上近乎無限的選擇。她能透過跑贏大多數攻擊來保持存活，也能夠迅速衝向試圖逃跑的敵人。迴音機動性的一項獨特之處在於，她能利用飛行（Flight）進行垂直與水平方向的衝刺。大多數英雄通常只能二選一。"
+        "「飛行」與「滑翔」賦予了迴音在移動與站位上近乎無限的選擇。她能藉由跑贏大多數的攻擊來存活，並能迅速衝向試圖逃跑的敵人。迴音機動性的一項獨特之處在於，她能利用「飛行」進行垂直與水平方向的衝刺。大多數英雄通常只能選擇其中一種移動方式。"
       ],
       "content_hash": "9634cfb99243",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:10.924123Z"
+      "timestamp": "2026-03-26T04:25:21.011945Z"
     },
     "3.1.2": {
       "title": "靈活多變的絕招",
       "description": "",
       "content": [
-        "能夠複製敵方隊伍中的任何人，意味著迴音（Echo）可以根據需求調整絕招的使用方式，無論是進攻、防守、區域控制、節奏掌控，或是單純作為自我生存的工具。搭配友方成像（Friendly Imaging），迴音在 6v6 遊戲模式中最多可以擁有 11 種複製選擇。瞬間獲得最大生命值以及複製對象的所有冷卻時間是非常強大的能力，此外，當複製（Duplicate）結束時，迴音的生命值至少會維持在 100 點。"
+        "能夠複製敵方隊伍中的任何人，意味著迴音（Echo）可以根據需求調整絕招的使用方式，無論是用於進攻、防守、區域控制、節奏掌控，或是單純作為保命工具皆可。搭配友方成像（Friendly Imaging），迴音在 6v6 遊戲模式中最多可以有 11 種複製選擇。瞬間獲得最大生命值以及複製目標的所有冷卻技能非常強大，此外，當複製（Duplicate）結束時，迴音至少會保有 100 點生命值。"
       ],
       "content_hash": "409767c53e76",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:12.882955Z"
+      "timestamp": "2026-03-26T04:25:22.938906Z"
     },
     "3.1.3": {
       "title": "爆發傷害",
       "description": "",
       "content": [
-        "黏性炸彈（Sticky Bomb）接續聚焦光束（Focusing Beam）是對付所有 DPS 和支援英雄的致命連招。迴音（Echo）非常擅長收割那些自以為安全、卻被聚焦光束（Focusing Beam）和她的機動性盯上的敵人。對生命值偏低的坦克使用光束，是遊戲中確保這些坦克無法被治療回血的最強技能之一。"
+        "黏性炸彈（Sticky Bomb）接上聚焦光束（Focusing Beam）是對付所有輸出型與支援型英雄的致命連招。迴音（Echo）非常擅長利用聚焦光束（Focusing Beam）和她的機動性來擊殺那些自以為安全的敵人。針對生命值偏低的坦克使用光束，是遊戲中最能確保這些坦克無法被治療回血的強大能力之一。"
       ],
       "content_hash": "e65e3b0e220e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:14.511993Z"
+      "timestamp": "2026-03-26T04:25:24.819612Z"
     },
     "3.2.1": {
       "title": "孤注一擲的冷卻時間",
       "description": "",
       "content": [
-        "迴音（Echo）的普通攻擊並不特別強勢，當光束（Beam）對生命值高於 50% 的目標使用時，傷害非常低。黏性炸彈（Sticky Bombs）也因為飛行速度緩慢而容易失手。她的冷卻技能要麼能發揮巨大作用，要麼就毫無價值。當迴音無法取得單殺或最後一擊時，她對隊伍的貢獻就相當有限。"
+        "迴音（Echo）的主要攻擊並不特別強大，當光束（Beam）對生命值高於 50% 的目標使用時，傷害非常低。黏性炸彈（Sticky Bombs）也因為飛行速度緩慢而容易落空。妳的冷卻技能要麼能發揮巨大價值，要麼就毫無作用。當迴音無法取得單獨擊殺和最後一擊時，她對隊伍的貢獻就相當有限。"
       ],
       "content_hash": "0cdbc6f4fb75",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:16.504937Z"
+      "timestamp": "2026-03-26T04:25:26.784563Z"
     },
     "3.2.2": {
       "title": "絕招英雄池",
       "description": "",
       "content": [
-        "複製絕招的一個主要缺點在於，你必須對《鬥陣特攻 2》中幾乎所有的英雄都具備基礎程度的熟練度。當敵隊沒有使用你想要的絕招英雄，或是沒有使用你主要角色池中的英雄時，除了用她的絕招去送頭之外，你可能會難以發揮任何作用。"
+        "複製絕招的一個主要缺點在於，你必須對《鬥陣特攻 2》中幾乎所有的英雄都具備基礎水準的熟練度。當敵隊沒有使用你想要的絕招英雄，或是沒有使用你主要英雄池內的英雄時，除了使用她的絕招去送頭之外，你可能會難以發揮任何作用。"
       ],
       "content_hash": "b82aca8fb570",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:18.310488Z"
+      "timestamp": "2026-03-26T04:25:28.790600Z"
     },
     "3.2.3": {
       "title": "玻璃大砲",
       "description": "",
       "content": [
-        "迴音（Echo）的高殺傷力是以低生命值且缺乏防禦技能為代價的。當她暴露在敵火下時會迅速陣亡，因此若想存活，就必須採取迴避式的打法。當飛行（Flight）處於冷卻狀態時，迴音面對側襲者（Flanker）英雄時將成為活靶子。此外，如果敵方陣容擁有超過兩名即時命中（hitscan）英雄，滯空將會變得十分困難，因為迴音無法承受持續的傷害。"
+        "迴音的致命性是以低生命值且缺乏防禦能力為代價的。當她暴露在危險中時會迅速死亡，若想存活就必須採取閃避式的打法。當飛行（Flight）處於冷卻狀態時，迴音面對側襲者（Flanker）英雄時就像個活靶子。此外，如果敵方陣容擁有超過兩名即時命中（hitscan）英雄，待在空中就會成為一個問題，因為迴音無法承受持續的傷害。"
       ],
       "content_hash": "d4612f095b0c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:20.445302Z"
+      "timestamp": "2026-03-26T04:25:30.742769Z"
     },
     "4.1": {
       "title": "主要攻擊：三連發（Tri-Shot）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/3db6bb05eabd9f89.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftri-shot.png)三連發（Tri-Shot）的使用技巧**",
-        "* 消耗戰",
-        "* 在進入深入的側襲者（Flanker）位置前，你應該利用主要攻擊進行消耗，以開始累積絕招並對敵人施加壓力。",
-        "* 每當有人在你的炸彈（Bomb）加光束（Beam）連段下存活時，三連發（Tri-Shot）就是用來收頭的最佳手段。",
+        "關於 ![](/data/assets/guide/3db6bb05eabd9f89.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftri-shot.png) 三連發（Tri-Shot）的技巧",
+        "* 騷擾",
+        "* 在你深入側襲位置之前，應該先利用主要攻擊進行騷擾，以開始累積絕招能量並對敵人施加一點壓力。",
+        "* 每當有人在你的炸彈（Bomb）加光束（Beam）連段中存活下來時，就用三連發（Tri-Shot）來進行最後一擊。",
         "* 節省冷卻時間",
         "* 在等待使用炸彈（Bomb）和光束（Beam）的最佳時機時，應該使用三連發（Tri-Shot）。這兩項技能不能隨意浪費，但你可以盡情地連續發射主要攻擊。",
         "* 射程",
-        "* 主要攻擊在任何距離下都有效，因為它沒有傷害衰減。不過，隨著距離越遠，子彈擴散和飛行速度會導致你造成的傷害穩定度下降。",
-        "* 近距離到中距離最適合迴音（Echo），這樣能最大化主要攻擊的傷害，並保持在其他冷卻技能的有效範圍內。"
+        "* 主要攻擊在任何距離都有效，因為它沒有傷害衰減。不過，隨著距離越遠，子彈擴散和飛行速度會導致你造成的傷害較不穩定。",
+        "* 近距離到中距離最適合迴音（Echo），這樣能將主要攻擊的傷害最大化，並保持在其他冷卻技能的有效範圍內。"
       ],
       "content_hash": "d5a0cddfa5b9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:23.146397Z"
+      "timestamp": "2026-03-26T04:25:34.415551Z"
     },
     "4.2": {
-      "title": "次要攻擊：黏性炸彈（Sticky Bombs）",
+      "title": "次要攻擊：黏性炸彈",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/c917d6cf1c095fcf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsticky-bombs.png)黏性炸彈（Sticky Bombs）使用技巧**",
+        "**![](/data/assets/guide/c917d6cf1c095fcf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsticky-bombs.png)黏性炸彈的使用技巧**",
         "* 突襲",
-        "* 黏性炸彈（Sticky Bombs）的最佳用法是作為對付毫無防備敵人的連段起手式。",
-        "* 透過佔據側翼角度或深入敵陣（深層側襲）來最大化直接命中率，讓目標無法察覺你的存在。由於他們不會試圖閃避，你將有更高的機率讓每一發炸彈都命中目標。",
-        "* 在發射黏性炸彈（Sticky Bombs）後，請立即開始使用主要攻擊與聚焦光束（Focusing Beam）。黏性炸彈（Sticky Bombs）的飛行速度比三連發（Tri-Shot）慢，因此在較遠距離時，你所有的傷害將會集中在同一時間造成。",
+        "* 黏性炸彈的最佳用途是作為對付毫無防備敵人的連段起手式。",
+        "* 透過佔據側邊角度或深入側襲位置，讓目標無法察覺你，藉此最大化直接命中的機率。對方不會試圖閃避，你將有更高的機率讓每一枚炸彈都命中目標。",
+        "* 發射黏性炸彈後，請立即開始使用主要攻擊和聚焦光束（Focusing Beam）。黏性炸彈的飛行速度比三連發（Tri-Shot）慢，因此在較遠距離下，你的所有傷害會幾乎同時命中。",
         "* 消耗性傷害",
-        "* 由於它們的冷卻時間很短，任何時候當你使用主要攻擊進行消耗戰時，都應該同時發射黏性炸彈（Sticky Bombs）。"
+        "* 由於黏性炸彈的冷卻時間很短，任何時候當你使用主要攻擊進行騷擾時，都應該同時發射黏性炸彈。"
       ],
       "content_hash": "d6d2454b62f9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:26.042510Z"
+      "timestamp": "2026-03-26T04:25:37.365279Z"
     },
     "4.3": {
-      "title": "[SHIFT]：飛行（Flight）",
+      "title": "[SHIFT]：飛行",
       "description": "",
       "content": [
-        "![](/data/assets/guide/912c21ab260072ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflight.png)飛行（Flight）技巧",
-        "* 保留以供逃生",
-        "* 飛行（Flight）非常適合用來衝進敵陣並開始掃射，但這種誘惑往往會導致你送命。迴音（Echo）最後會暴露在敵方隊伍面前，且沒有任何生存手段。",
-        "* 大多數時候，你應該將飛行（Flight）作為脫離戰鬥的工具。走位或滑翔（Glide）至指定位置，消滅目標，然後利用飛行（Flight）撤退至安全地帶，並重複此過程。",
+        "![](/data/assets/guide/912c21ab260072ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflight.png)飛行的技巧",
+        "* 保留以供逃脫",
+        "* 總是會讓人忍不住想用飛行衝進敵陣開始掃射。然而，這麼做通常會導致你送命。迴音最終會暴露在敵方隊伍面前，且沒有任何生存手段。",
+        "* 大多數時候，你應該將飛行作為脫離戰鬥的工具。走位或滑翔至定位，消滅目標，然後利用飛行撤退至安全處，重複此過程。",
         "* 追擊",
-        "* 當你需要追擊低生命值的敵人並用光束（Beam）將其擊殺時，才是應該積極使用飛行（Flight）的時機。",
-        "* 飛行（Flight）啟動瞬間的爆發速度非常快，可以追上大多數敵人的位移技能。別讓他們逃掉！",
+        "* 當你需要追擊生命值低落的敵人並用光束將其擊殺時，才是應該積極使用飛行的時機。",
+        "* 飛行啟動瞬間的爆發速度非常快，可以追上大多數敵人的位移技能。別讓他們逃了！",
         "* 事先規劃",
-        "* 當你確實使用飛行（Flight）來開戰時，請務必規劃好在沒有飛行（Flight）的情況下該如何生存。附近是否有掩體可以躲避，且敵人沒有能追擊你的角色？或許隊友有像札莉雅（Zarya）的防護泡泡（Bubble）或鈴（Suzu）這類資源可以保你一命。重點是，不要只是抱著僥倖心理衝進去；請制定一個實際的計畫。",
-        "* 飛行（Flight）的最佳化",
-        "* 啟動飛行（Flight）後立即取消技能。迴音（Echo）將受益於瞬間的爆發速度，並在滑翔（Glide）時保持部分慣性。此外，這能讓飛行（Flight）更快進入冷卻。",
-        "* 你能更快再次使用飛行（Flight），且不會損失太多距離或速度。這在從重生點返回戰場，或是戰鬥中需要位移但無法等待 9 秒冷卻時間時非常有用。"
+        "* 當你確實需要使用飛行來進場時，請務必規劃好在沒有飛行的情況下該如何生存。是否有掩體可以躲避，且敵人沒有能追擊你的角色？或許隊友有像札莉雅的防護力場或鈴鐺這類資源可以保你一命。重點是，不要只是抱著僥倖心態衝進去；請制定實際的計畫。",
+        "* 飛行的極致運用",
+        "* 啟動飛行，然後立即取消技能。迴音將能受益於瞬間的爆發速度，並在滑翔時保持部分慣性。此外，這能讓飛行的冷卻時間更快開始計算。",
+        "* 你將能更快再次使用飛行，且不會損失太多距離或速度。這在從重生點返回戰場，或是身處戰鬥中需要位移、卻無法等待 9 秒冷卻時間時非常實用。"
       ],
       "content_hash": "bcb50e6f06ab",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:29.421154Z"
+      "timestamp": "2026-03-26T04:25:41.592694Z"
     },
     "4.4": {
-      "title": "[E]：聚焦光束（Focusing Beam）",
+      "title": "[E]：聚焦射線（Focusing Beam）",
       "description": "",
       "content": [
-        "關於 ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)聚焦光束（Focusing Beam）的技巧",
-        "* 在目標生命值高於一半時切勿使用",
-        "* 當使用聚焦光束（Focusing Beam）時，請確保敵人的生命值已經低於一半再啟動。若試圖透過光束來造成足夠傷害以將其生命值壓低至一半以下，進而觸發傷害加成，這對你來說並不利。",
-        "* 除非敵人完全孤立無援，否則請預期他們在受到攻擊時會獲得治療。因此，如果你在敵人生命值高於一半時開始使用光束，他們很可能會因為受到治療而持續保持在半血以上。",
-        "* 只要目標生命值低於 50%，聚焦光束（Focusing Beam）的傷害速度將超越任何醫護兵（Medic）的治療速度。",
-        "* 光束穿透效果",
-        "* 記住，光束會無視某些傷害減免技能，例如防禦矩陣（Defense Matrix）、動能補捉（Kinetic Grasp）、招架（Deflect）和標槍旋轉（Javelin Spin）。擁有這些技能的英雄通常會利用它們來爭取時間，以便在低血量時獲得治療。",
-        "* 在這些對戰中，請保留光束來反制此類技能，並在他們以為自己安全時將其擊殺！",
-        "* 可部署裝置",
-        "* 當攻擊如砲塔、B.O.B. 和不滅力場（Immortality Field）等可部署裝置時，低於半血的傷害加成效果同樣會觸發。"
+        "關於 ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)聚焦射線（Focusing Beam）的技巧",
+        "* 在目標生命值低於一半前，請勿使用。",
+        "* 當使用聚焦射線（Focusing Beam）時，請務必確認敵人生命值已低於一半再啟動。若試圖透過射線來造成足夠傷害以將其壓低至半血以下，藉此觸發傷害加成，這對你來說並不利。",
+        "* 除非敵人完全孤立無援，否則請預期他們在受到攻擊時會獲得治療。因此，如果你在敵人生命值高於一半時開始使用射線，他們很可能會因為受到治療而持續保持在半血以上。",
+        "* 只要目標生命值低於 50%，聚焦射線（Focusing Beam）的傷害速度將超越任何支援角色的治療速度。",
+        "* 射線穿透機制",
+        "* 請記住，射線會忽略某些傷害減免技能，例如防禦矩陣（Defense Matrix）、動能補捉（Kinetic Grasp）、招架（Deflect）和標槍旋轉（Javelin Spin）。擁有這些技能的英雄通常會利用它們來爭取時間，以便在低血量時獲得治療。",
+        "* 在這些對局中，請保留射線來反制此類技能，並在他們以為自己安全時將其擊殺！",
+        "* 部署物",
+        "* 當攻擊砲塔、B.O.B. 和維生力場（Immortality Field）等部署物時，低於半血的傷害加成同樣會觸發。"
       ],
       "content_hash": "9f174b307962",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:32.443483Z"
+      "timestamp": "2026-03-26T04:25:45.537417Z"
     },
     "4.5": {
-      "title": "[SPACE]：滑翔（Glide）",
+      "title": "[空間]：滑翔",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/ab6789ce439abe44.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide.png)滑翔（Glide）的使用技巧**",
+        "**![](/data/assets/guide/ab6789ce439abe44.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide.png)滑翔的技巧**",
         "* 何時該浮空",
-        "* 滑翔至牆壁上方，利用垂直掩體並創造出僅有少數具備垂直移動能力的英雄才能使用的獨特攻擊角度。",
-        "* 面對近距離和近戰英雄時，你可以透過持續飛行來盡可能與敵人保持距離。",
-        "* 在使用飛行（Flight）後，利用慣性來維持並提升移動速度。",
-        "* 請勿在以下情況使用滑翔：",
-        "* 當敵方隊伍擁有奪命女、卡西迪和伊拉里等多名即時命中（hitscan）英雄時。",
-        "* 當你的隊伍採取保守打法，導致敵人可以毫無顧忌地集火你時。",
-        "* 當你已經在同一個位置或區域重複滑翔。重複同樣的滑翔路徑會讓你變得容易預測，進而輕易被擊殺。"
+        "* 滑翔至牆壁上方，利用垂直掩體並創造出只有少數具備垂直移動能力的英雄才能使用的獨特攻擊角度。",
+        "* 對抗近距離與近戰英雄時，你基本上可以持續飛行，盡可能與敵人保持距離。",
+        "* 在使用飛行後，利用慣性來移動得更快。",
+        "* 在以下情況請勿滑翔：",
+        "* 敵方隊伍擁有奪命女、卡西迪與伊拉里等多名即時命中英雄時。",
+        "* 你的隊伍沒有採取主動攻勢，導致敵人可以隨意集火你。",
+        "* 你已經在同一個位置或區域重複滑翔。重複滑翔路徑會讓你變得容易預測，進而輕易被擊殺。"
       ],
       "content_hash": "bbcfd043b6d1",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:34.923393Z"
+      "timestamp": "2026-03-26T04:25:48.124823Z"
     },
     "4.6": {
-      "title": "絕招：複製（Duplicate）",
+      "title": "絕招：複製",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/61a19a9c46e2ab66.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fduplicate.png)複製（Duplicate）的技巧**",
-        "* 該複製基礎技能組還是絕招？",
-        "* 迴音（Echo）可以根據目標的基礎技能組或絕招來決定複製對象。",
-        "* 舉例來說，像 D.Va 這類英雄擁有強大的冷卻技能，但她們的絕招對迴音（Echo）的複製體來說並不是很有用。",
+        "**![](/data/assets/guide/61a19a9c46e2ab66.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fduplicate.png)複製的使用技巧**",
+        "* 為了冷卻時間還是絕招而複製？",
+        "* 迴音可以根據目標的基礎技能組或絕招來決定複製對象。",
+        "* 例如 D.Va 這類英雄，雖然擁有強大的冷卻技能，但其絕招對迴音的複製體來說並不是特別好用。",
         "* 根據當前可選的英雄池，評估哪些技能對你的隊伍最有幫助，藉此決定你的複製目標。",
         "* 不要操之過急",
-        "* 複製（Duplicate）最多可持續 18 秒（搭配次要特殊能力（minor perks）時），這在《鬥陣特攻》的時間軸中是非常長的一段時間。請從容應對，聰明地運用新獲得的冷卻技能，並避免承受不必要的傷害。",
+        "* 複製持續時間最長可達 18 秒（搭配次要特殊能力），這在《鬥陣特攻》的時間軸中非常長。請從容應對，聰明地使用新獲得的冷卻技能，並避免受到不必要的傷害。",
         "* 站位",
-        "* 不要複製後卻讓自己身陷敵隊陣中。複製（Duplicate）對敵隊來說就像是一個閃閃發光的導引信標，會讓他們集火攻擊你。如果你在複製後跳進敵方戰士（Bruiser）與醫護兵（Medic）之間，你會立刻被集火擊殺。",
-        "* 相反地，請維持你平常在戰場邊緣的站位。當複製戰士（Bruiser）時，你可以選擇與你的戰士（Bruiser）一起站在前線。如果你複製的是醫護兵（Medic），請採取該醫護兵（Medic）通常會站的位置。"
+        "* 不要複製後卻身陷敵方隊伍中央。複製對敵方隊伍來說就像是一個閃閃發光的導引信標，會讓他們集火攻擊你。如果你在複製後跳進敵方戰士與醫護兵之間，你會立刻被集火擊殺。",
+        "* 相反地，請維持你平常在戰場邊緣的站位。當複製戰士時，你可以選擇與你的戰士一起站在前線。如果你複製的是醫護兵，請採取該醫護兵通常會採取的站位。"
       ],
       "content_hash": "30f1e6734a6d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:38.116735Z"
+      "timestamp": "2026-03-26T04:25:51.232889Z"
     },
     "5.1.1": {
-      "title": "專注衝刺（Focused Rush）",
-      "description": "專注光束（Focusing Beam）的射程增加 4 公尺，且在啟動時移動速度提升 20%。",
+      "title": "專注衝刺",
+      "description": "啟動時，聚焦光束（Focusing Beam）的射程增加 4 公尺，移動速度增加 20%。",
       "content": [
-        "* 推薦次要特殊能力（Minor Perk）",
-        "![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)專注光束（Focusing Beam）是 ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音（Echo）最強大的技能，因此強化它對她來說非常有幫助。增加的射程與速度能讓你以更安全的位置進行站位，並鎖定那些通常超出你射程範圍的敵人。"
+        "* 推薦次要特殊能力",
+        "* ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)聚焦光束（Focusing Beam）是 ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音最強的技能，因此強化它對她來說非常有幫助。增加的射程與速度能讓你更安全地進行走位，並鎖定那些通常超出你射程範圍的敵人。"
       ],
       "content_hash": "8ae2b584674a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:40.093107Z"
+      "timestamp": "2026-03-26T04:25:53.219122Z"
     },
     "5.1.2": {
       "title": "部分掃描（Partial Scan）",
-      "description": "複製體開始時會擁有 50% 的絕招能量。",
+      "description": "複製體開始時會擁有 50% 的絕招充能。",
       "content": [
-        "* 安裝型絕招（Install ults）",
-        "* 擁有 50% 絕招能量的優勢，在於能更輕鬆地複製擁有安裝型絕招的英雄，例如 ![](/data/assets/guide/f9410941588ff5c9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprimal-rage.png)原始暴怒（Primal Rage）、![](/data/assets/guide/de397de5fd8f936e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fannihilation.png)滅絕（Annihilation）、![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字（Dragonblade）、![](/data/assets/guide/74549b59ef18f026.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverclock.png)超頻（Overclock）等等。",
-        "* 很多時候你會發現，如果沒有「部分掃描（Partial Scan）」，當你累積到複製絕招時，複製時間往往已經結束並取消了絕招。",
+        "* 安裝型絕招",
+        "* * 從 50% 絕招充能開始的一個好處，就是可以用來複製擁有安裝型絕招的英雄，例如 ![](/data/assets/guide/f9410941588ff5c9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprimal-rage.png)原始暴怒（Primal Rage）、![](/data/assets/guide/de397de5fd8f936e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fannihilation.png)滅絕（Annihilation）、![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字（Dragonblade）、![](/data/assets/guide/74549b59ef18f026.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverclock.png)超頻（Overclock）等等。",
+        "* 很多時候你會發現，如果沒有「部分掃描（Partial Scan）」，當你累積到複製絕招時，時間往往已經結束並取消了絕招。",
         "* 優先累積絕招",
-        "* 「部分掃描（Partial Scan）」應被視為一種延長時間的手段，一旦啟動複製就應立即發揮作用。多花點時間謹慎走位、保持存活，並累積你所複製英雄的絕招。",
-        "* 在累積到絕招前就死亡（導致複製結束）會完全浪費掉這個次要特殊能力（minor perks）的選擇。"
+        "* * 一旦啟動複製，就應將「部分掃描（Partial Scan）」視為一種時間延長手段。多花點時間穩紮穩打、保持存活，並累積你所複製英雄的絕招。",
+        "* 在獲得絕招前就死亡（導致複製結束）會完全浪費掉這個次要特殊能力（minor perks）的選擇。"
       ],
       "content_hash": "5041f4f07c86",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:42.988167Z"
+      "timestamp": "2026-03-26T04:25:56.227894Z"
     },
     "5.2.1": {
       "title": "全彈發射（Full Salvo）",
       "description": "黏性炸彈（Sticky Bombs）發射的投射物數量增加 50%。",
       "content": [
-        "* 最佳主要特殊能力（major perks）",
-        "* 迴音（Echo）每 6 秒就能從全彈發射（Full Salvo）中獲益，相較之下，只有在使用飛行（Flight）後透過光束（Beam）擊殺敵人時，才能從高能光束（High Beams）中獲益。",
-        "* 額外爆發傷害",
-        "* 計算結果顯示，其傷害大約比一般的黏性炸彈（Sticky Bombs）高出 30%。",
-        "* 全彈發射（Full Salvo）在將所有輸出角色的生命值壓低至半血以下以進行聚焦光束（Focusing Beam）連段時更為穩定（即使是對手擁有高生命值和護甲的情況下）。"
+        "* 最佳主要特殊能力（Best Major Perk）",
+        "* 迴音（Echo）每 6 秒就能從全彈發射（Full Salvo）中獲益，相較之下，聚焦光束（Focusing Beam）只有在飛行（Flight）後擊殺敵人時才能發揮作用。",
+        "* 額外的爆發傷害",
+        "* 經計算，其傷害大約比一般的黏性炸彈（Sticky Bombs）高出 30%。",
+        "* 全彈發射（Full Salvo）在將所有輸出角色的生命值壓低至半血以下，以進行聚焦光束（Focusing Beam）連段時更加穩定（即使對方擁有高生命值和護甲）。"
       ],
       "content_hash": "24d8720e7966",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:44.724822Z"
+      "timestamp": "2026-03-26T04:25:58.688836Z"
     },
     "5.2.2": {
-      "title": "高強度光束（High Beams）",
+      "title": "高強度光束",
       "description": "使用聚焦光束（Focusing Beam）完成擊殺會重置飛行（Flight）的冷卻時間。",
       "content": [
-        "全面進攻的光束運用",
-        "* 能夠連續使用兩次飛行（Flight）可以實現一些極具侵略性的打法。你可以透過飛行（Flight）切入後排、完成擊殺、飛往掩體、等待光束（Beam）冷卻，接著再刺殺另一名敵人。",
-        "難以依賴重置效果",
-        "* 若要充分利用飛行（Flight）重置效果，你需要深入敵陣、利用光束（Beam）確保擊殺，然後再飛離戰場。然而，如果敵人從你的光束下存活，你將會陷入沒有冷卻技能可用的窘境，這無疑是死路一條。",
-        "你應該已經習慣飛行（Flight）的管理，並且不會在聚焦光束（Focusing Beam）使用後讓自己暴露在危險之中。因此，你必須調整你的遊戲風格，才能從飛行（Flight）重置中獲益。"
+        "* 全面進攻的光束運用",
+        "* 連續使用兩次飛行能創造出極具侵略性的打法。你可以透過飛行（Flight）切入後排、完成擊殺、飛往掩體，等待光束冷卻後再次進行暗殺。",
+        "* 難以依賴重置機制",
+        "* 若要充分利用飛行（Flight）重置，你需要深入敵陣、利用光束（Beam）確保擊殺，然後飛離現場。然而，如果敵人從你的光束下存活，你將會陷入沒有冷卻技能可用的窘境，這無異於自尋死路。",
+        "* 你應該要習慣飛行（Flight）的管理，並避免在使用聚焦光束（Focusing Beam）後讓自己暴露在危險之中。因此，你必須調整你的遊戲風格，才能從飛行重置中獲得優勢。"
       ],
       "content_hash": "15f22777ae9c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:47.397136Z"
+      "timestamp": "2026-03-26T04:26:01.289966Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "迴音（Echo）的快速移動與飛行能力，在擁有大量高地與天然垂直掩體的地圖上能發揮最大效益。透過越過牆壁進行窺探，或是在高空中繞過建築物進行空中平移（air strafing），能讓迴音打得更具侵略性且更加安全。",
-        "在較平坦的地圖上，只要有足夠的側襲路徑，迴音依然能憑藉她安靜的腳步聲與水平衝刺表現出色。最會阻礙她遊玩風格的地圖是長距離的神射手（Sharpshooter）地圖，因為她必須暴露在敵方的視線範圍內才能接近目標。此外，迴音在目標區域過於寬闊的地圖，以及因空間過於狹小而限制其移動的地圖上，也會面臨挑戰。"
+        "迴音的快速移動與飛行能力，在擁有大量高地與天然垂直掩體的地圖上能發揮最大效益。透過越過牆壁窺探，或是在高空中繞著建築物進行空中平移（air strafing），能讓迴音打得更具侵略性且更加安全。",
+        "在較為平坦的地圖上，只要有足夠的側襲路徑，迴音依然能憑藉其無聲的腳步與水平衝刺表現出色。最會限制她打法的地圖是長距離的神射手地圖，因為她必須暴露在視線範圍內才能接近敵人。此外，迴音在目標區域過於空曠的地圖，以及充斥著會阻礙其移動的小型區域地圖上，也會面臨挑戰。"
       ],
       "content_hash": "4091213e3ccb",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:49.412638Z"
+      "timestamp": "2026-03-26T04:26:03.929506Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）在 ![](/data/assets/guide/c95892af1b952964.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgravitic-flux.png)重力流（Gravitic Flux）與 ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)聚焦光束（Focusing Beam）之間擁有獨特且強大的搭配效果。重力流至少會將目標生命值降至 50%，這正是 ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)聚焦光束能造成最大傷害的門檻，並讓 ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音（Echo）能持續利用 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）的絕招來確保擊殺。",
-        "![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音（Echo）的消耗傷害與側翼進攻能力，與 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）的戰鬥方式與站位非常契合。她也能利用光束來確保 ![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)質量吸附（Accretion）擊倒目標後的擊殺。",
-        "在輔助角色方面，她需要能為空中的她進行遠距離治療的隊友。![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜（Ana）、![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）、![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）、![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命（Lifeweaver）以及 ![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）在執行這項任務時最為輕鬆。當然，![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲（Mercy）的專屬跟隨治療是你能給予迴音（Echo）最好的支援，但你最好能打出足夠的影響力，否則因為佔用了一名輔助位而導致隊伍落敗，那可就得不償失了。"
+        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）在 ![](/data/assets/guide/c95892af1b952964.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgravitic-flux.png)重力流（Gravitic Flux）與 ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)聚焦光束（Focusing Beam）之間擁有獨特且強大的搭配效果。重力流至少會將目標生命值降至 50%，這正好是 ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)聚焦光束（Focusing Beam）造成最大傷害的門檻，並讓 ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音（Echo）能持續利用 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）的絕招來確保擊殺。",
+        "![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音（Echo）的遠程消耗傷害與側襲能力，與 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）的戰鬥風格與站位非常契合。她也能利用光束在 ![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)質量吸附（Accretion）擊倒敵人後進行補刀。",
+        "在輔助角色方面，她需要能在空中與遠距離提供治療的隊友。![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜（Ana）、![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）、![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子（Kiriko）、![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命（Lifeweaver）以及 ![](/data/assets/guide/9f82e6ddaa52911f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwuyang.png)無漾（Wuyang）在執行這項任務時最為輕鬆。當然，![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)慈悲（Mercy）的專屬跟隨治療是你能給予迴音（Echo）最好的支援，但你最好能打出足夠的影響力，否則因為佔用了一名輔助位而導致隊伍落敗，那可就得不償失了。"
       ],
       "content_hash": "4f2b44f35463",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:52.123266Z"
+      "timestamp": "2026-03-26T04:26:07.549594Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "首先，![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音是一名飛行英雄，因此如果你使用的是像 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特 這樣的近距離英雄，你主要需要盡你所能去協助隊友反制她。不要覺得自己無能為力；保護隊友、標記 迴音 以及創造空間，這些都有助於你的隊友處理她。",
-        "對於坦克來說，![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 是最佳的反制選擇，因為她可以飛行並使用 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）來抵銷 ![](/data/assets/guide/c917d6cf1c095fcf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsticky-bombs.png)黏性炸彈（Sticky Bombs）。像 ![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76、![](/data/assets/guide/e4d3354cf66c9e62.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Femre.png)伊默 和 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里 這樣的即時命中英雄，在 迴音 於空曠處飛行時佔有優勢。然而，當她在近距離從側翼發動突襲時，她會佔據優勢。",
-        "請保持警覺，留意是否沒看到 迴音。她很可能正在你身後準備發動突襲，所以要隨時注意你的側翼。許多 迴音 玩家會使用 ![](/data/assets/guide/912c21ab260072ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflight.png)飛行（Flight）來切入並進行攻擊。請進行閃避並躲進掩體幾秒鐘，然後趁她的 飛行（Flight）處於冷卻時間時，迅速集火攻擊她。",
-        "當她對坦克使用 ![](/data/assets/guide/61a19a9c46e2ab66.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fduplicate.png)複製（Duplicate）時，請記住她的生命值是有上限的（通常為 350 點生命值），這使得她比「真正的」坦克還要脆弱。在她能夠累積出絕招之前，請務必立即集火將她擊殺。"
+        "首先，![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音是一名飛行英雄，所以如果你使用的是像 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特 這種近距離英雄，你主要需要盡你所能協助隊友反制她。不要覺得自己無能為力；保護隊友、標記迴音以及創造空間，這些都有助於你的隊友處理她。",
+        "對於坦克來說，![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 是最佳的反制選擇，因為她可以飛行並使用 ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)防禦矩陣（Defense Matrix）來抵銷 ![](/data/assets/guide/c917d6cf1c095fcf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsticky-bombs.png)黏性炸彈（Sticky Bombs）。像 ![](/data/assets/guide/29b626780c408560.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsoldier-76.png)士兵76、![](/data/assets/guide/e4d3354cf66c9e62.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Femre.png)伊默 以及 ![](/data/assets/guide/2975ce75297a0957.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fillari.png)伊拉里 這樣的即時命中英雄，在迴音於空曠處飛行時佔有優勢。然而，當她在近距離從側翼偷襲時，她將會佔據上風。",
+        "請保持警覺，留意是否沒看到迴音。她很可能正在你身後準備發動偷襲，所以請看好你的側翼。許多迴音玩家會使用 ![](/data/assets/guide/912c21ab260072ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflight.png)飛行（Flight）來切入並發動攻擊。請進行閃避並躲入掩體幾秒鐘，然後趁她的飛行技能冷卻時迅速集火她。",
+        "當她對坦克使用 ![](/data/assets/guide/61a19a9c46e2ab66.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fduplicate.png)複製（Duplicate）時，請記住她的生命值是有上限的（通常為 350 點生命值），這使她比「真正的」坦克還要脆弱。在她累積出絕招之前，請務必立即集火將她擊倒。"
       ],
       "content_hash": "4c3fba10c806",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:55.123322Z"
+      "timestamp": "2026-03-26T04:26:11.107282Z"
     },
     "8.2": {
-      "title": "特定英雄剋制對象名稱",
+      "title": "特定英雄剋制名稱",
       "description": "",
       "content": [
-        "* D.Va",
-        "* 士兵76",
-        "* 伊默",
-        "* 伊拉里"
+        "D.Va",
+        "士兵76",
+        "伊默",
+        "伊拉里"
       ],
       "content_hash": "384a4f169cef",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:56.481375Z"
+      "timestamp": "2026-03-26T04:26:12.556148Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:16:00.830750Z"
+    "timestamp": "2026-03-26T05:10:57.464011Z"
   }
 }

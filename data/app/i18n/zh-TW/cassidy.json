@@ -6,121 +6,121 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "作為一名心懷信念的槍手，![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪（Cassidy）總是能用他的![](/data/assets/guide/588a4d00913791ed.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpeacekeeper.png)和平捍衛者（Peacekeeper）精準命中目標。這位牛仔喜歡近距離接觸敵人，並以極端的手段執行正義。在近至中距離的戰鬥中，沒有人比卡西迪更致命。他最忌諱在空曠地帶被發現，因為他無法快速或長距離移動，很容易被對手拉開距離。",
-        "尋找能縮短距離並與隊友形成交叉火力的側翼角度（off-angles）是他的首要任務。此外，憑藉著爆發傷害與妨礙（Hindering）效果的![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang），他在保護隊友免受側襲者（Flanker）威脅方面表現出色。如果你不想花時間學習那些花俏的英雄射擊遊戲機制，卡西迪是一位直截了當的射手，只要具備紮實的基本功就能無往不利。"
+        "作為一名有理想的槍手，![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪能用他的![](/data/assets/guide/588a4d00913791ed.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpeacekeeper.png)和平捍衛者（Peacekeeper）精準射擊。這位牛仔喜歡與敵人近距離交鋒，並以極端的手段執行正義。在近至中距離的戰鬥中，沒有人比卡西迪更致命。他絕不希望自己暴露在空曠地帶，因為他無法快速或長距離移動，且很容易被對手拉開距離進行壓制。",
+        "尋找能縮短距離並與隊伍形成交叉火力的側翼角度是他首要的戰術重點。此外，由於他具備爆發傷害以及能造成阻礙（Hindering）的![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang），他非常擅長保護隊友免受側襲者（Flanker）的威脅。如果你不想花時間學習那些花俏的英雄射擊技巧，卡西迪是一個直截了當的射手，只要擁有紮實的基本功就能取得成功。"
       ],
       "content_hash": "94558cb06132",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:14.524499Z"
+      "timestamp": "2026-03-26T04:25:26.596748Z"
     },
     "1.1.1": {
       "title": "遊玩建議",
       "description": "",
       "content": [
-        "* 側翼角度。不要陷入站在運載目標路徑或目標區域正中央的陷阱。![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪在轉角處進行定位，並從隊伍側翼發動攻擊時表現最佳。",
+        "* 側翼角度。別掉入站在運載目標路徑或目標區域正中央的陷阱。![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪在轉角處進行定位，並從隊伍側翼發動攻擊時表現最佳。",
         "* 保持距離。他的左輪手槍有嚴重的傷害衰減。請與目標保持近距離，以最大化你的傷害輸出。",
-        "* 卡西迪非常擅長反制側襲者。使用 ![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang）來阻止他們的行動，並確保你的後排安全。"
+        "* 卡西迪非常擅長反制側襲者。使用![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang）來阻止他們的行動，並確保你的後排安全。"
       ],
       "content_hash": "13062eb121aa",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:17.115373Z"
+      "timestamp": "2026-03-26T04:25:28.601985Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 擬定對抗 ![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang）的計畫。如果你的英雄有方法可以格擋或閃避閃光彈，請務必在近距離面對卡西迪時保留該技能。",
-        "* 站位保持在他的最佳射程之外。許多英雄如 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西、![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞、![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜以及 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔，在遠距離對抗卡西迪時都佔有優勢。",
-        "* 留意 ![](/data/assets/guide/4c3fdbb733566161.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeadeye.png)神射手（Deadeye）。如果你有一段時間沒看到卡西迪，他很可能正在側翼準備發動神射手。請待在掩體附近；你可以躲在掩體後方，或是準備好你的反擊手段。"
+        "* 擬定對抗 ![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang）的計畫。如果你的英雄有辦法格擋或閃避閃光彈，請務必在近距離面對卡西迪時保留該技能。",
+        "* 站在他最佳射程範圍之外。許多英雄如 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西、![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞、![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜和 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔在與卡西迪進行遠距離交戰時佔有優勢。",
+        "* 留意 ![](/data/assets/guide/4c3fdbb733566161.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeadeye.png)彈無虛發（Deadeye）。如果你有一陣子沒看到卡西迪，他很可能正在側翼準備施放彈無虛發。請待在掩體附近；你可以躲在掩體後方，或是準備好你的反擊手段。"
       ],
       "content_hash": "842bf6e3f04a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:19.325505Z"
+      "timestamp": "2026-03-26T04:25:31.346849Z"
     },
     "2": {
-      "title": "優勢與劣勢總結",
+      "title": "優缺點總結",
       "description": "",
       "content": [
-        "* 反側襲者（Anti-flanker）",
-        "* 爆發傷害（Burst damage）",
-        "* 多功能性（Versatile）",
-        "* 機動性差（Immobile）",
-        "* 絕招問題（Ultimate issues）",
-        "* 射程短（Low range）"
+        "* 反側襲者",
+        "* 爆發傷害",
+        "* 多功能性",
+        "* 機動性差",
+        "* 絕招問題",
+        "* 射程短"
       ],
       "content_hash": "eac3dc54afd7",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:21.011730Z"
+      "timestamp": "2026-03-26T04:25:32.975580Z"
     },
     "3.1.1": {
       "title": "反側襲者",
       "description": "",
       "content": [
-        "卡西迪（Cassidy）是反制側襲者（Flanker）敵人的最佳輸出英雄之一。他結合了爆發傷害以及閃光彈（Flashbang）帶來的控場能力（CC），這使他對突擊型英雄構成極大威脅。他同時也非常擅長保護隊伍中的支援英雄，免受駭影（Sombra）和閃光（Tracer）等敵方輸出英雄的威脅。"
+        "卡西迪是反制側襲者（Flanker）敵人的最佳輸出英雄之一。他結合了爆發傷害以及閃光彈（Flashbang）帶來的控場效果，這使他對突擊型敵人極具威脅。他同時也非常擅長保護隊伍中的支援英雄，免受駭影與閃光等敵方輸出英雄的威脅。"
       ],
       "content_hash": "3c98eb0e21e4",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:22.594857Z"
+      "timestamp": "2026-03-26T04:25:34.989503Z"
     },
     "3.1.2": {
       "title": "穩定的爆發傷害",
       "description": "",
       "content": [
-        "與其他依賴冷卻時間來進行爆發傷害的輸出型英雄不同，卡西迪隨時都能對敵人造成爆發傷害。兩發爆頭射擊就能在一秒內擊殺 275 生命值的英雄！「槍火連發（Fan the Hammer）」在極近距離下也是隨時都能構成威脅的爆發傷害手段。"
+        "與其他輸出型英雄不同，他們的爆發傷害通常來自冷卻時間，而卡西迪可以在任何時刻對敵人造成爆發傷害。兩次爆頭就能在短短一秒內擊殺 275 生命值的英雄！「槍火扇擊（Fan the Hammer）」在極近距離下也始終是爆發傷害的一大威脅。"
       ],
       "content_hash": "f760d0f13ec8",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:24.155911Z"
+      "timestamp": "2026-03-26T04:25:37.134647Z"
     },
     "3.1.3": {
       "title": "多變的進攻",
       "description": "",
       "content": [
-        "根據敵方隊伍的陣容以及自身的隊伍配置，卡西迪可以調整自己的站位與遊玩風格，以適應當前的戰況。他可以擔任坦克殺手、反制側襲者、反制飛行單位、後排刺客，或是單純負責守住主要的咽喉點。"
+        "根據敵方隊伍的陣容以及自身的隊伍配置，卡西迪可以調整自己的站位與打法，以適應當下的戰況。他可以擔任坦克殺手、反制側襲者、反制飛行單位、後排刺客，或是單純守住主要的咽喉點。"
       ],
       "content_hash": "2217cc4d06fb",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:25.773355Z"
+      "timestamp": "2026-03-26T04:25:39.151915Z"
     },
     "3.2.1": {
       "title": "機動性差",
       "description": "",
       "content": [
-        "卡西迪與大多數輸出角最大的區別，在於他完全缺乏機動性。他是整個《鬥陣特攻》名單中機動性最差的輸出角。他無法佔領高地、追擊目標或逃離攻擊。如果整支隊伍試圖重新調整位置，卡西迪不是被留在後方，就是最後一個抵達的人。"
+        "卡西迪與大多數輸出角最大的區別在於他完全缺乏機動性。他是整個《鬥陣特攻》名單中機動性最差的輸出角色。他無法佔領高處、追擊目標或逃離攻擊。如果整支隊伍試圖重新調整位置，卡西迪要麼留在後方，要麼就是最後抵達的人。"
       ],
       "content_hash": "664380da4510",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:27.579089Z"
+      "timestamp": "2026-03-26T04:25:41.378484Z"
     },
     "3.2.2": {
       "title": "終極技能價值不一致",
       "description": "",
       "content": [
-        "許多輸出角色的終極技能感覺像是「獲勝按鈕」。反觀卡西迪（Cassidy）的神射手（Deadeye），有時卻只是被用來裝填左輪手槍。雖然它具備殲滅敵方隊伍的潛力，但其價值遠非保證。"
+        "許多輸出角色的終極技能感覺就像是「獲勝按鈕」。反觀卡西迪的彈無虛發（Deadeye），有時卻只是被用來裝填左輪手槍的彈藥。雖然它有潛力造成全隊殲滅，但其價值遠遠無法保證。"
       ],
       "content_hash": "861135dbf3ef",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:29.090261Z"
+      "timestamp": "2026-03-26T04:25:43.173829Z"
     },
     "3.2.3": {
-      "title": "有限的射程",
+      "title": "射程有限",
       "description": "",
       "content": [
-        "與其他遠程即時命中（hitscan）英雄相比，卡西迪的射程最差。他在近距離交戰時佔有優勢，但需要花費時間與資源來移動到合適的位置。在遠距離進行消耗戰會顯得更加輕鬆且穩定。即使是像法拉這樣的投射物英雄，在那些她能保持遠距離飛行優勢的地圖上，也會給卡西迪帶來極大的麻煩。"
+        "與其他遠程即時命中英雄相比，卡西迪的射程最差。他在近距離作戰時佔有優勢，但需要花費時間與資源來移動到合適的位置。在遠距離進行消耗戰會輕鬆且穩定得多。即使是像法拉這樣的投射物英雄，在那些她可以保持遠距離飛行作戰的地圖上，也會給卡西迪帶來極大的麻煩。"
       ],
       "content_hash": "9179fd7af77e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:30.798642Z"
+      "timestamp": "2026-03-26T04:25:45.051912Z"
     },
     "4.1": {
       "title": "主要攻擊：和平捍衛者（Peacekeeper）",
@@ -128,205 +128,205 @@
       "content": [
         "**![](/data/assets/guide/588a4d00913791ed.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpeacekeeper.png)和平捍衛者（Peacekeeper）的使用技巧**",
         "* 站位",
-        "* * 要發揮卡西迪（Cassidy）主要攻擊的最大價值，最重要的就是學習如何站位。卡西迪是一名中近距離的即時命中（hitscan）英雄，能夠迅速消滅敵人。",
-        "* 側翼角度（Off angles）",
-        "* * 你會希望將大部分時間花在與隊伍稍微錯開的側翼角度上。你不能只是待在正面戰場狙擊敵方後排。重新調整位置到側翼角度，能讓卡西迪繞過敵方坦克的主要防禦點。",
-        "* 這對卡西迪及其隊伍來說也更安全，因為這能分散敵方的注意力。",
-        "* 同時也能讓你更靠近敵方的輸出（DPS）和支援（Support）目標。",
-        "* 側襲（Flanks）",
+        "* * 要發揮卡西迪主要攻擊的最大價值，最重要的就是學習如何站位。卡西迪是一名近至中距離的即時命中型英雄，能夠快速擊殺敵人。",
+        "* 側邊角度",
+        "* * 你會希望大部分時間都待在距離隊伍稍微偏離的側邊角度。你不能只是待在正面戰場並狙擊敵方後排。重新調整位置到側邊角度，能讓卡西迪繞過敵方坦克的防禦重點。",
+        "* 這對卡西迪和他的隊伍來說也更安全，因為這能分散敵人的注意力。",
+        "* 同時也能讓你更靠近敵方的輸出和輔助目標。",
+        "* 側襲",
         "* * 一般來說，由於卡西迪缺乏機動性，你不應該進行深入的側襲。繞過敵方隊伍走一大圈會浪費太多時間。",
-        "* 他最擅長的是輕度側襲。讓正前方警戒的敵人措手不及，能讓你獲得最高的側襲成功率。請務必預先規劃好如何應對敵方的反擊，無論是透過隊友支援、尋找生命包，還是利用地圖掩體。",
+        "* 輕度側襲才是他最擅長的。讓正前方觀望的敵人措手不及，能讓你成功側襲的機率達到最高。請務必規劃好如何應對敵人的反擊，無論是透過隊友的輔助、尋找醫療包，還是利用地圖掩體。",
         "* 正面戰場、目標區域與咽喉點",
-        "* * 是否應該站在正面路徑和目標區域，主要取決於隊伍陣容與對戰組合。例如，如果敵方採取的是機動陣容（dive），最好待在隊友身邊，以免被孤立。"
+        "* * 是否應該站在正面路徑和目標區域，主要取決於隊伍陣容和對戰組合。例如，如果敵方使用機動突擊陣容（dive），最好待在隊友身邊，以免被孤立。"
       ],
       "content_hash": "82ec9f545a15",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:33.698249Z"
+      "timestamp": "2026-03-26T04:25:49.098353Z"
     },
     "4.2": {
-      "title": "次要攻擊：火熱連發（Fan the Hammer）",
+      "title": "次要攻擊：槍火連發",
       "description": "",
       "content": [
-        "**火熱連發（Fan the Hammer）技巧**",
-        "* 爆發傷害擊殺坦克",
-        "* * 每當敵方坦克靠近你時，「火熱連發（Fan the Hammer）」接「戰術翻滾（Combat Roll）」再接「火熱連發（Fan the Hammer）」是你對付坦克的最佳手段。",
+        "**槍火連發（Fan the Hammer）技巧**",
+        "* 瞬間重創坦克",
+        "* * 每當敵方坦克靠近你時，使用槍火連發、戰術翻滾（Combat Roll）、再接一次槍火連發是你對抗坦克的最佳手段。",
         "* 在 3 秒內造成 600 點傷害。",
-        "* 削減護盾生命值",
-        "* * 如果你當下最好的選擇是攻擊護盾，請使用「火熱連發（Fan the Hammer）」來快速削減其生命值。",
+        "* 削減護盾值",
+        "* * 如果當下最好的選擇是攻擊護盾，請使用槍火連發來快速削減其生命值。",
         "* 極近距離",
-        "* * 每當敵人處於近戰距離之外時，都應考慮使用「火熱連發（Fan the Hammer）」。目標體型越大，命中率就越穩定。例如對付壁壘機兵（Bastion）效果很好，但用在閃光（Tracer）身上效果就不太理想。",
-        "* 補刀擊殺",
-        "* * 不要讓自尊心阻礙你擊殺敵人。如果敵人生命值極低，但你沒有把握精準命中最後一擊，使用「火熱連發（Fan the Hammer）」可以成為關鍵的致勝手段。"
+        "* * 任何時候只要敵人處於近戰距離之外，就應考慮使用槍火連發。目標體型越大，命中率就越穩定。例如對付壁壘機兵效果很好，但用在閃光身上效果就不太理想。",
+        "* 終結一擊",
+        "* * 別讓自尊心阻礙你擊殺敵人。如果敵人生命值所剩無幾，但你沒有信心精準命中最後一擊，槍火連發往往能成為關鍵的救命稻草。"
       ],
       "content_hash": "1c4c3bd05c48",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:36.490089Z"
+      "timestamp": "2026-03-26T04:25:52.548437Z"
     },
     "4.3": {
-      "title": "[SHIFT]：戰鬥翻滾（Combat Roll）",
+      "title": "[SHIFT]：戰術翻滾（Combat Roll）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/ca5aa7c83d303ae8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcombat-roll.png)戰鬥翻滾（Combat Roll）的使用技巧**",
-        "* 用於裝填彈藥",
-        "* 大多數時候，你會將戰鬥翻滾（Combat Roll）用於快速裝填彈藥。大約每隔一個彈匣，你就可以在翻滾裝填與標準裝填之間交替使用。",
-        "* 承受傷害",
-        "* 掌握戰鬥翻滾（Combat Roll）的傷害減免至關重要。抓準時機使用翻滾，能讓卡西迪（Cassidy）在被黏上脈衝炸彈（Pulse Bomb）時存活下來。",
-        "* 傷害減免會在啟動的瞬間生效，因此當你需要額外坦度時，請立即使用翻滾。",
+        "![](/data/assets/guide/ca5aa7c83d303ae8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcombat-roll.png)戰術翻滾（Combat Roll）的技巧",
+        "* 保留用於裝填彈藥",
+        "* 大多數時候，你會使用戰術翻滾（Combat Roll）來進行快速裝填。大約每隔一個彈匣，你就可以交替使用翻滾裝填與標準裝填。",
+        "* 減傷",
+        "* 掌握戰術翻滾（Combat Roll）的傷害減免至關重要。抓準時機使用翻滾，能讓卡西迪（Cassidy）在被脈衝炸彈（Pulse Bomb）黏上時存活下來。",
+        "* 啟動翻滾後會立即獲得減傷效果，因此當你需要額外坦度時，請立即使用翻滾。",
         "* 交叉走位",
-        "* 在近距離決鬥中，你可以透過戰鬥翻滾（Combat Roll）穿過敵人，迅速繞到他們身後。這在某些對戰組合中非常有用，或者單純用來迫使敵人轉身並重新調整瞄準。"
+        "* 在近距離對決中，你可以透過戰術翻滾（Combat Roll）穿過敵人，迅速繞到他們身後。這在某些對戰組合中非常有用，或者單純只是為了強迫敵人轉身並重新調整瞄準。"
       ],
       "content_hash": "45c1f1d8c2b7",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:39.142936Z"
+      "timestamp": "2026-03-26T04:25:55.214603Z"
     },
     "4.4": {
-      "title": "[E] 閃光彈（Flashbang）",
+      "title": "閃光彈（Flashbang）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang）的使用技巧**",
-        "* 反制機動（Anti-dive）",
-        "* * 當敵方隊伍試圖突襲你或你的醫護兵（Medic）時，閃光彈（Flashbang）會成為你最重要的功能性技能。阻礙（Hindered）狀態會禁止敵人使用位移技能，因此這是遊戲中最強大的反制機動技能之一。",
-        "* 在使用閃光彈（Flashbang）前，請等待敵人生命值偏低或準備撤退時再出手。讓死神（Reaper）無法使用幽影傳遞（Wraith Form）對他來說等同於宣告出局。",
-        "* 突襲（Surprise attack）",
-        "* * 從側襲（Flank）確保擊殺最簡單的方式，就是先以閃光彈（Flashbang）起手，接著在敵人被緩速的期間補上後續射擊。"
+        "![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang）的使用技巧",
+        "* 反制機動突襲",
+        "* 當敵方隊伍試圖突襲你或你的醫護兵（Medic）時，閃光彈（Flashbang）會成為你最重要的功能性技能。「妨礙（Hindered）」狀態會阻止敵方使用位移技能，因此這是遊戲中最強大的反制機動突襲技能之一。",
+        "* 等到敵人生命值偏低或準備撤退時再使用閃光彈（Flashbang）。讓死神（Reaper）無法使用幽影傳送（Wraith Form）對他來說就是致命的打擊。",
+        "* 突襲",
+        "* 從側襲（Flank）確保擊殺最簡單的方法，就是先以閃光彈（Flashbang）起手，接著在敵人被緩速時補上後續射擊。"
       ],
       "content_hash": "8a27edae4842",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:41.660201Z"
+      "timestamp": "2026-03-26T04:25:57.927171Z"
     },
     "4.5": {
-      "title": "絕招：神射手（Deadeye）",
+      "title": "絕招：神射手",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/4c3fdbb733566161.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeadeye.png)神射手（Deadeye）的使用技巧**",
-        "* 保持不可預測性",
-        "* 傷害累積速度很快，因此如果敵人暴露在空曠處且沒有背對你，你使用神射手（Deadeye）取得擊殺的機率會大幅提升。",
+        "**![](/data/assets/guide/4c3fdbb733566161.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeadeye.png)神射手的技巧**",
+        "* 保持難以預測",
+        "* 傷害會迅速疊加，因此如果敵人暴露在空曠處且沒有背對你，你使用神射手取得擊殺的機率會大幅提升。",
         "* 尋求保護",
-        "* 如果敵方擁有高爆發傷害，或是擁有能將你從神射手（Deadeye）狀態中擊暈的角色，請與隊友協調以獲得適當的保護。例如，讓 D.Va 在你面前使用防護矩陣（Defense Matrix）。",
+        "* 如果敵人擁有高爆發傷害，或是有人能透過暈眩技能中斷你的神射手，請與隊友協調以獲得適當的保護。例如，讓 D.Va 在你面前使用防禦矩陣。",
         "* 取消以進行裝填",
-        "* 一個進階技巧是，當你需要快速裝填彈藥時，可以啟動神射手（Deadeye）並立即取消。",
-        "* 一種常見的融化坦克（Tank）連招為：扇形射擊（Fan the Hammer）、戰術翻滾（Combat Roll）、扇形射擊（Fan the Hammer）、神射手（Deadeye）裝填取消，接著再次使用扇形射擊（Fan the Hammer）。"
+        "* 一個進階技巧是，當你需要快速裝填彈藥時，可以啟動神射手並立即取消。",
+        "* 一種用來融化坦克常見的連招是：扇形射擊、翻滾、扇形射擊、神射手裝填取消、扇形射擊。"
       ],
       "content_hash": "7fa6eb668138",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:44.004164Z"
+      "timestamp": "2026-03-26T04:26:00.687543Z"
     },
     "5.1.1": {
       "title": "砰砰（Bang Bang）",
-      "description": "卡西迪會投擲第二枚閃光彈（Flashbang），其飛行距離更遠，但兩枚閃光彈的傷害皆降低 40%。",
+      "description": "卡西迪投擲第二枚閃光彈（Flashbang），其飛行距離更遠，但兩枚閃光彈造成的傷害皆降低 40%。",
       "content": [
         "* 新的傷害門檻",
-        "* * 同時命中兩枚閃光彈（Flashbang）能為卡西迪創造新的秒殺連招",
+        "* * 同時命中兩枚閃光彈（Flashbang）為卡西迪創造了全新的秒殺連技",
         "* * 砰砰（Bang Bang）+ 爆頭 = 230 點傷害（可秒殺 225 生命值的英雄）",
-        "* 最適合用於反制機動陣容（anti-dive）",
-        "* * 額外的傷害與射程使砰砰（Bang Bang）成為對抗敵方輸出（DPS）與輔助（Support）側襲者（Flanker）時的最佳選擇。"
+        "* 對抗側襲者（Flanker）的最佳選擇",
+        "* * 額外的傷害與射程使砰砰（Bang Bang）成為對抗敵方輸出與支援側襲者（Flanker）時的優越選擇。"
       ],
       "content_hash": "794b8358e0a4",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:45.996914Z"
+      "timestamp": "2026-03-26T04:26:03.138715Z"
     },
     "5.1.2": {
       "title": "扭轉劣勢",
       "description": "神射手（Deadeye）鎖定的每名敵人，每秒可恢復 30 點生命值。",
       "content": [
         "* 坦克持續傷害",
-        "* 在標準的 5v5 對戰中，卡西迪每秒最多可產生 150 點自我治療。即使只有少數目標，額外的治療量也能幫助他在面對非爆發性傷害時存活下來。",
-        "* 舉例來說，如果敵方陣容包含莫伊拉（Moira）或朱諾（Juno），由於她們兩者都無法對卡西迪造成爆發傷害或施加昏迷效果，他在引導神射手（Deadeye）時，極有可能透過額外的治療量存活。",
+        "* 在標準 5v5 對戰中，卡西迪每秒最多可產生 150 點自我治療。即使只有少數目標，額外的治療量也有助於在面對非爆發性傷害時存活下來。",
+        "* 例如，若敵方陣容包含莫伊拉 / 朱諾，由於她們兩者都無法對卡西迪造成爆發傷害或施加昏迷效果，卡西迪在引導神射手（Deadeye）時，透過額外治療存活下來的機率非常高。",
         "* 何時避免選擇",
-        "* 如果敵方有輕易中斷神射手（Deadeye）的手段，例如安娜（Ana）的睡眠鏢（Sleep Dart），或是奪命女（Widowmaker）這類高爆發傷害英雄，那麼此特殊能力（perk）將無法發揮作用。"
+        "* 如果敵方有容易中斷神射手（Deadeye）的手段，例如使用睡眠鏢（Sleep Dart）進行昏迷，或是像奪命女那樣的高爆發傷害，那麼此治療效果將無法發揮作用。"
       ],
       "content_hash": "ac6c6981da9d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:48.128409Z"
+      "timestamp": "2026-03-26T04:26:05.673298Z"
     },
     "5.2.1": {
-      "title": "滾動補給（Rollin' Round-Ups）",
-      "description": "戰鬥翻滾（Combat Roll）每裝填一顆子彈可恢復 15 點生命值。",
+      "title": "翻滾補給",
+      "description": "戰術翻滾（Combat Roll）每裝填一顆子彈即可恢復 15 點生命值。",
       "content": [
-        "滾動補給（Rollin' Round-Up）",
-        "* 由於你平時就應該使用戰鬥翻滾（Combat Roll）來裝填滿彈匣，因此這項特殊能力（perk）自然能為你提供大量的續航價值。"
+        "翻滾補給",
+        "* 由於你通常會使用戰術翻滾（Combat Roll）來裝填滿彈匣，因此這項特殊能力（perk）自然能為你提供大量的續戰價值。"
       ],
       "content_hash": "13fc764450f2",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:49.683946Z"
+      "timestamp": "2026-03-26T04:26:07.345638Z"
     },
     "5.2.2": {
       "title": "銀色子彈（Silver Bullet）",
-      "description": "卡西迪（Cassidy）的和平捍衛者（Peacekeeper）次要攻擊替換為可造成流血效果的穿透射擊。戰術翻滾（Combat Roll）與神射手（Deadeye）可重置其冷卻時間。",
+      "description": "和平捍衛者（Peacekeeper）的次要攻擊被替換為會造成流血效果的穿透射擊。戰鬥翻滾（Combat Roll）與神射手（Deadeye）會重置其冷卻時間。",
       "content": [
         "* 將近距離爆發傷害替換為更具中距離威脅性的能力。",
-        "* 銀色子彈（Silver Bullet）暴擊加上主要攻擊的身體射擊，足以擊殺 275 生命值的英雄。",
-        "* 雖然爆發傷害相當優秀，但你必須犧牲「火爆三連發（Fan the Hammer）」以及「翻滾（Rollin' Round-Up）」所帶來的續戰力。",
-        "* 若兩發銀色子彈（Silver Bullet）身體射擊之間有間隔，足以消滅 275 生命值的英雄。",
-        "* 流血效果無法堆疊。若想最大化持續傷害，在發射銀色子彈（Silver Bullet）之間需要稍作等待。"
+        "* 銀色子彈（Silver Bullet）暴擊加上主要攻擊的身體射擊，即可擊殺 275 生命值的英雄。",
+        "* 雖然爆發傷害相當不錯，但你必須犧牲「槌擊（Fan the Hammer）」以及「翻滾（Rollin' Round-Up）」所帶來的續戰力。",
+        "* 如果兩發銀色子彈（Silver Bullet）身體射擊之間有間隔，便能擊殺 275 生命值的英雄。",
+        "* 流血效果無法疊加。如果你想最大化持續傷害，在發射銀色子彈（Silver Bullet）之間需要稍作等待。"
       ],
       "content_hash": "7408c7a7a8dd",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:51.941240Z"
+      "timestamp": "2026-03-26T04:26:09.916667Z"
     },
     "6.1": {
       "title": "最佳地圖",
       "description": "",
       "content": [
-        "卡西迪（Cassidy）在鼓勵中近距離戰鬥的地圖上表現最為出色。根據戰況，卡西迪可以選擇與隊伍站位在一起、佔據側翼角度（off-angle），或是進行完全的側襲（flank）。由於他在遠距離的傷害輸出有限，因此在那些有利於神射手（Sharpshooter）且視野遼闊的地圖上會顯得較為吃力。此外，因為他幾乎沒有機動性，在擁有大量高地優勢的地圖，或是需要跨越廣大區域的開闊地圖上，他往往會落後於隊伍。"
+        "卡西迪在鼓勵中近距離戰鬥的地圖上表現最佳。根據情況，卡西迪可以選擇與隊伍站在一起、佔據側翼角度，或是進行完全的側襲。由於他在遠距離無法造成太多傷害，因此在視野遼闊且有利於神射手的地圖上會感到吃力。此外，因為他幾乎沒有機動性，在擁有大量高台的地圖，或是需要橫跨廣大區域的散開型地圖上，他往往會落後於隊伍。"
       ],
       "content_hash": "7a2e3325b5a8",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:53.755754Z"
+      "timestamp": "2026-03-26T04:26:11.704663Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "以卡西迪為核心的隊伍陣容會分階段向敵方隊伍推進。由於他缺乏機動性且傷害衰減嚴重，卡西迪最適合與能將戰鬥維持在中近距離的隊伍搭配。那些透過軟性交戰（soft engaging）不斷爭奪空間，隨後再重新進場的坦克，能讓卡西迪與他們一同在前線站位，並將更多敵人維持在他的主要射擊理想距離內。他真正需要的支援僅是可靠的治療，因為他往往比一般的輸出英雄承受更多傷害。他的傷害輸出極高，因此他需要的是來自隊友的輔助能力與續戰力。",
+        "以卡西迪為核心建立的隊伍陣容，會分階段向敵方隊伍推進。由於他缺乏機動性且傷害衰減嚴重，卡西迪最適合與能將戰鬥維持在中近距離的隊伍搭配。那些透過軟性交戰（soft engaging）不斷爭奪空間，隨後再重新進場的坦克，能讓卡西迪與他們一同站在前線，並將更多敵人維持在他的主要攻擊射程內。他唯一真正需要支援的是可靠的治療，因為他承受的傷害往往比一般的輸出英雄更多。他的傷害輸出極高，因此他需要的是來自隊友的輔助能力與續航力。",
         "以卡西迪為核心的隊伍陣容範例：",
         "* **坦克**: ![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加",
         "* **輸出**: ![](/data/assets/guide/e57835c9ff2eb7ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fcassidy.png)卡西迪, ![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞",
         "* **支援**: ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命, ![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子"
       ],
       "content_hash": "34d79b73473a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:55.936919Z"
+      "timestamp": "2026-03-26T04:26:14.647137Z"
     },
     "7.1": {
       "title": "個別英雄搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加",
-        "* 莫加非常適合作為一名分階段進場的坦克。雖然兩位英雄都具備遠程能力，但他們在近距離的表現更為出色。卡西迪也能針對那些試圖反制莫加的英雄進行調整。如果敵方有一位安娜不斷對莫加施加禁療效果，卡西迪可以進行輕度的側襲來對安娜施壓，並試圖逼迫她使用生化手榴彈（Biotic Grenade）來治療自己。",
-        "![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞",
-        "* 卡西迪最容易被利用的弱點是射程不足與機動性差。弗蕾亞能透過對長視線區域施加壓力來牽制敵方狙擊手，從而提供協助。她也具備追擊那些能躲避卡西迪的目標所需的機動性。兩位英雄都能因為彼此帶來的威脅而進行大絕招的後續跟進。弗蕾亞能利用神射手（Deadeye）所創造的空間，而卡西迪則能透過流星索（Bola Shot）的拉回效果輕鬆進行後續傷害輸出。",
-        "![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命",
-        "* 如同上述關於圍繞卡西迪構建隊伍陣容的章節所述，他主要需要來自輔助英雄的高額且穩定的治療。織命在面對危險時能毫無困難地保住卡西迪的性命。他還能使用花瓣平台（Petal Platform）將卡西迪抬升至強勢的高地位置，或是在施放神射手（Deadeye）時取得出其不意的垂直角度。此外，卡西迪可以進行比平時更深入的側襲，以進行後排刺殺或側襲神射手，因為他知道織命隨時都能將他拉回安全地帶。"
+        "![](/data/assets/guide/e958e5cf8ba983fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmauga.png)莫加\n* 莫加非常適合作為一名分階段進場的坦克。雖然兩位英雄都具備遠程作戰能力，但他們在近距離的表現更為出色。卡西迪也能適應敵方試圖用來反制莫加的英雄。如果敵方有安娜不斷對莫加施加禁療效果，卡西迪可以進行輕度的側襲來對安娜施壓，並試圖逼迫她使用生化手榴彈來治療自己。",
+        "[[__OWH_IMG_1__]]弗蕾亞\n* 卡西迪最容易被利用的弱點在於其射程不足與機動性較差。弗蕾亞能透過對長視線區域施壓來牽制敵方狙擊手，從而提供協助。她也擁有足以追擊那些能閃避卡西迪的目標所需的機動性。兩位英雄都能因為彼此帶來的威脅而進行大絕招的後續連動。弗蕾亞能利用神射手（Deadeye）所創造的空間，而卡西迪則能透過流星索（Bola Shot）的拉回效果輕鬆進行後續傷害輸出。",
+        "![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)織命\n* 如同上述關於以卡西迪為核心的隊伍陣容章節所述，他主要需要來自輔助角色的高額且持續的治療。織命在面對危險時能毫無困難地保住卡西迪的性命。他還能使用花瓣平台（Petal Platform）將卡西迪抬升至強勢的高地位置，或是在施放神射手（Deadeye）時取得出其不意的垂直角度。此外，卡西迪可以進行比平時更深入的側襲，以進行後排刺殺或側襲神射手（Deadeye），因為他知道織命隨時都能將他拉回安全地帶。",
+        "* Cassidy's most exploitable weaknesses are his poor range and poor mobility. Freja helps by applying pressure to areas with longer sightlines to contest enemy snipers. She also has the mobility to chase down targets who can evade Cassidy. Both heroes can also follow up on the other's ults because of the threat each poses. Freja utilizes the space Deadeye creates, and Cassidy gets easy follow-up damage off the pull-in effect of Bola Shot.",
+        "![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)Lifeweaver",
+        "* As stated in the above section on team comps built around Cassidy, he primarily needs high amounts of consistent healing from his Supports. Lifeweaver has no trouble keeping Cassidy alive in the face of danger. He can also use Pedal Platform to raise up Cassidy to strong high ground positions or get a sneaky vertical angle during Deadeye. Additionally, Cassidy can go for deeper flanks than usual for a backline assassination of flank Deadeye because he knows Lifeweaver can pull him out at any moment."
       ],
       "content_hash": "3a5bf767144d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:58.949311Z"
+      "timestamp": "2026-03-26T04:26:18.917713Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "卡西迪（Cassidy）在近至中距離是非常恐怖的存在，但隨著距離增加，他的傷害會迅速衰減。請將自己保持在他的最佳射程之外。許多英雄如 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西（Ashe）、![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞（Freja）、![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜（Ana）以及 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔（Zenyatta）在對抗卡西迪的遠距離戰鬥中都佔有優勢。",
-        "你需要處理的主要威脅是 ![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang）。如果你打算接近他，你需要透過使用位移技能或無敵技能（例如 ![](/data/assets/guide/b03c6c39b72fea97.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdancing-blaze.png)熾熱之舞（Dancing Blaze））來閃避，或是利用 ![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png)閃（Deflect）或 ![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)屏障護盾（Barrier Shield）之類的技能來格擋，藉此反制 ![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang）。",
-        "留意 ![](/data/assets/guide/4c3fdbb733566161.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeadeye.png)神射手（Deadeye）。如果你有一陣子沒看到卡西迪，他很可能正在準備進行側襲並施放神射手。請待在掩體附近；你可以躲在掩體後方，或是準備進行反擊。別忘了你可以使用像是 ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）和 ![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢（Sleep Dart）之類的攻擊來暈眩他，藉此中斷他的絕招。"
+        "卡西迪在近距離到中距離的戰鬥中非常強大，但隨著距離增加，他的傷害會迅速衰減。請保持在他最佳射程之外。許多英雄如 ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西、![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞、![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜和 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔在對抗卡西迪的遠距離戰鬥中佔有優勢。",
+        "你需要應對的主要威脅是 ![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang）。如果你打算接近他，你需要透過位移技能或無敵技能（例如 ![](/data/assets/guide/b03c6c39b72fea97.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdancing-blaze.png)熾熱之舞（Dancing Blaze））來閃避，或是使用像是 ![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png)閃（Deflect）或 ![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)屏障護盾（Barrier Shield）之類的技能來格擋，藉此反制 ![](/data/assets/guide/f60c62173ce6fce8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fflashbang.png)閃光彈（Flashbang）。",
+        "留意 ![](/data/assets/guide/4c3fdbb733566161.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeadeye.png)神射手（Deadeye）。如果你有一段時間沒看到卡西迪，他很可能正在側翼準備發動神射手。請待在掩體附近；你可以躲在掩體後方，或是準備進行反擊。別忘了你可以使用像是 ![](/data/assets/guide/6c968a00b8106f0d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fjavelin-spin.png)標槍旋轉（Javelin Spin）和 ![](/data/assets/guide/89ddbbfe1fbc9a6c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsleep-dart.png)睡眠鏢（Sleep Dart）之類的攻擊來暈眩他並中斷他的絕招。"
       ],
       "content_hash": "e51bb545260c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:01.817030Z"
+      "timestamp": "2026-03-26T04:26:22.112110Z"
     },
     "8.2": {
       "title": "特定英雄剋制名單",
@@ -338,14 +338,14 @@
         "* 禪亞塔"
       ],
       "content_hash": "5ff9249063e9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:03.223545Z"
+      "timestamp": "2026-03-26T04:26:23.781963Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:16:12.154344Z"
+    "timestamp": "2026-03-26T05:10:57.476903Z"
   }
 }

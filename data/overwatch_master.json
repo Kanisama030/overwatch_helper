@@ -1893,7 +1893,8 @@
           "content": [
             "winston",
             "genji",
-            "tracer"
+            "tracer",
+            "sombra"
           ]
         }
       ]
@@ -3214,8 +3215,8 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "symmetra",
             "zarya",
+            "symmetra",
             "reinhardt",
             "genji",
             "ana",
@@ -3537,8 +3538,9 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
+            "ana",
             "doomfist",
-            "ana"
+            "ramattra"
           ]
         }
       ]
@@ -3865,9 +3867,9 @@
           "title": "Specific Hero Counters names",
           "content": [
             "ana",
-            "dva",
             "orisa",
-            "lifeweaver"
+            "lifeweaver",
+            "dva"
           ]
         }
       ]
@@ -5443,11 +5445,11 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
+            "pharah",
             "widowmaker",
-            "hanzo",
             "ashe",
             "soldier-76",
-            "sojourn"
+            "winston"
           ]
         }
       ]
@@ -9617,6 +9619,104 @@
           ]
         },
         {
+          "id": "6.1.13",
+          "title": "Route 66",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.14",
+          "title": "Havana",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.15",
+          "title": "Junkertown",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.16",
+          "title": "Watchpoint: Gibraltar",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.17",
+          "title": "Rialto",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.18",
+          "title": "Shambali Monastery",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.19",
+          "title": "Numbani",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.20",
+          "title": "King's Row",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.21",
+          "title": "Hollywood",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.22",
+          "title": "Paraíso",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.23",
+          "title": "Eichenwalde",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.24",
+          "title": "Blizzard World",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.25",
+          "title": "Esperança",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
+          "id": "6.1.26",
+          "title": "Runasapi",
+          "content": [
+            "ai generated"
+          ]
+        },
+        {
           "id": "6.2",
           "title": "Worst Maps"
         },
@@ -10849,7 +10949,13 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": []
+          "content": [
+            "pharah",
+            "widowmaker",
+            "ashe",
+            "cassidy",
+            "soldier-76"
+          ]
         }
       ]
     },
@@ -12393,8 +12499,8 @@
             "widowmaker",
             "hanzo",
             "ashe",
-            "sojourn",
-            "soldier-76"
+            "soldier-76",
+            "sojourn"
           ]
         }
       ]
@@ -13345,7 +13451,9 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": []
+          "content": [
+            "dva"
+          ]
         }
       ]
     },
