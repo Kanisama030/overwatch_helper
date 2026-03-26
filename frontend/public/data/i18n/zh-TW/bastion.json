@@ -6,359 +6,359 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion is the tanky ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tank-buster DPS of Overwatch who can be incredibly frustrating to play against due to a combination of high damage and high survivability.",
-        "他能迅速削減任何 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克的大量生命值，或是快速摧毀對方的屏障。當隊伍能保護他並在敵方攻擊下為他提供續航時，![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵簡直勢不可擋，足以主宰整場對戰。榴彈跳躍賦予他靈活的位移能力，讓他能發動充滿創意的突襲。",
-        "偵查者（Recon）與強襲模式（Assault Configurations）之間巨大的傷害輸出落差，是 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵的主要弱點。雙方隊伍都會試圖透過限制或最大化他每次使用機兵型態所能獲得的價值，來在博弈中勝過對方。"
+        "![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵是《鬥陣特攻》中具備高坦度且能有效對抗![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)戰士的輸出型英雄，他結合了高傷害與高生存能力，讓對手感到極為頭痛。",
+        "他能迅速削減任何![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)戰士的大量生命值，或是快速摧毀他們的屏障。當隊伍能為他提供保護並在敵方攻勢下維持他的生命值時，![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵將勢不可擋，並主宰整個戰局。榴彈跳躍賦予他靈活的位移能力，讓他能發動出其不意的創意突襲。",
+        "偵查者模式與強襲模式之間巨大的傷害輸出差異，是![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵的主要弱點。雙方隊伍都會試圖透過限制或最大化他每次使用機兵型態所能帶來的價值，來智取對手。"
       ],
       "content_hash": "c2869b82e084",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:19:40.702094Z"
+      "timestamp": "2026-03-26T04:29:35.875400Z"
     },
     "1.1.1": {
       "title": "操作指南",
       "description": "",
       "content": [
-        "* 在使用 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)設定：突擊（Configuration: Assault）時，請利用盟友和掩體來保護自己。![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵（Bastion）能造成極高的傷害，但並非無敵。",
-        "* 當你發現敵人即將被 ![](/data/assets/guide/6ad6a85052cee304.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fa-36-tactical-grenade.png)A-36 戰術榴彈（A-36 Tactical Grenade）爆炸擊中時，請準備好在擊退期間追蹤他們，以輕鬆取得擊殺。",
-        "* 發射第一發砲彈後務必稍作停頓，觀察敵人試圖逃往何處。利用第二發和第三發砲彈跟隨他們的移動路徑並將其困住，以確保擊殺。"
+        "* 在使用 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)設定：強襲時，請利用隊友和掩體進行防護。![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵雖然能造成極高的傷害，但並非無敵。",
+        "* 當你發現敵人即將被 ![](/data/assets/guide/6ad6a85052cee304.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fa-36-tactical-grenade.png)A-36 戰術榴彈（A-36 Tactical Grenade）的爆炸擊中時，請做好準備，在擊退過程中追蹤敵人，以輕鬆取得擊殺。",
+        "* 發射第一發砲彈後請務必稍作停頓，觀察敵人試圖逃往何處。利用第二發與第三發砲彈跟隨他們的移動路徑並封鎖去路，以確保擊殺。"
       ],
       "content_hash": "b0e307b1b9d6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:19:42.471042Z"
+      "timestamp": "2026-03-26T04:29:40.263689Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 壁壘機兵的砲台型態只會持續 6 秒。大多數情況下，最好的應對方式是躲起來等待幾秒。不要探頭，否則你可能會被擊殺，或是必須浪費資源來保命。",
-        "* 在他的砲台模式結束後採取激進攻勢。他在偵查者（Recon）型態下的傷害很低，因此當他處於 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)配置：突擊（Configuration: Assault）的冷卻時間時，你可以忽略他，轉而鎖定他的 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)醫護兵（Supports）。",
-        "* 擁有傷害減免能力以抵銷他砲台型態的英雄，或是具備足夠機動性來甩開他的英雄，都是最佳的剋制選擇。擊敗 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵陣容的關鍵，在於盡可能降低他每次使用 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)配置：突擊（Configuration: Assault）所能獲得的價值。"
+        "* 壁壘機兵的砲台模式只會持續 6 秒。大多數情況下，最好的應對方式是躲起來等待幾秒鐘。不要探頭，否則你可能會被擊殺，或是必須浪費資源來保命。",
+        "* 在他的砲台模式結束後採取激進的攻勢。他在偵查者（Recon）模式下的傷害很低，因此當他處於 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)強襲模式（Configuration: Assault）的冷卻時間時，你可以忽略他並優先鎖定他的 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)醫護兵（Supports）。",
+        "* 擁有傷害減免能力以抵銷他砲台模式的英雄，或是具備能跑贏他的機動性的英雄，是最佳的剋制選擇。擊敗 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵陣容的關鍵，在於將他每次使用 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)強襲模式（Configuration: Assault）所能發揮的價值降至最低。"
       ],
       "content_hash": "277ae0741840",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:19:44.641639Z"
+      "timestamp": "2026-03-26T04:29:43.577097Z"
     },
     "2": {
       "title": "優缺點總結",
       "description": "",
       "content": [
-        "* 對抗坦克表現優異",
-        "* 具備坦克特質的輸出型角色（Tanky DPS）",
-        "* 範圍性（AoE）控場能力",
-        "* 依賴冷卻時間（cooldowns）",
+        "* 對戰坦克表現優異",
+        "* 具備坦克生存能力的輸出型英雄",
+        "* 範圍性控場能力",
+        "* 極度依賴冷卻時間",
         "* 體型龐大且缺乏機動性",
-        "* 絕招（ultimate）容易閃避"
+        "* 絕招容易閃避"
       ],
       "content_hash": "71b5e3bc3d3b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:19:46.124433Z"
+      "timestamp": "2026-03-26T04:29:45.461128Z"
     },
     "3.1.1": {
-      "title": "坦克剋星",
+      "title": "坦克殺手",
       "description": "",
       "content": [
-        "![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵是《鬥陣特攻》中處理![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克最強的英雄。他能瞬間融化![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的防護力場，並在對方獲得下一個力場或逃跑前將其擊殺。許多![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克玩家感到被迫更換成![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵的專屬剋星，而無法使用自己的本命英雄。擁有![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵的隊伍總能在坦克對決中勝出，因為他的傷害過高，若沒有絕招輔助，單靠治療是無法抵擋的。"
+        "![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵是《鬥陣特攻》中處理![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克最強的英雄。他能迅速融化![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅的防護力場，並在她獲得下一個力場或逃跑前將其擊殺。許多![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克玩家感到被迫更換成能反制![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵的英雄，而不得不放棄他們的主力角色。擁有![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵的隊伍總能在坦克對決中勝出，因為他的傷害過高，若沒有絕招輔助，根本無法透過治療來抵擋。"
       ],
       "content_hash": "d67cca4f1f84",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:19:48.306294Z"
+      "timestamp": "2026-03-26T04:29:47.732895Z"
     },
     "3.1.2": {
       "title": "坦克型輸出",
       "description": "",
       "content": [
-        "在輸出英雄名單中擁有最高的生命值、護甲值、被動傷害減免，且在切換成機槍模式（Turret Form）時，他會將頭部判定區域隱藏在身後。在標準模式中，他還擁有兩項自我維持能力。這種生存能力使 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 成為優秀的側襲者（Flanker）反制手段，因為側襲者英雄根本無法在短時間內將他擊殺。"
+        "在輸出英雄名單中擁有最高的生命值、護甲值、被動傷害減免，且在切換為機兵模式時，會將頭部判定隱藏在身後。在標準模式中，他還擁有兩個自我維持能力。這種生存能力使 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 成為優秀的側襲者剋星，因為側襲者英雄根本無法在短時間內將他擊殺。"
       ],
       "content_hash": "8bdf205e8bf7",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:19:50.210687Z"
+      "timestamp": "2026-03-26T04:29:49.727209Z"
     },
     "3.1.3": {
       "title": "區域封鎖",
       "description": "",
       "content": [
-        "榴彈、突擊模式以及火砲絕招在掌控區域和視線範圍方面表現優異。榴彈的大範圍爆炸會迫使敵人逃離，而突擊模式的高傷害使得站在 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 的視線範圍（LoS）內變得過於危險。每當敵人試圖爭奪目標點時，他的絕招非常適合用來轟炸任何想待在點位上的敵人。"
+        "榴彈、突擊模式以及火砲絕招在控制區域與視線方面表現卓越。榴彈的大範圍爆炸迫使敵人逃離，而突擊模式的高傷害使得站在 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 的視線（LoS）內變得過於危險。每當敵人試圖爭奪目標點時，他的絕招非常適合用來轟炸任何想待在點位上的敵人。"
       ],
       "content_hash": "119a02d881fb",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:19:51.502345Z"
+      "timestamp": "2026-03-26T04:29:51.544130Z"
     },
     "3.2.1": {
       "title": "依賴單一冷卻時間",
       "description": "",
       "content": [
-        "敵方隊伍只需要針對 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)強襲模式（Configuration: Assault）來規劃他們的策略。如果他們有辦法處理 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵（Bastion）的砲塔型態，贏得會戰就會變得相當容易。![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵（Bastion）玩家如果浪費了這個冷卻時間，會讓他們的隊伍暴露在危險之中，並陷入重大的進攻劣勢。"
+        "敵方隊伍只需要針對 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)強攻模式（Configuration: Assault）來規劃他們的策略。如果他們有辦法處理 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵在砲塔型態下的威脅，贏得會戰就會變得相當容易。![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵玩家如果浪費了這個冷卻時間，將會使隊伍暴露在危險之中，並處於重大的進攻劣勢。"
       ],
       "content_hash": "24dbd83430d9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:19:53.278488Z"
+      "timestamp": "2026-03-26T04:29:53.751894Z"
     },
     "3.2.2": {
       "title": "巨大且緩慢",
       "description": "",
       "content": [
-        "壁壘機兵的機兵型態是一把雙面刃。![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵能造成高額傷害，但移動速度非常緩慢，這使他很容易被擊殺。即使在第 17 賽季縮小體型後，他的受擊判定範圍（hitbox）依然比大多數非坦克英雄來得大。雖然他具備足以彌補此缺點的生存能力，但也可能因此成為敵方累積絕招能量的來源，並被投射物攻擊瞬間擊潰。"
+        "壁壘機兵的機兵模式是一把雙面刃。![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵能造成高額傷害，但移動速度非常緩慢，這使他很容易被擊殺。即便在第 17 賽季縮小了體型，他的受擊判定範圍依然比大多數非坦克英雄來得大。雖然他具備足以彌補此缺點的生存能力，但也可能因此成為敵方累積絕招能量的來源，並遭到投射物攻擊瞬間擊殺。"
       ],
       "content_hash": "c71ff8b1373c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:19:55.281224Z"
+      "timestamp": "2026-03-26T04:29:55.818503Z"
     },
     "3.2.3": {
-      "title": "大多數英雄都能輕易躲避終極技能",
+      "title": "大多數英雄都能輕易躲避絕招",
       "description": "",
       "content": [
-        "除了像 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜 或 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔 這種沒有逃生能力的英雄外，大多數英雄在聽到 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 的終極技能音效後，都有足夠的手段進行躲避。除非你能與隊友的暈眩技能進行連攜，否則面對許多隊伍陣容時，他的終極技能很難取得擊殺。"
+        "除了像 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜 或 ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔 這種沒有逃脫能力的英雄外，大多數英雄在聽到音效提示後，都有足夠的手段來躲避 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 的絕招。除非你能與隊友的暈眩技能進行搭配，否則面對許多隊伍陣容時，他的絕招很難取得擊殺。"
       ],
       "content_hash": "d024f7f5e97d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:19:56.772198Z"
+      "timestamp": "2026-03-26T04:29:58.006898Z"
     },
     "4.1": {
       "title": "主要攻擊：組態：偵查者（Configuration: Recon）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/d49d78c271eff986.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-recon.png)組態：偵查者（Configuration: Recon）的訣竅**",
-        "* 採取主動",
-        "* 即使你不在高傷害的砲塔型態，也不代表你應該被動地等待。當處於偵查者模式時，仍要專注於進行騷擾並對敵人施加壓力。",
+        "![](/data/assets/guide/d49d78c271eff986.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-recon.png)組態：偵查者（Configuration: Recon）的操作技巧",
+        "* 保持主動",
+        "* 即使你不在高傷害的砲塔型態，也不代表你應該被動地等待。在偵查者模式下，依然要專注於進行騷擾並對敵人施加壓力。",
         "* 與隊伍保持在一起並靠近掩體",
-        "* 當 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)組態：突擊（Configuration: Assault）處於冷卻狀態時，你會變得較為脆弱。如果你僅是因為砲塔技能無法使用而處於偵查者模式，請待在隊伍後方，因為敵人會伺機發動突襲。"
+        "* 當 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)組態：強襲（Configuration: Assault）處於冷卻時間時，你會變得更加脆弱。如果你是因為沒有砲塔型態可用才處於偵查者模式，請待在隊伍後方，因為敵人會伺機發動突襲。"
       ],
       "content_hash": "67da4139a96c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:19:58.482384Z"
+      "timestamp": "2026-03-26T04:30:00.389925Z"
     },
     "4.2": {
       "title": "次要攻擊：A-36 戰術榴彈（A-36 Tactical Grenade）",
       "description": "",
       "content": [
         "**![](/data/assets/guide/6ad6a85052cee304.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fa-36-tactical-grenade.png)A-36 戰術榴彈（A-36 Tactical Grenade）使用技巧**",
-        "* 榴彈跳（Nade Jump）",
-        "* * 將榴彈射擊至 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵（Bastion）的腳下，爆炸產生的衝擊力會將他炸向空中。",
-        "* 這對於佔領高處位置、從敵人身邊撤退，或是以突擊模式（Assault mode）進入進攻位置非常有用。",
-        "* 利用擊退效果（Use the Knockback）",
-        "* * 有意地使用榴彈的擊退效果來輕鬆進行後續傷害。敵人會短暫地被鎖定在空中移動軌跡中，這使他們變得容易追蹤。",
-        "* 切斷後排（Cut off Backline）",
-        "* * 將榴彈射向敵方後排會因為範圍傷害（AoE damage）迫使他們移動。",
-        "* 命中目標會造成傷害並導致他們撤退進行治療。",
-        "* 即使沒命中，榴彈帶來的威脅依然能創造空間。當試圖擊殺 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）時，朝試圖治療他們的 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援（Supports）投擲榴彈，是擊殺 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）的最佳方式。"
+        "* 榴彈跳",
+        "* * 將榴彈射擊在 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵（Bastion）的腳下，爆炸會將他炸向空中。",
+        "* 這對於佔領高處位置、從敵人身邊撤退，或是進入強襲模式（Assault mode）的攻擊位置非常有用。",
+        "* 利用擊退效果",
+        "* * 有意地利用榴彈的擊退效果來進行簡單的後續傷害。敵人會短暫地被鎖定在空中移動軌跡中，這使他們變得容易追蹤。",
+        "* 切斷後排",
+        "* * 向敵方後排射擊榴彈，會因為範圍傷害（AoE damage）迫使他們移動。",
+        "* 命中目標會對他們造成傷害，並迫使他們撤退進行治療。",
+        "* 即使沒命中，榴彈帶來的威脅感依然能創造空間。當試圖擊殺 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）時，對試圖治療他們的 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援（Supports）投擲榴彈，是擊殺 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克（Tank）的最佳方式。"
       ],
       "content_hash": "4a695f82d074",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:01.604464Z"
+      "timestamp": "2026-03-26T04:30:03.517468Z"
     },
     "4.3": {
-      "title": "[SHIFT]：重組（Reconfigure）",
+      "title": "[SHIFT]：重組",
       "description": "",
       "content": [
-        "![](/data/assets/guide/f84538f13c413123.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Freconfigure.png)重組（Reconfigure）的使用技巧",
-        "* 何時切換至強襲模式（Assault）",
+        "![](/data/assets/guide/f84538f13c413123.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Freconfigure.png)重組的使用技巧",
+        "* 何時切換為突擊模式",
         "* * 反制敵方進攻",
-        "* * 當敵人執意要推進至我方陣地時，強襲模式（Assault）可以將他們逼退。",
+        "* * 當敵人執意要推進到我方陣地時，突擊模式可以將他們逼退。",
         "* 擊殺暴露的目標",
-        "* * 當敵人遠離掩體，或是沒有任何快速保護自己的手段時，切換至強襲模式（Assault）並將他們撕碎。",
-        "* 何時切換至偵查者（Recon）模式",
-        "* * 提早開始強襲模式（Assault）的冷卻時間",
-        "* * 在變形後，若整個敵方隊伍撤退導致你沒有目標，你可以取消變形切換回偵查者（Recon）模式，藉此更快開始冷卻時間。",
+        "* * 當敵人遠離掩體或沒有快速保護自己的手段時，立即切換為突擊模式並將其粉碎。",
+        "* 何時切換為偵查者模式",
+        "* * 提早開始突擊模式的冷卻時間",
+        "* * 在切換後，若敵方全隊撤退導致你失去目標，你可以取消變形並切換回偵查者模式，讓冷卻時間提早開始計算。",
         "* 為了逃跑",
-        "* * 當你受到敵方強大壓力而難以招架時，切換回偵查者（Recon）模式，這樣你就能跑得更快。"
+        "* * 當你受到敵方強大壓力而難以招架時，切換回偵查者模式，這樣你就能跑得更快。"
       ],
       "content_hash": "fe7b6b8bcf4a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:03.872959Z"
+      "timestamp": "2026-03-26T04:30:05.820161Z"
     },
     "4.4": {
-      "title": "（重組期間）主要攻擊：設定：突擊",
+      "title": "（重新配置期間）主要攻擊：配置：突擊",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)設定：突擊的技巧**",
+        "![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)配置：突擊的技巧",
         "* 坦克剋星",
-        "* * ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tanks either need to use up all their damage mitigation abilities to survive a turret-ing ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion, or they die.",
-        "* 突擊模式是你最強的對抗坦克工具，因為你可以輕易地按住開火鍵，對 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克 傾瀉大量傷害。",
-        "* 特別是針對那些沒有多重傷害減免技能的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克 時效果更佳。",
+        "* ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克必須耗盡所有傷害減免技能才能在架設成砲台的 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 面前存活，否則就會陣亡。",
+        "* 突擊模式是你最強大的反坦克工具，因為只要按住開火鍵，就能輕鬆對 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克 造成高額傷害。",
+        "* 特別是針對那些沒有多種傷害減免技能的 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克 時效果更佳。",
         "* 控制視線",
-        "* * 當 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 處於突擊模式時，即刻死亡的威脅會讓所有敵方英雄不敢輕易探頭。",
-        "* 每當你的隊伍需要佔領一條視線時，就切換成砲擊模式，壓制任何停留在你視線範圍（LoS）內的敵人。",
-        "* 待在掩體附近",
-        "* * 雖然你擁有驚人的傷害和不錯的生存能力，但這並不代表你無敵。成為一名優秀 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 玩家最重要的關鍵就是活下去。務必確保身體有一部分被角落遮擋，或是隨時保持在能迅速躲回掩體後的距離，以防生命值過低。"
+        "* 當 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 處於突擊模式時，即刻死亡的威脅會讓所有敵方英雄不敢輕易露頭。",
+        "* 每當隊伍需要佔據一條視線時，就切換成砲台模式，壓制任何停留在你視線範圍內的敵人。",
+        "* 保持在掩體附近",
+        "* 雖然你擁有驚人的傷害和不錯的生存能力，但這並不代表你是無敵的。成為一名優秀 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 玩家最重要的關鍵就是活下去。務必確保身體部分處於角落掩體後方，或是隨時保持在能迅速躲避的位置，以便在生命值偏低時撤退。"
       ],
       "content_hash": "e8bd5ee6c1e9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:07.445527Z"
+      "timestamp": "2026-03-26T04:30:08.696671Z"
     },
     "4.5": {
-      "title": "絕招：設定：砲擊（Configuration: Artillery）",
+      "title": "絕招：設定：火砲模式",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/a34f91117dd5373e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-artillery.png)設定：砲擊（Configuration: Artillery）使用技巧**",
-        "* 連段",
-        "* 若要確保發揮價值並取得擊殺，最簡單的方式就是將你的絕招與任何隊友的控場技能進行連段。![](/data/assets/guide/eacdf2c5d0a248f5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgraviton-surge.png)重力噴湧（Graviton Surge）、![](/data/assets/guide/c95892af1b952964.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgravitic-flux.png)重力流（Gravitic Flux）、![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊（Earthshatter）、![](/data/assets/guide/135c836b3c9c24ac.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fterra-surge.png)大地崩裂（Terra Surge）以及![](/data/assets/guide/7578824db04164d2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblizzard.png)暴雪（Blizzard）都是很好的例子，這些絕招能控場敵人，讓![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵的砲擊確保命中。",
+        "**![](/data/assets/guide/a34f91117dd5373e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-artillery.png)設定：火砲模式的技巧**",
+        "* 連招",
+        "* 若要確保發揮價值並取得擊殺，最簡單的方式就是將你的絕招與任何隊友的控場技能搭配使用。![](/data/assets/guide/eacdf2c5d0a248f5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgraviton-surge.png)重力噴湧、![](/data/assets/guide/c95892af1b952964.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fgravitic-flux.png)重力流、![](/data/assets/guide/7d8540657f6fd9b7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fearthshatter.png)裂地重擊、![](/data/assets/guide/135c836b3c9c24ac.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fterra-surge.png)大地湧流以及![](/data/assets/guide/7578824db04164d2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fblizzard.png)暴雪都是很好的例子，這些絕招能控場敵人，讓![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵的火砲模式攻擊確保命中。",
         "* 射擊位置與時機",
-        "* 第一發砲擊會警示目標並迫使他們移動。利用接下來的兩發砲擊來追蹤並預判他們的走位。",
+        "* 第一發砲彈會警示目標並迫使他們移動。利用接下來的兩發砲彈來追蹤並預判他們的移動路徑。",
         "* 目標選擇",
-        "* 兩發外圈命中即可擊殺任何輸出型英雄與![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)醫護兵，因此他們應該是你的首選目標。",
+        "* 兩發外圈命中的砲彈足以擊殺任何輸出型英雄與![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)醫護兵，因此他們應當是你的首選目標。",
         "* 像![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔和![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜這類沒有逃脫技能的英雄，永遠是免費的目標。",
-        "* 引誘逃脫技能",
-        "* 當目標是擁有逃脫技能的英雄（例如![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉的![](/data/assets/guide/3645240b7a0b07c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffade.png)消散（Fade））時，請等到看到他們使用技能後，或是設法將其誘出。",
-        "* 例如：對![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉僅使用一發砲擊來誘出![](/data/assets/guide/3645240b7a0b07c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffade.png)消散（Fade）。一旦確認她移動的位置，你就可以使用第二和第三發砲擊來完成擊殺。"
+        "* 引誘出逃脫技能",
+        "* 當目標是擁有逃脫技能的英雄（例如![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉的![](/data/assets/guide/3645240b7a0b07c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffade.png)消散）時，請等到看見他們使用技能後再進攻，或是設法引誘他們交出技能。",
+        "* 例如：對![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉只使用一發砲彈來引誘她交出![](/data/assets/guide/3645240b7a0b07c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffade.png)消散。一旦確認她的移動位置，你就可以接著使用第二發和第三發砲彈來完成擊殺。"
       ],
       "content_hash": "473bea90b9c6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:10.808878Z"
+      "timestamp": "2026-03-26T04:30:13.362002Z"
     },
     "4.6": {
       "title": "（被動技能）：鋼鐵防護（Ironclad）",
       "description": "",
       "content": [
-        "**鋼鐵防護（Ironclad）的技巧**",
-        "* 結合護甲生命值、20% 傷害減免，以及在突擊模式下沒有正面爆頭判定，![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵（Bastion）身為一名輸出型英雄，能夠承受大量的傷害。"
+        "鋼鐵防護（Ironclad）的技巧",
+        "* 結合護甲生命值、20% 傷害減免，以及在突擊模式下沒有正面頭部受擊判定，![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵（Bastion）作為一名輸出型英雄，能夠承受大量的傷害。"
       ],
       "content_hash": "b47b5cac5c31",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:12.002637Z"
+      "timestamp": "2026-03-26T04:30:15.338846Z"
     },
     "5.1.1": {
-      "title": "配置重載（Configuration Reload）",
+      "title": "配置重載",
       "description": "在變更配置時，重置 A-36 戰術手榴彈（A-36 Tactical Grenade）的冷卻時間。",
       "content": [
-        "* 在啟動 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)配置：強襲（Configuration: Assault）之前，刻意先使用 ![](/data/assets/guide/6ad6a85052cee304.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fa-36-tactical-grenade.png)A-36 戰術手榴彈（A-36 Tactical Grenade），並在其持續時間結束前再次使用。",
-        "* 手榴彈非常適合用來進行爆發傷害，以及壓制躲在轉角處且不在你視線範圍（LoS）內的敵人。",
-        "* 這通常是首選的次要特殊能力（minor perks），而裝甲火砲（Armored Artillery）則更偏向於針對性選擇（counter-pick）。"
+        "* 在啟動 ![](/data/assets/guide/6ad6a85052cee304.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fa-36-tactical-grenade.png)配置：強襲（Configuration: Assault）之前，刻意使用 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)A-36 戰術手榴彈（A-36 Tactical Grenade），並在其持續時間結束前再次使用。",
+        "* 手榴彈非常適合用來進行爆發傷害，以及壓制躲在轉角處、脫離你視線（LoS）的敵人。",
+        "* 這通常是首選的次要特殊能力（minor perks），而裝甲火砲（Armored Artillery）則更偏向於針對性選擇。"
       ],
       "content_hash": "c264a19dd8e9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:14.185254Z"
+      "timestamp": "2026-03-26T04:30:17.515843Z"
     },
     "5.1.2": {
-      "title": "裝甲砲擊（Armored Artillery）",
-      "description": "設定：砲擊（Configuration: Artillery）會賦予 300 點暫時性超量生命值。",
+      "title": "裝甲火砲",
+      "description": "設定：火砲會賦予 300 點暫時性超量生命。",
       "content": [
-        "* 對抗突襲（dive）表現優異",
-        "* 當多名英雄對你進行全面突襲（full dive）且你無法逃脫時，超量生命值可以保住你的性命，並迫使敵人撤退。",
-        "* 發動絕招並立即在自己身上以及攻擊者身上各投下一發砲擊。如果隊友在附近，這應該能為他們爭取足夠的時間來保護你。"
+        "* 對抗突擊陣容效果良好",
+        "* 當多名英雄同時對你進行突擊且你無法逃脫時，超量生命能保住你的性命並迫使敵人撤退。",
+        "* 發動絕招並立即在自己身上以及攻擊者身上各投下一枚火砲。如果有隊友在附近，這應該能為他們爭取足夠的時間來保護你。"
       ],
       "content_hash": "4886ddb352bd",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:15.894028Z"
+      "timestamp": "2026-03-26T04:30:19.791280Z"
     },
     "5.2.1": {
-      "title": "林霍姆炸藥（Lindholm Explosives）",
-      "description": "配置：突擊（Assault）的武器改為緩慢發射爆裂彈，而非旋轉機砲。",
+      "title": "林霍姆爆裂物",
+      "description": "配置：突擊模式的武器改為緩慢發射爆裂砲彈，而非旋轉機砲。",
       "content": [
         "* 對於壓制後排的效果更佳",
-        "* 範圍傷害（splash damage）不僅會強迫 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg) 醫護兵（Supports）撤退，還會迫使他們躲進掩體後方，以避免受到範圍傷害的波及。這種額外騰出的空間，通常能讓你的隊伍擊殺其他不在醫護兵視野（LoS）範圍內的敵人。",
+        "* 範圍傷害迫使 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg) 支援不僅要撤退，還必須躲在掩體後方，以免受到範圍傷害的波及。這種額外的空間通常能讓你的隊伍擊殺那些脫離支援視線（LoS）的其他敵方目標。",
         "* 傷害差異",
-        "* 單體每秒傷害（DPS）輸出較低，但換取了範圍傷害（AoE damage）。"
+        "* 單體每秒傷害輸出較低，但換取了範圍傷害（AoE）能力。"
       ],
       "content_hash": "b0d5c5b55bfc",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:17.594365Z"
+      "timestamp": "2026-03-26T04:30:21.706390Z"
     },
     "5.2.2": {
-      "title": "自我修復（Self-Repair）",
+      "title": "自我修復",
       "description": "按下 E 鍵來快速治療自己。",
       "content": [
         "* 大幅提升生存能力",
-        "* ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵本身就相當硬，加上自我修復（Self-Repair），對許多英雄來說簡直是不死之身。主要用於治療自己，以減輕![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援的負擔，並讓自己更快恢復滿血狀態。",
+        "* ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵本身就相當硬，有了自我修復後，對許多英雄來說他簡直難以擊殺。主要用於治療自己以減輕![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援的負擔，並讓自己更快恢復滿血狀態。",
         "* 提升戰場續航力",
-        "* 在突擊模式（Assault mode）期間，敵人如果不逃跑就會鎖定你攻擊。在治療與射擊之間切換，這樣你就不必完全撤出戰鬥。",
+        "* 在突擊模式期間，如果敵人沒有逃跑，他們就會鎖定你作為目標。在治療與射擊之間交替使用，這樣你就不必完全撤出戰鬥。",
         "* 搭配裝甲火砲（Armored Artillery）來反制機動突擊",
-        "* 面對全機動突擊陣容時，同時裝備這兩項特殊能力（perks）能賦予![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵足夠的自我維持能力，以在多名敵人同時發動突擊時存活下來。"
+        "* 面對全機動突擊陣容時，同時裝備這兩項特殊能力能給予![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵足夠的自我維持能力，以在多名敵人同時發動突擊時存活下來。"
       ],
       "content_hash": "f0f56f3ad453",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:20.035606Z"
+      "timestamp": "2026-03-26T04:30:24.332259Z"
     },
     "6.1": {
       "title": "最佳地圖",
       "description": "",
       "content": [
-        "最適合 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵的地圖通常有利於中距離戰鬥。![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵不希望側襲者（Flanker）和近戰英雄靠近，但也不希望像 ![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏這樣的遠程英雄在長距離交戰中佔據優勢。他應盡可能佔據高處，並能透過榴彈跳躍（Grenade jumps）抵達大多數區域。擁有眾多側襲路線的地圖對 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵來說相當棘手，因為他最擅長的是在單一視線範圍內進行直線射擊。擁有狹長走廊式視線的地圖，是 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵架設強襲模式（Assault configuration）的絕佳地點。"
+        "最適合 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵的地圖通常有利於中距離戰鬥。![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵不希望側襲者和近戰英雄靠近他，但也不希望像 ![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏這樣的遠程英雄在遠距離佔據優勢。他應盡可能佔據高處，並能利用榴彈跳躍抵達大多數區域。對於 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵來說，擁有多條側襲路線的地圖會比較困難，因為他最擅長在單一視線範圍內進行直線射擊。擁有狹長走廊般視線的地圖，是 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵架設強襲模式的絕佳地點。"
       ],
       "content_hash": "1fb97609e7ef",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:21.725266Z"
+      "timestamp": "2026-03-26T04:30:26.998477Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "以 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 為核心建立的隊伍陣容，能確保他在「強襲模式」期間存活並持續輸出。![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)能夠透過傷害減免直接保護他的坦克是最佳人選。![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)擁有高爆發治療量或某種形式無敵技能的支援角色，能讓 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 以極具侵略性的方式使用砲塔型態。在輸出位方面，![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 最能從那些能進行側襲並將敵方注意力吸引至與他相反方向的英雄身上獲益。他的隊伍應圍繞著他的砲塔型態進行戰術佈局，正如敵方隊伍也會針對這點進行應對一樣。當 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 進入砲塔型態時，全隊應同步發動進攻。"
+        "以 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵為核心建構的隊伍陣容，能確保他在「強襲模式」期間存活並持續輸出。![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)能直接透過傷害減免來保護他的戰士（Bruiser）是最合適的選擇。![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)擁有高爆發治療量或某種形式無敵技能的醫護兵（Medic），能讓 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵以極具侵略性的方式使用砲塔型態。在輸出位方面，![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵最能從那些能進行側襲（Flanker）並將敵方注意力吸引至與他相反方向的英雄身上獲得優勢。他的隊伍應當像敵方隊伍一樣，圍繞著他的砲塔型態來進行戰術佈局。當 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵進入砲塔型態時，全隊應同步發起進攻。"
       ],
       "content_hash": "17a0826167d8",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:23.886761Z"
+      "timestamp": "2026-03-26T04:30:29.758412Z"
     },
     "7.1": {
       "title": "個別英雄搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬",
-        "* ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的屏障與動能掌握（Grasp）可以交替使用，以保護 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵免受傷害與控場效果影響。他也可以利用護盾切斷敵方 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克與其 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援的治療連結，讓 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵更容易擊殺該名 ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)坦克。當兩位英雄都有絕招時，在 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬將所有人重摔在地之前射擊，就能瞬間擊殺所有被困在重力流（Flux）中的目標。",
-        "* 如果 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬在 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵進入機槍模式時成功以 ![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)質量吸附（Accretion）暈眩敵人，該名敵人基本上必死無疑。",
-        "![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏",
-        "* ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏負責側襲並切入後排，而 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵則留在隊伍後方，從正面施加攻擊壓力。這種分散敵方注意力的打法讓對手非常難以應對。![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏若未受到干擾，能輕易擊殺敵方 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援，但如果敵方全員轉身去協助 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援，![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵就能直接摧毀敵方前線。此外，當 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵在受到如奈米強化（Nano）等 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援絕招加持並進入機槍模式時，![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏的招架（Deflect）可以用來保護他。",
-        "![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特",
-        "* 巴帝斯特是 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵最完美的 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援搭檔，因為 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵體型龐大且移動緩慢，讓巴帝斯特能輕鬆以治療彈道直接命中。當 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵陷入危險時，對他丟出不滅力場（Lamp），他通常能在敵人破壞力場並擊殺 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵之前就先解決對方。此外，![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵利用 ![](/data/assets/guide/d56469975ca68b87.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Famplification-matrix.png)增幅矩陣（Amplification Matrix）的效果比任何其他英雄都好。在增幅矩陣中開啟機槍模式，能瞬間融化任何無法及時逃脫的目標。"
+        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬\n* ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬的屏障與動能掌握可以輪流使用，以保護 [[__OWH_IMG_2__]]壁壘機兵免受傷害與控場效果影響。他也可以利用護盾切斷敵方 [[__OWH_IMG_3__]]坦克與其 [[__OWH_IMG_4__]]支援的治療連結，讓 [[__OWH_IMG_5__]]壁壘機兵更容易擊殺該名 [[__OWH_IMG_6__]]坦克。當兩位英雄都有絕招時，在 [[__OWH_IMG_7__]]席格馬將所有人重摔在地之前先將所有火力傾瀉而出，就能瞬間擊殺所有被困在重力流（Flux）中的目標。",
+        "* ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)Sigma's Barrier and Grasp can be cycled to protect ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion from damage and crowd control. He can also use his shield to cut off the enemy ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tank from their ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)Support's healing to make it easier for ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion to kill the ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tank. When both heroes have their ults, place all shots just before ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)Sigma slams everyone down and you’ll instantly kill everyone caught in the Flux.",
+        "![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)源氏\n* ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)源氏會進行側襲並切入敵方後排，而 ![](/data/assets/guide/b87166103290a2c3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Faccretion.png)壁壘機兵則留在隊友身邊，從正面戰線施加壓力。這種分散敵方注意力的打法讓對手非常難以應對。![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)源氏可以輕鬆擊殺沒有隊友保護的 [[__OWH_IMG_4__]]支援，但如果敵方全員轉頭去支援 [[__OWH_IMG_6__]]支援，[[__OWH_IMG_5__]]壁壘機兵就能直接摧毀敵方前線。此外，當 [[__OWH_IMG_8__]]壁壘機兵在受到如奈米強化（Nano）等 [[__OWH_IMG_9__]]支援絕招加持並進入機兵模式時，[[__OWH_IMG_7__]]源氏的招架（Deflect）可以用來保護他。",
+        "![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)巴帝斯特\n* 巴帝斯特是 [[__OWH_IMG_2__]]壁壘機兵最完美的 ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)支援搭檔，因為 [[__OWH_IMG_3__]]壁壘機兵巨大的體型與緩慢的移動速度，讓巴帝斯特能輕易以治療彈道命中他。當 [[__OWH_IMG_4__]]壁壘機兵陷入危險時，在他腳下丟出不滅力場（Lamp），他通常能在敵人摧毀力場並擊殺 [[__OWH_IMG_5__]]壁壘機兵之前就先解決對方。此外，[[__OWH_IMG_6__]]壁壘機兵能比任何其他英雄更有效地利用 [[__OWH_IMG_7__]]增幅矩陣（Amplification Matrix）。在增幅矩陣後方開啟突擊模式，任何無法瞬間逃脫的敵人將會被瞬間融化。",
+        "* ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)Genji flanks and dives the backline while ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion stays with the rest of their team and pressures the attack from main. The split attention is very difficult for enemy teams to deal with. ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)Genji easily kills ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)Supports if they don’t get peel, but ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion will delete the frontline if everyone is turning around to help with ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)Supports. Additionally, ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)Genji's deflect can be used to protect ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion if he’s turretting while boosted by a ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)Support ult like Nano.",
+        "![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)Baptiste",
+        "* Bap is the perfect ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)Support for ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion because ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion's large body and slow movement make it easy for Bap to land direct hits with his healing projectiles. When ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion gets into danger, throw lamp on him and he’ll likely kill the enemy before they have time to break the lamp and kill ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion. Also, ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)Bastion utilizes the ![](/data/assets/guide/d56469975ca68b87.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Famplification-matrix.png)Amplification Matrix better than any other hero. Assault mode through the window melts anyone who can’t instantly escape."
       ],
       "content_hash": "f2ec3f5ff717",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:28.369629Z"
+      "timestamp": "2026-03-26T04:30:35.070532Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "雖然有些玩家專精於 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵，但你最常看到他被用來作為反制坦克英雄的選擇，例如 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特、![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)多米娜，以及 ![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓。",
-        "如果你想參與這場剪刀石頭布的博弈，![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎、![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 以及 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬都是反制壁壘機兵的優秀坦克選擇。",
-        "在對抗 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵時，你最需要擔心的是他的 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)強襲模式（Configuration: Assault）。相比之下，他在偵查模式下的殺傷力非常低。",
-        "為了讓他浪費掉砲塔型態，你可以進行試探性進攻，或是向前推進但不使用長冷卻時間的技能，接著在他 ![](/data/assets/guide/f84538f13c413123.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Freconfigure.png)重新配置（Reconfigures）時撤退。請保持耐心，因為砲塔模式只會持續 6 秒。不要隨意探頭，否則你可能會被擊殺，或是必須消耗資源來保命。",
-        "在他砲塔模式結束後發動積極進攻。他在偵查模式下的傷害很低，因此你可以忽略他，並在他 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)強襲模式（Configuration: Assault）的冷卻期間轉而攻擊他的 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援英雄。"
+        "雖然有些玩家專精於 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵，但你最常看到他被用來作為反制坦克英雄的選擇，例如 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特、![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)多米娜以及 ![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓。",
+        "如果你想參與這場剪刀石頭布般的博弈，![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎、![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 以及 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬都是反制壁壘機兵的優秀坦克選擇。",
+        "當你在對抗 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵時，最需要擔心的就是他的 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)強襲模式（Configuration: Assault）。相比之下，他在偵查模式下的威脅性非常低。",
+        "為了讓他浪費掉砲塔型態，你可以進行試探性進攻，或是向前推進但不使用長冷卻時間的技能，接著在他進行 ![](/data/assets/guide/f84538f13c413123.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Freconfigure.png)重新配置（Reconfigures）時撤退。請保持耐心，因為砲塔模式只會持續 6 秒。不要隨意探頭，否則你可能會被擊殺，或是必須消耗資源來保命。",
+        "在他的砲塔模式結束後積極進攻。他在偵查模式下的傷害很低，因此你可以在他的 ![](/data/assets/guide/8d001c017ec66f5c.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fconfiguration-assault.png)強襲模式（Configuration: Assault）冷卻期間忽略他，轉而鎖定他的 ![](/data/assets/guide/28f559449d0692f6.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsupport.svg)支援英雄。"
       ],
       "content_hash": "47f7752e1ba3",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:31.038278Z"
+      "timestamp": "2026-03-26T04:30:38.899266Z"
     },
     "8.2": {
-      "title": "特定英雄反制名稱",
+      "title": "特定英雄剋制名單",
       "description": "",
       "content": [
-        "歐瑞莎",
-        "D.Va",
-        "席格馬"
+        "* 歐瑞莎",
+        "* D.Va",
+        "* 席格馬"
       ],
       "content_hash": "80f29b86e4bd",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:32.642371Z"
+      "timestamp": "2026-03-26T04:30:40.611892Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:19:37.780683Z"
+    "timestamp": "2026-03-26T05:10:57.873616Z"
   }
 }

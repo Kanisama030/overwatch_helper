@@ -6,45 +6,45 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "這位手持雙管散彈槍、令所有坦克玩家聞風喪膽的冷酷殺手。![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)死神（Reaper）擁有非常明確的近距離戰鬥者定位。在中遠距離下，他幾乎無法為隊伍提供任何價值。但只要他能成功貼近敵方臉上，便能瞬間取得絕對優勢。",
-        "玩家必須具備足夠的紀律與耐心，才能執行隱蔽的側襲（Flanker）路線，並在前往目標的途中避免受到傷害。他在快速消滅落單敵人以及與坦克正面對決方面同樣有效。根據地圖與對戰組合的不同，他可以靈活調整目標優先級，並擊殺敵方陣容中最脆弱的目標。"
+        "這位手持雙管散彈槍、冷酷無情的殺手，是所有坦克玩家揮之不去的夢魘。![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)死神在遊戲中擔任極為明確的近距離戰鬥者角色。在中遠距離下，他幾乎無法為隊伍提供任何價值。但只要他能成功貼近敵人的臉，就能瞬間取得絕對優勢。",
+        "玩家必須具備足夠的紀律與耐心，才能執行隱蔽的側襲，並在前往目標的途中避免受到傷害。他在快速消滅落單敵人以及與坦克正面對決方面同樣有效。根據地圖與對戰組合的不同，他可以調整自己的目標優先級，並精準擊殺最脆弱的敵人。"
       ],
       "content_hash": "8ac654f00e4c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:34.697053Z"
+      "timestamp": "2026-03-26T04:31:00.732722Z"
     },
     "1.1.1": {
-      "title": "遊玩風格",
+      "title": "遊玩方式",
       "description": "",
       "content": [
         "* 尋找後排落單的敵人。他們最容易被擊殺，且能迅速為你的隊伍帶來優勢。",
-        "* 保留 ![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影型態（Wraith Form）以利生存。試著潛入並發動攻擊，僅在生命值偏低且需要撤退時才使用幽影型態。",
-        "* 協助你的坦克贏得坦克對決。特別是在坦克鏡像對局中，死神（Reaper）提供的額外傷害能讓你的坦克在對抗敵方坦克時輕鬆取勝。"
+        "* 保留 ![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影傳送（Wraith Form）以利生存。試著潛入並發動攻擊，僅在生命值偏低且需要撤退時才使用幽影傳送。",
+        "* 協助你的坦克贏得坦克對決。特別是在坦克鏡像對局中，死神（Reaper）提供的額外傷害能讓你的坦克在對抗敵方坦克時輕鬆獲勝。"
       ],
       "content_hash": "24972d8ca474",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:37.016535Z"
+      "timestamp": "2026-03-26T04:31:02.817943Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 在他使用幽影傳送（Wraith Form）後集中火力攻擊。即使必須追擊，失去幽影傳送的死神也是容易擊殺的目標。![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)",
-        "* 仔細聆聽暗影步（Shadow Step）的音效提示。你聽到的聲音方向，就是他即將現身並發動攻擊的位置。![](/data/assets/guide/e223d900c52de2b4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshadow-step.png)",
-        "* 使用控場技能（CC）、傷害減免技能或集中火力來反制死亡綻放（Death Blossom）。由於他移動緩慢且無法取消死亡綻放，因此很容易成為目標。![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)"
+        "* Focus him after Wraith. Even if you have to chase after him, a Reaper without ![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)Wraith Form is an easy kill.",
+        "* Listen for ![](/data/assets/guide/e223d900c52de2b4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshadow-step.png)Shadow Step sound cue. Whichever direction you hear it from tells you he’s about to appear and attack you.",
+        "* Counter ![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)Death Blossom with CC, damage mitigation, or focus fire. He’s moving slowly and can’t cancel Blossom, so he’s easy to target."
       ],
       "content_hash": "07010e315030",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:38.778740Z"
+      "timestamp": "2026-03-26T04:31:05.174354Z"
     },
     "2": {
-      "title": "優缺點總結",
+      "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 坦克剋星",
+        "* 坦克殺手",
         "* 後排刺客",
         "* 具備自我生存能力",
         "* 射程較短",
@@ -52,267 +52,267 @@
         "* 護甲"
       ],
       "content_hash": "526cfc0a1143",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:40.374275Z"
+      "timestamp": "2026-03-26T04:31:07.079690Z"
     },
     "3.1.1": {
-      "title": "坦克剋星",
+      "title": "坦克殺手",
       "description": "",
       "content": [
-        "死神（Reaper）散彈槍的寬廣彈道非常適合射擊體型龐大的坦克。這些散彈槍同時也是他自身生命竊取（lifesteal）的主要來源。憑藉著高額傷害與生命竊取能力，大多數坦克都會盡可能避開死神。"
+        "死神的散彈槍具有大範圍的子彈擴散效果，非常適合用來射擊體型龐大的坦克。這些散彈槍同時也是他自身生命竊取治療的主要來源。憑藉著高額傷害與生命竊取能力，大多數坦克都會盡一切代價避開死神。"
       ],
       "content_hash": "04ad8bac9be8",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:42.010828Z"
+      "timestamp": "2026-03-26T04:31:09.270842Z"
     },
     "3.1.2": {
       "title": "後排刺客",
       "description": "",
       "content": [
-        "暗影步（Shadow Step）與幽影傳送（Wraith Form）是非常優秀的側襲工具。死神（Reaper）可以傳送至敵方後方進行突襲，在擊殺目標後，再轉為無敵狀態並撤離。"
+        "暗影步（Shadow Step）與幽影傳送（Wraith Form）是絕佳的側襲工具。死神可以傳送至敵方後方進行突襲，擊殺目標後再進入無敵狀態並撤離。"
       ],
       "content_hash": "a21f4d7f8894",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:43.718396Z"
+      "timestamp": "2026-03-26T04:31:11.213616Z"
     },
     "3.1.3": {
-      "title": "自立自強",
+      "title": "自立更生",
       "description": "",
       "content": [
-        "擁有生命竊取、機動性以及無敵能力，意味著死神（Reaper）不需要過度依賴隊伍的資源。當你覺得隊友提供的支援不足時，他是個絕佳的英雄選擇。透過生命包與生命竊取，死神（Reaper）完全能夠獨自維持自身的生命值。"
+        "擁有生命竊取、機動性以及無敵能力，意味著死神不需要依賴隊伍的資源。當你覺得隊伍提供的支援不足時，他是個絕佳的選擇。透過生命包與生命竊取，死神可以獨自維持滿額的生命值。"
       ],
       "content_hash": "d54488dc4a00",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:45.226323Z"
+      "timestamp": "2026-03-26T04:31:13.284586Z"
     },
     "3.2.1": {
       "title": "射程不佳",
       "description": "",
       "content": [
-        "死神唯一的攻擊手段是地獄火散彈槍（Hellfire Shotguns），由於其衰減距離短且彈道擴散範圍廣，導致死神無法在近距離以外的戰鬥中發揮價值。在消耗階段（poke phases）時，死神幾乎無法做出任何貢獻。此外，為了靠近敵人而深入戰場，也讓死神自身陷入更大的危險之中。"
+        "死神的唯一攻擊手段是地獄火散彈槍（Hellfire Shotguns），由於其衰減距離短且彈道擴散範圍廣，導致死神無法在近距離以外的戰鬥中發揮價值。在消耗階段（poke phases）時，死神幾乎無法做出任何貢獻。此外，為了拉近距離進行輸出，也讓他自己陷入了更大的危險之中。"
       ],
       "content_hash": "3f072001b656",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:46.993581Z"
+      "timestamp": "2026-03-26T04:31:15.371135Z"
     },
     "3.2.2": {
       "title": "容易被反制的絕招",
       "description": "",
       "content": [
-        "在《鬥陣特攻 2》中，絕招被視為能扭轉戰局的關鍵能力。然而對死神來說，他的絕招卻很難穩定發揮價值。死神絕招的施放時機往往太過明顯，且有數不盡的方法可以反制它，從減傷效果與無敵狀態，到昏迷技能與爆發傷害應有盡有。"
+        "在《鬥陣特攻 2》中，絕招被視為能扭轉戰局的關鍵能力。然而對死神來說，他的絕招卻很難穩定發揮價值。絕招的施放時機往往太過明顯，且有無數種方式可以反制，從傷害減免、無敵狀態，到昏迷效果與瞬間爆發傷害皆是如此。"
       ],
       "content_hash": "d0164b5adadb",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:48.720027Z"
+      "timestamp": "2026-03-26T04:31:17.362109Z"
     },
     "3.2.3": {
       "title": "護甲",
       "description": "",
       "content": [
-        "護甲會將死神的散彈槍傷害減半。因此，如果他正在攻擊像歐瑞莎這樣擁有大量護甲的坦克，他所造成的傷害會非常低，直到他和隊友將其護甲削減至基礎生命值為止。"
+        "護甲會將死神的散彈槍傷害減半。因此，如果他正在攻擊像歐瑞莎這樣擁有大量護甲的坦克，他所造成的傷害會非常低，直到他和他的隊伍將護甲削減至其基礎生命值為止。"
       ],
       "content_hash": "8be2b8483887",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:50.094849Z"
+      "timestamp": "2026-03-26T04:31:19.281749Z"
     },
     "4.1": {
-      "title": "主要攻擊：地獄火散彈槍（Hellfire Shotguns）",
+      "title": "主要攻擊：地獄火散彈槍",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/ee63221cfd675de0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhellfire-shotguns.png)地獄火散彈槍（Hellfire Shotguns）的技巧**",
+        "**![](/data/assets/guide/ee63221cfd675de0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhellfire-shotguns.png)地獄火散彈槍的使用技巧**",
         "* 近距離交戰",
-        "* 地獄火散彈槍（Hellfire Shotguns）的傷害會在極近距離下大幅提升。一旦距離超過 10 公尺，傷害就會開始衰減，且子彈擴散會導致大量彈丸落空。",
-        "* 貼臉攻擊敵人能確保最大數量的散彈彈丸命中，進而造成更多傷害並獲得更多生命竊取（lifesteal）。",
-        "* 在 5 公尺或更近的距離下，死神（Reaper）在幾乎所有的對決中都佔有優勢。",
-        "* 暴擊（Critical hits）",
-        "* 一發爆頭加上一發身體射擊可以瞬間消滅所有傷害型英雄（DPS）和支援型英雄（Supports）。（假設在近距離且所有彈丸皆命中）。對於死神（Reaper）來說，瞄準頭部非常重要，因為他依賴爆發傷害來快速擊殺敵人，並在自己陣亡前撤離。近距離交戰也讓爆頭比那些在遠距離作戰的英雄更容易達成。",
-        "* 扣板機的節奏（Trigger discipline）",
-        "* 每半秒射擊一次聽起來很快，但當目標是像朱諾（Juno）這樣移動迅速且體型嬌小的敵人時，請嘗試單獨控制每一次射擊。這樣可以節省彈藥並提高命中率。",
-        "* 此外，當你潛行靠近未發現你的敵人時，請等到進入極近距離後再開火。如果對方沒發現你，不要一看到人就立刻射擊。這樣做才能在戰鬥中將你的優勢發揮到極致。"
+        "* 地獄火散彈槍在極近距離下的傷害會大幅提升。只要距離超過 10 公尺，傷害就會開始衰減，且子彈擴散會導致大量彈丸落空。",
+        "* 貼臉攻擊敵人能確保散彈槍的彈丸全數命中，進而造成更高傷害並獲得更多生命竊取效果。",
+        "* 在 5 公尺或更近的距離下，死神在幾乎所有的決鬥中都佔有優勢。",
+        "* 暴擊",
+        "* 一發爆頭加上一發身體射擊即可瞬間擊殺所有輸出型與支援型英雄（假設在近距離且所有彈丸全數命中的情況下）。對死神來說，瞄準頭部極為重要，因為他仰賴爆發傷害來快速擊殺敵人，並在自身陣亡前撤離。近距離交戰也讓爆頭比那些在遠距離作戰的英雄更容易達成。",
+        "* 射擊節奏控制",
+        "* 每半秒射擊一次聽起來很快，但當目標是像朱諾這種移動迅速且體型嬌小的敵人時，請嘗試單獨觸發每一次射擊。這樣可以節省彈藥並提升準確度。",
+        "* 此外，當你潛行靠近未察覺你的敵人時，請等到進入極近距離再開火。如果對方沒發現你，不要一看到人就立刻射擊。這樣才能在戰鬥中將你的優勢最大化。"
       ],
       "content_hash": "f9ed2c2bab95",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:54.023961Z"
+      "timestamp": "2026-03-26T04:31:23.450168Z"
     },
     "4.2": {
       "title": "[SHIFT]：幽影傳送（Wraith Form）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影傳送（Wraith Form）的使用技巧**",
-        "* 用於無敵狀態",
-        "* 幽影傳送（Wraith Form）的主要用途應該是生存。在理想的情況下，死神（Reaper）玩家應該在不需要使用幽影傳送（Wraith Form）的情況下進行交戰，並在生命值偏低時利用它安全撤離。",
-        "* 如果你使用幽影傳送（Wraith Form）來接近目標，一旦敵方隊伍轉火攻擊你，死神（Reaper）就會成為活靶子。",
+        "關於 ![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影傳送（Wraith Form）的技巧",
+        "* 用於獲得無敵狀態",
+        "* 幽影傳送（Wraith Form）的主要用途應該是生存。在理想狀況下，死神（Reaper）玩家在交戰時應盡量避免使用幽影傳送（Wraith Form），並將其保留在生命值偏低時安全撤退使用。",
+        "* 如果你使用幽影傳送（Wraith Form）來接近目標，一旦敵方隊伍轉火攻擊你，死神（Reaper）就會變成活靶子。",
         "* 用於重新裝填彈藥",
-        "* 啟動並立即取消幽影傳送（Wraith Form）可以快速裝滿彈匣，並幫助死神（Reaper）擊殺生命值較低的目標。你經常會遇到彈藥耗盡而目標卻殘血存活的情況。利用幽影傳送（Wraith Form）的裝填取消技巧，將能幫助你順利完成擊殺。",
-        "* 務必記住一點：在沒有保留幽影傳送（Wraith Form）的情況下，請務必規劃好你的生存路徑。附近有掩體嗎？有生命包嗎？有治療或傷害減免資源嗎？了解這些問題的答案將使你能夠打得更具侵略性。"
+        "* 啟動並立即取消幽影傳送（Wraith Form）可以快速裝滿彈匣，並幫助死神（Reaper）擊殺生命值較低的目標。你經常會遇到彈藥耗盡而目標卻殘血存活的情況。利用幽影傳送（Wraith Form）的裝填取消技巧，將有助於你順利完成擊殺。",
+        "* 務必牢記一點：在那些沒有保留幽影傳送（Wraith Form）的情況下，請務必規劃好你的生存方式。附近有掩體嗎？有治療包嗎？或是能提供治療或傷害減免的資源？掌握這些問題的答案，將能讓你打得更具侵略性。"
       ],
       "content_hash": "03c1a0948862",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:56.777509Z"
+      "timestamp": "2026-03-26T04:31:26.974645Z"
     },
     "4.3": {
       "title": "[E]：暗影步（Shadow Step）",
       "description": "",
       "content": [
-        "![](/data/assets/guide/e223d900c52de2b4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshadow-step.png)暗影步（Shadow Step）的提示",
-        "* 響亮的音效提示",
-        "* 首先，你必須知道當死神抵達他選擇的傳送位置時，會發出附近敵人能聽到的響亮聲音。即便是在牆後，當你使用暗影步靠近敵人時，也要做好面對他們反應的準備。",
-        "* 用於佈局側襲",
-        "* 暗影步非常適合用來繞到敵人後方或上方。接著，蹲下潛行靠近他們，讓他們無法察覺死神的存在。這麼做會讓敵方的後排對死神感到恐懼。",
-        "* 絕對不要在敵人的視野（LoS）內傳送",
-        "* 死神在啟動暗影步以及抵達指定地點時，會成為一個無法移動的目標。如果他在這兩個過程中的任何一個時刻處於敵人的視野內，敵人就能輕鬆獲得爆頭機會，並且通常有足夠的時間在死神能移動或使用幽影傳送（Wraith Form）之前將其擊殺。"
+        "關於 ![](/data/assets/guide/e223d900c52de2b4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshadow-step.png) 暗影步（Shadow Step）的技巧",
+        "* 明顯的音效提示",
+        "* 首先，你必須知道當死神抵達他選擇的傳送位置時，會發出附近的敵人都能聽見的巨大聲響。即便是在牆後使用暗影步（Shadow Step）靠近敵人，也要做好應對他們反應的準備。",
+        "* 用於部署側襲",
+        "* 暗影步（Shadow Step）非常適合用來移動到敵人的後方或高處。接著，蹲下潛行靠近他們，讓敵人無法察覺死神的存在。這麼做能讓敵方的後排陣容對死神心生畏懼。",
+        "* 絕對不要在敵人的視野範圍內傳送",
+        "* 死神在啟動暗影步（Shadow Step）以及抵達指定地點時，會處於無法移動的狀態。如果他在這兩個過程中的任何一個時刻暴露在敵人的視野內，敵人就能輕鬆獲得免費的爆頭機會，並且通常有足夠的時間在死神能夠移動或使用幽影傳送（Wraith Form）之前將其擊殺。"
       ],
       "content_hash": "03deaee4f9f2",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:59.361638Z"
+      "timestamp": "2026-03-26T04:31:30.096948Z"
     },
     "4.4": {
-      "title": "絕招：死亡綻放（Death Blossom）",
+      "title": "絕招：死亡綻放",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)死亡綻放（Death Blossom）的技巧**",
+        "**![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)死亡綻放的技巧**",
         "* 保持隱蔽",
-        "* 為了增加死亡綻放的擊殺數與成功率，請專注於讓敵人措手不及。如果他們沒發現死神，而突然從背後遭到死亡綻放攻擊，他們將沒有足夠的時間反應。",
+        "* 為了提升死亡綻放的擊殺數與成功率，請專注於讓敵人措手不及。如果他們沒發現死神，卻突然遭到背後的死亡綻放攻擊，他們將幾乎沒有反應時間。",
         "* 不要使用幽影傳送（Wraith Form）切入死亡綻放",
-        "* 到處都有死神玩家喜歡這樣做。這導致敵人已經習慣在看到死神使用幽影傳送衝進隊伍時，預期他會接著施放死亡綻放。這麼做很可能會讓你被駭入、暈眩，或是絕招被阻擋，最終導致死神陣亡。",
+        "* 這是各地死神玩家最愛用的招式，以至於敵人都已經習慣在看到死神使用幽影傳送衝進隊伍時，預判他要施放死亡綻放。這麼做很可能會讓你被駭入、暈眩，或是絕招遭到阻擋，最終導致死神陣亡。",
         "* 收割殘血目標",
-        "* 死亡綻放會自動鎖定範圍內的所有敵人和可部署裝置。如果你彈藥耗盡，或是難以給予最後一擊，這招對於收割目標非常有用。"
+        "* 死亡綻放會自動鎖定範圍內的所有敵人和可部署裝置。如果你彈藥耗盡，或是難以給予最後一擊，這項特性對於收割殘血目標非常有用。"
       ],
       "content_hash": "ac4337b6d1da",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:01.707291Z"
+      "timestamp": "2026-03-26T04:31:33.242432Z"
     },
     "4.5": {
       "title": "（被動）收割（The Reaping）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/bfefb918f7aa1322.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fthe-reaping.png)收割（The Reaping）的技巧**",
+        "**![](/data/assets/guide/bfefb918f7aa1322.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fthe-reaping.png)收割（The Reaping）的提示**",
         "* 30% 生命竊取",
-        "* 死神（Reaper）使用散彈槍造成的任何傷害，包含在死亡綻放（Death Blossom）期間，皆會治療死神（Reaper）。",
-        "* 當生命值偏低且無路可逃時，專注於射擊戰士（Bruiser）或機動性較低的敵人，因為你更有可能對他們快速造成傷害。如此一來，你就能更快產生自我治療效果。",
-        "* 密切注意你的生命值",
-        "* 在戰鬥中，死神（Reaper）的生命值會因為受到傷害與治療而不斷起伏。請務必盯緊你的生命值條，以判斷何時需要使用幽影傳送（Wraith Form）來保命。"
+        "* 死神使用散彈槍造成的任何傷害，包含在施放死亡綻放（Death Blossom）期間，皆能治療死神。",
+        "* 當生命值偏低且無路可逃時，請專注於射擊戰士或是機動性較低的敵人，因為你更有可能對他們快速造成傷害。如此一來，你就能更迅速地產生自我治療效果。",
+        "* 請密切注意你的生命值",
+        "* 在戰鬥中，死神的生命值會因為受到傷害與治療而不斷起伏。請務必留意你的生命值條，以判斷何時需要使用幽影傳送（Wraith Form）來保命。"
       ],
       "content_hash": "c0ce1c36dcdb",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:03.924192Z"
+      "timestamp": "2026-03-26T04:31:36.350503Z"
     },
     "5.1.1": {
       "title": "幽影殘留（Lingering Wraith）",
       "description": "結束幽影型態（Wraith Form）後，獲得 40% 移動速度加成，持續 2 秒。",
       "content": [
         "無提供攻略",
-        "* 特殊能力：幽影殘留（Lingering Wraith）"
+        "特殊能力：幽影殘留（Lingering Wraith）"
       ],
       "content_hash": "e692808cc51b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:05.312594Z"
+      "timestamp": "2026-03-26T04:31:38.237378Z"
     },
     "5.1.2": {
-      "title": "靈魂掠奪（Soul Reaving）",
-      "description": "從陣亡敵方身上收集靈魂球（Soul Globes）以恢復 50 點生命值。",
+      "title": "靈魂掠奪",
+      "description": "從陣亡敵方身上收集靈魂球以恢復 50 點生命值。",
       "content": [
         "* 更強的坦度",
-        "* 靈魂球（Soul Globes）對於提升死神（Reaper）的自我續航能力非常有幫助，能讓他更具坦度，並在戰鬥中停留更久。",
+        "* 靈魂球能透過額外的自我恢復能力，讓死神變得更加難以擊殺，並讓他能在戰鬥中存活更久。",
         "* 在目標點附近的混戰中特別有效，因為敵人在近距離陣亡的機率較高。",
-        "* 不要試圖撿起每一個靈魂球（Soul Globe）",
-        "* 僅僅因為看到靈魂球（Soul Globe）並不代表你應該去撿。它們可能是誘餌，且為了極少的治療量而浪費時間。只有在生命值處於危急狀態，或是它們正好位於你前往目標敵人的路徑上時才去撿取。",
-        "幽影殘留（Lingering Wraith）",
+        "* 不要試圖撿起每一個靈魂球",
+        "* 僅僅因為看到靈魂球並不代表你一定要去撿。它們可能會成為誘餌，讓你浪費時間卻只換取微薄的治療量。只有在生命值危急，或是它們位於你前往目標敵人的路徑上時才去撿取。",
+        "幽影徘徊",
         "* 危險的特殊能力（Perk）",
-        "* 速度加成會誘使你使用 ![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影型態（Wraith Form）來進行交戰，但這樣一來你就沒有技能可以撤退了。你必須對自己能取得擊殺並存活下來有極大的自信。",
-        "* 對付機動性目標時很有用，特別是當對方的位移技能持續時間更長，或是移動距離比你的幽影型態（Wraith Form）更遠時。"
+        "* 速度加成會誘使你使用 ![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影型態來進行交戰，但這樣一來你就沒有技能可以撤退了。你必須對自己能完成擊殺並存活下來有極高的自信。",
+        "* 對付那些機動性持續時間更長，或是移動距離比你的幽影型態更遠的目標時非常有用。"
       ],
       "content_hash": "a9f1b6c153b0",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:08.253986Z"
+      "timestamp": "2026-03-26T04:31:41.513677Z"
     },
     "5.2.1": {
       "title": "恐怖扳機（Dire Triggers）",
-      "description": "使用（滑鼠右鍵）從兩把地獄火散彈槍（Hellfire shotguns）發射出一連串具有長距離精準度的彈藥。",
+      "description": "使用（滑鼠右鍵）從兩把地獄火散彈槍（Hellfire shotguns）發射出一波具有長程精準度的彈幕。",
       "content": [
-        "消耗型武器",
-        "* 大幅提升的遠距離傷害與更集中的彈道擴散，讓死神終於能夠參與遠距離交戰。",
-        "* 在近身之前，先開始累積絕招充能，或是對敵方隊伍施加壓力。",
-        "協助對付飛行單位",
-        "* 在有像是 ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉 或 ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音 這類飛行單位的對戰中，恐怖扳機（Dire Triggers）較長的射程有助於施加壓力，甚至將其擊殺。",
-        "不要在側襲時暴露你的位置",
-        "* 恐怖扳機（Dire Triggers）的傷害並不值得讓你用它來開啟側襲攻擊。盡可能靠近目標，然後再使用 ![](/data/assets/guide/ee63221cfd675de0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhellfire-shotguns.png)地獄火散彈槍（Hellfire Shotguns）進行攻擊，效果依然好得多。"
+        "* 消耗型武器",
+        "* 大幅提升的遠程傷害與更集中的彈道擴散，讓死神終於能夠參與遠距離交戰。",
+        "* 在近身之前，先累積絕招能量，或是對敵方隊伍施加壓力。",
+        "* 對抗飛行單位",
+        "* * 在有飛行單位如 ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)法拉 或 ![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音 的對戰中，恐怖扳機（Dire Triggers）較長的射程有助於施壓，甚至能直接擊殺目標。",
+        "* 不要暴露你的側襲位置",
+        "* * 恐怖扳機（Dire Triggers）的傷害並不值得用來作為側襲攻擊的起手式。盡可能靠近目標，然後再使用 ![](/data/assets/guide/ee63221cfd675de0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhellfire-shotguns.png)地獄火散彈槍（Hellfire Shotguns）進行攻擊，效果依然好得多。"
       ],
       "content_hash": "1b2064ad4b99",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:10.533156Z"
+      "timestamp": "2026-03-26T04:31:54.294507Z"
     },
     "5.2.2": {
       "title": "暗影閃現（Shadow Blink）",
       "description": "暗影步（Shadow Step）的施法時間與冷卻時間縮短 25%，但傳送距離減少 25%。",
       "content": [
-        "* 能夠透過 ![](/data/assets/guide/e223d900c52de2b4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshadow-step.png)暗影步（Shadow Step）進行更安全的脫逃。此特殊能力最理想的用法是在沒有 ![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影型態（Wraith Form）時，利用較快的施法時間迅速撤離戰鬥。",
-        "* 若你正在使用殘留幽影（Lingering Wraith），則推薦選擇此項。"
+        "* 讓使用 ![](/data/assets/guide/e223d900c52de2b4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshadow-step.png)暗影步（Shadow Step）進行逃脫時更加安全。此特殊能力最理想的用途是在沒有 ![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影型態（Wraith Form）的情況下，能夠快速脫離戰鬥。",
+        "* 若你正在使用殘留幽影（Lingering Wraith），則推薦選用此能力。"
       ],
       "content_hash": "03f35557f859",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:12.121245Z"
+      "timestamp": "2026-03-26T04:31:56.240358Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "死神在空間狹窄且充滿小型房間的地圖中表現出色。他在長視線、狹窄走廊以及開闊空間的地圖上最為吃力。在死神的路線規劃中，首要重點應放在尋找掩體與側襲路線。如果目標點的其中一側有生命包或掩蔽路徑，請將大部分時間花在那一側，並避開另一側。擁有高台區域的地圖能為他提供額外的選擇，讓他可以傳送（Shadow Step）上去，接著跳下進行致命的突襲。"
+        "死神在空間狹窄且充滿小型房間的地圖中表現出色。他在長視線、狹窄走廊以及開闊空間的地圖中則較為吃力。在操作死神時，尋找擁有掩體和側襲路線的區域應作為你路徑規劃的首要重點。如果目標點的一側有生命包或遮蔽路徑，請將大部分時間花在那一側，並避開另一側。擁有高台區域的地圖能為他提供額外的選擇，讓他能傳送上去，再跳下來發動致命的突襲。"
       ],
       "content_hash": "deda6db879bb",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:13.792702Z"
+      "timestamp": "2026-03-26T04:31:58.322682Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "死神（Reaper）的最佳盟友是 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅（Zarya），這歸功於她的 ![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障（Projected Barrier）以及她在前線的存在感。",
-        "當他進行側襲並獲得護盾保護時，他有幾秒鐘的時間可以毫無畏懼地消滅敵人，不必擔心被控場。同樣地，![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障（Projected Barrier）也是發揮高價值 ![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)死亡綻放（Death Blossoms）的絕佳工具。",
-        "他也與其他戰士（Bruiser）和衝鋒型坦克搭配良好，可以與機動性高的坦克一同側襲，但從像 ![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)多米娜（Domina）和 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬（Sigma）這類消耗型坦克身上獲得的效益較低。",
-        "由於他需要近距離作戰，能夠在他深入敵方後排時提供治療的支援角色是最佳選擇。例如 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命（Lifeweaver）可以進行治療，並在必要時使用 ![](/data/assets/guide/70bdaf439d6cdcdd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flife-grip.png)生命之握（Life Grip）拯救死神。![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜（Ana）則可以提供爆發治療、使用 ![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)生化手榴彈（Biotic Grenade）來製造擊殺，以及利用 ![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png)奈米強化（Nano Boost）讓死神發動致命的攻擊。"
+        "死神最好的盟友是 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅，這歸功於她的 ![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障以及她在前線的威懾力。",
+        "當他切入戰場並獲得屏障保護時，他有幾秒鐘的時間可以無懼被暈眩，直接殲滅敵人。同樣地，![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)投射屏障也是讓高價值的 ![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)死亡綻放得以發揮的絕佳工具。",
+        "他與其他戰士型與衝鋒型坦克搭配良好，也能與機動型坦克一同切入，但從像 ![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)多米娜和 ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)席格馬這類消耗型坦克身上獲得的效益較低。",
+        "由於他需要近距離貼身作戰，能夠在他深入敵方後排時提供治療的醫護兵是最佳選擇。例如 ![](/data/assets/guide/41367de8021167d5.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flifeweaver.png)織命，他不僅能進行治療，還能在必要時使用 ![](/data/assets/guide/70bdaf439d6cdcdd.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flife-grip.png)生命之握拯救死神。![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜則能提供爆發性治療，利用 ![](/data/assets/guide/5845366bf977ed06.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grenade.png)生物手榴彈的禁療效果來擊殺敵人，並透過 ![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png)奈米強化讓死神的進攻變得極度致命。"
       ],
       "content_hash": "3a2de4a94b2f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:16.447866Z"
+      "timestamp": "2026-03-26T04:32:01.810360Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)死神最強的玩法是擔任側襲者（Flanker），專門刺殺後排英雄，例如醫護兵（Medic）和神射手（Sharpshooter）。這是你必須阻止的首要任務。他在與戰士（Bruiser）類型的坦克近身肉搏時也很強勢，但除了這兩種情況外，他的作用非常有限。你的工作就是盡可能讓他難以執行這些戰術。",
-        "首先，幾乎每位英雄的射程都比他遠，所以請專注於保持在他射程之外，這樣你就能在他靠近前先發制人。",
-        "仔細聆聽![](/data/assets/guide/e223d900c52de2b4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshadow-step.png)暗影步（Shadow Step）的音效提示。你聽到的方向就是他即將出現並發動攻擊的位置。同樣的道理也適用於![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影傳送（Wraith Form），如果你看到他朝你使用此技能，請立即利用你的位移技能逃離。",
-        "盡可能保留你的擊退或暈眩技能，直到他使用過幽影傳送（Wraith Form）之後再施放。此外，在幽影傳送（Wraith Form）結束後集火攻擊他非常重要，即使必須追擊他也要這麼做，因為失去![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影傳送（Wraith Form）的死神非常容易擊殺。",
-        "利用控場（CC）、傷害減免或集火來反制![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)死亡綻放（Death Blossom）。他施放時移動緩慢且無法取消死亡綻放（Death Blossom），因此很容易成為目標。"
+        "![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)死神最強的玩法是作為一名側襲者，專門刺殺後排的醫護兵和神射手。這是你首要阻止的重點。他在與戰士對決時也很有優勢，但除了這兩種情況外，他的作用非常有限。你的任務就是盡可能讓他難以執行這些戰術。",
+        "首先，幾乎每個英雄的射程都比他遠，所以請專注於保持在他射程之外，這樣你就能在他靠近之前先發動攻擊。",
+        "仔細聆聽![](/data/assets/guide/e223d900c52de2b4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshadow-step.png)暗影步（Shadow Step）的音效提示。你聽到的方向就是他即將出現並發動攻擊的位置。對於![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影型態（Wraith Form）也是一樣，如果你看到他朝你的方向使用該技能，請立即利用你的位移技能逃離。",
+        "盡可能將你的擊退或暈眩技能留到他使用幽影型態之後再施放。此外，在幽影型態結束後集火攻擊他非常重要，即使必須追擊也在所不惜，因為失去![](/data/assets/guide/7bf2a5a33fdf1bde.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwraith-form.png)幽影型態（Wraith Form）的死神非常容易擊殺。",
+        "使用控場技能（CC）、傷害減免或集火來反制![](/data/assets/guide/ffc140c6d6a32c46.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeath-blossom.png)死亡綻放（Death Blossom）。他在施放期間移動緩慢且無法取消技能，因此很容易成為目標。"
       ],
       "content_hash": "7d8470173624",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:19.346894Z"
+      "timestamp": "2026-03-26T04:32:05.468943Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:20:32.642371Z"
+    "timestamp": "2026-03-26T05:10:57.978639Z"
   }
 }

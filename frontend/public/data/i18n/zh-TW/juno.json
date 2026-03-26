@@ -6,138 +6,138 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）從軌道降臨，手持功能多樣的醫療爆擊槍（Mediblaster）！憑藉著自身與團隊的機動性技能，她能協助隊伍在地圖上快速移動並突襲敵方隊伍。她在傷害與治療方面同樣出色，所有技能皆可靈活運用於防守或進攻。",
-        "當朱諾（Juno）站位靠近坦克（Tank）並在其前方部署超能環（Hyper Ring）時，能為隊伍帶來最大的價值。朱諾（Juno）並不具備強大的自我治療能力，而是透過自身的機動性、護盾以及脈衝魚雷（Pulsar Torpedoes）來在敵方的攻擊下存活。![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)"
+        "![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾從軌道降臨，手持功能多樣的醫療爆擊槍（Mediblaster）！憑藉著自身與團隊的機動性技能，她能協助隊伍在地圖上快速移動，並對敵方隊伍發動突襲。她在傷害與治療方面同樣出色，所有的技能皆能靈活運用於防守或進攻。",
+        "She brings the most value to her team when positioned close enough to her Tank to deploy Hyper Ring in front of them. Rather than having a lot of self-healing, ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)Juno's mobility, shields, and Pulsar Torpedoes allow her to survive enemy attacks."
       ],
       "content_hash": "dd42ddf25e58",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:37.716423Z"
+      "timestamp": "2026-03-26T04:32:08.030713Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
         "* 當你看到你的坦克試圖衝向敵方隊伍時，請使用 ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環（Hyper Ring）。",
-        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）在飛行並鎖定 ![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）時非常脆弱。請留意敵方的即時命中英雄，並避開他們的視野（LoS）。",
-        "* ![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）是你最好的防禦手段。請保留它來逃離敵方側襲者（Flanker）的攻擊。"
+        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）在飛行並鎖定 ![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）時非常脆弱。請留意敵方的即時命中英雄，並保持在他們的視線範圍之外。",
+        "* ![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）是你最好的防禦手段。請保留它以逃離敵方側襲者（Flanker）的攻擊。"
       ],
       "content_hash": "53790387cabf",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:39.646908Z"
+      "timestamp": "2026-03-26T04:32:10.031792Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 持續進行消耗。![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾無法自我治療，因此她必須依賴護盾恢復以及支援角色的被動治療。即使是極少量的傷害也能中斷她的被動自我治療。",
-        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾的所有治療手段都需要視線（LoS）。利用屏障阻擋她的治療，或是透過攻擊迫使她將注意力從隊友身上移開。",
-        "* 在沒有脈衝魚雷（Pulsar Torpedoes）的情況下，![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾難以防禦高機動性的英雄。突破她的隊伍防線並追擊她。"
+        "* 持續進行騷擾。![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾無法自我治療，因此她必須依賴護盾恢復以及輔助角色的被動治療。即使是極少量的傷害也能中斷她的被動自我治療。",
+        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾所有的治療手段都需要視線（LoS）。利用屏障阻擋她的治療，或是透過攻擊迫使她將注意力從隊友身上移開。",
+        "* 在沒有脈衝魚雷（Pulsar Torpedoes）的情況下，![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾很難防禦高機動性英雄的進攻。突破她隊伍的防線並追擊她。"
       ],
       "content_hash": "f5245d716a60",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:41.881009Z"
+      "timestamp": "2026-03-26T04:32:12.704169Z"
     },
     "2": {
-      "title": "優勢與劣勢總結",
+      "title": "優缺點總結",
       "description": "",
       "content": [
-        "* 極高的機動性",
+        "* 機動性極高",
         "* 擁有大量團隊增益效果",
-        "* 具備鎖定功能的投射物",
+        "* 具備鎖定目標的投射物",
         "* 治療與傷害皆有距離衰減",
-        "* 對抗側襲者（Flanker）時較為吃力",
+        "* 對抗側襲者（Flanker）陣容時較為吃力",
         "* 無法自我治療"
       ],
       "content_hash": "5864cc6ed822",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:43.462303Z"
+      "timestamp": "2026-03-26T04:32:15.476650Z"
     },
     "3.1.1": {
       "title": "高機動性",
       "description": "",
       "content": [
-        "憑藉著 ![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）、二段跳以及 ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超頻光環（Hyper Ring），![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾成為了機動性最高的輔助英雄之一。她能夠在隊伍於地圖上移動時緊跟在後。此外，她的移動能力也讓她能夠逃離險境，並迅速調整位置以發動攻勢。"
+        "藉由 ![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）、二段跳以及 ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超光速環（Hyper Ring），![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾成為了機動性最高的輔助英雄之一。她能跟上隊伍在地圖上的移動節奏。她的移動能力也讓她得以逃離險境，並能迅速變換位置來進行攻擊。"
       ],
       "content_hash": "e2ee4029cf18",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:45.167253Z"
+      "timestamp": "2026-03-26T04:32:17.679921Z"
     },
     "3.1.2": {
       "title": "隊伍增益",
       "description": "",
       "content": [
-        "![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）是唯一能同時為全隊提供傷害與速度增益的支援型英雄。提升整個隊伍的能力是非常強大的。她透過超能光環（Hyper Ring）與軌道雷射（Orbital Ray）的高操作潛力，展現了極佳的功能性。"
+        "![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾是唯一能同時為全隊提供傷害與速度增益的支援型英雄。提升整個隊伍的能力是非常強大的。她透過超能光環（Hyper Ring）與軌道光束（Orbital Ray）的高操作潛力，展現出極佳的戰術價值。"
       ],
       "content_hash": "2787d8e7c7e6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:46.870076Z"
+      "timestamp": "2026-03-26T04:32:19.480032Z"
     },
     "3.1.3": {
       "title": "鎖定投射物",
       "description": "",
       "content": [
-        "![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）非常適合為你的隊伍提供瞬間的保證治療。它們在收割低生命值的敵人時同樣強大。一旦鎖定目標，這些魚雷甚至會轉彎追蹤目標。"
+        "![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）非常適合為隊伍提供爆發性的治療效果。它們在收割低生命值的敵人時同樣強大。一旦鎖定目標，這些魚雷甚至會轉彎追擊躲在掩體後的敵人。"
       ],
       "content_hash": "5404a61282f4",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:48.692025Z"
+      "timestamp": "2026-03-26T04:32:21.486517Z"
     },
     "3.2.1": {
       "title": "嚴重的治療與傷害衰減",
       "description": "",
       "content": [
-        "如果 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾與隊友或敵方目標處於中長距離，Mediblaster 的治療量與傷害量會顯著下降。雖然這是一把即時命中（hitscan）武器，但她並不擅長在遠距離對敵人施加壓力，也無法為遠處的盟友提供治療。"
+        "如果 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾與隊友或敵方目標處於中遠距離，醫護爆擊槍（Mediblaster）的治療量與傷害量會顯著下降。雖然這是一把即時命中武器，但她並不擅長在遠距離對敵人施加壓力，也不適合為遠處的盟友提供治療。"
       ],
       "content_hash": "7b768ea95c20",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:50.494162Z"
+      "timestamp": "2026-03-26T04:32:23.866171Z"
     },
     "3.2.2": {
       "title": "在機動陣容環境下的掙扎",
       "description": "",
       "content": [
-        "![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)對於機動陣容（dive comps）來說，朱諾（Juno）非常容易被擊殺。她沒有任何控場（CC）、自我恢復能力或無敵技能。此外，當她在機動隊伍中時，那些英雄並不會使用超頻光環（Hyper Ring）來進行地圖轉移，他們也不希望為了獲得軌道光束（Orbital Ray）的增益而站樁不動。"
+        "![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾非常容易被機動陣容（dive comps）擊殺。她沒有任何控場（CC）、自我維持（self-sustain）或無敵能力。此外，當她在機動隊伍中時，那些英雄並不會利用超頻光環（Hyper Ring）來穿越地圖，他們也不想站在原地來獲取軌道雷射（Orbital Ray）的增益。"
       ],
       "content_hash": "a24dc18a4613",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:52.159644Z"
+      "timestamp": "2026-03-26T04:32:26.139959Z"
     },
     "3.2.3": {
       "title": "低自我治療能力",
       "description": "",
       "content": [
-        "雖然朱諾（Juno）擁有部分護盾生命值，但她不像大多數其他支援英雄那樣具備任何瞬間自我治療的手段（除了軌道雷射（Orbital Ray）之外）。她必須依賴另一位支援英雄的協助、自我治療被動技能，或是設法隱蔽足夠長的時間來觸發護盾恢復。![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)"
+        "While she has some shield health, ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)Juno doesn’t have any means of burst healing herself like most other Supports do (outside of ![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)Orbital Ray). She’s reliant on her other Support, self-healing passive, or has to be able to hide for long enough to activate shield regen."
       ],
       "content_hash": "e62eeaf1f0b3",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:53.615244Z"
+      "timestamp": "2026-03-26T04:32:27.199535Z"
     },
     "4.1": {
-      "title": "主要攻擊：醫療衝擊槍（Mediblaster）",
+      "title": "主要攻擊：醫療衝擊波（Mediblaster）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/d5e57bf7180221d8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmediblaster.png)醫療衝擊槍（Mediblaster）的使用技巧**",
-        "* 傷害與治療",
-        "* ![](/data/assets/guide/d5e57bf7180221d8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmediblaster.png)醫療衝擊槍（Mediblaster）是 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾的主要傷害與治療來源。除非隊友生命值皆接近全滿，否則請優先專注於治療隊友，之後再轉為攻擊。",
-        "* 當隊友生命值全滿時，![](/data/assets/guide/d5e57bf7180221d8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmediblaster.png)醫療衝擊槍（Mediblaster）的射擊會直接穿透目標，而不會被吸收。試著將敵人排在 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾正在治療的隊友身後，因為一旦隊友生命值全滿，![](/data/assets/guide/d5e57bf7180221d8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmediblaster.png)醫療衝擊槍（Mediblaster）就會對敵人造成傷害並累積絕招能量。",
-        "* 保持中距離或更近",
-        "* 由於 ![](/data/assets/guide/d5e57bf7180221d8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmediblaster.png)醫療衝擊槍（Mediblaster）的治療效果有嚴重的距離衰減，請務必嘗試與隊友保持在中距離範圍內，以最大化你的治療輸出。",
-        "* 治療效果於 20 公尺處開始衰減。"
+        "關於 ![](/data/assets/guide/d5e57bf7180221d8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmediblaster.png)醫療衝擊波（Mediblaster）的提示",
+        "傷害與治療",
+        "* ![](/data/assets/guide/d5e57bf7180221d8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmediblaster.png)醫療衝擊波（Mediblaster）是 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾的主要傷害與治療來源。除非隊友生命值皆接近全滿，否則請優先專注於治療隊友，之後再轉為攻擊。",
+        "* 當隊友生命值全滿時，![](/data/assets/guide/d5e57bf7180221d8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmediblaster.png)醫療衝擊波（Mediblaster）會直接穿透目標，而不會被吸收。試著將敵人排在 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾正在治療的隊友身後，因為一旦隊友生命值全滿，![](/data/assets/guide/d5e57bf7180221d8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmediblaster.png)醫療衝擊波（Mediblaster）就會對敵人造成傷害並累積絕招能量。",
+        "保持中距離或更近",
+        "* 由於 ![](/data/assets/guide/d5e57bf7180221d8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmediblaster.png)醫療衝擊波（Mediblaster）的治療效果衰減相當明顯，請務必嘗試與隊友保持中距離，以最大化你的治療輸出。",
+        "* 治療衰減從 20 公尺處開始。"
       ],
       "content_hash": "7d29683d3040",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:56.075799Z"
+      "timestamp": "2026-03-26T04:32:29.846458Z"
     },
     "4.2": {
       "title": "次要攻擊：脈衝魚雷（Pulsar Torpedoes）",
@@ -145,34 +145,34 @@
       "content": [
         "![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）的使用技巧",
         "* 進攻用途",
-        "* 務必嘗試鎖定敵方後排，因為他們是你們隊伍最難以瞄準的目標。![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）是壓制或擊殺敵方後排的最佳工具之一。",
-        "* 不要總是為了鎖定更多目標而頻繁使用二段跳與滑翔。請留意敵方的即時命中（hitscan）英雄，並避開他們的視野（LoS），否則你可能會在空中被狙擊擊落。",
+        "* 盡量鎖定敵方後排，因為他們對你的隊伍來說最難以瞄準。![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）是壓制或擊殺敵方後排的最佳工具之一。",
+        "* 不要總是為了鎖定更多目標而頻繁使用二段跳和滑翔。請留意敵方的即時命中英雄，並避開他們的視野（LoS），否則你會在空中被狙擊擊落。",
         "* 最大化鎖定目標",
-        "* 每次使用時，盡可能鎖定更多敵人和盟友通常是個好策略。這能產生更多的絕招能量。",
-        "* 優先鎖定並發射高優先級目標（例如低生命值的盟友或關鍵敵人），這比單純追求鎖定更多目標來得更重要。",
+        "* 一般來說，嘗試在每次使用時鎖定盡可能多的敵人和盟友是一個不錯的策略。這能產生更多的絕招充能。",
+        "* 鎖定並發射高優先級目標（例如生命值偏低的盟友或關鍵敵人），比單純追求鎖定更多目標來得更重要。",
         "* 冷卻時間重置",
-        "* 當嘗試進行進攻時，如果你沒有找到目標，讓技能在不發射的情況下結束，會使![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）進入兩秒的短冷卻時間，而不是完整的 10 秒冷卻。"
+        "* 當嘗試進攻時，如果你沒有找到目標，讓技能在不發射的情況下結束，會使![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）進入兩秒的短暫冷卻，而不是完整的 10 秒冷卻。"
       ],
       "content_hash": "57a63a203960",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:58.927387Z"
+      "timestamp": "2026-03-26T04:32:32.753283Z"
     },
     "4.3": {
-      "title": "左鍵：滑翔推進（Glide Boost）",
+      "title": "左鍵：滑翔推進",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）技巧**",
+        "**![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進的技巧**",
         "* 水平移動",
-        "* ![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）無法提供垂直位移，因此請務必在您想要滑翔的高度啟動它。",
-        "* 如果敵方擁有較多近戰與短程英雄，請花更多時間在高空滑翔。當敵方擁有較多遠程與即時命中（hitscan）英雄時，貼近地面會更安全。",
+        "* ![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進無法提供垂直移動，因此請務必在您想要滑翔的高度啟動它。",
+        "* 如果敵方擁有較多近戰與短程英雄，請花更多時間在較高的空中滑翔。當敵方擁有較多遠程與即時命中英雄時，貼近地面會更安全。",
         "* 逃脫工具",
-        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)滑翔推進（Glide Boost）是 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）躲避敵方攻擊與側襲者（flanker）的唯一手段。當敵方有試圖側襲或突擊（dive）您的英雄時，例如 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 或 ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏（Genji），請嘗試僅在應對他們的突擊時才使用 ![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）。若僅為了移動而使用它，會讓 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）在技能冷卻結束前成為容易擊殺的目標。"
+        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)滑翔推進是![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾逃離敵方攻擊與側襲者的唯一手段。當敵方有英雄試圖側襲或突擊你時，例如![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va或![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏，請嘗試僅在回應他們的突擊時才使用![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進。若只是為了單純移動而使用它，會讓![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾在技能冷卻結束前成為容易擊殺的目標。"
       ],
       "content_hash": "e0a22b14b1cf",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:01.085694Z"
+      "timestamp": "2026-03-26T04:32:35.441506Z"
     },
     "4.4": {
       "title": "[E]：超速環（Hyper Ring）",
@@ -180,112 +180,112 @@
       "content": [
         "![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環（Hyper Ring）的使用技巧",
         "* 可部署於任何位置",
-        "* ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環（Hyper Ring）可以放置在地面上，或是懸浮在半空中。",
-        "* ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環（Hyper Ring）可以穿透屏障與環境物件，並能放置在牆壁、天花板或地板的兩側。",
-        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）在啟動超速環（Hyper Ring）時會立即獲得加速效果，無需穿過環體。",
-        "* 可以多次穿過以重新獲得加速增益效果。",
-        "* 出生點加速",
-        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）可以在最後五秒倒數計時顯示「4」之後的任何時間部署![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環（Hyper Ring）。這樣做能幫助隊伍率先抵達目標點，且比起等待大門開啟後再施放，能更快讓超速環（Hyper Ring）的冷卻時間結束。"
+        "* ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環（Hyper Ring）可以放置在地面上，或是懸浮於半空中。",
+        "* ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環（Hyper Ring）可以穿透屏障與環境物件，並能使用在牆壁、天花板或地板的兩側。",
+        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）在啟動超速環（Hyper Ring）時會立即獲得速度加成，無需穿過圓環。",
+        "* 可以多次穿過圓環來重新獲得速度增益效果。",
+        "* 出生點的速度加成",
+        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）可以在最後五秒倒數計時顯示「4」之後的任何時間部署![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環（Hyper Ring）。這樣做能幫助隊伍率先抵達目標點，且比起等到大門開啟後才使用，能更快讓超速環（Hyper Ring）的冷卻時間恢復。"
       ],
       "content_hash": "2a75e30b4030",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:04.182685Z"
+      "timestamp": "2026-03-26T04:32:38.766185Z"
     },
     "4.5": {
       "title": "Q 絕招：軌道射線（Orbital Ray）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)軌道射線（Orbital Ray）的使用技巧**",
+        "![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)軌道射線（Orbital Ray）的使用技巧",
         "* 進攻或防守",
-        "* * 由於 ![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)軌道射線（Orbital Ray）同時提供持續治療與 30% 的傷害加成，因此可以用來取得進攻優勢，或是在防守時用來抵禦敵方的絕招。",
-        "* 如果你的另一位支援位隊友擁有強大的防守型絕招（例如 ![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)聖（Transcendence）），請嘗試將你的絕招用於更具侵略性的用途。",
-        "* 如果你的另一位支援位隊友擁有進攻型絕招（例如奈米強化（Nano Boost）），那麼將軌道射線（Orbital Ray）保留作防守用途會是更好的選擇。",
+        "* * 由於![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)軌道射線（Orbital Ray）同時提供持續治療與 30% 的傷害加成，因此既可用於取得進攻優勢，也能在防守時用來抵禦敵方的絕招。",
+        "* 如果你的另一位輔助英雄擁有強力的防守型絕招（例如![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)超凡入聖（Transcendence）），請嘗試將你的絕招用於更具侵略性的進攻。",
+        "* 如果你的另一位輔助英雄擁有進攻型絕招（例如奈米強化（Nano Boost）），那麼將軌道射線（Orbital Ray）保留作防守用途會是更好的選擇。",
         "* 無法被阻擋或中斷",
-        "* * 一旦 ![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)軌道射線（Orbital Ray）啟動，它將會穿透牆壁、建築物與屏障。舉例來說，你可以在目標區域旁的房間內啟動它，然後繞過去，讓 ![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)軌道射線（Orbital Ray）重新覆蓋目標區域。",
+        "* * 一旦啟動![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)軌道射線（Orbital Ray），它將會穿透牆壁、建築物與屏障。舉例來說，你可以在目標區域旁的房間內啟動它，然後繞過去，讓![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)軌道射線（Orbital Ray）重新覆蓋目標區域。",
         "* 範圍效果（AoE）",
-        "* * 受到治療與傷害增益的隊友身上會散發出藍色的光芒。",
-        "* 若要獲得治療與傷害加成，英雄必須保持在光束的範圍效果（AoE）內，該範圍會在地面上以綠色圓圈顯示。"
+        "* * 獲得治療與傷害加成的隊友身上會散發出藍色光芒。",
+        "* 若要獲得治療與傷害加成，英雄必須保持在光束的範圍效果（AoE）內，該範圍在地面上會顯示為一個綠色圓圈。"
       ],
       "content_hash": "b36798530d56",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:06.963537Z"
+      "timestamp": "2026-03-26T04:32:42.307377Z"
     },
     "4.6": {
-      "title": "（被動技能）[空白鍵]：火星超能靴（Martian Overboots）",
+      "title": "（被動技能）[跳躍]：火星靴（Martian Overboots）",
       "description": "",
       "content": [
-        "![](/data/assets/guide/c834fd2163b4acf2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmartian-overboots.png)火星超能靴（Martian Overboots）的使用技巧",
+        "![](/data/assets/guide/c834fd2163b4acf2.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmartian-overboots.png)火星靴（Martian Overboots）的使用技巧",
         "* 額外高度",
-        "* 額外高度對於架設![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）相當有用。![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）可以鎖定屏障與牆壁後的英雄。",
-        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）可以進行二段跳、滑翔推進（Glide Boost），並在高處區域之間懸浮。在不同高處之間移動非常重要，因為她通常無法直接從地面跳到足夠的高度。",
+        "* 額外的高度對於架設![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）相當有用。![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）可以鎖定障礙物與牆壁後的英雄。",
+        "* ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）可以進行二段跳、使用滑翔推進（Glide Boost），並在高處區域之間懸浮。在高處之間移動非常重要，因為她通常無法單靠跳躍從地面直接到達高處。",
         "* 謹慎使用",
-        "* 不斷地在空中進行二段跳、滑翔與懸浮會讓![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）成為容易被鎖定的目標。不要太頻繁地暴露自己，否則敵人會察覺並開始在空中狙擊你。",
+        "* 持續在空中進行二段跳、滑翔與懸浮會讓![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）成為容易攻擊的目標。不要太頻繁地暴露自己，否則敵人會察覺並開始在空中狙擊妳。",
         "* 每次升空僅限一次二段跳",
-        "* 二段跳可以在![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）之前、期間或之後使用。無論你選擇何時使用，它都只能使用一次，且必須在落地後才會重置。"
+        "* 二段跳可以在![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）之前、期間或之後使用。無論妳選擇何時使用，它都只能使用一次，且必須在落地後才會重置。"
       ],
       "content_hash": "7f0b406f7ea6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:09.353622Z"
+      "timestamp": "2026-03-26T04:32:45.858379Z"
     },
     "5.1.1": {
-      "title": "熟悉的生命跡象",
+      "title": "熟悉的生命徵象",
       "description": "脈衝魚雷（Pulsar Torpedoes）鎖定盟友的速度提升 35%。",
       "content": [
         "「脈衝魚雷（Pulsar Torpedoes）鎖定盟友的速度提升 35%。」",
         "* 拯救低生命值的盟友",
-        "* ![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）唯一的弱點在於鎖定所需的時間，以及投射物緩慢的飛行速度。隊友有時會在治療抵達前就陣亡了。對於僅具備治療效果的魚雷來說，35% 的提升聽起來或許不多，但在關鍵時刻，這對 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）的盟友而言，卻是生與死的差別。"
+        "* ![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）唯一的弱點在於鎖定所需的時間，以及彈體緩慢的飛行速度。隊友有時會在治療抵達前就陣亡了。對於僅具備治療效果的魚雷來說，提升 35% 的速度聽起來或許不多，但在關鍵時刻，這對 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）的盟友而言，往往是生與死的差別。"
       ],
       "content_hash": "7ced46bc1b7f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:11.359457Z"
+      "timestamp": "2026-03-26T04:32:47.866117Z"
     },
     "5.1.2": {
-      "title": "鎖定目標（Locked On）",
+      "title": "鎖定目標",
       "description": "每擊中一名敵人，脈衝魚雷（Pulsar Torpedoes）的冷卻時間便縮短 1 秒。",
       "content": [
         "「每擊中一名敵人，脈衝魚雷（Pulsar Torpedoes）的冷卻時間便縮短 1 秒。」",
-        "* 當你能採取更具侵略性的打法時非常實用。",
-        "* 更頻繁地使用她的魚雷能對敵方隊伍施加額外壓力，並加快絕招充能速度。",
+        "* 當你能採取更具侵略性的打法時非常有效。",
+        "* 更頻繁地使用她的魚雷能對敵方隊伍施加額外壓力，並更快累積絕招能量。",
         "* 你需要頻繁地鎖定至少一到兩名敵人。",
-        "* 不要只專注於造成傷害，![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）是你為隊友提供爆發治療的最佳手段。"
+        "* 不要只專注於造成傷害，![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes）是你為盟友提供爆發治療的最佳手段。"
       ],
       "content_hash": "3e7f88f3d6a8",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:13.219949Z"
+      "timestamp": "2026-03-26T04:32:50.140255Z"
     },
     "5.2.1": {
       "title": "快速爆擊（Faster Blaster）",
-      "description": "在使用滑翔推進（Glide Boost）時，醫護爆擊槍（Mediblaster）會持續射擊。",
+      "description": "在使用滑翔推進（Glide Boost）時，醫護爆擊槍（Mediblaster）會持續發射。",
       "content": [
-        "爆發數值",
-        "* 選擇此特殊能力（Perk）時，你在使用 ![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）期間，射擊速度會提升約 30%。",
+        "* 爆發數值",
+        "* 選擇此特殊能力（Perk）時，你在 ![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）期間會獲得約 30% 的射速提升。",
         "* 這讓你同時擁有爆發傷害與爆發治療的選擇。",
-        "* 非常適合單挑。"
+        "* 適合單挑使用。"
       ],
       "content_hash": "68327a0bc334",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:15.144669Z"
+      "timestamp": "2026-03-26T04:32:51.820840Z"
     },
     "5.2.2": {
       "title": "起飛",
-      "description": "火星超能靴（Martian Overboots）現在可以進行三段跳。",
+      "description": "火星過載靴（Martian Overboots）現在可以進行三段跳。",
       "content": [
         "* 額外的垂直機動性",
-        "* 第三段跳躍可以在任何時間點使用，包含在 ![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）期間。這讓 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）能夠達到新的高度，並進入一些平時難以觸及的高地。",
-        "* 非常適合跳過牆壁來發射 ![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes），以及從缺乏垂直機動性的近距離敵人手中逃脫。",
+        "* 第三段跳躍可以在任何時間點使用，包含在 ![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost）期間。這讓 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）能夠達到新的高度，並進入一些平時難以觸及的高處。",
+        "* 非常適合跳過牆壁來發射 ![](/data/assets/guide/d30517a5688f2742.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fpulsar-torpedoes.png)脈衝魚雷（Pulsar Torpedoes），也適合用來從缺乏垂直機動性的近距離敵人手中逃脫。",
         "* 反制特殊能力",
-        "* 針對近戰和近距離敵人時，起飛（Lift Off）可能會是更佳的主要特殊能力（major perks）選擇，因為它能幫助 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）與攻擊者保持距離。"
+        "* 針對近戰與近距離敵人時，起飛（Lift Off）可能是更好的主要特殊能力（major perks）選擇，因為它能幫助 ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）與攻擊者保持距離。"
       ],
       "content_hash": "6ddb695dc9a1",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:17.026484Z"
+      "timestamp": "2026-03-26T04:32:54.208520Z"
     },
     "6": {
       "title": "地圖",
@@ -294,41 +294,41 @@
         "The best maps for ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)Juno are flat, have a lot of open space, and encourage fights to be on the objective. ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)Hyper Ring gets the most value when her team needs the extra speed to get to the next objective quickly, or when helping her team flank or rush down the enemy backline. If the enemy can set up on high ground or far from the objective, ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)Hyper Ring’s value decreases. Because Orbital Ray moves in a slow and fixed path, fights that stay in one place also raise its potential. ![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)Juno's horizontal movement is best on flat ground maps and maps with lots of small side rooms she can glide through while evading the enemy."
       ],
       "content_hash": "e85e3aff8b3a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:19.400718Z"
+      "timestamp": "2026-03-26T04:32:57.054721Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）希望能透過 ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超頻光環（Hyper Ring）來強化隊伍。因此，她最適合搭配那些主要依賴爆發傷害來贏得會戰的英雄。",
-        "無論是像 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）或 ![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)死神（Reaper）這類能藉此快速追擊脆皮目標的地面近戰英雄，還是像 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 或 ![](/data/assets/guide/336ae88d165cfe5a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fanran.png)安燃（Anran）這種原本就具備極高機動性、能進一步提升移動能力的英雄，![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超頻光環（Hyper Ring）都能實現超高侵略性的打法並快速贏得會戰。",
-        "由於她同時具備高續航力與部分功能性，![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾（Juno）與大多數輔助英雄都能良好搭配。![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)軌道光束（Orbital Ray）是防禦與進攻的混合體，因此如果你的隊伍需要一個完整的防禦型絕招來抵擋敵方的連攜攻勢（例如 ![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png)奈米強化（Nano Boost）加上 ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字（Dragonblade）），建議選擇像 ![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐（Lúcio）這樣能使用絕招進行防禦的角色，而你可以將自己的絕招留作進攻推進時使用。"
+        "![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾希望能透過 ![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環（Hyper Ring）來強化隊伍。因此，她最適合搭配那些主要依賴爆發傷害來贏得會戰的英雄。",
+        "無論是像 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特或 ![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)死神這類能快速追擊脆弱目標的地面近戰英雄，還是像 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va 或 ![](/data/assets/guide/336ae88d165cfe5a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fanran.png)安燃這類本就具備極高機動性、能進一步提升移動能力的英雄，![](/data/assets/guide/a85755b1f05e3456.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fhyper-ring.png)超速環（Hyper Ring）都能實現極致的侵略性並快速結束戰鬥。",
+        "由於她同時具備高續航力與部分功能性，![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾與大多數輔助英雄都能良好搭配。![](/data/assets/guide/a556e4ed6de03aaf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Forbital-ray.png)軌道雷射（Orbital Ray）結合了防禦與進攻特性，因此如果你的隊伍需要一個完整的防禦型絕招來抵擋敵方的連攜攻勢（例如 ![](/data/assets/guide/9db85f17ed9127be.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fnano-boost.png)奈米強化（Nano Boost）加上 ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字（Dragonblade）），建議選擇像 ![](/data/assets/guide/3d1103aaa0893433.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Flucio.png)路西歐這樣能以防禦方式使用絕招的英雄，而你可以將自己的絕招留作進攻推動時使用。"
       ],
       "content_hash": "efd5d3f3dd39",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:21.962411Z"
+      "timestamp": "2026-03-26T04:33:00.684537Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "持續對她進行消耗。![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾無法自我治療，因此她必須仰賴護盾恢復以及輔助角色的被動治療。即使是極少量的傷害也能中斷她的被動自我治療。",
-        "![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾的所有治療手段都需要視野（LoS）。利用屏障阻擋她的治療，或是透過攻擊迫使她將注意力從隊友身上移開。",
-        "在沒有脈衝魚雷（Pulsar Torpedoes）的情況下，![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾很難防禦高機動性英雄的進攻。突破她隊伍的防線並追擊她。",
-        "一旦看到她使用了![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost），就是你全力集火朱諾的最佳時機。她無法立即從其他技能中發動![](/data/assets/guide/c53b36b242971604.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsurvivor.svg)生存專家（Survivor），也無法飛離現場，這會讓她成為容易擊殺的目標。"
+        "持續對她進行騷擾。![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾無法自我治療，因此她必須依賴護盾恢復以及輔助角色的被動治療。即使是極少量的傷害也能中斷她的被動自我治療效果。",
+        "![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾所有的治療手段都需要視線（LoS）。利用屏障阻擋她的治療，或是透過攻擊迫使她將注意力從隊友身上移開。",
+        "在沒有脈衝魚雷（Pulsar Torpedoes）的情況下，![](/data/assets/guide/13c0663d738c73ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjuno.png)朱諾很難抵禦高機動性的英雄。突破她隊伍的防線並追擊她。",
+        "一旦你看到她使用了![](/data/assets/guide/0af76c2c1400b1cb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fglide-boost.png)滑翔推進（Glide Boost），就是你全力集火朱諾的最佳時機。她無法立即從其他技能中啟動![](/data/assets/guide/c53b36b242971604.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Fsurvivor.svg)生存專家（Survivor），也無法飛離現場，這會讓她成為輕易擊殺的目標。"
       ],
       "content_hash": "ab89b7048bf3",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:24.217086Z"
+      "timestamp": "2026-03-26T04:33:02.969153Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:21:35.528415Z"
+    "timestamp": "2026-03-26T05:10:58.863555Z"
   }
 }

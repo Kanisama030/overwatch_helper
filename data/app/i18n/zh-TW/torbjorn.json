@@ -6,334 +6,334 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "你的後排是否整場比賽都受到惱人的側襲者（Flanker）騷擾？![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)托比昂（Torbjörn）就是解決你所有問題的答案。托比昂配備了自動射擊的砲塔（Turret）、遠程拋射武器以及散彈槍，能處理各種距離的戰鬥。他爭奪空間的能力幾乎不輸給戰士（Bruiser），且非常擅長防守咽喉點。",
-        "面對機動陣容（dive comps）時，他會設置在後方保護隊友；而在面對鬥陣陣容（brawl comps）時，他則會利用![](/data/assets/guide/02335ee8dc146b90.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverload.png)超載（Overload）搭配散彈槍來殲滅敵人。即便你的主要攻擊瞄準能力不佳，砲塔（Turret）所提供的輸出也足以彌補這一點。在進入延長賽（Overtime）的膠著戰局中，![](/data/assets/guide/6db02d49ff2c55df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmolten-core.png)熔火核心（Molten Core）能燒毀目標區域，為你贏得勝利。"
+        "你的後排是否整場都被惱人的側襲者（Flanker）騷擾？![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)托比昂（Torbjörn）就是解決你所有問題的答案。托比昂配備了自動射擊的砲塔（Turret）、遠程拋射武器以及散彈槍，能處理各種距離的戰鬥。他爭奪空間的能力幾乎不輸給戰士（Bruiser），且非常擅長防守狹窄通道。",
+        "面對機動陣容時，他會架設在後方保護隊友；而在肉搏陣容中，他則會利用![](/data/assets/guide/02335ee8dc146b90.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverload.png)超負荷（Overload）搭配散彈槍來殲滅敵人。即便你的主武器瞄準能力不佳，砲塔（Turret）所提供的輸出也足以彌補這一點。在進入延長賽的膠著戰局中，![](/data/assets/guide/6db02d49ff2c55df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmolten-core.png)熔火核心（Molten Core）能燒毀目標區域，為你贏得勝利。"
       ],
       "content_hash": "bad9e748e412",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:22.110796Z"
+      "timestamp": "2026-03-26T04:31:50.086075Z"
     },
     "1.1.1": {
       "title": "操作指南",
       "description": "",
       "content": [
-        "* 將砲塔（Turret）設置在隊伍後方的角落，藉此保護你的後排。",
-        "* 不要只是為了額外傷害而啟動超載（Overload），應將其視為反擊手段。存活下來應對敵方的攻擊，比孤注一擲地嘗試擊殺對手更為重要。",
-        "* 將熔火核心（Molten Core）保留在戰鬥集中於目標點時使用。強迫敵人離開目標點，或是將他們燒成灰燼。"
+        "* 將砲塔（Turret）設置在隊伍後方的角落，以保護你的後排。",
+        "* 不要只是為了額外傷害而啟動超載（Overload），應將其視為反擊手段。存活下來抵禦敵人的攻擊，比孤注一擲地嘗試擊殺對手更重要。",
+        "* 將熔火核心（Molten Core）保留在戰鬥集中於目標點時使用。強迫敵人離開目標點，或是將他們燒毀。"
       ],
       "content_hash": "ef259002515d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:23.956868Z"
+      "timestamp": "2026-03-26T04:31:52.082716Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 先摧毀他的砲塔（Turret）。試著快速從角落探頭，並在射擊間隙躲回掩體，以將砲塔受到的傷害降至最低。",
-        "* 引誘他使用超負荷（Overload）。在不交出所有長冷卻時間技能的情況下進行輕度交戰，當他使用超負荷（Overload）時就向後撤退。該技能僅持續五秒，一旦結束即可立即發動反擊。",
-        "* 使用遠程英雄。托比昂（Torbjörn）在面對遠程英雄時較為弱勢，因為他們能從安全距離摧毀他的砲塔，且輸出比他的主要攻擊更穩定。"
+        "* 先摧毀他的砲塔。嘗試快速從轉角探頭，並在射擊間隙躲避，以將砲塔造成的傷害降至最低。",
+        "* 引誘他使用超負荷（Overload）。在不交出所有長冷卻時間技能的情況下進行輕微交戰，接著在他使用超負荷（Overload）時撤退。該技能僅持續五秒，一旦結束，你就可以再次發動攻擊。",
+        "* 使用遠程英雄。托比昂在面對遠程英雄時較為弱勢，因為這些英雄可以在安全距離外摧毀他的砲塔，且輸出比他的主要攻擊方式更穩定。"
       ],
       "content_hash": "d8a90d6848b5",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:26.068692Z"
+      "timestamp": "2026-03-26T04:31:54.281899Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 區域控制（Area control）",
-        "* 自我維持（Self-sustain）",
-        "* 反側襲（Anti-diver）",
-        "* 瞄準（Aim）",
-        "* 絕招（Ultimate）",
-        "* 進攻時較弱（Weaker on attack）"
+        "* 區域控制",
+        "* 自我維持",
+        "* 反側襲",
+        "* 瞄準",
+        "* 絕招",
+        "* 進攻時較弱"
       ],
       "content_hash": "26a3ccae30bd",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:27.813705Z"
+      "timestamp": "2026-03-26T04:31:55.695728Z"
     },
     "3.1.1": {
       "title": "區域控制",
       "description": "",
       "content": [
-        "托比昂（Torb）絕對是控制空間角度與地圖區域最強的傷害型英雄。砲塔（Turret）會自動攻擊任何進入其視線範圍（LoS）的目標，超負荷（Overload）則賦予他足夠的續航力與傷害來與敵人抗衡，而熔火核心（Molten Core）更是能直接將地面化為岩漿。當托比昂有機會在敵隊抵達該地點前完成部署，他將會是非常難以被擊敗的對手。"
+        "托比昂絕對是控制空間角度與地圖區域最強的輸出英雄。砲塔（Turret）會自動攻擊任何進入其視野（LoS）的目標，超負荷（Overload）則賦予他對抗敵人的續戰力與傷害，而熔火核心（Molten Core）更是能直接將地面化為岩漿。當托比昂有機會在敵隊抵達該地點前完成架設，他將會是非常難以擊敗的對手。"
       ],
       "content_hash": "2addc8d83893",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:29.513285Z"
+      "timestamp": "2026-03-26T04:31:57.861925Z"
     },
     "3.1.2": {
       "title": "自我維持",
       "description": "",
       "content": [
-        "由於護甲高於平均生命值，且每 10 秒就能透過超量生命（overhealth）進行自我治療，托比昂（Torbjörn）不需要依賴隊友來維持生存。此外，他的砲塔（Turret）能保護他，必要時還能當作護盾使用。只要將位置選在大型生命包附近，你就能確保生存無虞。"
+        "由於護甲高於平均生命值，且每 10 秒就能透過超量生命值（overhealth）來治療自己，托比昂不需要依賴隊伍來維持生存。此外，他的砲塔（Turret）能保護他，必要時還能當作護盾使用。只要將位置選在大型生命包附近，你就能長久生存。"
       ],
       "content_hash": "3ec6a3d38af7",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:31.159613Z"
+      "timestamp": "2026-03-26T04:31:59.556498Z"
     },
     "3.1.3": {
-      "title": "反側襲（Anti-dive）",
+      "title": "反制側襲",
       "description": "",
       "content": [
-        "砲塔（Turret）與超載（Overload）是反制側襲者（Flanker）極佳的進攻手段。大多數英雄在面對側襲時會選擇逃跑，但托比昂（Torbjörn）的應對方式是在側襲者殺死他之前，先將其擊殺。"
+        "砲塔（Turret）與超載（Overload）是反制側襲英雄極佳的進攻手段。大多數英雄在面對側襲時會選擇逃跑，但托比昂（Torbjörn）的應對方式是在對方殺死自己之前，先將其擊殺。"
       ],
       "content_hash": "e0f404bc3d43",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:33.039059Z"
+      "timestamp": "2026-03-26T04:32:01.538511Z"
     },
     "3.2.1": {
       "title": "彈道下墜",
       "description": "",
       "content": [
-        "鉚釘槍（Rivet Gun）在所有輸出角色的武器中，擁有最嚴重的彈道下墜與最慢的投射物速度。在中遠距離時，這使得瞄準變得困難，且射擊命中率不穩定。"
+        "鉚釘槍（Rivet Gun）在所有輸出型英雄的武器中，擁有最嚴重的彈道下墜與最慢的投射物速度。在中遠距離下，這使得瞄準變得困難，且射擊命中率不穩定。"
       ],
       "content_hash": "2f20430fcb78",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:34.673650Z"
+      "timestamp": "2026-03-26T04:32:03.434092Z"
     },
     "3.2.2": {
       "title": "情境式絕招",
       "description": "",
       "content": [
-        "托比昂的絕招並不總是能帶來驚人的價值。每當敵方陣容擁有飛行單位或高機動性英雄時，熔火核心（Molten Core）的潛力就會大幅下降，因為他們可以輕易避開受影響的區域。此外，這並不是像許多其他輸出英雄絕招那樣，按一下就能直接擊殺敵人的絕招。"
+        "托比昂的絕招並不總是能發揮極大的價值。每當敵方陣容中有飛行單位或高機動性英雄時，熔火核心（Molten Core）的潛力就會大幅下降，因為他們可以輕易避開受影響的區域。此外，這並不是像許多其他輸出英雄的絕招那樣，按一下就能直接擊殺敵人的技能。"
       ],
       "content_hash": "838770e3b071",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:36.097774Z"
+      "timestamp": "2026-03-26T04:32:05.657328Z"
     },
     "3.2.3": {
       "title": "進攻時較為弱勢",
       "description": "",
       "content": [
-        "雖然托比昂（Torbjörn）是遊戲中最優秀的防守者之一，但在進攻時卻難以發揮。如果敵方隊伍已經控制了目標點，或是輪到我方隊伍推進護送（Escort）目標時，他往往沒有足夠的時間在發動攻擊前，利用砲塔（Turret）建立交叉火網。總體而言，托比昂在維持空間上的表現，優於他爭奪空間的能力。"
+        "雖然托比昂是遊戲中最優秀的防守者之一，但在進攻時卻難以發揮。如果敵隊已經控制了目標點，或是輪到己方推進護送目標，他往往沒有足夠的時間在發動攻勢前，利用砲塔（Turret）架設交叉火網。總體而言，托比昂在維持陣地方面的表現，遠優於主動奪取空間。"
       ],
       "content_hash": "d6a683104850",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:37.708686Z"
+      "timestamp": "2026-03-26T04:32:08.024660Z"
     },
     "4.1": {
-      "title": "主要攻擊：鉚釘槍（Rivet Gun）",
+      "title": "主要攻擊：鉚釘槍",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/40832b6bb39dcc47.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frivet-gun.png)鉚釘槍（Rivet Gun）的使用技巧**",
+        "**![](/data/assets/guide/40832b6bb39dcc47.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frivet-gun.png)鉚釘槍的使用技巧**",
         "* 瞄準高處",
-        "* 目標距離越遠，你就必須瞄準得越高才能命中。即使是在中距離，你也需要考量子彈下墜的因素。",
-        "* 瞄準頭部或頭部上方以進行暴擊，或者利用子彈下墜來擊中身體。",
+        "* 你的目標距離越遠，瞄準時就必須抬得越高才能命中。即使是在中距離，你也需要考量彈道下墜的問題。",
+        "* 瞄準頭部或頭部上方以嘗試造成致命一擊，或者利用彈道下墜來擊中身體。",
         "* 「頭部故障（Head glitch）」",
-        "* 技術上來說，在《鬥陣特攻》中並沒有真正的「頭部故障」，但使用托比昂時，你可以在樓梯上射擊並不斷蹲下，或是從高處射擊低處的敵人。",
-        "* 範例：利用彈道弧線在敵人位於上方時越過樓梯進行射擊。托比昂可以躲在樓梯後方，而他的拋射物會下墜並擊中敵人。",
-        "* 對付護甲效果更佳",
-        "* 針對擁有大量護甲的坦克，主要攻擊每秒造成的傷害會比次要攻擊來得更高。"
+        "* 技術上來說，在《鬥陣特攻》中無法進行頭部故障，但使用托比昂時，你可以在樓梯上射擊並不斷蹲下，或者在高處射擊低處的敵人。",
+        "* 範例：當敵人在樓梯上方時，利用彈道弧線越過樓梯進行射擊。托比昂可以躲在樓梯後方，而他的拋射物會因為下墜而依然能擊中敵人。",
+        "* 對付護甲更有效",
+        "* 針對擁有大量護甲的坦克，主要攻擊造成的每秒傷害會比次要攻擊來得更高。"
       ],
       "content_hash": "0c44d79da76f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:39.853834Z"
+      "timestamp": "2026-03-26T04:32:11.724808Z"
     },
     "4.2": {
       "title": "次要攻擊：鉚釘槍（散彈模式）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/40832b6bb39dcc47.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frivet-gun.png)鉚釘槍（散彈模式）的技巧**",
-        "* 僅適用於極近距離",
+        "**![](/data/assets/guide/40832b6bb39dcc47.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frivet-gun.png)鉚釘槍（散彈模式）使用技巧**",
+        "* 僅限極近距離使用",
         "* 除非距離非常近，否則不要使用散彈模式。子彈擴散會導致太多彈丸落空。",
         "* 高爆發傷害",
         "* 散彈模式也可以造成暴擊。當你成功貼臉並命中所有彈丸時，爆頭可以秒殺所有 250 生命值的英雄。",
-        "* 反制側襲者（Flanker）",
-        "* 當你遭到敵方突襲時，散彈模式更容易命中目標，且其傷害足以逼退進攻者。"
+        "* 反制側襲",
+        "* 當你遭到敵方側襲時，散彈模式更容易命中目標，且傷害足以將攻擊者逼退。"
       ],
       "content_hash": "937bb4744943",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:41.802345Z"
+      "timestamp": "2026-03-26T04:32:14.065537Z"
     },
     "4.3": {
-      "title": "[SHIFT]：部署砲塔（Deploy Turret）",
+      "title": "[SHIFT]：部署砲塔",
       "description": "",
       "content": [
-        "![](/data/assets/guide/5a281b66a6179e54.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeploy-turret.png)部署砲塔（Deploy Turret）的使用技巧",
+        "![](/data/assets/guide/5a281b66a6179e54.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeploy-turret.png)部署砲塔的技巧",
         "* 創造交叉火網",
-        "* 預設情況下，你應該將砲塔放置在與你自身不同的位置。這樣一來，敵人若想攻擊你或砲塔，就必須在兩個不同的方向之間做出抉擇。",
+        "* 基本上，你應該將砲塔放置在與你自身不同的位置。如此一來，當敵人想要攻擊你或砲塔時，就必須在兩個不同的方向之間做出抉擇。",
         "* 保護你的後排",
-        "* 每當敵方隊伍中有英雄試圖側襲你的後排時，你應該將砲塔放置在後方，以便保護他們。",
-        "* 一旦敵人進入砲塔的視野（LoS），它就會鎖定目標。砲塔造成的傷害有助於贏得會戰，且砲塔開火時也能提醒你和隊友有敵人在附近。",
+        "* 每當敵方隊伍有側襲者試圖威脅你的後排時，你應該將砲塔放置在後方，以便保護他們。",
+        "* 一旦敵人進入砲塔的視野範圍（LoS），它就會鎖定目標。砲塔造成的傷害有助於贏得會戰，且砲塔開火也能提醒你和隊友有敵人在附近。",
         "* 保護你的側翼",
-        "* 將砲塔放置在身後可以達到兩個目的。首先，它仍然可以射擊你前方的敵人。其次，當敵人試圖繞到你身後時，砲塔會先發現他們並開始射擊。",
-        "* 將其放置在難以射擊的位置",
-        "* 你的目標是讓敵人必須在觀察多個方向之間做出選擇，並分散他們的注意力。",
-        "* 他們不應該能夠輕易地利用掩體邊角窺探而不受到傷害。",
+        "* 將砲塔放置在身後可以達到兩個目的。首先，它仍然可以攻擊你前方的敵人。其次，當敵人試圖繞到你身後時，砲塔會先發現他們並開始射擊。",
+        "* 放置在難以射擊的位置",
+        "* 你的目標是讓敵人必須在多個方向之間做出選擇，並分散他們的注意力。",
+        "* 他們不應該能夠輕易地在轉角處探頭射擊而不受到傷害。",
         "* 高處、奇怪的掩體後方等通常都是不錯的選擇。",
         "* 鎖定主要攻擊的目標",
-        "* 當砲塔的視野（LoS）內有多個敵人時，它會優先攻擊你主要攻擊（primary fire）所擊中的敵人。"
+        "* 當砲塔的視野範圍內有多個敵人時，它會優先攻擊你主要攻擊所擊中的目標。"
       ],
       "content_hash": "645776018ff5",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:44.586037Z"
+      "timestamp": "2026-03-26T04:32:17.291898Z"
     },
     "4.4": {
       "title": "[E]：超載（Overload）",
       "description": "",
       "content": [
-        "![](/data/assets/guide/02335ee8dc146b90.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverload.png)超載（Overload）的技巧",
+        "![](/data/assets/guide/02335ee8dc146b90.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverload.png)超載（Overload）的提示",
         "* 反制敵方的侵略行為",
-        "* 當敵方開始使用冷卻技能試圖逼近並擊殺你的隊友時，你應該優先考慮將超載（Overload）留到這時候使用。",
-        "* 發動超載（Overload）來存活於敵方的攻勢下，並利用你快速射擊的彈幕將他們逼退。",
+        "* * 當敵方開始使用冷卻技能試圖逼近並擊殺你的隊友時，這是你首要考慮保留超載（Overload）的時機。",
+        "* 發動超載（Overload）來存活於敵方的攻勢下，並利用你快速的連射火力將他們逼退。",
         "* 把握進攻機會",
-        "* 當你的隊伍透過擊殺、使用絕招或逼出敵方冷卻技能創造出破綻時，利用移動速度與攻擊速度加成衝上前去終結對手。",
-        "* 撤退以求生存",
-        "* 等到你的砲塔（Turret）與超載（Overload）冷卻完畢後，再重新投入戰鬥。"
+        "* * 當你的隊伍透過擊殺、使用絕招或逼出敵方冷卻技能創造出破綻時，利用移動速度與攻擊速度的加成衝上前去解決對手。",
+        "* 脫離戰場以求生存",
+        "* * 等到你的砲塔（Turret）與超載（Overload）冷卻完畢後，再重新投入戰鬥。"
       ],
       "content_hash": "1448625edf76",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:46.681268Z"
+      "timestamp": "2026-03-26T04:32:20.442031Z"
     },
     "4.5": {
       "title": "次要武器：鍛造錘",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/41c5f71c191494f6.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fforge-hammer.png)鍛造錘的使用技巧**",
+        "![](/data/assets/guide/41c5f71c191494f6.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fforge-hammer.png)鍛造錘的使用技巧",
         "* 修復砲塔",
-        "* 鍛造錘的主要用途是在你的砲塔受到傷害但尚未被摧毀時進行修復。",
-        "* 面對少量的消耗性傷害時，你可以一邊修復砲塔，一邊將砲塔當作小型護盾來保護自己。",
-        "* 如果維持砲塔運作是首要任務，請站在砲塔前方並背對敵人進行修復。利用超頻（Overdrive）或隊友的治療來承受傷害。",
+        "* 鍛造錘的主要用途是在砲塔受到傷害但尚未被摧毀時進行修復。",
+        "* 當面對少量騷擾傷害時，你可以一邊修復砲塔，一邊將砲塔當作小型護盾來保護自己。",
+        "* 如果維持砲塔運作是首要任務，請站在砲塔前方並背對敵人進行修復。利用過載（Overdrive）或隊友的治療來承受傷害。",
         "* 終結擊殺",
-        "* 當你在近距離與敵人決鬥且彈藥耗盡時，偶爾可以使用。在這些罕見的情況下，拿出鍛造錘給予敵人致命一擊！"
+        "* 偶爾在近距離與敵人單挑時，你可能會耗盡彈藥。在這些罕見的情況下，拿出鍛造錘給他們致命一擊！"
       ],
       "content_hash": "0020a6afbec6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:48.975801Z"
+      "timestamp": "2026-03-26T04:32:22.822307Z"
     },
     "4.6": {
-      "title": "絕招：熔火核心（Molten Core）",
+      "title": "絕招：熔火核心",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/6db02d49ff2c55df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmolten-core.png)熔火核心（Molten Core）的使用技巧**",
+        "![](/data/assets/guide/6db02d49ff2c55df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fmolten-core.png)熔火核心的使用技巧",
         "* 點放以擴大範圍",
-        "* * 不要在大絕期間一直按住主要攻擊鍵，否則會浪費極其有限的彈藥。相反地，請在瞄準不同位置時點放主要攻擊鍵，將岩漿分散開來，以覆蓋地圖上更多的區域。",
+        "* 不要在大絕期間全程按住主要攻擊鍵，否則會浪費極其有限的彈藥。相反地，在瞄準不同位置時進行點放，將熔岩分散開來，以覆蓋地圖上更多的區域。",
         "* 爭奪目標點",
-        "* * 熔火核心（Molten Core）在目標點上使用，或是在雙方隊伍都必須觸碰目標點的延長賽期間特別有效。",
-        "* 覆蓋任何敵人想要站立的目標區域，包括運載目標（payload）。",
+        "* 熔火核心在目標點上使用，或是在雙方隊伍都必須觸碰目標點的延長賽期間，效果特別顯著。",
+        "* 覆蓋任何敵人想要站立的目標區域，包含運載目標。",
         "* 切斷退路",
-        "* * 一旦敵人聽到你的熔火核心（Molten Core）語音，他們很可能會試圖拉開距離並撤退。",
-        "* 將熔火核心（Molten Core）射在他們身後，將他們困在原地，或迫使他們在撤退時受到傷害。"
+        "* 當敵人一聽到你的熔火核心語音時，他們通常會試圖拉開距離並撤退。",
+        "* 將熔火核心射在他們身後，將他們困在原地，或是強迫他們在經過時承受傷害。"
       ],
       "content_hash": "f7834fe49a0e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:51.071209Z"
+      "timestamp": "2026-03-26T04:32:24.441938Z"
     },
     "5.1.1": {
-      "title": "重鎚時刻（Hammer Time）",
-      "description": "裝備鍛造鎚（Forge Hammer）時移動速度提升 20%。",
+      "title": "鐵鎚時刻",
+      "description": "裝備鍛造鐵鎚時，移動速度提升 20%。",
       "content": [
-        "**工匠（Craftsman）**",
-        "* 屬於小眾特殊能力（Niche Perk），但與過載砲塔（Overloaded Turret）主要特殊能力（major perks）搭配尚可。",
-        "* 為砲塔提供額外治療可能很有用，但這意味著你只有在守護砲塔時才能發揮效益。因此，若與錨定螺栓（Anchor Bolts）搭配，這個特殊能力（perk）就會被浪費掉。",
-        "* 專注於固守一個區域並保持砲塔的健康狀態，即使你必須親自擋下傷害也在所不惜。",
-        "* 不要強求治療護甲值",
-        "* 托比昂（Torbjörn）不該浪費時間去治療盟友的護甲值。在大多數情況下，直接射擊敵人會更有幫助。"
+        "**工匠**",
+        "* 屬於小眾特殊能力，但與過載砲塔（Overloaded Turret）主要特殊能力搭配尚可。",
+        "* 為砲塔提供額外治療可能很有用，但這意味著你只有在守護砲塔時才能獲得效益。因此，若與錨定螺栓（Anchor Bolts）搭配，此特殊能力就會被浪費掉。",
+        "* 專注於固守一個區域並保持砲塔的健康度，即使你必須親自擋下即將到來的傷害也在所不惜。",
+        "* 不要強求治療護甲",
+        "* 托比昂不該浪費時間去治療隊友的護甲值。在大多數情況下，直接攻擊敵人會更有幫助。"
       ],
       "content_hash": "c629bdf8560c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:53.599008Z"
+      "timestamp": "2026-03-26T04:32:27.092180Z"
     },
     "5.1.2": {
       "title": "預熱（Pre-Heated）",
-      "description": "熔火核心（Molten Core）會觸發超載（Overload）。",
+      "description": "熔火核心（Molten Core）會啟動超載（Overload）。",
       "content": [
-        "無提供指南",
-        "特殊能力（perk）：預熱（Pre-Heated）"
+        "未提供指南",
+        "特殊能力：預熱（Pre-Heated）"
       ],
       "content_hash": "e581c8f083ea",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:55.121863Z"
+      "timestamp": "2026-03-26T04:32:28.704430Z"
     },
     "5.2.1": {
       "title": "錨定螺栓（Anchor Bolts）",
-      "description": "部署砲塔（Deploy Turret）的投擲距離增加 50%，現在可以吸附在牆壁和天花板上。",
+      "description": "部署砲塔（Deploy Turret）的投擲距離增加 50%，且現在可以吸附在牆壁和天花板上。",
       "content": [
-        "* 最佳主要特殊能力（Best Major Perk）",
-        "* 高處且刁鑽的位置",
-        "* * 尋找那些遠離敵人視野（LoS）的位置，讓他們必須轉頭背對你的隊伍才能射擊砲塔。",
+        "* 最佳主要特殊能力（Major Perk）",
+        "* 高處且刁鑽",
+        "* * 尋找敵方視野（LoS）死角的位置，讓他們必須轉頭背對你的隊伍才能攻擊砲塔。",
         "* 頭頂與後方",
-        "* * 當敵人穿過隘口時，沒有人會去注意自己的頭頂和後方。將砲塔黏在隘口牆壁上，直到敵人通過隘口前都不會開火。這也意味著他們在走進來之前無法摧毀砲塔。",
-        "* 新的地點",
-        "* * 當使用錨定螺栓（Anchor Bolts）時，絕對不要只把砲塔放在地板上。不斷更換位置，讓敵人永遠猜不到砲塔在哪裡。"
+        "* * 當敵人穿過咽喉點時，沒人會注意頭頂和後方。將砲塔黏在咽喉點的牆面上，敵人通過前不會觸發射擊，但也意味著他們在走進來之前無法摧毀砲塔。",
+        "* 新位置",
+        "* * 當使用錨定螺栓（Anchor Bolts）時，絕對不要只把砲塔放在地板上。持續更換位置，讓敵人永遠猜不透。"
       ],
       "content_hash": "9387e5aff324",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:57.452542Z"
+      "timestamp": "2026-03-26T04:32:31.492887Z"
     },
     "5.2.2": {
-      "title": "超載砲塔（Overloaded Turret）",
-      "description": "超載（Overload）會升級你的砲塔 5 秒，提升其生命值與傷害。",
+      "title": "超載砲塔",
+      "description": "超載（Overload）會強化你的砲塔 5 秒，提升其生命值與傷害。",
       "content": [
         "* 不錯的主要特殊能力（Major Perk）",
         "* 超載（Overload）傷害",
-        "* * 當托比昂（Torbjörn）啟動超載（Overload）時，若此主要特殊能力（Major Perk）使砲塔變形為超載砲塔（Overloaded Turret），在砲塔重新開始射擊前會有一個明顯的啟動動畫。",
-        "* 因此，你甚至無法在整個超載（Overload）期間都獲得額外傷害。所以，雖然此特殊能力（Perk）能提供一些額外的爆發傷害而有所幫助，但由於超載（Overload）的冷卻時間，這種效果非常短暫且不頻繁。",
-        "* 瞬間砲塔治療",
-        "* * 此特殊能力（Perk）最棒的部分其實是額外的砲塔生命值，能在砲塔受攻擊時維持其生存。你可以施放超載（Overload），搭配工匠（Craftsman）跑向砲塔，它就會變得非常耐打。"
+        "* 當托比昂啟動超載（Overload）時，若此主要特殊能力（Major Perk）導致砲塔變形為超載砲塔，砲塔在重新開始射擊前會有明顯的啟動動畫。",
+        "* 因此，你在整個超載（Overload）期間甚至無法獲得額外的傷害加成。所以，雖然此特殊能力（Perk）因額外的爆發傷害而有所幫助，但由於超載（Overload）的冷卻時間，這種效果非常短暫且不頻繁。",
+        "* 瞬間治療砲塔",
+        "* 此特殊能力（Perk）最棒的部分在於額外的砲塔生命值，能在砲塔受到攻擊時維持其生存。你可以施放超載（Overload），搭配工匠（Craftsman）跑向砲塔，它就會變得非常耐打。"
       ],
       "content_hash": "8df569cb8977",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:21:59.463905Z"
+      "timestamp": "2026-03-26T04:32:33.894179Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "托比昂（Torbjörn）和他的砲塔（Turrets）在有利於近距離交戰且擁有難以突破之咽喉點的地圖上表現最佳。當他能將砲塔設置在隊友後方，且敵方隊伍必須通過咽喉點才能看見砲塔的位置時，敵方會更難以處理該砲塔。由於他的主要攻擊方式具有彈道下墜且飛行速度緩慢，這使他在長視線的地圖上對抗其他遠程英雄時處於極大的劣勢。",
-        "雖然托比昂（Torbjörn）透過超載（Overload）擁有不錯的移動速度，但他沒有任何垂直機動能力。他可以應對傳統上在地形高處地圖表現優異的機動陣容（dive comps），但在隊伍轉點時，他很容易落後。"
+        "托比昂與他的砲塔在適合近距離交戰且擁有難以突破之咽喉點的地圖上表現最佳。當他能將砲塔架設在隊伍後方，且敵方隊伍必須穿過咽喉點才能看見砲塔的位置時，敵方將會更難以處理該砲塔。由於他的主要攻擊具有彈道下墜且飛行速度緩慢，在擁有長視線的地圖上，面對其他遠程英雄時會處於極大的劣勢。",
+        "雖然托比昂透過「超負荷（Overload）」擁有不錯的移動速度，但他缺乏任何垂直機動能力。他可以應對傳統上在地形高處表現良好的機動陣容，但在隊伍轉點時，他很容易落後。"
       ],
       "content_hash": "da48f6b1342f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:01.509685Z"
+      "timestamp": "2026-03-26T04:32:36.525668Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)托比昂（Torbjörn）在後排架設 ![](/data/assets/guide/5a281b66a6179e54.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeploy-turret.png)部署砲塔（Deploy Turret）來保護輔助英雄時表現極佳。適合搭配的輔助英雄包括 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜、![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔以及 ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀，這些英雄能為隊伍帶來極高價值，但同時也難以應對側襲者。",
-        "基於同樣的原因，狙擊型輸出英雄也是很好的搭配，且能額外彌補托比昂在遠程攻擊上的弱點（例如：![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女、![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西、![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩）。",
-        "在坦克方面，他可以很好地融入機動陣容，因為他不需要前線坦克來保護或協助他（例如：![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓、![](/data/assets/guide/2d37d713fbda6bee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwrecking-ball.png)火爆鋼球）。然而，在鬥陣與衝鋒陣容中（例如：![](/data/assets/guide/452c9a51fb58d39d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunker-queen.png)垃圾鎮女王、![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅），他可以利用 ![](/data/assets/guide/02335ee8dc146b90.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverload.png)超載（Overload）與隊友一同激進進攻，他的散彈槍在近距離下具有極強的融化能力。"
+        "![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)托比昂在後排架設 ![](/data/assets/guide/5a281b66a6179e54.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeploy-turret.png)部署砲塔（Deploy Turret）來保護輔助時表現非常出色。像 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜、![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)禪亞塔和 ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)瑞稀這類能為隊伍帶來高價值，但同時也難以應對側襲者的輔助，都是很好的選擇。",
+        "基於同樣的原因，狙擊型輸出英雄也是不錯的搭配，且額外的好處是能彌補托比昂在遠程攻擊上的弱點（例如：![](/data/assets/guide/62383b6520e2bec1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwidowmaker.png)奪命女、![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)艾西、![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩）。",
+        "在坦克方面，他可以很好地融入機動陣容，因為他不需要前線坦克來保護或協助他（例如：![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓、![](/data/assets/guide/2d37d713fbda6bee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwrecking-ball.png)火爆鋼球）。然而，在鬥陣和衝鋒陣容中（例如：![](/data/assets/guide/452c9a51fb58d39d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunker-queen.png)垃圾鎮女王、![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅），他可以使用 ![](/data/assets/guide/02335ee8dc146b90.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverload.png)超載（Overload）與隊友一同激進進攻，他的散彈槍在近距離下具有極高的破壞力。"
       ],
       "content_hash": "2dece1c314de",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:04.451009Z"
+      "timestamp": "2026-03-26T04:32:40.598232Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "如果你擁有遠程傷害能力，請務必將摧毀 ![](/data/assets/guide/5a281b66a6179e54.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeploy-turret.png)部署砲塔（Deploy Turret）視為你的職責，每當他架設砲塔時就將其破壞。如果置之不理，你的隊伍將會落敗。你可以利用掩體快速探頭、射擊，並在射擊間隙躲回掩體，這樣就能在不被砲塔鎖定的情況下進行攻擊。",
-        "誘使他交出 ![](/data/assets/guide/02335ee8dc146b90.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverload.png)超負荷（Overload）。在不交出所有長冷卻時間技能的情況下進行輕度交戰，當他使用超負荷時就向後撤退。該技能僅持續五秒，一旦結束你就可以立即發動攻擊。如果你還沒看過他施放過額外護甲，請將他視為無法擊殺的目標。",
-        "若要進行反制選角，請選擇遠程英雄，因為 ![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)托比昂（Torbjörn）在面對能保持遠距離站位的英雄時較為弱勢，這些英雄能從安全位置破壞他的砲塔，且輸出穩定度也比他的主要攻擊方式更高。"
+        "如果你擁有遠程傷害能力，那麼摧毀 ![](/data/assets/guide/5a281b66a6179e54.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeploy-turret.png)部署砲塔（Deploy Turret）就是你的職責，每當他架設砲塔時都要將其拆除。如果放任不管，你的隊伍將會落敗。你可以利用掩體快速探頭、射擊，然後在兩次射擊之間躲回掩體，這樣就能在不讓砲塔有時間鎖定你的情況下進行攻擊。",
+        "誘騙他使用 ![](/data/assets/guide/02335ee8dc146b90.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Foverload.png)超載（Overload）。先進行輕微的交戰，不要交出所有長冷卻時間的技能，當他開啟超載時就向後撤退。該技能僅持續五秒，一旦結束，你就可以立刻再次發動進攻。如果你還沒看過他施放過額外護甲，就將他視為無法擊殺的目標。",
+        "若要進行反制選角，請選擇遠程英雄，因為 ![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)托比昂（Torbjörn）在面對能保持遠距離站位的英雄時較為弱勢，這些英雄可以在安全距離摧毀他的砲塔，且輸出穩定性也比他的主要攻擊方式更高。"
       ],
       "content_hash": "918860e72f48",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:06.848201Z"
+      "timestamp": "2026-03-26T04:32:44.036592Z"
     },
     "8.2": {
       "title": "特定英雄剋星名稱",
@@ -342,18 +342,18 @@
         "* 奪命女",
         "* 半藏",
         "* 艾西",
-        "* 索潔恩",
-        "* 士兵76"
+        "* 士兵76",
+        "* 索潔恩"
       ],
-      "content_hash": "e46f1ab35415",
-      "prompt_version": "v7",
+      "content_hash": "0e89929b1ddb",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:08.179600Z"
+      "timestamp": "2026-03-26T05:10:59.545331Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:21:19.357407Z"
+    "timestamp": "2026-03-26T05:10:58.034614Z"
   }
 }

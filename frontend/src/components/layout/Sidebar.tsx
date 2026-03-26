@@ -58,6 +58,18 @@ export function Sidebar() {
           <span className="material-symbols-outlined flex-shrink-0">map</span>
           {isExpanded && <span>{t.nav.maps}</span>}
         </Link>
+        <Link
+          to="/heroes-list"
+          className={`flex items-center gap-3 px-3 py-2.5 rounded text-sm font-bold transition-all ${
+            location.pathname === '/heroes-list' || location.pathname.startsWith('/heroes-list/')
+              ? 'text-[#221910] bg-[#f27f0d]'
+              : 'text-gray-400 hover:text-[#f27f0d]'
+          }`}
+          title={t.nav.heroesPage}
+        >
+          <span className="material-symbols-outlined flex-shrink-0">person</span>
+          {isExpanded && <span>{t.nav.heroesPage}</span>}
+        </Link>
       </nav>
     </aside>
   );

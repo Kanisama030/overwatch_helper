@@ -94,7 +94,11 @@ async def main():
         from scrape_mobalytics import scrape_mobalytics
         from scrape_mobalytics_cloudflare import scrape_mobalytics_cloudflare
         from scrape_blizzard import scrape_blizzard
-        from merge_data import merge_overwatch_data, validate_and_fix_master_data
+        from merge_data import (
+            build_overwatch_stats_from_blizzard_csv,
+            merge_overwatch_data,
+            validate_and_fix_master_data,
+        )
     except ImportError as e:
         print(f"匯入模組失敗: {e}")
         raise SystemExit(1)
@@ -108,13 +112,17 @@ async def main():
         )
         print(f"\n--- [2/4] 抓取 Blizzard 數據（all-maps + 逐地圖, {worker_count} workers） ---")
         await scrape_blizzard(worker_count=worker_count)
-        print("\n--- [3/4] Cloudflare 模式已直接輸出 overwatch_master.json，略過 merge_data ---")
+        print("\n--- [3/4] 更新 overwatch_stats.json（由 Blizzard CSV 轉換） ---")
+        build_overwatch_stats_from_blizzard_csv()
+        print("\n--- [4/4] Cloudflare 模式已直接輸出 overwatch_master.json，略過 merge_data ---")
     else:
         print(f"\n--- [1/4] 抓取 Mobalytics 指南（Playwright，{worker_count} workers） ---")
         await scrape_mobalytics(worker_count=worker_count)
         print(f"\n--- [2/4] 抓取 Blizzard 數據（all-maps + 逐地圖, {worker_count} workers） ---")
         await scrape_blizzard(worker_count=worker_count)
-        print("\n--- [3/4] 整合資料並驗證輸出 ---")
+        print("\n--- [3/4] 更新 overwatch_stats.json（由 Blizzard CSV 轉換） ---")
+        build_overwatch_stats_from_blizzard_csv()
+        print("\n--- [4/4] 整合資料並驗證輸出 ---")
         merge_overwatch_data()
         if not validate_and_fix_master_data(write_back=True):
             raise RuntimeError("資料結構驗證未通過，已中止流程。")

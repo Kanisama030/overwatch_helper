@@ -6,261 +6,261 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏（Hanzo）是一位高技術門檻的狙擊型輸出英雄，其核心玩法圍繞著耐心與精準度。秉持著「死即是榮耀」的信念，半藏能利用他的 ![](/data/assets/guide/17238750e6fd25bf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fstorm-bow.png)風弓（Storm Bow）悄無聲息地解決目標。每一支箭都是對紀律的考驗，獎勵那些重視時機與預判敵人走位的玩家——當然，偶爾在走廊亂射時運氣好拿到爆頭也是常有的事。",
-        "在隊伍陣容中，半藏的作用在於施加壓力與擊殺目標。他擅長控制視野、懲罰可預測的走位，並透過先發制人的擊殺來開啟會戰。半藏的最佳打法圍繞著側翼角度與高地，在這些位置他能讓目標措手不及。",
-        "儘管他擅長遠距離作戰，但快速射擊的箭矢與衝刺能力也使他在近距離混戰中同樣具備威脅。與其他狙擊手不同，你無法輕易透過突進來針對半藏。",
-        "他還擁有獨特的能力，能透過音波箭（Sonic Arrow）向隊友揭露敵人的位置。當操作得當時，半藏會迫使敵方隊伍放慢節奏、謹慎控場，並時刻提防那隨時可能降臨的即死威脅。"
+        "![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏是一位需要高超技巧的輸出型英雄，其核心在於耐心與精準。秉持著「死即是榮譽」的信念，半藏能以手中的 ![](/data/assets/guide/17238750e6fd25bf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fstorm-bow.png)風弓（Storm Bow）悄無聲息地解決目標。每一支箭都是對紀律的考驗，獎勵那些重視時機與預判敵人走位的玩家——當然，偶爾在走廊亂射也能幸運地爆頭擊殺。",
+        "在隊伍陣容中，半藏的作用在於施加壓力與進行點殺。他擅長控制視線、懲罰可預測的走位，並透過先發制人的擊殺來開啟會戰。半藏的最佳打法圍繞著側翼角度與高地，在這些位置他能讓目標措手不及。",
+        "儘管他擅長遠距離作戰，但快速射擊的箭矢與位移技能使他在近距離混戰中同樣具備威脅。與其他狙擊手不同，你無法輕易透過突襲來反制半藏。",
+        "他還擁有獨特的能力，能透過音波箭（Sonic Arrow）向隊友揭露敵人的位置。當操作得當時，半藏能迫使敵隊放慢節奏、謹慎控場，並時刻提防那隨時可能降臨的即死威脅。"
       ],
       "content_hash": "331642b4e1b3",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:00.412523Z"
+      "timestamp": "2026-03-26T04:30:06.203829Z"
     },
     "1.1.1": {
-      "title": "遊玩風格",
+      "title": "遊玩方式",
       "description": "",
       "content": [
-        "* 在長距離視線中發射全蓄力箭矢。即使沒有擊殺敵人，半藏的箭矢仍會構成巨大威脅，並迫使敵方隊伍必須謹慎應對。",
-        "* ![](/data/assets/guide/7d1c537e6929240e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-climb.png)利用「壁虎攀爬（Wall Climb）」來控制高處位置，讓敵人難以對半藏造成威脅。",
-        "* 在戰鬥開始前使用 ![](/data/assets/guide/0867ccdb950bcb34.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsonic-arrow.png)「音波箭（Sonic Arrow）」，在敵人發現你之前先取得敵方位置的情報。"
+        "* 在長距離視線中發射完全蓄力的箭矢。即使沒有擊殺敵人，他的箭矢也會構成巨大的威脅，並迫使敵方隊伍謹慎行事。",
+        "* ![](/data/assets/guide/7d1c537e6929240e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-climb.png)利用「壁虎攀爬」（Wall Climb）來控制高處位置，讓敵人難以對半藏造成威脅。",
+        "* 在戰鬥開始前使用 ![](/data/assets/guide/0867ccdb950bcb34.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsonic-arrow.png)「音波箭」（Sonic Arrow），以便在敵人發現你之前獲取他們的方位資訊。"
       ],
       "content_hash": "e9a55bde2003",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:02.518305Z"
+      "timestamp": "2026-03-26T04:30:08.415211Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 尊重他的射擊視野。如果他已經瞄準了主要的咽喉點，請待在屏障後方或選擇其他路徑。",
-        "* 變換你的左右橫移動作，讓他更難預測你的移動方向。",
-        "* 如果你使用的是側襲者（Flanker）或潛水型英雄，請持續對他施加壓力，讓他無法隨意射擊你的隊友。"
+        "* 尊重他的射擊視線。如果他已經瞄準了主要的咽喉點，請待在屏障後方或選擇其他路徑。",
+        "* 變換你的左右橫移步伐，讓他更難預測你的移動方向。",
+        "* 如果你使用的是側襲者或突擊型英雄，請持續對他施壓，讓他無法隨意攻擊你的隊友。"
       ],
       "content_hash": "eeb67e82d90d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:04.659987Z"
+      "timestamp": "2026-03-26T04:30:10.498034Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 擊殺潛力（Pick potential）",
-        "* 資訊蒐集（Info gathering）",
-        "* 多功能性（Versatility）",
-        "* 不穩定（Inconsistent）",
-        "* 容易受到側襲（Dive）與衝鋒（Rush）威脅",
-        "* 輔助能力低（Low utility）"
+        "* 擊殺潛力",
+        "* 資訊蒐集",
+        "* 多功能性",
+        "* 表現不穩定",
+        "* 容易受到機動與衝鋒陣容的威脅",
+        "* 功能性較低"
       ],
       "content_hash": "d162e0d79819",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:06.055476Z"
+      "timestamp": "2026-03-26T04:30:12.017370Z"
     },
     "3.1.1": {
-      "title": "選角潛力與威脅",
+      "title": "擊殺潛力與威脅",
       "description": "",
       "content": [
-        "半藏（Hanzo）能夠一擊秒殺脆弱英雄的能力，使他在戰鬥中始終保持著極大的威脅性。只要射出一支精準的箭矢，就能瞬間扭轉比賽的局勢。僅僅是「可能被瞬間擊殺」的威脅，就足以對敵方隊伍施加巨大的壓力，讓他們在推進時不得不更加謹慎。"
+        "半藏（Hanzo）擁有秒殺脆弱英雄的能力，使他在戰鬥中始終構成威脅。一支精準射出的箭矢就能瞬間扭轉比賽的局勢。僅僅是「可能被瞬間擊殺」的威脅，就足以對敵方隊伍造成巨大的壓力，迫使他們在推進時必須更加謹慎。"
       ],
       "content_hash": "648884a3b921",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:07.828007Z"
+      "timestamp": "2026-03-26T04:30:14.588713Z"
     },
     "3.1.2": {
       "title": "資訊蒐集",
       "description": "",
       "content": [
-        "音波箭（Sonic Arrow）賦予了半藏強大的偵查能力。掌握敵方的確切位置與移動路徑，能讓隊伍有額外的時間來調整站位與戰術。"
+        "音波箭（Sonic Arrow）賦予了半藏強大的偵查能力。掌握敵方的站位與行進路線，能讓隊伍有額外的時間來調整位置與策略。"
       ],
       "content_hash": "a66963113781",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:09.322696Z"
+      "timestamp": "2026-03-26T04:30:16.382820Z"
     },
     "3.1.3": {
-      "title": "多功能型（Versatile）",
+      "title": "多面手",
       "description": "",
       "content": [
-        "「攀牆（Wall Climb）」與「突進（Lunge）」讓半藏能夠抵達高處、安全地在牆後射擊，並在非主流位置進行戰鬥。當面臨壓力時，他可以選擇撤退，或是開啟「風（Storm Arrow）」來進行反擊。"
+        "「壁虎爬行（Wall Climb）」與「突進（Lunge）」讓半藏能夠前往高處、安全地越過牆壁射擊，並在非主流角度進行戰鬥。當受到壓力時，他可以選擇撤退，或是開啟「風暴箭（Storm Arrow）」來進行反擊。"
       ],
       "content_hash": "c837878391b6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:10.902212Z"
+      "timestamp": "2026-03-26T04:30:18.453316Z"
     },
     "3.2.1": {
       "title": "不穩定性",
       "description": "",
       "content": [
-        "半藏（Hanzo）的效益極度依賴瞄準能力。射失的箭矢幾乎無法提供任何價值，即便是頂尖的半藏玩家，也難免會有無法命中爆頭的時候。與許多輸出型英雄相比，半藏難以持續為隊伍帶來穩定的貢獻。"
+        "半藏的表現極度依賴瞄準能力。射失的箭矢幾乎無法提供任何價值，即便是頂尖的半藏玩家，也難免會遇到無法命中爆頭的時候。與許多輸出型英雄相比，半藏難以持續為隊伍帶來穩定的貢獻。"
       ],
       "content_hash": "f69843c2a2ef",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:12.514865Z"
+      "timestamp": "2026-03-26T04:30:20.364904Z"
     },
     "3.2.2": {
-      "title": "容易受到「機動」與「衝鋒」陣容的威脅",
+      "title": "容易受到「機動突擊」與「衝鋒」戰術的威脅",
       "description": "",
       "content": [
-        "雖然半藏擁有「風」與「霜」箭矢（Storm and Frost Arrow）的威脅能力，但他難以應對高機動性的「機動」型英雄，這些英雄特別難以被精準命中。此外，這些英雄通常不會站在直線路徑上或目標點內，因此他們天生就克制了半藏的主要戰術規劃。"
+        "雖然半藏擁有「風」與「霜」箭矢（Storm and Frost Arrow）的威脅能力，但他難以應對高機動性的側襲者（Flanker），這些英雄特別難以命中。此外，這些英雄通常不會站在直線路徑上或目標點內，因此他們天生就克制半藏的主要戰術規劃。"
       ],
       "content_hash": "013cac5f820f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:14.470769Z"
+      "timestamp": "2026-03-26T04:30:22.557899Z"
     },
     "3.2.3": {
-      "title": "隊伍輔助能力低落",
+      "title": "低團隊功能性",
       "description": "",
       "content": [
-        "除了音波箭（Sonic Arrow）之外，半藏在取得單獨擊殺之外，無法為隊伍帶來任何效益。他無法直接促進團隊配合，且在保護後排隊友（peeling）方面的表現也不突出。"
+        "除了音波箭（Sonic Arrow）之外，半藏在取得單獨擊殺以外，無法為隊伍帶來任何效益。他無法直接促進團隊配合，且在保護後排隊友方面表現並不突出。"
       ],
       "content_hash": "500b243574af",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:15.696758Z"
+      "timestamp": "2026-03-26T04:30:23.489906Z"
     },
     "4.1": {
-      "title": "主要攻擊：風弓（Storm Bow）",
+      "title": "主要攻擊：風弓",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/17238750e6fd25bf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fstorm-bow.png)風弓（Storm Bow）的使用技巧**",
-        "* 在對戰初期，透過頻繁射擊隘口來施加壓力並嘗試擊殺。一旦敵方位置暴露，請放慢節奏並仔細瞄準。",
-        "* 密切觀察敵人的移動模式，並利用這些資訊預判他們的走位，以提升爆頭的穩定性。",
-        "* 如果你習慣使用自訂準星，建議前往英雄設定將半藏的準星改回預設。預設準星能協助你根據距離調整垂直瞄準，以補償箭矢的拋物線下墜。",
-        "* 在近距離與敵人交戰，或是敵人生命值已偏低時，請使用蓄力較短的箭矢來快速完成擊殺。"
+        "關於 ![](/data/assets/guide/17238750e6fd25bf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fstorm-bow.png) 風弓的技巧",
+        "* 在遊戲初期對著咽喉點進行盲射以施加壓力，並嘗試取得擊殺。一旦敵方位置暴露，請放慢節奏並仔細瞄準。",
+        "* 密切觀察敵人的移動模式，並利用這些資訊預判他們的走位，這樣能讓你更穩定地打出爆頭。",
+        "* 如果你習慣使用自訂準心，建議進入英雄設定將半藏的準心改回預設。他的預設準心能幫助你根據距離調整垂直瞄準，以補償箭矢的下墜。",
+        "* 在近距離與敵人交戰，或是當敵人生命值較低時，請使用蓄力較短的箭矢來更快完成擊殺。"
       ],
       "content_hash": "194f98566a16",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:17.831508Z"
+      "timestamp": "2026-03-26T04:30:25.758468Z"
     },
     "4.2": {
-      "title": "[SHIFT]：音波箭（Sonic Arrow）",
+      "title": "[SHIFT]：音波箭",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/0867ccdb950bcb34.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsonic-arrow.png)音波箭（Sonic Arrow）的使用技巧**",
-        "* 在戰鬥開始「前」使用音波箭（Sonic Arrow）來偵查敵方的轉點動向。",
-        "* 不要將音波箭（Sonic Arrow）浪費在射擊空曠處的敵人身上。",
-        "* 射擊牆壁將會揭露該牆壁後方的敵人位置。",
-        "* 在戰鬥中，利用音波箭（Sonic Arrow）來協助你的隊伍追擊試圖撤退至安全區域的敵人。"
+        "![](/data/assets/guide/0867ccdb950bcb34.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsonic-arrow.png)音波箭的使用技巧",
+        "* 在會戰開始「前」使用音波箭來偵察敵方的轉點動向。",
+        "* 不要將音波箭浪費在射擊空曠處的敵人身上。",
+        "* 射擊牆壁可以揭露該牆壁後方的敵人位置。",
+        "* 在會戰中，利用音波箭來協助隊伍追擊試圖撤退至安全區域的敵人。"
       ],
       "content_hash": "ece6788014f1",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:19.344988Z"
+      "timestamp": "2026-03-26T04:30:27.941873Z"
     },
     "4.3": {
-      "title": "[E]：風（Storm Arrows）",
+      "title": "[E]：風箭",
       "description": "",
       "content": [
-        "![](/data/assets/guide/0867ccdb950bcb34.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsonic-arrow.png)音波箭（Sonic Arrow）的使用技巧",
-        "* 風（Storm Arrows）非常適合對戰士（Bruiser）、屏障以及移動受限的目標（例如哨衛模式的壁壘機兵（Bastion））造成爆發傷害。",
-        "* 不要驚慌失措地啟動風（Storm Arrows）。優秀的玩家會試圖誘騙你交出風（Storm Arrows），然後撤退。幾秒鐘後，當他們發動真正的進攻時，你將會陷入毫無防備的狀態。",
-        "* 在你有把握命中目標時再啟動技能。",
-        "* 你可以將風（Storm Arrows）射入狹小的房間，試圖收掉受傷的敵人。"
+        "![](/data/assets/guide/0867ccdb950bcb34.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsonic-arrow.png)音波箭的使用技巧",
+        "* 風箭在對付戰士、屏障以及移動受限的目標（例如哨衛模式的壁壘機兵）時，能發揮出色的爆發傷害。",
+        "* 不要驚慌失措地開啟風箭。優秀的玩家會試圖誘騙你使用風箭，然後再撤退。幾秒鐘後，當他們發動真正的進攻時，你就會陷入毫無防備的狀態。",
+        "* 在你確信射擊能夠命中時再開啟技能。",
+        "* 你可以將風箭射入狹小的房間，試圖擊殺受傷的敵人。"
       ],
       "content_hash": "6a46434c06d4",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:21.141290Z"
+      "timestamp": "2026-03-26T04:30:30.043774Z"
     },
     "4.4": {
-      "title": "(空中) [SPACE]: 突進（Lunge）",
+      "title": "（空中）[空白鍵]：突進（Lunge）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/64689db265ff11a7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flunge.png)突進（Lunge）的使用技巧**",
-        "* 當敵方隊伍擁有側襲者（Flanker）或突擊型英雄時，請優先保留突進（Lunge）來製造空間以保護自己。",
-        "* 避免使用可預測的突進（Lunge）模式；聰明的對手會預判你的落點，並在你被鎖定在移動狀態時懲罰你。"
+        "關於 ![](/data/assets/guide/64689db265ff11a7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Flunge.png)突進（Lunge）的提示",
+        "* 當敵方隊伍擁有側襲者（Flanker）和突擊型英雄時，請優先保留突進（Lunge）來拉開距離以保護自己。",
+        "* 避免使用可預測的突進（Lunge）模式；聰明的對手會預判你的落點，並在你被鎖定在移動動畫時懲罰你。"
       ],
       "content_hash": "c64a9ccb79cd",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:22.600259Z"
+      "timestamp": "2026-03-26T04:30:32.146417Z"
     },
     "4.5": {
-      "title": "[SPACE]：牆上攀爬（Wall Climb）",
+      "title": "[SPACE]：攀牆",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/7d1c537e6929240e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-climb.png)牆上攀爬（Wall Climb）的使用技巧**",
-        "* 牆上攀爬（Wall Climb）能讓你佔據大多數英雄無法爭奪的角度。請務必善用垂直空間。",
-        "* 將突進（Lunge）與牆上攀爬（Wall Climb）搭配使用，可以進入意想不到的角度，例如跳過牆壁或繞過轉角。",
-        "* 利用牆上攀爬（Wall Climb）短暫探頭獲取資訊，而無需完全暴露自己。隨後再爬回高處，對準你的目標進行射擊。"
+        "![](/data/assets/guide/7d1c537e6929240e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-climb.png)攀牆的技巧",
+        "* 攀牆能讓你佔據大多數英雄無法爭奪的角度。請務必善用垂直位置。",
+        "* 將突進（Lunge）與攀牆搭配使用，以進入意想不到的角度，例如跳過牆壁或繞過轉角。",
+        "* 利用攀牆短暫地探頭過牆以獲取資訊，而無需完全暴露自己。接著再爬回高處，向你鎖定的目標射擊。"
       ],
       "content_hash": "273ac94e9ecb",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:27.512284Z"
+      "timestamp": "2026-03-26T04:30:34.493821Z"
     },
     "4.6": {
-      "title": "絕招：龍擊（Dragonstrike）",
+      "title": "絕招：龍擊",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/16d7e47ad5393cd4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonstrike.png)龍擊（Dragonstrike）的使用技巧**",
-        "* 龍擊（Dragonstrike）在用於區域控制時也能發揮極大價值；它不僅僅是用來擊殺敵人的。",
-        "* 你可以透過在敵方隊伍中間射出 ![](/data/assets/guide/16d7e47ad5393cd4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonstrike.png)龍擊（Dragonstrike）來將其一分為二。前方的敵人將無法撤退，而你的隊伍其餘成員將有機會將他們殲滅。",
-        "* 先射出音波箭（Sonic Arrow）來確認敵方位置，然後隔著牆壁發射 ![](/data/assets/guide/16d7e47ad5393cd4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonstrike.png)龍擊（Dragonstrike），讓敵人更難閃避。",
+        "關於 ![](/data/assets/guide/16d7e47ad5393cd4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonstrike.png)龍擊 的提示",
+        "* 龍擊在用於區域控制時也能發揮極大價值；它不僅僅是用來擊殺敵人的。",
+        "* 你可以透過在敵方隊伍中間施放 ![](/data/assets/guide/16d7e47ad5393cd4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonstrike.png)龍擊 來將其一分為二。前方的敵人將無法撤退，而你的隊友將有機會將他們殲滅。",
+        "* 先射出音波箭（Sonic Arrow）來確認敵方位置，然後隔牆施放 ![](/data/assets/guide/16d7e47ad5393cd4.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonstrike.png)龍擊，讓敵人更難以閃避。",
         "* 在狹窄的隘口或目標點上特別有效。",
-        "* 與重力噴湧（Graviton Surge）之類的控場技能進行搭配，能發揮最致命且穩定的絕招效果。"
+        "* 與重力噴湧（Graviton Surge）之類的控場技能搭配使用，能達到最致命且穩定的絕招效果。"
       ],
       "content_hash": "c6619ac0f1e1",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:29.908518Z"
+      "timestamp": "2026-03-26T04:30:37.530004Z"
     },
     "5.1.1": {
-      "title": "音波干擾（Sonic Disruption）",
-      "description": "音波箭（Sonic Arrow）會駭入附近的生命包，持續 30 秒。",
+      "title": "音波干擾",
+      "description": "音波箭會駭入附近的生命包，持續 30 秒。",
       "content": [
-        "* 對於那些依賴生命包來重回戰場的敵方側襲者（Flanker）來說，這非常實用，能造成極大的困擾。",
-        "* 如果有像閃光（Tracer）這樣的側襲者，或是像火爆鋼球（Wrecking Ball）這樣的戰士（Bruiser）正在騷擾你的隊伍，透過搶奪生命包並再次攻擊你們，音波干擾（Sonic Disruption）可以用來阻礙他們的遊戲循環。"
+        "* 對於那些依賴生命包來重回戰場的敵方側襲者來說，這招非常實用，能造成極大的困擾。",
+        "* 如果有像閃光這樣的側襲者，或是像火爆鋼球這樣的坦克正在騷擾你的隊伍，透過搶奪生命包並再次發動攻擊，音波干擾可以用來阻礙他們的遊戲節奏。"
       ],
       "content_hash": "a06116e8a0fc",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:31.892951Z"
+      "timestamp": "2026-03-26T04:30:40.137486Z"
     },
     "5.1.2": {
-      "title": "龍之怒（Dragon Fury）",
-      "description": "使用主要攻擊（Primary Fire）擊中敵人後，獲得 20% 攻擊速度，持續 1.5 秒。",
+      "title": "龍之怒",
+      "description": "使用主要攻擊擊中敵人後，獲得 20% 攻擊速度，持續 1.5 秒。",
       "content": [
         "* 即使每 3 發射擊中僅命中 1 發，提升後的拉弓速度對半藏來說依然非常強大。",
-        "* 預設選擇此能力。當受到戰士（Bruiser）壓制時特別有效。",
-        "* 推薦次要特殊能力（minor perks）"
+        "* 預設選擇此能力。在受到戰士壓制時特別有效。",
+        "* 推薦次要特殊能力"
       ],
       "content_hash": "b0245ce5a0b5",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:33.536259Z"
+      "timestamp": "2026-03-26T04:30:42.314546Z"
     },
     "5.2.1": {
       "title": "散射箭（Scatter Arrows）",
-      "description": "在第一次彈跳時，風暴箭（Storm Arrows）會分裂成 5 支箭矢，造成 33% 的傷害並額外彈跳 1 次。",
+      "description": "在第一次彈跳時，風暴箭會分裂成 5 支箭矢，造成 33% 的傷害並額外彈跳 1 次。",
       "content": [
-        "* 理論上，你可以在室內或轉角處對撤退的敵人進行一些出其不意的擊殺（KOs），但這種情況過於小眾，在任何情境下都不值得優先選擇，不如選擇冰霜箭（Frost Arrow）。"
+        "* 理論上，你可以在室內或轉角處對撤退的敵人造成出其不意的擊殺，但它的適用範圍太過狹窄，在任何情況下都不值得優先選擇，不如使用冰霜箭（Frost Arrow）。"
       ],
       "content_hash": "8903abc59212",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:35.319942Z"
+      "timestamp": "2026-03-26T04:30:44.345661Z"
     },
     "6": {
       "title": "地圖",
       "description": "",
       "content": [
-        "最適合 ![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏的地圖擁有開闊、狹長的視線，例如皇家賽道、羅馬競技場的第一個據點，以及哈瓦那。這些區域能將敵人引導至可預測的位置，讓他可以不斷射出箭矢，並利用長距離一擊必殺的威脅來壓制對手。",
-        "由於他能透過 ![](/data/assets/guide/7d1c537e6929240e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-climb.png)壁虎攀爬（Wall Climb）反覆登上高處，因此佔據目標點周圍的高地對他來說特別有利。",
-        "目標區域封閉的地圖對他而言較為困難，因為除了使用 ![](/data/assets/guide/fd60def8b68baca3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fstorm-arrows.png)風（Storm Arrows）之外，他在近距離交戰中處於劣勢。",
-        "像多拉多這類高地地圖唯一的缺點是，這些地圖也是敵人經常選用他主要剋星（如 ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏和 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va）的熱門地圖。"
+        "最適合 ![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏的地圖擁有開闊且狹長的視線，例如皇家賽道、羅馬競技場的第一個據點，以及哈瓦那。這些區域能將敵人引導至可預測的位置，讓他可以持續射出箭矢，並利用長距離一擊必殺的威脅來壓制對手。",
+        "由於他能透過 ![](/data/assets/guide/7d1c537e6929240e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwall-climb.png)壁虎攀爬（Wall Climb）反覆登上高處，因此佔據目標點周圍的高台對他來說特別有利。",
+        "目標區域封閉的地圖對他而言較為困難，因為除了使用 ![](/data/assets/guide/fd60def8b68baca3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fstorm-arrows.png)風（Storm Arrows）之外，他在近距離作戰時處於劣勢。",
+        "像多拉多這類高台地圖唯一的缺點在於，這些也是敵人經常使用他主要剋星（例如 ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏和 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va）的地圖。"
       ],
       "content_hash": "39d488d15495",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:37.410169Z"
+      "timestamp": "2026-03-26T04:30:47.377359Z"
     },
     "6.1.1": {
       "title": "皇家賽道",
@@ -269,9 +269,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:38.587776Z"
+      "timestamp": "2026-03-26T04:30:48.987578Z"
     },
     "6.1.2": {
       "title": "羅馬競技場",
@@ -280,9 +280,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:39.911374Z"
+      "timestamp": "2026-03-26T04:30:50.416336Z"
     },
     "6.1.3": {
       "title": "哈瓦那",
@@ -291,9 +291,9 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:41.427273Z"
+      "timestamp": "2026-03-26T04:30:51.745508Z"
     },
     "6.2.1": {
       "title": "多拉多",
@@ -302,40 +302,40 @@
         "人工智慧生成"
       ],
       "content_hash": "cdcbb68a3444",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:42.782010Z"
+      "timestamp": "2026-03-26T04:30:52.981678Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏（Hanzo）需要像 ![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)多米娜（Domina）或 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特（Reinhardt）這類擁有屏障的坦克站在前方，讓他能在受保護的情況下安全地瞄準目標。雖然他也可以在地形高處或側翼位置進行輸出，但屏障能讓他的工作變得輕鬆許多。",
-        "另一種最能幫助他的坦克類型是像 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎（Orisa）和 ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬（Roadhog）這類英雄，他們可以阻擋試圖靠近並針對半藏的敵方潛水型英雄與側襲者（Flanker）。",
-        "由於他的傷害有時較不穩定，且主要覆蓋在主要視線範圍內，因此他也受益於像 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光（Tracer）這類能從敵方隊伍後方發動攻擊的側襲者（Flanker），以及像 ![](/data/assets/guide/e4d3354cf66c9e62.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Femre.png)伊默（Emre）和 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵（Bastion）這類能對攻擊者造成穩定傷害的即時命中（Hitscan）英雄。"
+        "![](/data/assets/guide/affc69220cbf88d7.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fhanzo.png)半藏需要像 ![](/data/assets/guide/91e2ca432368c785.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdomina.png)多米娜 或 ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)萊因哈特 這樣的護盾坦克站在前方，讓他能在保護下安全地瞄準目標。雖然他也可以佔據高處和側翼角度，但護盾能讓他的工作輕鬆許多。",
+        "另一種最能幫助他的坦克類型是像 ![](/data/assets/guide/c56b764d48d7b25b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Forisa.png)歐瑞莎 和 ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)攔路豬 這樣的角色，他們可以阻斷試圖靠近並針對半藏的敵方潛水者與側襲者。",
+        "由於他的傷害有時較不穩定，且主要覆蓋在主要視線範圍內，因此他也受益於像 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光 這樣能從敵方隊伍後方發動攻擊的側襲者，以及像 ![](/data/assets/guide/e4d3354cf66c9e62.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Femre.png)伊默 和 ![](/data/assets/guide/9836801e140c9b2a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbastion.png)壁壘機兵 這種能對攻擊者造成持續傷害的即時命中英雄。"
       ],
       "content_hash": "7424edf598f9",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:45.226323Z"
+      "timestamp": "2026-03-26T04:30:55.623479Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "尊重他的射擊視線。如果他已經瞄準了主要的咽喉點，請待在屏障後方或選擇其他路徑。",
-        "變換你的左右橫移動作，讓他更難預測你的移動方向。",
-        "如果你使用的是側襲者（Flanker）或前鋒（Initiator）英雄，請持續對他施加壓力，讓他無法隨意攻擊你的隊友。"
+        "* 注意他的視線範圍。如果他已經瞄準了主要的咽喉點，請待在屏障後方或選擇其他路徑。",
+        "* 變換你的左右橫移動作，讓他更難預測你的移動方向。",
+        "* 如果你使用的是側襲者或突進型英雄，請持續對他施壓，讓他無法隨意射擊你的隊友。"
       ],
       "content_hash": "f4cb0f9db83b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:20:47.009196Z"
+      "timestamp": "2026-03-26T04:30:57.992230Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:19:57.065071Z"
+    "timestamp": "2026-03-26T05:10:57.913861Z"
   }
 }

@@ -301,6 +301,60 @@ def validate_and_fix_master_data(master_file=None, mapping_file=None, write_back
     return True
 
 
+def _build_hero_stats_map_from_df(stats_df):
+    hero_stats_map = {}
+    if stats_df.empty:
+        return hero_stats_map
+
+    for _, row in stats_df.iterrows():
+        h_name = row["Hero"]
+        mode = row["Mode"]
+        tier = row["Tier"]
+        map_name = row["Map"] if "Map" in stats_df.columns and pd.notna(row["Map"]) else "all-maps"
+
+        if h_name not in hero_stats_map:
+            hero_stats_map[h_name] = {}
+
+        if mode not in hero_stats_map[h_name]:
+            hero_stats_map[h_name][mode] = {}
+
+        if tier not in hero_stats_map[h_name][mode]:
+            hero_stats_map[h_name][mode][tier] = {}
+
+        hero_stats_map[h_name][mode][tier][map_name] = {
+            "win_rate": row["Win Rate (%)"],
+            "pick_rate": row["Pick Rate (%)"],
+            "role": row["Role"],
+        }
+
+    return hero_stats_map
+
+
+def build_overwatch_stats_from_blizzard_csv(raw_csv_path=None, output_stats_file=None):
+    base_dir = os.path.dirname(__file__)
+    if raw_csv_path is None:
+        raw_csv_path = os.path.join(base_dir, "..", "data", "raw", "blizzard_stats.csv")
+    if output_stats_file is None:
+        output_stats_file = os.path.join(base_dir, "..", "data", "overwatch_stats.json")
+
+    if not os.path.exists(raw_csv_path):
+        print(f"[警告] 找不到 Blizzard 資料: {raw_csv_path}，略過更新 overwatch_stats.json")
+        return False
+
+    stats_df = pd.read_csv(raw_csv_path)
+    hero_stats_map = _build_hero_stats_map_from_df(stats_df)
+    stats_data = {
+        "last_updated": pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "heroes_stats": hero_stats_map,
+    }
+
+    with open(output_stats_file, "w", encoding="utf-8") as f:
+        json.dump(stats_data, f, ensure_ascii=False, indent=2)
+
+    print(f"✅ 已更新 Blizzard 統計: {output_stats_file}")
+    return True
+
+
 def merge_overwatch_data():
     base_dir = os.path.dirname(__file__)
     raw_dir = os.path.join(base_dir, "..", "data", "raw")
@@ -334,28 +388,7 @@ def merge_overwatch_data():
     hero_lookup, hero_id_set = _build_hero_mapping_lookup(mapping_data)
 
     # 4. 處理統計數據 (整理成 Hero -> Mode -> Tier -> Map)
-    hero_stats_map = {}
-    if not stats_df.empty:
-        for _, row in stats_df.iterrows():
-            h_name = row["Hero"]
-            mode = row["Mode"]
-            tier = row["Tier"]
-            map_name = row["Map"] if "Map" in stats_df.columns and pd.notna(row["Map"]) else "all-maps"
-
-            if h_name not in hero_stats_map:
-                hero_stats_map[h_name] = {}
-
-            if mode not in hero_stats_map[h_name]:
-                hero_stats_map[h_name][mode] = {}
-
-            if tier not in hero_stats_map[h_name][mode]:
-                hero_stats_map[h_name][mode][tier] = {}
-
-            hero_stats_map[h_name][mode][tier][map_name] = {
-                "win_rate": row["Win Rate (%)"],
-                "pick_rate": row["Pick Rate (%)"],
-                "role": row["Role"],
-            }
+    hero_stats_map = _build_hero_stats_map_from_df(stats_df)
 
     # 5. 儲存完整地圖維度統計
     stats_data = {

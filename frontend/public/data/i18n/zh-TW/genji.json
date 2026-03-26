@@ -6,395 +6,395 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "作為半藏的弟弟以及霧子的摯友，源氏運用他生化忍者的技巧，在戰場上進行跳躍、攀爬與衝刺！身為兩名元老級的側襲者（Flanker）輸出英雄之一，對於那些想要在敵方陣線後方進行作戰的玩家來說，源氏依然是絕佳的選擇。揮舞著他的 ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字（Dragonblade）與 ![](/data/assets/guide/6c736d07f66ab357.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshuriken.png)手裏劍（Shuriken），使他擁有《Overwatch》中數一數二的爆發傷害。",
-        "結合了爬牆、二段跳與衝刺，造就了他無與倫比的敏捷性與機動性。無論地圖或隊伍陣容為何，源氏作為側襲者（Flanker）或潛入型英雄的表現總是最佳。當他獲得隊友的協助時，例如與他的戰士（Bruiser）協調進行後排攻擊，或是從支援位獲得資源，他便能以前所未有的方式刺殺敵方後排。",
-        "雖然手裏劍（Shuriken）可以在任何距離使用，但源氏主要還是傾向於在突襲敵人後，進行近距離的貼身戰鬥。"
+        "作為半藏的弟弟以及霧子的摯友，源氏運用他生化忍者的技巧在戰場中跳躍、攀爬並進行衝刺！身為兩名元老級側襲者（Flanker）輸出英雄之一，對於那些想要在敵方防線後方作戰的玩家來說，源氏依然是絕佳的選擇。揮舞著他的 ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png) 龍一文字（Dragonblade）並投擲 ![](/data/assets/guide/6c736d07f66ab357.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshuriken.png) 手裏劍（Shuriken），使他擁有《鬥陣特攻》中數一數二的高爆發傷害。",
+        "結合了牆壁攀爬、二段跳躍與衝刺，造就了他無與倫比的敏捷性與機動性。無論地圖或隊伍陣容為何，源氏作為側襲者（Flanker）或突擊型英雄的表現總是最佳。當他獲得隊友的協助時，例如與坦克（Tank）協調進行後排進攻，或是從支援（Support）獲得資源，他便能以無人能及的方式刺殺敵方後排。",
+        "雖然手裏劍（Shuriken）可以在任何距離使用，但源氏主要還是傾向於在出其不意地突襲敵人後，近距離與對手交戰。"
       ],
       "content_hash": "1fad5c74ff93",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:16:59.503815Z"
+      "timestamp": "2026-03-26T04:26:15.860273Z"
     },
     "1.1.1": {
       "title": "遊玩方式",
       "description": "",
       "content": [
         "* 以輔助為目標。源氏的主要功能是刺殺後排。利用你的機動性繞過敵方前線，靠近輔助並優先擊殺他們。",
-        "* 永遠進行側襲。源氏不應該站在目標區域的前方或中間。將自己定位在戰鬥的邊緣，並從敵人的側面或後方發動攻擊。",
-        "* 輔助玩家知道要保留像 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png) 音波屏障（Sound Barrier）這類絕招來反制龍一文字（Blade）。如果你懷疑他們有防禦型絕招可用，請保留龍一文字，直到你的隊伍逼出對方的絕招為止。"
+        "* 務必進行側襲。源氏不應該站在目標區域的前方或中間。請在戰鬥邊緣進行佈署，並從敵人的側面或後方發動攻擊。",
+        "* 輔助玩家知道要保留像是 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png) 音波屏障這類絕招來反制「龍一文字」。如果你懷疑對方有防禦型絕招可用，請先保留「龍一文字」，直到你的隊伍逼出對方的絕招為止。"
       ],
       "content_hash": "9c1b3f1b7195",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:01.436586Z"
+      "timestamp": "2026-03-26T04:26:18.424513Z"
     },
     "1.1.2": {
       "title": "遊玩建議",
       "description": "",
       "content": [
-        "* 不要落單。源氏是《鬥陣特攻》中最頂尖的 1v1 決鬥者之一，因此請與隊友保持靠近，讓他必須同時面對至少兩名敵人。",
-        "* 利用標準武器進行攻擊來逼出 ![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png) 招架（Deflect），接著在他沒有該技能時，使用冷卻技能給予懲罰。",
-        "* ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png) 龍一文字（Dragonblade）極具殺傷力，甚至能直接扭轉團戰勝負。請預先規劃好你該如何保命，以及如何透過治療、爆發傷害或控場技能（CC）來協助隊友存活。"
+        "* 不要落單。源氏是《鬥陣特攻》中最頂尖的 1 對 1 決鬥者之一，因此請保持在隊友身邊，這樣他至少必須同時面對兩名敵人。",
+        "* 利用普通武器進行攻擊來逼出 ![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png) 招架，接著在他沒有該技能時，使用你的冷卻技能來懲罰他。",
+        "* ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png) 龍一文字極具威脅性，能瞬間扭轉團戰勝負。請預先規劃好你該如何存活，以及如何透過治療、爆發傷害或控場技能來協助隊友生存。"
       ],
       "content_hash": "b8b947f161ed",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:03.805774Z"
+      "timestamp": "2026-03-26T04:26:20.923864Z"
     },
     "2": {
       "title": "優勢與劣勢總結",
       "description": "",
       "content": [
-        "* 1v1 單挑能力",
-        "* 機動性（Mobility）",
+        "* 1對1單挑",
+        "* 機動性",
         "* 殺手（Killer）",
-        "* 低消耗（Low poke）",
-        "* 依賴冷卻時間（Relies on cooldowns）",
-        "* 容易受到光束武器（Beams）影響"
+        "* 低消耗傷害（Low poke）",
+        "* 依賴冷卻時間",
+        "* 容易受到光束攻擊影響"
       ],
       "content_hash": "ea81cf131ad1",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:05.211589Z"
+      "timestamp": "2026-03-26T04:26:22.899463Z"
     },
     "3.1.1": {
-      "title": "1v1 對決",
+      "title": "1 對 1 決鬥",
       "description": "",
       "content": [
-        "作為遊戲中最頂尖的決鬥者之一，源氏（Genji）傾向於盡可能尋找落單的目標進行交戰。由於手裏劍（Shurikens）的飛行速度較慢，在近距離時最容易命中目標。透過在目標上方與周圍進行二段跳（Double jumping），能讓敵方玩家在追蹤源氏（Genji）的瞄準變得非常困難。反彈（Deflect）帶來的威脅，使得敵方玩家很難使用他們的技能。一旦技能被反彈（Deflect），對敵人來說往往意味著必死無疑。"
+        "身為遊戲中最頂尖的決鬥者之一，源氏總是希望能盡可能地找尋落單的目標進行交戰。由於手裏劍（Shurikens）的飛行速度較慢，在近距離時最容易命中目標。透過二段跳躍在目標頭頂與周圍穿梭，能讓敵方玩家在追蹤源氏時感到非常棘手。反彈（Deflect）帶來的威脅，使得敵方玩家很難隨意使用技能。一旦技能遭到反彈，對敵人來說往往意味著必死無疑。"
       ],
       "content_hash": "2aba7544a815",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:07.207051Z"
+      "timestamp": "2026-03-26T04:26:25.467886Z"
     },
     "3.1.2": {
       "title": "機動性",
       "description": "",
       "content": [
-        "結合源氏的三種機動性工具，使他能夠走遍地圖上極少數英雄才能抵達的路徑。源氏的機動性既可以用於防禦，以閃避傷害或脫離戰鬥，也可以用於進攻，快速逼近敵人。"
+        "結合源氏的三種機動性工具，讓他能運用地圖上極少數英雄才能走的路線。源氏的機動性既可以用於防禦，以閃避傷害或脫離戰鬥，也能用於進攻，迅速逼近敵人。"
       ],
       "content_hash": "6427d9b227c5",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:08.568843Z"
+      "timestamp": "2026-03-26T04:26:27.212668Z"
     },
     "3.1.3": {
-      "title": "團隊殲滅潛力",
+      "title": "團隊滅殺潛力",
       "description": "",
       "content": [
-        "「龍一文字（Dragonblade）」本身就是一個不錯的絕招。當與安娜（Ana）的「奈米強化（Nano Boost）」或霧子（Kiriko）的「狐狸衝刺（Kitsune Rush）」等輔助型絕招結合時，源氏（Genji）確實有能力殲滅整個敵方隊伍。"
+        "「龍一文字」本身是一個不錯的絕招。當與安娜的「奈米強化」或霧子的「狐狸衝刺」等輔助型絕招結合時，源氏確實有能力殲滅整個敵方隊伍。"
       ],
       "content_hash": "f3bd8cb96574",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:10.032220Z"
+      "timestamp": "2026-03-26T04:26:29.116075Z"
     },
     "3.2.1": {
       "title": "低消耗傷害",
       "description": "",
       "content": [
-        "在戰鬥的消耗（Poke）階段，當雙方隊伍仍保持一定距離時，源氏（Genji）能提供的價值相當有限。擴散且飛行速度緩慢的鏢（Shurikens）是遠距離能力中最弱的一種。"
+        "在戰鬥的消耗階段，當雙方隊伍仍保持一定距離時，源氏能提供的價值很低。擴散且飛行速度緩慢的「手裏劍（Shurikens）」是遠距離能力中最弱的一種。"
       ],
       "content_hash": "f224891b4ede",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:11.408867Z"
+      "timestamp": "2026-03-26T04:26:31.010431Z"
     },
     "3.2.2": {
-      "title": "極度依賴技能冷卻循環",
+      "title": "高度依賴技能冷卻循環",
       "description": "",
       "content": [
-        "當源氏已經使用過招架（Deflect）和迅影襲（Swift Strike）時，他在防禦上會變得像活靶子一樣脆弱，在進攻上也幾乎構不成威脅。能夠連續觸發迅影襲（Swift Strike）重置的玩家，其強度遠勝於尚未精通此項技巧的玩家。"
+        "當源氏已經使用過招架（Deflect）和迅影襲（Swift Strike）時，他在防禦上會變得像活靶子一樣脆弱，在進攻上也幾乎構不成威脅。能夠連續觸發迅影襲（Swift Strike）重置效果的玩家，其實力遠勝於尚未精通此項技巧的玩家。"
       ],
       "content_hash": "67b7fb09bd5d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:13.097427Z"
+      "timestamp": "2026-03-26T04:26:32.724894Z"
     },
     "3.2.3": {
       "title": "容易受到光束攻擊",
       "description": "",
       "content": [
-        "由於「招架（Deflect）」是源氏生存的主要手段，因此他在面對擁有光束武器的英雄時會顯得相當吃力。當溫斯頓跳向他時，他最好準備好「影（Swift Strike）」來脫身。如果他讓這些英雄進入攻擊範圍，像是札莉雅、辛梅塔和莫伊拉這類英雄能迅速地將源氏擊殺。"
+        "由於「招架」（Deflect）是源氏生存的主要手段，因此他很難應對擁有光束武器的英雄。當溫斯頓跳向他時，他最好準備好「影」（Dash）來逃脫。如果讓這些英雄進入攻擊範圍，像是札莉雅、辛梅塔和莫伊拉這類英雄能迅速擊殺源氏。"
       ],
       "content_hash": "343dde3e29bb",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:14.697207Z"
+      "timestamp": "2026-03-26T04:26:34.954531Z"
     },
     "4.1": {
-      "title": "主要攻擊：手裏劍（Shuriken）",
+      "title": "主要攻擊：手裏劍",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/6c736d07f66ab357.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshuriken.png)手裏劍（Shuriken）的技巧**",
-        "* 騷擾（Poke）",
-        "* * 手裏劍沒有傷害衰減。如果你看到像安娜（Ana）這種開鏡時靜止不動的目標，三發爆頭可以瞬間造成 162 點傷害，使其陷入瀕死狀態。",
+        "![](/data/assets/guide/6c736d07f66ab357.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshuriken.png)手裏劍的技巧",
+        "* 騷擾",
+        "* * 手裏劍沒有傷害衰減。如果你看到像正在開鏡的安娜這種靜止目標，三發爆頭可以瞬間造成 162 點傷害，將其生命值打至瀕死狀態。",
         "* 小型目標",
-        "* * 對付小型目標時，主要攻擊可能感覺比較難以命中，但其傷害潛力遠高於扇形發射。"
+        "* * 針對小型目標時，主要攻擊可能感覺比較難以命中，但其傷害潛力遠高於扇形射擊。"
       ],
       "content_hash": "289e1ad9b1b6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:16.492652Z"
+      "timestamp": "2026-03-26T04:26:37.193461Z"
     },
     "4.2": {
       "title": "次要攻擊：手裏劍（扇形擴散）",
       "description": "",
       "content": [
         "**![](/data/assets/guide/6c736d07f66ab357.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshuriken.png)手裏劍（扇形擴散）的技巧**",
-        "* 體型巨大的敵人",
-        "* 次要攻擊對體型較大的坦克與輸出英雄能造成穩定的高額傷害。在近距離時，請切換為次要攻擊。",
+        "* 大型體型敵人",
+        "* * 次要攻擊能對體型較大的戰士與輸出型英雄造成穩定且高額的傷害。在近距離時，請切換為次要攻擊。",
         "* 更容易完成擊殺",
-        "* 當目標生命值極低（一擊即可擊殺）時，使用次要攻擊通常比主要攻擊更容易命中單發手裏劍。"
+        "* * 當目標生命值極低時，使用次要攻擊通常比主要攻擊更容易命中單發手裏劍。"
       ],
       "content_hash": "40747578139a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:18.119472Z"
+      "timestamp": "2026-03-26T04:26:39.433000Z"
     },
     "4.3": {
-      "title": "[SHIFT]：迅影襲（Swift Strike）",
+      "title": "[SHIFT]：迅影襲",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/2b083b4a4d737525.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-strike.png)迅影襲（Swift Strike）的技巧**",
+        "**![](/data/assets/guide/2b083b4a4d737525.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-strike.png)迅影襲的使用技巧**",
         "* 進場路徑",
-        "* * 一般來說，不要使用衝刺來進場。相反地，請利用你常規的機動性來就位並佈置你的側襲路線。",
+        "* * 一般來說，不要使用衝刺來進場。相反地，請利用你常規的機動性來就位並建立你的側襲位置。",
         "* 何時使用衝刺",
-        "* * 專注於將迅影襲（Swift Strike）留作確認擊殺並觸發衝刺重置，或是用來脫離戰場以保住性命。",
+        "* * 專注於將迅影襲保留在確認擊殺並獲得衝刺重置，或是用來脫離戰場並保命時使用。",
         "* 衝刺重置",
-        "* * 使用任何技能完成擊殺後，迅影襲（Swift Strike）的冷卻時間都會重置。你不一定要用衝刺來完成擊殺才能獲得重置。",
-        "* 學習如何管理你的衝刺重置是源氏（Genji）最致命的手段，因此請投入時間來學習距離與時機的掌握。",
-        "* 針對 250 生命值英雄的一套秒殺連招：",
-        "* * 主要攻擊 → 迅影襲（Swift Strike） → 次要攻擊 → 近戰攻擊",
-        "* 必須確保所有手裏劍（Shurikens）都命中目標"
+        "* * 迅影襲的冷卻時間會在利用任何技能達成擊殺時重置。你不一定要用衝刺來完成擊殺才能獲得重置。",
+        "* 學習如何管理你的衝刺重置是源氏最致命的手段，因此請投入時間來學習距離與時機的掌握。",
+        "* 針對 250 生命值英雄的秒殺連招。",
+        "* * 主要攻擊 → 迅影襲 → 次要攻擊 → 近戰攻擊",
+        "* 需要命中所有手裏劍"
       ],
       "content_hash": "43badd2f2497",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:20.484174Z"
+      "timestamp": "2026-03-26T04:26:41.959871Z"
     },
     "4.4": {
-      "title": "[E]：招架（Deflect）",
+      "title": "[E]：招架",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png)招架（Deflect）的使用技巧**",
+        "![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png)招架的技巧",
         "* 反制敵方價值最高的技能",
-        "* * 當你知道敵方隊伍擁有高價值技能時，請保留招架（Deflect），例如：安娜（Ana）的睡眠鏢（Sleep Dart）、莫加（Mauga）的心臟過載（Cardiac Overdrive）、閃光（Tracer）的黏性炸彈（Sticky Bombs）、札莉雅（Zarya）的重力噴湧（Graviton Surge）、壁壘機兵（Bastion）的強襲模式（Assault Configuration）等。",
-        "* 冷卻時間循環",
-        "* * 若招架（Deflect）不在冷卻完畢狀態，請勿進行近距離交戰。一旦你使用了該技能，就必須規劃好如何生存或撤退。",
-        "* 單純保留招架（Deflect）就能製造出使用該技能的威脅性，這在與對手決鬥時，其價值幾乎等同於多擁有一項冷卻技能。",
-        "* 當敵人知道你還握有招架（Deflect）時，他們在使用技能時會有所顧忌。",
-        "* 招架（Deflect）的瞄準",
-        "* 招架（Deflect）的判定範圍僅限於源氏（Genji）前方，無法阻擋來自背後的傷害。因此，你必須瞄準攻擊者才能招架他們的攻擊。",
-        "* 範例：將奪命女（Widowmaker）的狙擊射擊招架回她的頭部，即可透過暴擊將其擊殺。"
+        "* 當你知道敵方隊伍擁有高價值技能時，請保留招架，例如：睡眠鏢（Sleep Dart）、心臟過載（Cardiac Overdrive）、黏性炸彈（Sticky Bombs）、重力彈（Graviton Surge）、壁壘機兵的機兵模式等等。",
+        "* 冷卻循環",
+        "* 在沒有招架的情況下，請勿進行近距離戰鬥。一旦使用過招架，你需要規劃好該如何生存或撤退。",
+        "* 單純保留招架就能製造出使用該技能的威脅感，這在與對手決鬥時，其價值幾乎等同於多擁有一項冷卻技能。",
+        "* 當敵人知道你還有招架時，他們在使用技能時就會有所顧忌。",
+        "* 招架的瞄準",
+        "* 招架的判定範圍僅在源氏前方，無法阻擋來自背後的傷害。因此，你需要瞄準攻擊者才能招架他們的攻擊。",
+        "* 範例：將奪命女的狙擊射擊招架回她的頭部，就能以暴擊將她擊殺。"
       ],
       "content_hash": "b39476524c60",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:23.075794Z"
+      "timestamp": "2026-03-26T04:26:44.878598Z"
     },
     "4.5": {
-      "title": "[空間]：生化敏捷（Cyber-agility）",
+      "title": "[空間]：生化敏捷",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/54c6c32e92f23687.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcyber-agility.png)生化敏捷（Cyber-agility）的技巧**",
+        "![](/data/assets/guide/54c6c32e92f23687.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcyber-agility.png)生化敏捷（Cyber-Agility）的提示",
         "* 佈局與路徑規劃",
-        "* 盡可能尋找僅透過爬牆（Wall Climb）和二段跳（Double Jump）就能切入後排目標的路徑。這能讓源氏（Genji）在實際交戰時，隨時保有影（Swift Strike）可以使用。",
+        "* * 盡可能尋找僅透過攀牆與二段跳就能切入後排目標的路徑。這能讓源氏在實際交戰時，隨時保有迅影襲（Swift Strike）可以使用。",
         "* 發揮創意，尋找能從意想不到的角度發動攻擊以突襲敵人的方式。這也能將你在準備階段所受到的傷害降至最低。"
       ],
       "content_hash": "3829d98840c2",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:25.088743Z"
+      "timestamp": "2026-03-26T04:26:47.581571Z"
     },
     "4.6": {
-      "title": "絕招：龍一文字（Dragonblade）",
+      "title": "絕招：龍一文字",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字（Dragonblade）的使用技巧**",
+        "**![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字的使用技巧**",
         "* 追蹤敵方的反制技能",
-        "* 在使用龍一文字（Dragonblade）之前，觀察敵人是否已交出能阻止你的冷卻技能（安娜（Ana）的睡眠鏢（Sleep Dart）、![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)禪亞塔（Zenyatta）的聖（Transcendence）、卡西迪（Cassidy）的磁性手榴彈（Magnetic Grenade）等）至關重要。",
-        "* 同樣地，除非你確認敵方英雄已經使用過位移或無敵逃生技能，否則不應將這些英雄作為首要目標。",
+        "* 在使用龍一文字前，觀察敵方是否已交出能阻止你的冷卻技能（安娜的睡眠鏢、![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)禪亞塔的聖、卡西迪的磁性手榴彈等）至關重要。",
+        "* 同樣地，除非你已確認敵方交出了位移或無敵脫逃技能，否則不應將這些高機動性或具備保命手段的英雄作為首要目標。",
         "* 尋找落單的目標",
-        "* 任何時候只要發現敵方位置遠離隊伍，他們就是最容易擊殺的對象，也能讓你藉此獲得第一次影（Dash）的冷卻重置。",
+        "* 只要能找到遠離隊伍的敵方位置，他們就是最容易擊殺的目標，並能讓你藉此獲得第一次的影斬冷卻重置。",
         "* 與隊友的技能進行配合",
-        "* 奈米龍一文字（NanoBlade）的經典連招是：先向上方施放影（Dash）並呼叫奈米強化（Nano Boost），同時開啟兩項絕招，隨後利用重置的影（Dash）突襲目標。",
-        "* 根據你的隊伍陣容，判斷哪些技能可以強化你的龍一文字（Dragonblade），以最大化擊殺機率。",
-        "* 龍一文字（Dragonblade）的基本連招",
-        "* 擊殺 275 生命值的英雄：影（Dash）→ 斬（Slash）→ 斬（Slash）（影（Dash）冷卻重置），以此類推。",
-        "* （在奈米強化（Nano Boost）狀態下）：影（Dash）→ 斬（Slash）即可擊殺 225 生命值的英雄。"
+        "* 奈米龍一文字（NanoBlade）的經典連招是：先向上衝刺並呼叫奈米強化，同時開啟兩項絕招，接著利用影斬重置來突襲你的目標。",
+        "* 根據隊伍陣容，判斷哪些技能能強化你的龍一文字，以達到最高的擊殺機率。",
+        "* 龍一文字的基本連招",
+        "* 擊殺 275 生命值的英雄：影斬 → 斬擊 → 斬擊（影斬冷卻重置），以此類推。",
+        "* （在奈米強化狀態下）：影斬 → 斬擊即可擊殺 225 生命值的英雄。"
       ],
       "content_hash": "4ca458d245cc",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:28.006250Z"
+      "timestamp": "2026-03-26T04:26:51.730203Z"
     },
     "5.1.1": {
       "title": "迅捷斬擊（Swift Cuts）",
       "description": "近戰攻擊（Quick Melee）會使「迅捷斬擊（Swift Strike）」的冷卻時間縮短 3 秒。",
       "content": [
         "**特技（Acrobatics）**",
-        "* 用處不大",
-        "* 相較於「龍之渴望（Dragon’s Thirst）」，特技（Acrobatics）能為源氏帶來的價值微乎其微。你幾乎找不到任何機會需要用到二段跳、衝刺，然後再接二段跳的組合。"
+        "* 實用性不高",
+        "* 與「龍之渴望（Dragon’s Thirst）」相比，特技（Acrobatics）能為源氏帶來的價值微乎其微。你幾乎找不到在進行二段跳、衝刺後，再進行一次二段跳的實戰用途。"
       ],
       "content_hash": "7229cd31634d",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:29.896570Z"
+      "timestamp": "2026-03-26T04:26:53.609889Z"
     },
     "5.1.2": {
-      "title": "龍之渴求（Dragon's Thirst）",
-      "description": "龍一文字（Dragonblade）揮擊獲得 30% 的吸血效果。",
+      "title": "龍之渴求",
+      "description": "龍一文字的揮擊獲得 30% 的生命竊取。",
       "content": [
-        "* 最佳次要特殊能力（Minor Perk）",
-        "* 龍一文字（Dragonblade）期間的吸血效果讓你能在施放絕招時比平常更加激進。",
+        "* 最佳次要特殊能力",
+        "* 在龍一文字期間獲得的生命竊取，能讓你比平時施放絕招時更加激進。",
         "* 減少對隊伍資源的依賴",
-        "* 當裝備龍之渴求（Dragon's Thirst）時，源氏（Genji）有更多主導權去創造精彩操作，而無需依賴治療或與安娜（Ana）的奈米強化（Nano Boost）進行絕招連攜。",
-        "* 在連續揮擊時，源氏（Genji）每秒可獲得約 45 點治療量；若搭配奈米強化（Nano Boost），每秒治療量更會躍升至約 70 點！",
+        "* 當裝備「龍之渴求」時，源氏有更多主導權去創造精彩操作，而無需依賴治療或與像是奈米強化（Nano Boost）這類絕招進行連攜。",
+        "* 當連續揮擊時，源氏每秒最多可獲得約 45 點治療量；若搭配奈米強化，則會躍升至每秒約 70 點治療量！",
         "* 依然並非無敵",
-        "* 請務必記住，即便擁有吸血效果，你也不是無敵的，因此請採取標準的防範措施，不要試圖 1 打 5 對抗敵方隊伍。"
+        "* 請務必記住，僅僅因為你有生命竊取並不代表你無敵，因此請採取標準的防範措施，不要試圖 1 打 5 對抗敵方隊伍。"
       ],
       "content_hash": "e9523f6bb379",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:31.870013Z"
+      "timestamp": "2026-03-26T04:26:56.383141Z"
     },
     "5.2.1": {
-      "title": "刀鋒扭轉（Blade Twisting）",
-      "description": "若敵人生命值低於一半，疾（Swift Strike）會造成 25 點額外持續傷害。",
+      "title": "刀鋒扭轉",
+      "description": "如果敵人生命值低於一半，迅影襲（Swift Strike）會造成 25 點額外持續傷害。",
       "content": [
-        "* 更多傷害、絕招充能以及擊殺數",
-        "* 更多傷害就是更好。但你需要將 ![](/data/assets/guide/2b083b4a4d737525.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-strike.png)疾（Swift Strike）留到連段的尾聲使用，以確保能觸發額外傷害。",
-        "* 對抗 175 生命值的英雄 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光（Tracer）以及駕駛員狀態的 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va，這額外的 25 點傷害能讓 ![](/data/assets/guide/2b083b4a4d737525.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-strike.png)疾（Swift Strike）> ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字（Dragonblade）揮砍直接擊殺。"
+        "* 更多的傷害、絕招充能以及擊殺數",
+        "* 更多的傷害當然更好。但你需要將 ![](/data/assets/guide/2b083b4a4d737525.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-strike.png)迅影襲（Swift Strike）留到連招的最後使用，以確保能觸發額外傷害。",
+        "* 針對 175 生命值的英雄 ![](/data/assets/guide/5c24a105db5a970e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftracer.png)閃光（Tracer）以及駕駛員狀態的 ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va，這額外的 25 點傷害能讓 ![](/data/assets/guide/2b083b4a4d737525.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-strike.png)迅影襲（Swift Strike）> ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)龍一文字（Dragonblade）斬擊達成擊殺。"
       ],
       "content_hash": "142a86ba1761",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:35.817240Z"
+      "timestamp": "2026-03-26T04:26:58.600437Z"
     },
     "5.2.2": {
       "title": "冥想（Meditation）",
       "description": "當「招架（Deflect）」啟動時，每秒恢復 35 點生命值。",
       "content": [
-        "顯著提升生存能力",
-        "* 在「招架（Deflect）」期間最多可恢復 70 點生命值。額外的生命值能讓源氏在戰鬥中存活更久，進而造成更多傷害。",
-        "協助對抗光束武器",
-        "* 雖然每秒 35 點的治療量低於所有光束武器的每秒傷害，但這仍能幫助源氏在某些原本會死亡的情況下存活下來。"
+        "* 顯著提升生存能力",
+        "* 在「招架（Deflect）」期間最多可恢復 70 點生命值。額外的生命值能讓源氏在戰鬥中停留更久，進而造成更多傷害。",
+        "* 對抗光束類攻擊有所幫助",
+        "* 雖然每秒 35 點的治療量低於所有光束類武器的每秒傷害，但它仍能幫助源氏在某些原本會死亡的情況下存活下來。"
       ],
       "content_hash": "da46321be759",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:37.797984Z"
+      "timestamp": "2026-03-26T04:27:00.824776Z"
     },
     "6.1.1": {
       "title": "努巴尼",
       "description": "",
       "content": [
-        "* 努巴尼的前兩個據點在目標點與護送路徑周圍擁有大量的制高點。優越的垂直機動性讓源氏能夠利用這些多樣的制高點，無論是進行防守還是進攻皆能佔據優勢。在最後一個據點，有多條強力的側襲路線供源氏使用，以便對脆弱的後排發起進攻。"
+        "* 努巴尼的前兩個據點周圍有大量的制高點，環繞著據點與護送目標的路徑。優越的垂直機動性讓源氏能夠利用這些多樣的制高點，無論是在防守還是進攻位置上都能佔盡優勢。在最後一個據點，有多條強力的側襲路線供源氏使用，藉此對脆弱的後排發動攻勢。"
       ],
       "content_hash": "74cc5b2d3a73",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:39.454863Z"
+      "timestamp": "2026-03-26T04:27:02.815985Z"
     },
     "6.1.2": {
       "title": "多拉多",
       "description": "",
       "content": [
-        "* 多拉多（Dorado）地圖的每個區域都充滿了牆壁，源氏（Genji）可以藉此攀爬以佔據有利位置。防守方在第一個據點的高地位置防禦力極強。源氏是少數能可靠地爭奪該位置，或是攀爬上去並利用招架（Deflect）誘騙出多個冷卻技能的英雄之一。"
+        "* 多拉多地圖的每個區域都充滿了牆壁，源氏可以攀爬上去佔據有利位置。防守方在第一個據點的高地位置非常強勢。源氏是少數能可靠地爭奪該位置，或是攀爬上去並利用招架（Deflect）誘騙出多個冷卻技能的英雄之一。"
       ],
       "content_hash": "f2eeee7c5d0a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:41.418300Z"
+      "timestamp": "2026-03-26T04:27:04.597045Z"
     },
     "6.2.1": {
       "title": "皇家賽道",
       "description": "",
       "content": [
-        "* 皇家賽道（Circuit Royal）的視線範圍非常長。雖然源氏（Genji）的手裏劍（Shurikens）沒有傷害衰減，但其他擁有更穩定遠程傷害能力的輸出型英雄在此處往往表現得比他更好。皇家賽道的首個據點，通常是源氏在所有地圖中最難發揮價值的區域。"
+        "* 皇家賽道的視野非常遼闊。雖然源氏的鏢（Shurikens）沒有傷害遞減，但其他擁有更穩定遠程傷害能力的輸出英雄在此處往往表現得比他更好。皇家賽道的首個據點通常是所有地圖區域中，源氏最難發揮價值的地方。"
       ],
       "content_hash": "5fd91be16986",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:42.838606Z"
+      "timestamp": "2026-03-26T04:27:06.481563Z"
     },
     "6.2.2": {
       "title": "哈瓦那",
       "description": "",
       "content": [
-        "* 第一點與第三點是開闊的空間，源氏在這裡沒有任何地方可以躲藏、撤退或進行安全的攻擊。像索潔恩與奪命女這類遠程英雄，可以輕易地在源氏試圖推進時將其擊殺。第二點的進攻對他來說稍微容易一些，但防守方同樣讓源氏很難發揮價值。"
+        "* 第一點和第三點是視野開闊的區域，源氏在這裡沒有地方可以躲藏、撤退或進行安全的攻擊。像索潔恩和奪命女這類遠程英雄，可以輕易地在源氏試圖推進時將其擊殺。第二點的進攻對他來說稍微容易一些，但在防守時，源氏也很難在這裡發揮價值。"
       ],
       "content_hash": "ae30ee4c0190",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:44.620517Z"
+      "timestamp": "2026-03-26T04:27:08.246788Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "圍繞機動性建立的隊伍陣容能最大程度發揮源氏的能力。全體突進型陣容（Full dive team comps）搭配源氏可以展現極強的爆發力，但這非常依賴隊伍間的協調與時機掌握。由具備強大機動性技能的英雄所組成的隊伍，能夠完全掌控比賽節奏，並決定戰鬥發生的時間、地點以及交戰對象。",
+        "圍繞機動性所建立的隊伍陣容能最大化源氏的實力。完整的全突進陣容搭配源氏可以發揮出強大的爆發力，但這非常依賴隊伍間的協調與時機掌握。由具備強大機動能力的英雄所組成的隊伍，能夠完全掌控比賽節奏，並決定戰鬥發生的時間、地點以及交戰對象。",
         "**圍繞源氏建立的理想隊伍陣容：**",
         "* 坦克：![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓",
-        "* 輸出：![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏, ![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩",
-        "* 輔助：![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜, 路西歐",
-        "另一方面，源氏也能在隊伍中擔任單獨突進或側襲者（Flanker）的角色。在這些陣容中，他的功能是作為擊殺確認者，負責補足隊伍造成的傷害。能夠穩定輸出高額傷害的隊友，可以透過將敵人血量壓低，讓源氏不斷重置「影」的冷卻時間，進而大幅提升他的表現。",
-        "**隊伍陣容範例：** ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅, ![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏, ![](/data/assets/guide/2b23a0f925f80146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunkrat.png)炸彈鼠, ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜, ![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特"
+        "* 輸出：![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏、![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)索潔恩",
+        "* 輔助：![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜、路西歐",
+        "另一方面，源氏也能在隊伍中擔任單獨突進或側襲者的角色。在這些陣容中，他的功能是作為擊殺確認者，負責補足隊伍造成的傷害。能穩定輸出高額傷害的隊友可以大幅協助源氏，讓他能對低生命值的敵人連續重置「影」的冷卻時間。",
+        "**隊伍陣容範例：** ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅、![](/data/assets/guide/c5e996565ab1a764.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fgenji.png)源氏、![](/data/assets/guide/2b23a0f925f80146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunkrat.png)炸彈鼠、![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜、![](/data/assets/guide/cfaf284c1e565920.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbaptiste.png)巴帝斯特"
       ],
       "content_hash": "c2719483ecd8",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:47.125851Z"
+      "timestamp": "2026-03-26T04:27:11.790298Z"
     },
     "7.1": {
       "title": "與其他英雄的個人搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓",
-        "* 溫斯頓依然是與這名生化忍者搭配的最佳坦克。噴射跳躍（Jump Pack）與迅影襲（Swift Strike）能完美配合。這對組合能同步彼此的侵略性，並在屏障產生器（Barrier Projector）與反射（Deflect）之間進行交換，以抵禦任何針對他們突進的反擊。",
-        "![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜",
-        "* 最強大也最著名的組合是將兩位英雄的絕招結合使用：奈米強化龍一文字（Nano-Blade）。在 YouTube 上簡單搜尋，就會出現無數的奈米強化龍一文字精華影片。安娜的遠程即時命中治療，也是支援深入敵陣的源氏的最佳方式之一。成功命中關鍵的生物手榴彈（Anti-Nade）也能讓源氏利用速度迅速跟進，隨後衝刺至安全地帶。",
-        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)霧子",
-        "* 當源氏失誤並受到致命技能威脅時，保護鈴（Protection Suzu）可以作為一張「脫困保命卡」。此外，霧子的追蹤式治療非常適合在源氏為了閃避傷害而快速移動時，提供持續性的治療。當奈米強化（Nano Boost）無法使用時，狐狸湧流（Kitsune Rush）與龍一文字（Dragonblade）的搭配同樣致命，能讓源氏以閃電般的速度進行斬擊。"
+        "![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓\n* 溫斯頓依然是與這名生化忍者搭配的最佳坦克。噴射跳躍（Jump Pack）與迅影襲（Swift Strike）能完美配合。這對組合可以相互呼應彼此的侵略性，並在防護力場（Barrier Projector）與招架（Deflect）之間進行切換，以抵擋任何針對他們突襲的反擊。",
+        "[[__OWH_IMG_1__]]安娜\n* 最強大且最著名的搭配是將兩位英雄的絕招合而為一：奈米龍一（Nano-Blade）。在 YouTube 上快速搜尋，就會出現無數的奈米龍一精華影片。安娜的遠程即時命中治療也是支援深入敵陣的源氏的最佳方式之一。成功命中一發強力的生物手榴彈（Anti-Nade）也能讓源氏憑藉自身速度迅速跟進，隨後衝刺脫離險境。",
+        "![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)霧子\n* 當源氏犯錯並受到致命技能攻擊時，保護鈴（Protection Suzu）可以作為一張「免死金牌」。此外，霧子的追蹤型治療非常適合在源氏為了閃避傷害而快速移動時，為他提供穩定的治療。當沒有奈米強化（Nano Boost）時，狐狸衝刺（Kitsune Rush）與龍一文字（Dragonblade）的搭配同樣致命，能讓源氏以閃電般的速度進行斬擊。",
+        "* The strongest and most famous pairing is based on using both heroes' ults as one: Nano-Blade. A quick YouTube search will flood your feed with countless Nano-Blade montages. Ana’s ranged hitscan healing is also one of the best ways to assist a Genji deep in enemy territory. Landing a big Anti-Nade also allows Genji to quickly follow up with his speed, then dash out to safety.",
+        "![](/data/assets/guide/ca4458a60a9fff01.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fkiriko.png)Kiriko",
+        "* Protection Suzu can be used as a “get out of jail free” card when Genji makes a mistake and gets hit with a life-threatening ability. Additionally, Kiriko's target-seeking healing is great for consistently healing Genji as he quickly moves around trying to evade damage. When Nano Boost is not available, Kitsune Rush can be just as deadly of a pairing with Dragonblade, allowing Genji to slash at lightning speed."
       ],
       "content_hash": "e0c77406b204",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:50.338568Z"
+      "timestamp": "2026-03-26T04:27:15.806346Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "源氏（Genji）難以應對他無法「反射（Deflect）」的傷害類型（主要是光束傷害）。對於其他人來說，要壓制一名優秀的源氏，最好的方法就是誘使他交出「反射（Deflect）」。源氏玩家通常會保留此技能來反制特定的冷卻時間技能，因此如果你能迫使他為了在基礎傷害下生存而使用「反射（Deflect）」，你將會取得巨大的優勢。",
-        "如果你有使用語音通訊，在源氏使用「反射（Deflect）」和「影（Dash）」時進行回報，能幫助你的隊伍判斷該以多激進的方式鎖定他。最重要的是，追蹤「龍一文字（Dragonblade）」的就緒狀態，往往是決定整場比賽勝負的關鍵。源氏在比賽中的大部分價值都圍繞著他對「龍一文字（Dragonblade）」的使用。因此，只要你準備好反制「龍一文字（Dragonblade）」，源氏玩家在被全隊責備後，很可能就會選擇更換英雄。"
+        "源氏（Genji）難以應對他無法使用「反射（Deflect）」的傷害類型（主要是光束傷害）。對於其他英雄來說，要壓制一名優秀的源氏，最好的方式就是誘使他交出「反射（Deflect）」。源氏玩家通常會保留此技能來反制特定的冷卻時間技能，因此如果你能強迫他為了抵擋基礎傷害而使用「反射（Deflect）」，你將會獲得巨大的優勢。",
+        "如果使用語音通訊，在源氏使用「反射（Deflect）」和「迅影襲（Dash）」時進行回報，能幫助你的隊伍判斷能多積極地針對他。最重要的是，追蹤「龍一文字（Dragonblade）」的就緒狀態，往往是決定整場比賽勝負的關鍵。源氏在比賽中的大部分價值都圍繞著他對「龍一文字（Dragonblade）」的使用。因此，如果你準備好反制「龍一文字（Dragonblade）」，源氏玩家在被全隊責難後，很可能就會選擇更換英雄。"
       ],
       "content_hash": "5638c17d6490",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:52.355035Z"
+      "timestamp": "2026-03-26T04:27:18.602417Z"
     },
     "8.1": {
       "title": "特定英雄反制",
       "description": "",
       "content": [
-        "![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓",
+        "![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)溫斯頓\n* 最適合與源氏搭配的坦克，同時也是反制他的最佳人選！首先，源氏無法![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)反射（Deflect）他的[[__OWH_IMG_2__]]特斯拉加農砲（Tesla Cannon）。其次，溫斯頓可以保護被敵方源氏盯上的隊友，並在源氏試圖撤退時進行追擊。最後，如果這隻猩猩擁有極強的擊飛技巧，[[__OWH_IMG_3__]]原始暴怒（Primal Rage）能壓制龍一文字（Dragonblade）。",
         "* The best Tank to pair with Genji is also the best tank to counter him! First off, Genji can’t ![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png)Deflect his ![](/data/assets/guide/6e13dbd3b63c0f90.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftesla-cannon.png)Tesla Cannon. Secondly, Winston can peel for teammates the enemy Genji is focusing and chase down Genji when he attempts to retreat. Lastly, if the Monke has insane juggle mechanics, ![](/data/assets/guide/f9410941588ff5c9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprimal-rage.png)Primal Rage beats Dragonblade.",
-        "![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)迴音",
-        "* Echo’s mobility is very different from Genji’s, but she has the tools to chase him down. At medium range, these two heroes are similarly matched, but ![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)Focusing Beam goes through ![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png)Deflect and melts a low HP Genji.",
-        "* 在不考慮絕招的情況下，迴音的技能組往往能為隊伍提供更高的價值。若選用源氏對陣迴音，她便能透過「複製（Copy）」取得「龍一文字（Dragonblade）」，使迴音成為極具威脅的對手。",
-        "![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬",
+        "![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)碧姬\n* 單憑![](/data/assets/guide/ec8f0896ca78ec6f.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fecho.png)流星飛錘（Whip Shot）就能打斷源氏的所有進攻節奏。當源氏使用[[__OWH_IMG_2__]]影（Swift Strike）進行攻擊或位移時，若被碧姬擊退，該技能就會被中斷。她還能發出[[__OWH_IMG_3__]]修復包（Repair Packs），讓源氏極難擊殺她範圍內的目標。[[__OWH_IMG_4__]]集結號令（Rally）也能透過為所有人提供護甲來反制[[__OWH_IMG_5__]]龍一文字（Dragonblade），特別是如果她能成功對源氏施加暈眩效果的話。",
+        "![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)莫伊拉\n* 莫伊拉是源氏的經典剋星，因為她的![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)生化之握（Biotic Grasp）會自動鎖定源氏的高速移動，且![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png)生化氣球（Biotic Orb）在源氏施展反射（Deflect）時仍能造成傷害（除非他直接將拋射物反射回去）。[[__OWH_IMG_3__]]聚合射線（Coalescence）則提供了莫伊拉第三種能穿透[[__OWH_IMG_4__]]反射（Deflect）造成傷害的手段。\n* 此外，![](/data/assets/guide/9ecb1957f6f092f0.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffocusing-beam.png)消散（Fade）的無敵效果與位移能力也讓源氏難以應對，並能中斷他在龍一文字（Dragonblade）期間連續觸發影（Swift Strike）重置的節奏。然而，與![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png)碧姬不同的是，莫伊拉在保護隊友免受源氏威脅方面較為吃力。莫伊拉是生存並擊殺源氏較簡單的方式，但從技術層面來看，碧姬是更好的反制選擇。",
+        "* Echo tends to provide superior value to her team throughout the match when comparing kits without Ults available. Playing Genji into Echo then gives her access to Dragonblade for her Copy, making Echo a devastating foe.",
+        "![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)Brigitte",
         "* ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)Whip Shot alone interrupts Genji's entire game plan. ![](/data/assets/guide/2b083b4a4d737525.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fswift-strike.png)Swift Strike gets shut down when used as an attack or mobility option when booped by Brig. She also sends out ![](/data/assets/guide/8053c37a257e8067.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frepair-pack.png)Repair Packs, which makes it extremely difficult for Genji to eliminate targets in her range. ![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)Rally can also counter ![](/data/assets/guide/7b9aee18b1847b4b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdragonblade.png)Dragonblade by giving everyone armor, and if she lands her stun on the Genji.",
-        "![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)莫伊拉",
+        "![](/data/assets/guide/d2383fba0420b5f1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmoira.png)Moira",
         "* Moira is the classic Genji counter since her ![](/data/assets/guide/112e6bfacd58fe0e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-grasp.png)Biotic Grasp auto-tracks Genji’s fast movement and ![](/data/assets/guide/b4447c9cc5302954.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbiotic-orb.png)Biotic Orb damages Genji during Deflect unless he directly Deflects the projectile. ![](/data/assets/guide/c2024d883333803a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fcoalescence.png)Coalescence gives Moira a third method of damaging through ![](/data/assets/guide/50e882867327ed22.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeflect.png)Deflect.",
         "* Additionally, ![](/data/assets/guide/3645240b7a0b07c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ffade.png)Fade’s invincibility and movement are also difficult for Genji to deal with and can interrupt him from chaining together dash resets during Dragonblade. Unlike ![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)Brigitte, however, Moira struggles to keep her allies alive against Genji. Moira is an easier way to survive against and kill Genji, but Brig is technically the better counter."
       ],
       "content_hash": "91c75d88142c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:57.201203Z"
+      "timestamp": "2026-03-26T04:27:25.150416Z"
     },
     "8.2": {
       "title": "特定英雄剋制名單",
@@ -406,14 +406,14 @@
         "* 莫伊拉"
       ],
       "content_hash": "f1927fac8229",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:17:58.449576Z"
+      "timestamp": "2026-03-26T04:27:26.914578Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:16:56.481375Z"
+    "timestamp": "2026-03-26T05:10:57.548730Z"
   }
 }

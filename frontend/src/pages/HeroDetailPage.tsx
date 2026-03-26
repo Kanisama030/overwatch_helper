@@ -9,6 +9,7 @@ import {
 import { TierBadge } from '../components/common/TierBadge';
 import { HeroImage } from '../components/common/HeroImage';
 import { MarkdownContent } from '../components/common/MarkdownContent';
+import { FloatingTOC } from '../components/common/FloatingTOC';
 import { useHeroTranslation } from '../hooks/useHeroTranslation';
 import type { HeroSummary, AppDataset } from '../types';
 
@@ -128,11 +129,11 @@ function StrategyTab({
     </div>
   );
 
-  const renderCard = (title: string, icon: string, markdown: string, showTranslating: boolean) => {
+  const renderCard = (title: string, icon: string, markdown: string, showTranslating: boolean, anchorId?: string) => {
     if (showTranslating) return renderTranslatingCard(title, icon);
     if (!markdown) return null;
     return (
-      <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
+      <div id={anchorId} className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
         <div className="flex items-center gap-2 mb-3">
           <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>{icon}</span>
           <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>{title}</span>
@@ -149,8 +150,9 @@ function StrategyTab({
 
   return (
     <div className="space-y-6">
+      {/* 特殊能力 */}
       {allPerks.length > 0 && (
-        <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
+        <div id="strategy-perks" className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
           <div className="flex items-center gap-2 mb-4">
             <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>star</span>
             <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>{t.hero.perks}</span>
@@ -226,11 +228,15 @@ function StrategyTab({
         </div>
       )}
 
-      {renderCard(t.hero.tldr, 'auto_awesome', playAsMarkdown, isTranslatingSection(TLDR_SECTION_IDS))}
-      {renderCard(t.hero.mapSuggestion, 'map', mapSuggestionMarkdown, isTranslatingSection(MAP_SECTION_IDS))}
-      {renderCard(t.hero.teamCompSynergies, 'groups', teamCompMarkdown, isTranslatingSection(TEAM_COMP_SECTION_IDS))}
+      {/* TOC 錨點：TLDR */}
+      {renderCard(t.hero.tldr, 'auto_awesome', playAsMarkdown, isTranslatingSection(TLDR_SECTION_IDS), 'strategy-tldr')}
+      {/* TOC 錨點：地圖建議 */}
+      {renderCard(t.hero.mapSuggestion, 'map', mapSuggestionMarkdown, isTranslatingSection(MAP_SECTION_IDS), 'strategy-map')}
+      {/* TOC 錨點：陣容搜配 */}
+      {renderCard(t.hero.teamCompSynergies, 'groups', teamCompMarkdown, isTranslatingSection(TEAM_COMP_SECTION_IDS), 'strategy-team')}
+      {/* TOC 錨點：優缺點摘要 */}
       {strengthsSummaryItems.length > 0 && (
-        <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
+        <div id="strategy-summary" className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
           <div className="flex items-center gap-2 mb-3">
             <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>summarize</span>
             <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>{t.hero.strengthsAndWeaknessesSummarized}</span>
@@ -253,8 +259,9 @@ function StrategyTab({
         </div>
       )}
 
+      {/* TOC 錨點：優缺點詳解 */}
       {(explainedOverviewMarkdown || explainedStrengths.length > 0 || explainedWeaknesses.length > 0) && (
-        <div className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
+        <div id="strategy-explained" className="rounded-lg p-4" style={{ backgroundColor: 'rgba(242,127,13,0.05)', border: '1px solid rgba(242,127,13,0.15)' }}>
           <div className="flex items-center gap-2 mb-3">
             <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>insights</span>
             <span className="text-sm font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>{t.hero.strengthsAndWeaknessesExplained}</span>
@@ -386,7 +393,7 @@ function CounterTab({ hero, dataset, mapId, navigate }: {
       {/* 移除 Disclaimer */}
       
       {/* Threats to You - 改用更小的英雄卡片，移除不透明遮罩 */}
-      <div>
+      <div id="counter-threats">
         <div className="flex items-center gap-2 mb-3">
           <span className="material-symbols-outlined text-lg" style={{ color: '#ef4444' }}>warning</span>
           <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#ef4444' }}>{t.hero.threatsToYou}</span>
@@ -419,9 +426,9 @@ function CounterTab({ hero, dataset, mapId, navigate }: {
         )}
       </div>
 
-      {/* How to Fight Back - 顯示選中 threat 的 Play Against */}
+      {/* How to Fight Back - 錨點 id */}
       {selectedThreat && fightBackMarkdown.length > 0 && (
-        <div>
+        <div id="counter-fightback">
           <div className="flex items-center gap-2 mb-3">
             <span className="material-symbols-outlined text-lg" style={{ color: '#f27f0d' }}>swords</span>
               <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#f27f0d' }}>
@@ -437,7 +444,7 @@ function CounterTab({ hero, dataset, mapId, navigate }: {
 
       {/* Recommended Swaps - 移除不透明遮罩，改用邊框高亮 */}
       {selectedThreat && recommendedSwaps.length > 0 && (
-        <div>
+        <div id="counter-swaps">
           <div className="flex items-center gap-2 mb-3">
             <span className="material-symbols-outlined text-lg" style={{ color: '#22c55e' }}>swap_horiz</span>
               <span className="text-xs font-black uppercase tracking-widest" style={{ color: '#22c55e' }}>
@@ -529,6 +536,22 @@ export function HeroDetailPage() {
     sections: translatedSections,
     loading: translationLoading,
   } = useHeroTranslation(hero.id, locale, locale === 'zh-TW');
+
+  // 依目前 tab 動態組裝 TOC 項目
+  const strategyTocItems = [
+    { id: 'strategy-perks', label: t.hero.perks, icon: 'star' },
+    { id: 'strategy-tldr', label: t.hero.tldr, icon: 'auto_awesome' },
+    { id: 'strategy-map', label: t.hero.mapSuggestion, icon: 'map' },
+    { id: 'strategy-team', label: t.hero.teamCompSynergies, icon: 'groups' },
+    { id: 'strategy-summary', label: t.hero.strengthsAndWeaknessesSummarized, icon: 'summarize' },
+    { id: 'strategy-explained', label: t.hero.strengthsAndWeaknessesExplained, icon: 'insights' },
+  ];
+  const counterTocItems = [
+    { id: 'counter-threats', label: t.hero.threatsToYou, icon: 'warning' },
+    { id: 'counter-fightback', label: t.hero.howToFight, icon: 'swords' },
+    { id: 'counter-swaps', label: t.hero.recommendedSwaps, icon: 'swap_horiz' },
+  ];
+  const tocItems = tab === 'strategy' ? strategyTocItems : counterTocItems;
 
   return (
     <div className="flex-1 flex flex-col overflow-y-auto scrollbar-hide min-h-0">
@@ -626,6 +649,9 @@ export function HeroDetailPage() {
           <CounterTab hero={hero} dataset={dataset} mapId={mapId} navigate={navigate} />
         )}
       </div>
+
+      {/* 浮動目錄導覽（依 tab 動態切換 TOC 項目） */}
+      <FloatingTOC items={tocItems} />
     </div>
   );
 }

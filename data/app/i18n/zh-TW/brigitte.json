@@ -6,393 +6,393 @@
       "title": "概覽",
       "description": "",
       "content": [
-        "身為托比昂的女兒，同時也是騎士萊因哈特的隨從，![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬將他們兩人的能力精華融會貫通，組合成一套獨特的近戰支援技能組。她手持 ![](/data/assets/guide/be2f8119902a84ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-flail.png)火箭連枷（Rocket Flail），能揮舞武器攻擊敵人，並在敵人過於靠近時將其擊退。身為一名支援角色，她的技能組最適合搭配那些不需要大量治療，而是傾向於快速果斷結束戰鬥的英雄。",
-        "根據隊伍陣容、目標模式以及地圖的不同，她既可以留在後方保護隊友，也可以與坦克一同站在前線，在推進的同時將敵人逼退。碧姬的玩家需要精通決策能力，而非單純依賴操作技巧。她的技能雖然容易上手，但在《鬥陣特攻》這個節奏快速且高度機動的時代，判斷何時何地使用技能仍是一項極具挑戰性的任務。"
+        "身為托比昂的女兒以及萊因哈特的隨從，![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬將他們兩人的能力精華結合，打造出一套獨特的近戰支援配置。她配備了![](/data/assets/guide/be2f8119902a84ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-flail.png)火箭連枷，能揮舞武器攻擊敵人，並在敵人過於靠近時將其擊退。身為一名支援角色，她的配置最適合搭配那些不需要大量治療，而是追求快速且果斷結束戰鬥的英雄。",
+        "根據隊伍陣容、目標模式與地圖的不同，她可以選擇留在後方保護隊友，或是與坦克一同站位在前線，在推進的同時將敵人逼退。碧姬的玩家需要精通決策能力，而非單純依賴操作技巧。她的技能雖然容易上手，但在這個節奏飛快且高度機動的鬥陣特攻時代中，判斷何時何地該使用技能是一項極具挑戰性的任務。"
       ],
       "content_hash": "2a38964731ec",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:16.489323Z"
+      "timestamp": "2026-03-26T04:32:57.813085Z"
     },
     "1.1.1": {
-      "title": "遊玩建議",
+      "title": "操作指南",
       "description": "",
       "content": [
-        "* 保護你的後排。不要讓你的另一名醫護兵（Medic）死亡，因為他們是維持隊伍其餘成員生存的關鍵。",
-        "* ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)將「流星擊（Whip Shot）」保持在冷卻狀態以最大化「激勵（Inspire）」的覆蓋時間。當進入射程時，使用「鏈枷（Flail）」來觸發「激勵（Inspire）」，並保留「流星擊（Whip Shot）」。",
-        "* 主要將「盾擊（Shield Bash）」作為移動工具使用。利用它來快速推進敵方陣地，或是逃往更安全的位置。"
+        "* 保護你的後排。別讓你的另一位輔助死亡，因為他們是維持隊伍其餘成員生存的關鍵。",
+        "* ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)冷卻時間一到就使用流星飛錘（Whip Shot）以最大化激勵（Inspire）的覆蓋時間。當進入射程範圍內時，使用連枷（Flail）來觸發激勵（Inspire），並保留流星飛錘（Whip Shot）。",
+        "* 主要將盾擊（Shield Bash）作為移動工具使用。利用它來快速推進敵方陣線，或是撤退到更安全的位置。"
       ],
       "content_hash": "31b6527765af",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:18.467901Z"
+      "timestamp": "2026-03-26T04:33:00.196919Z"
     },
     "1.1.2": {
       "title": "對戰策略",
       "description": "",
       "content": [
-        "* 消耗戰（Poke）。碧姬無法直接應對消耗戰傷害，這是對她的護盾施加壓力並迫使她採取被動打法的絕佳方式。",
-        "* 進行輕度交戰以騙出 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png) 甩擊（Whip Shot），接著在她無法將你擊退時使用位移冷卻技能。",
+        "* 消耗戰。碧姬無法直接應對消耗型傷害，這是對她的護盾施壓並迫使她採取被動打法的絕佳方式。",
+        "* 進行輕度交戰以騙出 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘，接著在她無法將你擊退時使用位移冷卻技能。",
         "* 以她的隊友為目標。碧姬的治療速度相當緩慢，因此最好的策略通常是先擊殺她隊伍中的其他人，最後再解決她。"
       ],
       "content_hash": "238968985f48",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:20.307388Z"
+      "timestamp": "2026-03-26T04:33:02.387456Z"
     },
     "2": {
-      "title": "優勢與劣勢總結",
+      "title": "優缺點總結",
       "description": "",
       "content": [
-        "* 保護者（Protector）",
-        "* 範圍治療（AoE healing）",
-        "* 1v1 決鬥者（1v1 duelist）",
-        "* 體質脆弱（Squishy）",
-        "* 缺乏爆發治療（Lacks burst healing）",
-        "* 對抗消耗戰較弱（Weak vs poke）"
+        "* 保護者",
+        "* 範圍治療",
+        "* 1v1 決鬥者",
+        "* 血量薄弱",
+        "* 缺乏爆發治療",
+        "* 對抗消耗戰較弱"
       ],
       "content_hash": "136e0593c12b",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:21.761169Z"
+      "timestamp": "2026-03-26T04:33:03.934997Z"
     },
     "3.1.1": {
       "title": "後排守護者",
       "description": "",
       "content": [
-        "碧姬擅長保護隊友免受側襲者（Flanker）與突擊的威脅，確保後排安全。透過治療、遠程擊退以及護盾，碧姬建立了一道敵方必須費盡全力才能突破的第二道防線。當碧姬與一名高治療量的支援型英雄搭配時，她能負責守護隊友，而另一名支援型英雄則能持續輸出源源不絕的治療量。"
+        "碧姬擅長保護後排隊友，使其免受側襲者與突進英雄的威脅。透過治療、遠程擊退以及護盾，碧姬建立了一道敵方難以突破的第二防線。當碧姬與高治療量的支援英雄搭檔時，她能負責守護隊友，而另一名支援英雄則能持續提供源源不絕的治療。"
       ],
       "content_hash": "ab3aae861d6a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:23.405538Z"
+      "timestamp": "2026-03-26T04:33:05.852266Z"
     },
     "3.1.2": {
-      "title": "範圍效果（AoE）與遠程治療",
+      "title": "範圍與遠程治療",
       "description": "",
       "content": [
-        "雖然她的治療速度並不快，但她可以進行無限期的治療。激勵（Inspire）與集結號令（Rally）擁有大範圍的範圍效果（AoE）治療，能讓整個隊伍同時受惠，而修理包（Repair Packs）則非常適合用來治療深入敵陣的盟友。此外，與許多其他輔助不同，碧姬不需要在治療與傷害之間進行切換。"
+        "雖然她的治療速度並不快，但她可以進行無限期的治療。激勵（Inspire）與集結號令（Rally）擁有大範圍的治療效果，能讓整個隊伍同時受惠，而修復包（Repair Packs）則非常適合用來治療深入敵陣的盟友。此外，與許多其他輔助不同，碧姬不需要在治療與傷害之間進行切換。"
       ],
       "content_hash": "63836c04d2a6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:25.184828Z"
+      "timestamp": "2026-03-26T04:33:07.557643Z"
     },
     "3.1.3": {
       "title": "1v1 決鬥者",
       "description": "",
       "content": [
-        "碧姬（Brigitte）擁有能阻擋傷害的護盾，加上近距離的高爆發傷害，讓她成為你絕對不想在 1v1 單挑中遇到的對手。除了坦克之外，只要碧姬（Brigitte）的護盾保持健康，她幾乎能擊敗任何英雄。"
+        "擁有能格擋傷害的護盾以及近距離的高爆發傷害，讓她成為你絕對不想在 1v1 中單挑的對象。除了戰士之外，只要碧姬擁有健康的護盾，她幾乎能單挑贏過任何英雄。"
       ],
       "content_hash": "c0fcb4504472",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:26.991207Z"
+      "timestamp": "2026-03-26T04:33:09.102116Z"
     },
     "3.2.1": {
       "title": "近戰範圍，但身板脆弱",
       "description": "",
       "content": [
-        "與 GOATS 陣容時期剛推出時的碧姬不同，現今的碧姬若走位不慎或過於激進，很快就會受到懲罰。她的攻擊範圍有限，但如果她試圖與隊伍中的戰士（Bruiser）一起近戰，她很快就會被擊殺。"
+        "與 GOATS 陣容時期剛推出時的碧姬不同，現今的碧姬若站位不佳或過於激進，很快就會受到懲罰。她的攻擊範圍有限，但如果她試圖與隊伍中的戰士（Bruiser）一同近戰，她很快就會被擊殺。"
       ],
       "content_hash": "bd7081601ab0",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:28.513757Z"
+      "timestamp": "2026-03-26T04:33:10.808639Z"
     },
     "3.2.2": {
       "title": "缺乏爆發治療",
       "description": "",
       "content": [
-        "除了修補包（Repair Pack）提供的 25 點微量瞬間治療外，碧姬的所有治療手段都很緩慢。當隊友瀕臨死亡時，碧姬並不是能將他們救回來的最佳支援角色。請做好心理準備，在許多對戰中，隊友會因為認為解決問題的方法永遠是「更多治療」而要求你更換英雄。"
+        "除了修理包（Repair Pack）提供的 25 點瞬間生命值外，碧姬所有的治療手段都很緩慢。當隊友瀕臨死亡時，碧姬並不是能將他們救回來的最佳支援角色。請做好心理準備，在許多對戰中，隊友會因為認為解決問題的方法永遠是「更多治療」而要求你更換英雄。"
       ],
       "content_hash": "1b4d1498cb73",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:30.186214Z"
+      "timestamp": "2026-03-26T04:33:12.637246Z"
     },
     "3.2.3": {
       "title": "對抗消耗陣容的困境",
       "description": "",
       "content": [
-        "碧姬（Brigitte）雖然在許多對局中佔有優勢，但她也有多個難以應對的剋星。在戰鬥的消耗階段，她無法做出任何貢獻。她的修理包（Repair Packs）數量有限，如果只是待在後方單純進行治療（heal-bot），那麼選擇其他任何支援英雄都會有更好的效果。此外，她單憑一己之力很難反制消耗陣容，最終往往導致整場比賽大部分時間都在躲藏。"
+        "碧姬雖然在許多對局中佔有優勢，但她也有多個難以應對的剋星。在戰鬥的消耗階段，她無法做出任何貢獻。她的修復包（Repair Packs）數量有限，如果只是待在後方單純進行治療，那麼選擇其他任何輔助英雄都會表現得更好。此外，她單憑一己之力難以反制消耗陣容，最終往往只能在比賽中大部分時間都躲在掩體後方。"
       ],
       "content_hash": "7c653fba255e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:31.993534Z"
+      "timestamp": "2026-03-26T04:33:15.114039Z"
     },
     "4.1": {
-      "title": "主要攻擊：火箭連枷（Rocket Flail）",
+      "title": "主要攻擊：火箭連枷",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/be2f8119902a84ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-flail.png)火箭連枷（Rocket Flail）使用技巧**",
+        "**![](/data/assets/guide/be2f8119902a84ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-flail.png)火箭連枷的使用技巧**",
         "* 擴散傷害",
-        "* * 當敵人聚集在一起時，請務必確保每次揮擊都能命中多名敵人，以最大化傷害輸出與絕招充能。",
-        "* 轉動你的視角，使其與碧姬揮擊的方向一致，藉此擴大 ![](/data/assets/guide/be2f8119902a84ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-flail.png)火箭連枷（Rocket Flail）的打擊範圍。",
-        "* 觸發激勵（Inspire）",
-        "* * 即使在 ![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)屏障護盾（Barrier Shield）的空檔之間只能揮擊一下，為了維持激勵（Inspire）的效果，這也是值得的。",
-        "* 不是戰士（Bruiser）",
-        "* * 碧姬並不是戰士（Bruiser），所以不要沉迷於一直與前線進行肉搏戰。否則你只會不斷地送命。"
+        "* * 當敵人聚集在一起時，請確保每次揮擊都能命中多名敵人，以最大化傷害輸出與絕招充能。",
+        "* 轉動你的視角，使其與碧姬揮擊的方向一致，藉此擴大 ![](/data/assets/guide/be2f8119902a84ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frocket-flail.png)火箭連枷 的命中範圍。",
+        "* 觸發激勵",
+        "* * 即使在 ![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)屏障護盾 的空檔間只能揮擊一下，為了維持激勵效果也是值得的。",
+        "* 並非坦克",
+        "* * 碧姬不是坦克，所以不要沉迷於一直與前線肉搏。否則你只會不斷地陣亡。"
       ],
       "content_hash": "dea52b944b5f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:34.413153Z"
+      "timestamp": "2026-03-26T04:33:17.287388Z"
     },
     "4.2": {
-      "title": "次要攻擊：屏障護盾（Barrier Shield）",
+      "title": "次要攻擊：屏障護盾",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)屏障護盾（Barrier Shield）使用技巧**",
+        "**![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)屏障護盾的使用技巧**",
         "* 轉角窺探",
-        "* * 碧姬在使用 ![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)屏障護盾（Barrier Shield）時會切換為第三人稱視角。站在轉角處利用此特性觀察周遭，在不受到任何傷害的情況下獲取敵方位置與技能冷卻資訊。",
+        "* * 碧姬在使用 ![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)屏障護盾 時會切換為第三人稱視角。站在轉角處利用此特性來觀察周遭，在不受到任何傷害的情況下獲取敵方位置與技能冷卻狀態的資訊。",
         "* 安全推進",
-        "* * 利用屏障護盾（Barrier Shield）在移動或穿越地圖時保護自己。",
-        "* 阻擋控場技能（CC）",
-        "* * 面對擁有控場技能（CC）的敵人時，請密切觀察並利用屏障護盾（Barrier Shield）即時阻擋他們的攻擊。",
+        "* * 利用護盾在移動或穿越地圖時保護自己。",
+        "* 阻擋控場技能",
+        "* * 面對擁有控場技能（CC）的敵人時，請密切觀察並利用屏障護盾即時阻擋他們的攻擊。",
         "* 避免護盾破碎",
-        "* * 讓 ![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)屏障護盾（Barrier Shield）破碎會導致長達 5 秒的冷卻時間，而正常使用時則完全沒有冷卻時間。",
-        "* 即使只剩下 1 點生命值的護盾，也能保護你免受像 D.Va 的自爆（D.Va Bomb）這類即死技能的傷害。",
-        "* 此外，若沒有屏障護盾（Barrier Shield）就無法使用盾擊（Shield Bash）進行位移，因此請務必保留一些護盾生命值。",
+        "* * 當你的 ![](/data/assets/guide/1858a99948e6d377.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fbarrier-shield.png)屏障護盾 破碎時，會進入長達 5 秒的冷卻時間；若未破碎，則可以隨時重複開啟，沒有冷卻時間。",
+        "* 即便護盾只剩下 1 點生命值，也能保護你免受像 D.Va 的自爆這類即死技能的傷害。",
+        "* 此外，若沒有護盾，你就無法使用盾擊（Bash）進行位移，因此請務必盡量保留一些護盾生命值。",
         "* 避免頻繁開關",
-        "* * 屏障護盾（Barrier Shield）的生命值只有在完全收起 2 秒後才會開始恢復。如果你不必要地頻繁開關護盾，會不斷重置計時器，導致在真正需要時無法恢復生命值。"
+        "* * 護盾生命值必須在完全未部署的情況下持續 2 秒才會開始恢復。如果你不必要地頻繁開關護盾，將會不斷重置計時器，導致在真正需要時護盾無法恢復生命值。"
       ],
       "content_hash": "c57709570b87",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:37.415551Z"
+      "timestamp": "2026-03-26T04:33:21.088564Z"
     },
     "4.3": {
       "title": "次要攻擊：盾擊（Shield Bash）",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/b1200abdf4dd910b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshield-bash.png)盾擊（Shield Bash）技巧**",
+        "**![](/data/assets/guide/b1200abdf4dd910b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshield-bash.png)盾擊（Shield Bash）的使用技巧**",
         "* 移動",
-        "* 信不信由你，![](/data/assets/guide/b1200abdf4dd910b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshield-bash.png)盾擊（Shield Bash）的主要用途是移動而非傷害。",
-        "* 以下是你的核心玩法循環：走上前、觸發激勵（Inspire），然後使用盾擊（Shield Bash）退回安全位置。",
-        "* 面對全體突進陣容時，務必保留![](/data/assets/guide/b1200abdf4dd910b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshield-bash.png)盾擊（Shield Bash）以利逃生。你可以先用![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘（Whip Shot）擊退一名敵人，再用盾擊（Shield Bash）遠離另一名敵人。",
+        "* * 信不信由你，![](/data/assets/guide/b1200abdf4dd910b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshield-bash.png)盾擊（Shield Bash）的主要用途是移動而非傷害。",
+        "* 以下是你的核心玩法循環：走上前、觸發激勵（Inspire），然後使用盾擊（Shield Bash）退回安全地帶。",
+        "* 面對全體突進陣容時，務必保留 ![](/data/assets/guide/b1200abdf4dd910b.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fshield-bash.png)盾擊（Shield Bash）作為逃生手段。你可以用 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘（Whip Shot）擊退一名敵人，然後再用盾擊（Shield Bash）遠離另一名敵人。",
         "* 盾擊跳躍（Bash Jump）",
-        "* 尋找向後傾斜的垂直結構，例如損毀的牆壁。跳躍並使用盾擊（Bash），碧姬（Brigitte）會順著斜面衝刺並獲得額外的垂直高度。",
+        "* * 尋找向後傾斜的垂直結構，例如破碎的牆壁。跳躍並施放盾擊（Shield Bash），碧姬就會順著牆面斜坡獲得額外的垂直高度。",
         "* 這對於前往高處進行攻擊或逃生非常有用。",
         "* 反制衝鋒（Countercharge）",
-        "* 毀滅拳王（Doomfist）的火箭拳（Rocket Punch）和萊因哈特（Reinhardt）的衝鋒（Charge）等技能可以進行反制衝鋒，這會導致雙方都被擊倒在地。",
-        "* 坦克擁有比你多得多的生命值，他們在擊倒狀態下存活的機率遠高於你。除非你有隊伍資源協助你度過暈眩期，否則盡量不要嘗試反制衝鋒。"
+        "* * 毀滅拳王的火箭拳（Rocket Punch）和萊因哈特的衝鋒（Charge）等技能可以進行反制衝鋒，這會導致雙方都被重重擊倒。",
+        "* 戰士（Bruiser）的生命值遠高於你，且比你更有可能在擊倒後存活。除非你有隊伍資源協助你度過暈眩期，否則盡量不要進行反制衝鋒。"
       ],
       "content_hash": "f073d172449f",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:39.927141Z"
+      "timestamp": "2026-03-26T04:33:25.295443Z"
     },
     "4.4": {
-      "title": "[SHIFT]：流星飛錘（Whip Shot）",
+      "title": "[SHIFT]：流星飛錘",
       "description": "",
       "content": [
-        "![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘（Whip Shot）的使用技巧",
-        "* 觸發激勵（Inspire）",
-        "* 使用 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘（Whip Shot）的首要重點是維持激勵（Inspire）的高覆蓋率。",
-        "* 坦克通常是 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘（Whip Shot）最容易命中的目標，因為他們體型龐大且站位較前。",
+        "![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘的技巧",
+        "* 觸發激勵",
+        "* * 使用 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘的首要重點是維持「激勵」的高覆蓋率。",
+        "* 坦克通常是 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘最容易命中的目標，因為他們位置較靠前且體型巨大。",
         "* 保護你自己與隊友",
-        "* 碧姬是後排守護者。![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘（Whip Shot）是她對抗攻擊者的第一道防線。利用它將敵人擊退至不利位置、擊落高台，或將其從你的隊友身邊推開。",
+        "* * 碧姬是後排的守護者。![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘是她對抗攻擊者的第一道防線。將敵人擊退至不利位置、從高處擊落，或是將他們從你的隊友身邊推開。",
         "* 連招",
-        "* 鏈枷（Flail）→ 盾擊（Bash）→ 鏈枷（Flail）→ 流星飛錘（Whip Shot）：這是你最快的爆發連招。總共造成 230 點傷害，足以擊殺生命值 225 且未受到治療的英雄。",
-        "* 若面對生命值 250 的敵人，請多補上一發鏈枷（Flail）。",
+        "* * 鏈枷 → 盾擊 → 鏈枷 → 流星飛錘：這是你最快的爆發連招。可造成 230 點傷害，並能擊殺未受到治療的 225 生命值英雄。",
+        "* 對付 250 生命值的敵人時，多補一下鏈枷。",
         "* 保持距離",
-        "* 當你試圖擊殺某人時，除非能將其擊退至牆上或是作為最後一擊，否則不要使用流星飛錘（Whip Shot）。否則，敵人會脫離你的攻擊範圍，但仍能對你發動攻擊。"
+        "* * 當你試圖擊殺某人時，除非能將他們擊退至牆上或作為最後一擊，否則不要使用流星飛錘。否則，他們會脫離你的攻擊範圍，但仍能對你發動攻擊。"
       ],
       "content_hash": "7a809f700970",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:43.073330Z"
+      "timestamp": "2026-03-26T04:33:28.459632Z"
     },
     "4.5": {
-      "title": "[E]：修復包（Repair Pack）",
+      "title": "[E]：修復包",
       "description": "",
       "content": [
-        "![](/data/assets/guide/8053c37a257e8067.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frepair-pack.png)修復包（Repair Pack）的使用技巧",
+        "![](/data/assets/guide/8053c37a257e8067.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frepair-pack.png)修復包的使用技巧",
         "* 治療優先順序",
-        "* 大多數時候，你會與另一位治療量遠高於你的輔助英雄（例如 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜）搭檔。讓他們專注於維持你的坦克生存。",
-        "* 碧姬的首要任務是確保另一位輔助英雄存活，其次是治療輸出英雄，只有在沒有其他人需要治療時，才將修復包用於坦克。",
+        "* 大多數情況下，你會與另一位治療量遠高於你的輔助英雄（例如 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜）搭檔。讓他們專注於維持你的坦克生存。",
+        "* 碧姬的首要任務是確保另一位輔助英雄存活，其次是治療輸出英雄，只有在沒有其他人需要治療時，才將修復包用於坦克身上。",
         "* 飛行時間",
-        "* 在最大距離下，![](/data/assets/guide/8053c37a257e8067.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frepair-pack.png)修復包到達隊友身邊大約需要 0.5 秒。不要猶豫太久，一旦隊友開始受到傷害，就立刻給予一個修復包。",
+        "* 在最大距離下，![](/data/assets/guide/8053c37a257e8067.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frepair-pack.png)修復包大約需要 0.5 秒才能抵達盟友身邊。不要猶豫太久，一旦他們開始受到傷害，就立刻給予一個修復包。",
         "* 無法堆疊",
-        "* 只有瞬間恢復的 25 點生命值會生效，因此絕對不要對同一個目標連續施放兩次修復包。",
-        "* 在 2 秒的持續時間結束後，你可以再次對該隊友使用 ![](/data/assets/guide/8053c37a257e8067.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frepair-pack.png)修復包。採用這種策略，你將能為他們恢復更多的生命值。"
+        "* 只有瞬間恢復的 25 點生命值會生效，因此絕對不要對同一個目標連續使用兩次修復包。",
+        "* 在 2 秒的持續時間結束後，你可以再次對該盟友使用 ![](/data/assets/guide/8053c37a257e8067.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frepair-pack.png)修復包。使用這種策略能讓你為他們恢復更多的生命值。"
       ],
       "content_hash": "5e9beb665d20",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:45.884406Z"
+      "timestamp": "2026-03-26T04:33:31.534168Z"
     },
     "4.6": {
-      "title": "絕招：集結號令（Rally）",
+      "title": "絕招：集結號令",
       "description": "",
       "content": [
-        "**![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令（Rally）的使用技巧**",
+        "![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令的提示",
         "* 一次性護甲",
-        "* 碧姬在施放 ![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令（Rally）期間會治療所有隊友，並持續給予他們額外生命值，但她自己只會獲得一次性的 100 點護甲。不過，這個護甲值可以透過隊友的治療來恢復。",
-        "* 與你的另一位輔助隊友協調，並保持隊友的額外護甲。",
-        "* 隊友的額外生命值",
-        "* 在戰鬥間隙，![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令（Rally）提供的額外生命值最多可持續 30 秒。因此，即使你提早施放 ![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令（Rally）或是戰鬥突然結束，你的隊友在開始受到傷害時，依然能從額外生命值中獲益。",
+        "* 碧姬在施放![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令期間會治療所有隊友，並持續給予他們額外生命，但只會為自己提供一次性的 100 點護甲。不過，護甲值可以透過隊友的治療來恢復。",
+        "* 與你的另一位輔助英雄協調，並保持隊友的額外護甲。",
+        "* 隊友的額外生命",
+        "* 在戰鬥空檔時，![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令提供的額外生命最多可持續 30 秒。因此，即使你提早施放![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令，或是戰鬥突然結束，你的隊友在開始受到傷害時，依然能從額外生命中獲益。",
         "* 防禦型還是進攻型絕招？",
-        "* 與其他治療型絕招不同，集結號令（Rally）不一定是防禦型絕招。它雖然能拯救你的隊伍，但許多敵方的進攻型絕招所造成的傷害會高於其治療量，而 ![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)聖界（Transcendence）或 ![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障（Sound Barrier）則能讓隊友存活下來。",
+        "* 與其他治療型絕招不同，集結號令不一定非得作為防禦型絕招使用。它可以拯救你的隊伍，但許多敵方的進攻型絕招造成的傷害會超過其治療量，而![](/data/assets/guide/feb976c891fbe2ae.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Ftranscendence.png)聖界或![](/data/assets/guide/d2ebbaa1842e11ad.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fsound-barrier.png)音波屏障則能讓隊友存活下來。",
         "* 因應敵方的投入",
-        "* 施放 ![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令（Rally）的最佳時機，是當敵方隊伍已經投入戰鬥，深入推進到你們隊伍陣中，或是已經使用了長冷卻時間技能與絕招時。",
-        "* 集結號令（Rally）可以扭轉局勢，幫助你的隊伍贏得會戰。",
+        "* 施放![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令的最佳時機，是敵方隊伍已經投入戰鬥，深入推進到你們隊伍陣中，或是已經使用了長冷卻時間技能與絕招時。",
+        "* 集結號令可以扭轉戰局，幫助你的隊伍贏得會戰。",
         "* 進攻訊號",
-        "* 集結號令（Rally）帶來的瞬間治療與速度加成，同時也是向隊伍發出的進攻訊號。當你發現隊伍擁有優勢機會卻停滯不前時，對他們施放集結號令（Rally）並帶頭向前推進！",
-        "* 保持存活，你不是副本首領",
-        "* 最重要的是，不要在 ![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令（Rally）期間死亡。10 秒的持續時間使其成為最長的輔助絕招之一，但如果你死了，這一切都毫無意義。",
-        "* 你仍然必須謹慎遊玩，並運用與平時沒有集結號令（Rally）時相同的站位原則。稍微向前推進、嘗試擊殺有把握的目標，並記住你遠非無敵。"
+        "* 集結號令帶來的爆發性治療與速度加成，也能作為隊伍進攻的訊號。當你發現隊伍擁有優勢機會卻原地不動時，對他們施放集結號令並帶頭衝鋒！",
+        "* 保持存活，你不是副本魔王",
+        "* 最重要的是，不要在![](/data/assets/guide/199388013619eeee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frally.png)集結號令期間陣亡。10 秒的持續時間使其成為最長的輔助絕招之一，但如果你死了，這一切都毫無意義。",
+        "* 你依然必須謹慎遊玩，並運用與沒有集結號令時相同的站位原則。稍微向前推進，嘗試取得有把握的擊殺，並記住你遠非無敵。"
       ],
       "content_hash": "b370cadaf45c",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:49.563226Z"
+      "timestamp": "2026-03-26T04:33:35.977920Z"
     },
     "4.7": {
       "title": "被動技能：激勵（Inspire）",
       "description": "",
       "content": [
         "**![](/data/assets/guide/50cf2be15ce4d753.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Finspire.png)激勵（Inspire）的使用技巧**",
-        "* 每秒治療量低，但具有大範圍效果（AoE）",
-        "* ![](/data/assets/guide/50cf2be15ce4d753.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Finspire.png)激勵（Inspire）是所有支援型英雄技能中，單體治療輸出最低的。其優勢在於大範圍效果（AoE），且若運用得當，能維持極高的覆蓋率。",
+        "* 每秒治療量低，但具有大範圍效果",
+        "* * ![](/data/assets/guide/50cf2be15ce4d753.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Finspire.png)激勵（Inspire）是所有支援型英雄技能中，單體治療輸出最低的。其優勢在於大範圍效果，且若操作得當，能維持極高的覆蓋率。",
         "* 需要視線（LoS）",
-        "* 即使隊友在範圍內，如果他們位於敵方護盾或某些牆體後方，激勵（Inspire）的治療效果將無法對其生效。",
-        "* 一旦觸發便會持續",
-        "* 當隊友開始受到激勵（Inspire）治療後，即使他們離開碧姬（Brigitte）的視線（LoS），仍能獲得完整持續時間的治療效果。",
-        "* 當隊友選擇移動速度比碧姬（Brigitte）更快的「側襲者（Flanker）」或「前鋒（Initiator）」英雄時，此技能非常實用。",
-        "* 利用絕招部署物觸發激勵（Inspire）",
-        "* 火爆鋼球（Wrecking Ball）的地雷、B.O.B.，甚至是炸彈鼠（Junkrat）的炸彈輪，都可以用來觸發激勵（Inspire）。",
+        "* * 即使隊友在範圍內，如果他們位於敵方護盾或某些牆體後方，激勵（Inspire）的治療效果將不會對其生效。",
+        "* 啟動後持續生效",
+        "* * 一旦隊友開始受到激勵（Inspire）的治療，即使他們離開碧姬的視線，仍能獲得完整的治療持續時間。",
+        "* 當隊伍搭配移動速度比碧姬更快的「側襲者（Flanker）」或「前鋒（Initiator）」英雄時非常實用。",
+        "* 透過絕招部署物觸發激勵（Inspire）",
+        "* * 火爆鋼球（Wrecking Ball）的地雷、艾西（Ashe）的鮑伯（B.O.B.），甚至是炸彈鼠（Junkrat）的炸彈輪，都可以用來觸發激勵（Inspire）。",
         "* 然而，一般的部署物無法觸發 ![](/data/assets/guide/50cf2be15ce4d753.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Finspire.png)激勵（Inspire）。"
       ],
       "content_hash": "0d4f40326fa7",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:52.402039Z"
+      "timestamp": "2026-03-26T04:33:39.635194Z"
     },
     "5.1.1": {
       "title": "戰鬥醫護兵（Combat Medic）",
       "description": "近戰攻擊可使修復包（Repair Pack）的冷卻時間縮短 0.5 秒。",
       "content": [
         "* 推薦次要特殊能力（Minor Perk）",
-        "* 在近戰交火時，請隨時留意你的 ![](/data/assets/guide/8053c37a257e8067.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frepair-pack.png)修復包（Repair Pack）冷卻時間。當你有機會攻擊敵人時，盡量避免讓修復包維持在 3 個充能的滿額狀態，這樣才能最大化此特殊能力帶來的效益與額外治療輸出。",
+        "* 在近戰交火時，請隨時留意你的 ![](/data/assets/guide/8053c37a257e8067.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Frepair-pack.png)修復包（Repair Pack）冷卻時間。當你有機會攻擊敵人時，盡量避免讓修復包維持在 3 個充能的狀態，這樣才能最大化此能力的效益並提升額外的治療輸出。",
         "* 當隊伍需要額外治療時表現優異",
-        "* 當你發現另一位輔助英雄在維持隊友生命值方面感到吃力時，戰鬥醫護兵（Combat Medic）就是你的最佳選擇。"
+        "* 當你發現另一位支援角難以維持隊友的生命值時，戰鬥醫護兵（Combat Medic）就是你的最佳選擇。"
       ],
       "content_hash": "12735beceb28",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:54.417907Z"
+      "timestamp": "2026-03-26T04:33:42.533669Z"
     },
     "5.1.2": {
       "title": "士氣高昂（Morale Boost）",
-      "description": "當透過鞭擊（Whip Shot）觸發激勵（Inspire）時，持續時間延長 3 秒。",
+      "description": "當透過鞭擊（Whip Shot）觸發時，激勵（Inspire）的持續時間延長 3 秒。",
       "content": [
         "* 當你在維持激勵（Inspire）效果上有困難時，請選擇此項。",
         "* 鞭擊（Whip Shot）與激勵（Inspire）",
         "* * 激勵（Inspire）持續四秒，而 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png) 鞭擊（Whip Shot）的冷卻時間為四秒。因此，如果你連續命中兩次鞭擊（Whip Shot），你甚至無法從士氣高昂（Morale Boost）中獲得增益。",
-        "* 如果你發現激勵（Inspire）的覆蓋率偏低，或是難以找到穩定的機會來觸發激勵（Inspire），那麼士氣高昂（Morale Boost）會是一個不錯的選擇。"
+        "* 如果你發現自己的激勵（Inspire）覆蓋率偏低，或是難以找到穩定的機會來觸發激勵（Inspire），那麼士氣高昂（Morale Boost）會是一個不錯的選擇。"
       ],
       "content_hash": "ffe511e6701a",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:56.461708Z"
+      "timestamp": "2026-03-26T04:33:44.550566Z"
     },
     "5.2.1": {
       "title": "激勵打擊（Inspiring Strike）",
-      "description": "盾擊（Shield Bash）會賦予 30% 移動速度加成，持續 2 秒。當透過盾擊觸發激勵（Inspire）時，治療效果會立即生效。",
+      "description": "盾牌衝鋒（Shield Bash）會賦予 30% 的移動速度加成，持續 2 秒。當透過盾牌衝鋒（Shield Bash）觸發時，激勵（Inspire）的治療效果會立即生效。",
       "content": [
         "* 移動",
-        "* 盾擊移動是碧姬武器庫中最關鍵的工具之一。獲得額外的移動速度增益，只會讓這項能力變得更加強大。",
+        "* 衝鋒移動是碧姬軍火庫中最關鍵的工具之一。獲得移動速度增益只會讓這項能力變得更加強大。",
         "* 提升侵略性",
-        "* 碧姬在使用激勵打擊（Inspiring Strike）時，可以採取更具侵略性的站位，因為她能更快地突進並壓制敵人，同時也能更快地脫離戰場。",
-        "* 激勵（Inspire）的立即治療效果也讓她在決鬥中變得更為硬朗。"
+        "* 碧姬在使用激勵打擊（Inspiring Strike）時，可以採取更具侵略性的站位，因為她能更快地突進並衝向敵人，同時也能更快地撤離戰場。",
+        "* 立即生效的激勵（Inspire）治療效果也讓她在單挑時更加耐打。"
       ],
       "content_hash": "ccfd71de4306",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:22:58.455258Z"
+      "timestamp": "2026-03-26T04:33:46.666110Z"
     },
     "5.2.2": {
       "title": "鞭擊（Whiplash）",
-      "description": "流星錘（Whip Shot）的擊退效果可以將敵人撞向牆壁，造成 50 點額外傷害。",
+      "description": "流星錘（Whip Shot）的擊退效果可以將敵人撞向牆壁，造成額外 50 點傷害。",
       "content": [
-        "* 視情況而定，但往往是致勝關鍵",
-        "* 當你使用 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星錘（Whip Shot）時，並非每次都能觸發撞牆傷害，但一旦成功，額外傷害就能確保擊殺，或是創造贏下會戰所需的壓力。",
+        "* 情境適用，但至關重要",
+        "* 你不會每次使用 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星錘（Whip Shot）時都能享受到撞牆傷害，但當你成功觸發時，額外的傷害可以確保擊殺，或是創造贏得會戰所需的壓力。",
         "* 在封閉地圖效果最佳",
-        "* 擁有大量建築物與牆壁的地圖，能讓你更有機會對準牆壁進行撞擊。",
-        "* 嘗試透過側移（strafe）來調整角度，將敵人對準任何結構物，以便在每場遊戲中打出更多撞牆傷害。",
-        "* 獨特的傷害門檻（breakpoints）",
+        "* 擁有許多建築物與牆壁的地圖，能讓你更有機會對準牆壁進行撞擊。",
+        "* 嘗試透過左右橫移來調整角度，將敵人對準任何結構物，以便在每場遊戲中打出更多次的撞牆傷害。",
+        "* 獨特的傷害門檻",
         "* 額外的 50 點傷害能針對 225 與 275 生命值的英雄創造出新的「秒殺」連段：",
         "* 235 點傷害連段：連枷（Flail）→ 盾擊（Bash）→ 流星錘（Whip Shot）撞牆",
         "* 280 點傷害連段：連枷（Flail）→ 盾擊（Bash）→ 連枷（Flail）→ 流星錘（Whip Shot）撞牆"
       ],
       "content_hash": "6ed92bc72bb6",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:23:00.710964Z"
+      "timestamp": "2026-03-26T04:33:49.731755Z"
     },
     "6.1": {
       "title": "最佳地圖",
       "description": "",
       "content": [
-        "![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬的遊戲策略能適應大多數情況，因為她結合了近距離進攻能力與中距離治療。然而，偏好消耗陣容的地圖會讓她感到非常棘手。長距離的視野與碧姬的需求背道而馳。狹窄的地圖、轉角以及天然掩體，才是最能發揮碧姬優勢的地圖特色。",
-        "高地對於 ![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬玩家來說是一把雙面刃。一方面，她缺乏垂直機動性，難以接近佔據高地的敵人。另一方面，一旦她成功佔領高地，她就能迫使敵人放棄該區域。此外，在防守時，碧姬的 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘（Whip Shot）在阻擋敵人進攻並穩固隊伍陣型方面極為強大。"
+        "![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬的遊戲策略可以適應大多數情況，因為她結合了近距離進攻能力與中距離治療。然而，有利於消耗陣容的地圖會讓她感到非常棘手。長視線區域與碧姬的需求背道而馳。狹窄的地圖、轉角以及天然掩體，才是最能發揮碧姬優勢的地圖特色。",
+        "高處對於 ![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬玩家來說是一把雙面刃。一方面，她缺乏垂直機動性，難以接近佔據高處位置的敵人。另一方面，一旦她佔據了高處，就能迫使敵人放棄該空間。此外，在防守時，碧姬的 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘（Whip Shot）在將敵人擊退並確保隊伍穩守陣地方面非常強大。"
       ],
       "content_hash": "59712d69f231",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:23:03.127175Z"
+      "timestamp": "2026-03-26T04:33:52.573341Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
       "description": "",
       "content": [
-        "圍繞 ![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬所建立的隊伍陣容，通常包含那些難以獨自生存，但擁有強大進攻能力或功能性技能的英雄。碧姬非常擅長保護隊友，因此如果隊伍中每個人都具備極高的生存能力，她就無法發揮出最大價值。她也能透過遠程治療和「流星飛錘（Whip Shot）」來強化隊友。碧姬至少需要一名英雄與她共同站位，因此她並不適合那些傾向於分散站位或需要頻繁快速轉移陣地的隊伍。",
+        "圍繞著 ![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬所建立的隊伍陣容，通常包含那些難以獨自生存，但擁有強大進攻能力或功能性技能的英雄。碧姬非常擅長保護隊友，因此如果隊伍中每個人都已經具備很高的生存能力，她就無法發揮出最大的價值。她也能透過遠程治療和流星飛錘（Whip Shot）來支援隊友。碧姬需要至少一名英雄與她一同站位，所以她並不適合那些傾向於分散站位或需要快速轉移陣地的隊伍。",
         "**圍繞碧姬建立的隊伍陣容範例：**",
         "* **坦克**: ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅",
         "* **輸出**: ![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔, ![](/data/assets/guide/9d5aac4b0dd47287.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ffreja.png)弗蕾亞",
         "* **輔助**: ![](/data/assets/guide/df34545acaf615da.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fbrigitte.png)碧姬, ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜"
       ],
       "content_hash": "397a53ccb4c4",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:23:05.527935Z"
+      "timestamp": "2026-03-26T04:33:55.130174Z"
     },
     "7.1": {
       "title": "個別英雄搭配",
       "description": "",
       "content": [
-        "![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅",
-        "* ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅在能將目標保持在主要攻擊範圍邊緣時表現最佳。當敵方坦克能直接貼身時，她在對局中會感到吃力。碧姬的「鞭擊」（Whip Shot）能幫助 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅控制空間並維持她的理想距離。一旦「拉力」（Rally）準備就緒，移動速度加成與護甲能讓 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅衝向敵方隊伍並殲滅對方的後排。",
-        "![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔",
-        "* ![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔與碧姬因為相似的混戰混合型（brawl-hybrid）打法，搭配起來效果極佳。![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔透過她的傳送門（TP）為碧姬提供了急需的機動性。「修復包」（Repair Packs）與傳送門的距離幾乎相同，這讓 ![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)辛梅塔與隊友即使身處傳送門的另一端，依然能從碧姬那裡獲得治療。任何被碧姬與辛梅塔透過傳送門突襲的目標，都會因為她們高傷害與高續航力的組合而瞬間陣亡。",
-        "![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜",
-        "* ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜是《鬥陣特攻》中治療與功能性最強的輔助英雄之一。她唯一的弱點就是成為所有人最愛突襲的目標，因為除了命中「睡眠鏢」（Sleep）與「生化手榴彈」（Nade）之外，她缺乏致命的威脅手段。碧姬透過擔任她的守護者來彌補這個弱點。如果 ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)安娜能安全地將治療量與冷卻技能灌注給隊友，她的隊伍就不會落敗。然而，這只有在碧姬的協助下才有可能實現，因為碧姬是在安娜負責維持隊伍生存的同時，最能確保安娜存活的輔助英雄。"
+        "![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅\n* ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)札莉雅在能將目標保持在主要攻擊範圍邊緣時表現最佳。當敵方坦克能直接貼到她臉上時，她在對局中會顯得相當吃力。碧姬的「鞭擊」（Whip Shot）能幫助 [[__OWH_IMG_2__]]札莉雅控制空間並維持她的理想距離。一旦「集結號令」（Rally）準備就緒，其提供的速度加成與護甲能讓 [[__OWH_IMG_3__]]札莉雅衝向敵方隊伍並殲滅對方的後排。",
+        "![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)辛梅塔\n* ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)辛梅塔與碧姬因為擁有相似的混戰混合型遊玩風格，兩者搭配起來效果極佳。![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)辛梅塔透過她的傳送門（TP）為碧姬提供了急需的機動性。「修復包」（Repair Packs）與傳送門的距離幾乎相同，這使得 ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)辛梅塔與隊友即便處於傳送門的另一端，依然能從碧姬身上獲得治療。任何被碧姬與辛梅塔透過傳送門突襲的目標，都會因為她們高傷害與高續航力的組合而瞬間死亡。",
+        "![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)安娜\n* ![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)安娜是《鬥陣特攻》中治療與功能性最強的輔助英雄之一。她唯一的弱點就是成為所有人最愛的突襲目標，因為除了命中「睡眠鏢」（Sleep）與「生化手榴彈」（Nade）之外，她缺乏致命的威脅手段。碧姬透過擔任她的守護者彌補了這個弱點。如果 [[__OWH_IMG_2__]]安娜能安全地將治療量與冷卻技能投入到隊伍中，她的隊伍就不會輸。然而，這只有在碧姬的協助下才有可能實現，因為碧姬是保護安娜存活最出色的輔助，而安娜則負責讓隊伍中其餘成員存活。",
+        "* ![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)Symmetra and Brig pair extremely well together because of similar brawl-hybrid playstyles. ![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)Symmetra gives Brig much-needed mobility through her TP. The range of Repair Packs and TP is nearly identical as well, which enables ![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)Symmetra and allies to be on opposite ends of the TP from Brig and still receive her healing. Anyone who gets TP dove by Brig and Sym is instantly dead because of their high damage and sustain combo.",
+        "![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana",
+        "* ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana is one of the best healing and utility Supports in Overwatch. Her only weakness is being everyone's favorite dive target because she lacks a lethal threat outside of landing Sleep and Nade. Brig makes up for her weakness by being her protector. If ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana is safe to pump healing and cooldowns into her team, her team will not lose. This is only possible with Brig, however, because she is the best Support at keeping Ana alive while Ana keeps the rest of the team alive."
       ],
       "content_hash": "9134e372e90e",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:23:09.241071Z"
+      "timestamp": "2026-03-26T04:33:59.458788Z"
     },
     "8": {
       "title": "如何反制",
       "description": "",
       "content": [
-        "* 消耗戰（Poke）。碧姬無法直接應對消耗戰傷害，這是對她的護盾施壓並迫使她採取被動打法的絕佳方式。",
-        "* 進行輕度交戰（Soft engage）以誘使她交出 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png) 甩擊（Whip Shot），接著在她無法將你擊退時，使用位移冷卻技能進行進攻。",
+        "* 消耗戰。碧姬無法直接應對消耗戰傷害，這是對她的護盾施加壓力並迫使她採取被動打法的絕佳方式。",
+        "* 進行輕度交戰以騙出 ![](/data/assets/guide/7a4683cc8d893758.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fwhip-shot.png)流星飛錘，接著在她無法將你擊退時，使用位移技能進行冷卻時間交換。",
         "* 鎖定她的隊友。碧姬的治療速度相當緩慢，因此最好的策略通常是先擊殺她隊伍中的其他人，最後再解決她。"
       ],
       "content_hash": "3f1c0d5511cd",
-      "prompt_version": "v7",
+      "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-20T13:23:11.195027Z"
+      "timestamp": "2026-03-26T04:34:01.977042Z"
     }
   },
   "metadata": {
-    "prompt_version": "v7",
+    "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-20T13:22:13.789296Z"
+    "timestamp": "2026-03-26T05:10:58.911301Z"
   }
 }

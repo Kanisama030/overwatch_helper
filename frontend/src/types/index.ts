@@ -3,6 +3,14 @@ export type Locale = 'en' | 'zh-TW';
 export type Mode = 'Quick Play' | 'Competitive';
 export type CompetitiveRank = 'All' | 'Bronze' | 'Silver' | 'Gold' | 'Platinum' | 'Diamond' | 'Master' | 'Grandmaster' | 'Champion';
 
+/** overwatch_master.json 中的 Guide section */
+export interface GuideSection {
+  id: string;
+  title: string;
+  description?: string;
+  content?: string[];
+}
+
 export interface GameMap {
   id: string;
   en: string;
@@ -80,6 +88,8 @@ export interface HeroSummary {
     minor: PerkSection[];
     major: PerkSection[];
   };
+  /** 完整的 Guide sections（來自 overwatch_master.json） */
+  guide?: GuideSection[];
 }
 
 export interface AppDataset {
