@@ -336,24 +336,24 @@
       "timestamp": "2026-03-26T04:32:44.036592Z"
     },
     "8.2": {
-      "title": "特定英雄剋星名稱",
+      "title": "特定英雄剋制名單",
       "description": "",
       "content": [
         "* 奪命女",
         "* 半藏",
         "* 艾西",
-        "* 士兵76",
-        "* 索潔恩"
+        "* 索潔恩",
+        "* 士兵76"
       ],
-      "content_hash": "0e89929b1ddb",
+      "content_hash": "e46f1ab35415",
       "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:10:59.545331Z"
+      "timestamp": "2026-04-02T01:08:59.718954Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-26T05:10:58.034614Z"
+    "timestamp": "2026-04-02T01:08:58.345063Z"
   }
 }

@@ -408,23 +408,23 @@
       "timestamp": "2026-03-26T04:25:22.492557Z"
     },
     "8.2": {
-      "title": "特定英雄剋制名單",
+      "title": "特定英雄剋制名稱",
       "description": "",
       "content": [
         "* 安娜",
+        "* D.Va",
         "* 歐瑞莎",
-        "* 織命",
-        "* D.Va"
+        "* 織命"
       ],
-      "content_hash": "140cd229923f",
+      "content_hash": "c29f397385de",
       "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:10:57.868509Z"
+      "timestamp": "2026-04-02T01:09:00.305004Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-26T05:10:56.113817Z"
+    "timestamp": "2026-04-02T01:08:57.856346Z"
   }
 }

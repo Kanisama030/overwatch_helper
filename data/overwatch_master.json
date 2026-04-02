@@ -1890,12 +1890,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "winston",
-            "genji",
-            "tracer",
-            "sombra"
-          ]
+          "content": []
         }
       ]
     },
@@ -3215,8 +3210,8 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "zarya",
             "symmetra",
+            "zarya",
             "reinhardt",
             "genji",
             "ana",
@@ -3540,7 +3535,8 @@
           "content": [
             "ana",
             "doomfist",
-            "ramattra"
+            "ramattra",
+            "vendetta"
           ]
         }
       ]
@@ -3867,9 +3863,9 @@
           "title": "Specific Hero Counters names",
           "content": [
             "ana",
+            "dva",
             "orisa",
-            "lifeweaver",
-            "dva"
+            "lifeweaver"
           ]
         }
       ]
@@ -5444,13 +5440,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "pharah",
-            "widowmaker",
-            "ashe",
-            "soldier-76",
-            "winston"
-          ]
+          "content": []
         }
       ]
     },
@@ -10949,13 +10939,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "pharah",
-            "widowmaker",
-            "ashe",
-            "cassidy",
-            "soldier-76"
-          ]
+          "content": []
         }
       ]
     },
@@ -12499,8 +12483,8 @@
             "widowmaker",
             "hanzo",
             "ashe",
-            "soldier-76",
-            "sojourn"
+            "sojourn",
+            "soldier-76"
           ]
         }
       ]

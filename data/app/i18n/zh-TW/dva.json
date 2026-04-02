@@ -371,22 +371,22 @@
       "title": "特定英雄剋星名稱",
       "description": "",
       "content": [
-        "* 札莉雅",
         "* 辛梅塔",
+        "* 札莉雅",
         "* 萊因哈特",
         "* 源氏",
         "* 安娜",
         "* 席格馬"
       ],
-      "content_hash": "3a6e5eccd387",
+      "content_hash": "176701e883e5",
       "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:10:57.534051Z"
+      "timestamp": "2026-04-02T01:08:59.388489Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-26T05:10:56.071483Z"
+    "timestamp": "2026-04-02T01:08:57.805294Z"
   }
 }

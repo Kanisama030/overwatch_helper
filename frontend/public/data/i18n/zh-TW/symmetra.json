@@ -320,26 +320,11 @@
       "prompt_version": "v8",
       "glossary_version": "v1",
       "timestamp": "2026-03-26T04:26:57.930197Z"
-    },
-    "8.2": {
-      "title": "特定英雄剋制名單",
-      "description": "",
-      "content": [
-        "* 法拉",
-        "* 奪命女",
-        "* 艾西",
-        "* 士兵76",
-        "* 溫斯頓"
-      ],
-      "content_hash": "156aac36130c",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:10:58.848230Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-03-26T05:10:57.491394Z"
+    "timestamp": "2026-04-02T01:08:57.943700Z"
   }
 }
