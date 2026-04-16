@@ -241,6 +241,21 @@ def parse_args():
     return parser.parse_args()
 
 
+def merge_hero_entry(existing_hero, hero_id: str, en_name: str, zh_name: str, role: str, image_url: str):
+    # 以既有 hero 資料為底，避免覆蓋掉 perks 等擴充欄位。
+    merged = dict(existing_hero or {})
+    merged.update(
+        {
+            "id": hero_id,
+            "en": en_name,
+            "zh": zh_name,
+            "role": role,
+            "_image": image_url,
+        }
+    )
+    return merged
+
+
 def main():
     args = parse_args()
     base_dir = os.path.dirname(__file__)
@@ -254,6 +269,7 @@ def main():
     mapping = read_json(mapping_path)
     existing_heroes = mapping.get("heroes", [])
     existing_maps = mapping.get("maps", [])
+    existing_hero_by_id = {h.get("id"): h for h in existing_heroes if h.get("id")}
 
     zh_html = fetch_html("https://overwatch.blizzard.com/zh-tw/heroes/")
     en_html = fetch_html("https://overwatch.blizzard.com/en-us/heroes/")
@@ -266,24 +282,26 @@ def main():
     merged_by_id = {}
     for hero_id, zh in zh_heroes.items():
         en_name = en_heroes.get(hero_id, {}).get("name") or existing_en.get(hero_id) or slug_to_name(hero_id)
-        merged_by_id[hero_id] = {
-            "id": hero_id,
-            "en": en_name,
-            "zh": zh.get("name") or en_name,
-            "role": zh.get("role", "Damage"),
-            "_image": zh.get("image", ""),
-        }
+        merged_by_id[hero_id] = merge_hero_entry(
+            existing_hero_by_id.get(hero_id),
+            hero_id,
+            en_name,
+            zh.get("name") or en_name,
+            zh.get("role", "Damage"),
+            zh.get("image", ""),
+        )
 
     for hero_id, en in en_heroes.items():
         if hero_id not in merged_by_id:
             en_name = en.get("name") or existing_en.get(hero_id) or slug_to_name(hero_id)
-            merged_by_id[hero_id] = {
-                "id": hero_id,
-                "en": en_name,
-                "zh": en_name,
-                "role": en.get("role", "Damage"),
-                "_image": en.get("image", ""),
-            }
+            merged_by_id[hero_id] = merge_hero_entry(
+                existing_hero_by_id.get(hero_id),
+                hero_id,
+                en_name,
+                en_name,
+                en.get("role", "Damage"),
+                en.get("image", ""),
+            )
 
     ordered_ids = [hid for hid in existing_order if hid in merged_by_id]
     for hid in sorted(merged_by_id.keys()):

@@ -1614,6 +1614,38 @@
           }
         ]
       }
+    },
+    {
+      "id": "sierra",
+      "en": "Sierra",
+      "zh": "席艾拉",
+      "role": "Damage",
+      "perks": {
+        "minor perks": [
+          {
+            "name": "Full Flight",
+            "description": "Increase Anchor Drone flight and grapple ranges by 25%.",
+            "image": "data/assets/perks/sierra_minor_full-flight.png"
+          },
+          {
+            "name": "Tight Grip",
+            "description": "Helix Rifle's bullet spread tightens 100% faster and widens 30% slower.",
+            "image": "data/assets/perks/sierra_minor_tight-grip.png"
+          }
+        ],
+        "major perks": [
+          {
+            "name": "Medi-Drone",
+            "description": "Anchor Drones hold a small health pack that can heal Sierra.",
+            "image": "data/assets/perks/sierra_major_medi-drone.png"
+          },
+          {
+            "name": "Locked In",
+            "description": "Firing Tracking Shot increases your attack speed by 20% for 2 seconds.",
+            "image": "data/assets/perks/sierra_major_locked-in.png"
+          }
+        ]
+      }
     }
   ],
   "maps": [

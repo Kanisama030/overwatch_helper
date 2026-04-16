@@ -351,11 +351,26 @@
       "prompt_version": "v8",
       "glossary_version": "v1",
       "timestamp": "2026-03-26T04:30:02.480458Z"
+    },
+    "8.2": {
+      "title": "特定英雄剋制名單",
+      "description": "",
+      "content": [
+        "* 卡西迪",
+        "* 小美",
+        "* 駭影",
+        "* 安娜",
+        "* 碧姬"
+      ],
+      "content_hash": "33f92cb9501b",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-04-16T14:04:15.849270Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-04-16T12:25:49.978929Z"
+    "timestamp": "2026-04-16T14:04:14.291107Z"
   }
 }

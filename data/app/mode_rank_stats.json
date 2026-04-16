@@ -59298,5 +59298,1191 @@
         }
       }
     }
+  },
+  "sierra": {
+    "Quick Play": {
+      "All": {
+        "all-maps": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "ilios": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "nepal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "lijiang-tower": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "oasis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "samoa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "busan": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "route-66": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "havana": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "junkertown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "dorado": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "circuit-royal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "rialto": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "shambali-monastery": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "aatlis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-junk-city": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "suravasa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "midtown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "numbani": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "kings-row": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "hollywood": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "paraiso": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "eichenwalde": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "blizzard-world": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "esperanca": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-queen-street": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "runasapi": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "colosseo": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        }
+      }
+    },
+    "Competitive": {
+      "All": {
+        "all-maps": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "ilios": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "nepal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "lijiang-tower": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "oasis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "samoa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "busan": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "route-66": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "havana": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "junkertown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "dorado": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "circuit-royal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "rialto": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "shambali-monastery": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "aatlis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-junk-city": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "suravasa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "midtown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "numbani": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "kings-row": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "hollywood": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "paraiso": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "eichenwalde": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "blizzard-world": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "esperanca": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-queen-street": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "runasapi": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "colosseo": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        }
+      },
+      "Bronze": {
+        "all-maps": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "ilios": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "nepal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "lijiang-tower": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "oasis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "samoa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "busan": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "route-66": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "havana": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "junkertown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "dorado": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "circuit-royal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "rialto": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "shambali-monastery": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "aatlis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-junk-city": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "suravasa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "midtown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "numbani": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "kings-row": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "hollywood": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "paraiso": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "eichenwalde": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "blizzard-world": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "esperanca": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-queen-street": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "runasapi": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "colosseo": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        }
+      },
+      "Silver": {
+        "all-maps": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "ilios": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "nepal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "lijiang-tower": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "oasis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "samoa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "busan": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "route-66": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "havana": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "junkertown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "dorado": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "circuit-royal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "rialto": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "shambali-monastery": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "aatlis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-junk-city": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "suravasa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "midtown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "numbani": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "kings-row": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "hollywood": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "paraiso": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "eichenwalde": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "blizzard-world": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "esperanca": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-queen-street": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "runasapi": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "colosseo": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        }
+      },
+      "Gold": {
+        "all-maps": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "ilios": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "nepal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "lijiang-tower": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "oasis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "samoa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "busan": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "route-66": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "havana": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "junkertown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "dorado": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "circuit-royal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "rialto": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "shambali-monastery": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "aatlis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-junk-city": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "suravasa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "midtown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "numbani": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "kings-row": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "hollywood": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "paraiso": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "eichenwalde": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "blizzard-world": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "esperanca": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-queen-street": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "runasapi": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "colosseo": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        }
+      },
+      "Platinum": {
+        "all-maps": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "ilios": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "nepal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "lijiang-tower": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "oasis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "samoa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "busan": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "route-66": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "havana": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "junkertown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "dorado": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "circuit-royal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "rialto": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "shambali-monastery": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "aatlis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-junk-city": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "suravasa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "midtown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "numbani": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "kings-row": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "hollywood": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "paraiso": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "eichenwalde": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "blizzard-world": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "esperanca": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-queen-street": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "runasapi": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "colosseo": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        }
+      },
+      "Diamond": {
+        "all-maps": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "ilios": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "nepal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "lijiang-tower": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "oasis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "samoa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "busan": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "route-66": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "havana": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "junkertown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "dorado": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "circuit-royal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "rialto": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "shambali-monastery": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "aatlis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-junk-city": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "suravasa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "midtown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "numbani": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "kings-row": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "hollywood": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "paraiso": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "eichenwalde": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "blizzard-world": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "esperanca": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-queen-street": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "runasapi": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "colosseo": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        }
+      },
+      "Master": {
+        "all-maps": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "ilios": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "nepal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "lijiang-tower": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "oasis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "samoa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "busan": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "route-66": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "havana": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "junkertown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "dorado": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "circuit-royal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "rialto": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "shambali-monastery": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "aatlis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-junk-city": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "suravasa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "midtown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "numbani": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "kings-row": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "hollywood": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "paraiso": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "eichenwalde": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "blizzard-world": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "esperanca": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-queen-street": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "runasapi": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "colosseo": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        }
+      },
+      "Grandmaster": {
+        "all-maps": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "ilios": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "nepal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "lijiang-tower": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "oasis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "samoa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "busan": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "route-66": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "havana": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "junkertown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "dorado": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "circuit-royal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "rialto": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "shambali-monastery": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "aatlis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-junk-city": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "suravasa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "midtown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "numbani": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "kings-row": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "hollywood": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "paraiso": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "eichenwalde": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "blizzard-world": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "esperanca": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-queen-street": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "runasapi": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "colosseo": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        }
+      },
+      "Champion": {
+        "all-maps": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "ilios": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "nepal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "lijiang-tower": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "oasis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "samoa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "busan": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "route-66": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "havana": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "junkertown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "dorado": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "watchpoint-gibraltar": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "circuit-royal": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "rialto": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "shambali-monastery": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "aatlis": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-junk-city": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "suravasa": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "midtown": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "numbani": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "kings-row": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "hollywood": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "paraiso": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "eichenwalde": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "blizzard-world": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "esperanca": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "new-queen-street": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "runasapi": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        },
+        "colosseo": {
+          "win_rate": -1.0,
+          "pick_rate": -1.0
+        }
+      }
+    }
   }
 }

@@ -699,9 +699,9 @@
     "hero_id": "mercy",
     "group": "major perks",
     "name": "Flash Heal",
-    "image_url": "",
-    "local_path": "",
-    "status": "missing"
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Perk_Double_Dose.png/revision/latest/scale-to-width-down/40?cb=20260415172357",
+    "local_path": "data/assets/perks/mercy_major_flash-heal.png",
+    "status": "skipped"
   },
   {
     "hero_id": "moira",
@@ -771,9 +771,9 @@
     "hero_id": "pharah",
     "group": "minor perks",
     "name": "Drift Thrusters",
-    "image_url": "",
-    "local_path": "",
-    "status": "missing"
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Perk_DriftThrusters.png/revision/latest/scale-to-width-down/40?cb=20250314152149",
+    "local_path": "data/assets/perks/pharah_minor_drift-thrusters.png",
+    "status": "skipped"
   },
   {
     "hero_id": "pharah",
@@ -789,7 +789,7 @@
     "name": "Concussive Force",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Perk_Concussive_Force.png/revision/latest/scale-to-width-down/40?cb=20260415172829",
     "local_path": "data/assets/perks/pharah_minor_concussive-force.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "pharah",
@@ -829,7 +829,7 @@
     "name": "Prolonged Barrier",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Perk_ProlongedBarrier.png/revision/latest/scale-to-width-down/40?cb=20250314160532",
     "local_path": "data/assets/perks/ramattra_minor_prolonged-barrier.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "ramattra",
@@ -853,7 +853,7 @@
     "name": "Void Surge",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Perk_VoidSurge.png/revision/latest/scale-to-width-down/40?cb=20250314160647",
     "local_path": "data/assets/perks/ramattra_major_void-surge.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "reaper",
@@ -1622,5 +1622,37 @@
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Fallingrain.png/revision/latest/scale-to-width-down/40?cb=20250725230244",
     "local_path": "data/assets/perks/wuyang_major_falling-rain.png",
     "status": "skipped"
+  },
+  {
+    "hero_id": "sierra",
+    "group": "minor perks",
+    "name": "Full Flight",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Perk_Full_Flight.png/revision/latest/scale-to-width-down/40?cb=20260414190917",
+    "local_path": "data/assets/perks/sierra_minor_full-flight.png",
+    "status": "ok"
+  },
+  {
+    "hero_id": "sierra",
+    "group": "minor perks",
+    "name": "Tight Grip",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Perk_Tight_Grip.png/revision/latest/scale-to-width-down/40?cb=20260414190917",
+    "local_path": "data/assets/perks/sierra_minor_tight-grip.png",
+    "status": "ok"
+  },
+  {
+    "hero_id": "sierra",
+    "group": "major perks",
+    "name": "Medi-Drone",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Perk_Medi-Drone.png/revision/latest/scale-to-width-down/40?cb=20260414190917",
+    "local_path": "data/assets/perks/sierra_major_medi-drone.png",
+    "status": "ok"
+  },
+  {
+    "hero_id": "sierra",
+    "group": "major perks",
+    "name": "Locked In",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c4/Perk_Locked_In.png/revision/latest/scale-to-width-down/40?cb=20260414190915",
+    "local_path": "data/assets/perks/sierra_major_locked-in.png",
+    "status": "ok"
   }
 ]

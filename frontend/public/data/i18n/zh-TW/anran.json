@@ -395,193 +395,6 @@
       "glossary_version": "v1",
       "timestamp": "2026-03-26T04:30:24.145351Z"
     },
-    "6.1.10": {
-      "title": "釜山",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:10:59.219132Z"
-    },
-    "6.1.11": {
-      "title": "埃特利斯",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:00.575081Z"
-    },
-    "6.1.12": {
-      "title": "新垃圾城",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:01.908794Z"
-    },
-    "6.1.13": {
-      "title": "66號公路",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:03.370145Z"
-    },
-    "6.1.14": {
-      "title": "哈瓦那",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:04.683945Z"
-    },
-    "6.1.15": {
-      "title": "垃圾鎮",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:06.342584Z"
-    },
-    "6.1.16": {
-      "title": "捍衛者基地：直布羅陀",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:07.642919Z"
-    },
-    "6.1.17": {
-      "title": "里亞爾托",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:09.134704Z"
-    },
-    "6.1.18": {
-      "title": "香巴里僧院",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:10.356235Z"
-    },
-    "6.1.19": {
-      "title": "努巴尼",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:11.665799Z"
-    },
-    "6.1.20": {
-      "title": "國王大道",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:12.875675Z"
-    },
-    "6.1.21": {
-      "title": "好萊塢",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:14.198652Z"
-    },
-    "6.1.22": {
-      "title": "帕拉伊索",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:15.634542Z"
-    },
-    "6.1.23": {
-      "title": "愛西瓦德",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:16.867623Z"
-    },
-    "6.1.24": {
-      "title": "暴雪樂園",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:18.102079Z"
-    },
-    "6.1.25": {
-      "title": "希望之城",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:19.356189Z"
-    },
-    "6.1.26": {
-      "title": "盧納薩庇",
-      "description": "",
-      "content": [
-        "人工智慧生成"
-      ],
-      "content_hash": "cdcbb68a3444",
-      "prompt_version": "v8",
-      "glossary_version": "v1",
-      "timestamp": "2026-03-26T05:11:20.592424Z"
-    },
     "6.2.1": {
       "title": "中城區",
       "description": "",
@@ -603,6 +416,193 @@
       "prompt_version": "v8",
       "glossary_version": "v1",
       "timestamp": "2026-03-26T04:30:26.615337Z"
+    },
+    "6.2.3": {
+      "title": "66號公路",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:28.326996Z"
+    },
+    "6.2.4": {
+      "title": "哈瓦那",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:29.778329Z"
+    },
+    "6.2.5": {
+      "title": "垃圾鎮",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:30.611267Z"
+    },
+    "6.2.6": {
+      "title": "多拉多",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:31.954446Z"
+    },
+    "6.2.7": {
+      "title": "捍衛者基地：直布羅陀",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:33.559405Z"
+    },
+    "6.2.8": {
+      "title": "里亞爾托",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:35.254979Z"
+    },
+    "6.2.9": {
+      "title": "香巴里僧院",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:37.204495Z"
+    },
+    "6.2.10": {
+      "title": "努巴尼",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:38.622344Z"
+    },
+    "6.2.11": {
+      "title": "國王大道",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:40.419200Z"
+    },
+    "6.2.12": {
+      "title": "好萊塢",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:42.117616Z"
+    },
+    "6.2.13": {
+      "title": "帕拉伊索",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:43.604056Z"
+    },
+    "6.2.14": {
+      "title": "愛西瓦德",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:45.282302Z"
+    },
+    "6.2.15": {
+      "title": "暴雪樂園",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:46.605229Z"
+    },
+    "6.2.16": {
+      "title": "希望之城",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:48.521207Z"
+    },
+    "6.2.17": {
+      "title": "新皇后街",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:50.028137Z"
+    },
+    "6.2.18": {
+      "title": "盧納薩庇",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:51.727743Z"
+    },
+    "6.2.19": {
+      "title": "羅馬競技場",
+      "description": "",
+      "content": [
+        "人工智慧生成"
+      ],
+      "content_hash": "cdcbb68a3444",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T04:30:52.989271Z"
     },
     "7": {
       "title": "隊伍陣容搭配",
@@ -631,22 +631,23 @@
       "timestamp": "2026-03-26T04:30:59.604188Z"
     },
     "8.2": {
-      "title": "特定英雄剋制名稱",
+      "title": "特定英雄剋制名單",
       "description": "",
       "content": [
         "* 索潔恩",
         "* 卡西迪",
-        "* 宿怨"
+        "* 宿怨",
+        "* 艾西"
       ],
-      "content_hash": "0b08be2379e2",
+      "content_hash": "a11349aa4497",
       "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-26T04:31:01.397934Z"
+      "timestamp": "2026-04-16T14:04:16.939176Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-04-16T12:25:49.994693Z"
+    "timestamp": "2026-04-16T14:04:14.510149Z"
   }
 }

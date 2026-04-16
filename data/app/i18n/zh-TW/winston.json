@@ -324,22 +324,22 @@
       "timestamp": "2026-03-26T04:25:08.046071Z"
     },
     "8.2": {
-      "title": "特定英雄剋星名稱",
+      "title": "特定英雄剋制對象名稱",
       "description": "",
       "content": [
+        "* 安娜",
         "* 毀滅拳王",
-        "* 拉瑪塔",
-        "* 安娜"
+        "* 拉瑪塔"
       ],
-      "content_hash": "a3ce0ec1a8aa",
+      "content_hash": "7ec8d3162c1f",
       "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-04-16T12:25:49.682859Z"
+      "timestamp": "2026-04-16T14:04:15.369851Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-04-16T12:25:48.349382Z"
+    "timestamp": "2026-04-16T14:04:12.355569Z"
   }
 }

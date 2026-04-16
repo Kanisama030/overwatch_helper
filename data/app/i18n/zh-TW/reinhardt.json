@@ -13,7 +13,7 @@
       "content_hash": "c484b4a7ee21",
       "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-04-16T12:25:52.290085Z"
+      "timestamp": "2026-04-16T12:25:52.289079Z"
     },
     "1.1.1": {
       "title": "操作指南",
@@ -401,13 +401,12 @@
         "* 路西歐",
         "* 法拉",
         "* 索潔恩",
-        "* 歐瑞莎",
-        "* 安娜"
+        "* 歐瑞莎"
       ],
-      "content_hash": "631d448d9259",
+      "content_hash": "352e06989fcd",
       "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-26T04:29:12.965588Z"
+      "timestamp": "2026-04-16T14:04:15.228289Z"
     },
     "8.0.2": {
       "title": "坦克",
@@ -453,6 +452,6 @@
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-04-16T12:25:49.892472Z"
+    "timestamp": "2026-04-16T14:04:12.481743Z"
   }
 }

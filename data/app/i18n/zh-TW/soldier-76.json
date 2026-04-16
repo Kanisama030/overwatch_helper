@@ -293,21 +293,24 @@
       "timestamp": "2026-03-26T04:26:59.112131Z"
     },
     "8.2": {
-      "title": "特定英雄剋制名單",
+      "title": "特定英雄剋星名稱",
       "description": "",
       "content": [
+        "* 閃光",
+        "* 源氏",
+        "* 奪命女",
         "* 路西歐",
         "* 火箭貓"
       ],
-      "content_hash": "6319a90572b6",
+      "content_hash": "12f9351eb7a7",
       "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-26T04:27:00.431796Z"
+      "timestamp": "2026-04-16T14:04:14.506157Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-04-16T12:25:49.770302Z"
+    "timestamp": "2026-04-16T14:04:12.416570Z"
   }
 }

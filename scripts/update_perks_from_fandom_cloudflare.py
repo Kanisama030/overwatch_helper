@@ -244,6 +244,75 @@ def strip_html_for_llm(html):
     return text
 
 
+def build_hero_focused_text(text, hero_id, hero_en, max_len=160000, side_window=45000):
+    """在單一來源頁中抽取與目標英雄相鄰的片段，避免只取檔案開頭造成漏抓。"""
+    if not text:
+        return ""
+
+    lowered = text.lower()
+    patterns = []
+    for raw in (
+        hero_en,
+        hero_id,
+        hero_id.replace("-", " "),
+        f"icon-{hero_en}",
+        f"icon-{hero_id}",
+        f"/{hero_id}",
+    ):
+        p = str(raw or "").strip().lower()
+        if p and p not in patterns:
+            patterns.append(p)
+
+    spans = []
+    for pat in patterns:
+        start = 0
+        while True:
+            idx = lowered.find(pat, start)
+            if idx == -1:
+                break
+            left = max(0, idx - side_window)
+            right = min(len(text), idx + len(pat) + side_window)
+            spans.append((left, right))
+            start = idx + len(pat)
+            if len(spans) >= 16:
+                break
+        if len(spans) >= 16:
+            break
+
+    if not spans:
+        return text[:max_len]
+
+    spans.sort()
+    merged = [spans[0]]
+    for left, right in spans[1:]:
+        last_left, last_right = merged[-1]
+        if left <= last_right:
+            merged[-1] = (last_left, max(last_right, right))
+        else:
+            merged.append((left, right))
+
+    chunks = []
+    total = 0
+    head = text[: min(5000, len(text))]
+    chunks.append(head)
+    total += len(head)
+    separator = "\n\n---\n\n"
+    for left, right in merged:
+        piece = text[left:right]
+        if total + len(separator) + len(piece) > max_len:
+            remain = max_len - total - len(separator)
+            if remain <= 0:
+                break
+            piece = piece[:remain]
+        chunks.append(separator)
+        chunks.append(piece)
+        total += len(separator) + len(piece)
+        if total >= max_len:
+            break
+
+    return "".join(chunks)
+
+
 def extract_wikia_image_urls(html, limit=1200):
     urls = re.findall(r"https://static\.wikia\.nocookie\.net/[^\s\"')]+", html)
     dedup = []
@@ -304,9 +373,20 @@ def call_gemini_extract_for_hero(markdown, html, hero_id, hero_en, expected_mino
 
     expected_minor_json = json.dumps(expected_minor_names, ensure_ascii=False)
     expected_major_json = json.dumps(expected_major_names, ensure_ascii=False)
-    html_text = strip_html_for_llm(html)
-    html_text = html_text[:160000]
-    markdown = markdown[:160000]
+    html_text = build_hero_focused_text(
+        strip_html_for_llm(html),
+        hero_id=hero_id,
+        hero_en=hero_en,
+        max_len=160000,
+        side_window=45000,
+    )
+    markdown = build_hero_focused_text(
+        markdown,
+        hero_id=hero_id,
+        hero_en=hero_en,
+        max_len=160000,
+        side_window=45000,
+    )
     image_candidates = extract_wikia_image_urls(html)
     image_candidates_text = "\n".join(image_candidates[:800])
     prompt = (

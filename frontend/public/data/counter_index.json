@@ -527,9 +527,9 @@
     "specific_counters_82": [
       "genji",
       "tracer",
-      "sombra",
       "winston",
-      "wrecking-ball"
+      "doomfist",
+      "sombra"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)Sojourn DPS heroes in _Overwatch_. No matter what team composition she is paired with, she can find a way to provide value. There isn't really a team archetype that Sojourn simply will not work with."
@@ -1021,9 +1021,9 @@
     ],
     "specific_counters_81": [],
     "specific_counters_82": [
+      "ana",
       "doomfist",
-      "ramattra",
-      "ana"
+      "ramattra"
     ],
     "team_comp_synergies": [
       "![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)Winston doesn't have lethal burst damage on his own. If his target is receiving healing, he generally will not be able to get an elimination. Where Winston shines is disrupting backlines and creating openings for the rest of his team to follow up on his dives.",
@@ -1626,13 +1626,7 @@
       "* Stay out of her effective range. Primary fire and turrets both have very limited ranges, so most heroes have the advantage against Sym at medium to long range."
     ],
     "specific_counters_81": [],
-    "specific_counters_82": [
-      "widowmaker",
-      "hanzo",
-      "ashe",
-      "soldier-76",
-      "sojourn"
-    ],
+    "specific_counters_82": [],
     "team_comp_synergies": [
       "![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)Symmetra has two playstyles. One is to use ![](/data/assets/guide/442047e29c6772ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fteleporter.png)Teleporter to flank and turret bomb the backline. The other is to play with the Tank, build charge, then melt everyone. To maximize the safety and consistency of the dive style, she needs at least one other hero who can dive with her (on their own or by using the TP).",
       "To play as a frontliner, she wants her Tank to hold the front so she can safely push up with them (e.g. ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)Reinhardt, ![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)Ramattra, ![](/data/assets/guide/452c9a51fb58d39d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunker-queen.png)Junker Queen). Because she has limited range on her primary fire, she can't stand back and poke, but she also can't push up on her own.",
@@ -1727,6 +1721,9 @@
     ],
     "specific_counters_81": [],
     "specific_counters_82": [
+      "tracer",
+      "genji",
+      "widowmaker",
       "lucio",
       "jetpack-cat"
     ],
@@ -2434,8 +2431,7 @@
       "lucio",
       "pharah",
       "sojourn",
-      "orisa",
-      "ana"
+      "orisa"
     ],
     "team_comp_synergies": [
       "Rein plays best in Rush style team comps where the entire team moves together. Other brawl and close range damage heroes like ![](/data/assets/guide/83501cfadb6150e1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmei.png)Mei and ![](/data/assets/guide/5bcf0662f0357e81.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freaper.png)Reaper pair strongly with Rein, though he can also benefit from having ranged heroes and flankers on his team to make up for his weaknesses.",
@@ -2840,7 +2836,13 @@
       "* To counter ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist, play heroes with stuns or high mobility heroes who can evade him. If you can’t run away or stun him, ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist will harass you all game."
     ],
     "specific_counters_81": [],
-    "specific_counters_82": [],
+    "specific_counters_82": [
+      "cassidy",
+      "mei",
+      "sombra",
+      "ana",
+      "brigitte"
+    ],
     "team_comp_synergies": [
       "Ideal team comps built around ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist take advantage of his explosive playstyle. ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist's gameplay loop constantly shifts between engaging and disengaging. Heroes with similar styles or who have high value burst abilities are the best pairings.",
       "Essentially, every ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist comp utilizes a dive playstyle that anchors on his attacks. Thanks to his block and bonus health, ![](/data/assets/guide/b0e3b7fdf5d7ba15.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fdoomfist.png)Doomfist is rather self sufficient so he doesn't demand a lot of healing resources which opens up more flexibility for Support pairings."
@@ -2936,7 +2938,8 @@
     "specific_counters_82": [
       "sojourn",
       "cassidy",
-      "vendetta"
+      "vendetta",
+      "ashe"
     ],
     "team_comp_synergies": [
       "The best Tanks to have on your team are able to use damage mitigation to help you stay alive, or can follow up on your engages. ![](/data/assets/guide/530a84fb4af55362.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzarya.png)Zarya can give ![](/data/assets/guide/edfc9d8a2457aafb.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fprojected-barrier.png)Projected Barrier to allow Anran to slip behind enemies, and safely attack without being CC'd. ![](/data/assets/guide/2e4a51913793e6dc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fd-va.png)D.Va can fly in with ![](/data/assets/guide/bd20cd06dd7b0779.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdefense-matrix.png)Defense Matrix and her burst damage for a coordinated dive assassination.",
@@ -3331,13 +3334,7 @@
       "* Heroes with long-range capabilities or small, high-mobility characters have favorable matchups against Junkrat."
     ],
     "specific_counters_81": [],
-    "specific_counters_82": [
-      "pharah",
-      "widowmaker",
-      "ashe",
-      "cassidy",
-      "soldier-76"
-    ],
+    "specific_counters_82": [],
     "team_comp_synergies": [
       "![](/data/assets/guide/2b23a0f925f80146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunkrat.png)Junkrat mainly positions on off angles, near but separate from his team. Because of this he has a lot of flexibility with Tank pairings. When he has a barrier Tank, he can play more with his team and spam behind their protection. With more mobile Tanks, he mine up to reposition and follow-up on their aggression.",
       "For the second DPS, having a hitscan like ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe is very helpful to cover his weakness against fliers like ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)Pharah.",
@@ -4113,7 +4110,9 @@
       "* Target ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)Mercy . Eliminating Mercy first is more efficient than trying to kill her allies through her healing."
     ],
     "specific_counters_81": [],
-    "specific_counters_82": [],
+    "specific_counters_82": [
+      "dva"
+    ],
     "team_comp_synergies": [
       "The best comps for ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)Mercy tend to be poke-heavy since she can sit back and damage boost to give her allies the advantage. Other than during ![](/data/assets/guide/7df3cd0fb86c3ebf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvalkyrie.png)Valkyrie, she's limited to single-target healing, so brawly team comps have the worst team synergy.",
       "The best Tanks are those that can survive without needing constant healing, and get benefits from short bursts of damage boost. Tanks like ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)Sigma fit both of these, and he's a staple of poke compositions.",

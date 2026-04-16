@@ -368,19 +368,19 @@
       "content": [
         "* 源氏",
         "* 閃光",
-        "* 駭影",
         "* 溫斯頓",
-        "* 火爆鋼球"
+        "* 毀滅拳王",
+        "* 駭影"
       ],
-      "content_hash": "d7645ecd8fae",
+      "content_hash": "1ee897a24c4f",
       "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-04-16T12:25:49.990788Z"
+      "timestamp": "2026-04-16T14:04:14.237653Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-04-16T12:25:48.235513Z"
+    "timestamp": "2026-04-16T14:04:12.305775Z"
   }
 }
