@@ -329,11 +329,26 @@
       "prompt_version": "v8",
       "glossary_version": "v1",
       "timestamp": "2026-03-26T04:31:39.565039Z"
+    },
+    "8.2": {
+      "title": "特定英雄剋制名單",
+      "description": "",
+      "content": [
+        "* 法拉",
+        "* 奪命女",
+        "* 艾西",
+        "* 卡西迪",
+        "* 士兵76"
+      ],
+      "content_hash": "3d59599651bd",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-03-26T05:10:59.217602Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-04-02T01:08:58.241777Z"
+    "timestamp": "2026-04-16T12:25:50.074876Z"
   }
 }

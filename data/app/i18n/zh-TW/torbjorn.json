@@ -342,18 +342,18 @@
         "* 奪命女",
         "* 半藏",
         "* 艾西",
-        "* 索潔恩",
-        "* 士兵76"
+        "* 士兵76",
+        "* 索潔恩"
       ],
-      "content_hash": "e46f1ab35415",
+      "content_hash": "0e89929b1ddb",
       "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-04-02T01:08:59.718954Z"
+      "timestamp": "2026-04-16T12:25:51.684775Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-04-02T01:08:58.345063Z"
+    "timestamp": "2026-04-16T12:25:50.151222Z"
   }
 }

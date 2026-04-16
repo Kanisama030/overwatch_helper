@@ -495,7 +495,7 @@
         "recommended_flag": false,
         "recommended_reason": null,
         "name": "Accelerando",
-        "description": "Lucio’s attack speed is increased by 50% while Amp It Up is active.",
+        "description": "Gain 15% attack speed while Lucio's Speed Song is active, tripled during Amp It Up.",
         "image": "/data/assets/perks/lucio_major_accelerando.png"
       }
     ]
@@ -558,7 +558,7 @@
         "recommended_flag": false,
         "recommended_reason": null,
         "name": "Sunburn",
-        "description": "Outburst ignites enemies, dealing an additional 70 damage over 3 seconds.",
+        "description": "Outburst ignites enemies, dealing an additional 50 damage over 3 seconds.",
         "image": "/data/assets/perks/illari_major_sunburn.png"
       }
     ]
@@ -736,7 +736,7 @@
         "recommended_flag": false,
         "recommended_reason": null,
         "name": "Invigorate",
-        "description": "Take A Breather rapidly increases Roadhog's movement speed by 30%.",
+        "description": "Take A Breather also heals nearby allies for 50% of its healing.",
         "image": "/data/assets/perks/roadhog_major_invigorate.png"
       },
       {
@@ -796,7 +796,7 @@
         "recommended_flag": true,
         "recommended_reason": "Recommended Major Perk",
         "name": "Heat Sink",
-        "description": "Direct hits with Siphon Blaster refund heat and increase its duration by 0.1 seconds.",
+        "description": "Direct hits with Siphon Blaster refunds 60% heat and increase its duration by 0.1 seconds.",
         "image": "/data/assets/perks/emre_major_heat-sink.png"
       },
       {
@@ -891,7 +891,7 @@
         "recommended_flag": true,
         "recommended_reason": "Recommended Minor Perk",
         "name": "Focused Rush",
-        "description": "Focused Beam's range is increase by 4 meters and movement speed is increase by 20% when active.",
+        "description": "Focused Beam's range is increase by 6 meters and movement speed is increase by 20% when active.",
         "image": "/data/assets/perks/echo_minor_focused-rush.png"
       },
       {
@@ -1910,7 +1910,7 @@
         "recommended_flag": true,
         "recommended_reason": "Recommended Major Perk",
         "name": "Hungering Blaze",
-        "description": "Heal 50 health for each enemy hit by Dancing Blaze.",
+        "description": "Increase the healing of Dancing Blaze's subsequent strikes by 25.",
         "image": "/data/assets/perks/anran_major_hungering-blaze.png"
       }
     ]
@@ -1928,7 +1928,7 @@
         "recommended_flag": false,
         "recommended_reason": null,
         "name": "Configuration Reload",
-        "description": "Refresh the cooldown of A-36 Tactical Grenade when changing configurations.",
+        "description": "Reduce the cooldown of A-36 Tactical Grenade by 4 seconds when changing configurations.",
         "image": "/data/assets/perks/bastion_minor_configuration-reload.png"
       },
       {
@@ -2090,7 +2090,7 @@
         "recommended_flag": false,
         "recommended_reason": null,
         "name": "Frost Arrow",
-        "description": "Press Reload to ready an explosive frost arrow that slows enemies by 35% for 3 seconds.",
+        "description": "Press Reload to ready an explosive frost arrow that slows enemies by 35% for 2 seconds.",
         "image": "/data/assets/perks/hanzo_major_frost-arrow.png"
       }
     ]
@@ -2108,7 +2108,7 @@
         "recommended_flag": true,
         "recommended_reason": "Recommended Minor Perk",
         "name": "Mine Recycling",
-        "description": "Killing blows with Concussion Mine restore one charge.",
+        "description": "Eliminations with Concussion Mine restore one charge.",
         "image": "/data/assets/perks/junkrat_minor_mine-recycling.png"
       },
       {
@@ -2152,7 +2152,7 @@
         "recommended_flag": false,
         "recommended_reason": null,
         "name": "Bomb Voyage",
-        "description": "After launching with Concussion Mine, Junkrat gains 35% increased attack speed for 3 seconds.",
+        "description": "After launching with Concussion Mine, Junkrat gains 25% increased attack speed for 3 seconds.",
         "image": "/data/assets/perks/junkrat_major_bomb-voyage.png"
       }
     ]
@@ -2668,7 +2668,7 @@
         "recommended_flag": false,
         "recommended_reason": null,
         "name": "Flash Heal",
-        "description": "Flash heal can be used on Caduceus Staff's active target to restore 50 health, tripled on allies below half health.",
+        "description": "Flash Heal gains an additional charge but its base healing is reduced by 10.",
         "image": "/data/assets/perks/mercy_major_flash-heal.png"
       }
     ]
@@ -2754,7 +2754,7 @@
         "recommended_flag": true,
         "recommended_reason": "Recommended Minor Perk",
         "name": "Combat Medic",
-        "description": "Melee attacks reduce the cooldown of Repair Pack by 0.5 seconds.",
+        "description": "Melee attacks reduce the cooldown of Repair Pack by 0.75 seconds.",
         "image": "/data/assets/perks/brigitte_minor_combat-medic.png"
       },
       {

@@ -5,7 +5,7 @@
     "name": "Groggy",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Perk_Groggy.png/revision/latest/scale-to-width-down/40?cb=20250314143631",
     "local_path": "data/assets/perks/ana_minor_groggy.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "ana",
@@ -13,7 +13,7 @@
     "name": "Speed Serum",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Perk_Speed_Serum.png/revision/latest/scale-to-width-down/40?cb=20250830173309",
     "local_path": "data/assets/perks/ana_minor_speed-serum.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "ana",
@@ -21,7 +21,7 @@
     "name": "Headhunter",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Perk_Headhunter.png/revision/latest/scale-to-width-down/40?cb=20250314143642",
     "local_path": "data/assets/perks/ana_major_headhunter.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "ana",
@@ -29,7 +29,7 @@
     "name": "Biotic Bounce",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/69/Perk_BioticBounce.png/revision/latest/scale-to-width-down/40?cb=20250314143622",
     "local_path": "data/assets/perks/ana_major_biotic-bounce.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "ashe",
@@ -37,7 +37,7 @@
     "name": "Remote Detonator",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Remote_Detonator.png/revision/latest/scale-to-width-down/40?cb=20250830170808",
     "local_path": "data/assets/perks/ashe_minor_remote-detonator.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "ashe",
@@ -45,7 +45,7 @@
     "name": "Double-Barreled",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Perk_Double-Barreled.png/revision/latest/scale-to-width-down/40?cb=20260216215152",
     "local_path": "data/assets/perks/ashe_minor_double-barreled.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "ashe",
@@ -53,7 +53,7 @@
     "name": "Viper's Sting",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Perk_VipersSting.png/revision/latest/scale-to-width-down/40?cb=20250314144106",
     "local_path": "data/assets/perks/ashe_major_viper-s-sting.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "ashe",
@@ -61,7 +61,7 @@
     "name": "Airburst",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Perk_Airburst.png/revision/latest/scale-to-width-down/40?cb=20250314144040",
     "local_path": "data/assets/perks/ashe_major_airburst.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "baptiste",
@@ -69,7 +69,7 @@
     "name": "Assault Burst",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Perk_AssaultBurst.png/revision/latest/scale-to-width-down/40?cb=20250314144340",
     "local_path": "data/assets/perks/baptiste_minor_assault-burst.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "baptiste",
@@ -77,7 +77,7 @@
     "name": "Expanded Field",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Perk_Expanded_Field.png/revision/latest/scale-to-width-down/40?cb=20260217093035",
     "local_path": "data/assets/perks/baptiste_minor_expanded-field.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "baptiste",
@@ -85,7 +85,7 @@
     "name": "Automated Healing",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/aa/Perk_AutomatedHealing.png/revision/latest/scale-to-width-down/40?cb=20250314144402",
     "local_path": "data/assets/perks/baptiste_major_automated-healing.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "baptiste",
@@ -93,7 +93,7 @@
     "name": "Rocket Boots",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Perk_RocketBoots.png/revision/latest/scale-to-width-down/40?cb=20250314144352",
     "local_path": "data/assets/perks/baptiste_major_rocket-boots.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "bastion",
@@ -101,7 +101,7 @@
     "name": "Configuration Reload",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Configuration_Reload.png/revision/latest/scale-to-width-down/40?cb=20250830170950",
     "local_path": "data/assets/perks/bastion_minor_configuration-reload.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "bastion",
@@ -109,7 +109,7 @@
     "name": "Armored Artillery",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Perk_ArmoredArtillery.png/revision/latest/scale-to-width-down/40?cb=20250314145722",
     "local_path": "data/assets/perks/bastion_minor_armored-artillery.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "bastion",
@@ -117,7 +117,7 @@
     "name": "Lindholm Explosives",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Perk_LindholmExplosives.png/revision/latest/scale-to-width-down/40?cb=20250314145731",
     "local_path": "data/assets/perks/bastion_major_lindholm-explosives.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "bastion",
@@ -125,7 +125,7 @@
     "name": "Self-Repair",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Perk_SelfRepair.png/revision/latest/scale-to-width-down/40?cb=20250314145741",
     "local_path": "data/assets/perks/bastion_major_self-repair.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "brigitte",
@@ -133,7 +133,7 @@
     "name": "Combat Medic",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Perk_Combat_Medic.png/revision/latest/scale-to-width-down/40?cb=20250830174543",
     "local_path": "data/assets/perks/brigitte_minor_combat-medic.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "brigitte",
@@ -141,7 +141,7 @@
     "name": "Morale Boost",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Perk_MoraleBoost.png/revision/latest/scale-to-width-down/40?cb=20250314150135",
     "local_path": "data/assets/perks/brigitte_minor_morale-boost.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "brigitte",
@@ -149,7 +149,7 @@
     "name": "Inspiring Strike",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/10/Perk_Inspiring_Strike.png/revision/latest/scale-to-width-down/40?cb=20250830174607",
     "local_path": "data/assets/perks/brigitte_major_inspiring-strike.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "brigitte",
@@ -157,7 +157,7 @@
     "name": "Whiplash",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Perk_Whiplash.png/revision/latest/scale-to-width-down/40?cb=20250314150153",
     "local_path": "data/assets/perks/brigitte_major_whiplash.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "cassidy",
@@ -165,7 +165,7 @@
     "name": "Bang Bang",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/Perk_BangBang.png/revision/latest/scale-to-width-down/40?cb=20250314150415",
     "local_path": "data/assets/perks/cassidy_minor_bang-bang.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "cassidy",
@@ -173,7 +173,7 @@
     "name": "Even the Odds",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Even_The_Odds.png/revision/latest/scale-to-width-down/40?cb=20250826164440",
     "local_path": "data/assets/perks/cassidy_minor_even-the-odds.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "cassidy",
@@ -181,7 +181,7 @@
     "name": "Rollin' Round-Ups",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Perk_Rollin%27_Round-Up.png/revision/latest/scale-to-width-down/40?cb=20260216215927",
     "local_path": "data/assets/perks/cassidy_major_rollin-round-ups.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "cassidy",
@@ -189,7 +189,7 @@
     "name": "Silver Bullet",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Silver_Bullet.png/revision/latest/scale-to-width-down/40?cb=20250830171129",
     "local_path": "data/assets/perks/cassidy_major_silver-bullet.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "dva",
@@ -197,7 +197,7 @@
     "name": "Bunny Power",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Bunny_Power.png/revision/latest/scale-to-width-down/40?cb=20250826164510",
     "local_path": "data/assets/perks/dva_minor_bunny-power.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "dva",
@@ -205,7 +205,7 @@
     "name": "Extended Boosters",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3a/Extended_Boosters.png/revision/latest/scale-to-width-down/40?cb=20250826164535",
     "local_path": "data/assets/perks/dva_minor_extended-boosters.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "dva",
@@ -213,7 +213,7 @@
     "name": "Shield System",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Perk_ShieldSystem.png/revision/latest/scale-to-width-down/40?cb=20250314151306",
     "local_path": "data/assets/perks/dva_major_shield-system.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "dva",
@@ -221,7 +221,7 @@
     "name": "Precision Fusion",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Precision_Fusion.png/revision/latest/scale-to-width-down/40?cb=20250830162432",
     "local_path": "data/assets/perks/dva_major_precision-fusion.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "doomfist",
@@ -229,7 +229,7 @@
     "name": "One-Two",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/Perk_OneTwo.png/revision/latest/scale-to-width-down/40?cb=20250314160125",
     "local_path": "data/assets/perks/doomfist_minor_one-two.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "doomfist",
@@ -237,7 +237,7 @@
     "name": "Survival of the Fittest",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Perk_Survival-of-the-Fittest.png/revision/latest/scale-to-width-down/40?cb=20250314160211",
     "local_path": "data/assets/perks/doomfist_minor_survival-of-the-fittest.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "doomfist",
@@ -245,7 +245,7 @@
     "name": "Aftershock",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Aftershock.png/revision/latest/scale-to-width-down/40?cb=20250830163015",
     "local_path": "data/assets/perks/doomfist_major_aftershock.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "doomfist",
@@ -253,7 +253,7 @@
     "name": "Power Matrix",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Perk_PowerMatrix.png/revision/latest/scale-to-width-down/40?cb=20250314160137",
     "local_path": "data/assets/perks/doomfist_major_power-matrix.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "echo",
@@ -261,7 +261,7 @@
     "name": "Focused Rush",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Focused_Rush.png/revision/latest/scale-to-width-down/40?cb=20250830171311",
     "local_path": "data/assets/perks/echo_minor_focused-rush.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "echo",
@@ -269,7 +269,7 @@
     "name": "Partial Scan",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Partial_Scan.png/revision/latest/scale-to-width-down/40?cb=20250830171255",
     "local_path": "data/assets/perks/echo_minor_partial-scan.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "echo",
@@ -277,7 +277,7 @@
     "name": "Full Salvo",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Perk_FullSalvo.png/revision/latest/scale-to-width-down/40?cb=20250314151702",
     "local_path": "data/assets/perks/echo_major_full-salvo.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "echo",
@@ -285,7 +285,7 @@
     "name": "High Beams",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Perk_HighBeams.png/revision/latest/scale-to-width-down/40?cb=20250314151709",
     "local_path": "data/assets/perks/echo_major_high-beams.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "genji",
@@ -293,7 +293,7 @@
     "name": "Swift Cuts",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Swift_Cuts.png/revision/latest/scale-to-width-down/40?cb=20250830171557",
     "local_path": "data/assets/perks/genji_minor_swift-cuts.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "genji",
@@ -301,7 +301,7 @@
     "name": "Dragon's Thirst",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/65/Perk_DragonsThirst.png/revision/latest/scale-to-width-down/40?cb=20250314152450",
     "local_path": "data/assets/perks/genji_minor_dragon-s-thirst.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "genji",
@@ -309,7 +309,7 @@
     "name": "Blade Twisting",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Perk_BladeTwisting.png/revision/latest/scale-to-width-down/40?cb=20250314152441",
     "local_path": "data/assets/perks/genji_major_blade-twisting.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "genji",
@@ -317,7 +317,7 @@
     "name": "Meditation",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Perk_Meditation.png/revision/latest/scale-to-width-down/40?cb=20250314152500",
     "local_path": "data/assets/perks/genji_major_meditation.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "hanzo",
@@ -325,7 +325,7 @@
     "name": "Sonic Disruption",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fe/Perk_SonicDisruption.png/revision/latest/scale-to-width-down/40?cb=20250314152830",
     "local_path": "data/assets/perks/hanzo_minor_sonic-disruption.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "hanzo",
@@ -333,7 +333,7 @@
     "name": "Dragon Fury",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Perk_DragonFury.png/revision/latest/scale-to-width-down/40?cb=20250314152803",
     "local_path": "data/assets/perks/hanzo_major_dragon-fury.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "hanzo",
@@ -341,7 +341,7 @@
     "name": "Frost Arrow",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/11/Perk_Frost_Arrow.png/revision/latest/scale-to-width-down/40?cb=20260217091507",
     "local_path": "data/assets/perks/hanzo_major_frost-arrow.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "hanzo",
@@ -349,7 +349,7 @@
     "name": "Scatter Arrows",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1d/Perk_ScatterArrows.png/revision/latest/scale-to-width-down/40?cb=20260102112247",
     "local_path": "data/assets/perks/hanzo_major_scatter-arrows.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "hazard",
@@ -357,7 +357,7 @@
     "name": "Deep Leap",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Perk_DeepLeap.png/revision/latest/scale-to-width-down/40?cb=20250314163050",
     "local_path": "data/assets/perks/hazard_minor_deep-leap.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "hazard",
@@ -365,7 +365,7 @@
     "name": "Anarchic Zeal",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/Perk_AnarchicZeal.png/revision/latest/scale-to-width-down/40?cb=20250314162737",
     "local_path": "data/assets/perks/hazard_minor_anarchic-zeal.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "hazard",
@@ -373,7 +373,7 @@
     "name": "Reconstitution",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Perk_Reconstitution.png/revision/latest/scale-to-width-down/40?cb=20250314162932",
     "local_path": "data/assets/perks/hazard_major_reconstitution.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "hazard",
@@ -381,7 +381,7 @@
     "name": "Explosive Impalements",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Explosive_Impalements.png/revision/latest/scale-to-width-down/40?cb=20250830163337",
     "local_path": "data/assets/perks/hazard_major_explosive-impalements.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "illari",
@@ -389,7 +389,7 @@
     "name": "Rapid Construction",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Perk_RapidConstruction.png/revision/latest/scale-to-width-down/40?cb=20250314153051",
     "local_path": "data/assets/perks/illari_minor_rapid-construction.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "illari",
@@ -397,7 +397,7 @@
     "name": "Summer Solstice",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Perk_SummerSolstice.png/revision/latest/scale-to-width-down/40?cb=20250314153110",
     "local_path": "data/assets/perks/illari_minor_summer-solstice.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "illari",
@@ -405,7 +405,7 @@
     "name": "Solar Flare",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Perk_Solar_Flare.png/revision/latest/scale-to-width-down/40?cb=20250830174718",
     "local_path": "data/assets/perks/illari_major_solar-flare.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "illari",
@@ -413,7 +413,7 @@
     "name": "Sunburn",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Perk_Sunburn.png/revision/latest/scale-to-width-down/40?cb=20250314153121",
     "local_path": "data/assets/perks/illari_major_sunburn.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "junker-queen",
@@ -421,7 +421,7 @@
     "name": "Rampant Charge",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1d/Rampant_Charge.png/revision/latest/scale-to-width-down/40?cb=20250830163543",
     "local_path": "data/assets/perks/junker-queen_minor_rampant-charge.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "junker-queen",
@@ -429,7 +429,7 @@
     "name": "Battle Shout",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3c/Perk_BattleShout.png/revision/latest/scale-to-width-down/40?cb=20250314154042",
     "local_path": "data/assets/perks/junker-queen_minor_battle-shout.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "junker-queen",
@@ -437,7 +437,7 @@
     "name": "Willy-Willy",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Willy-Willy.png/revision/latest/scale-to-width-down/40?cb=20250830163607",
     "local_path": "data/assets/perks/junker-queen_major_willy-willy.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "junker-queen",
@@ -445,7 +445,7 @@
     "name": "Savage Satiation",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Perk_SavageSatiation.png/revision/latest/scale-to-width-down/40?cb=20250314154117",
     "local_path": "data/assets/perks/junker-queen_major_savage-satiation.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "junkrat",
@@ -453,7 +453,7 @@
     "name": "Mine Recycling",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Mine_Recycling.png/revision/latest/scale-to-width-down/40?cb=20250830171908",
     "local_path": "data/assets/perks/junkrat_minor_mine-recycling.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "junkrat",
@@ -461,7 +461,7 @@
     "name": "Nitro Boost",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Perk_NitroBoost.png/revision/latest/scale-to-width-down/40?cb=20250314203634",
     "local_path": "data/assets/perks/junkrat_minor_nitro-boost.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "junkrat",
@@ -469,7 +469,7 @@
     "name": "Frag Cannon",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Perk_FragCannon.png/revision/latest/scale-to-width-down/40?cb=20250314203624",
     "local_path": "data/assets/perks/junkrat_major_frag-cannon.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "junkrat",
@@ -477,7 +477,7 @@
     "name": "Bomb Voyage",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Bomb_Voyage.png/revision/latest/scale-to-width-down/40?cb=20250830171927",
     "local_path": "data/assets/perks/junkrat_major_bomb-voyage.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "juno",
@@ -485,7 +485,7 @@
     "name": "Familiar Vitals",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Perk_FamiliarVitals.png/revision/latest/scale-to-width-down/40?cb=20250314153319",
     "local_path": "data/assets/perks/juno_minor_familiar-vitals.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "juno",
@@ -493,7 +493,7 @@
     "name": "Locked On",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Locked_On.png/revision/latest/scale-to-width-down/40?cb=20250826164614",
     "local_path": "data/assets/perks/juno_minor_locked-on.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "juno",
@@ -501,7 +501,7 @@
     "name": "Faster Blaster",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/14/Perk_Faster_Blaster.png/revision/latest/scale-to-width-down/40?cb=20250830174955",
     "local_path": "data/assets/perks/juno_major_faster-blaster.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "juno",
@@ -509,7 +509,7 @@
     "name": "Lift Off",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/Perk_Lift_Off.png/revision/latest/scale-to-width-down/40?cb=20250830175018",
     "local_path": "data/assets/perks/juno_major_lift-off.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "kiriko",
@@ -517,7 +517,7 @@
     "name": "Urgent Care",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/Perk_UrgentCare.png/revision/latest/scale-to-width-down/40?cb=20250314153849",
     "local_path": "data/assets/perks/kiriko_minor_urgent-care.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "kiriko",
@@ -525,7 +525,7 @@
     "name": "Fortune Teller",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/49/Perk_FortuneTeller.png/revision/latest/scale-to-width-down/40?cb=20250314153814",
     "local_path": "data/assets/perks/kiriko_minor_fortune-teller.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "kiriko",
@@ -533,7 +533,7 @@
     "name": "Ready Step",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Perk_Ready_Step.png/revision/latest/scale-to-width-down/40?cb=20250830175133",
     "local_path": "data/assets/perks/kiriko_major_ready-step.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "kiriko",
@@ -541,7 +541,7 @@
     "name": "Foxtrot",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Perk_Foxtrot.png/revision/latest/scale-to-width-down/40?cb=20250314153827",
     "local_path": "data/assets/perks/kiriko_major_foxtrot.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "lifeweaver",
@@ -549,7 +549,7 @@
     "name": "Petal Protection",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Perk_Petal_Protection.png/revision/latest/scale-to-width-down/40?cb=20260217093750",
     "local_path": "data/assets/perks/lifeweaver_minor_petal-protection.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "lifeweaver",
@@ -557,7 +557,7 @@
     "name": "Dashing Escape",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Perk_Dashing_Escape.png/revision/latest/scale-to-width-down/40?cb=20260217093815",
     "local_path": "data/assets/perks/lifeweaver_minor_dashing-escape.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "lifeweaver",
@@ -565,7 +565,7 @@
     "name": "Superbloom",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Perk_Superbloom.png/revision/latest/scale-to-width-down/40?cb=20250314204907",
     "local_path": "data/assets/perks/lifeweaver_major_superbloom.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "lifeweaver",
@@ -573,7 +573,7 @@
     "name": "Sow the Seed",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Perk_Sow_the_Seed.png/revision/latest/scale-to-width-down/40?cb=20260217093844",
     "local_path": "data/assets/perks/lifeweaver_major_sow-the-seed.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "lucio",
@@ -581,7 +581,7 @@
     "name": "Soundwave Rider",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Perk_Soundwave_Rider.png/revision/latest/scale-to-width-down/40?cb=20250830175402",
     "local_path": "data/assets/perks/lucio_minor_soundwave-rider.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "lucio",
@@ -589,7 +589,7 @@
     "name": "Beat Drop",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Beat_Drop.png/revision/latest/scale-to-width-down/40?cb=20250826164647",
     "local_path": "data/assets/perks/lucio_minor_beat-drop.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "lucio",
@@ -597,7 +597,7 @@
     "name": "Noise Violation",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Perk_NoiseViolation.png/revision/latest/scale-to-width-down/40?cb=20250314154855",
     "local_path": "data/assets/perks/lucio_major_noise-violation.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "lucio",
@@ -605,7 +605,7 @@
     "name": "Accelerando",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Perk_Accelerando.png/revision/latest/scale-to-width-down/40?cb=20250314154826",
     "local_path": "data/assets/perks/lucio_major_accelerando.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mauga",
@@ -613,7 +613,7 @@
     "name": "Kinetic Bandolier",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Perk_KineticBandolier.png/revision/latest/scale-to-width-down/40?cb=20250314155216",
     "local_path": "data/assets/perks/mauga_minor_kinetic-bandolier.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mauga",
@@ -621,7 +621,7 @@
     "name": "Pyromaniac",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/45/Pyromaniac.png/revision/latest/scale-to-width-down/40?cb=20250830164022",
     "local_path": "data/assets/perks/mauga_minor_pyromaniac.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mauga",
@@ -629,7 +629,7 @@
     "name": "Firewalker",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d0/Perk_Firewalker.png/revision/latest/scale-to-width-down/40?cb=20250314155207",
     "local_path": "data/assets/perks/mauga_major_firewalker.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mauga",
@@ -637,7 +637,7 @@
     "name": "Combat Fuel",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Perk_CombatFuel.png/revision/latest/scale-to-width-down/40?cb=20250314155156",
     "local_path": "data/assets/perks/mauga_major_combat-fuel.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mei",
@@ -645,7 +645,7 @@
     "name": "Skating Rink",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Skating_Rink.png/revision/latest/scale-to-width-down/40?cb=20250830172051",
     "local_path": "data/assets/perks/mei_minor_skating-rink.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mei",
@@ -653,7 +653,7 @@
     "name": "Glacial Propulsion",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Glacial_Propulsion.png/revision/latest/scale-to-width-down/40?cb=20250830172037",
     "local_path": "data/assets/perks/mei_minor_glacial-propulsion.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mei",
@@ -661,7 +661,7 @@
     "name": "Deep Freeze",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Deep_Freeze.png/revision/latest/scale-to-width-down/40?cb=20250830172110",
     "local_path": "data/assets/perks/mei_major_deep-freeze.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mei",
@@ -669,7 +669,7 @@
     "name": "Cryo-Storm",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Perk_CryoStorm.png/revision/latest/scale-to-width-down/40?cb=20250314155538",
     "local_path": "data/assets/perks/mei_major_cryo-storm.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mercy",
@@ -677,7 +677,7 @@
     "name": "Angelic Resurrection",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Angelic_Resurrection.png/revision/latest/scale-to-width-down/40?cb=20250826164720",
     "local_path": "data/assets/perks/mercy_minor_angelic-resurrection.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mercy",
@@ -685,7 +685,7 @@
     "name": "Divine Momentum",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Perk_Divine_Momentum.png/revision/latest/scale-to-width-down/40?cb=20250830175505",
     "local_path": "data/assets/perks/mercy_minor_divine-momentum.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mercy",
@@ -693,15 +693,15 @@
     "name": "Chain Boost",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Perk_ChainBoost.png/revision/latest/scale-to-width-down/40?cb=20250314154316",
     "local_path": "data/assets/perks/mercy_major_chain-boost.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mercy",
     "group": "major perks",
     "name": "Flash Heal",
-    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9e/Perk_FlashHeal.png/revision/latest/scale-to-width-down/40?cb=20250314154328",
-    "local_path": "data/assets/perks/mercy_major_flash-heal.png",
-    "status": "ok"
+    "image_url": "",
+    "local_path": "",
+    "status": "missing"
   },
   {
     "hero_id": "moira",
@@ -709,7 +709,7 @@
     "name": "Destruction's Divide",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Perk_Destruction%27s_Divide.png/revision/latest/scale-to-width-down/40?cb=20250830195151",
     "local_path": "data/assets/perks/moira_minor_destruction-s-divide.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "moira",
@@ -717,7 +717,7 @@
     "name": "Ethical Nourishment",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Perk_EthicalNourishment.png/revision/latest/scale-to-width-down/40?cb=20250314155758",
     "local_path": "data/assets/perks/moira_minor_ethical-nourishment.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "moira",
@@ -725,7 +725,7 @@
     "name": "Reversal",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Perk_Reversal.png/revision/latest/scale-to-width-down/40?cb=20250830195220",
     "local_path": "data/assets/perks/moira_major_reversal.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "moira",
@@ -733,7 +733,7 @@
     "name": "Phantom Step",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Perk_Phantom_Step.png/revision/latest/scale-to-width-down/40?cb=20250314155809",
     "local_path": "data/assets/perks/moira_major_phantom-step.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "orisa",
@@ -741,7 +741,7 @@
     "name": "Defense Protocol",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Defense_Protocol.png/revision/latest/scale-to-width-down/40?cb=20250830164404",
     "local_path": "data/assets/perks/orisa_minor_defense-protocol.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "orisa",
@@ -749,7 +749,7 @@
     "name": "Mobile Fortification",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Mobile_Fortification.png/revision/latest/scale-to-width-down/40?cb=20250830164443",
     "local_path": "data/assets/perks/orisa_minor_mobile-fortification.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "orisa",
@@ -757,7 +757,7 @@
     "name": "Charged Javelin",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Perk_ChargedJavelin.png/revision/latest/scale-to-width-down/40?cb=20250314142658",
     "local_path": "data/assets/perks/orisa_major_charged-javelin.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "orisa",
@@ -765,15 +765,15 @@
     "name": "Protective Barrier",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Perk_ProtectiveBarrier.png/revision/latest/scale-to-width-down/40?cb=20250314142922",
     "local_path": "data/assets/perks/orisa_major_protective-barrier.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "pharah",
     "group": "minor perks",
     "name": "Drift Thrusters",
-    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Perk_DriftThrusters.png/revision/latest/scale-to-width-down/40?cb=20250314152149",
-    "local_path": "data/assets/perks/pharah_minor_drift-thrusters.png",
-    "status": "ok"
+    "image_url": "",
+    "local_path": "",
+    "status": "missing"
   },
   {
     "hero_id": "pharah",
@@ -781,6 +781,14 @@
     "name": "Helix Shields",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Perk_HelixShields.png/revision/latest/scale-to-width-down/40?cb=20250314152208",
     "local_path": "data/assets/perks/pharah_minor_helix-shields.png",
+    "status": "skipped"
+  },
+  {
+    "hero_id": "pharah",
+    "group": "minor perks",
+    "name": "Concussive Force",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Perk_Concussive_Force.png/revision/latest/scale-to-width-down/40?cb=20260415172829",
+    "local_path": "data/assets/perks/pharah_minor_concussive-force.png",
     "status": "ok"
   },
   {
@@ -789,7 +797,7 @@
     "name": "Fuel Stores",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Perk_FuelStores.png/revision/latest/scale-to-width-down/40?cb=20250314152200",
     "local_path": "data/assets/perks/pharah_major_fuel-stores.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "pharah",
@@ -797,15 +805,15 @@
     "name": "Rocket Salvo",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/40/Perk_Rocket_Salvo.png/revision/latest/scale-to-width-down/40?cb=20260217091649",
     "local_path": "data/assets/perks/pharah_major_rocket-salvo.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "ramattra",
     "group": "minor perks",
     "name": "Void Surge",
-    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Perk_VoidSurge.png/revision/latest/scale-to-width-down/40?cb=20250314160647",
-    "local_path": "data/assets/perks/ramattra_minor_void-surge.png",
-    "status": "ok"
+    "image_url": "",
+    "local_path": "",
+    "status": "missing"
   },
   {
     "hero_id": "ramattra",
@@ -813,6 +821,14 @@
     "name": "Relentless Form",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Relentless_Form.png/revision/latest/scale-to-width-down/40?cb=20250830164739",
     "local_path": "data/assets/perks/ramattra_minor_relentless-form.png",
+    "status": "skipped"
+  },
+  {
+    "hero_id": "ramattra",
+    "group": "minor perks",
+    "name": "Prolonged Barrier",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Perk_ProlongedBarrier.png/revision/latest/scale-to-width-down/40?cb=20250314160532",
+    "local_path": "data/assets/perks/ramattra_minor_prolonged-barrier.png",
     "status": "ok"
   },
   {
@@ -821,14 +837,22 @@
     "name": "Nanite Repair",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/Perk_NaniteRepair.png/revision/latest/scale-to-width-down/40?cb=20250314160515",
     "local_path": "data/assets/perks/ramattra_major_nanite-repair.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "ramattra",
     "group": "major perks",
     "name": "Vengeful Vortex",
-    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Perk_VengefulVortex.png/revision/latest/scale-to-width-down/40?cb=20250314160634",
-    "local_path": "data/assets/perks/ramattra_major_vengeful-vortex.png",
+    "image_url": "",
+    "local_path": "",
+    "status": "missing"
+  },
+  {
+    "hero_id": "ramattra",
+    "group": "major perks",
+    "name": "Void Surge",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Perk_VoidSurge.png/revision/latest/scale-to-width-down/40?cb=20250314160647",
+    "local_path": "data/assets/perks/ramattra_major_void-surge.png",
     "status": "ok"
   },
   {
@@ -837,7 +861,7 @@
     "name": "Lingering Wraith",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Perk_RavenousWraith.png/revision/latest/scale-to-width-down/40?cb=20250314204140",
     "local_path": "data/assets/perks/reaper_minor_lingering-wraith.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "reaper",
@@ -845,15 +869,15 @@
     "name": "Soul Reaving",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Perk_SoulReaving.png/revision/latest/scale-to-width-down/40?cb=20250314204149",
     "local_path": "data/assets/perks/reaper_minor_soul-reaving.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "reaper",
     "group": "major perks",
     "name": "Dire Triggers",
-    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Perk_DireTriggers.png/revision/latest/scale-to-width-down/40?cb=20250314204130",
-    "local_path": "data/assets/perks/reaper_major_dire-triggers.png",
-    "status": "ok"
+    "image_url": "",
+    "local_path": "",
+    "status": "missing"
   },
   {
     "hero_id": "reaper",
@@ -861,7 +885,7 @@
     "name": "Shadow Blink",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Shadow_Blink.png/revision/latest/scale-to-width-down/40?cb=20250830172257",
     "local_path": "data/assets/perks/reaper_major_shadow-blink.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "reinhardt",
@@ -869,7 +893,7 @@
     "name": "Crusader's Fire",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Crusader%27s_Fire.png/revision/latest/scale-to-width-down/40?cb=20250826164754",
     "local_path": "data/assets/perks/reinhardt_minor_crusader-s-fire.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "reinhardt",
@@ -877,7 +901,7 @@
     "name": "Crusader's Resolve",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Perk_CrusadersResolve.png/revision/latest/scale-to-width-down/40?cb=20250314162140",
     "local_path": "data/assets/perks/reinhardt_minor_crusader-s-resolve.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "reinhardt",
@@ -885,7 +909,7 @@
     "name": "Shield Slam",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/76/Perk_ShieldSlam.png/revision/latest/scale-to-width-down/40?cb=20250314162247",
     "local_path": "data/assets/perks/reinhardt_major_shield-slam.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "reinhardt",
@@ -893,7 +917,7 @@
     "name": "Ignited Fury",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Ignited_Fury.png/revision/latest/scale-to-width-down/40?cb=20250830165115",
     "local_path": "data/assets/perks/reinhardt_major_ignited-fury.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "roadhog",
@@ -901,7 +925,7 @@
     "name": "Scrap Hook",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Perk_ScrapHook.png/revision/latest/scale-to-width-down/40?cb=20250314165851",
     "local_path": "data/assets/perks/roadhog_minor_scrap-hook.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "roadhog",
@@ -909,7 +933,7 @@
     "name": "Shrapnel Launcher",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3b/Shrapnel_Launcher.png/revision/latest/scale-to-width-down/40?cb=20250830165815",
     "local_path": "data/assets/perks/roadhog_minor_shrapnel-launcher.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "roadhog",
@@ -917,7 +941,7 @@
     "name": "Invigorate",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Perk_Invigorate.png/revision/latest/scale-to-width-down/40?cb=20250314165838",
     "local_path": "data/assets/perks/roadhog_major_invigorate.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "roadhog",
@@ -925,7 +949,7 @@
     "name": "Pulled Pork",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Pulled_Pork.png/revision/latest/scale-to-width-down/40?cb=20250830165837",
     "local_path": "data/assets/perks/roadhog_major_pulled-pork.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sigma",
@@ -933,7 +957,7 @@
     "name": "Kinetic Cycle",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Perk_KineticCycle.png/revision/latest/scale-to-width-down/40?cb=20250314163422",
     "local_path": "data/assets/perks/sigma_minor_kinetic-cycle.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sigma",
@@ -941,7 +965,7 @@
     "name": "Hyper Regeneration",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Hyper_Regeneration.png/revision/latest/scale-to-width-down/40?cb=20250830170024",
     "local_path": "data/assets/perks/sigma_minor_hyper-regeneration.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sigma",
@@ -949,7 +973,7 @@
     "name": "Hyper Strike",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Perk_HyperStrike.png/revision/latest/scale-to-width-down/40?cb=20250314163411",
     "local_path": "data/assets/perks/sigma_major_hyper-strike.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sigma",
@@ -957,7 +981,7 @@
     "name": "Levitation",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/Perk_Levitation.png/revision/latest/scale-to-width-down/40?cb=20250314163434",
     "local_path": "data/assets/perks/sigma_major_levitation.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sojourn",
@@ -965,7 +989,7 @@
     "name": "Deceleration Field",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Decelerationfield.png/revision/latest/scale-to-width-down/40?cb=20260102113608",
     "local_path": "data/assets/perks/sojourn_minor_deceleration-field.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sojourn",
@@ -973,7 +997,7 @@
     "name": "Overcharged",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Perk_Overcharged.png/revision/latest/scale-to-width-down/40?cb=20250314164055",
     "local_path": "data/assets/perks/sojourn_minor_overcharged.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sojourn",
@@ -981,7 +1005,7 @@
     "name": "Dual Thrusters",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/46/Perk_DualThrusters.png/revision/latest/scale-to-width-down/40?cb=20250314164035",
     "local_path": "data/assets/perks/sojourn_major_dual-thrusters.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sojourn",
@@ -989,7 +1013,7 @@
     "name": "Friction Generators",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Frictiongenerators.png/revision/latest/scale-to-width-down/40?cb=20260102113647",
     "local_path": "data/assets/perks/sojourn_major_friction-generators.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "soldier-76",
@@ -997,7 +1021,7 @@
     "name": "Helix Propulsion",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Perk_Helix_Propulsion.png/revision/latest/scale-to-width-down/40?cb=20260217091902",
     "local_path": "data/assets/perks/soldier-76_minor_helix-propulsion.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "soldier-76",
@@ -1005,7 +1029,7 @@
     "name": "Tactical Salvo",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Tactical_Salvo.png/revision/latest/scale-to-width-down/40?cb=20250830172411",
     "local_path": "data/assets/perks/soldier-76_minor_tactical-salvo.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "soldier-76",
@@ -1013,7 +1037,7 @@
     "name": "Agility Training",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Perk_AgilityTraining.png/revision/latest/scale-to-width-down/40?cb=20250314204420",
     "local_path": "data/assets/perks/soldier-76_major_agility-training.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "soldier-76",
@@ -1021,15 +1045,15 @@
     "name": "Stim Pack",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Perk_StimPack.png/revision/latest/scale-to-width-down/40?cb=20250314204451",
     "local_path": "data/assets/perks/soldier-76_major_stim-pack.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sombra",
     "group": "minor perks",
     "name": "Encrypted Upload",
-    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Perk_CtrlAltEsc.png/revision/latest/scale-to-width-down/40?cb=20250314164256",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Encrypted_Upload.png/revision/latest/scale-to-width-down/40?cb=20250826164817",
     "local_path": "data/assets/perks/sombra_minor_encrypted-upload.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sombra",
@@ -1037,7 +1061,7 @@
     "name": "CTRL ALT ESC",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Perk_CtrlAltEsc.png/revision/latest/scale-to-width-down/40?cb=20250314164256",
     "local_path": "data/assets/perks/sombra_minor_ctrl-alt-esc.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sombra",
@@ -1045,7 +1069,7 @@
     "name": "High-Speed Bandwidth",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Perk_High-Speed_Bandwidth.png/revision/latest/scale-to-width-down/40?cb=20260217092103",
     "local_path": "data/assets/perks/sombra_major_high-speed-bandwidth.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "sombra",
@@ -1053,7 +1077,7 @@
     "name": "Viral Replication",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Viral_Replication.png/revision/latest/scale-to-width-down/40?cb=20250826164832",
     "local_path": "data/assets/perks/sombra_major_viral-replication.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "symmetra",
@@ -1061,7 +1085,7 @@
     "name": "Sentry Capacity",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Perk_SentryCapacity.png/revision/latest/scale-to-width-down/40?cb=20250314164635",
     "local_path": "data/assets/perks/symmetra_minor_sentry-capacity.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "symmetra",
@@ -1069,7 +1093,7 @@
     "name": "Perfect Alignment",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Perk_PerfectAlignment.png/revision/latest/scale-to-width-down/40?cb=20250314164624",
     "local_path": "data/assets/perks/symmetra_minor_perfect-alignment.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "symmetra",
@@ -1077,7 +1101,7 @@
     "name": "Hovering Barrier",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Ability_Symmetra_Photon_Barrier.png/revision/latest/scale-to-width-down/40?cb=20161219033759",
     "local_path": "data/assets/perks/symmetra_major_hovering-barrier.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "symmetra",
@@ -1085,7 +1109,7 @@
     "name": "Shield Battery",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Perk_ShieldBattery.png/revision/latest/scale-to-width-down/40?cb=20250314164646",
     "local_path": "data/assets/perks/symmetra_major_shield-battery.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "torbjorn",
@@ -1093,7 +1117,7 @@
     "name": "Hammer Time",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/76/Hammer_Time.png/revision/latest/scale-to-width-down/40?cb=20250830172648",
     "local_path": "data/assets/perks/torbjorn_minor_hammer-time.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "torbjorn",
@@ -1101,7 +1125,7 @@
     "name": "Pre-Heated",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Perk_Pre-Heated.png/revision/latest/scale-to-width-down/40?cb=20260217092232",
     "local_path": "data/assets/perks/torbjorn_minor_pre-heated.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "torbjorn",
@@ -1109,7 +1133,7 @@
     "name": "Anchor Bolts",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Perk_AnchorBolts.png/revision/latest/scale-to-width-down/40?cb=20250314164844",
     "local_path": "data/assets/perks/torbjorn_major_anchor-bolts.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "torbjorn",
@@ -1117,7 +1141,7 @@
     "name": "Overloaded Turret",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Perk_OverloadedTurret.png/revision/latest/scale-to-width-down/40?cb=20250314164915",
     "local_path": "data/assets/perks/torbjorn_major_overloaded-turret.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "tracer",
@@ -1125,7 +1149,7 @@
     "name": "Chronal Dash",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Perk_Chronal_Dash.png/revision/latest/scale-to-width-down/40?cb=20260217092407",
     "local_path": "data/assets/perks/tracer_minor_chronal-dash.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "tracer",
@@ -1133,7 +1157,7 @@
     "name": "Kinetic Reload",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Kinetic_Reload.png/revision/latest/scale-to-width-down/40?cb=20250830172813",
     "local_path": "data/assets/perks/tracer_minor_kinetic-reload.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "tracer",
@@ -1141,7 +1165,7 @@
     "name": "Blink Packs",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Perk_BlinkPacks.png/revision/latest/scale-to-width-down/40?cb=20250314163734",
     "local_path": "data/assets/perks/tracer_major_blink-packs.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "tracer",
@@ -1149,7 +1173,7 @@
     "name": "Quantum Entanglement",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Perk_QuantumEntanglement.png/revision/latest/scale-to-width-down/40?cb=20250314163802",
     "local_path": "data/assets/perks/tracer_major_quantum-entanglement.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "venture",
@@ -1157,7 +1181,7 @@
     "name": "Deep Burrow",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/77/Perk_Deep_Burrow.png/revision/latest/scale-to-width-down/40?cb=20250830172935",
     "local_path": "data/assets/perks/venture_minor_deep-burrow.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "venture",
@@ -1165,7 +1189,7 @@
     "name": "Excavation Exhilaration",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Perk_ExcavationExhilaration.png/revision/latest/scale-to-width-down/40?cb=20250314165513",
     "local_path": "data/assets/perks/venture_minor_excavation-exhilaration.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "venture",
@@ -1173,7 +1197,7 @@
     "name": "Smart Extender",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Perk_SMART_Extender.png/revision/latest/scale-to-width-down/40?cb=20250830173026",
     "local_path": "data/assets/perks/venture_major_smart-extender.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "venture",
@@ -1181,7 +1205,7 @@
     "name": "Covered in Dirt",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Perk_Covered-in-Dirt.png/revision/latest/scale-to-width-down/40?cb=20250314165503",
     "local_path": "data/assets/perks/venture_major_covered-in-dirt.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "widowmaker",
@@ -1189,7 +1213,7 @@
     "name": "Scoped Efficiency",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Perk_ScopedEfficiency.png/revision/latest/scale-to-width-down/40?cb=20250314165150",
     "local_path": "data/assets/perks/widowmaker_minor_scoped-efficiency.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "widowmaker",
@@ -1197,7 +1221,7 @@
     "name": "Sniper's Instinct",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Perk_Sniper%27s_Instinct.png/revision/latest/scale-to-width-down/40?cb=20250830173119",
     "local_path": "data/assets/perks/widowmaker_minor_sniper-s-instinct.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "widowmaker",
@@ -1205,7 +1229,7 @@
     "name": "Widow's Bite",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Perk_Widow%27s_Bite.png/revision/latest/scale-to-width-down/40?cb=20260217092518",
     "local_path": "data/assets/perks/widowmaker_major_widow-s-bite.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "widowmaker",
@@ -1213,7 +1237,7 @@
     "name": "Seeker Mine",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Perk_Seeker_Mine.png/revision/latest/scale-to-width-down/40?cb=20250830173141",
     "local_path": "data/assets/perks/widowmaker_major_seeker-mine.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "winston",
@@ -1221,7 +1245,7 @@
     "name": "Electric Charge",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Perk_Electric_Charge.png/revision/latest/scale-to-width-down/40?cb=20260216214757",
     "local_path": "data/assets/perks/winston_minor_electric-charge.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "winston",
@@ -1229,7 +1253,7 @@
     "name": "Heavy Landing",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Perk_HeavyLanding.png/revision/latest/scale-to-width-down/40?cb=20250314170150",
     "local_path": "data/assets/perks/winston_minor_heavy-landing.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "winston",
@@ -1237,7 +1261,7 @@
     "name": "Chain Lightning",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Perk_ChainLightning.png/revision/latest/scale-to-width-down/40?cb=20250314170132",
     "local_path": "data/assets/perks/winston_major_chain-lightning.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "winston",
@@ -1245,7 +1269,7 @@
     "name": "Revitalizing Barrier",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Perk_RevitalizingBarrier.png/revision/latest/scale-to-width-down/40?cb=20250314170211",
     "local_path": "data/assets/perks/winston_major_revitalizing-barrier.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "wrecking-ball",
@@ -1253,7 +1277,7 @@
     "name": "Steamroller",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Perk_Steamroller.png/revision/latest/scale-to-width-down/40?cb=20250314143317",
     "local_path": "data/assets/perks/wrecking-ball_minor_steamroller.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "wrecking-ball",
@@ -1261,7 +1285,7 @@
     "name": "Multi-Ball",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Perk_Multi-Ball.png/revision/latest/scale-to-width-down/40?cb=20260216214921",
     "local_path": "data/assets/perks/wrecking-ball_minor_multi-ball.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "wrecking-ball",
@@ -1269,7 +1293,7 @@
     "name": "Hang Time",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Perk_HangTime.png/revision/latest/scale-to-width-down/40?cb=20250314143254",
     "local_path": "data/assets/perks/wrecking-ball_major_hang-time.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "wrecking-ball",
@@ -1277,7 +1301,7 @@
     "name": "Adaptive Barrier",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Adaptive_Barrier.png/revision/latest/scale-to-width-down/40?cb=20250830170614",
     "local_path": "data/assets/perks/wrecking-ball_major_adaptive-barrier.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "zarya",
@@ -1285,7 +1309,7 @@
     "name": "Spotter",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Perk_Spotter.png/revision/latest/scale-to-width-down/40?cb=20250314170502",
     "local_path": "data/assets/perks/zarya_minor_spotter.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "zarya",
@@ -1293,7 +1317,7 @@
     "name": "Jump-Ups",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/40/Perk_JumpUps.png/revision/latest/scale-to-width-down/40?cb=20250314170451",
     "local_path": "data/assets/perks/zarya_minor_jump-ups.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "zarya",
@@ -1301,7 +1325,7 @@
     "name": "Energy Lance",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Perk_EnergyLance.png/revision/latest/scale-to-width-down/40?cb=20250314170429",
     "local_path": "data/assets/perks/zarya_major_energy-lance.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "zarya",
@@ -1309,7 +1333,7 @@
     "name": "Extra Oomph",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/Perk_Extra_Oomph.png/revision/latest/scale-to-width-down/40?cb=20260216215027",
     "local_path": "data/assets/perks/zarya_major_extra-oomph.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "zenyatta",
@@ -1317,7 +1341,7 @@
     "name": "Discordant Repair",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/76/Perk_Discordant_Repair.png/revision/latest/scale-to-width-down/40?cb=20260217094055",
     "local_path": "data/assets/perks/zenyatta_minor_discordant-repair.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "zenyatta",
@@ -1325,7 +1349,7 @@
     "name": "Ascendance",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Perk_Ascendance.png/revision/latest/scale-to-width-down/40?cb=20250314170701",
     "local_path": "data/assets/perks/zenyatta_minor_ascendance.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "zenyatta",
@@ -1333,7 +1357,7 @@
     "name": "Focused Destruction",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Perk_FocusedDestruction.png/revision/latest/scale-to-width-down/40?cb=20250314170729",
     "local_path": "data/assets/perks/zenyatta_major_focused-destruction.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "zenyatta",
@@ -1341,7 +1365,7 @@
     "name": "Dual Harmony",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Perk_Dual_Harmony.png/revision/latest/scale-to-width-down/40?cb=20250830195653",
     "local_path": "data/assets/perks/zenyatta_major_dual-harmony.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "anran",
@@ -1349,7 +1373,7 @@
     "name": "Smoulder",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Perk_Smoulder.png/revision/latest/scale-to-width-down/40?cb=20260216215621",
     "local_path": "data/assets/perks/anran_minor_smoulder.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "anran",
@@ -1357,7 +1381,7 @@
     "name": "Heat Shield",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Perk_Heat_Shield.png/revision/latest/scale-to-width-down/40?cb=20260216215644",
     "local_path": "data/assets/perks/anran_minor_heat-shield.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "anran",
@@ -1365,7 +1389,7 @@
     "name": "Short Fuse",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Perk_Short_Fuse.png/revision/latest/scale-to-width-down/40?cb=20260216215708",
     "local_path": "data/assets/perks/anran_major_short-fuse.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "anran",
@@ -1373,7 +1397,7 @@
     "name": "Hungering Blaze",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Perk_Hungering_Blaze.png/revision/latest/scale-to-width-down/40?cb=20260216215736",
     "local_path": "data/assets/perks/anran_major_hungering-blaze.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "domina",
@@ -1381,7 +1405,7 @@
     "name": "Efficient Design",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Perk_Efficient_Design.png/revision/latest/scale-to-width-down/40?cb=20260216214114",
     "local_path": "data/assets/perks/domina_minor_efficient-design.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "domina",
@@ -1389,7 +1413,7 @@
     "name": "Extended Power",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Perk_Extended_Power.png/revision/latest/scale-to-width-down/40?cb=20260216214134",
     "local_path": "data/assets/perks/domina_minor_extended-power.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "domina",
@@ -1397,7 +1421,7 @@
     "name": "Disruptive Detonation",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Perk_Disruptive_Detonation.png/revision/latest/scale-to-width-down/40?cb=20260216214200",
     "local_path": "data/assets/perks/domina_major_disruptive-detonation.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "domina",
@@ -1405,7 +1429,7 @@
     "name": "Power Move",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Perk_Power_Move.png/revision/latest/scale-to-width-down/40?cb=20260216214334",
     "local_path": "data/assets/perks/domina_major_power-move.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "emre",
@@ -1413,7 +1437,7 @@
     "name": "Suppressive Security",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/Perk_Suppressive_Security.png/revision/latest/scale-to-width-down/40?cb=20260217090950",
     "local_path": "data/assets/perks/emre_minor_suppressive-security.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "emre",
@@ -1421,7 +1445,7 @@
     "name": "Enhanced Agility",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Perk_Enhanced_Agility.png/revision/latest/scale-to-width-down/40?cb=20260217091018",
     "local_path": "data/assets/perks/emre_minor_enhanced-agility.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "emre",
@@ -1429,7 +1453,7 @@
     "name": "Heat Sink",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Perk_Heat_Sink.png/revision/latest/scale-to-width-down/40?cb=20260217091046",
     "local_path": "data/assets/perks/emre_major_heat-sink.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "emre",
@@ -1437,15 +1461,15 @@
     "name": "Cyber Adhesion",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Perk_Cyber_Adhesion.png/revision/latest/scale-to-width-down/40?cb=20260217091115",
     "local_path": "data/assets/perks/emre_major_cyber-adhesion.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "jetpack-cat",
     "group": "minor perks",
     "name": "Ulterior Motive",
-    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Perk_Claws_Out.png/revision/latest/scale-to-width-down/40?cb=20260217093235",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b0/Ability-passive.png/revision/latest/scale-to-width-down/40?cb=20240325101348",
     "local_path": "data/assets/perks/jetpack-cat_minor_ulterior-motive.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "jetpack-cat",
@@ -1453,7 +1477,7 @@
     "name": "Transport Shielding",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Perk_Transport_Shielding.png/revision/latest/scale-to-width-down/40?cb=20260217093500",
     "local_path": "data/assets/perks/jetpack-cat_minor_transport-shielding.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "jetpack-cat",
@@ -1461,7 +1485,7 @@
     "name": "Headbutt",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Perk_Headbutt.png/revision/latest/scale-to-width-down/40?cb=20260217093527",
     "local_path": "data/assets/perks/jetpack-cat_major_headbutt.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "jetpack-cat",
@@ -1469,7 +1493,7 @@
     "name": "Claws Out",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Perk_Claws_Out.png/revision/latest/scale-to-width-down/40?cb=20260217093235",
     "local_path": "data/assets/perks/jetpack-cat_major_claws-out.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mizuki",
@@ -1477,7 +1501,7 @@
     "name": "Wellspring",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a2/Perk_Wellspring.png/revision/latest/scale-to-width-down/40?cb=20260217094753",
     "local_path": "data/assets/perks/mizuki_minor_wellspring.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mizuki",
@@ -1485,7 +1509,7 @@
     "name": "Exposed Soul",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/13/Perk_Exposed_Soul.png/revision/latest/scale-to-width-down/40?cb=20260217094819",
     "local_path": "data/assets/perks/mizuki_minor_exposed-soul.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mizuki",
@@ -1493,7 +1517,7 @@
     "name": "Resonant Return",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Perk_Resonant_Return.png/revision/latest/scale-to-width-down/40?cb=20260217094844",
     "local_path": "data/assets/perks/mizuki_major_resonant-return.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "mizuki",
@@ -1501,7 +1525,7 @@
     "name": "Quickstep",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/Perk_Quickstep.png/revision/latest/scale-to-width-down/40?cb=20260217094907",
     "local_path": "data/assets/perks/mizuki_major_quickstep.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "vendetta",
@@ -1509,7 +1533,7 @@
     "name": "Raging Storm",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Perk_Raging_Storm_Icon.png/revision/latest/scale-to-width-down/40?cb=20251210193019",
     "local_path": "data/assets/perks/vendetta_minor_raging-storm.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "vendetta",
@@ -1517,7 +1541,7 @@
     "name": "Extra Edge",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Perk_Extra_Edge.png/revision/latest/scale-to-width-down/40?cb=20260217093406",
     "local_path": "data/assets/perks/vendetta_minor_extra-edge.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "vendetta",
@@ -1525,7 +1549,7 @@
     "name": "Relentless",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Perk_Relentless_Icon.png/revision/latest/scale-to-width-down/40?cb=20251210192947",
     "local_path": "data/assets/perks/vendetta_major_relentless.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "vendetta",
@@ -1533,7 +1557,7 @@
     "name": "Siphoning Strike",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9e/Siphoning_Strike.png/revision/latest/scale-to-width-down/40?cb=20251210192855",
     "local_path": "data/assets/perks/vendetta_major_siphoning-strike.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "freja",
@@ -1541,7 +1565,7 @@
     "name": "Relentless Barrage",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/Relentless_Barrage.png/revision/latest/scale-to-width-down/40?cb=20250325185612",
     "local_path": "data/assets/perks/freja_minor_relentless-barrage.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "freja",
@@ -1549,7 +1573,7 @@
     "name": "Momentum Boost",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/38/Momentum_Boost.png/revision/latest/scale-to-width-down/40?cb=20250830171432",
     "local_path": "data/assets/perks/freja_minor_momentum-boost.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "freja",
@@ -1557,7 +1581,7 @@
     "name": "Aerial Recovery",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/Aerial_Recovery.png/revision/latest/scale-to-width-down/40?cb=20250830171448",
     "local_path": "data/assets/perks/freja_major_aerial-recovery.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "freja",
@@ -1565,7 +1589,7 @@
     "name": "Rising Winds",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Perk_Rising_Winds.png/revision/latest/scale-to-width-down/40?cb=20260217091251",
     "local_path": "data/assets/perks/freja_major_rising-winds.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "wuyang",
@@ -1573,7 +1597,7 @@
     "name": "Overflow",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ea/Overflow.png/revision/latest/scale-to-width-down/40?cb=20260102120750",
     "local_path": "data/assets/perks/wuyang_minor_overflow.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "wuyang",
@@ -1581,7 +1605,7 @@
     "name": "Balance",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/Balance.png/revision/latest/scale-to-width-down/40?cb=20250725230303",
     "local_path": "data/assets/perks/wuyang_minor_balance.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "wuyang",
@@ -1589,7 +1613,7 @@
     "name": "Ebb and Flow",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/13/Ebbandflow.png/revision/latest/scale-to-width-down/40?cb=20250725230238",
     "local_path": "data/assets/perks/wuyang_major_ebb-and-flow.png",
-    "status": "ok"
+    "status": "skipped"
   },
   {
     "hero_id": "wuyang",
@@ -1597,6 +1621,6 @@
     "name": "Falling Rain",
     "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Fallingrain.png/revision/latest/scale-to-width-down/40?cb=20250725230244",
     "local_path": "data/assets/perks/wuyang_major_falling-rain.png",
-    "status": "ok"
+    "status": "skipped"
   }
 ]

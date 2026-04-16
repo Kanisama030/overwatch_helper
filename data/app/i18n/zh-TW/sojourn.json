@@ -361,11 +361,26 @@
       "prompt_version": "v8",
       "glossary_version": "v1",
       "timestamp": "2026-03-26T04:23:56.373986Z"
+    },
+    "8.2": {
+      "title": "特定英雄剋制名單",
+      "description": "",
+      "content": [
+        "* 源氏",
+        "* 閃光",
+        "* 駭影",
+        "* 溫斯頓",
+        "* 火爆鋼球"
+      ],
+      "content_hash": "d7645ecd8fae",
+      "prompt_version": "v8",
+      "glossary_version": "v1",
+      "timestamp": "2026-04-16T12:25:49.990788Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-04-02T01:08:57.739201Z"
+    "timestamp": "2026-04-16T12:25:48.235513Z"
   }
 }

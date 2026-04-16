@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 09:09:04",
+  "last_updated": "2026-04-16 20:30:17",
   "maps": [
     {
       "id": "ilios",
@@ -2202,7 +2202,7 @@
             "recommended_flag": false,
             "recommended_reason": null,
             "name": "Configuration Reload",
-            "description": "Refresh the cooldown of A-36 Tactical Grenade when changing configurations.",
+            "description": "Reduce the cooldown of A-36 Tactical Grenade by 4 seconds when changing configurations.",
             "image": "/data/assets/perks/bastion_minor_configuration-reload.png"
           },
           {
@@ -2833,7 +2833,7 @@
             "recommended_flag": true,
             "recommended_reason": "Recommended Minor Perk",
             "name": "Combat Medic",
-            "description": "Melee attacks reduce the cooldown of Repair Pack by 0.5 seconds.",
+            "description": "Melee attacks reduce the cooldown of Repair Pack by 0.75 seconds.",
             "image": "/data/assets/perks/brigitte_minor_combat-medic.png"
           },
           {
@@ -5451,7 +5451,7 @@
             "recommended_flag": true,
             "recommended_reason": "Recommended Minor Perk",
             "name": "Focused Rush",
-            "description": "Focused Beam's range is increase by 4 meters and movement speed is increase by 20% when active.",
+            "description": "Focused Beam's range is increase by 6 meters and movement speed is increase by 20% when active.",
             "image": "/data/assets/perks/echo_minor_focused-rush.png"
           },
           {
@@ -6786,7 +6786,7 @@
             "recommended_flag": false,
             "recommended_reason": null,
             "name": "Frost Arrow",
-            "description": "Press Reload to ready an explosive frost arrow that slows enemies by 35% for 3 seconds.",
+            "description": "Press Reload to ready an explosive frost arrow that slows enemies by 35% for 2 seconds.",
             "image": "/data/assets/perks/hanzo_major_frost-arrow.png"
           }
         ]
@@ -8024,7 +8024,7 @@
             "recommended_flag": false,
             "recommended_reason": null,
             "name": "Sunburn",
-            "description": "Outburst ignites enemies, dealing an additional 70 damage over 3 seconds.",
+            "description": "Outburst ignites enemies, dealing an additional 50 damage over 3 seconds.",
             "image": "/data/assets/perks/illari_major_sunburn.png"
           }
         ]
@@ -9155,7 +9155,13 @@
           "* Heroes with long-range capabilities or small, high-mobility characters have favorable matchups against Junkrat."
         ],
         "specific_counters_81": [],
-        "specific_counters_82": [],
+        "specific_counters_82": [
+          "pharah",
+          "widowmaker",
+          "ashe",
+          "cassidy",
+          "soldier-76"
+        ],
         "team_comp_synergies": [
           "![](/data/assets/guide/2b23a0f925f80146.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunkrat.png)Junkrat mainly positions on off angles, near but separate from his team. Because of this he has a lot of flexibility with Tank pairings. When he has a barrier Tank, he can play more with his team and spam behind their protection. With more mobile Tanks, he mine up to reposition and follow-up on their aggression.",
           "For the second DPS, having a hitscan like ![](/data/assets/guide/1745f43a104480df.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fashe.png)Ashe is very helpful to cover his weakness against fliers like ![](/data/assets/guide/98529ba32956dcb8.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fpharah.png)Pharah.",
@@ -9251,7 +9257,7 @@
             "recommended_flag": true,
             "recommended_reason": "Recommended Minor Perk",
             "name": "Mine Recycling",
-            "description": "Killing blows with Concussion Mine restore one charge.",
+            "description": "Eliminations with Concussion Mine restore one charge.",
             "image": "/data/assets/perks/junkrat_minor_mine-recycling.png"
           },
           {
@@ -9295,7 +9301,7 @@
             "recommended_flag": false,
             "recommended_reason": null,
             "name": "Bomb Voyage",
-            "description": "After launching with Concussion Mine, Junkrat gains 35% increased attack speed for 3 seconds.",
+            "description": "After launching with Concussion Mine, Junkrat gains 25% increased attack speed for 3 seconds.",
             "image": "/data/assets/perks/junkrat_major_bomb-voyage.png"
           }
         ]
@@ -9692,7 +9698,13 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": []
+          "content": [
+            "pharah",
+            "widowmaker",
+            "ashe",
+            "cassidy",
+            "soldier-76"
+          ]
         }
       ]
     },
@@ -11738,7 +11750,7 @@
             "recommended_flag": false,
             "recommended_reason": null,
             "name": "Accelerando",
-            "description": "Lucio’s attack speed is increased by 50% while Amp It Up is active.",
+            "description": "Gain 15% attack speed while Lucio's Speed Song is active, tripled during Amp It Up.",
             "image": "/data/assets/perks/lucio_major_accelerando.png"
           }
         ]
@@ -13518,9 +13530,7 @@
           "* Target ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)Mercy . Eliminating Mercy first is more efficient than trying to kill her allies through her healing."
         ],
         "specific_counters_81": [],
-        "specific_counters_82": [
-          "dva"
-        ],
+        "specific_counters_82": [],
         "team_comp_synergies": [
           "The best comps for ![](/data/assets/guide/c7d7f2bfb765e77e.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmercy.png)Mercy tend to be poke-heavy since she can sit back and damage boost to give her allies the advantage. Other than during ![](/data/assets/guide/7df3cd0fb86c3ebf.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fvalkyrie.png)Valkyrie, she's limited to single-target healing, so brawly team comps have the worst team synergy.",
           "The best Tanks are those that can survive without needing constant healing, and get benefits from short bursts of damage boost. Tanks like ![](/data/assets/guide/b07e1a5d33e34f21.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsigma.png)Sigma fit both of these, and he's a staple of poke compositions.",
@@ -13661,7 +13671,7 @@
             "recommended_flag": false,
             "recommended_reason": null,
             "name": "Flash Heal",
-            "description": "Flash heal can be used on Caduceus Staff's active target to restore 50 health, tripled on allies below half health.",
+            "description": "Flash Heal gains an additional charge but its base healing is reduced by 10.",
             "image": "/data/assets/perks/mercy_major_flash-heal.png"
           }
         ]
@@ -14102,9 +14112,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "dva"
-          ]
+          "content": []
         }
       ]
     },
@@ -17568,7 +17576,7 @@
           "id": "1",
           "title": "Overview",
           "content": [
-            "![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)Reinhardt may very well be the sole universally loved hero in OW. Whenever there is a meta where Rein is strong, the community generally feels pleased with the state of balance. One of the original heroes who helped define the franchise as a shield and melee hero in a first-person shooter. Everything about his game plan revolves around his shield and hammer, with the rest of his kit supplementing these two.",
+            "![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)Reinhardt may very well be the most universally loved hero in OW. Whenever there is a meta where Rein is strong, the community generally feels pleased with the state of balance. One of the original heroes who helped define the franchise as a shield and melee hero in a first-person shooter. Everything about his game plan revolves around his shield and hammer, with the rest of his kit supplementing these two.",
             "If you are returning to Overwatch or brand new, having just a single tank per team in the main 5v5 modes has greatly altered the playstyle for ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)Reinhardt. A common term thrown around in very early days was “main tank” and “off tank.” Basically, ![](/data/assets/guide/9ed520f69c65040c.svg#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Froles%2Ftank.svg)Tank heroes with shields were considered “main tanks” and those like ![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)Roadhog who didn't have a shield were considered “off tanks.”",
             "These days it is no longer ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)Reinhardt's job to just stand at the frontline and shield damage. Now he functions as front line, point presence, rush down enemy back line, and often leads his team in damage."
           ]
@@ -17980,9 +17988,9 @@
         "specific_counters_81": [],
         "specific_counters_82": [
           "ana",
-          "dva",
           "orisa",
-          "lifeweaver"
+          "lifeweaver",
+          "dva"
         ],
         "team_comp_synergies": [
           "![](/data/assets/guide/492c99cc430727c1.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Froadhog.png)Roadhog doesn't need much healing since he can heal himself more than any other hero. What he needs is allies who can fill the gaps in his kit. Heroes with long-range damage and those who can contest high ground for him make his life much easier.",
@@ -18106,7 +18114,7 @@
             "recommended_flag": false,
             "recommended_reason": null,
             "name": "Invigorate",
-            "description": "Take A Breather rapidly increases Roadhog's movement speed by 30%.",
+            "description": "Take A Breather also heals nearby allies for 50% of its healing.",
             "image": "/data/assets/perks/roadhog_major_invigorate.png"
           },
           {
@@ -18566,9 +18574,9 @@
           "title": "Specific Hero Counters names",
           "content": [
             "ana",
-            "dva",
             "orisa",
-            "lifeweaver"
+            "lifeweaver",
+            "dva"
           ]
         }
       ]
@@ -19239,7 +19247,13 @@
           "* After she uses Power Slide, quickly dive her. She won’t be able to escape and likely has low Railgun charge."
         ],
         "specific_counters_81": [],
-        "specific_counters_82": [],
+        "specific_counters_82": [
+          "genji",
+          "tracer",
+          "sombra",
+          "winston",
+          "wrecking-ball"
+        ],
         "team_comp_synergies": [
           "![](/data/assets/guide/0df66e1c25a77a79.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsojourn.png)Sojourn DPS heroes in _Overwatch_. No matter what team composition she is paired with, she can find a way to provide value. There isn't really a team archetype that Sojourn simply will not work with."
         ],
@@ -19853,7 +19867,13 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": []
+          "content": [
+            "genji",
+            "tracer",
+            "sombra",
+            "winston",
+            "wrecking-ball"
+          ]
         }
       ]
     },
@@ -21119,7 +21139,13 @@
           "* Stay out of her effective range. Primary fire and turrets both have very limited ranges, so most heroes have the advantage against Sym at medium to long range."
         ],
         "specific_counters_81": [],
-        "specific_counters_82": [],
+        "specific_counters_82": [
+          "widowmaker",
+          "hanzo",
+          "ashe",
+          "soldier-76",
+          "sojourn"
+        ],
         "team_comp_synergies": [
           "![](/data/assets/guide/85db567c48780d42.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fsymmetra.png)Symmetra has two playstyles. One is to use ![](/data/assets/guide/442047e29c6772ee.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fteleporter.png)Teleporter to flank and turret bomb the backline. The other is to play with the Tank, build charge, then melt everyone. To maximize the safety and consistency of the dive style, she needs at least one other hero who can dive with her (on their own or by using the TP).",
           "To play as a frontliner, she wants her Tank to hold the front so she can safely push up with them (e.g. ![](/data/assets/guide/bfc283f3f5c967de.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Freinhardt.png)Reinhardt, ![](/data/assets/guide/3f791ccf8b419b4a.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Framattra.png)Ramattra, ![](/data/assets/guide/452c9a51fb58d39d.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fjunker-queen.png)Junker Queen). Because she has limited range on her primary fire, she can't stand back and poke, but she also can't push up on her own.",
@@ -21705,7 +21731,13 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": []
+          "content": [
+            "widowmaker",
+            "hanzo",
+            "ashe",
+            "soldier-76",
+            "sojourn"
+          ]
         }
       ]
     },
@@ -21745,8 +21777,8 @@
           "widowmaker",
           "hanzo",
           "ashe",
-          "sojourn",
-          "soldier-76"
+          "soldier-76",
+          "sojourn"
         ],
         "team_comp_synergies": [
           "![](/data/assets/guide/954ef74e420324bc.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Ftorbjorn.png)Torbjörn is a great backline protector when he sets up ![](/data/assets/guide/5a281b66a6179e54.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fabilities%2Fdeploy-turret.png)Deploy Turret behind his Supports. Supports like ![](/data/assets/guide/3bd1f9f730a6a2ce.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fana.png)Ana, ![](/data/assets/guide/d61f1a6f760500a9.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fzenyatta.png)Zenyatta and ![](/data/assets/guide/90fbc15b3208bec3.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fmizuki.png)Mizuki who bring high value to your team, but also struggle against flankers are good choices.",
@@ -22345,8 +22377,8 @@
             "widowmaker",
             "hanzo",
             "ashe",
-            "sojourn",
-            "soldier-76"
+            "soldier-76",
+            "sojourn"
           ]
         }
       ]
@@ -24157,10 +24189,9 @@
         ],
         "specific_counters_81": [],
         "specific_counters_82": [
-          "ana",
           "doomfist",
           "ramattra",
-          "vendetta"
+          "ana"
         ],
         "team_comp_synergies": [
           "![](/data/assets/guide/55b5862f0bee17fa.png#fallback=https%3A%2F%2Fcdn.mobalytics.gg%2Fcdn-cgi%2Fimage%2Fformat%3Dauto%2Cwidth%3D96%2Fassets%2Foverwatch%2Fimages%2Fheroes%2Fwinston.png)Winston doesn't have lethal burst damage on his own. If his target is receiving healing, he generally will not be able to get an elimination. Where Winston shines is disrupting backlines and creating openings for the rest of his team to follow up on his dives.",
@@ -24745,10 +24776,9 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "ana",
             "doomfist",
             "ramattra",
-            "vendetta"
+            "ana"
           ]
         }
       ]
@@ -26725,7 +26755,7 @@
             "recommended_flag": true,
             "recommended_reason": "Recommended Major Perk",
             "name": "Hungering Blaze",
-            "description": "Heal 50 health for each enemy hit by Dancing Blaze.",
+            "description": "Increase the healing of Dancing Blaze's subsequent strikes by 25.",
             "image": "/data/assets/perks/anran_major_hungering-blaze.png"
           }
         ]
@@ -28099,7 +28129,7 @@
             "recommended_flag": true,
             "recommended_reason": "Recommended Major Perk",
             "name": "Heat Sink",
-            "description": "Direct hits with Siphon Blaster refund heat and increase its duration by 0.1 seconds.",
+            "description": "Direct hits with Siphon Blaster refunds 60% heat and increase its duration by 0.1 seconds.",
             "image": "/data/assets/perks/emre_major_heat-sink.png"
           },
           {
@@ -29782,8 +29812,8 @@
         ],
         "specific_counters_81": [],
         "specific_counters_82": [
-          "cassidy",
           "ana",
+          "cassidy",
           "orisa"
         ],
         "team_comp_synergies": [
@@ -30343,8 +30373,8 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "cassidy",
             "ana",
+            "cassidy",
             "orisa"
           ]
         }

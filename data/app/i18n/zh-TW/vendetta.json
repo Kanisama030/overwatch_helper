@@ -367,22 +367,22 @@
       "timestamp": "2026-03-26T04:23:43.153736Z"
     },
     "8.2": {
-      "title": "特定英雄反制名稱",
+      "title": "特定英雄剋制名單",
       "description": "",
       "content": [
-        "* 卡西迪",
         "* 安娜",
+        "* 卡西迪",
         "* 歐瑞莎"
       ],
-      "content_hash": "29989065ec5e",
+      "content_hash": "be2c2551065e",
       "prompt_version": "v8",
       "glossary_version": "v1",
-      "timestamp": "2026-03-26T04:23:44.628743Z"
+      "timestamp": "2026-04-16T12:25:49.679776Z"
     }
   },
   "metadata": {
     "prompt_version": "v8",
     "glossary_version": "v1",
-    "timestamp": "2026-04-02T01:08:57.725354Z"
+    "timestamp": "2026-04-16T12:25:48.221858Z"
   }
 }

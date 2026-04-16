@@ -1546,8 +1546,8 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "cassidy",
             "ana",
+            "cassidy",
             "orisa"
           ]
         }
@@ -1890,7 +1890,13 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": []
+          "content": [
+            "genji",
+            "tracer",
+            "sombra",
+            "winston",
+            "wrecking-ball"
+          ]
         }
       ]
     },
@@ -3533,10 +3539,9 @@
           "id": "8.2",
           "title": "Specific Hero Counters names",
           "content": [
-            "ana",
             "doomfist",
             "ramattra",
-            "vendetta"
+            "ana"
           ]
         }
       ]
@@ -3863,9 +3868,9 @@
           "title": "Specific Hero Counters names",
           "content": [
             "ana",
-            "dva",
             "orisa",
-            "lifeweaver"
+            "lifeweaver",
+            "dva"
           ]
         }
       ]
@@ -5440,7 +5445,13 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": []
+          "content": [
+            "widowmaker",
+            "hanzo",
+            "ashe",
+            "soldier-76",
+            "sojourn"
+          ]
         }
       ]
     },
@@ -7626,7 +7637,7 @@
           "id": "1",
           "title": "Overview",
           "content": [
-            "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reinhardt.png)Reinhardt may very well be the sole universally loved hero in OW. Whenever there is a meta where Rein is strong, the community generally feels pleased with the state of balance. One of the original heroes who helped define the franchise as a shield and melee hero in a first-person shooter. Everything about his game plan revolves around his shield and hammer, with the rest of his kit supplementing these two.",
+            "![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reinhardt.png)Reinhardt may very well be the most universally loved hero in OW. Whenever there is a meta where Rein is strong, the community generally feels pleased with the state of balance. One of the original heroes who helped define the franchise as a shield and melee hero in a first-person shooter. Everything about his game plan revolves around his shield and hammer, with the rest of his kit supplementing these two.",
             "If you are returning to Overwatch or brand new, having just a single tank per team in the main 5v5 modes has greatly altered the playstyle for ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reinhardt.png)Reinhardt. A common term thrown around in very early days was “main tank” and “off tank.” Basically, ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/roles/tank.svg)Tank heroes with shields were considered “main tanks” and those like ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/roadhog.png)Roadhog who didn't have a shield were considered “off tanks.”",
             "These days it is no longer ![](https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/overwatch/images/heroes/reinhardt.png)Reinhardt's job to just stand at the frontline and shield damage. Now he functions as front line, point presence, rush down enemy back line, and often leads his team in damage."
           ]
@@ -10939,7 +10950,13 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": []
+          "content": [
+            "pharah",
+            "widowmaker",
+            "ashe",
+            "cassidy",
+            "soldier-76"
+          ]
         }
       ]
     },
@@ -12483,8 +12500,8 @@
             "widowmaker",
             "hanzo",
             "ashe",
-            "sojourn",
-            "soldier-76"
+            "soldier-76",
+            "sojourn"
           ]
         }
       ]
@@ -13435,9 +13452,7 @@
         {
           "id": "8.2",
           "title": "Specific Hero Counters names",
-          "content": [
-            "dva"
-          ]
+          "content": []
         }
       ]
     },
